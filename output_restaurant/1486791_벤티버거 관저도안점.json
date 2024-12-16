@@ -1,0 +1,14 @@
+{
+    "store_name": "벤티버거 관저도안점",
+    "store_location": "대전 서구 관저동로 70 1층 104호",
+    "loc_x": "230558.027399348",
+    "loc_y": "310889.712087655",
+    "menu": [
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241121_224%2F1732179479968Q7LQV_JPEG%2F%25B7%25CE%25B0%25ED.jpg",
+            "menu_name": "벤티버거",
+            "price": "6,000원"
+        }
+    ]
+}

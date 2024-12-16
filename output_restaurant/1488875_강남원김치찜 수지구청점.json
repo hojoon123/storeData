@@ -1,0 +1,128 @@
+{
+    "store_name": "강남원김치찜 수지구청점",
+    "store_location": "경기 용인시 수지구 수지로342번길 34 1층",
+    "loc_x": "208519.648311734",
+    "loc_y": "424833.354561299",
+    "menu": [
+        {
+            "category": "사장님 추천 메뉴",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20241106_152/1730877802816qxrHY_JPEG/image.jpg?type=f220_220_60_sharpen",
+            "menu_name": "소고기전골대표",
+            "price": "42,000원"
+        },
+        {
+            "category": "사장님 추천 메뉴",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20241106_206/1730877815959uKj8b_JPEG/image%281%29.jpg?type=f220_220_60_sharpen",
+            "menu_name": "돼지묵은지찌개대표",
+            "price": "9,000원"
+        },
+        {
+            "category": "사장님 추천 메뉴",
+            "img_src": "",
+            "menu_name": "참치묵은지찌개대표",
+            "price": "9,000원"
+        },
+        {
+            "category": "사장님 추천 메뉴",
+            "img_src": "",
+            "menu_name": "부대묵은지찌개대표",
+            "price": "10,000원"
+        },
+        {
+            "category": "사장님 추천 메뉴",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20241106_5/1730878007821t3hWL_JPEG/image%282%29.jpg?type=f220_220_60_sharpen",
+            "menu_name": "목살 묵은지찜대표",
+            "price": "25,000원"
+        },
+        {
+            "category": "메뉴",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20241106_5/1730878007821t3hWL_JPEG/image%282%29.jpg?type=f220_220_60_sharpen",
+            "menu_name": "목살 묵은지찜대표",
+            "price": "25,000원"
+        },
+        {
+            "category": "메뉴",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20241106_134/1730878027637Nkz0e_PNG/image%283%29.png?type=f220_220_60_sharpen",
+            "menu_name": "삼겹 묵은지찜",
+            "price": "25,000원"
+        },
+        {
+            "category": "메뉴",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20241106_206/1730877815959uKj8b_JPEG/image%281%29.jpg?type=f220_220_60_sharpen",
+            "menu_name": "돼지묵은지찌개대표",
+            "price": "9,000원"
+        },
+        {
+            "category": "메뉴",
+            "img_src": "",
+            "menu_name": "참치묵은지찌개대표",
+            "price": "9,000원"
+        },
+        {
+            "category": "메뉴",
+            "img_src": "",
+            "menu_name": "부대묵은지찌개대표",
+            "price": "10,000원"
+        },
+        {
+            "category": "메뉴",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20241106_152/1730877802816qxrHY_JPEG/image.jpg?type=f220_220_60_sharpen",
+            "menu_name": "소고기전골대표",
+            "price": "42,000원"
+        },
+        {
+            "category": "메뉴",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20241106_255/1730877825591hbkoe_JPEG/image%284%29.jpg?type=f220_220_60_sharpen",
+            "menu_name": "삼겹수육",
+            "price": "15,000원"
+        },
+        {
+            "category": "사이드",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20241106_132/1730877833938yw8so_PNG/image%285%29.png?type=f220_220_60_sharpen",
+            "menu_name": "표고실크계란찜",
+            "price": "3,500원"
+        },
+        {
+            "category": "사이드",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20241106_78/1730877839580Rxfjm_PNG/image%286%29.png?type=f220_220_60_sharpen",
+            "menu_name": "모두부",
+            "price": "5,000원"
+        },
+        {
+            "category": "사이드",
+            "img_src": "",
+            "menu_name": "라면사리",
+            "price": "1,000원"
+        },
+        {
+            "category": "사이드",
+            "img_src": "",
+            "menu_name": "대접밥",
+            "price": "2,000원"
+        },
+        {
+            "category": "사이드",
+            "img_src": "",
+            "menu_name": "공깃밥",
+            "price": "1,000원"
+        },
+        {
+            "category": "사이드",
+            "img_src": "",
+            "menu_name": "아메리카노",
+            "price": "1,000원"
+        },
+        {
+            "category": "사이드",
+            "img_src": "",
+            "menu_name": "음료",
+            "price": "2,000원"
+        },
+        {
+            "category": "사이드",
+            "img_src": "",
+            "menu_name": "주류",
+            "price": "4,000원"
+        }
+    ]
+}

@@ -1,0 +1,86 @@
+{
+    "store_name": "남매컵밥 상남점",
+    "store_location": "경남 창원시 성산구 단정로 10 1층 103호",
+    "loc_x": "353028.963441148",
+    "loc_y": "192555.58294076",
+    "menu": [
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241130_161%2F1732958723153nRWWz_JPEG%2F1.%25C2%25FC%25C4%25A1%25B1%25E8%25C4%25A1ZST_5782.jpg",
+            "menu_name": "참치김치",
+            "price": "4,900원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241130_123%2F17329587427787gUbf_JPEG%2F2.%25B0%25E8%25B6%25F5%25BA%25FC%25BA%25FCZST_5791.jpg",
+            "menu_name": "계란빠빠",
+            "price": "4,900원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241130_133%2F1732958759540tmt8W_JPEG%2F3.%25C1%25A6%25C0%25B0%25BA%25BA%25C0%25BD_ZST_5798.jpg",
+            "menu_name": "근본제육",
+            "price": "5,900원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241130_42%2F1732958774097Aadx4_JPEG%2F4.%25BF%25C0%25B8%25AE%25C4%25C5%25B9%25E4_ZST_5805.jpg",
+            "menu_name": "오리훈제",
+            "price": "5,900원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241130_231%2F173295922016492UnK_JPEG%2F5.%25B6%25B1%25B0%25A5%25BA%25F1%25C4%25C5%25B9%25E4_ZST_5811.jpg",
+            "menu_name": "으뜸떡갈비",
+            "price": "5,900원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241130_295%2F1732959236410YK4TR_JPEG%2F6.%25BB%25EF%25B0%25E3%25C4%25C5%25B9%25E4_ZST_5816.jpg",
+            "menu_name": "직화삼겹",
+            "price": "5,900원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241130_249%2F17329592529535t8SY_JPEG%2F10.%25C1%25B7%25B9%25DF%25C4%25C5%25B9%25E4_ZST_5839.jpg",
+            "menu_name": "매콤족발",
+            "price": "6,900원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241130_33%2F1732959284059pEBqz_JPEG%2F7.%25C4%25A1%25C5%25B2%25B8%25B6%25BF%25E4%25C4%25C5%25B9%25E4_ZST_5827.jpg",
+            "menu_name": "치킨마요",
+            "price": "5,900원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241130_69%2F1732959301614WMMIQ_JPEG%2F8.%25BD%25BA%25C6%25D4%25C2%25FC%25C4%25A1%25B8%25B6%25BF%25E4_ZST_5832.jpg",
+            "menu_name": "리챔참치마요",
+            "price": "5,900원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241130_155%2F1732959316859GN2Ta_JPEG%2F9.%25BD%25B4%25B7%25B9%25B5%25E5%25C4%25DC%25C4%25A1%25C1%25EE_ZST_5871.jpg",
+            "menu_name": "슈레드콘치즈",
+            "price": "6,900원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241130_8%2F1732959331172j7BHf_JPEG%2F11.%25C5%25A5%25BA%25EA%25BD%25BA%25C5%25D7%25C0%25CC%25C5%25A9ZST_5845.jpg",
+            "menu_name": "큐브스테이크",
+            "price": "7,900원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241130_167%2F1732959356714EKOW1_JPEG%2F13.%25B1%25E8%25C4%25A1%25BA%25BA%25C0%25BD%25B9%25E4_ZST_5862.jpg",
+            "menu_name": "김치볶음밥",
+            "price": "5,900원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241130_195%2F17329593437283cYdr_JPEG%2F12.%25BB%25F5%25BF%25EC%25BA%25BA%25C0%25BD%25B9%25E4_ZST_5854.jpg",
+            "menu_name": "새우볶음밥",
+            "price": "5,900원"
+        }
+    ]
+}

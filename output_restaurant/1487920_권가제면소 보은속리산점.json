@@ -1,0 +1,104 @@
+{
+    "store_name": "권가제면소 보은속리산점",
+    "store_location": "충북 보은군 속리산면 법주사로 262-1 1층",
+    "loc_x": "273527.147101536",
+    "loc_y": "337017.423392624",
+    "menu": [
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20231206_185%2F1701837160963AraxF_JPEG%2FIMG_5758.jpg",
+            "menu_name": "새우튀김우동",
+            "price": "9,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20231206_136%2F17018372378889T5xU_JPEG%2FIMG_5760.jpg",
+            "menu_name": "유부우동",
+            "price": "9,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20231206_182%2F17018372784916IoKN_JPEG%2FIMG_5764.jpg",
+            "menu_name": "불고기우동(매운맛,순한맛)",
+            "price": "12,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20231206_175%2F1701837308743425Pl_JPEG%2FIMG_5769.jpg",
+            "menu_name": "치쿠타마붓카케우동",
+            "price": "12,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20231206_176%2F1701837348191EM4JG_JPEG%2FIMG_5771.jpg",
+            "menu_name": "자루우동",
+            "price": "9,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20231206_74%2F1701837436231z150i_JPEG%2FIMG_5724.jpg",
+            "menu_name": "냉우동",
+            "price": "9,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20231206_266%2F17018375303783n6VA_JPEG%2FIMG_5723.jpg",
+            "menu_name": "소바(냉모밀)",
+            "price": "9,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20231206_224%2F1701837562880jyKgm_JPEG%2FIMG_5731.jpg",
+            "menu_name": "자루소바(판모밀)",
+            "price": "10,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20231206_239%2F1701837634919rEAQL_JPEG%2FIMG_5789.jpg",
+            "menu_name": "수제등심돈가츠",
+            "price": "12,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20231206_37%2F1701837651846vi5Ik_JPEG%2FIMG_5787.jpg",
+            "menu_name": "치즈돈가츠",
+            "price": "13,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20231206_266%2F17018378659152hjnY_JPEG%2FIMG_5785.jpg",
+            "menu_name": "수제치킨가츠",
+            "price": "12,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20231206_142%2F1701837599300bbO3c_JPEG%2FIMG_5779.jpg",
+            "menu_name": "나베우동(동절기한정 10월~3월)",
+            "price": "14,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20231206_70%2F1701837726708qba1A_JPEG%2F%25BC%25F6%25C1%25A6%25BB%25F5%25BF%25EC%25C6%25A2%25B1%25E8.jpg",
+            "menu_name": "수제새우튀김",
+            "price": "변동"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20231206_75%2F1701837763850U5uJo_JPEG%2FIMG_5773.jpg",
+            "menu_name": "치쿠와오뎅튀김",
+            "price": "5,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20231206_288%2F1701837787273voqTx_JPEG%2FIMG_5777.jpg",
+            "menu_name": "반숙계란튀김",
+            "price": "2,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20231206_250%2F1701837846358zM4S3_JPEG%2FIMG_5804.jpg",
+            "menu_name": "간장계란밥",
+            "price": "2,500원"
+        }
+    ]
+}

@@ -1,0 +1,140 @@
+{
+    "store_name": "냠냠분식",
+    "store_location": "경기 고양시 덕양구 향기로 119",
+    "loc_x": "190566.60434071",
+    "loc_y": "455345.355356615",
+    "menu": [
+        {
+            "category": "대표메뉴",
+            "img_src": "",
+            "menu_name": "냠냠김밥",
+            "price": "4,000원"
+        },
+        {
+            "category": "대표메뉴",
+            "img_src": "",
+            "menu_name": "충무김밥",
+            "price": "8,500원"
+        },
+        {
+            "category": "대표메뉴",
+            "img_src": "",
+            "menu_name": "참치김밥",
+            "price": "5,000원"
+        },
+        {
+            "category": "대표메뉴",
+            "img_src": "",
+            "menu_name": "돈가스 떡볶이",
+            "price": "8,500원"
+        },
+        {
+            "category": "대표메뉴",
+            "img_src": "",
+            "menu_name": "순대(내장 없이 순대만)",
+            "price": "5,500원"
+        },
+        {
+            "category": "김밥",
+            "img_src": "",
+            "menu_name": "냠냠김밥",
+            "price": "4,000원"
+        },
+        {
+            "category": "김밥",
+            "img_src": "",
+            "menu_name": "충무김밥",
+            "price": "8,500원"
+        },
+        {
+            "category": "김밥",
+            "img_src": "",
+            "menu_name": "참치김밥",
+            "price": "5,000원"
+        },
+        {
+            "category": "김밥",
+            "img_src": "",
+            "menu_name": "치즈김밥",
+            "price": "5,000원"
+        },
+        {
+            "category": "김밥",
+            "img_src": "",
+            "menu_name": "돈가스김밥",
+            "price": "5,500원"
+        },
+        {
+            "category": "김밥",
+            "img_src": "",
+            "menu_name": "떡갈비김밥",
+            "price": "5,500원"
+        },
+        {
+            "category": "김밥",
+            "img_src": "",
+            "menu_name": "꼬마김밥(5개)",
+            "price": "3,500원"
+        },
+        {
+            "category": "떡볶이",
+            "img_src": "",
+            "menu_name": "돈가스 떡볶이",
+            "price": "8,500원"
+        },
+        {
+            "category": "떡볶이",
+            "img_src": "",
+            "menu_name": "순대(내장 없이 순대만)",
+            "price": "5,500원"
+        },
+        {
+            "category": "떡볶이",
+            "img_src": "",
+            "menu_name": "떡볶이",
+            "price": "4,000원"
+        },
+        {
+            "category": "떡볶이",
+            "img_src": "",
+            "menu_name": "즉석 떡볶이(2인) /비조리(2인분)",
+            "price": "14,000원"
+        },
+        {
+            "category": "떡볶이",
+            "img_src": "",
+            "menu_name": "김말이(3개)",
+            "price": "2,500원"
+        },
+        {
+            "category": "떡볶이",
+            "img_src": "",
+            "menu_name": "야끼만두(3개)",
+            "price": "2,500원"
+        },
+        {
+            "category": "떡볶이",
+            "img_src": "",
+            "menu_name": "라볶이(1인분)",
+            "price": "6,000원"
+        },
+        {
+            "category": "떡볶이",
+            "img_src": "",
+            "menu_name": "쫄볶이(1인분)",
+            "price": "6,500원"
+        },
+        {
+            "category": "볶음밥",
+            "img_src": "",
+            "menu_name": "김치볶음밥",
+            "price": "7,500원"
+        },
+        {
+            "category": "볶음밥",
+            "img_src": "",
+            "menu_name": "치킨데리야끼볶음밥",
+            "price": "7,500원"
+        }
+    ]
+}

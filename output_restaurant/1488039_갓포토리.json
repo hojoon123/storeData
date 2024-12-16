@@ -1,0 +1,26 @@
+{
+    "store_name": "갓포토리",
+    "store_location": "경기 수원시 영통구 센트럴타운로 107 204동 b1-006호",
+    "loc_x": "204219.521658448",
+    "loc_y": "421105.173167299",
+    "menu": [
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240730_170%2F1722349323682X5G72_JPEG%2F3%25B9%25F8%25C6%25C4%25C0%25CF.jpg",
+            "menu_name": "토리 코스",
+            "price": "30,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240730_284%2F1722349354933hlgDj_JPEG%2F3%25B9%25F8%25C6%25C4%25C0%25CF.jpg",
+            "menu_name": "토리 쇼츠 코스",
+            "price": "16,500원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240730_167%2F1722349381207a1LUR_JPEG%2F%25C3%25DF%25B0%25A1%25B8%25DE%25B4%25BA%25C6%25C71.jpg",
+            "menu_name": "야키토리",
+            "price": "변동"
+        }
+    ]
+}

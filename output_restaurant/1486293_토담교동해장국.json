@@ -1,0 +1,14 @@
+{
+    "store_name": "토담교동해장국",
+    "store_location": "경북 경주시 건천읍 내서로 1097",
+    "loc_x": "389844.443207348",
+    "loc_y": "263215.185237537",
+    "menu": [
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240226_72%2F1708932919991Qmz00_JPEG%2FIMG_1669.jpeg",
+            "menu_name": "정통몽글순두부",
+            "price": "9,000원"
+        }
+    ]
+}

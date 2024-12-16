@@ -1,0 +1,50 @@
+{
+    "store_name": "미래추어탕",
+    "store_location": "경남 거제시 사등면 덕호해안길 9 1층",
+    "loc_x": "334969.23336799",
+    "loc_y": "154824.342425645",
+    "menu": [
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20210126_244%2F1611638155634737fw_JPEG%2FRjiFWC96409-A-MFnPay6rq1.jpeg.jpg",
+            "menu_name": "추어탕",
+            "price": "10,000원"
+        },
+        {
+            "category": "",
+            "img_src": "",
+            "menu_name": "추어탕 포장(반찬없이 추어탕을 푸짐하게)",
+            "price": "13,000원"
+        },
+        {
+            "category": "",
+            "img_src": "",
+            "menu_name": "생선구이정식",
+            "price": "15,000원"
+        },
+        {
+            "category": "",
+            "img_src": "",
+            "menu_name": "낙삼볶음정식",
+            "price": "15,000원"
+        },
+        {
+            "category": "",
+            "img_src": "",
+            "menu_name": "순두부정식",
+            "price": "10,000원"
+        },
+        {
+            "category": "",
+            "img_src": "",
+            "menu_name": "오리불고기",
+            "price": "55,000원"
+        },
+        {
+            "category": "",
+            "img_src": "",
+            "menu_name": "생삼겹살",
+            "price": "13,000원"
+        }
+    ]
+}

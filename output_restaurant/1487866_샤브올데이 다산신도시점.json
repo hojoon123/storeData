@@ -1,0 +1,62 @@
+{
+    "store_name": "샤브올데이 다산신도시점",
+    "store_location": "경기 남양주시 다산중앙로146번길 18 3층 303, 304, 305호",
+    "loc_x": "213561.817965583",
+    "loc_y": "458161.719662022",
+    "menu": [
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240213_239%2F1707797539695UNJix_PNG%2F%25BD%25BA%25C5%25A9%25B8%25B0%25BC%25A6_2024-02-13_125531.png",
+            "menu_name": "평일점심(고기무제한)",
+            "price": "23,900원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240213_206%2F1707797548170IytGO_PNG%2F%25BD%25BA%25C5%25A9%25B8%25B0%25BC%25A6_2024-02-13_125423.png",
+            "menu_name": "평일저녁(고기무제한)",
+            "price": "28,900원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240213_238%2F1707797555225QJtR7_PNG%2F%25BD%25BA%25C5%25A9%25B8%25B0%25BC%25A6_2024-02-13_125621.png",
+            "menu_name": "주말 및 공휴일(고기무제한)",
+            "price": "28,900원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240213_8%2F1707797565152nUMNJ_PNG%2F%25BD%25BA%25C5%25A9%25B8%25B0%25BC%25A6_2024-02-13_125515.png",
+            "menu_name": "다양한 샐러드바 무제한 제공!",
+            "price": "무료"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240213_43%2F1707797579774KgBMP_PNG%2F%25BD%25BA%25C5%25A9%25B8%25B0%25BC%25A6_2024-02-13_125407.png",
+            "menu_name": "품질좋은 소고기 무제한 제공!",
+            "price": "무료"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240213_267%2F1707797585544qLMCC_PNG%2F%25BD%25BA%25C5%25A9%25B8%25B0%25BC%25A6_2024-02-13_125546.png",
+            "menu_name": "신선한 월남쌈 무제한 제공!",
+            "price": "무료"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241211_167%2F1733895032419LunIa_PNG%2F%25B8%25AE%25B9%25F6%25BD%25BA%25C5%25C7_%25B8%25C6%25C1%25D6_%25B9%25AB%25C1%25A6%25C7%25D1_%25C1%25A6%25B0%25F8.png",
+            "menu_name": "리버스탭 맥주 무제한 제공!",
+            "price": "무료"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240213_114%2F1707797591410BC0AL_PNG%2F%25BD%25BA%25C5%25A9%25B8%25B0%25BC%25A6_2024-02-13_125441.png",
+            "menu_name": "초등학생",
+            "price": "13,900원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240213_69%2F1707797603195C6LbM_PNG%2F%25BD%25BA%25C5%25A9%25B8%25B0%25BC%25A6_2024-02-13_125657.png",
+            "menu_name": "미취학아동(36개월~7세)",
+            "price": "6,900원"
+        }
+    ]
+}

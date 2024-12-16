@@ -1,0 +1,224 @@
+{
+    "store_name": "가장맛있는치킨 쌍용점",
+    "store_location": "충남 천안시 동남구 다가말2길 70 111동1층 1101호",
+    "loc_x": "212427.268539937",
+    "loc_y": "366210.215496067",
+    "menu": [
+        {
+            "category": "대표메뉴",
+            "img_src": "",
+            "menu_name": "((1.5km무료배달+쿠펀))매콤바삭 후라이드",
+            "price": "17,000원"
+        },
+        {
+            "category": "대표메뉴",
+            "img_src": "",
+            "menu_name": "내맘대로 반반",
+            "price": "17,000원"
+        },
+        {
+            "category": "대표메뉴",
+            "img_src": "",
+            "menu_name": "가성비 두마리세트",
+            "price": "29,000원"
+        },
+        {
+            "category": "대표메뉴",
+            "img_src": "",
+            "menu_name": "다리 후라이드(10p)",
+            "price": "20,000원"
+        },
+        {
+            "category": "대표메뉴",
+            "img_src": "",
+            "menu_name": "매콤바삭 후라이드(반마리)((콜라미포함))",
+            "price": "11,500원"
+        },
+        {
+            "category": "대표메뉴",
+            "img_src": "",
+            "menu_name": "1인세트(반마리 + 사이드메뉴 +코카콜라 500ml)",
+            "price": "17,000원"
+        },
+        {
+            "category": "가장 맛있는 한마리치킨",
+            "img_src": "",
+            "menu_name": "((1.5km무료배달+쿠펀))매콤바삭 후라이드",
+            "price": "17,000원"
+        },
+        {
+            "category": "가장 맛있는 한마리치킨",
+            "img_src": "",
+            "menu_name": "내맘대로 반반",
+            "price": "17,000원"
+        },
+        {
+            "category": "가장 맛있는 한마리치킨",
+            "img_src": "",
+            "menu_name": "새콤달콤 양념치킨",
+            "price": "18,000원"
+        },
+        {
+            "category": "가장 맛있는 한마리치킨",
+            "img_src": "",
+            "menu_name": "화끈매콤 매운양념",
+            "price": "18,000원"
+        },
+        {
+            "category": "가장 맛있는 한마리치킨",
+            "img_src": "",
+            "menu_name": "단짠단짠 간장치킨",
+            "price": "18,000원"
+        },
+        {
+            "category": "가장 맛있는 한마리치킨",
+            "img_src": "",
+            "menu_name": "화끈단짠 매운간장",
+            "price": "18,000원"
+        },
+        {
+            "category": "가장 맛있는 한마리치킨",
+            "img_src": "",
+            "menu_name": "눈꽃뿌링 치즈치킨",
+            "price": "18,000원"
+        },
+        {
+            "category": "가장 맛있는 한마리치킨",
+            "img_src": "",
+            "menu_name": "다리 후라이드(10p)",
+            "price": "20,000원"
+        },
+        {
+            "category": "가장 맛있는 한마리치킨",
+            "img_src": "",
+            "menu_name": "윙봉 후라이드(10p)",
+            "price": "20,000원"
+        },
+        {
+            "category": "가장 맛있는 한마리치킨",
+            "img_src": "",
+            "menu_name": "반반치킨",
+            "price": "18,000원"
+        },
+        {
+            "category": "가성비 두마리세트",
+            "img_src": "",
+            "menu_name": "가성비 두마리세트",
+            "price": "29,000원"
+        },
+        {
+            "category": "가장 맛있는 1인세트",
+            "img_src": "",
+            "menu_name": "1인세트(반마리 + 사이드메뉴 +코카콜라 500ml)",
+            "price": "17,000원"
+        },
+        {
+            "category": "가장 맛있는 3가지맛 세트",
+            "img_src": "",
+            "menu_name": "[한마리반] 3가지맛 세트",
+            "price": "25,000원"
+        },
+        {
+            "category": "가장 맛있는 반마리치킨",
+            "img_src": "",
+            "menu_name": "매콤바삭 후라이드(반마리)((콜라미포함))",
+            "price": "11,500원"
+        },
+        {
+            "category": "가장 맛있는 반마리치킨",
+            "img_src": "",
+            "menu_name": "새콤달콤 양념치킨(반마리)((콜라미포함))",
+            "price": "12,000원"
+        },
+        {
+            "category": "가장 맛있는 반마리치킨",
+            "img_src": "",
+            "menu_name": "화끈매콤 매운양념(반마리)((콜라미포함))",
+            "price": "12,000원"
+        },
+        {
+            "category": "가장 맛있는 반마리치킨",
+            "img_src": "",
+            "menu_name": "단짠단짠 간장치킨(반마리)((콜라미포함))",
+            "price": "12,000원"
+        },
+        {
+            "category": "가장 맛있는 반마리치킨",
+            "img_src": "",
+            "menu_name": "화끈단짠 매운간장(반마리)((콜라미포함))",
+            "price": "12,000원"
+        },
+        {
+            "category": "가장 맛있는 반마리치킨",
+            "img_src": "",
+            "menu_name": "눈꽃뿌링 치즈치킨(반마리)((콜라미포함))",
+            "price": "12,000원"
+        },
+        {
+            "category": "사이드메뉴",
+            "img_src": "",
+            "menu_name": "치즈볼(4p)",
+            "price": "3,000원"
+        },
+        {
+            "category": "사이드메뉴",
+            "img_src": "",
+            "menu_name": "소떡소떡",
+            "price": "3,000원"
+        },
+        {
+            "category": "사이드메뉴",
+            "img_src": "",
+            "menu_name": "멘보샤(4p)",
+            "price": "4,000원"
+        },
+        {
+            "category": "사이드메뉴",
+            "img_src": "",
+            "menu_name": "미니 핫도그(4p)",
+            "price": "4,000원"
+        },
+        {
+            "category": "사이드메뉴",
+            "img_src": "",
+            "menu_name": "미니 김말이(8p)",
+            "price": "3,000원"
+        },
+        {
+            "category": "음료수 및 추가메뉴",
+            "img_src": "",
+            "menu_name": "치킨무",
+            "price": "500원"
+        },
+        {
+            "category": "음료수 및 추가메뉴",
+            "img_src": "",
+            "menu_name": "디핑소스",
+            "price": "500원"
+        },
+        {
+            "category": "음료수 및 추가메뉴",
+            "img_src": "",
+            "menu_name": "코카콜라(500ml)",
+            "price": "2,000원"
+        },
+        {
+            "category": "음료수 및 추가메뉴",
+            "img_src": "",
+            "menu_name": "코카콜라(1.25ml)",
+            "price": "3,000원"
+        },
+        {
+            "category": "음료수 및 추가메뉴",
+            "img_src": "",
+            "menu_name": "코카콜라제로(500ml)",
+            "price": "2,000원"
+        },
+        {
+            "category": "음료수 및 추가메뉴",
+            "img_src": "",
+            "menu_name": "코카콜라제로(1.25L)",
+            "price": "3,000원"
+        }
+    ]
+}

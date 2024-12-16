@@ -1,0 +1,80 @@
+{
+    "store_name": "달밑",
+    "store_location": "울산 남구 신정로40번길 18 1층",
+    "loc_x": "410701.184711757",
+    "loc_y": "228732.135506928",
+    "menu": [
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241215_86%2F1734195756227a7vNb_JPEG%2FIMG_0191.jpeg",
+            "menu_name": "1+2+한우소갈비살(100g)",
+            "price": "12,900원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241215_263%2F1734195329559yS5kO_JPEG%2FIMG_9215.jpeg",
+            "menu_name": "돼지모듬구이(100g)",
+            "price": "6,900원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241215_241%2F1734196227935Em0ng_JPEG%2FIMG_0172.jpeg",
+            "menu_name": "한우뒷고기(100g)",
+            "price": "12,900원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241215_68%2F1734196405527l85ID_JPEG%2FIMG_0392.jpeg",
+            "menu_name": "육회(150g)",
+            "price": "9,900원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241215_11%2F17341954182603B6mA_JPEG%2FIMG_9223.jpeg",
+            "menu_name": "벌집 양념껍데기(170g)",
+            "price": "6,900원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240111_123%2F1704944186523GtDPc_JPEG%2FKakaoTalk_20240111_122420036_03.jpg",
+            "menu_name": "해물된장찌개(소)",
+            "price": "3,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240111_8%2F1704944116616LvwlK_JPEG%2FKakaoTalk_20240111_122420036.jpg",
+            "menu_name": "비빔국수",
+            "price": "5,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240111_200%2F17049441455825kJ2M_JPEG%2FKakaoTalk_20240111_122420036_01.jpg",
+            "menu_name": "치즈계란찜",
+            "price": "4,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240111_206%2F1704944174751kvACV_JPEG%2FKakaoTalk_20240111_122420036_02.jpg",
+            "menu_name": "오징어젓갈 돌솥비빔밥",
+            "price": "6,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240112_117%2F1705050405031M4RUr_JPEG%2F%25B9%25B0%25B3%25C3.jpg",
+            "menu_name": "물냉면",
+            "price": "5,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240112_2%2F1705050426059Y77RC_JPEG%2F%25BA%25F1%25B3%25C3.jpg",
+            "menu_name": "비빔냉면",
+            "price": "5,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240201_80%2F1706763612893iGF82_JPEG%2FKakaoTalk_20240201_135924624.jpg",
+            "menu_name": "짐빔 하이볼",
+            "price": "5,000원"
+        }
+    ]
+}

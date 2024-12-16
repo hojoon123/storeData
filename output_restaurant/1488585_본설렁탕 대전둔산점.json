@@ -1,0 +1,122 @@
+{
+    "store_name": "본설렁탕 대전둔산점",
+    "store_location": "대전 서구 둔산중로134번길 39 1층 104호",
+    "loc_x": "234851.48",
+    "loc_y": "317645.430000001",
+    "menu": [
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241006_13%2F1728223831080LwVo7_JPEG%2F2405_%25C7%25D1%25BF%25EC%25BB%25E7%25B0%25F1%25BC%25B3%25B7%25B7%25C5%25C1_%25B3%25D7%25C0%25CC%25B9%25F6.jpg",
+            "menu_name": "한우사골 설렁탕",
+            "price": "12,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241006_58%2F1728223742407CvX3o_JPEG%2F2405_%25BC%25D2%25B0%25ED%25B1%25E2%25B9%25AB%25B1%25B9%25B9%25E4_%25B3%25D7%25C0%25CC%25B9%25F6.jpg",
+            "menu_name": "한우사골 소고기무국밥",
+            "price": "9,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241006_138%2F1728223675155PkgT2_JPEG%2F2405_%25BC%25D2%25B8%25D3%25B8%25AE%25B1%25B9%25B9%25E4_%25B3%25D7%25C0%25CC%25B9%25F6.jpg",
+            "menu_name": "한우사골 소머리국밥",
+            "price": "13,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241006_164%2F1728223663494zYKIK_JPEG%2F2405_%25BC%25F8%25B4%25EB%25B1%25B9%25B9%25E4_%25B3%25D7%25C0%25CC%25B9%25F6.jpg",
+            "menu_name": "한우사골순대국밥",
+            "price": "10,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241107_167%2F1730939554947IOalg_JPEG%2F%25C0%25B0%25C8%25B8%25BA%25F1%25BA%25F6%25B9%25E4.jpg",
+            "menu_name": "육회비빔밥",
+            "price": "13,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241107_156%2F1730938553489aoKuf_JPEG%2F%25BC%25D2%25B0%25ED%25B1%25E2%25B9%25AB%25B1%25B9%25B9%25E4%252B%25B9%25CC%25B4%25CF%25BB%25E7%25C5%25C2%25BC%25F6%25C0%25B0-.jpg",
+            "menu_name": "소고기무국밥+미니사태수육",
+            "price": "14,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241006_114%2F1728223600862euSDe_JPEG%2F2405_%25B9%25CC%25B3%25AA%25B8%25AE%25C6%25C4%25C0%25FC_%25B3%25D7%25C0%25CC%25B9%25F6.jpg",
+            "menu_name": "오징어볶음을 싸먹는 미나리파전",
+            "price": "13,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241006_120%2F1728223584411DNVtB_JPEG%2F2405_%25BC%25F6%25C0%25B0%25C0%25FC%25B0%25F1_%25B3%25D7%25C0%25CC%25B9%25F6.jpg",
+            "menu_name": "미나리 수육전골",
+            "price": "38,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241006_175%2F1728223802965hzoiB_JPEG%2F2405_%25C7%25D1%25BF%25EC%25BB%25E7%25B0%25F1%25BC%25B3%25B7%25B7%25C5%25C1_%25B3%25D7%25C0%25CC%25B9%25F6.jpg",
+            "menu_name": "[고기곱빼기] 한우사골 설렁탕",
+            "price": "15,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241006_34%2F1728223781115mCsdD_JPEG%2F2405_%25BE%25F3%25C5%25AB%25C7%25D1%25BF%25EC%25BB%25E7%25B0%25F1%25BC%25B3%25B7%25B7%25C5%25C1_%25B3%25D7%25C0%25CC%25B9%25F6.jpg",
+            "menu_name": "한우사골 얼큰설렁탕",
+            "price": "12,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241006_157%2F1728223763503urVtL_JPEG%2F2405_%25BE%25F3%25C5%25AB%25C7%25D1%25BF%25EC%25BB%25E7%25B0%25F1%25BC%25B3%25B7%25B7%25C5%25C1_%25B3%25D7%25C0%25CC%25B9%25F6.jpg",
+            "menu_name": "[고기곱빼기] 한우사골 얼큰설렁탕",
+            "price": "15,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241006_40%2F1728223691248SVR9X_JPEG%2F2405_%25BC%25D2%25B8%25D3%25B8%25AE%25B1%25B9%25B9%25E4_%25B3%25D7%25C0%25CC%25B9%25F6.jpg",
+            "menu_name": "[고기곱빼기] 한우사골 소머리국밥",
+            "price": "16,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241006_129%2F1728223652233JuyWc_JPEG%2F2405_%25BE%25F3%25C5%25AB%25BC%25F8%25B4%25EB%25B1%25B9%25B9%25E4_%25B3%25D7%25C0%25CC%25B9%25F6.jpg",
+            "menu_name": "한우사골 얼큰순대국밥",
+            "price": "10,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241006_57%2F17282236381775egaR_JPEG%2F%25BF%25D5%25B8%25B8%25B5%25CE%25BC%25B3%25B7%25B7%25C5%25C1_%25B3%25D7%25C0%25CC%25B9%25F6.jpg",
+            "menu_name": "한우사골 왕만두설렁탕",
+            "price": "11,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241006_87%2F1728223622730xoCdz_JPEG%2F%25BE%25F3%25C5%25AB%25BF%25D5%25B8%25B8%25B5%25CE%25BC%25B3%25B7%25B7%25C5%25C1_%25B3%25D7%25C0%25CC%25B9%25F6.jpg",
+            "menu_name": "한우사골 얼큰왕만두설렁탕",
+            "price": "11,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241010_1%2F1728521784171xkrPX_JPEG%2F%25B3%25D7%25C0%25CC%25B9%25F6%25C1%25D6%25B9%25AE_%25B5%25B5%25B0%25A1%25B4%25CF.jpg",
+            "menu_name": "한우사골 도가니설렁탕",
+            "price": "20,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241107_86%2F1730938716832NkqvL_JPEG%2F%25B5%25B5%25B0%25A1%25B4%25CF%25BB%25E7%25C5%25C2%25BC%25F6%25C0%25B0.jpg",
+            "menu_name": "도가니사태수육",
+            "price": "43,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241107_83%2F1730938699107ThK2b_JPEG%2F%25B9%25CC%25B4%25CF%25BB%25E7%25C5%25C2%25BC%25F6%25C0%25B0_%25B3%25D7%25C0%25CC%25B9%25F6.jpg",
+            "menu_name": "미니사태수육(1인)",
+            "price": "5,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241006_176%2F17282235502351JPLO_JPEG%2F%25B0%25ED%25B1%25E2%25BF%25D5%25B8%25B8%25B5%25CE_%25B3%25D7%25C0%25CC%25B9%25F6.jpg",
+            "menu_name": "고기왕만두(3개)",
+            "price": "4,500원"
+        }
+    ]
+}

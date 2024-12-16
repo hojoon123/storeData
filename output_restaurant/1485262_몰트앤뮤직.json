@@ -1,0 +1,14 @@
+{
+    "store_name": "몰트앤뮤직",
+    "store_location": "강원 춘천시 영서로 2261 지하1층",
+    "loc_x": "263546.219540296",
+    "loc_y": "484833.369695126",
+    "menu": [
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241128_148%2F1732799282632p1G1c_JPEG%2FIMG_2548.jpeg",
+            "menu_name": "맥켈란 18y",
+            "price": "49,000원"
+        }
+    ]
+}

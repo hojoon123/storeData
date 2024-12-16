@@ -1,0 +1,14 @@
+{
+    "store_name": "처갓집양념치킨 원미점",
+    "store_location": "경기 부천시 원미구 조종로7번길 33 1층 제2호 일부 (원미동)",
+    "loc_x": "180981.482097829",
+    "loc_y": "443663.767015202",
+    "menu": [
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241125_82%2F1732525579510y77jI_PNG%2F%25C8%25C4%25B6%25F3%25C0%25CC%25B5%25E5.png",
+            "menu_name": "후라이드",
+            "price": "변동"
+        }
+    ]
+}

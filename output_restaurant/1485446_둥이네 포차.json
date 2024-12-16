@@ -1,0 +1,44 @@
+{
+    "store_name": "둥이네 포차",
+    "store_location": "전남 목포시 죽산로 26 신중앙시장내",
+    "loc_x": "142891.881907866",
+    "loc_y": "145808.806560716",
+    "menu": [
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241122_205%2F17322325900428hD6q_JPEG%2FIMG_3245.jpeg",
+            "menu_name": "두부김치",
+            "price": "변동"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241122_275%2F1732232532726OBnf7_JPEG%2FIMG_3215.jpeg",
+            "menu_name": "김치어묵탕",
+            "price": "변동"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241122_65%2F1732232458981C47CE_JPEG%2FIMG_3235.jpeg",
+            "menu_name": "닭발&볶음밥",
+            "price": "변동"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241122_244%2F1732232298041GqCJf_JPEG%2FIMG_3223.jpeg",
+            "menu_name": "굴보쌈",
+            "price": "변동"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241122_92%2F1732232248144U6Aye_JPEG%2FIMG_3408.jpeg",
+            "menu_name": "제육볶음",
+            "price": "변동"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241122_278%2F1732232166871V5p8c_JPEG%2FIMG_3259.jpeg",
+            "menu_name": "골뱅이무침&소면",
+            "price": "변동"
+        }
+    ]
+}

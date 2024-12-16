@@ -1,0 +1,20 @@
+{
+    "store_name": "지디홀덤펍",
+    "store_location": "경기 고양시 일산동구 무궁화로 31-2 풍성프라자 5층 503호, 504호, 505호",
+    "loc_x": "179449.749672525",
+    "loc_y": "462327.132044475",
+    "menu": [
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20230807_91%2F1691402784807wsuX1_JPEG%2FKakaoTalk_20230807_190501781.jpg",
+            "menu_name": "맥주, 음료",
+            "price": "변동"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20230807_198%2F16914028027785OdPV_JPEG%2FKakaoTalk_20230807_190501781_01.jpg",
+            "menu_name": "안주, 간식",
+            "price": "변동"
+        }
+    ]
+}

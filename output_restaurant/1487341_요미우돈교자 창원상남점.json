@@ -1,0 +1,110 @@
+{
+    "store_name": "요미우돈교자 창원상남점",
+    "store_location": "경남 창원시 성산구 용지로117번길 2 대흥상가 1층",
+    "loc_x": "352767.634578699",
+    "loc_y": "193160.577523248",
+    "menu": [
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241126_250%2F1732608018534vvyAK_PNG%2F%25B3%25D0%25C0%25FB_%25BF%25EC%25B5%25BF.png",
+            "menu_name": "넓적우동",
+            "price": "13,900원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241126_59%2F1732608076617JTlUO_PNG%2F%25B8%25ED%25B6%25F5_%25C5%25A9%25B8%25B2_%25BF%25EC%25B5%25BF.png",
+            "menu_name": "명란크림우동",
+            "price": "13,900원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241126_192%2F1732608181960owLQf_PNG%2F%25BA%25A3%25C0%25CC%25C4%25C1_%25C5%25A9%25B8%25B2_%25BF%25EC%25B5%25BF.png",
+            "menu_name": "베이컨크림우동",
+            "price": "13,900원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241126_272%2F1732608247897t2Opr_PNG%2F%25BC%25D2%25B0%25ED%25B1%25E2_%25BA%25D7%25C4%25AB%25C4%25C9_%25BF%25EC%25B5%25BF.png",
+            "menu_name": "소고기붓카케우동",
+            "price": "11,900원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241126_62%2F1732608317382AeNeN_PNG%2FIMG_4640.png",
+            "menu_name": "소고기 듬뿍 우동",
+            "price": "10,900원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241126_128%2F1732608366898EFEEO_PNG%2F%25C1%25F6%25B5%25B5%25B8%25AE_%25BF%25EC%25B5%25BF.png",
+            "menu_name": "지도리우동",
+            "price": "11,900원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241126_252%2F17326088369041SOTg_PNG%2F%25B8%25ED%25B6%25F5_%25C4%25A1%25C1%25EE_%25B1%25B3%25C0%25DA.png",
+            "menu_name": "명란치즈교자",
+            "price": "11,900원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241126_215%2F1732608786774y0n89_PNG%2F%25BF%25C0%25C4%25DA%25B3%25EB%25B9%25CC%25BE%25DF%25B3%25A2_%25B1%25B3%25C0%25DA.png",
+            "menu_name": "오코노미야끼교자",
+            "price": "10,900원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241126_185%2F1732608711170IiLKb_PNG%2F%25B0%25ED%25B1%25E2_%25B1%25B3%25C0%25DA_%25B8%25B8%25B5%25CE.png",
+            "menu_name": "고기교자",
+            "price": "9,900원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241126_216%2F1732608597973TKrlN_PNG%2F%25BB%25E7%25B0%25A2%25B1%25B3%25C0%25DA%2528%25BB%25E7%25C3%25B5%25B1%25B3%25C0%25DA%2529.png",
+            "menu_name": "사각교자(사천교자)",
+            "price": "7,900원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241126_51%2F17326090412961zj3P_PNG%2F%25B0%25A1%25B6%25F3%25BE%25C6%25B0%25D4.png",
+            "menu_name": "치킨가라아게(5pcs)",
+            "price": "6,500원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241126_150%2F1732608900056ht13y_PNG%2F%25BB%25F5%25BF%25EC%25C6%25A2%25B1%25E8.png",
+            "menu_name": "새우튀김(3pcs)",
+            "price": "5,500원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241126_16%2F1732610959270eqPj4_PNG%2F%25C0%25AF%25C0%25DA%25C7%25CF%25C0%25CC%25BA%25BC.png",
+            "menu_name": "유자하이볼",
+            "price": "8,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241126_292%2F1732610995961wYu6G_PNG%2F%25BF%25E4%25B9%25CC_%25C7%25CF%25C0%25CC%25BA%25BC.png",
+            "menu_name": "요미산토리하이볼",
+            "price": "8,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241126_92%2F1732611109642VsccU_PNG%2F%25B7%25B9%25B8%25F3%25C8%25AB%25C2%25F7%25C7%25CF%25C0%25CC%25BA%25BC.png",
+            "menu_name": "레몬홍차하이볼",
+            "price": "8,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241126_64%2F17326111789614rryC_PNG%2F%25C1%25F8%25C0%25FA%25B6%25F3%25C0%25D3%25C7%25CF%25C0%25CC%25BA%25BC.png",
+            "menu_name": "진저라임하이볼",
+            "price": "8,000원"
+        },
+        {
+            "category": "",
+            "img_src": "",
+            "menu_name": "생맥주",
+            "price": "6,000원"
+        }
+    ]
+}

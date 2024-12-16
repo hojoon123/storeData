@@ -1,0 +1,764 @@
+{
+    "store_name": "뜨담회선생",
+    "store_location": "대구 동구 율하동로17길 43 1층",
+    "loc_x": "353148.816562352",
+    "loc_y": "264486.944110315",
+    "menu": [
+        {
+            "category": "대표메뉴",
+            "img_src": "",
+            "menu_name": "[배달비무료] 모듬회(소)",
+            "price": "27,000원"
+        },
+        {
+            "category": "대표메뉴",
+            "img_src": "",
+            "menu_name": "[배달비무료] 모듬회(중)",
+            "price": "32,000원"
+        },
+        {
+            "category": "대표메뉴",
+            "img_src": "",
+            "menu_name": "[배달비무료] 모듬회(대)",
+            "price": "44,000원"
+        },
+        {
+            "category": "대표메뉴",
+            "img_src": "",
+            "menu_name": "[배달비무료] 모듬회(특대)",
+            "price": "56,000원"
+        },
+        {
+            "category": "대표메뉴",
+            "img_src": "",
+            "menu_name": "[배달비무료] 모듬회(왕특대)",
+            "price": "69,000원"
+        },
+        {
+            "category": "대표메뉴",
+            "img_src": "",
+            "menu_name": "광어(소)",
+            "price": "29,000원"
+        },
+        {
+            "category": "대표메뉴",
+            "img_src": "",
+            "menu_name": "광어(중)",
+            "price": "36,000원"
+        },
+        {
+            "category": "대표메뉴",
+            "img_src": "",
+            "menu_name": "광어(대)",
+            "price": "50,000원"
+        },
+        {
+            "category": "대표메뉴",
+            "img_src": "",
+            "menu_name": "광어(특대)",
+            "price": "65,000원"
+        },
+        {
+            "category": "대표메뉴",
+            "img_src": "",
+            "menu_name": "광어(왕특대)",
+            "price": "75,000원"
+        },
+        {
+            "category": "대표메뉴",
+            "img_src": "",
+            "menu_name": "미니회+물회(공기밥별도)",
+            "price": "32,000원"
+        },
+        {
+            "category": "대표메뉴",
+            "img_src": "",
+            "menu_name": "밀치 깻잎무침(소)",
+            "price": "28,000원"
+        },
+        {
+            "category": "대표메뉴",
+            "img_src": "",
+            "menu_name": "밀치 깻잎무침(중)",
+            "price": "33,000원"
+        },
+        {
+            "category": "대표메뉴",
+            "img_src": "",
+            "menu_name": "밀치 깻잎무침(대)",
+            "price": "45,000원"
+        },
+        {
+            "category": "대표메뉴",
+            "img_src": "",
+            "menu_name": "밀치 깻잎무침(특대)",
+            "price": "59,000원"
+        },
+        {
+            "category": "대표메뉴",
+            "img_src": "",
+            "menu_name": "모듬회(소)+물회(공기밥별도)",
+            "price": "40,000원"
+        },
+        {
+            "category": "대표메뉴",
+            "img_src": "",
+            "menu_name": "대방어 (겨울 별미)(중)",
+            "price": "48,000원"
+        },
+        {
+            "category": "대표메뉴",
+            "img_src": "",
+            "menu_name": "대방어 (겨울 별미)(대)",
+            "price": "58,000원"
+        },
+        {
+            "category": "대표메뉴",
+            "img_src": "",
+            "menu_name": "대방어 (겨울 별미)(특대)",
+            "price": "68,000원"
+        },
+        {
+            "category": "대표메뉴",
+            "img_src": "",
+            "menu_name": "대방어 (겨울 별미)(왕특대)",
+            "price": "80,000원"
+        },
+        {
+            "category": "활어메뉴",
+            "img_src": "",
+            "menu_name": "[배달비무료] 모듬회(소)",
+            "price": "27,000원"
+        },
+        {
+            "category": "활어메뉴",
+            "img_src": "",
+            "menu_name": "[배달비무료] 모듬회(중)",
+            "price": "32,000원"
+        },
+        {
+            "category": "활어메뉴",
+            "img_src": "",
+            "menu_name": "[배달비무료] 모듬회(대)",
+            "price": "44,000원"
+        },
+        {
+            "category": "활어메뉴",
+            "img_src": "",
+            "menu_name": "[배달비무료] 모듬회(특대)",
+            "price": "56,000원"
+        },
+        {
+            "category": "활어메뉴",
+            "img_src": "",
+            "menu_name": "[배달비무료] 모듬회(왕특대)",
+            "price": "69,000원"
+        },
+        {
+            "category": "활어메뉴",
+            "img_src": "",
+            "menu_name": "대방어 (겨울 별미)(중)",
+            "price": "48,000원"
+        },
+        {
+            "category": "활어메뉴",
+            "img_src": "",
+            "menu_name": "대방어 (겨울 별미)(대)",
+            "price": "58,000원"
+        },
+        {
+            "category": "활어메뉴",
+            "img_src": "",
+            "menu_name": "대방어 (겨울 별미)(특대)",
+            "price": "68,000원"
+        },
+        {
+            "category": "활어메뉴",
+            "img_src": "",
+            "menu_name": "대방어 (겨울 별미)(왕특대)",
+            "price": "80,000원"
+        },
+        {
+            "category": "활어메뉴",
+            "img_src": "",
+            "menu_name": "대방어 (겨울 별미)+ 모듬회(중)",
+            "price": "48,000원"
+        },
+        {
+            "category": "활어메뉴",
+            "img_src": "",
+            "menu_name": "대방어 (겨울 별미)+ 모듬회(대)",
+            "price": "58,000원"
+        },
+        {
+            "category": "활어메뉴",
+            "img_src": "",
+            "menu_name": "대방어 (겨울 별미)+ 모듬회(특대)",
+            "price": "68,000원"
+        },
+        {
+            "category": "활어메뉴",
+            "img_src": "",
+            "menu_name": "대방어 (겨울 별미)+ 모듬회(왕특대)",
+            "price": "80,000원"
+        },
+        {
+            "category": "활어메뉴",
+            "img_src": "",
+            "menu_name": "광어(소)",
+            "price": "29,000원"
+        },
+        {
+            "category": "활어메뉴",
+            "img_src": "",
+            "menu_name": "광어(중)",
+            "price": "36,000원"
+        },
+        {
+            "category": "활어메뉴",
+            "img_src": "",
+            "menu_name": "광어(대)",
+            "price": "50,000원"
+        },
+        {
+            "category": "활어메뉴",
+            "img_src": "",
+            "menu_name": "광어(특대)",
+            "price": "65,000원"
+        },
+        {
+            "category": "활어메뉴",
+            "img_src": "",
+            "menu_name": "광어(왕특대)",
+            "price": "75,000원"
+        },
+        {
+            "category": "활어메뉴",
+            "img_src": "",
+            "menu_name": "우럭(소)",
+            "price": "29,000원"
+        },
+        {
+            "category": "활어메뉴",
+            "img_src": "",
+            "menu_name": "우럭(중)",
+            "price": "39,000원"
+        },
+        {
+            "category": "활어메뉴",
+            "img_src": "",
+            "menu_name": "우럭(대)",
+            "price": "50,000원"
+        },
+        {
+            "category": "활어메뉴",
+            "img_src": "",
+            "menu_name": "우럭(특대)",
+            "price": "62,000원"
+        },
+        {
+            "category": "활어메뉴",
+            "img_src": "",
+            "menu_name": "우럭(왕특대)",
+            "price": "72,000원"
+        },
+        {
+            "category": "활어메뉴",
+            "img_src": "",
+            "menu_name": "밀치(소)",
+            "price": "27,000원"
+        },
+        {
+            "category": "활어메뉴",
+            "img_src": "",
+            "menu_name": "밀치(중)",
+            "price": "32,000원"
+        },
+        {
+            "category": "활어메뉴",
+            "img_src": "",
+            "menu_name": "밀치(대)",
+            "price": "44,000원"
+        },
+        {
+            "category": "활어메뉴",
+            "img_src": "",
+            "menu_name": "밀치(특대)",
+            "price": "56,000원"
+        },
+        {
+            "category": "활어메뉴",
+            "img_src": "",
+            "menu_name": "밀치(왕특대)",
+            "price": "69,000원"
+        },
+        {
+            "category": "활어메뉴",
+            "img_src": "",
+            "menu_name": "우럭+밀치(소)",
+            "price": "29,000원"
+        },
+        {
+            "category": "활어메뉴",
+            "img_src": "",
+            "menu_name": "우럭+밀치(중)",
+            "price": "39,000원"
+        },
+        {
+            "category": "활어메뉴",
+            "img_src": "",
+            "menu_name": "우럭+밀치(대)",
+            "price": "50,000원"
+        },
+        {
+            "category": "활어메뉴",
+            "img_src": "",
+            "menu_name": "우럭+밀치(특대)",
+            "price": "62,000원"
+        },
+        {
+            "category": "활어메뉴",
+            "img_src": "",
+            "menu_name": "우럭+밀치(왕특대)",
+            "price": "72,000원"
+        },
+        {
+            "category": "활어메뉴",
+            "img_src": "",
+            "menu_name": "광어+밀치(소)",
+            "price": "29,000원"
+        },
+        {
+            "category": "활어메뉴",
+            "img_src": "",
+            "menu_name": "광어+밀치(중)",
+            "price": "36,000원"
+        },
+        {
+            "category": "활어메뉴",
+            "img_src": "",
+            "menu_name": "광어+밀치(대)",
+            "price": "50,000원"
+        },
+        {
+            "category": "활어메뉴",
+            "img_src": "",
+            "menu_name": "광어+밀치(특대)",
+            "price": "62,000원"
+        },
+        {
+            "category": "활어메뉴",
+            "img_src": "",
+            "menu_name": "광어+밀치(왕특대)",
+            "price": "72,000원"
+        },
+        {
+            "category": "활어메뉴",
+            "img_src": "",
+            "menu_name": "광어+우럭(소)",
+            "price": "29,000원"
+        },
+        {
+            "category": "활어메뉴",
+            "img_src": "",
+            "menu_name": "광어+우럭(중)",
+            "price": "39,000원"
+        },
+        {
+            "category": "활어메뉴",
+            "img_src": "",
+            "menu_name": "광어+우럭(대)",
+            "price": "50,000원"
+        },
+        {
+            "category": "활어메뉴",
+            "img_src": "",
+            "menu_name": "광어+우럭(특대)",
+            "price": "62,000원"
+        },
+        {
+            "category": "활어메뉴",
+            "img_src": "",
+            "menu_name": "大 광어(중)",
+            "price": "42,000원"
+        },
+        {
+            "category": "활어메뉴",
+            "img_src": "",
+            "menu_name": "大 광어(대)",
+            "price": "55,000원"
+        },
+        {
+            "category": "활어메뉴",
+            "img_src": "",
+            "menu_name": "大 광어(특대)",
+            "price": "68,000원"
+        },
+        {
+            "category": "활어메뉴",
+            "img_src": "",
+            "menu_name": "강 도다리(중)",
+            "price": "37,000원"
+        },
+        {
+            "category": "활어메뉴",
+            "img_src": "",
+            "menu_name": "강 도다리(대)",
+            "price": "48,000원"
+        },
+        {
+            "category": "활어메뉴",
+            "img_src": "",
+            "menu_name": "강 도다리(특대)",
+            "price": "60,000원"
+        },
+        {
+            "category": "활어메뉴",
+            "img_src": "",
+            "menu_name": "참돔(중)",
+            "price": "45,000원"
+        },
+        {
+            "category": "활어메뉴",
+            "img_src": "",
+            "menu_name": "참돔(대)",
+            "price": "55,000원"
+        },
+        {
+            "category": "활어메뉴",
+            "img_src": "",
+            "menu_name": "참돔(특대)",
+            "price": "65,000원"
+        },
+        {
+            "category": "활어메뉴",
+            "img_src": "",
+            "menu_name": "밀치 깻잎무침(소)",
+            "price": "28,000원"
+        },
+        {
+            "category": "활어메뉴",
+            "img_src": "",
+            "menu_name": "밀치 깻잎무침(중)",
+            "price": "33,000원"
+        },
+        {
+            "category": "활어메뉴",
+            "img_src": "",
+            "menu_name": "밀치 깻잎무침(대)",
+            "price": "45,000원"
+        },
+        {
+            "category": "활어메뉴",
+            "img_src": "",
+            "menu_name": "밀치 깻잎무침(특대)",
+            "price": "59,000원"
+        },
+        {
+            "category": "활어메뉴",
+            "img_src": "",
+            "menu_name": "우럭 깻잎무침(중)",
+            "price": "35,000원"
+        },
+        {
+            "category": "활어메뉴",
+            "img_src": "",
+            "menu_name": "우럭 깻잎무침(대)",
+            "price": "47,000원"
+        },
+        {
+            "category": "활어메뉴",
+            "img_src": "",
+            "menu_name": "우럭 깻잎무침(특대)",
+            "price": "60,000원"
+        },
+        {
+            "category": "활어메뉴",
+            "img_src": "",
+            "menu_name": "광어 깻잎무침(중)",
+            "price": "35,000원"
+        },
+        {
+            "category": "활어메뉴",
+            "img_src": "",
+            "menu_name": "광어 깻잎무침(대)",
+            "price": "47,000원"
+        },
+        {
+            "category": "활어메뉴",
+            "img_src": "",
+            "menu_name": "광어 깻잎무침(특대)",
+            "price": "60,000원"
+        },
+        {
+            "category": "싱글set 메뉴",
+            "img_src": "",
+            "menu_name": "미니회+물회(공기밥별도)",
+            "price": "32,000원"
+        },
+        {
+            "category": "싱글set 메뉴",
+            "img_src": "",
+            "menu_name": "미니회+회덮밥(매운탕포함)",
+            "price": "35,000원"
+        },
+        {
+            "category": "싱글set 메뉴",
+            "img_src": "",
+            "menu_name": "산낙지1마리+물회(공기밥별도)",
+            "price": "27,000원"
+        },
+        {
+            "category": "싱글set 메뉴",
+            "img_src": "",
+            "menu_name": "미니 해산물2가지+물회(공기밥별도)",
+            "price": "28,000원"
+        },
+        {
+            "category": "싱글set 메뉴",
+            "img_src": "",
+            "menu_name": "모듬회(소)+물회(공기밥별도)",
+            "price": "40,000원"
+        },
+        {
+            "category": "싱글set 메뉴",
+            "img_src": "",
+            "menu_name": "모듬회(소)+매운탕",
+            "price": "30,000원"
+        },
+        {
+            "category": "싱글set 메뉴",
+            "img_src": "",
+            "menu_name": "활어초밥(선택)+세트메뉴(모듬회, 물회, 회덮밥)",
+            "price": "24,000원"
+        },
+        {
+            "category": "싱글메뉴",
+            "img_src": "",
+            "menu_name": "회덮밥",
+            "price": "12,000원"
+        },
+        {
+            "category": "싱글메뉴",
+            "img_src": "",
+            "menu_name": "멍게회덮밥(1인분)",
+            "price": "12,000원"
+        },
+        {
+            "category": "싱글메뉴",
+            "img_src": "",
+            "menu_name": "물회(뜨담전통물회)(공기밥별도)(1인분)",
+            "price": "13,000원"
+        },
+        {
+            "category": "싱글메뉴",
+            "img_src": "",
+            "menu_name": "모듬회 소",
+            "price": "27,000원"
+        },
+        {
+            "category": "싱글메뉴",
+            "img_src": "",
+            "menu_name": "미니 깻잎 무침회(1인분)",
+            "price": "20,000원"
+        },
+        {
+            "category": "싱글메뉴",
+            "img_src": "",
+            "menu_name": "미니회",
+            "price": "20,000원"
+        },
+        {
+            "category": "싱글메뉴",
+            "img_src": "",
+            "menu_name": "활어초밥 10피스+튀김우동(컵라면)(10피스)",
+            "price": "17,000원"
+        },
+        {
+            "category": "싱글메뉴",
+            "img_src": "",
+            "menu_name": "활어초밥 10피스+튀김우동(컵라면)(15피스)",
+            "price": "24,000원"
+        },
+        {
+            "category": "사계절별미메뉴",
+            "img_src": "",
+            "menu_name": "특 물회(공기밥별도)",
+            "price": "16,000원"
+        },
+        {
+            "category": "사계절별미메뉴",
+            "img_src": "",
+            "menu_name": "안주물회(공기밥별도)",
+            "price": "28,000원"
+        },
+        {
+            "category": "사계절별미메뉴",
+            "img_src": "",
+            "menu_name": "우럭물회(공기밥별도)",
+            "price": "16,000원"
+        },
+        {
+            "category": "사계절별미메뉴",
+            "img_src": "",
+            "menu_name": "광어물회(공기밥별도)",
+            "price": "16,000원"
+        },
+        {
+            "category": "해산물메뉴",
+            "img_src": "",
+            "menu_name": "산낙지(1마리)",
+            "price": "15,000원"
+        },
+        {
+            "category": "해산물메뉴",
+            "img_src": "",
+            "menu_name": "산낙지(2마리)",
+            "price": "29,000원"
+        },
+        {
+            "category": "해산물메뉴",
+            "img_src": "",
+            "menu_name": "해산물 2가지 세트",
+            "price": "22,000원"
+        },
+        {
+            "category": "해산물메뉴",
+            "img_src": "",
+            "menu_name": "해산물 3가지 세트",
+            "price": "33,000원"
+        },
+        {
+            "category": "해산물메뉴",
+            "img_src": "",
+            "menu_name": "멍게(소)",
+            "price": "13,000원"
+        },
+        {
+            "category": "해산물메뉴",
+            "img_src": "",
+            "menu_name": "멍게(중)",
+            "price": "25,000원"
+        },
+        {
+            "category": "해산물메뉴",
+            "img_src": "",
+            "menu_name": "멍게(대)",
+            "price": "35,000원"
+        },
+        {
+            "category": "해산물메뉴",
+            "img_src": "",
+            "menu_name": "해삼(소)",
+            "price": "13,000원"
+        },
+        {
+            "category": "해산물메뉴",
+            "img_src": "",
+            "menu_name": "해삼(중)",
+            "price": "25,000원"
+        },
+        {
+            "category": "해산물메뉴",
+            "img_src": "",
+            "menu_name": "해삼(대)",
+            "price": "35,000원"
+        },
+        {
+            "category": "해산물메뉴",
+            "img_src": "",
+            "menu_name": "개불(5마리)",
+            "price": "12,500원"
+        },
+        {
+            "category": "해산물메뉴",
+            "img_src": "",
+            "menu_name": "개불(10마리)",
+            "price": "25,000원"
+        },
+        {
+            "category": "해산물메뉴",
+            "img_src": "",
+            "menu_name": "개불(15마리)",
+            "price": "37,500원"
+        },
+        {
+            "category": "해산물메뉴",
+            "img_src": "",
+            "menu_name": "개불(20마리)",
+            "price": "50,000원"
+        },
+        {
+            "category": "사이드메뉴",
+            "img_src": "",
+            "menu_name": "매운탕(한 번 데워드세요)(1~2인)",
+            "price": "5,000원"
+        },
+        {
+            "category": "사이드메뉴",
+            "img_src": "",
+            "menu_name": "매운탕2개(한 번 데워드세요)(2~3인)",
+            "price": "10,000원"
+        },
+        {
+            "category": "사이드메뉴",
+            "img_src": "",
+            "menu_name": "공기밥",
+            "price": "1,000원"
+        },
+        {
+            "category": "사이드메뉴",
+            "img_src": "",
+            "menu_name": "야채셋트 추가",
+            "price": "1,500원"
+        },
+        {
+            "category": "사이드메뉴",
+            "img_src": "",
+            "menu_name": "초장 추가",
+            "price": "500원"
+        },
+        {
+            "category": "사이드메뉴",
+            "img_src": "",
+            "menu_name": "다대기 양념장 추가(1개)",
+            "price": "1,000원"
+        },
+        {
+            "category": "음료메뉴",
+            "img_src": "",
+            "menu_name": "코카콜라(500ml)",
+            "price": "2,000원"
+        },
+        {
+            "category": "음료메뉴",
+            "img_src": "",
+            "menu_name": "코카콜라(1.25ml)",
+            "price": "3,000원"
+        },
+        {
+            "category": "음료메뉴",
+            "img_src": "",
+            "menu_name": "칠성사이다(500ml)",
+            "price": "2,000원"
+        },
+        {
+            "category": "음료메뉴",
+            "img_src": "",
+            "menu_name": "칠성사이다(1.25ml)",
+            "price": "3,000원"
+        },
+        {
+            "category": "음료메뉴",
+            "img_src": "",
+            "menu_name": "환타(파인애플)(500ml)",
+            "price": "2,000원"
+        },
+        {
+            "category": "음료메뉴",
+            "img_src": "",
+            "menu_name": "제로코카콜라(500ml)",
+            "price": "2,000원"
+        }
+    ]
+}

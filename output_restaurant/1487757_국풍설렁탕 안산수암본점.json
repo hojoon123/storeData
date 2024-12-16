@@ -1,0 +1,98 @@
+{
+    "store_name": "국풍설렁탕 안산수암본점",
+    "store_location": "경기 안산시 상록구 원당골1길 6 1층 국풍설렁탕 본점",
+    "loc_x": "189070.433282334",
+    "loc_y": "428983.284758936",
+    "menu": [
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240424_149%2F1713921284255WloO6_JPEG%2F%25BE%25C6%25B7%25D5%25B0%25F5%25C5%25C124.jpg",
+            "menu_name": "설렁탕",
+            "price": "10,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240723_183%2F1721719211841MW3zY_JPEG%2F%25B5%25B5%25B0%25A1%25B4%25CF%25C5%25C1%25BB%25E7%25C1%25F8.jpg",
+            "menu_name": "도가니탕",
+            "price": "16,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241121_246%2F1732188730539n2njx_JPEG%2F%25BC%25D2%25B0%25ED%25B1%25E2%25C7%25D8%25C0%25E5%25B1%25B924.jpg",
+            "menu_name": "선지 해장국",
+            "price": "10,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240424_231%2F1713921326130ouvjj_JPEG%2F%25BC%25D2%25B0%25ED%25B1%25E2%25C7%25D8%25C0%25E5%25B1%25B924.jpg",
+            "menu_name": "국풍해장국",
+            "price": "12,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240825_224%2F1724548380326kuNQe_JPEG%2F111.jpg",
+            "menu_name": "국풍맑은곰탕",
+            "price": "10,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241205_299%2F1733390069140PLNFJ_JPEG%2FKakaoTalk_20241204_173636328_01.jpg",
+            "menu_name": "뚝배기 불고기",
+            "price": "12,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241205_100%2F1733390084829Sny4i_JPEG%2FKakaoTalk_20241204_173636328_02.jpg",
+            "menu_name": "미니 소불고기(추가)",
+            "price": "5,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240723_41%2F1721719149267WDDOt_JPEG%2F%25BA%25F1%25BA%25F6%25B3%25C3%25B8%25E9.jpg",
+            "menu_name": "국풍 비빔냉면",
+            "price": "9,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240723_239%2F1721719185806zmEdS_JPEG%2F%25B9%25B0%25B3%25C3%25B8%25E9.jpg",
+            "menu_name": "국풍 살얼음 물냉면",
+            "price": "9,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240921_118%2F1726916875604ldPwW_JPEG%2FKakaoTalk_20240825_101449082_01.jpg",
+            "menu_name": "한우소머리수육",
+            "price": "25,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240424_12%2F1713921349288UMW90_JPEG%2F%25B9%25CC%25B4%25CF%25BC%25F6%25C0%25B024.jpg",
+            "menu_name": "미니수육",
+            "price": "15,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241024_152%2F1729768734814YrPcu_JPEG%2F%25B5%25B5%25B0%25A1%25B4%25CF%25BC%25F6%25C0%25B024.jpg",
+            "menu_name": "도가니수육",
+            "price": "45,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241024_222%2F17297688193306Cy7H_JPEG%2F%25B8%25F0%25B5%25EB%25BC%25F6%25C0%25B0.jpg",
+            "menu_name": "모듬수육",
+            "price": "50,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240305_87%2F1709616212468GGgz7_JPEG%2F%25B0%25ED%25B1%25E2%25B8%25B8%25B5%25CE.jpg",
+            "menu_name": "왕만두(고기,김치)",
+            "price": "6,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240628_244%2F17195511433622ux7i_JPEG%2F1000012506.jpg",
+            "menu_name": "예약 보증금",
+            "price": "5,000원"
+        }
+    ]
+}

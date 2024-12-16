@@ -1,0 +1,38 @@
+{
+    "store_name": "영주네풍금",
+    "store_location": "대전 서구 한밭대로570번길 38 1층 103호",
+    "loc_x": "232404.489089762",
+    "loc_y": "317390.600802996",
+    "menu": [
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240105_144%2F17044574270542VrCl_JPEG%2FKakaoTalk_20240105_212225366_01.jpg",
+            "menu_name": "김치전",
+            "price": "12,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240105_225%2F17044567616502cYXF_JPEG%2FKakaoTalk_20240105_211037328.jpg",
+            "menu_name": "해물파전",
+            "price": "20,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240105_221%2F1704457470384si4eI_JPEG%2FKakaoTalk_20240105_212225366.jpg",
+            "menu_name": "호박새우전",
+            "price": "12,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240105_151%2F1704457230171EQKsI_JPEG%2FKakaoTalk_20240105_184511515.jpg",
+            "menu_name": "굴전",
+            "price": "20,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240105_21%2F1704457140456Qzg4j_JPEG%2FKakaoTalk_20240105_211532813.jpg",
+            "menu_name": "생굴",
+            "price": "20,000원"
+        }
+    ]
+}

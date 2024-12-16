@@ -1,0 +1,392 @@
+{
+    "store_name": "처갓집양념치킨 백천점",
+    "store_location": "경북 경산시 경청로219길 4-6 119호",
+    "loc_x": "357048.255694531",
+    "loc_y": "257343.146112304",
+    "menu": [
+        {
+            "category": "대표메뉴",
+            "img_src": "",
+            "menu_name": "슈프림양념 ( 뼈 ) 치킨",
+            "price": "22,000원"
+        },
+        {
+            "category": "대표메뉴",
+            "img_src": "",
+            "menu_name": "올리고당양념 ( 뼈 ) 치킨",
+            "price": "21,000원"
+        },
+        {
+            "category": "대표메뉴",
+            "img_src": "",
+            "menu_name": "후라이드 ( 뼈 ) 치킨",
+            "price": "19,000원"
+        },
+        {
+            "category": "대표메뉴",
+            "img_src": "",
+            "menu_name": "매콤 간장 ( 뼈 ) 치킨 : 와락마늘",
+            "price": "22,000원"
+        },
+        {
+            "category": "대표메뉴",
+            "img_src": "",
+            "menu_name": "[] 양배추 샐러드 드려요 [] 반반 ( 뼈 ) 치킨",
+            "price": "19,000원"
+        },
+        {
+            "category": "( 뼈 ) 한마리 특大 치킨",
+            "img_src": "",
+            "menu_name": "슈프림양념 ( 뼈 ) 치킨",
+            "price": "22,000원"
+        },
+        {
+            "category": "( 뼈 ) 한마리 특大 치킨",
+            "img_src": "",
+            "menu_name": "올리고당양념 ( 뼈 ) 치킨",
+            "price": "21,000원"
+        },
+        {
+            "category": "( 뼈 ) 한마리 특大 치킨",
+            "img_src": "",
+            "menu_name": "후라이드 ( 뼈 ) 치킨",
+            "price": "19,000원"
+        },
+        {
+            "category": "( 뼈 ) 한마리 특大 치킨",
+            "img_src": "",
+            "menu_name": "매콤 간장 ( 뼈 ) 치킨 : 와락마늘",
+            "price": "22,000원"
+        },
+        {
+            "category": "( 뼈 ) 한마리 특大 치킨",
+            "img_src": "",
+            "menu_name": "간장 ( 뼈 ) 치킨",
+            "price": "21,000원"
+        },
+        {
+            "category": "( 뼈 ) 한마리 특大 치킨",
+            "img_src": "",
+            "menu_name": "골드 슈프림양념 ( 뼈 ) 치킨",
+            "price": "23,000원"
+        },
+        {
+            "category": "( 뼈 ) 한마리 특大 치킨",
+            "img_src": "",
+            "menu_name": "블랙라벨 슈프림양념 ( 뼈 ) 치킨",
+            "price": "23,000원"
+        },
+        {
+            "category": "( 뼈 ) 한마리 특大 치킨",
+            "img_src": "",
+            "menu_name": "치즈 슈프림양념 ( 뼈 ) 치킨",
+            "price": "22,000원"
+        },
+        {
+            "category": "( 뼈 ) 한마리 특大 치킨",
+            "img_src": "",
+            "menu_name": "핫 슈프림양념 ( 뼈 ) 치킨",
+            "price": "22,000원"
+        },
+        {
+            "category": "( 뼈 ) 한마리 특大 치킨",
+            "img_src": "",
+            "menu_name": "100%청양산 고추양념 ( 뼈 ) 치킨",
+            "price": "22,000원"
+        },
+        {
+            "category": "( 뼈 ) 한마리 특大 치킨",
+            "img_src": "",
+            "menu_name": "매운불 양념 ( 뼈 ) 치킨",
+            "price": "22,000원"
+        },
+        {
+            "category": "( 뼈 ) 한마리 특大 치킨",
+            "img_src": "",
+            "menu_name": "XO양념 ( 뼈 ) 치킨",
+            "price": "22,000원"
+        },
+        {
+            "category": "( 뼈 ) 한마리 특大 치킨",
+            "img_src": "",
+            "menu_name": "꼬꼬뱅 ( 뼈 ) 슈프림양념치킨",
+            "price": "23,000원"
+        },
+        {
+            "category": "( 뼈 ) +반반+ 한마리 치킨",
+            "img_src": "",
+            "menu_name": "[] 양배추 샐러드 드려요 [] 반반 ( 뼈 ) 치킨",
+            "price": "19,000원"
+        },
+        {
+            "category": "[ 순살 ] 한마리 치킨",
+            "img_src": "",
+            "menu_name": "슈프림양념 [ 순살 ] 치킨",
+            "price": "24,000원"
+        },
+        {
+            "category": "[ 순살 ] 한마리 치킨",
+            "img_src": "",
+            "menu_name": "올리고당양념 [ 순살 ] 치킨",
+            "price": "23,000원"
+        },
+        {
+            "category": "[ 순살 ] 한마리 치킨",
+            "img_src": "",
+            "menu_name": "후라이드 [ 순살 ] 치킨",
+            "price": "21,000원"
+        },
+        {
+            "category": "[ 순살 ] 한마리 치킨",
+            "img_src": "",
+            "menu_name": "매콤 간장 ( 와락마늘 ) [ 순살 ] 치킨",
+            "price": "24,000원"
+        },
+        {
+            "category": "[ 순살 ] 한마리 치킨",
+            "img_src": "",
+            "menu_name": "간장 [ 순살 ] 치킨",
+            "price": "23,000원"
+        },
+        {
+            "category": "[ 순살 ] 한마리 치킨",
+            "img_src": "",
+            "menu_name": "골드 슈프림양념 [ 순살 ] 치킨",
+            "price": "25,000원"
+        },
+        {
+            "category": "[ 순살 ] 한마리 치킨",
+            "img_src": "",
+            "menu_name": "블랙라벨 슈프림양념 [ 순살 ] 치킨",
+            "price": "25,000원"
+        },
+        {
+            "category": "[ 순살 ] 한마리 치킨",
+            "img_src": "",
+            "menu_name": "치즈 슈프림양념 [ 순살 ] 치킨",
+            "price": "24,000원"
+        },
+        {
+            "category": "[ 순살 ] 한마리 치킨",
+            "img_src": "",
+            "menu_name": "핫 슈프림양념 [ 순살 ] 치킨",
+            "price": "24,000원"
+        },
+        {
+            "category": "[ 순살 ] 한마리 치킨",
+            "img_src": "",
+            "menu_name": "100%청양산 고추양념 [ 순살 ] 치킨",
+            "price": "24,000원"
+        },
+        {
+            "category": "[ 순살 ] 한마리 치킨",
+            "img_src": "",
+            "menu_name": "매운불 양념 [ 순살 ] 치킨",
+            "price": "24,000원"
+        },
+        {
+            "category": "[ 순살 ] 한마리 치킨",
+            "img_src": "",
+            "menu_name": "XO양념 [ 순살 ] 치킨",
+            "price": "24,000원"
+        },
+        {
+            "category": "[ 순살 ] 한마리 치킨",
+            "img_src": "",
+            "menu_name": "꼬꼬뱅 [순살] 슈프림치킨",
+            "price": "25,000원"
+        },
+        {
+            "category": "[ 순살 ] +반반+ 한마리 치킨",
+            "img_src": "",
+            "menu_name": "반반 [ 순살 ] 치킨",
+            "price": "21,000원"
+        },
+        {
+            "category": "( 뼈 ) 두마리 치킨",
+            "img_src": "",
+            "menu_name": "두마리 세트 ( 뼈 )",
+            "price": "27,000원"
+        },
+        {
+            "category": "[ 순살 ] 두마리 치킨",
+            "img_src": "",
+            "menu_name": "두마리 세트 ( 순살 )",
+            "price": "29,000원"
+        },
+        {
+            "category": "닭다리 치킨",
+            "img_src": "",
+            "menu_name": "닭다리 특 大 ( 10개 )",
+            "price": "23,000원"
+        },
+        {
+            "category": "닭다리 치킨",
+            "img_src": "",
+            "menu_name": "닭다리 특 大 ( 8개 )",
+            "price": "21,000원"
+        },
+        {
+            "category": "닭다리 +반반+ 치킨",
+            "img_src": "",
+            "menu_name": "닭다리 특大 (10개 / 반반)",
+            "price": "23,000원"
+        },
+        {
+            "category": "닭다리 +반반+ 치킨",
+            "img_src": "",
+            "menu_name": "닭다리 특 大 (8개 / 반반 )",
+            "price": "21,000원"
+        },
+        {
+            "category": "날개 치킨",
+            "img_src": "",
+            "menu_name": "날개 치킨",
+            "price": "21,000원"
+        },
+        {
+            "category": "날개 +반반+ 치킨",
+            "img_src": "",
+            "menu_name": "날개 +반반+ 치킨",
+            "price": "21,000원"
+        },
+        {
+            "category": "사이드메뉴",
+            "img_src": "",
+            "menu_name": "무우 추가",
+            "price": "500원"
+        },
+        {
+            "category": "사이드메뉴",
+            "img_src": "",
+            "menu_name": "닭다리 추가 ( 1개 )",
+            "price": "2,000원"
+        },
+        {
+            "category": "사이드메뉴",
+            "img_src": "",
+            "menu_name": "닭다리 추가 ( 2개 )",
+            "price": "3,000원"
+        },
+        {
+            "category": "사이드메뉴",
+            "img_src": "",
+            "menu_name": "치즈볼(5개)",
+            "price": "3,500원"
+        },
+        {
+            "category": "사이드메뉴",
+            "img_src": "",
+            "menu_name": "미니핫도그(5개)",
+            "price": "4,000원"
+        },
+        {
+            "category": "사이드메뉴",
+            "img_src": "",
+            "menu_name": "펩시 사이즈 업(1.25ml)",
+            "price": "1,500원"
+        },
+        {
+            "category": "사이드메뉴",
+            "img_src": "",
+            "menu_name": "제로 펩시 추가(500ml)",
+            "price": "1,500원"
+        },
+        {
+            "category": "사이드메뉴",
+            "img_src": "",
+            "menu_name": "펩시 추가(500ml)",
+            "price": "1,500원"
+        },
+        {
+            "category": "사이드메뉴",
+            "img_src": "",
+            "menu_name": "펩시 추가(1.25L)",
+            "price": "2,000원"
+        },
+        {
+            "category": "사이드메뉴",
+            "img_src": "",
+            "menu_name": "양배추 샐러드",
+            "price": "1,000원"
+        },
+        {
+            "category": "사이드메뉴",
+            "img_src": "",
+            "menu_name": "햇반 ( 200g / 비조리 )",
+            "price": "1,500원"
+        },
+        {
+            "category": "사이드메뉴",
+            "img_src": "",
+            "menu_name": "감자튀김",
+            "price": "3,500원"
+        },
+        {
+            "category": "사이드메뉴",
+            "img_src": "",
+            "menu_name": "양념 감자튀김 ( 치즈 맛 )",
+            "price": "4,500원"
+        },
+        {
+            "category": "소스추가",
+            "img_src": "",
+            "menu_name": "양념소스(양념소스(40g))",
+            "price": "500원"
+        },
+        {
+            "category": "소스추가",
+            "img_src": "",
+            "menu_name": "겨자소스",
+            "price": "500원"
+        },
+        {
+            "category": "소스추가",
+            "img_src": "",
+            "menu_name": "슈프림소스(화이트소스)(슈프림소스(40g))",
+            "price": "1,000원"
+        },
+        {
+            "category": "소스추가",
+            "img_src": "",
+            "menu_name": "간장소스(간장소스(40g))",
+            "price": "1,000원"
+        },
+        {
+            "category": "소스추가",
+            "img_src": "",
+            "menu_name": "블랙라벨소스",
+            "price": "1,000원"
+        },
+        {
+            "category": "소스추가",
+            "img_src": "",
+            "menu_name": "핫슈프림 소스",
+            "price": "1,000원"
+        },
+        {
+            "category": "소스추가",
+            "img_src": "",
+            "menu_name": "치즈슈프림소스",
+            "price": "1,000원"
+        },
+        {
+            "category": "소스추가",
+            "img_src": "",
+            "menu_name": "청양고추양념소스",
+            "price": "1,000원"
+        },
+        {
+            "category": "소스추가",
+            "img_src": "",
+            "menu_name": "매운불 양념(매운불 양념(40g))",
+            "price": "1,000원"
+        },
+        {
+            "category": "소스추가",
+            "img_src": "",
+            "menu_name": "XO양념소스",
+            "price": "1,000원"
+        }
+    ]
+}

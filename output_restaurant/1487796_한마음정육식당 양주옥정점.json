@@ -1,0 +1,32 @@
+{
+    "store_name": "한마음정육식당 양주옥정점",
+    "store_location": "경기 양주시 회천남로 88 203호, 204호",
+    "loc_x": "208099.72178331",
+    "loc_y": "479558.389048661",
+    "menu": [
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20230925_219%2F1695601712677Mj3au_JPEG%2F2._%25BC%25D2_%25C7%25D1%25B8%25B6%25B8%25AE_crop.jpg",
+            "menu_name": "숙성 소 한마리",
+            "price": "69,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20230925_76%2F169560166729818ji8_JPEG%2F1._%25BC%25D2_%25B9%25DD%25B8%25B6%25B8%25AE_crop.jpg",
+            "menu_name": "숙성 소 반마리",
+            "price": "39,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20230925_159%2F1695601632634rre0k_JPEG%2F4._%25B5%25C5%25C1%25F6_%25C7%25D1%25B8%25B6%25B8%25AE_crop.jpg",
+            "menu_name": "숙성 돼지 한마리",
+            "price": "66,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20230925_156%2F1695601541067KQaAJ_JPEG%2F3._%25B5%25C5%25C1%25F6_%25B9%25DD%25B8%25B6%25B8%25AE_crop.jpg",
+            "menu_name": "숙성 돼지 반마리",
+            "price": "37,000원"
+        }
+    ]
+}

@@ -1,0 +1,272 @@
+{
+    "store_name": "카페꼭미남",
+    "store_location": "경기 남양주시 두물로27번길 10 1층",
+    "loc_x": "211171.37",
+    "loc_y": "461600.675",
+    "menu": [
+        {
+            "category": "대표메뉴",
+            "img_src": "",
+            "menu_name": "꼭미남 카이막 세트",
+            "price": "13,500원"
+        },
+        {
+            "category": "대표메뉴",
+            "img_src": "",
+            "menu_name": "쪽파크림치즈 베이글",
+            "price": "6,500원"
+        },
+        {
+            "category": "대표메뉴",
+            "img_src": "",
+            "menu_name": "오지리널 베이글",
+            "price": "3,700원"
+        },
+        {
+            "category": "대표메뉴",
+            "img_src": "",
+            "menu_name": "오리지널 크로와상",
+            "price": "3,700원"
+        },
+        {
+            "category": "디저트",
+            "img_src": "",
+            "menu_name": "쫀득쿠키",
+            "price": "4,000원"
+        },
+        {
+            "category": "디저트",
+            "img_src": "",
+            "menu_name": "슈크림십원빵",
+            "price": "3,500원"
+        },
+        {
+            "category": "디저트",
+            "img_src": "",
+            "menu_name": "치즈폭탄십원빵",
+            "price": "4,900원"
+        },
+        {
+            "category": "디저트",
+            "img_src": "",
+            "menu_name": "치즈십원빵",
+            "price": "3,900원"
+        },
+        {
+            "category": "꼭미남 추천메뉴",
+            "img_src": "",
+            "menu_name": "아메리카노",
+            "price": "100원"
+        },
+        {
+            "category": "꼭미남 추천메뉴",
+            "img_src": "",
+            "menu_name": "꼭미남 카이막 세트",
+            "price": "13,500원"
+        },
+        {
+            "category": "꼭미남 추천메뉴",
+            "img_src": "",
+            "menu_name": "쪽파크림치즈 베이글",
+            "price": "6,500원"
+        },
+        {
+            "category": "BAGEL",
+            "img_src": "",
+            "menu_name": "오지리널 베이글",
+            "price": "3,700원"
+        },
+        {
+            "category": "BAGEL",
+            "img_src": "",
+            "menu_name": "생크림 베이글",
+            "price": "6,000원"
+        },
+        {
+            "category": "BAGEL",
+            "img_src": "",
+            "menu_name": "블루베리크림치즈 베이글",
+            "price": "6,000원"
+        },
+        {
+            "category": "BAGEL",
+            "img_src": "",
+            "menu_name": "호두크림치즈 베이글",
+            "price": "6,500원"
+        },
+        {
+            "category": "BAGEL",
+            "img_src": "",
+            "menu_name": "무화과 크림치즈 베이글",
+            "price": "6,500원"
+        },
+        {
+            "category": "크로와상",
+            "img_src": "",
+            "menu_name": "오리지널 크로와상",
+            "price": "3,700원"
+        },
+        {
+            "category": "꼭 드셔야 할 COFFEE",
+            "img_src": "",
+            "menu_name": "꼭미남라떼",
+            "price": "5,500원"
+        },
+        {
+            "category": "꼭 드셔야 할 COFFEE",
+            "img_src": "",
+            "menu_name": "꼭미남달달라떼",
+            "price": "6,000원"
+        },
+        {
+            "category": "꼭 드셔야 할 COFFEE",
+            "img_src": "",
+            "menu_name": "아몬드 카페라떼",
+            "price": "6,000원"
+        },
+        {
+            "category": "CREAM",
+            "img_src": "",
+            "menu_name": "아몬드크림라떼(only ice)",
+            "price": "6,500원"
+        },
+        {
+            "category": "CREAM",
+            "img_src": "",
+            "menu_name": "아인슈페너(only ice)",
+            "price": "6,500원"
+        },
+        {
+            "category": "COFFEE",
+            "img_src": "",
+            "menu_name": "헤이즐넛",
+            "price": "5,500원"
+        },
+        {
+            "category": "COFFEE",
+            "img_src": "",
+            "menu_name": "돌체라떼",
+            "price": "6,000원"
+        },
+        {
+            "category": "COFFEE",
+            "img_src": "",
+            "menu_name": "바닐라라떼",
+            "price": "6,000원"
+        },
+        {
+            "category": "COFFEE",
+            "img_src": "",
+            "menu_name": "누텔라 라떼(ice 도 가능)",
+            "price": "6,000원"
+        },
+        {
+            "category": "ADE",
+            "img_src": "",
+            "menu_name": "자몽에이드",
+            "price": "6,000원"
+        },
+        {
+            "category": "ADE",
+            "img_src": "",
+            "menu_name": "석류유자에이드",
+            "price": "6,000원"
+        },
+        {
+            "category": "ADE",
+            "img_src": "",
+            "menu_name": "유자레몬에이드",
+            "price": "6,000원"
+        },
+        {
+            "category": "MILK&DRINK(hand made)",
+            "img_src": "",
+            "menu_name": "바나나 우유 (only ice)",
+            "price": "6,500원"
+        },
+        {
+            "category": "MILK&DRINK(hand made)",
+            "img_src": "",
+            "menu_name": "리얼 고구마 라떼(only hot)",
+            "price": "6,500원"
+        },
+        {
+            "category": "MILK&DRINK(hand made)",
+            "img_src": "",
+            "menu_name": "핫초코(ice도 가능)",
+            "price": "5,500원"
+        },
+        {
+            "category": "MILK&DRINK(hand made)",
+            "img_src": "",
+            "menu_name": "망고스무디 (ice)",
+            "price": "7,000원"
+        },
+        {
+            "category": "MILK&DRINK(hand made)",
+            "img_src": "",
+            "menu_name": "초코바나나우유(ice)",
+            "price": "6,500원"
+        },
+        {
+            "category": "MILK&DRINK(hand made)",
+            "img_src": "",
+            "menu_name": "밀크티라떼",
+            "price": "6,500원"
+        },
+        {
+            "category": "MILK&DRINK(hand made)",
+            "img_src": "",
+            "menu_name": "15곡미숫가루(ice)",
+            "price": "6,000원"
+        },
+        {
+            "category": "MILK&DRINK(hand made)",
+            "img_src": "",
+            "menu_name": "흑임자라떼(샷X)",
+            "price": "6,500원"
+        },
+        {
+            "category": "MILK&DRINK(hand made)",
+            "img_src": "",
+            "menu_name": "리얼생딸기라떼",
+            "price": "7,000원"
+        },
+        {
+            "category": "TEA (hand made)",
+            "img_src": "",
+            "menu_name": "자몽 TEA",
+            "price": "6,000원"
+        },
+        {
+            "category": "TEA (hand made)",
+            "img_src": "",
+            "menu_name": "레몬 TEA",
+            "price": "6,000원"
+        },
+        {
+            "category": "TEA (hand made)",
+            "img_src": "",
+            "menu_name": "석류유자 TEA",
+            "price": "6,000원"
+        },
+        {
+            "category": "TEA (hand made)",
+            "img_src": "",
+            "menu_name": "유자레몬 TEA",
+            "price": "6,000원"
+        },
+        {
+            "category": "TEA (hand made)",
+            "img_src": "",
+            "menu_name": "애플유자티",
+            "price": "6,500원"
+        },
+        {
+            "category": "TEA (hand made)",
+            "img_src": "",
+            "menu_name": "허니자몽블랙티",
+            "price": "6,500원"
+        }
+    ]
+}

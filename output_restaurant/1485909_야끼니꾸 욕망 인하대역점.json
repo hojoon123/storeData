@@ -1,0 +1,68 @@
+{
+    "store_name": "야끼니꾸 욕망 인하대역점",
+    "store_location": "인천 미추홀구 용정공원로83번길 49 1층 128호",
+    "loc_x": "168827.925405046",
+    "loc_y": "438441.946560006",
+    "menu": [
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241208_78%2F17336525532424GSpg_JPEG%2FKakaoTalk_20241208_182134422_14.jpg",
+            "menu_name": "한우호루몬특모둠",
+            "price": "19,900원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241208_90%2F1733651926410UCP1o_JPEG%2FKakaoTalk_20241208_182111352_25.jpg",
+            "menu_name": "한우곱창",
+            "price": "17,900원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241208_234%2F17336519946493Oub5_JPEG%2FKakaoTalk_20241208_182111352_16.jpg",
+            "menu_name": "한우대창",
+            "price": "17,900원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241208_166%2F1733652026612kiJvI_JPEG%2FKakaoTalk_20241208_182111352_26.jpg",
+            "menu_name": "소막창",
+            "price": "17,900원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241208_176%2F1733652361769H6jRQ_JPEG%2FKakaoTalk_20241208_182123580_06.jpg",
+            "menu_name": "한우염통",
+            "price": "9,900원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241208_270%2F1733652324450yB7cb_JPEG%2FKakaoTalk_20241208_182111352_02.jpg",
+            "menu_name": "꽃갈비",
+            "price": "19,900원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241208_187%2F1733652431292wK4Kv_JPEG%2FKakaoTalk_20241208_182111352_04.jpg",
+            "menu_name": "안창살",
+            "price": "14,900원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241208_24%2F1733652464932yqVBh_JPEG%2FKakaoTalk_20241208_182111352_09.jpg",
+            "menu_name": "부채살",
+            "price": "10,900원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241208_15%2F1733652486670gCjoR_JPEG%2FKakaoTalk_20241208_182111352_06.jpg",
+            "menu_name": "늑간살",
+            "price": "11,900원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241213_83%2F1734017293214M6Kct_JPEG%2F1000011547.jpg",
+            "menu_name": "하이볼주류무제한",
+            "price": "17,900원"
+        }
+    ]
+}

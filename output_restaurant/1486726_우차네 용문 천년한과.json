@@ -1,0 +1,74 @@
+{
+    "store_name": "우차네 용문 천년한과",
+    "store_location": "경기 양평군 용문면 용문산로 646 천년한과",
+    "loc_x": "251460.712224768",
+    "loc_y": "449443.504905968",
+    "menu": [
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20221025_252%2F1666679406945Ywmgd_JPEG%2FA2D9B4E0-4E14-464C-9E05-1228670E1D97.jpeg",
+            "menu_name": "연잎한과",
+            "price": "10,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20221025_170%2F1666679437809z4XLu_JPEG%2F88202C3D-8BFF-4865-AF2F-A20C44BCEE31.jpeg",
+            "menu_name": "백년초 유과",
+            "price": "10,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20221025_26%2F1666679468374MKJ5p_JPEG%2F9FD91959-2D63-4233-967A-6CE9E3031475.jpeg",
+            "menu_name": "메밀 유과",
+            "price": "10,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20221025_50%2F1666679490894so8B9_JPEG%2F8E696965-6187-48A5-9C04-E34F03A5353C.jpeg",
+            "menu_name": "청귤 약과",
+            "price": "10,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20221025_280%2F1666679597354yKRDy_JPEG%2FC985ECC8-0F6D-427C-8485-4D3C8E579D7A.jpeg",
+            "menu_name": "오란다",
+            "price": "10,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20221025_254%2F1666679512768FxP94_JPEG%2F7D65A616-2423-4111-A735-C3165C919E5A.jpeg",
+            "menu_name": "검은깨 강정",
+            "price": "10,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20221031_194%2F1667211291054VfuOe_JPEG%2F6CB92043-DE59-48AD-8A80-4B25023472F1.jpeg",
+            "menu_name": "도라지 조청",
+            "price": "30,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20221031_96%2F1667211315733MaqaI_JPEG%2F2402C396-927B-4E2C-A597-82F716826460.jpeg",
+            "menu_name": "생강 조청",
+            "price": "30,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20221031_70%2F1667211339460c7A05_JPEG%2F4F742DB9-F513-41D1-9BF2-45DB4664EBBA.jpeg",
+            "menu_name": "인진쑥 조정",
+            "price": "30,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20221031_216%2F1667211363691KpizA_JPEG%2FB1376EC7-B111-4A6E-8AB1-39962FF3A5D8.jpeg",
+            "menu_name": "무 조청",
+            "price": "25,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20221031_270%2F1667211381846nYOOm_JPEG%2F49928AE7-9673-4652-8E7B-2D68BFF81FD6.jpeg",
+            "menu_name": "양배추 조청",
+            "price": "25,000원"
+        }
+    ]
+}

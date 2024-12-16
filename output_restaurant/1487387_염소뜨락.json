@@ -1,0 +1,92 @@
+{
+    "store_name": "염소뜨락",
+    "store_location": "충남 당진시 송악읍 반촌로 217-28",
+    "loc_x": "173671.821646638",
+    "loc_y": "377562.934780115",
+    "menu": [
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241129_128%2F1732840238347vBGpn_PNG%2F%25C0%25CC%25B9%25CC%25C1%25F6_%25C1%25D8%25BA%25F1%25C1%25DF_%25BD%25C4%25B4%25E7.png",
+            "menu_name": "염소갈비수육 (1인분)",
+            "price": "29,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241129_235%2F1732840165257tBP48_PNG%2F%25C0%25CC%25B9%25CC%25C1%25F6_%25C1%25D8%25BA%25F1%25C1%25DF_%25BD%25C4%25B4%25E7.png",
+            "menu_name": "염소갈비전골 (1인분)",
+            "price": "28,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241129_213%2F17328401453832A8g9_PNG%2F%25C0%25CC%25B9%25CC%25C1%25F6_%25C1%25D8%25BA%25F1%25C1%25DF_%25BD%25C4%25B4%25E7.png",
+            "menu_name": "염소참갈비 (한접시)",
+            "price": "39,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241129_165%2F1732840131909z4bq7_PNG%2F%25C0%25CC%25B9%25CC%25C1%25F6_%25C1%25D8%25BA%25F1%25C1%25DF_%25BD%25C4%25B4%25E7.png",
+            "menu_name": "염소무침 (한접시)",
+            "price": "39,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241129_269%2F1732840116274AERfd_PNG%2F%25C0%25CC%25B9%25CC%25C1%25F6_%25C1%25D8%25BA%25F1%25C1%25DF_%25BD%25C4%25B4%25E7.png",
+            "menu_name": "염소고기볶음 (한접시)",
+            "price": "39,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241129_84%2F1732840096626SQ63y_PNG%2F%25C0%25CC%25B9%25CC%25C1%25F6_%25C1%25D8%25BA%25F1%25C1%25DF_%25BD%25C4%25B4%25E7.png",
+            "menu_name": "염소갈비탕(일반)",
+            "price": "16,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241129_252%2F1732840050212hQIWq_PNG%2F%25C0%25CC%25B9%25CC%25C1%25F6_%25C1%25D8%25BA%25F1%25C1%25DF_%25BD%25C4%25B4%25E7.png",
+            "menu_name": "염소갈비탕(특)",
+            "price": "20,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241129_35%2F1732840019735yyRBz_PNG%2F%25C0%25CC%25B9%25CC%25C1%25F6_%25C1%25D8%25BA%25F1%25C1%25DF_%25BD%25C4%25B4%25E7.png",
+            "menu_name": "염소사골곰탕(일반)",
+            "price": "15,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241129_98%2F17328400053811OLI5_PNG%2F%25C0%25CC%25B9%25CC%25C1%25F6_%25C1%25D8%25BA%25F1%25C1%25DF_%25BD%25C4%25B4%25E7.png",
+            "menu_name": "염소사골곰탕(특)",
+            "price": "19,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241129_219%2F1732839989363n5d2r_JPEG%2F%25C1%25A6%25B8%25F1%25C0%25BB_%25C0%25D4%25B7%25C2%25C7%25D8%25C1%25D6%25BC%25BC%25BF%25E4_-001.jpg",
+            "menu_name": "염소탕(일반)",
+            "price": "14,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241129_87%2F1732839977121fzPeD_PNG%2F%25C0%25CC%25B9%25CC%25C1%25F6_%25C1%25D8%25BA%25F1%25C1%25DF_%25BD%25C4%25B4%25E7.png",
+            "menu_name": "염소탕(특)",
+            "price": "18,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241129_212%2F1732839962523Xt8Fq_PNG%2F%25C0%25CC%25B9%25CC%25C1%25F6_%25C1%25D8%25BA%25F1%25C1%25DF_%25BD%25C4%25B4%25E7.png",
+            "menu_name": "한방삼계탕",
+            "price": "17,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241129_161%2F1732839935767zhN4y_PNG%2F%25C0%25CC%25B9%25CC%25C1%25F6_%25C1%25D8%25BA%25F1%25C1%25DF_%25BD%25C4%25B4%25E7.png",
+            "menu_name": "고기추가 (180g)",
+            "price": "25,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241129_182%2F17328399220449lOjO_PNG%2F%25C0%25CC%25B9%25CC%25C1%25F6_%25C1%25D8%25BA%25F1%25C1%25DF_%25BD%25C4%25B4%25E7.png",
+            "menu_name": "- 야채/버섯 추가 -",
+            "price": "5,000원"
+        }
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "store_name": "용코로만두",
+    "store_location": "경기 부천시 원미구 길주로 183 1층 108호",
+    "loc_x": "178971.057637214",
+    "loc_y": "444811.384758646",
+    "menu": [
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241205_138%2F17334097845104pT8c_JPEG%2FIMG_2844.jpeg",
+            "menu_name": "김치만두",
+            "price": "4,500원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241205_102%2F1733409412327smI5v_JPEG%2FIMG_2823.jpeg",
+            "menu_name": "새우만두",
+            "price": "4,500원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241205_281%2F1733409717485JkRbc_JPEG%2FIMG_2834.jpeg",
+            "menu_name": "고기만두",
+            "price": "4,500원"
+        }
+    ]
+}

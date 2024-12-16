@@ -1,0 +1,68 @@
+{
+    "store_name": "뚱채김밥 현풍테크노점",
+    "store_location": "대구 달성군 현풍읍 테크노상업로 52 1층 106호",
+    "loc_x": "331566.323684698",
+    "loc_y": "244657.178374737",
+    "menu": [
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20231202_30%2F1701512803730694vH_PNG%2F%25BD%25BA%25C5%25A9%25B8%25B0%25BC%25A6_2023-10-04_%25BF%25C0%25C8%25C4_5.49.57.png",
+            "menu_name": "둘둘이통김밥",
+            "price": "2,000원"
+        },
+        {
+            "category": "",
+            "img_src": "",
+            "menu_name": "참치둘둘이",
+            "price": "2,500원"
+        },
+        {
+            "category": "",
+            "img_src": "",
+            "menu_name": "불고기둘둘이",
+            "price": "3,000원"
+        },
+        {
+            "category": "",
+            "img_src": "",
+            "menu_name": "야채김밥",
+            "price": "2,500원"
+        },
+        {
+            "category": "",
+            "img_src": "",
+            "menu_name": "매콤진미",
+            "price": "3,500원"
+        },
+        {
+            "category": "",
+            "img_src": "",
+            "menu_name": "참치김밥",
+            "price": "3,500원"
+        },
+        {
+            "category": "",
+            "img_src": "",
+            "menu_name": "마요크래미",
+            "price": "3,500원"
+        },
+        {
+            "category": "",
+            "img_src": "",
+            "menu_name": "매콤크래미",
+            "price": "4,000원"
+        },
+        {
+            "category": "",
+            "img_src": "",
+            "menu_name": "참치랑진미랑",
+            "price": "4,000원"
+        },
+        {
+            "category": "",
+            "img_src": "",
+            "menu_name": "불고기김밥",
+            "price": "4,000원"
+        }
+    ]
+}

@@ -1,0 +1,134 @@
+{
+    "store_name": "가장맛있는족발 동탄대로점",
+    "store_location": "경기 화성시 동탄대로14길 5-42",
+    "loc_x": "209144.252204683",
+    "loc_y": "409210.256485438",
+    "menu": [
+        {
+            "category": "가장맛있는 족발&보쌈",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20240315_20/17104825332907AIsS_JPEG/3._%C1%F7%C8%AD%BA%D2%C1%B7%B9%DF.jpg?type=f220_220_60_sharpen",
+            "menu_name": "[[불향가득]] 직화불족발",
+            "price": "39,000원"
+        },
+        {
+            "category": "가장맛있는 족발&보쌈",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20240315_232/171048264841820GKb_JPEG/6._%B0%A1%C1%B7%C0%C7%BA%D2%C1%B7%BA%B8.jpg?type=f220_220_60_sharpen",
+            "menu_name": "[[환상꿀조합]] 가족의불족발+보쌈",
+            "price": "39,000원"
+        },
+        {
+            "category": "가장맛있는 족발&보쌈",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20240315_237/17104823207782TO8A_JPEG/1._%C1%B7%B9%DF.jpg?type=f220_220_60_sharpen",
+            "menu_name": "[[100% 국내산]] 매일 삶는 명품족발(중)",
+            "price": "35,000원"
+        },
+        {
+            "category": "가장맛있는 족발&보쌈",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20240315_145/17104824956112J5QP_JPEG/2.%BA%B8%BD%D3.jpg?type=f220_220_60_sharpen",
+            "menu_name": "[[야들야들]] 인생보쌈(대)",
+            "price": "39,000원"
+        },
+        {
+            "category": "가장맛있는 족발&보쌈",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20240315_37/1710482606241P50rz_JPEG/5.%B0%A1%C1%B7%C0%C7%C1%B7%BA%B8.jpg?type=f220_220_60_sharpen",
+            "menu_name": "[[주문폭주]] 가족의족발+보쌈",
+            "price": "50,000원"
+        },
+        {
+            "category": "가장맛있는 족발&보쌈",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20240315_14/1710482559312d27H1_JPEG/5.%B0%A1%C1%B7%C0%C7%C1%B7%BA%B8.jpg?type=f220_220_60_sharpen",
+            "menu_name": "[[주문폭주]] 가족의족발+보쌈(중)",
+            "price": "39,000원"
+        },
+        {
+            "category": "가장맛있는 족발&보쌈",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20240315_67/1710482740854qwaRB_JPEG/7._%B0%A1%C1%B7%C0%C7%B9%DD%B9%DD%C1%B7%BA%B8.jpg?type=f220_220_60_sharpen",
+            "menu_name": "[[1석3조]] 가족의 반반족보",
+            "price": "56,000원"
+        },
+        {
+            "category": "가장맛있는 족발&보쌈",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20240315_193/17104823960907bJk4_JPEG/4.%B9%DD%B9%DD%C1%B7%B9%DF.jpg?type=f220_220_60_sharpen",
+            "menu_name": "[[가족대표]] 국내산 반반족발",
+            "price": "39,000원"
+        },
+        {
+            "category": "가장맛있는 족발&보쌈",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20240315_69/1710482440550X1Otx_JPEG/2.%BA%B8%BD%D3.jpg?type=f220_220_60_sharpen",
+            "menu_name": "[[직접 삶은]] 야들야들 인생보쌈(중)",
+            "price": "34,000원"
+        },
+        {
+            "category": "가장맛있는 족발&보쌈",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20240315_28/1710482661190Sn3ou_JPEG/8.%B3%C3%C3%A4%C1%B7%B9%DF.jpg?type=f220_220_60_sharpen",
+            "menu_name": "[[새콤달콤]] 냉채족발",
+            "price": "39,000원"
+        },
+        {
+            "category": "가장맛있는 족발&보쌈",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20240315_71/1710482353827M4d16_JPEG/1._%C1%B7%B9%DF.jpg?type=f220_220_60_sharpen",
+            "menu_name": "[[1등 프랜차이즈]] 국내산 명품족발(대)",
+            "price": "39,000원"
+        },
+        {
+            "category": "사이드 메뉴와 함께~",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20240315_42/1710482899872O1sE9_JPEG/12._%C5%AB%C0%EF%B9%DD%B1%B9%BC%F6.jpg?type=f220_220_60_sharpen",
+            "menu_name": "[[냉면대신]] 쟁반국수(대)",
+            "price": "12,000원"
+        },
+        {
+            "category": "사이드 메뉴와 함께~",
+            "img_src": "",
+            "menu_name": "[[탱글탱글]] 계란찜",
+            "price": "2,000원"
+        },
+        {
+            "category": "사이드 메뉴와 함께~",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20240315_65/1710482788001GEiFC_JPEG/12._%C5%AB%C0%EF%B9%DD%B1%B9%BC%F6.jpg?type=f220_220_60_sharpen",
+            "menu_name": "[[냉면대신]] 쟁반국수(중)",
+            "price": "6,000원"
+        },
+        {
+            "category": "사이드 메뉴와 함께~",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20240315_105/1710483155109sSnSn_JPEG/19._%BA%B8%BD%D3%B9%AB%B1%E8%C4%A1.jpg?type=f220_220_60_sharpen",
+            "menu_name": "[[고기와 함께]] 보쌈김치",
+            "price": "5,000원"
+        },
+        {
+            "category": "사이드 메뉴와 함께~",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20240315_257/17104830138872D5Jv_JPEG/%B0%F8%B1%E2%B9%E4.jpg?type=f220_220_60_sharpen",
+            "menu_name": "[[든든하게]] 공기밥",
+            "price": "1,000원"
+        },
+        {
+            "category": "사이드 메뉴와 함께~",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20240315_46/17104831116527UOJF_JPEG/13._%BE%F3%C5%AB%BC%FA%B1%B9.jpg?type=f220_220_60_sharpen",
+            "menu_name": "[[순대국 보다]] 얼큰술국",
+            "price": "12,000원"
+        },
+        {
+            "category": "사이드 메뉴와 함께~",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20240315_278/1710482980544LyigN_PNG/%C1%D6%B8%D4%B9%E4.png?type=f220_220_60_sharpen",
+            "menu_name": "[[김밥 말고]] 날치알 주먹밥",
+            "price": "3,000원"
+        },
+        {
+            "category": "사이드 메뉴와 함께~",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20240315_19/1710483084364ry9HD_JPEG/14._%B0%A1%B8%B6%BA%B8%B2%BF%BF%C0%B5%AD%C5%C1.jpg?type=f220_220_60_sharpen",
+            "menu_name": "[[마라탕 말고]] 가마보꼬 모듬오뎅탕",
+            "price": "12,000원"
+        },
+        {
+            "category": "사이드 메뉴와 함께~",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20240315_30/17104832011857gyn0_JPEG/20._%B9%AB%BB%C0%BA%D2%B4%DF%B9%DF.jpg?type=f220_220_60_sharpen",
+            "menu_name": "[[가장맛있는닭발]] 무뼈 불닭발",
+            "price": "18,000원"
+        },
+        {
+            "category": "사이드 메뉴와 함께~",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20240315_18/1710483049316kIiF6_JPEG/15._%C7%D8%B9%B0%BA%CE%C3%DF%C0%FC.jpg?type=f220_220_60_sharpen",
+            "menu_name": "[[비오는날]] 해물부추전",
+            "price": "12,000원"
+        }
+    ]
+}

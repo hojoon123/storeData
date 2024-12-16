@@ -1,0 +1,308 @@
+{
+    "store_name": "설맥 광주쌍령점",
+    "store_location": "경기 광주시 경충대로 1430 208동 B07,08",
+    "loc_x": "224319.057301047",
+    "loc_y": "432896.750272684",
+    "menu": [
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240529_194%2F1716970384349XUUe2_JPEG%2F1.%25BD%25BA%25C6%25C4%25C0%25CC%25BD%25C3%25BC%25B3%25B8%25C6%25C4%25A1%25C5%25B219900.jpg",
+            "menu_name": "스파이시설맥치킨",
+            "price": "19,900원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240529_58%2F1716970261938qv2uV_JPEG%2F10.%25BD%25D3%25BD%25BA%25C5%25D7%25C0%25CC%25C5%25B0209.jpg",
+            "menu_name": "쌈스테이키",
+            "price": "20,900원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240529_296%2F1716970372590G73Lg_JPEG%2F2.%25C2%25FD%25BD%25D2%25C4%25A1%25C5%25B219900.jpg",
+            "menu_name": "찹쌀치킨",
+            "price": "19,900원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240529_278%2F1716970360484abuur_JPEG%2F3.%25BC%25F8%25BB%25EC%25B8%25B6%25B4%25C3%25B0%25A3%25C0%25E5%25C4%25A1%25C5%25B2209.jpg",
+            "menu_name": "순살마늘간장치킨",
+            "price": "20,900원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240529_39%2F1716970349430Yk8nj_JPEG%2F4.%25C4%25A1%25C1%25EE%25B5%25B9%25B5%25B9%25B4%25DF%25B0%25AD%25C1%25A4179.jpg",
+            "menu_name": "치즈돌돌닭강정",
+            "price": "17,900원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240529_180%2F1716970337847yDfrd_JPEG%2F5.%25C4%25A1%25C1%25EE%25B5%25B9%25B5%25B9%25B4%25DF%25B3%25AF%25B0%25B3189.jpg",
+            "menu_name": "치즈돌돌닭날개",
+            "price": "18,900원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240529_113%2F1716970322496KweJW_JPEG%2F6.%25B0%25ED%25B8%25A3%25B0%25EF149.jpg",
+            "menu_name": "고르곤졸라 화덕피자",
+            "price": "14,900원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240529_185%2F1716970311696Fumbz_JPEG%2F7._%25C6%25E4%25C6%25DB%25B7%25CE%25B4%25CF%25C7%25C7%25C0%25DA149.jpg",
+            "menu_name": "페퍼로니 화덕피자",
+            "price": "14,900원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240529_218%2F1716970297447JdoD4_JPEG%2F8.%25C5%25F5%25BF%25F2%25B9%25D9%25BA%25FC%25B3%25D7%25BF%25EC%25B5%25BF149.jpg",
+            "menu_name": "투움바빠네우동",
+            "price": "14,900원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240529_285%2F1716970281609OEglT_JPEG%2F9.%25C5%25F5%25BF%25F2%25B9%25D9%25B4%25A2%25B3%25A2159.jpg",
+            "menu_name": "투움바쉬림프뇨끼",
+            "price": "15,900원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240529_200%2F17169702508649xcoP_JPEG%2F11.%25B0%25F1%25B9%25F0%25C0%25CC%25B9%25AB%25C4%25A7179.jpg",
+            "menu_name": "골뱅이무침",
+            "price": "17,900원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240529_233%2F17169702368464t88F_JPEG%2F12.%25B0%25A5%25B8%25AF%25B9%25F6%25C5%25CD%25BC%25D2%25BC%25BC%25C1%25F6159.JPG",
+            "menu_name": "갈릭버터소세지",
+            "price": "15,900원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240529_134%2F1716970219048QHNeu_JPEG%2F13.%25BF%25C0%25B5%25B9%25BB%25C0%25BA%25BA%25C0%25BD139.jpg",
+            "menu_name": "오돌뼈볶음",
+            "price": "13,900원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240529_228%2F1716970199731oPLbk_JPEG%2F14.%25C6%25AB%25B8%25B3%25B4%25DF%25B9%25DF179.jpg",
+            "menu_name": "매콤튤립닭발",
+            "price": "17,900원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240529_217%2F17169701881265j4jh_JPEG%2F15.%25B0%25A8%25B9%25D9%25BD%25BA179.jpg",
+            "menu_name": "감바스",
+            "price": "17,900원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240529_286%2F1716970173862NAhun_JPEG%2F16.%25C4%25AB%25C5%25B8%25C0%25CC%25C7%25C7%25BB%25F5%25BF%25EC%25C6%25A2%25B1%25E8139.jpg",
+            "menu_name": "카타이피새우튀김",
+            "price": "13,900원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240529_164%2F17169701529550at8B_JPEG%2F17.%25C5%25D7%25B9%25D9%25BB%25E7%25C5%25B0%25C7%25CF%25C7%25C1%25C0%25AE119.jpg",
+            "menu_name": "테바사키하프윙",
+            "price": "11,900원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240529_176%2F1716970132623Aed6u_JPEG%2F18.%25C6%25A2%25B1%25E8%25C7%25C3%25B7%25A1%25C5%25CD139.jpg",
+            "menu_name": "튀김플래터",
+            "price": "13,900원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240529_205%2F1716970118289Fjxm8_JPEG%2F19.%25B4%25AB%25B2%25C9%25C4%25A1%25C1%25EE%25B0%25A8%25C0%25DA%25C3%25A4%25C0%25FC129.jpg",
+            "menu_name": "눈꽃치즈감자채전",
+            "price": "12,900원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240529_236%2F1716970106650ME7UW_JPEG%2F20.%25C4%25A1%25C5%25B2%25C5%25D9%25B4%25F5%25BB%25F8%25B7%25AF%25B5%25E5129.jpg",
+            "menu_name": "치킨텐더샐러드",
+            "price": "12,900원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240529_181%2F1716970087695npK5z_JPEG%2F21.%25C5%25EB%25BF%25C0%25C2%25A1%25BE%25EE%25C6%25A2%25B1%25E8109.jpg",
+            "menu_name": "통오징어튀김",
+            "price": "10,900원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240529_45%2F1716970077186m7NNY_JPEG%2F22.%25C4%25A1%25B0%25A8%25C4%25A8%25BD%25BA139.jpg",
+            "menu_name": "치감칩스",
+            "price": "13,900원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240529_185%2F17169700642991rgMa_JPEG%2F23.%25C4%25A1%25C1%25EE%25B7%25D1%25B1%25EE%25BD%25BA129.jpg",
+            "menu_name": "치즈롤까스",
+            "price": "12,900원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240529_271%2F1716970051763SEJWY_JPEG%2F24.%25BE%25C6%25B6%25F5%25C4%25A1%25B4%25CF99.jpg",
+            "menu_name": "아란치니",
+            "price": "9,900원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240529_89%2F1716970038209bs28d_JPEG%2F25.%25BF%25EC%25BB%25EF%25B0%25E3%25BB%25F5%25BF%25EC%25C0%25FC%25B0%25F1199.jpg",
+            "menu_name": "우삼겹새우전골",
+            "price": "19,900원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240529_235%2F1716970019688Twlbh_JPEG%2F26.%25B9%25E9%25C7%25D5%25B0%25A1%25B8%25AE%25BA%25F1%25B9%25F6%25C5%25CD%25BC%25FA%25C2%25F2159.jpg",
+            "menu_name": "백합가리비버터술찜",
+            "price": "15,900원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240529_79%2F1716970001006hNIo1_JPEG%2F27.%25B0%25F1%25B9%25F0%25C0%25CC%25C5%25C1189.jpg",
+            "menu_name": "골뱅이탕",
+            "price": "18,900원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240529_6%2F1716969985437MuVos_JPEG%2F28.%25B3%25AA%25B0%25A1%25BB%25E7%25C5%25B0%25C2%25AB%25BB%25CD%25C5%25C1189.jpg",
+            "menu_name": "나가사키짬뽕탕",
+            "price": "18,900원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240529_175%2F1716969969001voyzt_JPEG%2F29.%25B8%25F0%25B5%25EB%25B2%25BF%25C1%25F6%25BE%25EE%25B9%25AC%25C5%25C1169.jpg",
+            "menu_name": "모듬꼬지어묵탕",
+            "price": "16,900원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240529_1%2F1716969956049JSARa_JPEG%2F30.%25C1%25B6%25B0%25B3%25C5%25C1179.jpg",
+            "menu_name": "조개탕",
+            "price": "17,900원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240529_74%2F1716969944468B827h_JPEG%2F31.%25C8%25AB%25C7%25D5%25C2%25AB%25BB%25CD%25C5%25C1189.jpg",
+            "menu_name": "홍합짬뽕탕",
+            "price": "18,900원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240529_202%2F1716969928048FK1Kk_JPEG%2F32.%25B8%25C5%25C4%25DE%25B4%25DE%25B4%25DE%25B6%25B1%25BA%25BA%25C0%25CC119.jpg",
+            "menu_name": "매콤달달떡볶이",
+            "price": "11,900원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240529_163%2F1716969911718tDrhE_JPEG%2F33.%25C2%25AB%25BB%25CD%25C2%25A5%25C0%25E5%25B8%25B8%25B5%25CE69.jpg",
+            "menu_name": "짬뽕&짜장만두",
+            "price": "6,900원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240529_168%2F1716969896545QLjSd_JPEG%2F34.%25B8%25F3%25BD%25BA%25C5%25CD%25C4%25A1%25C1%25EE%25BA%25C0109.jpg",
+            "menu_name": "몬스터치즈봉",
+            "price": "10,900원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240529_234%2F1716969880652URNzb_JPEG%2F35.%25BD%25BA%25B3%25BC%25B9%25D9%25BD%25BA%25C4%25CF89.jpg",
+            "menu_name": "스낵바스켓",
+            "price": "8,900원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240529_175%2F1716969853337WJ12y_JPEG%2F36.%25B8%25F0%25B5%25EB%25B0%25A8%25C0%25DA%25C6%25A2%25B1%25E899.jpg",
+            "menu_name": "모듬감자튀김",
+            "price": "9,900원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240529_81%2F1716969837446kaCzk_JPEG%2F37.%25BC%25B3%25B8%25C6%25B3%25AA%25C3%25CA99.jpg",
+            "menu_name": "설맥나초",
+            "price": "9,900원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240529_264%2F1716969807187GYp8H_JPEG%2F38.%25BC%25B3%25B8%25C6%25BF%25D5%25C8%25A3%25B6%25B1129.jpg",
+            "menu_name": "설맥왕호떡",
+            "price": "12,900원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240529_255%2F1716969784764FTrso_JPEG%2F39.%25BB%25A9%25BB%25A9%25BF%25C0%25C2%25A1%25BE%25EE%25BF%25CD%25B8%25BB%25B6%25FB%25C1%25B7119.jpg",
+            "menu_name": "빼빼오징어와말랑족",
+            "price": "11,900원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240529_68%2F1716969769251fdxRV_JPEG%2F40.%25B0%25A1%25B9%25AE%25BE%25EE%25C5%25EB%25C1%25B799.jpg",
+            "menu_name": "가문어통족",
+            "price": "9,900원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240529_185%2F1716969743225fwz6e_JPEG%2F41.%25B8%25F0%25B5%25EB%25B8%25B6%25B8%25A5%25BE%25C8%25C1%25D6159.jpg",
+            "menu_name": "모듬마른안주",
+            "price": "15,900원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240529_11%2F1716969727208ILeG0_JPEG%2F42.%25B9%25F6%25C5%25CD%25B8%25D4%25C0%25BA%25B8%25D4%25C5%25C2159.JPG",
+            "menu_name": "버터먹은먹태",
+            "price": "15,900원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240529_76%2F1716969705900XHoUC_JPEG%2F43.%25B9%25DD%25B0%25C7%25C1%25B6%25BF%25C0%25C2%25A1%25BE%25EE139.jpg",
+            "menu_name": "반건조오징어",
+            "price": "13,900원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240529_271%2F1716969683375EQKKB_JPEG%2F44.%25C1%25E3%25C6%25F7109.jpg",
+            "menu_name": "쥐포",
+            "price": "10,900원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240529_194%2F1716969664420MPtzR_JPEG%2F45.%25BF%25EB%25B0%25FA%25BB%25FE%25BA%25A3%25C6%25AE85.jpg",
+            "menu_name": "용과샤베트",
+            "price": "8,500원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240529_134%2F1716969647737GfHUH_JPEG%2F46.%25C6%25C4%25C0%25CE%25BB%25FE%25BA%25A3%25C6%25AE80.jpg",
+            "menu_name": "파인샤베트",
+            "price": "8,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240529_178%2F1716969630769RdPDR_JPEG%2F47.%25BE%25C6%25C0%25CC%25BD%25BA%25C8%25B2%25B5%25B589.jpg",
+            "menu_name": "아이스황도",
+            "price": "8,900원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240529_29%2F1716969605339LggLK_JPEG%2F48.%25B4%25AB%25B2%25C9%25B8%25C6%25C1%25D655.jpg",
+            "menu_name": "눈꽃맥주",
+            "price": "5,500원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240529_129%2F1716969589955OtvPN_JPEG%2F49.%25B4%25AB%25B2%25C9%25B8%25C6%25C1%25D6-%25C0%25DA%25B8%25F960.jpg",
+            "menu_name": "과일눈꽃맥주",
+            "price": "6,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240529_135%2F171696956808300nJt_JPEG%2F53.%25C7%25CF%25C0%25CC%25BA%25BC-%25B7%25B9%25B8%25F369.jpg",
+            "menu_name": "설맥하이볼",
+            "price": "6,900원"
+        }
+    ]
+}

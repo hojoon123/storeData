@@ -1,0 +1,98 @@
+{
+    "store_name": "심마니네 돈돼지",
+    "store_location": "경기 고양시 일산서구 덕이로 187 1층 101호 심마니네 돈돼지",
+    "loc_x": "176990.370237171",
+    "loc_y": "465814.616583023",
+    "menu": [
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241207_230%2F1733503340445zQE8o_JPEG%2FKakaoTalk_20241207_002658689_01.jpg",
+            "menu_name": "도드람 한돈 오겹살 200g",
+            "price": "16,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241210_32%2F1733839583015y5nUc_JPEG%2FKakaoTalk_20241210_221724876.jpg",
+            "menu_name": "도드람한돈 목살 200g",
+            "price": "16,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241208_207%2F1733645990966wrGns_JPEG%2FKakaoTalk_20241208_140906383.jpg",
+            "menu_name": "도드람한돈 항정살 200g",
+            "price": "19,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241208_104%2F1733646018317uFiXe_JPEG%2FKakaoTalk_20241208_141114261.jpg",
+            "menu_name": "예약메뉴 한방능이백숙(토종닭)4인",
+            "price": "100,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241207_126%2F17335824747634hTH0_JPEG%2FKakaoTalk_20241207_000456455_01.jpg",
+            "menu_name": "안성한우 안창살 150g",
+            "price": "38,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241215_295%2F1734191069883qCtzu_JPEG%2FKakaoTalk_20241214_232156610_01.jpg",
+            "menu_name": "안성한우 1+ 안심 150g",
+            "price": "30,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241215_112%2F1734191090982kLj3n_JPEG%2FKakaoTalk_20241214_232156610_08.jpg",
+            "menu_name": "안성한우 꽃갈비살 150g",
+            "price": "30,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241207_25%2F1733503399358Y8Xio_JPEG%2FKakaoTalk_20241206_164844173_02.jpg",
+            "menu_name": "안성한우1+ 차돌박이 150g",
+            "price": "20,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241207_85%2F1733503285965VcmUj_JPEG%2FKakaoTalk_20241207_013823205_01.jpg",
+            "menu_name": "점심메뉴-한돈 생고기 김치찌개",
+            "price": "9,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241215_222%2F1734264196845e3cCX_JPEG%2FKakaoTalk_20241215_205701884.jpg",
+            "menu_name": "점심메뉴-한우 차돌 된장찌개",
+            "price": "9,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241210_133%2F1733758458246wbKtz_JPEG%2FKakaoTalk_20241210_002422024_03.jpg",
+            "menu_name": "점심메뉴-제육볶음",
+            "price": "10,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241207_222%2F1733582547466GlMn4_JPEG%2FKakaoTalk_20241207_233628258_04.jpg",
+            "menu_name": "사이드 메뉴 한우육회 200g",
+            "price": "25,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241208_221%2F1733646070030PGcuA_JPEG%2FKakaoTalk_20241208_140906383_01.jpg",
+            "menu_name": "사이드메뉴 김치말이국수",
+            "price": "6,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241215_247%2F1734264126060D3Shj_JPEG%2FKakaoTalk_20241215_205701884.jpg",
+            "menu_name": "사이드메뉴 된장술밥",
+            "price": "10,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241210_188%2F1733839557310CbWog_JPEG%2FKakaoTalk_20241210_221724876_02.jpg",
+            "menu_name": "(셀프)날치알 볶음밥",
+            "price": "3,000원"
+        }
+    ]
+}

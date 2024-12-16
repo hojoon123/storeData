@@ -1,0 +1,98 @@
+{
+    "store_name": "내 마음에 쏙 든닭",
+    "store_location": "부산 기장군 정관읍 모전1길 9 104동 B103호",
+    "loc_x": "396874.611234151",
+    "loc_y": "206353.855586145",
+    "menu": [
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240118_61%2F1705589363833lpOU9_JPEG%2F1000018658.jpg",
+            "menu_name": "후라이드 치킨",
+            "price": "17,800원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240118_270%2F1705589389853HCsy1_JPEG%2F1000018879.jpg",
+            "menu_name": "양념치킨",
+            "price": "18,800원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240118_149%2F1705589474458eAFW8_JPEG%2F1000018896.jpg",
+            "menu_name": "허니간장치킨",
+            "price": "18,800원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20231210_78%2F1702205652700QlTYl_JPEG%2F%25B8%25C5%25C4%25DE%25C7%25D6.jpg",
+            "menu_name": "매콤 핫치킨",
+            "price": "19,300원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240118_164%2F1705589454616FvcyR_JPEG%2F1000018885.jpg",
+            "menu_name": "허니갈릭치킨",
+            "price": "19,800원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240118_67%2F1705589546558zLxHG_JPEG%2F1000018763.jpg",
+            "menu_name": "눈꽃치즈 치킨",
+            "price": "19,800원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240118_120%2F17055895263913qiV8_JPEG%2F1000018891.jpg",
+            "menu_name": "볼케이노 핫 치킨",
+            "price": "20,300원"
+        },
+        {
+            "category": "",
+            "img_src": "",
+            "menu_name": "맛보기 떡볶이(순한맛, 매콤한맛)",
+            "price": "6,300원"
+        },
+        {
+            "category": "",
+            "img_src": "",
+            "menu_name": "국물 떡볶이",
+            "price": "11,800원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20231210_217%2F1702207430223WCr6a_JPEG%2F%25B5%25B7%25B1%25EE%25BD%25BA.jpg",
+            "menu_name": "수제 돈까스",
+            "price": "13,800원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20231213_260%2F1702406233157OOTrC_JPEG%2F1000017644.jpg",
+            "menu_name": "로제 통통 쉬림프 파스타",
+            "price": "13,800원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240118_107%2F1705589683901jBMOu_JPEG%2F1000018771.jpg",
+            "menu_name": "오돌뼈",
+            "price": "10,800원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20231210_137%2F1702208348286YFCsT_JPEG%2F%25B9%25AB%25BB%25C0%25B4%25DF%25B9%25DF.jpg",
+            "menu_name": "무뼈닭발",
+            "price": "15,800원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20231210_32%2F1702208448987hyxOM_JPEG%2F%25B1%25B9%25B9%25B0%25B4%25DF%25B9%25DF.jpg",
+            "menu_name": "국물닭발",
+            "price": "19,800원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240222_246%2F170860697383976wY2_JPEG%2F1000019264.jpg",
+            "menu_name": "모듬소세지&감자튀김",
+            "price": "17,800원"
+        }
+    ]
+}

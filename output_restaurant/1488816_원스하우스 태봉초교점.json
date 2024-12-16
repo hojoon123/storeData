@@ -1,0 +1,56 @@
+{
+    "store_name": "원스하우스 태봉초교점",
+    "store_location": "강원 원주시 흥양로51번길 104",
+    "loc_x": "284559.453134275",
+    "loc_y": "432043.269155599",
+    "menu": [
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241213_101%2F1734080583843bm7B1_JPEG%2F1734069014079.jpg",
+            "menu_name": "베이컨 크림파스타",
+            "price": "10,900원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241213_210%2F1734080546110AFLz7_JPEG%2F1734069041474.jpg",
+            "menu_name": "새우 크림파스타",
+            "price": "12,900원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241213_129%2F17340805107722UceC_JPEG%2F1734069677038.jpg",
+            "menu_name": "새우 토마토파스타",
+            "price": "12,900원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241213_292%2F1734080459300w6Hlr_JPEG%2F1734069088406.jpg",
+            "menu_name": "베이컨 토마토파스타",
+            "price": "9,900원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241213_283%2F1734080400912RKSnq_JPEG%2F1734069110041.jpg",
+            "menu_name": "상하이 짬뽕파스타",
+            "price": "14,900원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241213_171%2F1734041785716Ck2HS_JPEG%2F1731319472496-5.jpg",
+            "menu_name": "원스하우스크림라떼",
+            "price": "6,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241111_283%2F1731319572412TI85E_JPEG%2F1731319472496-2.jpg",
+            "menu_name": "흑임자라떼",
+            "price": "6,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241111_47%2F1731319520622cXfs5_JPEG%2F1731319472496-0.jpg",
+            "menu_name": "초코크림라떼",
+            "price": "5,500원"
+        }
+    ]
+}

@@ -1,0 +1,110 @@
+{
+    "store_name": "대박마라탕",
+    "store_location": "경기 화성시 동탄순환대로 253 모닝그레이스 101호 대박마라탕",
+    "loc_x": "210443.669798736",
+    "loc_y": "407611.803199371",
+    "menu": [
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20221228_241%2F1672234482814mHrtc_JPEG%2Fwww.mjxmlt.jpeg",
+            "menu_name": "마라탕",
+            "price": "2,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20221228_202%2F1672234504211bJHla_JPEG%2Fmaterials.cdn.bcebos.jpeg",
+            "menu_name": "마라향궈",
+            "price": "3,200원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20221228_108%2F1672234529234FNctg_JPEG%2Fmmexport1671096626941.jpg",
+            "menu_name": "꿔바로우(소)",
+            "price": "10,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20221228_23%2F1672234589613iMiYQ_JPEG%2Fmmexport1671096626941.jpg",
+            "menu_name": "꿔바로우(대)",
+            "price": "18,000원"
+        },
+        {
+            "category": "",
+            "img_src": "",
+            "menu_name": "계란볶음밥",
+            "price": "7,000원"
+        },
+        {
+            "category": "",
+            "img_src": "",
+            "menu_name": "차돌박이덮밥",
+            "price": "10,000원"
+        },
+        {
+            "category": "",
+            "img_src": "",
+            "menu_name": "즈란양샤브덮밥",
+            "price": "10,000원"
+        },
+        {
+            "category": "",
+            "img_src": "",
+            "menu_name": "건두부무침",
+            "price": "7,000원"
+        },
+        {
+            "category": "",
+            "img_src": "",
+            "menu_name": "양꼬치튀김",
+            "price": "7,000원"
+        },
+        {
+            "category": "",
+            "img_src": "",
+            "menu_name": "야채튀김",
+            "price": "7,000원"
+        },
+        {
+            "category": "",
+            "img_src": "",
+            "menu_name": "상해지류튀김",
+            "price": "7,000원"
+        },
+        {
+            "category": "",
+            "img_src": "",
+            "menu_name": "수제 물만두",
+            "price": "8,000원"
+        },
+        {
+            "category": "",
+            "img_src": "",
+            "menu_name": "수제 군만두",
+            "price": "8,000원"
+        },
+        {
+            "category": "",
+            "img_src": "",
+            "menu_name": "수제 팥 전병",
+            "price": "2,000원"
+        },
+        {
+            "category": "",
+            "img_src": "",
+            "menu_name": "수제 설탕 전병",
+            "price": "2,000원"
+        },
+        {
+            "category": "",
+            "img_src": "",
+            "menu_name": "수제 고기 전병",
+            "price": "3,000원"
+        },
+        {
+            "category": "",
+            "img_src": "",
+            "menu_name": "수제 미니전",
+            "price": "2,000원"
+        }
+    ]
+}

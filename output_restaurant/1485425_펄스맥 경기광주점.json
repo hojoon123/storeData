@@ -1,0 +1,98 @@
+{
+    "store_name": "펄스맥 경기광주점",
+    "store_location": "경기 광주시 송정6길 12 5층",
+    "loc_x": "222631.782224673",
+    "loc_y": "435964.268154761",
+    "menu": [
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241125_59%2F1732513675404Ygqom_JPEG%2F%25C7%25C1%25B7%25BB%25C4%25A1-%25C5%25E4%25BD%25BA%25C6%25AE.jpg",
+            "menu_name": "프렌치 토스트 디쉬",
+            "price": "14,500원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241125_193%2F1732513644863twugx_JPEG%2F%25BF%25A1%25B1%25D7-%25BA%25A3%25B3%25D7%25B5%25F1%25C6%25AE_%25BA%25A3%25C0%25CC%25C4%25C1.jpg",
+            "menu_name": "에그 베네딕트",
+            "price": "16,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241125_152%2F1732513703424OaTV5_JPEG%2F%25B8%25AE%25C4%25DA%25C5%25B8_%25BE%25C6%25BA%25B8%25C4%25AB%25B5%25B5_%25BB%25F7%25B5%25E5%25C0%25A7%25C4%25A1.jpg",
+            "menu_name": "리코타 앤 아보카도 샌드위치",
+            "price": "14,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241202_91%2F1733106896530uKf8x_PNG%2FKakaoTalk_20241126_150650941_01.png",
+            "menu_name": "잠봉뵈르",
+            "price": "16,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241202_101%2F1733106916954y8iXI_PNG%2FKakaoTalk_20241126_150650941.png",
+            "menu_name": "파스트라미",
+            "price": "16,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241125_88%2F173251381473626w6D_PNG%2F%25C4%25F9%25BB%25E7%25B5%25F0%25BE%25C6.png",
+            "menu_name": "비프퀘사디아",
+            "price": "13,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241125_227%2F1732513834896ReVkQ_JPEG%2F%25BE%25E7%25BC%25DB%25C0%25CC-%25BD%25BA%25C7%25C1.jpg",
+            "menu_name": "양송이 스프",
+            "price": "7,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241125_94%2F1732513847563JyotP_JPEG%2F%25B0%25A8%25C0%25DA%25BD%25BA%25C7%25C1.jpg",
+            "menu_name": "감자 스프",
+            "price": "7,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241202_47%2F17331353301658NwgN_JPEG%2F%25C7%25C1%25B7%25BB%25C4%25A1%25C7%25C1%25B6%25F3%25C0%25CC.jpg",
+            "menu_name": "프렌치 프라이",
+            "price": "4,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241125_290%2F1732513514170iE1dF_JPEG%2F%25BA%25A3%25C0%25CC%25C4%25C1_%25B1%25EE%25B8%25A3%25BA%25B8%25B3%25AA%25B6%25F3.jpg",
+            "menu_name": "까르보나라 스파게티",
+            "price": "15,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241125_218%2F17325135296793VXRc_JPEG%2F%25BD%25AC%25B8%25B2%25C7%25C1_%25B7%25CE%25C1%25A6_%25C6%25C4%25BD%25BA%25C5%25B8.jpg",
+            "menu_name": "쉬림프 로제 파스타",
+            "price": "16,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241125_107%2F1732513544678vEv20_JPEG%2F%25BE%25CB%25B8%25AE%25BF%25C0-%25BF%25C3%25B8%25AE%25BF%25C0-%25C6%25C4%25BD%25BA%25C5%25B8.jpg",
+            "menu_name": "쉬림프 알리오 올리오 파스타",
+            "price": "16,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241125_282%2F1732513561035aMmvf_JPEG%2F%25BE%25C6%25BA%25B8%25C4%25AB%25B5%25B5-%25B1%25E8%25C4%25A1-%25BA%25BA%25C0%25BD%25B9%25E4.jpg",
+            "menu_name": "아보카도 차돌 김치 볶음밥",
+            "price": "15,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241125_300%2F1732513628410w943T_JPEG%2F%25BF%25A1%25B1%25D7%25C0%25CE%25C7%25EF.jpg",
+            "menu_name": "에그인 헬",
+            "price": "16,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241202_245%2F1733135021064ueQqW_PNG%2F%25B8%25B6%25B8%25A3%25B0%25D4%25B8%25AE%25B5%25FB_%25C7%25C7%25C0%25DA.png",
+            "menu_name": "마르게리타",
+            "price": "17,000원"
+        }
+    ]
+}

@@ -1,0 +1,32 @@
+{
+    "store_name": "샘골국밥",
+    "store_location": "충남 태안군 태안읍 샘골로 20",
+    "loc_x": "137607.241165703",
+    "loc_y": "361292.842580662",
+    "menu": [
+        {
+            "category": "대표메뉴",
+            "img_src": "",
+            "menu_name": "북창동황태콩나물국",
+            "price": "8,000원"
+        },
+        {
+            "category": "대표메뉴",
+            "img_src": "",
+            "menu_name": "마장동순대국",
+            "price": "10,000원"
+        },
+        {
+            "category": "메인메뉴",
+            "img_src": "",
+            "menu_name": "북창동황태콩나물국",
+            "price": "8,000원"
+        },
+        {
+            "category": "메인메뉴",
+            "img_src": "",
+            "menu_name": "마장동순대국",
+            "price": "10,000원"
+        }
+    ]
+}

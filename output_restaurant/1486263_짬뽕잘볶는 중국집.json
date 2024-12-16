@@ -1,0 +1,62 @@
+{
+    "store_name": "짬뽕잘볶는 중국집",
+    "store_location": "강원 철원군 동송읍 금학로229번길 12 1층 매장",
+    "loc_x": "218887.986050505",
+    "loc_y": "522871.971637704",
+    "menu": [
+        {
+            "category": "",
+            "img_src": "",
+            "menu_name": "유린만두",
+            "price": "8,000원"
+        },
+        {
+            "category": "",
+            "img_src": "",
+            "menu_name": "맛보기유린만두",
+            "price": "5,000원"
+        },
+        {
+            "category": "",
+            "img_src": "",
+            "menu_name": "칠리탕수육",
+            "price": "30,000원"
+        },
+        {
+            "category": "",
+            "img_src": "",
+            "menu_name": "레몬크림탕수육",
+            "price": "30,000원"
+        },
+        {
+            "category": "",
+            "img_src": "",
+            "menu_name": "탕수육",
+            "price": "25,000원"
+        },
+        {
+            "category": "",
+            "img_src": "",
+            "menu_name": "불고기짬뽕",
+            "price": "10,000원"
+        },
+        {
+            "category": "",
+            "img_src": "",
+            "menu_name": "짬뽕",
+            "price": "8,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241211_250%2F173389531368557ftR_JPEG%2F1000001556.jpg",
+            "menu_name": "불고기짜장",
+            "price": "9,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241211_225%2F1733895106206hV3eL_JPEG%2F1000001556.jpg",
+            "menu_name": "짜장",
+            "price": "7,000원"
+        }
+    ]
+}

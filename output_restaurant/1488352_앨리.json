@@ -1,0 +1,242 @@
+{
+    "store_name": "앨리",
+    "store_location": "경기 고양시 덕양구 행신로311번길 42 1층",
+    "loc_x": "186157.955601116",
+    "loc_y": "457874.734288079",
+    "menu": [
+        {
+            "category": "",
+            "img_src": "",
+            "menu_name": "노가리",
+            "price": "10,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240102_209%2F1704187457196yX9Yz_JPEG%2F1000005348.jpg",
+            "menu_name": "먹태",
+            "price": "10,000원"
+        },
+        {
+            "category": "",
+            "img_src": "",
+            "menu_name": "치아바타빵",
+            "price": "4,000원"
+        },
+        {
+            "category": "",
+            "img_src": "",
+            "menu_name": "스프+마늘빵 2조각",
+            "price": "4,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20231219_70%2F1702971953207Jaznt_JPEG%2F1000005308.jpg",
+            "menu_name": "샌드위치",
+            "price": "5,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20231219_41%2F1702971920085lev3T_JPEG%2F1000005327.jpg",
+            "menu_name": "허니브레드",
+            "price": "5,000원"
+        },
+        {
+            "category": "",
+            "img_src": "",
+            "menu_name": "마르게리따피자",
+            "price": "12,900원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20231219_185%2F17029719804591i9Eu_JPEG%2F1000005320.jpg",
+            "menu_name": "베이컨치즈피자",
+            "price": "11,900원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20231219_17%2F1702971775551fTw7K_JPEG%2F1000005340.jpg",
+            "menu_name": "고르곤졸라피자",
+            "price": "10,900원"
+        },
+        {
+            "category": "",
+            "img_src": "",
+            "menu_name": "리코타치즈샐러드",
+            "price": "10,900원"
+        },
+        {
+            "category": "",
+            "img_src": "",
+            "menu_name": "단호박샐러드",
+            "price": "10,900원"
+        },
+        {
+            "category": "",
+            "img_src": "",
+            "menu_name": "닭가슴살샐러드",
+            "price": "10,900원"
+        },
+        {
+            "category": "",
+            "img_src": "",
+            "menu_name": "페퍼민트",
+            "price": "3,000원"
+        },
+        {
+            "category": "",
+            "img_src": "",
+            "menu_name": "히비스커스",
+            "price": "3,000원"
+        },
+        {
+            "category": "",
+            "img_src": "",
+            "menu_name": "블루레몬에이드",
+            "price": "3,500원"
+        },
+        {
+            "category": "",
+            "img_src": "",
+            "menu_name": "아이스티",
+            "price": "3,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20231219_133%2F1702971794958men6Q_JPEG%2F1000005334.jpg",
+            "menu_name": "패션후르츠에이드",
+            "price": "3,500원"
+        },
+        {
+            "category": "",
+            "img_src": "",
+            "menu_name": "블루베리요거트",
+            "price": "3,500원"
+        },
+        {
+            "category": "",
+            "img_src": "",
+            "menu_name": "플레인요거트",
+            "price": "3,500원"
+        },
+        {
+            "category": "",
+            "img_src": "",
+            "menu_name": "그린티라떼",
+            "price": "3,500원"
+        },
+        {
+            "category": "",
+            "img_src": "",
+            "menu_name": "초코라떼",
+            "price": "3,500원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20231219_193%2F1702971816590vQuAy_JPEG%2F1000005310.jpg",
+            "menu_name": "카푸치노",
+            "price": "3,500원"
+        },
+        {
+            "category": "",
+            "img_src": "",
+            "menu_name": "밀크티",
+            "price": "3,500원"
+        },
+        {
+            "category": "",
+            "img_src": "",
+            "menu_name": "생강차",
+            "price": "3,000원"
+        },
+        {
+            "category": "",
+            "img_src": "",
+            "menu_name": "케모마일",
+            "price": "3,000원"
+        },
+        {
+            "category": "",
+            "img_src": "",
+            "menu_name": "유자차",
+            "price": "3,000원"
+        },
+        {
+            "category": "",
+            "img_src": "",
+            "menu_name": "레몬차",
+            "price": "3,000원"
+        },
+        {
+            "category": "",
+            "img_src": "",
+            "menu_name": "자몽차",
+            "price": "3,000원"
+        },
+        {
+            "category": "",
+            "img_src": "",
+            "menu_name": "자몽에이드",
+            "price": "3,500원"
+        },
+        {
+            "category": "",
+            "img_src": "",
+            "menu_name": "레몬에이드",
+            "price": "3,500원"
+        },
+        {
+            "category": "",
+            "img_src": "",
+            "menu_name": "청포도 에이드",
+            "price": "3,500원"
+        },
+        {
+            "category": "",
+            "img_src": "",
+            "menu_name": "카페모카 HOT/ICE",
+            "price": "3,500원"
+        },
+        {
+            "category": "",
+            "img_src": "",
+            "menu_name": "바닐라라떼 HOT/ICE",
+            "price": "3,500원"
+        },
+        {
+            "category": "",
+            "img_src": "",
+            "menu_name": "카페라떼 HOT/ICE",
+            "price": "3,000원"
+        },
+        {
+            "category": "",
+            "img_src": "",
+            "menu_name": "아메리카노 HOT/ICE",
+            "price": "2,000원"
+        },
+        {
+            "category": "",
+            "img_src": "",
+            "menu_name": "토마토파스타+아메리카노 or탄산",
+            "price": "9,900원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20231219_129%2F1702971850847rpI1a_JPEG%2F1000005336.jpg",
+            "menu_name": "아라비아따 +아메리카노or탄산",
+            "price": "9,900원"
+        },
+        {
+            "category": "",
+            "img_src": "",
+            "menu_name": "베이컨까르보나라 + 아메리카노or탄산",
+            "price": "9,900원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20231219_131%2F17029718829617IpMH_JPEG%2F1000005338.jpg",
+            "menu_name": "바질파스타 +아메리카노or탄산",
+            "price": "9,900원"
+        }
+    ]
+}

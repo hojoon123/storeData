@@ -1,0 +1,20 @@
+{
+    "store_name": "지세포포1982",
+    "store_location": "경남 거제시 일운면 지세포4길 12 . 1층",
+    "loc_x": "355795.389093924",
+    "loc_y": "149176.542546042",
+    "menu": [
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20231216_12%2F1702682890505XN2W3_JPEG%2F1000011506.jpg",
+            "menu_name": "탕후루",
+            "price": "6,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20231216_132%2F1702682959107n3c2X_JPEG%2F1000011505.jpg",
+            "menu_name": "탕후루",
+            "price": "4,000원"
+        }
+    ]
+}

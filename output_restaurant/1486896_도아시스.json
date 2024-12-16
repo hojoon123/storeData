@@ -1,0 +1,356 @@
+{
+    "store_name": "도아시스",
+    "store_location": "경기 양주시 화합로1402번길 25-5 2, 3층",
+    "loc_x": "205683.725259652",
+    "loc_y": "481998.194839239",
+    "menu": [
+        {
+            "category": "",
+            "img_src": "",
+            "menu_name": "캐모마일/민트/피치우롱/레몬티",
+            "price": "6,500원"
+        },
+        {
+            "category": "",
+            "img_src": "",
+            "menu_name": "비엔나커피",
+            "price": "8,000원"
+        },
+        {
+            "category": "",
+            "img_src": "",
+            "menu_name": "더블에스프레소(only hot)",
+            "price": "6,500원"
+        },
+        {
+            "category": "",
+            "img_src": "",
+            "menu_name": "에스프레소 꼰빠냐",
+            "price": "7,500원"
+        },
+        {
+            "category": "",
+            "img_src": "",
+            "menu_name": "아메리카노",
+            "price": "6,500원"
+        },
+        {
+            "category": "",
+            "img_src": "",
+            "menu_name": "카페라떼",
+            "price": "7,300원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241130_195%2F1732939260830o5ptA_JPEG%2FKakaoTalk_20241130_124123974_07.jpg",
+            "menu_name": "두바이초코렛라떼",
+            "price": "8,300원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241130_196%2F1732939305600RljVm_JPEG%2FKakaoTalk_20241130_124123974_09.jpg",
+            "menu_name": "다크초콜렛라떼",
+            "price": "7,800원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241130_209%2F1732939177485ctwxM_JPEG%2FKakaoTalk_20241130_124123974_03.jpg",
+            "menu_name": "딸기듬뿍라떼(only ice)",
+            "price": "7,800원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241130_100%2F1732939217283pMHYU_JPEG%2FKakaoTalk_20241130_124123974_04.jpg",
+            "menu_name": "리얼망고라떼(only ice)",
+            "price": "7,800원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241130_269%2F1732939222778NRu2Q_JPEG%2FKakaoTalk_20241130_124123974_05.jpg",
+            "menu_name": "망고에이드(only ice)",
+            "price": "7,500원"
+        },
+        {
+            "category": "",
+            "img_src": "",
+            "menu_name": "자몬/레몬/패션푸르츠 에이드",
+            "price": "7,500원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241130_295%2F1732939452018gunEa_JPEG%2FKakaoTalk_20241130_124123974_08.jpg",
+            "menu_name": "모히토라떼",
+            "price": "8,300원"
+        },
+        {
+            "category": "",
+            "img_src": "",
+            "menu_name": "허니자몽블랙티",
+            "price": "7,800원"
+        },
+        {
+            "category": "",
+            "img_src": "",
+            "menu_name": "표고피자",
+            "price": "28,000원"
+        },
+        {
+            "category": "",
+            "img_src": "",
+            "menu_name": "바질머쉬룸피자",
+            "price": "27,000원"
+        },
+        {
+            "category": "",
+            "img_src": "",
+            "menu_name": "루꼴라피자",
+            "price": "27,000원"
+        },
+        {
+            "category": "",
+            "img_src": "",
+            "menu_name": "애플시나몬피자",
+            "price": "25,000원"
+        },
+        {
+            "category": "",
+            "img_src": "",
+            "menu_name": "크랜베리피자",
+            "price": "25,000원"
+        },
+        {
+            "category": "",
+            "img_src": "",
+            "menu_name": "콰트로치즈피자",
+            "price": "24,000원"
+        },
+        {
+            "category": "",
+            "img_src": "",
+            "menu_name": "맥시칸칠리브리또",
+            "price": "30,000원"
+        },
+        {
+            "category": "",
+            "img_src": "",
+            "menu_name": "갈릭스테이크",
+            "price": "30,000원"
+        },
+        {
+            "category": "",
+            "img_src": "",
+            "menu_name": "어썸쉬림프",
+            "price": "30,000원"
+        },
+        {
+            "category": "",
+            "img_src": "",
+            "menu_name": "가리비피자",
+            "price": "35,000원"
+        },
+        {
+            "category": "",
+            "img_src": "",
+            "menu_name": "플레인 크루아상",
+            "price": "5,000원"
+        },
+        {
+            "category": "",
+            "img_src": "",
+            "menu_name": "다크초코 크루아상",
+            "price": "7,000원"
+        },
+        {
+            "category": "",
+            "img_src": "",
+            "menu_name": "아몬드 크루아상",
+            "price": "변동"
+        },
+        {
+            "category": "",
+            "img_src": "",
+            "menu_name": "바닐라커스터드 크루아상",
+            "price": "변동"
+        },
+        {
+            "category": "",
+            "img_src": "",
+            "menu_name": "누텔라바나나 크루아상",
+            "price": "변동"
+        },
+        {
+            "category": "",
+            "img_src": "",
+            "menu_name": "딸기 크루아상",
+            "price": "변동"
+        },
+        {
+            "category": "",
+            "img_src": "",
+            "menu_name": "크루키",
+            "price": "7,500원"
+        },
+        {
+            "category": "",
+            "img_src": "",
+            "menu_name": "뺑오뽐므 (사과잼)",
+            "price": "7,500원"
+        },
+        {
+            "category": "",
+            "img_src": "",
+            "menu_name": "뺑오바질토마토",
+            "price": "8,000원"
+        },
+        {
+            "category": "",
+            "img_src": "",
+            "menu_name": "초코바나나 데니쉬",
+            "price": "8,000원"
+        },
+        {
+            "category": "",
+            "img_src": "",
+            "menu_name": "딸기 데니쉬",
+            "price": "8,000원"
+        },
+        {
+            "category": "",
+            "img_src": "",
+            "menu_name": "플레인뺑오쇼콜라",
+            "price": "5,500원"
+        },
+        {
+            "category": "",
+            "img_src": "",
+            "menu_name": "더블뺑오쇼콜라",
+            "price": "6,500원"
+        },
+        {
+            "category": "",
+            "img_src": "",
+            "menu_name": "플레인퀸아망",
+            "price": "5,500원"
+        },
+        {
+            "category": "",
+            "img_src": "",
+            "menu_name": "아몬드퀸아망",
+            "price": "6,000원"
+        },
+        {
+            "category": "",
+            "img_src": "",
+            "menu_name": "딸기프렌치파이",
+            "price": "변동"
+        },
+        {
+            "category": "",
+            "img_src": "",
+            "menu_name": "사과프렌치파이",
+            "price": "변동"
+        },
+        {
+            "category": "",
+            "img_src": "",
+            "menu_name": "라즈베리프렌치파이",
+            "price": "변동"
+        },
+        {
+            "category": "",
+            "img_src": "",
+            "menu_name": "블루베리프렌치파이",
+            "price": "변동"
+        },
+        {
+            "category": "",
+            "img_src": "",
+            "menu_name": "딸기샹티크림 프렌치파이",
+            "price": "변동"
+        },
+        {
+            "category": "",
+            "img_src": "",
+            "menu_name": "크림브륄레 프렌치파이",
+            "price": "변동"
+        },
+        {
+            "category": "",
+            "img_src": "",
+            "menu_name": "티라미수 프렌치파이",
+            "price": "변동"
+        },
+        {
+            "category": "",
+            "img_src": "",
+            "menu_name": "오리지널 로티번",
+            "price": "변동"
+        },
+        {
+            "category": "",
+            "img_src": "",
+            "menu_name": "버터로티번",
+            "price": "변동"
+        },
+        {
+            "category": "",
+            "img_src": "",
+            "menu_name": "딸기로티번",
+            "price": "변동"
+        },
+        {
+            "category": "",
+            "img_src": "",
+            "menu_name": "밀크크림번",
+            "price": "변동"
+        },
+        {
+            "category": "",
+            "img_src": "",
+            "menu_name": "모카크림번",
+            "price": "변동"
+        },
+        {
+            "category": "",
+            "img_src": "",
+            "menu_name": "인절미크림번",
+            "price": "변동"
+        },
+        {
+            "category": "",
+            "img_src": "",
+            "menu_name": "시나몬 크로넛",
+            "price": "5,500원"
+        },
+        {
+            "category": "",
+            "img_src": "",
+            "menu_name": "글레이즈 크로넛",
+            "price": "5,500원"
+        },
+        {
+            "category": "",
+            "img_src": "",
+            "menu_name": "헤이즐넛누텔라 크로넛",
+            "price": "6,500원"
+        },
+        {
+            "category": "",
+            "img_src": "",
+            "menu_name": "밀크크림 크로넛",
+            "price": "6,500원"
+        },
+        {
+            "category": "",
+            "img_src": "",
+            "menu_name": "크림브륄레 크로넛",
+            "price": "7,000원"
+        },
+        {
+            "category": "",
+            "img_src": "",
+            "menu_name": "딸기크림 크로넛",
+            "price": "6,500원"
+        }
+    ]
+}

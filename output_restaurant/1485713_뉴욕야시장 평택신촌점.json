@@ -1,0 +1,86 @@
+{
+    "store_name": "뉴욕야시장 평택신촌점",
+    "store_location": "경기 평택시 신촌5로 41 D동 1층 110호",
+    "loc_x": "209254.487928213",
+    "loc_y": "391603.74592044",
+    "menu": [
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241211_2%2F1733906262198lubyh_JPEG%2F%25B4%25BA%25BF%25E5%25BE%25DF%25BD%25C3%25C0%25E5_%25B9%25E8%25B4%25DE%25BE%25DB%25281280_960%2529_%25B4%25BA%25BF%25E5%25BD%25BA%25C6%25AE%25B8%25B3%25BD%25BA%25C5%25D7%25C0%25CC%25C5%25A9.jpg",
+            "menu_name": "뉴욕 등심 스테이크",
+            "price": "20,900원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241211_148%2F1733906345950UHWaF_JPEG%2F%25B4%25BA%25BF%25E5%25BE%25DF%25BD%25C3%25C0%25E5_%25B9%25E8%25B4%25DE%25BE%25DB%25281280_960%2529_%25B8%25C6%25BE%25D8%25C4%25A1%25C1%25EE%25BD%25BA%25C5%25D7%25C0%25CC%25C5%25A9.jpg",
+            "menu_name": "마이콜의 맥앤치즈 스테이크",
+            "price": "22,900원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241211_172%2F1733906505716pJVcp_JPEG%2F%25B4%25BA%25BF%25E5%25BE%25DF%25BD%25C3%25C0%25E5_%25B9%25E8%25B4%25DE%25BE%25DB%25281280_960%2529_%25B8%25AE%25C1%25B6%25B6%25C7%25BD%25BA%25C5%25D7%25C0%25CC%25C5%25A9.jpg",
+            "menu_name": "마르코의 리조또 스테이크",
+            "price": "21,900원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241211_238%2F1733908285045voNva_JPEG%2FNYALLIN%25B6%25B1%25BA%25BA%25C0%25CC.jpg",
+            "menu_name": "ALL IN 떡볶이",
+            "price": "24,900원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241211_247%2F1733907704621aktxx_JPEG%2FNY%25C5%25EB%25B4%25D9%25B8%25AE%25BD%25CE%25C0%25CC%25BC%25F8%25BB%25EC6%25C1%25B6%25B0%25A2.jpg",
+            "menu_name": "통다리싸이순살 (6조각)",
+            "price": "9,900원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241211_30%2F1733907865755N9XVr_JPEG%2F%25B4%25BA%25BF%25E5%25BE%25DF%25BD%25C3%25C0%25E5_%25B9%25E8%25B4%25DE%25BE%25DB%25281280_960%2529_%25B8%25C5%25C4%25DE%25B0%25A3%25C0%25E5%25BC%25F8%25BB%25EC.jpg",
+            "menu_name": "매콤간장 순살치킨",
+            "price": "12,900원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241211_60%2F17339085218424YGCr_JPEG%2FNY%25C5%25E4%25B8%25B6%25C5%25E4%25C7%25D8%25C0%25E5%25C6%25C4%25BD%25BA%25C5%25C1.jpg",
+            "menu_name": "토마토 해장파스탕",
+            "price": "23,900원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241211_145%2F1733908459422PUmef_JPEG%2FNYS%25C6%25BC%25BF%25C0%25B4%25F5_202309_%25BF%25CD%25C0%25CE%25B9%25D9%25C1%25F6%25B6%25F4%25BC%25FA%25C2%25F2.jpg",
+            "menu_name": "와인 바지락술찜",
+            "price": "17,900원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241211_198%2F1733908422948wzMMQ_JPEG%2FNYS%25C6%25BC%25BF%25C0%25B4%25F5_202309_%25BE%25EE%25B9%25AC%25B2%25BF%25C4%25A1%25B1%25E8%25C4%25A1%25BF%25EC%25B5%25BF.jpg",
+            "menu_name": "어묵꼬치 김치우동",
+            "price": "17,900원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241211_76%2F17339081798834n1OD_JPEG%2FNYS%25C6%25BC%25BF%25C0%25B4%25F5_202309_%25C8%25AD%25B4%25F6%25B0%25ED%25B8%25A3%25B0%25EF%25C1%25B9%25B6%25F3%25C7%25C7%25C0%25DA.jpg",
+            "menu_name": "화덕 고르곤졸라 피자",
+            "price": "15,900원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241211_213%2F1733908104385czobD_JPEG%2F%25B4%25BA%25BF%25E5%25BE%25DF%25BD%25C3%25C0%25E5_%25B9%25E8%25B4%25DE%25BE%25DB%25281280_960%2529_%25B8%25C5%25C4%25DE%25C5%25A9%25B8%25B2%25BB%25F5%25BF%25EC%25C6%25C4%25BD%25BA%25C5%25B8.jpg",
+            "menu_name": "매콤크림파스타",
+            "price": "12,900원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241211_141%2F1733908369743NjHLf_JPEG%2FNYS%25C6%25BC%25BF%25C0%25B4%25F5_202307_%25BF%25EC%25BB%25EF%25B0%25E3-%25B1%25E8%25C4%25A1-%25C7%25CA%25B6%25F3%25C7%25C1.jpg",
+            "menu_name": "우삼겹 김치 필라프",
+            "price": "9,900원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241211_9%2F1733909904584HJqW4_JPEG%2FNY%25BE%25EE%25B9%25AC%25C6%25A2%25B1%25E8%25B5%25EB%25BB%25D2%25B1%25B9%25B9%25B0%25B6%25B1%25BA%25BA%25C0%25CC.jpg",
+            "menu_name": "어묵튀김듬뿍 국물떡볶이",
+            "price": "9,900원"
+        }
+    ]
+}

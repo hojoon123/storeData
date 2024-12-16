@@ -1,0 +1,122 @@
+{
+    "store_name": "3시의 배꼽시계",
+    "store_location": "경기 파주시 산내로 90 1220동 지하2층 207호",
+    "loc_x": "177041.367335394",
+    "loc_y": "469565.754424323",
+    "menu": [
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240804_109%2F1722773458363ydOmF_JPEG%2F%25B1%25E8%25B9%25E4.jpg",
+            "menu_name": "직접짠참기름바른 집김밥",
+            "price": "3,500원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240804_143%2F1722773486569nEO1y_JPEG%2F%25C2%25FC%25C4%25A1.jpg",
+            "menu_name": "양파송송 참치김밥",
+            "price": "4,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240804_181%2F1722773507142XQ0nF_JPEG%2F%25C4%25A1%25C1%25EE.jpg",
+            "menu_name": "두장쓰는 치즈김밥",
+            "price": "4,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240804_50%2F17227735293844NImJ_JPEG%2F%25B1%25E8%25B9%25E4.jpg",
+            "menu_name": "다이어트라페김밥",
+            "price": "4,500원"
+        },
+        {
+            "category": "",
+            "img_src": "",
+            "menu_name": "기본에충실한 쌀떡볶이",
+            "price": "3,000원"
+        },
+        {
+            "category": "",
+            "img_src": "",
+            "menu_name": "불볶이",
+            "price": "4,000원"
+        },
+        {
+            "category": "",
+            "img_src": "",
+            "menu_name": "저당떡볶이",
+            "price": "4,500원"
+        },
+        {
+            "category": "",
+            "img_src": "",
+            "menu_name": "눈꽃치즈떡볶이",
+            "price": "5,900원"
+        },
+        {
+            "category": "",
+            "img_src": "",
+            "menu_name": "순대강정 1인분",
+            "price": "5,000원"
+        },
+        {
+            "category": "",
+            "img_src": "",
+            "menu_name": "팝콘치킨만 양많이",
+            "price": "4,500원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240804_225%2F1722773811481QDFXw_JPEG%2F%25BC%25D2%25B6%25B1%25BC%25D2%25B6%25B1.jpg",
+            "menu_name": "소떡소떡",
+            "price": "3,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240804_79%2F1722773794918Jywvg_JPEG%2F%25BC%25F8%25B4%25EB%25B0%25AD%25C1%25A4.jpg",
+            "menu_name": "순대강정꼬치",
+            "price": "2,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240804_248%2F17227737756040wsrT_JPEG%2F%25C4%25A1%25C1%25EE%25B6%25B1.jpg",
+            "menu_name": "치즈떡꼬치",
+            "price": "2,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240804_51%2F1722773754528o8TQX_JPEG%2F%25B0%25A1%25B7%25A1%25B6%25B1.jpg",
+            "menu_name": "치즈가루 가래쌀떡꼬치",
+            "price": "1,200원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240804_219%2F1722773714912mxNkC_JPEG%2F%25C8%25B8%25BF%25C0%25B8%25AE.jpg",
+            "menu_name": "허니버터회오리감자",
+            "price": "3,500원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240804_45%2F1722773689823mK63V_JPEG%2F%25BD%25BD%25B0%25A8.jpg",
+            "menu_name": "슬감(슬러시+감자튀김)",
+            "price": "3,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240804_175%2F1722773662256r6Xhf_JPEG%2F%25BD%25BD%25C6%25CB.jpg",
+            "menu_name": "슬팝(슬러시+팝콘치킨)",
+            "price": "3,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240804_252%2F1722773618291M8hO9_JPEG%2F%25C4%25DD%25B0%25A8.jpg",
+            "menu_name": "콜감(콜라+감자튀김)",
+            "price": "3,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240804_88%2F1722773603560GFkuR_JPEG%2F%25C4%25DD%25C6%25CB.jpg",
+            "menu_name": "콜팝(콜라+팝콘치킨)",
+            "price": "3,000원"
+        }
+    ]
+}

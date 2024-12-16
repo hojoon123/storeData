@@ -1,0 +1,122 @@
+{
+    "store_name": "소버",
+    "store_location": "대구 수성구 상화로 80 1층",
+    "loc_x": "345941.99575308",
+    "loc_y": "260623.92284091",
+    "menu": [
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241215_46%2F1734190352087JKz3W_JPEG%2F1000009777.jpg",
+            "menu_name": "브리치즈구이",
+            "price": "16,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241215_250%2F17341904842420kAWX_JPEG%2F1000009753.jpg",
+            "menu_name": "떡볶이",
+            "price": "14,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241214_186%2F1734106053090F2Tee_JPEG%2F1000009599.jpg",
+            "menu_name": "체리페퍼+통밀크래커",
+            "price": "9,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241215_269%2F1734190414691nmHSW_JPEG%2F1000009810.jpg",
+            "menu_name": "아이스크림",
+            "price": "5,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241215_192%2F1734190552217uCEtt_JPEG%2F1000009811.jpg",
+            "menu_name": "진토닉",
+            "price": "12,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241214_140%2F1734105758319TU0c1_JPEG%2F1000009593.jpg",
+            "menu_name": "깔루아밀크",
+            "price": "14,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241215_137%2F1734190566611f09ts_JPEG%2F1000009741.jpg",
+            "menu_name": "소버 스트로베리밀크",
+            "price": "14,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241214_300%2F1734105825295mLNk7_JPEG%2F1000009610.jpg",
+            "menu_name": "소버 피치크러쉬",
+            "price": "15,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241214_124%2F1734105861080g2rmU_JPEG%2F1000009616.jpg",
+            "menu_name": "애플티니",
+            "price": "15,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241214_73%2F1734105785985xUg4U_JPEG%2F1000009615.jpg",
+            "menu_name": "롱티",
+            "price": "16,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241215_79%2F17341905186403xWE0_JPEG%2F1000009793.jpg",
+            "menu_name": "갓파더",
+            "price": "16,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241213_268%2F1734086638410mX4r7_JPEG%2F1000009574.jpg",
+            "menu_name": "앱솔루트",
+            "price": "87,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241213_96%2F1734086904619A3hh7_JPEG%2F1000009576.jpg",
+            "menu_name": "제임슨",
+            "price": "97,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241213_285%2F1734087127945vsBMt_JPEG%2F1000009579.jpg",
+            "menu_name": "잭다니엘",
+            "price": "120,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241213_42%2F1734086485081ubxak_JPEG%2F1000009547.jpg",
+            "menu_name": "몽키숄더",
+            "price": "140,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241213_219%2F1734086839492RLrUb_JPEG%2F1000009575.jpg",
+            "menu_name": "헤네시vsop",
+            "price": "240,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241213_268%2F17340866809084ry3U_JPEG%2F1000009558.jpg",
+            "menu_name": "글랜피딕12",
+            "price": "250,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241213_32%2F1734086664570n7par_JPEG%2F1000009560.jpg",
+            "menu_name": "맥캘란12",
+            "price": "270,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241213_25%2F1734086744794Q7G3H_JPEG%2F1000009565.jpg",
+            "menu_name": "발베니12",
+            "price": "290,000원"
+        }
+    ]
+}

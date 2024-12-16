@@ -1,0 +1,98 @@
+{
+    "store_name": "한양화로 평택고덕점",
+    "store_location": "경기 평택시 고덕여염11길 83 1층",
+    "loc_x": "204488.017890624",
+    "loc_y": "393433.542553177",
+    "menu": [
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20231121_119%2F1700558181902kigzD_PNG%2FIMG_0026.png",
+            "menu_name": "한양두판B 800g",
+            "price": "68,900원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20231121_197%2F1700558098109b0zK8_PNG%2FIMG_0025.png",
+            "menu_name": "한양한판A 500g",
+            "price": "42,500원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20231121_66%2F1700558039602wc3kq_PNG%2FIMG_0030.png",
+            "menu_name": "꽃등심 100g",
+            "price": "9,900원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20231121_65%2F1700557985329owVKp_PNG%2FIMG_0029.png",
+            "menu_name": "꽃갈비살 100g",
+            "price": "7,900원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240310_26%2F17100489438463vj4O_JPEG%2FIMG_0053.jpeg",
+            "menu_name": "계란찜",
+            "price": "4,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240310_238%2F1710048658330c00NT_JPEG%2FIMG_0046.jpeg",
+            "menu_name": "양념눈꽃살치살",
+            "price": "32,700원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240310_61%2F1710048613441ESDUc_JPEG%2FIMG_0045.jpeg",
+            "menu_name": "양념부채살(300g)",
+            "price": "29,700원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240310_206%2F1710048560102vlANe_JPEG%2FIMG_0044.jpeg",
+            "menu_name": "양념토시살(300g)",
+            "price": "29,700원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240310_124%2F1710048525991ooPTC_JPEG%2FIMG_0047.jpeg",
+            "menu_name": "양념갈비살(300g)",
+            "price": "26,700원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240310_27%2F1710048450677G14xd_JPEG%2FIMG_0048.jpeg",
+            "menu_name": "LA갈비 양념갈비(300g)",
+            "price": "35,700원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240310_276%2F1710048364771g2m5j_JPEG%2FIMG_0047.jpeg",
+            "menu_name": "양념갈비살(늑간살)",
+            "price": "44,500원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240310_200%2F1710048322798hd4Lk_JPEG%2FIMG_0050.jpeg",
+            "menu_name": "한양B양념한판(500g)",
+            "price": "49,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240310_299%2F1710045129647GNHe1_JPEG%2FIMG_0051.jpeg",
+            "menu_name": "한양A양념한판(500g)",
+            "price": "49,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240310_183%2F1710045037143MvTbH_JPEG%2FIMG_0048.jpeg",
+            "menu_name": "LA갈비 양념갈비(500g)",
+            "price": "59,500원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20231121_137%2F1700560273809hLWWf_JPEG%2FIMG_0041.jpeg",
+            "menu_name": "음료수",
+            "price": "2,000원"
+        }
+    ]
+}

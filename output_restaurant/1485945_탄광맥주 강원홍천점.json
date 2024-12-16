@@ -1,0 +1,98 @@
+{
+    "store_name": "탄광맥주 강원홍천점",
+    "store_location": "강원 홍천군 홍천읍 갈마로 40-19",
+    "loc_x": "279548.007551363",
+    "loc_y": "465965.623753952",
+    "menu": [
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240415_206%2F1713167730078oVyOE_JPEG%2F06._%25C7%25E3%25B4%25CF%25C5%25A9%25B7%25B1%25C4%25A1%25C7%25C7%25C0%25DA.jpg",
+            "menu_name": "허니크런치피자",
+            "price": "14,900원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240823_235%2F17243866572585bfk8_JPEG%2F08._%25C5%25BA%25B1%25A4%25BB%25FD%25B8%25C6%25C1%25D6.jpg",
+            "menu_name": "탄광생맥주",
+            "price": "5,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20230926_249%2F1695694231540dpFM7_JPEG%2FKakaoTalk_20230920_172240946_04.jpg",
+            "menu_name": "다이너마이트 (Gold Ale)",
+            "price": "6,900원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20230926_231%2F1695694204942m8lj7_JPEG%2F2023-09-21_10%253B02%253B30.JPG",
+            "menu_name": "골드러쉬 (HoppyGoldAle)",
+            "price": "7,900원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20230926_84%2F1695694184958yrVYL_JPEG%2FKakaoTalk_20230920_172240946.jpg",
+            "menu_name": "카나리아 (Weisen)",
+            "price": "5,900원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20230926_160%2F1695694149988vYeiA_JPEG%2FKakaoTalk_20230920_172240946_01.jpg",
+            "menu_name": "갱도맥주 (I.P.A)",
+            "price": "7,400원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240422_16%2F1713767334852Wfyb4_PNG%2FKakaoTalk_20231208_163214044.png",
+            "menu_name": "비바 데킬라 라임라거",
+            "price": "6,500원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20230926_149%2F1695694122159jCiwk_JPEG%2FKakaoTalk_20230920_172240946_05.jpg",
+            "menu_name": "석탄맥주 (Stout)",
+            "price": "6,900원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20230926_4%2F1695694100995xzXfx_JPEG%2FKakaoTalk_20230920_172240946_03.jpg",
+            "menu_name": "광부라거 (Lager)",
+            "price": "5,900원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20230926_163%2F1695694071672DmCUA_JPEG%2F%25BC%25F6%25C1%25A6%25BB%25F9%25C7%25C3%25B7%25AF_5%25C1%25BE.jpg",
+            "menu_name": "수제맥주샘플러5종",
+            "price": "20,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20230926_119%2F1695693982366XLDTs_JPEG%2F%25C8%25B2%25B1%25DD%25C4%25A1%25C5%25B2.jpg",
+            "menu_name": "황금치킨",
+            "price": "20,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20230926_92%2F16956939689526CktM_JPEG%2F%25C1%25A4%25BC%25B1%25BE%25E7%25B3%25E4%25C4%25A1%25C5%25B2.jpg",
+            "menu_name": "정선양념치킨",
+            "price": "21,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20230926_215%2F1695693956571oFDOp_JPEG%2F%25BE%25D6%25B0%25A3%25C0%25E5%25C4%25A1%25C5%25B2.jpg",
+            "menu_name": "애간장치킨",
+            "price": "21,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240415_52%2F1713167145553nn486_JPEG%2F04._%25BF%25AD%25BA%25D2%25C4%25A1%25C5%25B2.jpg",
+            "menu_name": "열불치킨",
+            "price": "22,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240415_285%2F1713166967579qucVp_JPEG%2F05._%25B9%25DD%25B9%25DD%25C4%25A1%25C5%25B2_A%2528%25C8%25B2%25B1%25DD%252B%25BE%25E7%25B3%25E4%2529.jpg",
+            "menu_name": "반반치킨A(황금+정선)",
+            "price": "21,900원"
+        }
+    ]
+}

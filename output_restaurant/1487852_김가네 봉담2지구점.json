@@ -1,0 +1,368 @@
+{
+    "store_name": "김가네 봉담2지구점",
+    "store_location": "경기 화성시 상리중심상가길 28-8 망고타운 102호",
+    "loc_x": "195145.796663982",
+    "loc_y": "413818.098530311",
+    "menu": [
+        {
+            "category": "대표메뉴",
+            "img_src": "",
+            "menu_name": "쌀떡볶이",
+            "price": "7,000원"
+        },
+        {
+            "category": "대표메뉴",
+            "img_src": "",
+            "menu_name": "멸추김밥",
+            "price": "6,000원"
+        },
+        {
+            "category": "대표메뉴",
+            "img_src": "",
+            "menu_name": "닭갈비덮밥",
+            "price": "9,000원"
+        },
+        {
+            "category": "대표메뉴",
+            "img_src": "",
+            "menu_name": "제육덮밥",
+            "price": "9,000원"
+        },
+        {
+            "category": "대표메뉴",
+            "img_src": "",
+            "menu_name": "순두부찌개",
+            "price": "10,000원"
+        },
+        {
+            "category": "대표메뉴",
+            "img_src": "",
+            "menu_name": "부대찌개",
+            "price": "10,000원"
+        },
+        {
+            "category": "김밥류(Gimbap)",
+            "img_src": "",
+            "menu_name": "김가네김밥",
+            "price": "5,000원"
+        },
+        {
+            "category": "김밥류(Gimbap)",
+            "img_src": "",
+            "menu_name": "참치김밥",
+            "price": "6,000원"
+        },
+        {
+            "category": "김밥류(Gimbap)",
+            "img_src": "",
+            "menu_name": "멸추김밥",
+            "price": "6,000원"
+        },
+        {
+            "category": "김밥류(Gimbap)",
+            "img_src": "",
+            "menu_name": "소고기김밥",
+            "price": "6,000원"
+        },
+        {
+            "category": "김밥류(Gimbap)",
+            "img_src": "",
+            "menu_name": "에그스팸김밥",
+            "price": "6,500원"
+        },
+        {
+            "category": "김밥류(Gimbap)",
+            "img_src": "",
+            "menu_name": "와사비크래미김밥",
+            "price": "6,500원"
+        },
+        {
+            "category": "김밥류(Gimbap)",
+            "img_src": "",
+            "menu_name": "돈까스롤",
+            "price": "6,500원"
+        },
+        {
+            "category": "김밥류(Gimbap)",
+            "img_src": "",
+            "menu_name": "통새우롤",
+            "price": "6,500원"
+        },
+        {
+            "category": "김밥류(Gimbap)",
+            "img_src": "",
+            "menu_name": "더블치즈김밥",
+            "price": "6,000원"
+        },
+        {
+            "category": "분식류(Snack)",
+            "img_src": "",
+            "menu_name": "쫄면",
+            "price": "8,000원"
+        },
+        {
+            "category": "분식류(Snack)",
+            "img_src": "",
+            "menu_name": "쌀떡볶이",
+            "price": "7,000원"
+        },
+        {
+            "category": "분식류(Snack)",
+            "img_src": "",
+            "menu_name": "치즈불닭쫄면",
+            "price": "9,500원"
+        },
+        {
+            "category": "분식류(Snack)",
+            "img_src": "",
+            "menu_name": "튀김우동",
+            "price": "9,000원"
+        },
+        {
+            "category": "분식류(Snack)",
+            "img_src": "",
+            "menu_name": "유부우동",
+            "price": "8,000원"
+        },
+        {
+            "category": "분식류(Snack)",
+            "img_src": "",
+            "menu_name": "치즈떡볶이",
+            "price": "8,500원"
+        },
+        {
+            "category": "분식류(Snack)",
+            "img_src": "",
+            "menu_name": "라볶이",
+            "price": "8,000원"
+        },
+        {
+            "category": "분식류(Snack)",
+            "img_src": "",
+            "menu_name": "라면",
+            "price": "5,500원"
+        },
+        {
+            "category": "분식류(Snack)",
+            "img_src": "",
+            "menu_name": "떡만두국",
+            "price": "9,000원"
+        },
+        {
+            "category": "분식류(Snack)",
+            "img_src": "",
+            "menu_name": "냉소바",
+            "price": "8,500원"
+        },
+        {
+            "category": "라이스(Rice)",
+            "img_src": "",
+            "menu_name": "스팸김치볶음밥",
+            "price": "9,000원"
+        },
+        {
+            "category": "라이스(Rice)",
+            "img_src": "",
+            "menu_name": "철판해물볶음밥",
+            "price": "9,000원"
+        },
+        {
+            "category": "라이스(Rice)",
+            "img_src": "",
+            "menu_name": "김치가츠동",
+            "price": "9,000원"
+        },
+        {
+            "category": "라이스(Rice)",
+            "img_src": "",
+            "menu_name": "치킨마요덮밥",
+            "price": "8,000원"
+        },
+        {
+            "category": "라이스(Rice)",
+            "img_src": "",
+            "menu_name": "닭갈비덮밥",
+            "price": "9,000원"
+        },
+        {
+            "category": "라이스(Rice)",
+            "img_src": "",
+            "menu_name": "제육덮밥",
+            "price": "9,000원"
+        },
+        {
+            "category": "라이스(Rice)",
+            "img_src": "",
+            "menu_name": "커리덮밥",
+            "price": "9,500원"
+        },
+        {
+            "category": "라이스(Rice)",
+            "img_src": "",
+            "menu_name": "김치불고기돌솥밥",
+            "price": "8,000원"
+        },
+        {
+            "category": "라이스(Rice)",
+            "img_src": "",
+            "menu_name": "소불고기덮밥",
+            "price": "9,000원"
+        },
+        {
+            "category": "라이스(Rice)",
+            "img_src": "",
+            "menu_name": "철판낙지덮밥",
+            "price": "9,500원"
+        },
+        {
+            "category": "라이스(Rice)",
+            "img_src": "",
+            "menu_name": "철판치즈김치볶음밥",
+            "price": "10,000원"
+        },
+        {
+            "category": "라이스(Rice)",
+            "img_src": "",
+            "menu_name": "오므라이스",
+            "price": "9,000원"
+        },
+        {
+            "category": "라이스(Rice)",
+            "img_src": "",
+            "menu_name": "부대찌개",
+            "price": "10,000원"
+        },
+        {
+            "category": "라이스(Rice)",
+            "img_src": "",
+            "menu_name": "순두부찌개",
+            "price": "10,000원"
+        },
+        {
+            "category": "라이스(Rice)",
+            "img_src": "",
+            "menu_name": "육개장",
+            "price": "10,000원"
+        },
+        {
+            "category": "라이스(Rice)",
+            "img_src": "",
+            "menu_name": "스팸옛날도시락",
+            "price": "8,000원"
+        },
+        {
+            "category": "라이스(Rice)",
+            "img_src": "",
+            "menu_name": "치즈돈까스",
+            "price": "11,000원"
+        },
+        {
+            "category": "라이스(Rice)",
+            "img_src": "",
+            "menu_name": "등심돈까스",
+            "price": "10,000원"
+        },
+        {
+            "category": "라이스(Rice)",
+            "img_src": "",
+            "menu_name": "소고기돌솥비빔밥",
+            "price": "9,000원"
+        },
+        {
+            "category": "라이스(Rice)",
+            "img_src": "",
+            "menu_name": "야채돌솥비빔밥",
+            "price": "7,500원"
+        },
+        {
+            "category": "기타류(Other)",
+            "img_src": "",
+            "menu_name": "모듬오뎅",
+            "price": "8,000원"
+        },
+        {
+            "category": "기타류(Other)",
+            "img_src": "",
+            "menu_name": "군만두(5개)",
+            "price": "6,500원"
+        },
+        {
+            "category": "기타류(Other)",
+            "img_src": "",
+            "menu_name": "갈비만두(8개)",
+            "price": "7,000원"
+        },
+        {
+            "category": "기타류(Other)",
+            "img_src": "",
+            "menu_name": "소떡소떡(1개)",
+            "price": "3,500원"
+        },
+        {
+            "category": "기타류(Other)",
+            "img_src": "",
+            "menu_name": "떡꼬치(1개)",
+            "price": "3,500원"
+        },
+        {
+            "category": "기타류(Other)",
+            "img_src": "",
+            "menu_name": "오징어튀김(2개)",
+            "price": "4,000원"
+        },
+        {
+            "category": "기타류(Other)",
+            "img_src": "",
+            "menu_name": "야채튀김(1개)",
+            "price": "3,500원"
+        },
+        {
+            "category": "기타류(Other)",
+            "img_src": "",
+            "menu_name": "왕새우튀김(1개)",
+            "price": "2,500원"
+        },
+        {
+            "category": "기타류(Other)",
+            "img_src": "",
+            "menu_name": "김말이 튀김(4개)",
+            "price": "3,000원"
+        },
+        {
+            "category": "기타류(Other)",
+            "img_src": "",
+            "menu_name": "코카콜라(245ml)",
+            "price": "2,000원"
+        },
+        {
+            "category": "기타류(Other)",
+            "img_src": "",
+            "menu_name": "칠성사이다(355ml)",
+            "price": "2,000원"
+        },
+        {
+            "category": "기타류(Other)",
+            "img_src": "",
+            "menu_name": "제로콜라(355ml)",
+            "price": "2,000원"
+        },
+        {
+            "category": "기타류(Other)",
+            "img_src": "",
+            "menu_name": "공기밥",
+            "price": "1,500원"
+        },
+        {
+            "category": "기타류(Other)",
+            "img_src": "",
+            "menu_name": "칠성사이다제로(355ml)",
+            "price": "2,000원"
+        },
+        {
+            "category": "기타류(Other)",
+            "img_src": "",
+            "menu_name": "환타파인(355ml)",
+            "price": "2,000원"
+        }
+    ]
+}

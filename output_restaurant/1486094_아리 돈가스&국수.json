@@ -1,0 +1,50 @@
+{
+    "store_name": "아리 돈가스&국수",
+    "store_location": "경기 이천시 마장면 지산로 132 1층",
+    "loc_x": "232018.80078292",
+    "loc_y": "412514.314680353",
+    "menu": [
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241205_199%2F1733387419110tB3zu_JPEG%2F1000004615.jpg",
+            "menu_name": "왕돈가스",
+            "price": "11,900원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241205_153%2F1733387482589IVxzB_JPEG%2F1000004587.jpg",
+            "menu_name": "치즈돈가스",
+            "price": "12,900원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241205_202%2F1733387523931jVFh4_JPEG%2F1000004600.jpg",
+            "menu_name": "잔치국수",
+            "price": "7,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241205_117%2F1733387557464FaTDh_JPEG%2F1000004612.jpg",
+            "menu_name": "비빔국수",
+            "price": "8,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241205_36%2F1733387692835O2NoI_JPEG%2F1000004625.jpg",
+            "menu_name": "카레덮밥",
+            "price": "9,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241205_291%2F173338765867167anK_JPEG%2F1000004625.jpg",
+            "menu_name": "카레돈가스",
+            "price": "12,900원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241205_3%2F1733387628687VozWH_JPEG%2F1000004624.jpg",
+            "menu_name": "제육덮밥",
+            "price": "9,000원"
+        }
+    ]
+}

@@ -1,0 +1,14 @@
+{
+    "store_name": "유명조 칼국수",
+    "store_location": "인천 옹진군 영흥면 선재로34번길 45 1층",
+    "loc_x": "158782.688568298",
+    "loc_y": "414731.584715954",
+    "menu": [
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241214_192%2F1734150974317s4I3u_JPEG%2F1734150889527.jpg",
+            "menu_name": "칼국수",
+            "price": "11,000원"
+        }
+    ]
+}

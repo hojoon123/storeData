@@ -1,0 +1,98 @@
+{
+    "store_name": "에그리데이 장안구점",
+    "store_location": "경기 수원시 장안구 대평로89번길 10 상가동 1층 102호",
+    "loc_x": "199185.834919045",
+    "loc_y": "421617.534790377",
+    "menu": [
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20231116_279%2F1700090208719QykU8_PNG%2F%25B8%25DE%25B4%25BA.png",
+            "menu_name": "[패스오더전용] 100원 아메리카노",
+            "price": "100원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20231004_42%2F1696405174629XBY6P_JPEG%2Fegg-015.jpg",
+            "menu_name": "저스트 에그",
+            "price": "3,400원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20231004_87%2F1696405155918D1iVr_JPEG%2Fegg-020.jpg",
+            "menu_name": "햄앤치즈 에그",
+            "price": "4,400원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20231004_196%2F1696405113207yEMzB_JPEG%2Fegg-025.jpg",
+            "menu_name": "더블 베이컨 치즈",
+            "price": "4,800원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20231004_19%2F1696405051444DyuCL_JPEG%2Fegg-041.jpg",
+            "menu_name": "갈릭 베이컨 치즈",
+            "price": "4,900원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20231004_174%2F1696405035437UypRS_JPEG%2Fegg-046.jpg",
+            "menu_name": "레드 핫치킨",
+            "price": "5,400원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20231004_50%2F1696405020793guLrx_JPEG%2Fegg-033.jpg",
+            "menu_name": "스윗칠리쉬림프",
+            "price": "5,900원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20231004_74%2F1696405004908DOBxF_JPEG%2Fegg-050.jpg",
+            "menu_name": "BBQ그리들바베큐",
+            "price": "5,900원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20231004_179%2F1696404971480iF3On_JPEG%2Fegg-037.jpg",
+            "menu_name": "베이컨 모짜렐라 포테이토",
+            "price": "6,900원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20231004_97%2F1696404937528LtPz0_JPEG%2Fegg-276_2.jpg",
+            "menu_name": "베이컨 모짜구마 세트",
+            "price": "6,400원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20231004_1%2F1696404920180mgdt4_JPEG%2Fegg-281_2.jpg",
+            "menu_name": "리얼 포테이토 에그",
+            "price": "5,900원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20231004_254%2F1696404897485PMfKI_JPEG%2Fegg-279_2.jpg",
+            "menu_name": "콘 모짜렐라 베이컨",
+            "price": "6,900원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20231004_144%2F1696404881333shSgA_JPEG%2Fegg-174.jpg",
+            "menu_name": "저스트에그 세트",
+            "price": "7,400원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20231004_183%2F1696404866968p6xO5_JPEG%2Fegg-176.jpg",
+            "menu_name": "햄앤치즈에그세트",
+            "price": "8,400원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20231004_37%2F1696404840804G8Sv1_JPEG%2Fegg-182.jpg",
+            "menu_name": "더블 베이컨 치즈 세트",
+            "price": "8,800원"
+        }
+    ]
+}

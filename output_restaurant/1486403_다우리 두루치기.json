@@ -1,0 +1,68 @@
+{
+    "store_name": "다우리 두루치기",
+    "store_location": "경기 가평군 상면 청군로 1072 DS카페 1층",
+    "loc_x": "231687.58923432",
+    "loc_y": "478150.654584527",
+    "menu": [
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241214_147%2F1734151579665H0yPh_JPEG%2FIMG_8304.jpeg",
+            "menu_name": "생돼지 김치두루치기",
+            "price": "15,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241214_55%2F17341514341322OVEg_JPEG%2FIMG_8319.jpeg",
+            "menu_name": "생돼지 직화바베큐",
+            "price": "15,000원"
+        },
+        {
+            "category": "",
+            "img_src": "",
+            "menu_name": "생돼지 김치찌개",
+            "price": "12,000원"
+        },
+        {
+            "category": "",
+            "img_src": "",
+            "menu_name": "김치두루치기 떡사리 추가",
+            "price": "2,000원"
+        },
+        {
+            "category": "",
+            "img_src": "",
+            "menu_name": "김치두루치기 우동사리 추가",
+            "price": "2,000원"
+        },
+        {
+            "category": "",
+            "img_src": "",
+            "menu_name": "김치찌개 라면사리 추가",
+            "price": "1,000원"
+        },
+        {
+            "category": "",
+            "img_src": "",
+            "menu_name": "막걸리",
+            "price": "4,000원"
+        },
+        {
+            "category": "",
+            "img_src": "",
+            "menu_name": "소주",
+            "price": "4,000원"
+        },
+        {
+            "category": "",
+            "img_src": "",
+            "menu_name": "맥주",
+            "price": "4,000원"
+        },
+        {
+            "category": "",
+            "img_src": "",
+            "menu_name": "음료수",
+            "price": "2,000원"
+        }
+    ]
+}

@@ -1,0 +1,32 @@
+{
+    "store_name": "마라뱅크",
+    "store_location": "경기 의왕시 경수대로 262 130호",
+    "loc_x": "197590.089971229",
+    "loc_y": "427590.743059589",
+    "menu": [
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241120_165%2F1732069597058f4gfY_JPEG%2FIMG_3158.jpeg",
+            "menu_name": "마라탕 100g",
+            "price": "2,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241120_146%2F1732070493265ybmqB_JPEG%2FIMG_3159.jpeg",
+            "menu_name": "마라샹궈 100g",
+            "price": "3,200원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241120_210%2F1732070534361R5mTw_JPEG%2FIMG_3156.jpeg",
+            "menu_name": "꿔바로우",
+            "price": "11,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241120_292%2F1732070611117oNoLv_JPEG%2FIMG_3157.jpeg",
+            "menu_name": "계란볶음밥",
+            "price": "7,000원"
+        }
+    ]
+}

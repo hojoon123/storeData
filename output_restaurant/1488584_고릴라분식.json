@@ -1,0 +1,62 @@
+{
+    "store_name": "고릴라분식",
+    "store_location": "대전 서구 계백로 1135 113호",
+    "loc_x": "231319.556190791",
+    "loc_y": "311610.887183324",
+    "menu": [
+        {
+            "category": "",
+            "img_src": "",
+            "menu_name": "돈까스 정식",
+            "price": "11,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241021_237%2F1729484051951kJ36j_JPEG%2FIMG_3701.JPG",
+            "menu_name": "원조김밥",
+            "price": "3,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241021_185%2F1729484090465SN45b_JPEG%2FIMG_3693.JPG",
+            "menu_name": "김치볶음밥",
+            "price": "7,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241021_88%2F1729484148415jXdBq_JPEG%2FIMG_3694.JPG",
+            "menu_name": "왕돈까스",
+            "price": "10,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241021_123%2F1729484174743yq8u7_JPEG%2FIMG_3692.JPG",
+            "menu_name": "오므라이스",
+            "price": "7,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241021_152%2F1729484263465AGBbB_JPEG%2FIMG_3698.JPG",
+            "menu_name": "떡볶이",
+            "price": "5,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241021_140%2F172948427638230yFw_JPEG%2FIMG_3697.JPG",
+            "menu_name": "비빔밥",
+            "price": "7,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241021_218%2F1729484197284munLF_JPEG%2FIMG_3696.JPG",
+            "menu_name": "쫄면",
+            "price": "7,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241021_170%2F1729484307344mg17A_JPEG%2FIMG_3700.JPG",
+            "menu_name": "라볶이",
+            "price": "6,000원"
+        }
+    ]
+}

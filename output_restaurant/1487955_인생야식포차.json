@@ -1,0 +1,14 @@
+{
+    "store_name": "인생야식포차",
+    "store_location": "경북 경주시 구매1길 21-12 101호",
+    "loc_x": "408740.739076049",
+    "loc_y": "254800.905200379",
+    "menu": [
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240911_76%2F1725986594472zln06_JPEG%2FIMG_1592.jpeg",
+            "menu_name": "오징어볶음",
+            "price": "25,000원"
+        }
+    ]
+}

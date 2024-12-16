@@ -1,0 +1,476 @@
+{
+    "store_name": "갓튀긴후라이드 수원망포반월점",
+    "store_location": "경기 수원시 영통구 영통로154번길 56 한양수자인에듀파크 상가동 1층 105호 갓튀긴후라이드",
+    "loc_x": "205006.44310841",
+    "loc_y": "415422.452549936",
+    "menu": [
+        {
+            "category": "대표메뉴",
+            "img_src": "",
+            "menu_name": "['매주 수,금 3000원,4000할인']갓튀긴후라이드",
+            "price": "18,000원"
+        },
+        {
+            "category": "대표메뉴",
+            "img_src": "",
+            "menu_name": "듬뿍 꼬추마요",
+            "price": "21,000원"
+        },
+        {
+            "category": "대표메뉴",
+            "img_src": "",
+            "menu_name": "듬뿍 슈뿌림",
+            "price": "21,000원"
+        },
+        {
+            "category": "대표메뉴",
+            "img_src": "",
+            "menu_name": "갓 튀긴 윙 & 봉",
+            "price": "21,000원"
+        },
+        {
+            "category": "대표메뉴",
+            "img_src": "",
+            "menu_name": "양념치킨",
+            "price": "19,000원"
+        },
+        {
+            "category": "대표메뉴",
+            "img_src": "",
+            "menu_name": "반반치킨 + 똥집",
+            "price": "22,500원"
+        },
+        {
+            "category": "듬뿍 시리즈™",
+            "img_src": "",
+            "menu_name": "듬뿍 슈뿌림",
+            "price": "21,000원"
+        },
+        {
+            "category": "듬뿍 시리즈™",
+            "img_src": "",
+            "menu_name": "듬뿍 꼬추마요",
+            "price": "21,000원"
+        },
+        {
+            "category": "듬뿍 시리즈™",
+            "img_src": "",
+            "menu_name": "[NEW] 듬뿍 땡초마요",
+            "price": "21,000원"
+        },
+        {
+            "category": "듬뿍 시리즈™",
+            "img_src": "",
+            "menu_name": "[NEW] 듬뿍 까망 알리오",
+            "price": "21,000원"
+        },
+        {
+            "category": "듬뿍 시리즈™",
+            "img_src": "",
+            "menu_name": "[NEW] 듬뿍 뽀얀 어니언",
+            "price": "21,000원"
+        },
+        {
+            "category": "한마리 치킨",
+            "img_src": "",
+            "menu_name": "['매주 수,금 3000원,4000할인']갓튀긴후라이드",
+            "price": "18,000원"
+        },
+        {
+            "category": "한마리 치킨",
+            "img_src": "",
+            "menu_name": "[ NEW ] 갓 튀긴 콤보",
+            "price": "22,000원"
+        },
+        {
+            "category": "한마리 치킨",
+            "img_src": "",
+            "menu_name": "갓 튀긴 윙 & 봉",
+            "price": "21,000원"
+        },
+        {
+            "category": "한마리 치킨",
+            "img_src": "",
+            "menu_name": "양념치킨",
+            "price": "19,000원"
+        },
+        {
+            "category": "한마리 치킨",
+            "img_src": "",
+            "menu_name": "매운양념치킨",
+            "price": "19,000원"
+        },
+        {
+            "category": "한마리 치킨",
+            "img_src": "",
+            "menu_name": "간장치킨",
+            "price": "19,000원"
+        },
+        {
+            "category": "한마리 치킨",
+            "img_src": "",
+            "menu_name": "매운간장치킨",
+            "price": "19,000원"
+        },
+        {
+            "category": "한마리 치킨",
+            "img_src": "",
+            "menu_name": "치즈땅",
+            "price": "20,000원"
+        },
+        {
+            "category": "한마리 치킨",
+            "img_src": "",
+            "menu_name": "칠리땅",
+            "price": "20,000원"
+        },
+        {
+            "category": "한마리 치킨",
+            "img_src": "",
+            "menu_name": "갓 파 후라이드",
+            "price": "20,000원"
+        },
+        {
+            "category": "반반 치킨",
+            "img_src": "",
+            "menu_name": "반반 치킨",
+            "price": "18,000원"
+        },
+        {
+            "category": "반반 치킨",
+            "img_src": "",
+            "menu_name": "반반치킨 + 양념감자튀김",
+            "price": "22,500원"
+        },
+        {
+            "category": "반반 치킨",
+            "img_src": "",
+            "menu_name": "반반치킨 + 똥집",
+            "price": "22,500원"
+        },
+        {
+            "category": "반반 치킨",
+            "img_src": "",
+            "menu_name": "반반치킨 + 염통꼬치(8개)",
+            "price": "22,500원"
+        },
+        {
+            "category": "반반 치킨",
+            "img_src": "",
+            "menu_name": "반반치킨 + 갓 만든 떡볶이",
+            "price": "22,500원"
+        },
+        {
+            "category": "반반 치킨",
+            "img_src": "",
+            "menu_name": "반반치킨 + 갓 만든 로제 떡볶이",
+            "price": "23,500원"
+        },
+        {
+            "category": "반반 치킨",
+            "img_src": "",
+            "menu_name": "반반치킨 + 갓 튀긴 튤립닭발",
+            "price": "30,000원"
+        },
+        {
+            "category": "한마리 반 치킨",
+            "img_src": "",
+            "menu_name": "1마리하고 반마리 더 (두가지맛)",
+            "price": "27,000원"
+        },
+        {
+            "category": "한마리 반 치킨",
+            "img_src": "",
+            "menu_name": "1마리하고 반마리 더 (세가지맛)",
+            "price": "27,000원"
+        },
+        {
+            "category": "두마리 치킨",
+            "img_src": "",
+            "menu_name": "갓 튀긴 두마리",
+            "price": "32,000원"
+        },
+        {
+            "category": "두마리 치킨",
+            "img_src": "",
+            "menu_name": "2마리 세가지맛 (한마리 + 반반)",
+            "price": "32,000원"
+        },
+        {
+            "category": "두마리 치킨",
+            "img_src": "",
+            "menu_name": "2마리 네가지맛 (반반 + 반반)",
+            "price": "32,000원"
+        },
+        {
+            "category": "반마리 치킨",
+            "img_src": "",
+            "menu_name": "갓 튀긴 후라이드 (반마리)((콜라 미포함))",
+            "price": "12,500원"
+        },
+        {
+            "category": "반마리 치킨",
+            "img_src": "",
+            "menu_name": "[NEW] 갓 튀긴 콤보 (반마리)((콜라 미포함))",
+            "price": "14,500원"
+        },
+        {
+            "category": "반마리 치킨",
+            "img_src": "",
+            "menu_name": "[NEW] 듬뿍 땡초마요 (반마리)((콜라 미포함))",
+            "price": "15,500원"
+        },
+        {
+            "category": "반마리 치킨",
+            "img_src": "",
+            "menu_name": "[NEW] 듬뿍 까망 알리오 (반마리)((콜라 미포함))",
+            "price": "15,500원"
+        },
+        {
+            "category": "반마리 치킨",
+            "img_src": "",
+            "menu_name": "[NEW] 듬뿍 뽀얀 어니언 (반마리)((콜라 미포함))",
+            "price": "15,500원"
+        },
+        {
+            "category": "반마리 치킨",
+            "img_src": "",
+            "menu_name": "듬뿍 꼬추마요 (반마리)((콜라 미포함))",
+            "price": "15,500원"
+        },
+        {
+            "category": "반마리 치킨",
+            "img_src": "",
+            "menu_name": "듬뿍 슈뿌림 (반마리)((콜라 미포함))",
+            "price": "15,500원"
+        },
+        {
+            "category": "반마리 치킨",
+            "img_src": "",
+            "menu_name": "갓 튀긴 윙봉 (반마리)(윙봉 (콜라 미포함))",
+            "price": "14,000원"
+        },
+        {
+            "category": "반마리 치킨",
+            "img_src": "",
+            "menu_name": "양념치킨 (반마리)((콜라 미포함))",
+            "price": "13,500원"
+        },
+        {
+            "category": "반마리 치킨",
+            "img_src": "",
+            "menu_name": "간장치킨 (반마리)((콜라 미포함))",
+            "price": "13,500원"
+        },
+        {
+            "category": "반마리 치킨",
+            "img_src": "",
+            "menu_name": "매운양념 치킨 (반마리)((콜라 미포함))",
+            "price": "13,500원"
+        },
+        {
+            "category": "반마리 치킨",
+            "img_src": "",
+            "menu_name": "매운간장 치킨 (반마리)((콜라 미포함))",
+            "price": "13,500원"
+        },
+        {
+            "category": "반마리 치킨",
+            "img_src": "",
+            "menu_name": "치즈땅 (반마리)((콜라 미포함))",
+            "price": "14,500원"
+        },
+        {
+            "category": "반마리 치킨",
+            "img_src": "",
+            "menu_name": "칠리땅 (반마리)((콜라 미포함))",
+            "price": "14,500원"
+        },
+        {
+            "category": "반마리 치킨",
+            "img_src": "",
+            "menu_name": "갓파후라이드 (반마리)((콜라 미포함))",
+            "price": "14,500원"
+        },
+        {
+            "category": "반마리 치킨",
+            "img_src": "",
+            "menu_name": "나 혼자 산닭 SET (1인분) (콜라 미포함)",
+            "price": "17,000원"
+        },
+        {
+            "category": "SIDE 메뉴",
+            "img_src": "",
+            "menu_name": "건강한 비트무",
+            "price": "500원"
+        },
+        {
+            "category": "SIDE 메뉴",
+            "img_src": "",
+            "menu_name": "뿌려먹는 시즈닝 추가",
+            "price": "500원"
+        },
+        {
+            "category": "SIDE 메뉴",
+            "img_src": "",
+            "menu_name": "양념소스 추가",
+            "price": "500원"
+        },
+        {
+            "category": "SIDE 메뉴",
+            "img_src": "",
+            "menu_name": "매운 양념소스 추가",
+            "price": "500원"
+        },
+        {
+            "category": "SIDE 메뉴",
+            "img_src": "",
+            "menu_name": "마늘간장소스 추가",
+            "price": "500원"
+        },
+        {
+            "category": "SIDE 메뉴",
+            "img_src": "",
+            "menu_name": "매운 마늘간장소스 추가",
+            "price": "500원"
+        },
+        {
+            "category": "SIDE 메뉴",
+            "img_src": "",
+            "menu_name": "머스타드(일회용2개) 추가",
+            "price": "500원"
+        },
+        {
+            "category": "SIDE 메뉴",
+            "img_src": "",
+            "menu_name": "갈릭소스 추가",
+            "price": "500원"
+        },
+        {
+            "category": "SIDE 메뉴",
+            "img_src": "",
+            "menu_name": "와사마요소스 추가",
+            "price": "500원"
+        },
+        {
+            "category": "SIDE 메뉴",
+            "img_src": "",
+            "menu_name": "스위트칠리소스 추가",
+            "price": "500원"
+        },
+        {
+            "category": "SIDE 메뉴",
+            "img_src": "",
+            "menu_name": "청양간장마요소스 추가",
+            "price": "500원"
+        },
+        {
+            "category": "SIDE 메뉴",
+            "img_src": "",
+            "menu_name": "갓 내린 파채 (파채소스)",
+            "price": "1,500원"
+        },
+        {
+            "category": "SIDE 메뉴",
+            "img_src": "",
+            "menu_name": "갓 내린 파채 (파닭소스)",
+            "price": "1,500원"
+        },
+        {
+            "category": "SIDE 메뉴",
+            "img_src": "",
+            "menu_name": "치즈볼(4개)",
+            "price": "3,000원"
+        },
+        {
+            "category": "SIDE 메뉴",
+            "img_src": "",
+            "menu_name": "범벅 치즈볼(4개)",
+            "price": "3,500원"
+        },
+        {
+            "category": "SIDE 메뉴",
+            "img_src": "",
+            "menu_name": "갓 만든 떡볶이",
+            "price": "4,500원"
+        },
+        {
+            "category": "SIDE 메뉴",
+            "img_src": "",
+            "menu_name": "갓 만든 로제 떡볶이",
+            "price": "5,500원"
+        },
+        {
+            "category": "SIDE 메뉴",
+            "img_src": "",
+            "menu_name": "똥집",
+            "price": "4,500원"
+        },
+        {
+            "category": "SIDE 메뉴",
+            "img_src": "",
+            "menu_name": "염통꼬치",
+            "price": "3,000원"
+        },
+        {
+            "category": "SIDE 메뉴",
+            "img_src": "",
+            "menu_name": "양념감자튀김",
+            "price": "4,500원"
+        },
+        {
+            "category": "SIDE 메뉴",
+            "img_src": "",
+            "menu_name": "갓 튀긴 튤립닭발",
+            "price": "12,000원"
+        },
+        {
+            "category": "SIDE 메뉴",
+            "img_src": "",
+            "menu_name": "['매주 수,금 3000원,4000할인'] 닭껍질 튀김",
+            "price": "4,500원"
+        },
+        {
+            "category": "음료",
+            "img_src": "",
+            "menu_name": "코카콜라 500ml",
+            "price": "2,000원"
+        },
+        {
+            "category": "음료",
+            "img_src": "",
+            "menu_name": "코카콜라 1.25L",
+            "price": "3,000원"
+        },
+        {
+            "category": "음료",
+            "img_src": "",
+            "menu_name": "ZERO 코카콜라 500ml",
+            "price": "2,000원"
+        },
+        {
+            "category": "음료",
+            "img_src": "",
+            "menu_name": "ZERO 코카콜라 1.25L",
+            "price": "3,000원"
+        },
+        {
+            "category": "음료",
+            "img_src": "",
+            "menu_name": "스프라이트 500ml",
+            "price": "1,500원"
+        },
+        {
+            "category": "음료",
+            "img_src": "",
+            "menu_name": "스프라이트 1.5L",
+            "price": "2,500원"
+        },
+        {
+            "category": "밥",
+            "img_src": "",
+            "menu_name": "갓 지은 햇반(1 그릇)",
+            "price": "2,000원"
+        }
+    ]
+}

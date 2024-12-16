@@ -1,0 +1,98 @@
+{
+    "store_name": "양철북 동탄여울공원점",
+    "store_location": "경기 화성시 동탄기흥로 447-32 109호",
+    "loc_x": "207922.813759289",
+    "loc_y": "410999.367032247",
+    "menu": [
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241206_181%2F173345294017794Y4s_JPEG%2F%25C7%25D1%25BF%25EC%25B0%25F6%25C3%25A2%25B8%25F0%25B5%25EB%25C7%25D1%25C6%25C7.jpg",
+            "menu_name": "한우곱창 모둠한판",
+            "price": "49,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241206_233%2F1733452981780DDxMD_JPEG%2F%25B8%25B7%25B4%25EB%25B8%25D4%25C0%25BA%25C6%25FE%25B5%25E02.jpg",
+            "menu_name": "막대먹은 퐁듀",
+            "price": "46,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241206_285%2F1733453016828CN2TF_JPEG%2F%25C7%25D1%25BF%25EC%25B0%25F6%25C3%25A2.jpg",
+            "menu_name": "한우곱창",
+            "price": "23,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241206_188%2F1733453083365sPdxx_JPEG%2F%25C7%25D1%25BF%25EC%25B4%25EB%25C3%25A2.jpg",
+            "menu_name": "한우대창",
+            "price": "21,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241206_124%2F1733453150997VxdDc_JPEG%2F%25C6%25AF%25BE%25E7.jpg",
+            "menu_name": "특양",
+            "price": "22,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241206_47%2F17334531930105FQvB_JPEG%2F%25B8%25B7%25C3%25A2.jpg",
+            "menu_name": "소막창",
+            "price": "21,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241206_245%2F1733453315142vwORX_JPEG%2F%25BF%25B0%25C5%25EB.jpg",
+            "menu_name": "소염통",
+            "price": "14,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241206_68%2F1733453615053XvrJn_JPEG%2F%25B0%25F6%25C3%25A2%25C0%25FC%25B0%25F1.jpg",
+            "menu_name": "한우곱창전골",
+            "price": "33,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241206_65%2F1733453643331rW4KE_JPEG%2F%25B0%25F6%25B5%25B5%25B8%25AE%25C5%25C1_%25C0%25CC%25B9%25CC%25C1%25F61.jpg",
+            "menu_name": "마늘 곱도리탕",
+            "price": "35,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241206_125%2F17334536673525NQUp_JPEG%2F%25B0%25F6%25C3%25A2%25B6%25D2%25B9%25E8%25B1%25E2.jpg",
+            "menu_name": "곱창뚝배기",
+            "price": "14,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241206_54%2F1733453737280w6tiY_JPEG%2F%25B0%25F6%25C3%25A2%25B6%25F3%25B8%25E9.jpg",
+            "menu_name": "곱창라면",
+            "price": "7,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241206_287%2F1733453831496NzU5K_JPEG%2F%25B3%25AF%25C4%25A1%25BE%25CB%25C1%25D6%25B8%25D4%25B9%25E4.jpg",
+            "menu_name": "날치알주먹밥",
+            "price": "4,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241206_177%2F1733453799143hrtYO_JPEG%2F%25B9%25AB%25BB%25FD%25C3%25A4%25BA%25F1%25BA%25F6%25B9%25E4.jpg",
+            "menu_name": "무생채비빔밥",
+            "price": "4,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241206_39%2F1733453779602q2ouY_JPEG%2F%25BA%25BA%25C0%25BD%25B9%25E4.jpg",
+            "menu_name": "계란볶음밥",
+            "price": "4,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241206_292%2F1733453756314pycCV_JPEG%2F%25C8%25AD%25BB%25EA%25B0%25E8%25B6%25F5%25C2%25F2.jpg",
+            "menu_name": "화산계란찜",
+            "price": "4,000원"
+        }
+    ]
+}

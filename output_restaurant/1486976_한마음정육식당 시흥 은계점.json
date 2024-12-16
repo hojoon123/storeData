@@ -1,0 +1,32 @@
+{
+    "store_name": "한마음정육식당 시흥 은계점",
+    "store_location": "경기 시흥시 수인로3247번길 19 에듀타운 2층 202~205호",
+    "loc_x": "182052.351676377",
+    "loc_y": "437184.104187187",
+    "menu": [
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241122_116%2F1732264117327sBXMt_JPEG%2F2._%25BC%25D2_%25C7%25D1%25B8%25B6%25B8%25AE_crop.jpg",
+            "menu_name": "소 한마리",
+            "price": "77,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241122_79%2F1732264087581B38nW_JPEG%2F1._%25BC%25D2_%25B9%25DD%25B8%25B6%25B8%25AE_crop.jpg",
+            "menu_name": "소 반마리",
+            "price": "43,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241122_165%2F1732264045220WncKI_JPEG%2F4._%25B5%25C5%25C1%25F6_%25C7%25D1%25B8%25B6%25B8%25AE_crop.jpg",
+            "menu_name": "돼지 한마리",
+            "price": "73,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241122_161%2F1732264020634pIegp_JPEG%2F3._%25B5%25C5%25C1%25F6_%25B9%25DD%25B8%25B6%25B8%25AE_crop.jpg",
+            "menu_name": "돼지 반마리",
+            "price": "42,000원"
+        }
+    ]
+}

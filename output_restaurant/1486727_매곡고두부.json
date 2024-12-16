@@ -1,0 +1,92 @@
+{
+    "store_name": "매곡고두부",
+    "store_location": "울산 북구 매곡로 160 1층 매곡고두부",
+    "loc_x": "413516.047066731",
+    "loc_y": "241011.692356334",
+    "menu": [
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20230226_287%2F167734286436666W4e_JPEG%2F%25BA%25B8%25BD%25D3_01.jpg",
+            "menu_name": "마늘보쌈 + 짬뽕순두부",
+            "price": "18,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20230226_195%2F1677343549981izFm9_JPEG%2F%25BA%25B8%25BD%25D3_01.jpg",
+            "menu_name": "마늘보쌈 1접시",
+            "price": "15,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20230226_13%2F1677342827245r6v1z_JPEG%2F%25BA%25B8%25BD%25D3_01.jpg",
+            "menu_name": "마늘보쌈 + 들깨백두부",
+            "price": "18,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20230226_118%2F1677342568819AE4TX_JPEG%2F%25BA%25B8%25BD%25D3_01.jpg",
+            "menu_name": "마늘보쌈 + 청국장순두부",
+            "price": "17,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20230226_164%2F167734252362007QFp_JPEG%2F%25BA%25B8%25BD%25D3_01.jpg",
+            "menu_name": "마늘보쌈 + 해물순두부",
+            "price": "17,000원"
+        },
+        {
+            "category": "",
+            "img_src": "",
+            "menu_name": "마늘보쌈 + 초당순두부",
+            "price": "17,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20230226_109%2F167734404032580Lpg_JPEG%2F%25BA%25B8%25BD%25D3_01.jpg",
+            "menu_name": "마늘보쌈",
+            "price": "32,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20230226_193%2F1677343752603X4RBv_JPEG%2F%25B5%25CE%25BA%25CE_01.jpg",
+            "menu_name": "야채촌두부",
+            "price": "12,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20230226_154%2F1677343830963CcpNU_JPEG%2FCRW_8927.JPG",
+            "menu_name": "고등어 구이 1미",
+            "price": "6,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20230226_255%2F16773435109706X4pF_JPEG%2F%25C2%25AB%25BB%25CD_01.jpg",
+            "menu_name": "짬뽕 순두부",
+            "price": "11,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20230226_255%2F1677343474991pLJQa_JPEG%2F%25B5%25E9%25B1%25FA%25B9%25E9%25B5%25CE%25BA%25CE_06.jpg",
+            "menu_name": "들깨 백두부",
+            "price": "11,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20230226_29%2F1677343438624OXmfn_JPEG%2FCRW_9049.jpg",
+            "menu_name": "청국장 순두부",
+            "price": "10,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20230226_49%2F1677343402419u4hjC_JPEG%2FCRW_8989.jpg",
+            "menu_name": "해물순두부",
+            "price": "10,000원"
+        },
+        {
+            "category": "",
+            "img_src": "",
+            "menu_name": "초당순두부",
+            "price": "10,000원"
+        }
+    ]
+}

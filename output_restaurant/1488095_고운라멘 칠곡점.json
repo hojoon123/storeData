@@ -1,0 +1,260 @@
+{
+    "store_name": "고운라멘 칠곡점",
+    "store_location": "대구 북구 칠곡중앙대로 454 1층",
+    "loc_x": "339768.049921041",
+    "loc_y": "271874.880247972",
+    "menu": [
+        {
+            "category": "대표메뉴",
+            "img_src": "",
+            "menu_name": "1인세트",
+            "price": "15,400원"
+        },
+        {
+            "category": "대표메뉴",
+            "img_src": "",
+            "menu_name": "곱창라멘 (짬뽕이김)",
+            "price": "10,900원"
+        },
+        {
+            "category": "대표메뉴",
+            "img_src": "",
+            "menu_name": "바질라멘 (바질 파스타 이김)",
+            "price": "10,900원"
+        },
+        {
+            "category": "대표메뉴",
+            "img_src": "",
+            "menu_name": "고운라멘 (곰탕 갈비탕 이김)",
+            "price": "9,900원"
+        },
+        {
+            "category": "대표메뉴",
+            "img_src": "",
+            "menu_name": "곱창덮밥",
+            "price": "10,900원"
+        },
+        {
+            "category": "대표메뉴",
+            "img_src": "",
+            "menu_name": "차슈덮밥",
+            "price": "10,900원"
+        },
+        {
+            "category": "세트",
+            "img_src": "",
+            "menu_name": "1인세트",
+            "price": "15,400원"
+        },
+        {
+            "category": "세트",
+            "img_src": "",
+            "menu_name": "2인세트",
+            "price": "21,400원"
+        },
+        {
+            "category": "메인메뉴",
+            "img_src": "",
+            "menu_name": "고운라멘 (곰탕 갈비탕 이김)",
+            "price": "9,900원"
+        },
+        {
+            "category": "메인메뉴",
+            "img_src": "",
+            "menu_name": "곱창라멘 (짬뽕이김)",
+            "price": "10,900원"
+        },
+        {
+            "category": "메인메뉴",
+            "img_src": "",
+            "menu_name": "바질라멘 (바질 파스타 이김)",
+            "price": "10,900원"
+        },
+        {
+            "category": "메인메뉴",
+            "img_src": "",
+            "menu_name": "숯불고기덮밥",
+            "price": "9,900원"
+        },
+        {
+            "category": "메인메뉴",
+            "img_src": "",
+            "menu_name": "숯불고기 매운숙주덮밥",
+            "price": "10,900원"
+        },
+        {
+            "category": "메인메뉴",
+            "img_src": "",
+            "menu_name": "명란마요 숯불고기덮밥",
+            "price": "10,900원"
+        },
+        {
+            "category": "메인메뉴",
+            "img_src": "",
+            "menu_name": "곱창덮밥",
+            "price": "10,900원"
+        },
+        {
+            "category": "메인메뉴",
+            "img_src": "",
+            "menu_name": "차슈덮밥",
+            "price": "10,900원"
+        },
+        {
+            "category": "메인메뉴",
+            "img_src": "",
+            "menu_name": "마제소바",
+            "price": "10,900원"
+        },
+        {
+            "category": "메인메뉴",
+            "img_src": "",
+            "menu_name": "카라이 마제소바",
+            "price": "10,900원"
+        },
+        {
+            "category": "메인메뉴",
+            "img_src": "",
+            "menu_name": "마제밥",
+            "price": "10,900원"
+        },
+        {
+            "category": "메인메뉴",
+            "img_src": "",
+            "menu_name": "카라이 마제밥",
+            "price": "10,900원"
+        },
+        {
+            "category": "메인메뉴",
+            "img_src": "",
+            "menu_name": "곱창국밥",
+            "price": "10,900원"
+        },
+        {
+            "category": "메인메뉴",
+            "img_src": "",
+            "menu_name": "바질국밥",
+            "price": "10,900원"
+        },
+        {
+            "category": "메인메뉴",
+            "img_src": "",
+            "menu_name": "고운국밥",
+            "price": "9,900원"
+        },
+        {
+            "category": "사이드메뉴",
+            "img_src": "",
+            "menu_name": "매콤 야끼도리(2P)",
+            "price": "3,900원"
+        },
+        {
+            "category": "사이드메뉴",
+            "img_src": "",
+            "menu_name": "데리 야끼도리(2P)",
+            "price": "3,900원"
+        },
+        {
+            "category": "사이드메뉴",
+            "img_src": "",
+            "menu_name": "닭껍질 교자(3P)",
+            "price": "3,900원"
+        },
+        {
+            "category": "사이드메뉴",
+            "img_src": "",
+            "menu_name": "하카타풍 야끼교자(4P)",
+            "price": "3,900원"
+        },
+        {
+            "category": "사이드메뉴",
+            "img_src": "",
+            "menu_name": "치킨 가라아게",
+            "price": "4,900원"
+        },
+        {
+            "category": "추가메뉴",
+            "img_src": "",
+            "menu_name": "미니곱창덮밥",
+            "price": "6,900원"
+        },
+        {
+            "category": "추가메뉴",
+            "img_src": "",
+            "menu_name": "미니고기덮밥",
+            "price": "6,500원"
+        },
+        {
+            "category": "추가메뉴",
+            "img_src": "",
+            "menu_name": "매운곱창",
+            "price": "4,500원"
+        },
+        {
+            "category": "추가메뉴",
+            "img_src": "",
+            "menu_name": "불고기",
+            "price": "3,900원"
+        },
+        {
+            "category": "추가메뉴",
+            "img_src": "",
+            "menu_name": "차슈(2장)",
+            "price": "3,400원"
+        },
+        {
+            "category": "추가메뉴",
+            "img_src": "",
+            "menu_name": "라멘면 추가(숙주포함)(1인분)",
+            "price": "3,400원"
+        },
+        {
+            "category": "추가메뉴",
+            "img_src": "",
+            "menu_name": "공기밥",
+            "price": "1,000원"
+        },
+        {
+            "category": "추가메뉴",
+            "img_src": "",
+            "menu_name": "아지타마고(맛계란)(2P)",
+            "price": "1,500원"
+        },
+        {
+            "category": "추가메뉴",
+            "img_src": "",
+            "menu_name": "매운소스",
+            "price": "500원"
+        },
+        {
+            "category": "음료",
+            "img_src": "",
+            "menu_name": "코카콜라(500ml)",
+            "price": "2,500원"
+        },
+        {
+            "category": "음료",
+            "img_src": "",
+            "menu_name": "제로콜라(500ml)",
+            "price": "2,500원"
+        },
+        {
+            "category": "음료",
+            "img_src": "",
+            "menu_name": "스프라이트(500ml)",
+            "price": "2,500원"
+        },
+        {
+            "category": "음료",
+            "img_src": "",
+            "menu_name": "산가리아 구슬사이다",
+            "price": "3,600원"
+        },
+        {
+            "category": "음료",
+            "img_src": "",
+            "menu_name": "토모마스 복숭아맛 라무네(구슬사이다)",
+            "price": "3,900원"
+        }
+    ]
+}

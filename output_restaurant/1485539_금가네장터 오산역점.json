@@ -1,0 +1,98 @@
+{
+    "store_name": "금가네장터 오산역점",
+    "store_location": "경기 오산시 대원로 2 1층 금가네장터 오산역점",
+    "loc_x": "206031.08524824",
+    "loc_y": "404946.589502676",
+    "menu": [
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241130_166%2F1732970998254KAKgY_JPEG%2F%25BC%25D2%25BC%25F6%25C0%25B0_%25C7%25D1%25C1%25A2%25BD%25C3.jpg",
+            "menu_name": "소수육 전골",
+            "price": "38,900원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241130_105%2F1732969760666cKVFG_JPEG%2F%25BC%25F8%25B4%25EB%25B1%25B9.jpg",
+            "menu_name": "밀양식) 장터순대국밥",
+            "price": "10,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241130_88%2F1732970362109rBi7O_JPEG%2F%25BE%25F3%25C5%25AB%25BC%25F8%25B4%25EB%25B1%25B9.jpg",
+            "menu_name": "밀양식) 해장얼큰순대국",
+            "price": "11,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241130_174%2F1732970011465udg1G_JPEG%2F%25BD%25BA%25C1%25F6.jpg",
+            "menu_name": "나주식) 스지곰탕",
+            "price": "12,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241130_197%2F1732970484414Wu69a_JPEG%2F%25C1%25A6%25B8%25F1%25C0%25BB-%25C0%25D4%25B7%25C2%25C7%25D8%25C1%25D6%25BC%25BC%25BF%25E4_-001_%25289%2529.jpg",
+            "menu_name": "밀양식) 수육국밥",
+            "price": "10,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241130_63%2F1732970265454qFoJA_JPEG%2F%25B8%25D3%25B8%25AE%25B0%25ED%25B1%25E2%25B8%25B8.jpg",
+            "menu_name": "밀양식) 돼지머리국밥",
+            "price": "10,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241130_122%2F1732970745735GMYoy_JPEG%2F%25B8%25D3%25B8%25AE%25B0%25ED%25B1%25E2%25B8%25B8.jpg",
+            "menu_name": "밀양식) 반반국밥",
+            "price": "10,500원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241130_164%2F1732970317028TYGcA_JPEG%2F%25BC%25F8%25B4%25EB%25B8%25B8%25B1%25B9%25B9%25E4.jpg",
+            "menu_name": "밀양식) 순대만국밥",
+            "price": "10,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241130_96%2F1732969803241vNs7V_JPEG%2F%25B8%25BC%25C0%25BA%25B0%25F5%25C5%25C1.jpg",
+            "menu_name": "나주식) 맑은곰탕",
+            "price": "11,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241130_67%2F1732970859135FNdHr_JPEG%2F%25BE%25F3%25C5%25AB%25BA%25D2%25B0%25F5%25C5%25C1.jpg",
+            "menu_name": "나주식) 얼큰 불곰탕",
+            "price": "12,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241130_34%2F17329706274772tPo2_JPEG%2F%25B5%25C5%25C1%25F6%25BC%25F6%25C0%25B0.jpg",
+            "menu_name": "돼지수육 한 접시",
+            "price": "17,900원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241130_92%2F1732969977352sLsXH_JPEG%2F%25BC%25FA%25B1%25B9.jpg",
+            "menu_name": "얼큰 술국",
+            "price": "16,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241130_59%2F17329707627972BWwW_PNG%2F%25C6%25ED%25C0%25B0.png",
+            "menu_name": "편육 한 접시",
+            "price": "9,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241130_208%2F1732970203930fPU8p_JPEG%2F%25BC%25F8%25B4%25EB_%25C7%25D1%25C1%25A2%25BD%25C3.jpg",
+            "menu_name": "토종순대 한접시",
+            "price": "9,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241130_69%2F173297080089085a6S_JPEG%2F%25B3%25EC%25B5%25CE%25C0%25FC.jpg",
+            "menu_name": "미니 녹두전",
+            "price": "7,000원"
+        }
+    ]
+}

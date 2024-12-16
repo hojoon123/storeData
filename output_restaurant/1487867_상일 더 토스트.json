@@ -1,0 +1,140 @@
+{
+    "store_name": "상일 더 토스트",
+    "store_location": "경기 남양주시 화도읍 비룡로 56-8",
+    "loc_x": "226616.033437304",
+    "loc_y": "461545.644170332",
+    "menu": [
+        {
+            "category": "대표메뉴",
+            "img_src": "",
+            "menu_name": "프렌치 모짜렐라 치즈 토스트",
+            "price": "3,200원"
+        },
+        {
+            "category": "메인메뉴",
+            "img_src": "",
+            "menu_name": "옛날 토스트",
+            "price": "3,200원"
+        },
+        {
+            "category": "메인메뉴",
+            "img_src": "",
+            "menu_name": "야채햄치즈토스트",
+            "price": "3,500원"
+        },
+        {
+            "category": "모짜렐라 치즈 토스트",
+            "img_src": "",
+            "menu_name": "모짜렐라 치즈 토스트",
+            "price": "3,200원"
+        },
+        {
+            "category": "모짜렐라 치즈 토스트",
+            "img_src": "",
+            "menu_name": "모짜렐라 햄치즈 토스트",
+            "price": "3,600원"
+        },
+        {
+            "category": "모짜렐라 치즈 토스트",
+            "img_src": "",
+            "menu_name": "모짜렐라 콘치즈 토스트",
+            "price": "3,600원"
+        },
+        {
+            "category": "모짜렐라 치즈 토스트",
+            "img_src": "",
+            "menu_name": "모짜렐라 햄콘치즈 토스트",
+            "price": "4,000원"
+        },
+        {
+            "category": "프렌치 토스트",
+            "img_src": "",
+            "menu_name": "프렌치 토스트",
+            "price": "1,300원"
+        },
+        {
+            "category": "프렌치 토스트",
+            "img_src": "",
+            "menu_name": "프렌치 모짜렐라 치즈 토스트",
+            "price": "3,200원"
+        },
+        {
+            "category": "프렌치 토스트",
+            "img_src": "",
+            "menu_name": "프렌치 모짜렐라 햄치즈 토스트",
+            "price": "3,600원"
+        },
+        {
+            "category": "프렌치 토스트",
+            "img_src": "",
+            "menu_name": "프렌치 모짜렐라 어니언 치즈 토스트",
+            "price": "3,600원"
+        },
+        {
+            "category": "프렌치 토스트",
+            "img_src": "",
+            "menu_name": "프렌치 모짜렐라 콘치즈 토스트",
+            "price": "3,600원"
+        },
+        {
+            "category": "프렌치 토스트",
+            "img_src": "",
+            "menu_name": "프렌치 모짜렐라 햄콘치즈 토스트",
+            "price": "4,000원"
+        },
+        {
+            "category": "프렌치 토스트",
+            "img_src": "",
+            "menu_name": "프렌치 모짜렐라 콘치즈 토스트",
+            "price": "3,600원"
+        },
+        {
+            "category": "핫도그",
+            "img_src": "",
+            "menu_name": "크리스피 어니언 핫도그",
+            "price": "4,000원"
+        },
+        {
+            "category": "핫도그",
+            "img_src": "",
+            "menu_name": "크래미 콘 샐러드 핫도그",
+            "price": "4,400원"
+        },
+        {
+            "category": "핫도그",
+            "img_src": "",
+            "menu_name": "콘치즈 핫도그",
+            "price": "4,400원"
+        },
+        {
+            "category": "음료메뉴",
+            "img_src": "",
+            "menu_name": "콜라(355ml)",
+            "price": "2,000원"
+        },
+        {
+            "category": "음료메뉴",
+            "img_src": "",
+            "menu_name": "제로콜라(355ml)",
+            "price": "2,000원"
+        },
+        {
+            "category": "음료메뉴",
+            "img_src": "",
+            "menu_name": "환타(355ml)",
+            "price": "2,000원"
+        },
+        {
+            "category": "음료메뉴",
+            "img_src": "",
+            "menu_name": "스프라이트(355ml)",
+            "price": "2,000원"
+        },
+        {
+            "category": "음료메뉴",
+            "img_src": "",
+            "menu_name": "베지밀 B",
+            "price": "1,800원"
+        }
+    ]
+}

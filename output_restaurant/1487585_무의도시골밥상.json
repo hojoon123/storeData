@@ -1,0 +1,134 @@
+{
+    "store_name": "무의도시골밥상",
+    "store_location": "인천 중구 대무의로 305-1 1층, 2층",
+    "loc_x": "149139.658883749",
+    "loc_y": "432068.036259505",
+    "menu": [
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241213_296%2F1734046629389groGx_JPEG%2F%25B9%25FA%25B9%25FA%25C0%25CC_.jpg",
+            "menu_name": "벌벌이",
+            "price": "10,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241213_222%2F1734046593925k82ej_JPEG%2F%25BB%25FD%25B1%25BC%25C8%25B8.jpg",
+            "menu_name": "생굴회",
+            "price": "20,000원"
+        },
+        {
+            "category": "",
+            "img_src": "",
+            "menu_name": "공깃밥",
+            "price": "1,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241203_168%2F1733218400964wr0Qv_JPEG%2FIMG_3436.jpeg",
+            "menu_name": "해물 파전",
+            "price": "20,000원"
+        },
+        {
+            "category": "",
+            "img_src": "",
+            "menu_name": "칼국수 면사리",
+            "price": "2,000원"
+        },
+        {
+            "category": "",
+            "img_src": "",
+            "menu_name": "참소라",
+            "price": "35,000원"
+        },
+        {
+            "category": "",
+            "img_src": "",
+            "menu_name": "무의도 뻘낙지 탕탕이",
+            "price": "35,000원"
+        },
+        {
+            "category": "",
+            "img_src": "",
+            "menu_name": "회 주문 시•매운탕 추가",
+            "price": "10,000원"
+        },
+        {
+            "category": "",
+            "img_src": "",
+            "menu_name": "자연산 봄 도다리회",
+            "price": "60,000원"
+        },
+        {
+            "category": "",
+            "img_src": "",
+            "menu_name": "자연산 광어회•중",
+            "price": "70,000원"
+        },
+        {
+            "category": "",
+            "img_src": "",
+            "menu_name": "자연산 광어회•대",
+            "price": "90,000원"
+        },
+        {
+            "category": "",
+            "img_src": "",
+            "menu_name": "자연산 봄 도다리탕",
+            "price": "60,000원"
+        },
+        {
+            "category": "",
+            "img_src": "",
+            "menu_name": "낙지 연포탕•중",
+            "price": "50,000원"
+        },
+        {
+            "category": "",
+            "img_src": "",
+            "menu_name": "낙지 연포탕•대",
+            "price": "65,000원"
+        },
+        {
+            "category": "",
+            "img_src": "",
+            "menu_name": "생우럭 매운탕•중",
+            "price": "50,000원"
+        },
+        {
+            "category": "",
+            "img_src": "",
+            "menu_name": "생우럭 매운탕•대",
+            "price": "65,000원"
+        },
+        {
+            "category": "",
+            "img_src": "",
+            "menu_name": "꽃게탕•중",
+            "price": "60,000원"
+        },
+        {
+            "category": "",
+            "img_src": "",
+            "menu_name": "꽃게탕•대",
+            "price": "70,000원"
+        },
+        {
+            "category": "",
+            "img_src": "",
+            "menu_name": "꽃게찜",
+            "price": "70,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241203_275%2F1733217111328PcQjl_JPEG%2FIMG_3424.jpeg",
+            "menu_name": "옥돔구이 2인세트",
+            "price": "45,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241203_106%2F1733217056955KCf71_JPEG%2FIMG_3425.jpeg",
+            "menu_name": "민어구이 2인세트",
+            "price": "40,000원"
+        }
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "store_name": "강구 가정식뷔페 1호점",
+    "store_location": "경북 영덕군 강구면 오포길 4 2층",
+    "loc_x": "413552.507310435",
+    "loc_y": "320047.768683749",
+    "menu": [
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240921_71%2F1726851650490hKyo5_JPEG%2FIMG_7629.jpeg",
+            "menu_name": "대인",
+            "price": "9,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240919_220%2F17267386821547fCzv_JPEG%2FIMG_7634.jpeg",
+            "menu_name": "도시락",
+            "price": "9,000원"
+        },
+        {
+            "category": "",
+            "img_src": "",
+            "menu_name": "소인",
+            "price": "5,000원"
+        }
+    ]
+}

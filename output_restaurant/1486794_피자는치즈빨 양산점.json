@@ -1,0 +1,14 @@
+{
+    "store_name": "피자는치즈빨 양산점",
+    "store_location": "경남 양산시 물금읍 백호2길 28",
+    "loc_x": "381558.638077569",
+    "loc_y": "204012.093885604",
+    "menu": [
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20221129_230%2F1669683084479Dk0xR_JPEG%2F%25B0%25ED%25B1%25E2%25C3%25B5%25B1%25B9.jpg",
+            "menu_name": "고기천국피자 M",
+            "price": "19,900원"
+        }
+    ]
+}

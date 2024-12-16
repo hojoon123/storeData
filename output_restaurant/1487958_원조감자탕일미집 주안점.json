@@ -1,0 +1,32 @@
+{
+    "store_name": "원조감자탕일미집 주안점",
+    "store_location": "인천 미추홀구 인주대로 395 1층 2호",
+    "loc_x": "171650.029541594",
+    "loc_y": "438883.499868811",
+    "menu": [
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240312_223%2F1710216617049DRrb5_PNG%2FIMG_5802.png",
+            "menu_name": "감자탕 백반",
+            "price": "9,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240312_216%2F17102165511479SpIA_PNG%2FIMG_5796.png",
+            "menu_name": "감자탕(소)-2인",
+            "price": "21,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240312_259%2F1710216570880b4Tjt_PNG%2FIMG_5797.png",
+            "menu_name": "감자탕(중)-3인",
+            "price": "28,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240312_60%2F1710216587369fUbab_PNG%2FIMG_5798.png",
+            "menu_name": "감자탕(대)-4인",
+            "price": "35,000원"
+        }
+    ]
+}

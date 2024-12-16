@@ -1,0 +1,50 @@
+{
+    "store_name": "수부키",
+    "store_location": "대구 중구 동덕로30길 119-8 1층",
+    "loc_x": "345393.070635104",
+    "loc_y": "264113.469591582",
+    "menu": [
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241214_113%2F1734173373211pObUn_JPEG%2F%25BC%25F6%25BA%25CE%25C5%25B0%25C7%25D1%25BB%25F3.jpg",
+            "menu_name": "수부키한상",
+            "price": "37,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241203_146%2F1733205754153trghk_JPEG%2FKakaoTalk_20241203_150137412.jpg",
+            "menu_name": "연어한상",
+            "price": "39,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241214_111%2F1734173559350BIiWk_JPEG%2F%25C0%25B0%25C8%25B8%25C7%25D1%25BB%25F3.jpg",
+            "menu_name": "육회한상",
+            "price": "35,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241203_184%2F17332055874001k1Dy_JPEG%2FKakaoTalk_20241203_142634780_06.jpg",
+            "menu_name": "레몬크림새우",
+            "price": "24,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241203_56%2F1733205796773CBwfQ_JPEG%2FKakaoTalk_20241203_142634780_04.jpg",
+            "menu_name": "유린돼지",
+            "price": "23,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241203_255%2F1733205846228uiU4P_JPEG%2FKakaoTalk_20241203_142634780_10.jpg",
+            "menu_name": "차돌스지나베",
+            "price": "23,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241203_161%2F17332059928781v1rF_JPEG%2FKakaoTalk_20241203_150552573.jpg",
+            "menu_name": "차돌파스타",
+            "price": "14,000원"
+        }
+    ]
+}

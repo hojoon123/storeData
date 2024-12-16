@@ -1,0 +1,56 @@
+{
+    "store_name": "조박이네감자탕순대국",
+    "store_location": "경기 광주시 청석로 250 1층",
+    "loc_x": "223459.510568722",
+    "loc_y": "434154.73770279",
+    "menu": [
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241122_280%2F17322542926523shIJ_JPEG%2F1732199464565.jpg",
+            "menu_name": "우거지감자탕(소)",
+            "price": "29,000원"
+        },
+        {
+            "category": "",
+            "img_src": "",
+            "menu_name": "우거지감자탕(중)",
+            "price": "35,000원"
+        },
+        {
+            "category": "",
+            "img_src": "",
+            "menu_name": "우거지감자탕(대)",
+            "price": "41,000원"
+        },
+        {
+            "category": "",
+            "img_src": "",
+            "menu_name": "뼈해장국",
+            "price": "10,000원"
+        },
+        {
+            "category": "",
+            "img_src": "",
+            "menu_name": "순대국",
+            "price": "10,000원"
+        },
+        {
+            "category": "",
+            "img_src": "",
+            "menu_name": "순대국(특)",
+            "price": "12,000원"
+        },
+        {
+            "category": "",
+            "img_src": "",
+            "menu_name": "우거지해장국",
+            "price": "8,000원"
+        },
+        {
+            "category": "",
+            "img_src": "",
+            "menu_name": "돈까스",
+            "price": "11,000원"
+        }
+    ]
+}

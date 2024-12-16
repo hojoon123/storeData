@@ -1,0 +1,296 @@
+{
+    "store_name": "333파스타 강서점",
+    "store_location": "충북 청주시 흥덕구 2순환로 1222 1층 119호",
+    "loc_x": "238290.74248395",
+    "loc_y": "347371.654648373",
+    "menu": [
+        {
+            "category": "대표메뉴",
+            "img_src": "",
+            "menu_name": "[3인 세트] 333세트(세트)",
+            "price": "33,300원"
+        },
+        {
+            "category": "대표메뉴",
+            "img_src": "",
+            "menu_name": "나혼자 파스타+에이드세트(가격)",
+            "price": "14,000원"
+        },
+        {
+            "category": "세트메뉴",
+            "img_src": "",
+            "menu_name": "[3인 세트] 333세트(세트)",
+            "price": "33,300원"
+        },
+        {
+            "category": "세트메뉴",
+            "img_src": "",
+            "menu_name": "나혼자 파스타+에이드세트(가격)",
+            "price": "14,000원"
+        },
+        {
+            "category": "세트메뉴",
+            "img_src": "",
+            "menu_name": "내 맘대로파스타",
+            "price": "16,400원"
+        },
+        {
+            "category": "A 파스타",
+            "img_src": "",
+            "menu_name": "감바스(1인분)",
+            "price": "11,500원"
+        },
+        {
+            "category": "A 파스타",
+            "img_src": "",
+            "menu_name": "감자튀김&어니언링",
+            "price": "11,500원"
+        },
+        {
+            "category": "A 파스타",
+            "img_src": "",
+            "menu_name": "리코타치즈샐러드",
+            "price": "11,500원"
+        },
+        {
+            "category": "A 파스타",
+            "img_src": "",
+            "menu_name": "[볶음밥] 333 필라프(1인분)",
+            "price": "11,500원"
+        },
+        {
+            "category": "A 파스타",
+            "img_src": "",
+            "menu_name": "알리오 올리오(1인분)",
+            "price": "11,500원"
+        },
+        {
+            "category": "B 파스타",
+            "img_src": "",
+            "menu_name": "토마토 라구 파스타(1인분)",
+            "price": "13,500원"
+        },
+        {
+            "category": "B 파스타",
+            "img_src": "",
+            "menu_name": "까르보나라",
+            "price": "13,500원"
+        },
+        {
+            "category": "B 파스타",
+            "img_src": "",
+            "menu_name": "바질페스토파스타(1인분)",
+            "price": "13,500원"
+        },
+        {
+            "category": "B 파스타",
+            "img_src": "",
+            "menu_name": "새우 로제 파스타(1인분)",
+            "price": "13,500원"
+        },
+        {
+            "category": "B 파스타",
+            "img_src": "",
+            "menu_name": "플레인 리조또 & 구운 가리비",
+            "price": "13,500원"
+        },
+        {
+            "category": "C 파스타",
+            "img_src": "",
+            "menu_name": "리가토니 잠봉 파스타(1인분)",
+            "price": "15,500원"
+        },
+        {
+            "category": "C 파스타",
+            "img_src": "",
+            "menu_name": "시그니처 레드 파스타(1인분)",
+            "price": "15,500원"
+        },
+        {
+            "category": "C 파스타",
+            "img_src": "",
+            "menu_name": "크림 빠네 파스타(1인분)",
+            "price": "15,500원"
+        },
+        {
+            "category": "C 파스타",
+            "img_src": "",
+            "menu_name": "새우 꽈리고추페스토 파스타(1인분)",
+            "price": "15,500원"
+        },
+        {
+            "category": "C 파스타",
+            "img_src": "",
+            "menu_name": "훈제 연어크림 파스타(1인분)",
+            "price": "15,500원"
+        },
+        {
+            "category": "스테이크",
+            "img_src": "",
+            "menu_name": "333 스테이크(220g)",
+            "price": "30,500원"
+        },
+        {
+            "category": "사이드메뉴",
+            "img_src": "",
+            "menu_name": "감자튀김",
+            "price": "4,000원"
+        },
+        {
+            "category": "사이드메뉴",
+            "img_src": "",
+            "menu_name": "어니언링",
+            "price": "6,000원"
+        },
+        {
+            "category": "사이드메뉴",
+            "img_src": "",
+            "menu_name": "리코타치즈샐러드",
+            "price": "11,500원"
+        },
+        {
+            "category": "사이드메뉴",
+            "img_src": "",
+            "menu_name": "콜라 뚱캔 355ml",
+            "price": "2,500원"
+        },
+        {
+            "category": "333카페",
+            "img_src": "",
+            "menu_name": "아메리카노",
+            "price": "2,500원"
+        },
+        {
+            "category": "333카페",
+            "img_src": "",
+            "menu_name": "꿀 아메리카노",
+            "price": "3,500원"
+        },
+        {
+            "category": "333카페",
+            "img_src": "",
+            "menu_name": "민트 아메리카노",
+            "price": "3,500원"
+        },
+        {
+            "category": "333카페",
+            "img_src": "",
+            "menu_name": "333커피(ONLY ICE)",
+            "price": "3,500원"
+        },
+        {
+            "category": "333카페",
+            "img_src": "",
+            "menu_name": "카페라떼",
+            "price": "4,000원"
+        },
+        {
+            "category": "333카페",
+            "img_src": "",
+            "menu_name": "바닐라라떼(0)",
+            "price": "4,500원"
+        },
+        {
+            "category": "333카페",
+            "img_src": "",
+            "menu_name": "달고나라떼(ONLY ICE)",
+            "price": "4,000원"
+        },
+        {
+            "category": "333카페",
+            "img_src": "",
+            "menu_name": "카페모카",
+            "price": "4,500원"
+        },
+        {
+            "category": "333카페",
+            "img_src": "",
+            "menu_name": "레몬에이드(ONLY ICE)",
+            "price": "3,500원"
+        },
+        {
+            "category": "333카페",
+            "img_src": "",
+            "menu_name": "자몽에이드(ONLY ICE)",
+            "price": "4,000원"
+        },
+        {
+            "category": "333카페",
+            "img_src": "",
+            "menu_name": "패션후르츠에이드(ONLY ICE)",
+            "price": "4,000원"
+        },
+        {
+            "category": "333카페",
+            "img_src": "",
+            "menu_name": "레몬콕(ONLY ICE)",
+            "price": "4,500원"
+        },
+        {
+            "category": "333카페",
+            "img_src": "",
+            "menu_name": "녹차라떼",
+            "price": "4,000원"
+        },
+        {
+            "category": "333카페",
+            "img_src": "",
+            "menu_name": "초코라떼",
+            "price": "4,000원"
+        },
+        {
+            "category": "333카페",
+            "img_src": "",
+            "menu_name": "딸기라떼(ONLY ICE)",
+            "price": "5,000원"
+        },
+        {
+            "category": "333카페",
+            "img_src": "",
+            "menu_name": "미숫가루(ONLY ICE)",
+            "price": "4,000원"
+        },
+        {
+            "category": "333카페",
+            "img_src": "",
+            "menu_name": "밀크티",
+            "price": "4,000원"
+        },
+        {
+            "category": "333카페",
+            "img_src": "",
+            "menu_name": "아이스티(ONLY ICE)",
+            "price": "2,500원"
+        },
+        {
+            "category": "333카페",
+            "img_src": "",
+            "menu_name": "자몽차",
+            "price": "3,500원"
+        },
+        {
+            "category": "333카페",
+            "img_src": "",
+            "menu_name": "매실차",
+            "price": "3,000원"
+        },
+        {
+            "category": "333카페",
+            "img_src": "",
+            "menu_name": "카모마일",
+            "price": "3,000원"
+        },
+        {
+            "category": "333카페",
+            "img_src": "",
+            "menu_name": "페퍼민트",
+            "price": "3,000원"
+        },
+        {
+            "category": "333카페",
+            "img_src": "",
+            "menu_name": "루이보스",
+            "price": "3,000원"
+        }
+    ]
+}

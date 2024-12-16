@@ -1,0 +1,14 @@
+{
+    "store_name": "Pokeallday 모란역점",
+    "store_location": "경기 성남시 중원구 성남대로 1152 2층",
+    "loc_x": "211381.009680771",
+    "loc_y": "436727.240200546",
+    "menu": [
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241205_220%2F17333724906199YYSa_PNG%2FKakaoTalk_20241203_163240388.png",
+            "menu_name": "곡물밥",
+            "price": "10,900원"
+        }
+    ]
+}

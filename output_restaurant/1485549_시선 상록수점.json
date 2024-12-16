@@ -1,0 +1,68 @@
+{
+    "store_name": "시선 상록수점",
+    "store_location": "경기 안산시 상록구 샘골로 135 105, 106호",
+    "loc_x": "187762.455236431",
+    "loc_y": "421550.680913421",
+    "menu": [
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241211_92%2F1733900879010buRgV_JPEG%2F9._%25B4%25AB%25B2%25C9%25BB%25EC%25C0%25CF%25C7%25B0%25B1%25B8%25C0%25CC_21900.jpg",
+            "menu_name": "눈꽃살일품구이",
+            "price": "21,900원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241211_180%2F1733900728759IBKrM_JPEG%2F%25BD%25C3%25BC%25B1_%25B8%25F0%25B5%25EB%25BB%25E7%25BD%25C3%25B9%25CC_36900.jpg",
+            "menu_name": "시선 모듬사시미",
+            "price": "36,900원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241211_189%2F1733900686665CBbFq_JPEG%2F1._%25BC%25D2%25B0%25ED%25B1%25E2%25BD%25BA%25B3%25A2%25BE%25DF%25B3%25A2%2528%25BC%25D2%25C0%25AF%2529_19900.jpg",
+            "menu_name": "소고기스끼야끼(소유)",
+            "price": "19,900원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241211_197%2F173390089552769Dt2_JPEG%2F%25C7%25D1%25BF%25EC%25C0%25B0%25BB%25E7%25BD%25C3%25B9%25CC_21900.jpg",
+            "menu_name": "한우육사시미",
+            "price": "21,900원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241211_92%2F1733900863845x15gb_JPEG%2F7._%25C4%25A1%25C1%25EE%25B5%25B7%25B0%25A1%25BD%25BA%25C4%25BF%25B8%25AE_13900.jpg",
+            "menu_name": "치즈돈가스&커리",
+            "price": "13,900원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241211_95%2F1733900796226NG5y4_JPEG%2F6._%25C0%25AF%25BA%25CE%25B1%25E8%25C4%25A1%25BF%25EC%25B5%25BF_9900.jpg",
+            "menu_name": "유부김치우동",
+            "price": "9,900원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241211_5%2F1733900781305unVqr_JPEG%2F5._%25B8%25DE%25B7%25CE%25B1%25B8%25C0%25CC_24900.jpg",
+            "menu_name": "메로구이",
+            "price": "24,900원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241211_116%2F17339007681270Kfpv_JPEG%2F4._%25C7%25D7%25C1%25A4%25BC%25F6%25C0%25B0%25BD%25BA%25C1%25F6%25C0%25FC%25B0%25F1_24900.jpg",
+            "menu_name": "항정수육스지전골",
+            "price": "24,900원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241211_190%2F17339007554768Xg0E_JPEG%2F3._%25C5%25A9%25B8%25B2%25C4%25A1%25C1%25EE%25BF%25AC%25BE%25EE%25BB%25E7%25BD%25C3%25B9%25CC_18900.jpg",
+            "menu_name": "크림치즈연어사시미",
+            "price": "18,900원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241211_86%2F1733900713855jBeVf_JPEG%2F2._%25BD%25C3%25BC%25B1%25B8%25F0%25B5%25EB%25B2%25BF%25C4%25A1_8%25C1%25BE_18900.jpg",
+            "menu_name": "시선모듬꼬치 8종",
+            "price": "18,900원"
+        }
+    ]
+}

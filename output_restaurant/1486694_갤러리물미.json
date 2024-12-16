@@ -1,0 +1,14 @@
+{
+    "store_name": "갤러리물미",
+    "store_location": "인천 중구 모랫말로16번길 13-41 101호",
+    "loc_x": "155076.866546045",
+    "loc_y": "443137.334809434",
+    "menu": [
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20230208_228%2F1675850769268BBMae_JPEG%2FResized_B612_20221206_161652_400.jpeg",
+            "menu_name": "떡복이",
+            "price": "8,000원"
+        }
+    ]
+}

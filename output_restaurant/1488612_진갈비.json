@@ -1,0 +1,98 @@
+{
+    "store_name": "진갈비",
+    "store_location": "제주 제주시 정든로2길 14 1층",
+    "loc_x": "157046.478578062",
+    "loc_y": "220.448436767004",
+    "menu": [
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240604_198%2F1717487330241Jn6JN_PNG%2F20240604_164220.png",
+            "menu_name": "김치찌개",
+            "price": "8,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240604_193%2F1717487320933pQSwW_PNG%2F20240604_164220.png",
+            "menu_name": "얼큰순두부",
+            "price": "8,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240604_231%2F1717487293784Ok8cJ_PNG%2F20240604_164220.png",
+            "menu_name": "흑돼지 두루치기",
+            "price": "9,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240222_145%2F1708587375751phTd6_JPEG%2FKakaoTalk_20240222_162241723_01.jpg",
+            "menu_name": "생갈비(220g)",
+            "price": "19,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240222_207%2F1708587282090DH9dD_JPEG%2FKakaoTalk_20240222_162221119.jpg",
+            "menu_name": "양념갈비(350g)",
+            "price": "16,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240222_56%2F1708587365335BsHbv_JPEG%2FKakaoTalk_20240222_162241723.jpg",
+            "menu_name": "오겹살(200g)",
+            "price": "18,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240319_163%2F1710839552245U4thY_JPEG%2FKakaoTalk_20240319_180826364.jpg",
+            "menu_name": "닭갈비 소금구이(300g)",
+            "price": "14,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240319_198%2F1710839564633RBV3m_JPEG%2FKakaoTalk_20240319_180826364.jpg",
+            "menu_name": "닭갈비 양념구이(300g)",
+            "price": "15,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240319_154%2F1710839616344Ts5K5_JPEG%2FKakaoTalk_20240319_180826364_01.jpg",
+            "menu_name": "LA갈비(220g)☆한정판매☆",
+            "price": "22,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240319_105%2F1710835381455UIX7N_JPEG%2FKakaoTalk_20240319_165920003.jpg",
+            "menu_name": "된장찌개",
+            "price": "5,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240319_12%2F1710835487188ivMTh_JPEG%2FKakaoTalk_20240319_165920003.jpg",
+            "menu_name": "김치찌개",
+            "price": "5,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240319_92%2F1710835396965j7RLE_JPEG%2FKakaoTalk_20240319_165920003.jpg",
+            "menu_name": "냉면",
+            "price": "7,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240319_150%2F17108354397759MvK3_JPEG%2FKakaoTalk_20240319_165920003.jpg",
+            "menu_name": "냉면후식",
+            "price": "5,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240319_257%2F1710836212169VdgTz_JPEG%2FKakaoTalk_20240319_165920003.jpg",
+            "menu_name": "순두부라면",
+            "price": "4,500원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240319_98%2F1710836221713zAXfY_JPEG%2FKakaoTalk_20240319_165920003.jpg",
+            "menu_name": "공기밥",
+            "price": "1,000원"
+        }
+    ]
+}

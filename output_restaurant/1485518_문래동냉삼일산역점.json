@@ -1,0 +1,62 @@
+{
+    "store_name": "문래동냉삼일산역점",
+    "store_location": "경기 고양시 일산서구 고양대로 666",
+    "loc_x": "",
+    "loc_y": "",
+    "menu": [
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241211_120%2F1733882823955geFOS_JPEG%2FIMG_9862.jpeg",
+            "menu_name": "특 냉동 한판",
+            "price": "49,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241211_131%2F1733882881476tWTtk_JPEG%2FIMG_9858.jpeg",
+            "menu_name": "국내산 급냉 삼겹살",
+            "price": "12,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241211_6%2F1733883209294tnACC_JPEG%2FIMG_0449.jpeg",
+            "menu_name": "국내산 급냉 꽃냉삼",
+            "price": "9,900원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241211_189%2F1733882910015nduAT_JPEG%2FIMG_9859.jpeg",
+            "menu_name": "국내산 급냉 꽃목살",
+            "price": "12,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241211_23%2F1733882997092aTHQ0_JPEG%2FIMG_9863.jpeg",
+            "menu_name": "쫄깃 항정살",
+            "price": "15,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241211_226%2F1733882970974KoOUf_JPEG%2FIMG_9864.jpeg",
+            "menu_name": "꼬숩 우삼겹",
+            "price": "13,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241211_166%2F1733883082605TQJEx_JPEG%2FIMG_9877.jpeg",
+            "menu_name": "대파라면",
+            "price": "5,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241211_150%2F1733883060285S0YNv_PNG%2FIMG_9878.png",
+            "menu_name": "연탄볶음밥(2인분)",
+            "price": "5,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241211_72%2F17338830274130Bviv_JPEG%2FIMG_9875.jpeg",
+            "menu_name": "벌집 껍데기",
+            "price": "8,000원"
+        }
+    ]
+}

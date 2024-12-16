@@ -1,0 +1,98 @@
+{
+    "store_name": "스텔라떡볶이 부산부곡장전점",
+    "store_location": "부산 금정구 금강로 204 1층",
+    "loc_x": "389552.950674437",
+    "loc_y": "193897.21030652",
+    "menu": [
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20231222_126%2F1703224703156WzaRX_JPEG%2F231218_%25BF%25EC%25B5%25BF%25BC%25BC%25C6%25AE.jpg",
+            "menu_name": "우동세트",
+            "price": "16,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20231222_126%2F1703224682148QjJb2_PNG%2F%25BA%25B0%25B9%25CC%25BC%25BC%25C6%25AE3.png",
+            "menu_name": "떡볶이세트 C",
+            "price": "25,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20231222_274%2F1703224669602eABVs_PNG%2F%25BA%25B0%25B9%25CC%25BC%25BC%25C6%25AE2.png",
+            "menu_name": "떡볶이세트 B",
+            "price": "16,200원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20231222_27%2F1703224657633mjDvw_PNG%2F%25BA%25B0%25B9%25CC%25BC%25BC%25C6%25AE1.png",
+            "menu_name": "떡볶이세트 A",
+            "price": "11,800원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20231222_123%2F1703224643444wJiMJ_PNG%2F%25C6%25A2%25B1%25E8_6%25C1%25BE.png",
+            "menu_name": "인기튀김 6종",
+            "price": "5,500원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20231222_39%2F1703224632217GK9Ou_PNG%2F%25C0%25CE%25B1%25E2_%25C6%25A2%25B1%25E8_3%25C1%25BE.png",
+            "menu_name": "인기튀김 3종",
+            "price": "3,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20231222_231%2F17032245968689WjEw_JPEG%2F%25BE%25EE%25B9%25AC%25BF%25EC%25B5%25BF.jpg",
+            "menu_name": "어묵우동",
+            "price": "6,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20231222_127%2F1703224584918IU3Lu_PNG%2F%25BE%25E7%25B3%25E4%25BC%25F8%25B4%25EB.png",
+            "menu_name": "양념순대",
+            "price": "5,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20231222_2%2F1703224564715YPTmW_PNG%2F%25BE%25E7%25B3%25E4%25B8%25B8%25B5%25CE.png",
+            "menu_name": "양념만두",
+            "price": "4,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20231222_9%2F1703224551841KKKWn_JPEG%2F%25BB%25FD%25C5%25A9%25B8%25B2%25BB%25A7.jpg",
+            "menu_name": "생크림빵",
+            "price": "990원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20231222_52%2F1703224538553HsEyD_PNG%2F230102-%25BD%25A7%25BD%25A7%25B0%25A8%25C0%25DA-%25BE%25EE%25B4%25CF%25BE%25F0.png",
+            "menu_name": "쉑쉑감자 어니언맛",
+            "price": "3,500원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20231222_36%2F1703224525936lRBPI_PNG%2F230102-%25BD%25A7%25BD%25A7%25B0%25A8%25C0%25DA-%25C4%25AB%25B7%25B9.png",
+            "menu_name": "쉑쉑감자 카레맛",
+            "price": "3,500원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20231222_202%2F1703224513968tLMGL_PNG%2F230102-%25BD%25A7%25BD%25A7%25B0%25A8%25C0%25DA-%25C4%25A1%25C1%25EE.png",
+            "menu_name": "쉑쉑감자 치즈맛",
+            "price": "3,500원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20231222_292%2F1703224502426za7Tm_PNG%2F230102-%25BD%25A7%25BD%25A7%25B0%25A8%25C0%25DA-%25C7%25D2%25B6%25F3%25C7%25C7%25B4%25A2.png",
+            "menu_name": "쉑쉑감자 할라피뇨맛",
+            "price": "3,500원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20231222_20%2F1703224486941UpCNu_JPEG%2F%25B1%25E2%25BA%25BB%25C4%25C5%25B9%25E4.jpg",
+            "menu_name": "기본컵밥",
+            "price": "3,000원"
+        }
+    ]
+}

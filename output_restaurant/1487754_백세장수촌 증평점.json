@@ -1,0 +1,62 @@
+{
+    "store_name": "백세장수촌 증평점",
+    "store_location": "충북 증평군 증평읍 송산로5길 37 1층 102호",
+    "loc_x": "252106.12590408",
+    "loc_y": "366017.067263142",
+    "menu": [
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20231205_164%2F1701771271708nHJeW_JPEG%2FIMG_7347.jpeg",
+            "menu_name": "능이만두",
+            "price": "6,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20231205_17%2F1701771150210gaJVT_JPEG%2FIMG_7348.jpeg",
+            "menu_name": "갈비만두",
+            "price": "6,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20231205_62%2F1701771093050nmwdv_JPEG%2FIMG_7525.jpeg",
+            "menu_name": "찹쌀누룽지 오리백숙세트",
+            "price": "69,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20231205_5%2F17017710158605VCpO_JPEG%2FIMG_7522.jpeg",
+            "menu_name": "찹쌀누룽지 닭세트",
+            "price": "59,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20231205_276%2F1701770938117rCakS_JPEG%2FIMG_7523.jpeg",
+            "menu_name": "찹쌀누룽지 삼계탕세트",
+            "price": "27,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20231205_135%2F1701770795940BmmOi_JPEG%2FIMG_7303.jpeg",
+            "menu_name": "메밀쟁반국수(大)",
+            "price": "18,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20231205_202%2F1701770407551ueiQg_JPEG%2FIMG_7344.jpeg",
+            "menu_name": "찹쌀누룽지 오리백숙",
+            "price": "56,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20231205_70%2F17017703533567Qd3d_JPEG%2FIMG_7304.jpeg",
+            "menu_name": "찹쌀누룽지 닭백숙",
+            "price": "46,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20231205_176%2F1701770194157gIqKc_PNG%2FIMG_7300.png",
+            "menu_name": "찹쌀누룽지 삼계탕(1인)",
+            "price": "변동"
+        }
+    ]
+}

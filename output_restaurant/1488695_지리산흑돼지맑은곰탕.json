@@ -1,0 +1,44 @@
+{
+    "store_name": "지리산흑돼지맑은곰탕",
+    "store_location": "경기 고양시 일산동구 장백로 13 1층 122호",
+    "loc_x": "181390.508325766",
+    "loc_y": "459748.488484544",
+    "menu": [
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20231013_255%2F16971789712302Dfhf_JPEG%2FKakaoTalk_20231013_152833347.jpg",
+            "menu_name": "맑은곰탕",
+            "price": "10,000원"
+        },
+        {
+            "category": "",
+            "img_src": "",
+            "menu_name": "맑은곰탕 특",
+            "price": "12,000원"
+        },
+        {
+            "category": "",
+            "img_src": "",
+            "menu_name": "당면곰탕",
+            "price": "11,000원"
+        },
+        {
+            "category": "",
+            "img_src": "",
+            "menu_name": "고기국수",
+            "price": "9,000원"
+        },
+        {
+            "category": "",
+            "img_src": "",
+            "menu_name": "흑돼지사태수육",
+            "price": "22,000원"
+        },
+        {
+            "category": "",
+            "img_src": "",
+            "menu_name": "아롱사태수육",
+            "price": "38,000원"
+        }
+    ]
+}

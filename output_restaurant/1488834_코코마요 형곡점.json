@@ -1,0 +1,14 @@
+{
+    "store_name": "코코마요 형곡점",
+    "store_location": "경북 구미시 경은로 96 1층",
+    "loc_x": "320340.836557289",
+    "loc_y": "291258.206470311",
+    "menu": [
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240123_155%2F1705990079921z1oAv_JPEG%2F1705990071522.jpg",
+            "menu_name": "쉬림프바질패스토파스타",
+            "price": "15,000원"
+        }
+    ]
+}

@@ -1,0 +1,122 @@
+{
+    "store_name": "스텔라떡볶이 인천주안아인병원점",
+    "store_location": "인천 미추홀구 경인로 372 201동 1층 1033호",
+    "loc_x": "",
+    "loc_y": "",
+    "menu": [
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241210_158%2F1733792201067qPR4C_PNG%2F%25BD%25BA%25C5%25DA%25B6%25F3_%25B6%25B1%25BA%25BA%25C0%25CC.png",
+            "menu_name": "스텔라떡볶이",
+            "price": "7,500원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241213_204%2F1734053030045oC43v_PNG%2F%25B9%25E8%25B9%25CE_1280x960_%25C2%25F7%25B5%25B9%25B8%25B6%25B6%25F3_%25B6%25B1%25BA%25BA%25C0%25CC_%25B9%25E8%25B0%25E6o_%25BC%25F6%25C1%25A43.png",
+            "menu_name": "차돌마라 떡볶이",
+            "price": "14,900원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241213_268%2F1734053011945f3TwS_PNG%2F%25B9%25E8%25B9%25CE_1280x960_%25C4%25A1%25C1%25EE%25B0%25A1%25C6%25F8%25C6%25F7%25C3%25B3%25B7%25B3_%25B6%25B1%25BA%25BA%25C0%25CC_%25B9%25E8%25B0%25E6o_%25BC%25D5%25C0%25E2%25C0%25CC%25C1%25A6%25B0%25C5_%25281%2529.png",
+            "menu_name": "치즈가폭포처럼",
+            "price": "12,900원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241213_176%2F1734052993637ylhWR_PNG%2F%25B9%25E8%25B9%25CE_1280x960_%25B8%25B6%25B6%25F3%25B7%25CE%25C1%25A6_%25B6%25B1%25BA%25BA%25C0%25CC_%25B9%25E8%25B0%25E6o.png",
+            "menu_name": "마라로제 떡볶이",
+            "price": "10,500원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241213_73%2F1734052971363HKuOm_PNG%2F%25B9%25E8%25B9%25CE_1280x960_%25B1%25EE%25B8%25A3%25BA%25B8%25B3%25AA%25B6%25F3_%25B6%25B1%25BA%25BA%25C0%25CC_%25B9%25E8%25B0%25E6o_%25BC%25D5%25C0%25E2%25C0%25CC%25C1%25A6%25B0%25C5.png",
+            "menu_name": "까르보나라 떡볶이",
+            "price": "10,500원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241213_287%2F1734052951465s7cGY_PNG%2F%25B9%25E8%25B9%25CE_1280x960_%25C2%25F7%25B5%25B9_%25B6%25B1%25BA%25BA%25C0%25CC_%25B9%25E8%25B0%25E6o_%25C3%25E0%25BC%25D22.png",
+            "menu_name": "차돌 떡볶이",
+            "price": "10,500원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241213_214%2F1734052922676VDlkK_PNG%2F%25B9%25E8%25B9%25CE_1280x960_%25C4%25A1%25C1%25EE_%25B6%25B1%25BA%25BA%25C0%25CC_%25B9%25E8%25B0%25E6o_%25BC%25D5%25C0%25E2%25C0%25CC%25C1%25A6%25B0%25C5.png",
+            "menu_name": "치즈 떡볶이",
+            "price": "10,500원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241213_156%2F1734052901507X7lGy_PNG%2F%25B9%25E8%25B9%25CE_1280x960_%25B7%25CE%25C1%25A6_%25B6%25B1%25BA%25BA%25C0%25CC_%25B9%25E8%25B0%25E6o_%25B8%25AE%25B4%25BA%25BE%25F32.png",
+            "menu_name": "로제 떡볶이",
+            "price": "10,500원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241213_218%2F1734052872521p8ymW_PNG%2F%25B9%25E8%25B9%25CE_1280x960_%25BC%25BC%25C6%25AE%25B8%25DE%25B4%25BA_%25B4%25DF%25B0%25AD%25C1%25A4_%25B6%25F3%25BA%25BA%25C0%25CC_%25BC%25BC%25C6%25AE_%25B9%25E8%25B0%25E6o.png",
+            "menu_name": "닭강정+라볶이 세트",
+            "price": "17,100원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241213_217%2F1734052858394NjHPU_PNG%2F%25B9%25E8%25B9%25CE_1280x960_%25BC%25BC%25C6%25AE%25B8%25DE%25B4%25BA_%25B4%25DF%25B0%25AD%25C1%25A4_%25B6%25B1%25BA%25BA%25C0%25CC_%25BC%25BC%25C6%25AE_%25B9%25E8%25B0%25E6o.png",
+            "menu_name": "닭강정+떡볶이 세트",
+            "price": "16,100원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241213_146%2F1734052840183AkDG9_PNG%2F%25B9%25E8%25B9%25CE_1280x960_%25BC%25BC%25C6%25AE%25B8%25DE%25B4%25BA_%25C4%25A1%25C1%25EE%25C6%25F8%25C6%25F7_%25BE%25E7%25B3%25E4%25BC%25F8%25B4%25EB_%25BC%25BC%25C6%25AE_%25B9%25E8%25B0%25E6o.png",
+            "menu_name": "치즈가폭포러럼+양념순대 세트",
+            "price": "19,900원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241213_69%2F173405282433758K4w_PNG%2F%25B9%25E8%25B9%25CE_1280x960_%25BC%25BC%25C6%25AE%25B8%25DE%25B4%25BA_%25C4%25A1%25C1%25EE%25C6%25F8%25C6%25F7_%25B4%25DF%25B0%25AD%25C1%25A4_%25BC%25BC%25C6%25AE_%25B9%25E8%25B0%25E6o.png",
+            "menu_name": "치즈가폭포처럼+닭강정 세트",
+            "price": "21,300원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241213_171%2F1734052804302o6JaS_PNG%2F%25B9%25E8%25B9%25CE_1280x960_%25BC%25BC%25C6%25AE%25B8%25DE%25B4%25BA_%25B6%25B1%25B4%25DF%25BC%25F8%25BC%25BC%25C6%25AE_%25B9%25E8%25B0%25E6o.png",
+            "menu_name": "떡닭순 세트",
+            "price": "20,600원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241213_295%2F1734052781256vOD8v_PNG%2F%25B6%25F3%25BA%25BA%25C0%25CC_Set_C.png",
+            "menu_name": "라볶이 세트C",
+            "price": "26,600원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241213_163%2F17340527714299qh1Q_PNG%2F%25B6%25F3%25BA%25BA%25C0%25CC_Set_B.png",
+            "menu_name": "라볶이 세트B",
+            "price": "17,800원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241213_290%2F1734052759218kNXqm_PNG%2F%25B6%25F3%25BA%25BA%25C0%25CC_Set_A.png",
+            "menu_name": "라볶이 세트A",
+            "price": "13,400원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241213_229%2F1734052748769EjioK_PNG%2F%25BA%25B0%25B9%25CC_Set_C.png",
+            "menu_name": "떡볶이 세트C",
+            "price": "25,600원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241213_157%2F1734052736989HjR8U_PNG%2F%25BA%25B0%25B9%25CC_Set_B.png",
+            "menu_name": "떡볶이 세트B",
+            "price": "16,800원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241213_251%2F1734052721429KB4kS_PNG%2F%25BA%25B0%25B9%25CC_Set_A.png",
+            "menu_name": "떡볶이 세트A",
+            "price": "12,400원"
+        }
+    ]
+}

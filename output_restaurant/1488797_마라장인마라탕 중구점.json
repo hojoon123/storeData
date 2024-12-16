@@ -1,0 +1,182 @@
+{
+    "store_name": "마라장인마라탕 중구점",
+    "store_location": "울산 중구 화합로 498 1층 마라장인마라탕 중구점",
+    "loc_x": "411407.626490676",
+    "loc_y": "232332.136331428",
+    "menu": [
+        {
+            "category": "대표메뉴",
+            "img_src": "",
+            "menu_name": "(배달비무료근거리)셀프마라탕 강추(1인분)",
+            "price": "11,900원"
+        },
+        {
+            "category": "대표메뉴",
+            "img_src": "",
+            "menu_name": "(배달비무료근거리)셀프마라탕 강추(2~3인분)",
+            "price": "20,000원"
+        },
+        {
+            "category": "대표메뉴",
+            "img_src": "",
+            "menu_name": "(배달비무료근거리)셀프마라탕 강추(3~4인분)",
+            "price": "25,000원"
+        },
+        {
+            "category": "대표메뉴",
+            "img_src": "",
+            "menu_name": "마라샹궈(불맛술안주밥반찬)(소)",
+            "price": "20,000원"
+        },
+        {
+            "category": "대표메뉴",
+            "img_src": "",
+            "menu_name": "마라샹궈(불맛술안주밥반찬)(중)",
+            "price": "25,000원"
+        },
+        {
+            "category": "대표메뉴",
+            "img_src": "",
+            "menu_name": "마라샹궈(불맛술안주밥반찬)(대)",
+            "price": "30,000원"
+        },
+        {
+            "category": "대표메뉴",
+            "img_src": "",
+            "menu_name": "꿔바로우(후회없는맛)(소)",
+            "price": "11,000원"
+        },
+        {
+            "category": "대표메뉴",
+            "img_src": "",
+            "menu_name": "꿔바로우(후회없는맛)(대)",
+            "price": "17,000원"
+        },
+        {
+            "category": "대표메뉴",
+            "img_src": "",
+            "menu_name": "계란햄볶음밥",
+            "price": "6,000원"
+        },
+        {
+            "category": "인기메뉴",
+            "img_src": "",
+            "menu_name": "(배달비무료근거리)셀프마라탕 강추(1인분)",
+            "price": "11,900원"
+        },
+        {
+            "category": "인기메뉴",
+            "img_src": "",
+            "menu_name": "(배달비무료근거리)셀프마라탕 강추(2~3인분)",
+            "price": "20,000원"
+        },
+        {
+            "category": "인기메뉴",
+            "img_src": "",
+            "menu_name": "(배달비무료근거리)셀프마라탕 강추(3~4인분)",
+            "price": "25,000원"
+        },
+        {
+            "category": "인기메뉴",
+            "img_src": "",
+            "menu_name": "마라샹궈(불맛술안주밥반찬)(소)",
+            "price": "20,000원"
+        },
+        {
+            "category": "인기메뉴",
+            "img_src": "",
+            "menu_name": "마라샹궈(불맛술안주밥반찬)(중)",
+            "price": "25,000원"
+        },
+        {
+            "category": "인기메뉴",
+            "img_src": "",
+            "menu_name": "마라샹궈(불맛술안주밥반찬)(대)",
+            "price": "30,000원"
+        },
+        {
+            "category": "인기메뉴",
+            "img_src": "",
+            "menu_name": "꿔바로우(후회없는맛)(소)",
+            "price": "11,000원"
+        },
+        {
+            "category": "인기메뉴",
+            "img_src": "",
+            "menu_name": "꿔바로우(후회없는맛)(대)",
+            "price": "17,000원"
+        },
+        {
+            "category": "인기메뉴",
+            "img_src": "",
+            "menu_name": "미니전",
+            "price": "2,000원"
+        },
+        {
+            "category": "인기메뉴",
+            "img_src": "",
+            "menu_name": "유티오(2개)+연유",
+            "price": "2,000원"
+        },
+        {
+            "category": "인기메뉴",
+            "img_src": "",
+            "menu_name": "계란햄볶음밥",
+            "price": "6,000원"
+        },
+        {
+            "category": "튀김메뉴",
+            "img_src": "",
+            "menu_name": "유티오+연유(2개)",
+            "price": "2,000원"
+        },
+        {
+            "category": "튀김메뉴",
+            "img_src": "",
+            "menu_name": "왕새우 튀김(2개)",
+            "price": "2,000원"
+        },
+        {
+            "category": "튀김메뉴",
+            "img_src": "",
+            "menu_name": "멘보샤(4개)",
+            "price": "5,000원"
+        },
+        {
+            "category": "추가메뉴",
+            "img_src": "",
+            "menu_name": "공기밥",
+            "price": "1,000원"
+        },
+        {
+            "category": "음료메뉴",
+            "img_src": "",
+            "menu_name": "차파이 (복숭아 맛)",
+            "price": "3,000원"
+        },
+        {
+            "category": "음료메뉴",
+            "img_src": "",
+            "menu_name": "삥탕쉐리",
+            "price": "3,000원"
+        },
+        {
+            "category": "음료메뉴",
+            "img_src": "",
+            "menu_name": "삥홍차",
+            "price": "3,000원"
+        },
+        {
+            "category": "음료메뉴",
+            "img_src": "",
+            "menu_name": "사이다",
+            "price": "2,000원"
+        },
+        {
+            "category": "음료메뉴",
+            "img_src": "",
+            "menu_name": "환타",
+            "price": "2,000원"
+        }
+    ]
+}

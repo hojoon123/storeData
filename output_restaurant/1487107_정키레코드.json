@@ -1,0 +1,32 @@
+{
+    "store_name": "정키레코드",
+    "store_location": "경기 안양시 동안구 평촌대로 221 5층 506호",
+    "loc_x": "195971.446316577",
+    "loc_y": "432113.592460557",
+    "menu": [
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241128_283%2F1732725266540knntR_JPEG%2FIMG_6216.jpeg",
+            "menu_name": "위스키",
+            "price": "변동"
+        },
+        {
+            "category": "",
+            "img_src": "",
+            "menu_name": "칵테일",
+            "price": "변동"
+        },
+        {
+            "category": "",
+            "img_src": "",
+            "menu_name": "맥주",
+            "price": "변동"
+        },
+        {
+            "category": "",
+            "img_src": "",
+            "menu_name": "드립커피",
+            "price": "변동"
+        }
+    ]
+}

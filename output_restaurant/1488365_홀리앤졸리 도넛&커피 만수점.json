@@ -1,0 +1,932 @@
+{
+    "store_name": "홀리앤졸리 도넛&커피 만수점",
+    "store_location": "인천 남동구 백범로180번길 77 1층 109호 (만수동 일흥프라자)",
+    "loc_x": "176191.821606616",
+    "loc_y": "439899.568140118",
+    "menu": [
+        {
+            "category": "새로 나온 메뉴",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20240404_77/1712213841655zc7AH_JPEG/%BF%F5%C0%CC%B3%D7_%B8%C5%BF%EE%B8%C0.jpg?type=f220_220_60_sharpen",
+            "menu_name": "웅이네 매콤오돌샌드매운맛3단계N",
+            "price": "4,900원5,900원"
+        },
+        {
+            "category": "새로 나온 메뉴",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20240404_22/1712227998204XtgM6_JPEG/%B8%C5%C4%DE%C5%A9%B8%B2%C4%C5%C6%C4%BD%BA%C5%B8.jpg?type=f220_220_60_sharpen",
+            "menu_name": "매콤크림 컵파스타매운맛3단계N",
+            "price": "6,700원"
+        },
+        {
+            "category": "새로 나온 메뉴",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20240404_149/1712227705748ozm61_JPEG/%BA%BC%B7%CE%B3%D7%C1%A6%C4%C5%C6%C4%BD%BA%C5%B8.jpg?type=f220_220_60_sharpen",
+            "menu_name": "볼로네제 컵 파스타N",
+            "price": "6,700원"
+        },
+        {
+            "category": "새로 나온 메뉴",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20240601_42/1717235968844fPTmg_JPEG/%C6%BC%B6%F3%B9%CC%BC%F6%B5%B5%B3%D3%C5%A9%B8%B2.jpg?type=f220_220_60_sharpen",
+            "menu_name": "티라미수 도넛N",
+            "price": "4,200원"
+        },
+        {
+            "category": "새로 나온 메뉴",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20240601_6/1717236428554MaFFF_JPEG/%B9%D0%C5%A9%BD%A6%C0%CC%C5%A9%B5%B5%B3%D3%C5%A9%B8%B2.jpg?type=f220_220_60_sharpen",
+            "menu_name": "밀크쉐이크 크림 도넛N",
+            "price": "4,200원"
+        },
+        {
+            "category": "새로 나온 메뉴",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20240601_250/1717237115655stvc4_JPEG/%B0%A5%B9%DA%BB%E7.jpg?type=f220_220_60_sharpen",
+            "menu_name": "갈박사 포션N",
+            "price": "4,500원"
+        },
+        {
+            "category": "새로 나온 메뉴",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20240601_191/1717237289482j2YvE_JPEG/%BA%F1%C5%B8%B7%B9%B8%F3.jpg?type=f220_220_60_sharpen",
+            "menu_name": "비타레몬 포션N",
+            "price": "4,800원"
+        },
+        {
+            "category": "새로 나온 메뉴",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20240809_206/17232013376347n2D2_JPEG/%B6%B0%B8%D4%B4%C2%B5%CE%B9%D9%C0%CC%C3%CA%C4%DA_01.jpg?type=f220_220_60_sharpen",
+            "menu_name": "떠먹는 두바이 초콜릿N",
+            "price": "12,900원"
+        },
+        {
+            "category": "새로 나온 메뉴",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20240809_136/1723201864203gW7i3_JPEG/%C3%CA%C4%DA%BD%A9%BF%E4%B0%C5%C6%AE%C5%A9%B8%B2%B5%B5%B3%D3.jpg?type=f220_220_60_sharpen",
+            "menu_name": "NEW.초코쉘 요거트 크림도넛N",
+            "price": "4,200원"
+        },
+        {
+            "category": "새로 나온 메뉴",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20241105_198/17307730742458ISFa_JPEG/%C3%CA%C4%DA%B3%AA%B9%AB%BD%A3_%B7%CE%C5%B0%B7%CE%B5%E5.jpg?type=f220_220_60_sharpen",
+            "menu_name": "초코나무숲 로키로드N",
+            "price": "4,400원"
+        },
+        {
+            "category": "새로 나온 메뉴",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20241105_101/1730773001331oFLqX_JPEG/%C4%ED%BE%D8%C5%A9_%B7%CE%C5%B0%B7%CE%B5%E5.jpg?type=f220_220_60_sharpen",
+            "menu_name": "쿠앤크 로키로드N",
+            "price": "4,400원"
+        },
+        {
+            "category": "새로 나온 메뉴",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20241105_139/1730772818663FrWIP_JPEG/%B9%E3%C6%BC%B6%F3%B9%CC%BC%F6_%B5%B5%B3%D3.jpg?type=f220_220_60_sharpen",
+            "menu_name": "밤 티라미수 크림도넛N",
+            "price": "4,400원"
+        },
+        {
+            "category": "새로 나온 메뉴",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20241105_253/173077272803746BUP_JPEG/%B9%E3%C6%BC%B6%F3%B9%CC%BC%F6%C4%C5.jpg?type=f220_220_60_sharpen",
+            "menu_name": "밤티라미수컵N",
+            "price": "5,000원"
+        },
+        {
+            "category": "새로 나온 메뉴",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20241125_50/1732542064606VhNxw_JPEG/%C6%CF%BA%D8%BE%EE%BB%A7.jpg?type=f220_220_60_sharpen",
+            "menu_name": "팥 붕어빵N",
+            "price": "1,200원"
+        },
+        {
+            "category": "새로 나온 메뉴",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20241125_22/1732542151841bTQSx_JPEG/%BD%B4%C5%A9%B8%B2%BA%D8%BE%EE%BB%A7.jpg?type=f220_220_60_sharpen",
+            "menu_name": "슈크림 붕어빵N",
+            "price": "1,200원"
+        },
+        {
+            "category": "새로 나온 메뉴",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20241125_7/1732542210044yDLGW_JPEG/%BE%D6%C7%C3%BD%C3%B3%AA%B8%F3%BA%D8%BE%EE%BB%A7.jpg?type=f220_220_60_sharpen",
+            "menu_name": "프리미엄 애플시나몬 붕어빵N",
+            "price": "1,900원"
+        },
+        {
+            "category": "새로 나온 메뉴",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20241125_39/17325422620446MDHQ_JPEG/%C8%A3%B5%CE%B9%E3%C6%CF%BA%D8%BE%EE%BB%A7.jpg?type=f220_220_60_sharpen",
+            "menu_name": "프리미엄 호두밤팥 붕어빵N",
+            "price": "1,900원"
+        },
+        {
+            "category": "새로 나온 메뉴",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20241125_244/1732542321911xNQFP_JPEG/%C4%DC%C4%A1%C1%EE%BA%D8%BE%EE%BB%A7.jpg?type=f220_220_60_sharpen",
+            "menu_name": "프리미엄 콘치즈 붕어빵N",
+            "price": "1,900원"
+        },
+        {
+            "category": "새로 나온 메뉴",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20241125_40/1732542384640tYkVM_JPEG/%C3%CA%C4%DA%BA%D8%BE%EE%BB%A7.jpg?type=f220_220_60_sharpen",
+            "menu_name": "프리미엄 누텔라초코칩 붕어빵N",
+            "price": "1,900원"
+        },
+        {
+            "category": "새로 나온 메뉴",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20241125_173/1732542430735eYpw1_JPEG/%BD%BA%C6%AE%B8%B5%C4%A1%C1%EE%BA%D8%BE%EE%BB%A7.jpg?type=f220_220_60_sharpen",
+            "menu_name": "프리미엄 스트링치즈 붕어빵N",
+            "price": "1,900원"
+        },
+        {
+            "category": "새로 나온 메뉴",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20241125_139/1732542472114B0AEX_JPEG/%B0%E8%B6%F5%BA%D8%BE%EE%BB%A7.jpg?type=f220_220_60_sharpen",
+            "menu_name": "프리미엄 계란 붕어빵N",
+            "price": "1,900원"
+        },
+        {
+            "category": "사장님 추천 메뉴",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20240329_154/17116894817733brk9_JPEG/image_%288%29.jpg?type=f220_220_60_sharpen",
+            "menu_name": "크림 브륄레 도넛대표",
+            "price": "3,700원"
+        },
+        {
+            "category": "사장님 추천 메뉴",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20240329_101/1711689515301UOpOz_JPEG/image_%2811%29.jpg?type=f220_220_60_sharpen",
+            "menu_name": "리얼우유 크림 도넛대표",
+            "price": "3,900원"
+        },
+        {
+            "category": "사장님 추천 메뉴",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20240329_76/17116895028752nzw9_JPEG/image_%2810%29.jpg?type=f220_220_60_sharpen",
+            "menu_name": "블루베리 크림 도넛대표",
+            "price": "3,600원"
+        },
+        {
+            "category": "사장님 추천 메뉴",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20240329_170/1711689494001swN5s_JPEG/image_%289%29.jpg?type=f220_220_60_sharpen",
+            "menu_name": "오레오 크림 도넛대표",
+            "price": "3,600원"
+        },
+        {
+            "category": "사장님 추천 메뉴",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20240404_131/1712208561900o0o9U_JPEG/%C7%C3%B7%B9%C0%CE%B5%B5%B3%D3.jpg?type=f220_220_60_sharpen",
+            "menu_name": "플레인 크림 도넛대표",
+            "price": "3,600원"
+        },
+        {
+            "category": "사장님 추천 메뉴",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20240404_37/1712208644843V3iEd_JPEG/%BA%ED%B7%A2%B9%D9%B4%D2%B6%F3%B5%B5%B3%D3.jpg?type=f220_220_60_sharpen",
+            "menu_name": "블랙바닐라 크림 도넛대표",
+            "price": "3,700원"
+        },
+        {
+            "category": "사장님 추천 메뉴",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20240404_163/17122200468783H64E_JPEG/%BE%C6%C0%CC%BD%BA%BE%C6%B8%DE%B8%AE%C4%AB%B3%EB.jpg?type=f220_220_60_sharpen",
+            "menu_name": "아메리카노대표",
+            "price": "2,900원"
+        },
+        {
+            "category": "사장님 추천 메뉴",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20240404_40/1712221240724txkpu_JPEG/%B5%FE%B1%E2%B6%F3%B6%BC.jpg?type=f220_220_60_sharpen",
+            "menu_name": "리얼딸기라떼대표",
+            "price": "4,500원"
+        },
+        {
+            "category": "사장님 추천 메뉴",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20240809_29/1723201128271UuNiD_JPEG/%B5%CE%B9%D9%C0%CC%C3%CA%C4%DA%B5%B5%B3%D3.jpg?type=f220_220_60_sharpen",
+            "menu_name": "두바이 초코도넛대표",
+            "price": "7,900원"
+        },
+        {
+            "category": "'NEW'두바이 시리즈",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20240809_29/1723201128271UuNiD_JPEG/%B5%CE%B9%D9%C0%CC%C3%CA%C4%DA%B5%B5%B3%D3.jpg?type=f220_220_60_sharpen",
+            "menu_name": "두바이 초코도넛대표",
+            "price": "7,900원"
+        },
+        {
+            "category": "'NEW'두바이 시리즈",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20240809_206/17232013376347n2D2_JPEG/%B6%B0%B8%D4%B4%C2%B5%CE%B9%D9%C0%CC%C3%CA%C4%DA_01.jpg?type=f220_220_60_sharpen",
+            "menu_name": "떠먹는 두바이 초콜릿N",
+            "price": "12,900원"
+        },
+        {
+            "category": "'NEW'두바이 시리즈",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20240809_133/1723201492431ggxiL_JPEG/%B5%CE%B9%D9%C0%CC%B8%F0%C4%AB%B6%F3%B6%BC.jpg?type=f220_220_60_sharpen",
+            "menu_name": "두바이 모카라떼",
+            "price": "5,900원"
+        },
+        {
+            "category": "'NEW'두바이 시리즈",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20240809_132/1723201580385j72rm_JPEG/%B5%CE%B9%D9%C0%CC%BD%A6%C0%CC%C5%A9.jpg?type=f220_220_60_sharpen",
+            "menu_name": "두바이 쉐이크",
+            "price": "5,900원"
+        },
+        {
+            "category": "'NEW'신상 디저트",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20241105_101/1730773001331oFLqX_JPEG/%C4%ED%BE%D8%C5%A9_%B7%CE%C5%B0%B7%CE%B5%E5.jpg?type=f220_220_60_sharpen",
+            "menu_name": "쿠앤크 로키로드N",
+            "price": "4,400원"
+        },
+        {
+            "category": "'NEW'신상 디저트",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20241105_198/17307730742458ISFa_JPEG/%C3%CA%C4%DA%B3%AA%B9%AB%BD%A3_%B7%CE%C5%B0%B7%CE%B5%E5.jpg?type=f220_220_60_sharpen",
+            "menu_name": "초코나무숲 로키로드N",
+            "price": "4,400원"
+        },
+        {
+            "category": "'NEW'신상 디저트",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20241105_139/1730772818663FrWIP_JPEG/%B9%E3%C6%BC%B6%F3%B9%CC%BC%F6_%B5%B5%B3%D3.jpg?type=f220_220_60_sharpen",
+            "menu_name": "밤 티라미수 크림도넛N",
+            "price": "4,400원"
+        },
+        {
+            "category": "'NEW'신상 디저트",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20241105_253/173077272803746BUP_JPEG/%B9%E3%C6%BC%B6%F3%B9%CC%BC%F6%C4%C5.jpg?type=f220_220_60_sharpen",
+            "menu_name": "밤티라미수컵N",
+            "price": "5,000원"
+        },
+        {
+            "category": "'NEW'졸리의 붕어빵",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20241125_50/1732542064606VhNxw_JPEG/%C6%CF%BA%D8%BE%EE%BB%A7.jpg?type=f220_220_60_sharpen",
+            "menu_name": "팥 붕어빵N",
+            "price": "1,200원"
+        },
+        {
+            "category": "'NEW'졸리의 붕어빵",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20241125_22/1732542151841bTQSx_JPEG/%BD%B4%C5%A9%B8%B2%BA%D8%BE%EE%BB%A7.jpg?type=f220_220_60_sharpen",
+            "menu_name": "슈크림 붕어빵N",
+            "price": "1,200원"
+        },
+        {
+            "category": "'NEW'졸리의 붕어빵",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20241125_7/1732542210044yDLGW_JPEG/%BE%D6%C7%C3%BD%C3%B3%AA%B8%F3%BA%D8%BE%EE%BB%A7.jpg?type=f220_220_60_sharpen",
+            "menu_name": "프리미엄 애플시나몬 붕어빵N",
+            "price": "1,900원"
+        },
+        {
+            "category": "'NEW'졸리의 붕어빵",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20241125_39/17325422620446MDHQ_JPEG/%C8%A3%B5%CE%B9%E3%C6%CF%BA%D8%BE%EE%BB%A7.jpg?type=f220_220_60_sharpen",
+            "menu_name": "프리미엄 호두밤팥 붕어빵N",
+            "price": "1,900원"
+        },
+        {
+            "category": "'NEW'졸리의 붕어빵",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20241125_244/1732542321911xNQFP_JPEG/%C4%DC%C4%A1%C1%EE%BA%D8%BE%EE%BB%A7.jpg?type=f220_220_60_sharpen",
+            "menu_name": "프리미엄 콘치즈 붕어빵N",
+            "price": "1,900원"
+        },
+        {
+            "category": "'NEW'졸리의 붕어빵",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20241125_40/1732542384640tYkVM_JPEG/%C3%CA%C4%DA%BA%D8%BE%EE%BB%A7.jpg?type=f220_220_60_sharpen",
+            "menu_name": "프리미엄 누텔라초코칩 붕어빵N",
+            "price": "1,900원"
+        },
+        {
+            "category": "'NEW'졸리의 붕어빵",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20241125_173/1732542430735eYpw1_JPEG/%BD%BA%C6%AE%B8%B5%C4%A1%C1%EE%BA%D8%BE%EE%BB%A7.jpg?type=f220_220_60_sharpen",
+            "menu_name": "프리미엄 스트링치즈 붕어빵N",
+            "price": "1,900원"
+        },
+        {
+            "category": "'NEW'졸리의 붕어빵",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20241125_139/1732542472114B0AEX_JPEG/%B0%E8%B6%F5%BA%D8%BE%EE%BB%A7.jpg?type=f220_220_60_sharpen",
+            "menu_name": "프리미엄 계란 붕어빵N",
+            "price": "1,900원"
+        },
+        {
+            "category": "'NEW'졸리의 붕어빵",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20241125_223/1732542526895MAqy0_JPEG/%C7%C7%C0%DA%C4%A1%C1%EE%BA%D8%BE%EE%BB%A7.jpg?type=f220_220_60_sharpen",
+            "menu_name": "프리미엄 피자치즈 붕어빵",
+            "price": "1,900원"
+        },
+        {
+            "category": "'NEW'졸리의 붕어빵",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20241125_281/1732542577618y3hhc_JPEG/%BA%D2%B4%DF%C4%A1%C1%EE%BA%D8%BE%EE%BB%A7.jpg?type=f220_220_60_sharpen",
+            "menu_name": "프리미엄 불닭치즈 붕어빵매운맛2단계",
+            "price": "1,900원"
+        },
+        {
+            "category": "도넛",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20240809_136/1723201864203gW7i3_JPEG/%C3%CA%C4%DA%BD%A9%BF%E4%B0%C5%C6%AE%C5%A9%B8%B2%B5%B5%B3%D3.jpg?type=f220_220_60_sharpen",
+            "menu_name": "NEW.초코쉘 요거트 크림도넛N",
+            "price": "4,200원"
+        },
+        {
+            "category": "도넛",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20240329_154/17116894817733brk9_JPEG/image_%288%29.jpg?type=f220_220_60_sharpen",
+            "menu_name": "크림 브륄레 도넛대표",
+            "price": "3,700원"
+        },
+        {
+            "category": "도넛",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20240329_101/1711689515301UOpOz_JPEG/image_%2811%29.jpg?type=f220_220_60_sharpen",
+            "menu_name": "리얼우유 크림 도넛대표",
+            "price": "3,900원"
+        },
+        {
+            "category": "도넛",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20240404_131/1712208561900o0o9U_JPEG/%C7%C3%B7%B9%C0%CE%B5%B5%B3%D3.jpg?type=f220_220_60_sharpen",
+            "menu_name": "플레인 크림 도넛대표",
+            "price": "3,600원"
+        },
+        {
+            "category": "도넛",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20240601_42/1717235968844fPTmg_JPEG/%C6%BC%B6%F3%B9%CC%BC%F6%B5%B5%B3%D3%C5%A9%B8%B2.jpg?type=f220_220_60_sharpen",
+            "menu_name": "티라미수 도넛N",
+            "price": "4,200원"
+        },
+        {
+            "category": "도넛",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20240601_6/1717236428554MaFFF_JPEG/%B9%D0%C5%A9%BD%A6%C0%CC%C5%A9%B5%B5%B3%D3%C5%A9%B8%B2.jpg?type=f220_220_60_sharpen",
+            "menu_name": "밀크쉐이크 크림 도넛N",
+            "price": "4,200원"
+        },
+        {
+            "category": "도넛",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20240404_129/1712213022257cwB5B_JPEG/%BF%F5%C0%CC%B3%D7_%B0%A5%BA%F1%B8%C0.jpg?type=f220_220_60_sharpen",
+            "menu_name": "웅이네 갈비오돌샌드",
+            "price": "4,900원5,900원"
+        },
+        {
+            "category": "도넛",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20240404_121/1712213385624etKtK_JPEG/%BF%F5%C0%CC%B3%D7_%B8%C5%BF%EE%B8%C0.jpg?type=f220_220_60_sharpen",
+            "menu_name": "웅이네 보통오돌샌드매운맛2단계",
+            "price": "4,900원5,900원"
+        },
+        {
+            "category": "도넛",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20240404_77/1712213841655zc7AH_JPEG/%BF%F5%C0%CC%B3%D7_%B8%C5%BF%EE%B8%C0.jpg?type=f220_220_60_sharpen",
+            "menu_name": "웅이네 매콤오돌샌드매운맛3단계N",
+            "price": "4,900원5,900원"
+        },
+        {
+            "category": "도넛",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20240404_14/1712214465502TbASR_JPEG/%B1%D7_%BF%BE%B3%AF_%BE%DF%C3%A4%B5%B5%B3%D3%28%C4%ED%C6%CE%29-1.jpg?type=f220_220_60_sharpen",
+            "menu_name": "그시절 야채도넛",
+            "price": "4,300원"
+        },
+        {
+            "category": "도넛",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20240329_170/1711689494001swN5s_JPEG/image_%289%29.jpg?type=f220_220_60_sharpen",
+            "menu_name": "오레오 크림 도넛대표",
+            "price": "3,600원"
+        },
+        {
+            "category": "도넛",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20240404_53/1712209030613ysG6j_JPEG/%C8%B2%C4%A1%C1%EE%B5%B5%B3%D3.jpg?type=f220_220_60_sharpen",
+            "menu_name": "황치즈 크림 도넛",
+            "price": "3,800원"
+        },
+        {
+            "category": "도넛",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20240404_74/1712209299098K9epd_JPEG/%BE%F3%B1%D7%B7%B9%C0%CC%B5%B5%B3%D3.jpg?type=f220_220_60_sharpen",
+            "menu_name": "얼그레이 크림 도넛",
+            "price": "3,700원"
+        },
+        {
+            "category": "도넛",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20240404_37/1712208644843V3iEd_JPEG/%BA%ED%B7%A2%B9%D9%B4%D2%B6%F3%B5%B5%B3%D3.jpg?type=f220_220_60_sharpen",
+            "menu_name": "블랙바닐라 크림 도넛대표",
+            "price": "3,700원"
+        },
+        {
+            "category": "도넛",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20240601_274/1717236640570KkioL_JPEG/%B6%F3%C1%EE%BA%A3%B8%AE%B5%B5%B3%D3.jpg?type=f220_220_60_sharpen",
+            "menu_name": "베리딸기 크림 도넛",
+            "price": "3,600원"
+        },
+        {
+            "category": "도넛",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20240404_149/1712209113270yQEPw_JPEG/%C7%C3%B7%B9%C0%CE%BD%C3%B3%AA%B8%F3.jpg?type=f220_220_60_sharpen",
+            "menu_name": "시나몬슈가 플레인 크림 도넛",
+            "price": "3,600원"
+        },
+        {
+            "category": "도넛",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20240329_76/17116895028752nzw9_JPEG/image_%2810%29.jpg?type=f220_220_60_sharpen",
+            "menu_name": "블루베리 크림 도넛대표",
+            "price": "3,600원"
+        },
+        {
+            "category": "도넛",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20240404_238/1712208889342TYO9T_JPEG/%B4%A9%C5%DA%B6%F3%B5%B5%B3%D3.jpg?type=f220_220_60_sharpen",
+            "menu_name": "누텔라 크림 도넛",
+            "price": "3,600원"
+        },
+        {
+            "category": "도넛",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20240404_218/1712209215386slHS1_JPEG/%B7%CE%C5%F5%BD%BA%B5%B7%B3%D3.jpg?type=f220_220_60_sharpen",
+            "menu_name": "로투스 크림 도넛",
+            "price": "3,600원"
+        },
+        {
+            "category": "도넛",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20240404_268/1712208957035P6wHl_JPEG/%B9%AB%C8%AD%B0%FA%B5%B5%B3%D3.jpg?type=f220_220_60_sharpen",
+            "menu_name": "무화과 크림 도넛",
+            "price": "3,600원"
+        },
+        {
+            "category": "도넛",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20240404_68/1712208760206xBip2_JPEG/%B8%BB%C2%F7%B5%B5%B3%D3.jpg?type=f220_220_60_sharpen",
+            "menu_name": "말차 크림 도넛",
+            "price": "3,700원"
+        },
+        {
+            "category": "도넛",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20240404_236/1712209459474gdM4a_JPEG/%C7%C7%BD%BA%C5%B8%C4%A1%BF%C0%B5%B5%B3%D3.jpg?type=f220_220_60_sharpen",
+            "menu_name": "피스타치오 크림 도넛",
+            "price": "3,600원"
+        },
+        {
+            "category": "도넛",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20240404_216/1712209532576Pzh91_JPEG/%BE%D6%C7%C3%BD%C3%B3%AA%B8%F3.jpg?type=f220_220_60_sharpen",
+            "menu_name": "애플시나몬 크림 도넛",
+            "price": "3,600원"
+        },
+        {
+            "category": "커피",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20240404_163/17122200468783H64E_JPEG/%BE%C6%C0%CC%BD%BA%BE%C6%B8%DE%B8%AE%C4%AB%B3%EB.jpg?type=f220_220_60_sharpen",
+            "menu_name": "아메리카노대표",
+            "price": "2,900원"
+        },
+        {
+            "category": "커피",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20240404_161/1712220939905jXQRO_JPEG/%B9%D9%B4%D2%B6%F3%B6%F3%B6%BC.jpg?type=f220_220_60_sharpen",
+            "menu_name": "바닐라라떼",
+            "price": "4,100원"
+        },
+        {
+            "category": "커피",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20240404_52/1712221090757uyzh3_JPEG/%B5%B9%C3%BC%B6%F3%B6%BC.jpg?type=f220_220_60_sharpen",
+            "menu_name": "돌체라떼",
+            "price": "4,100원"
+        },
+        {
+            "category": "커피",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20240404_129/1712220611617Qwrrz_JPEG/%BA%ED%B7%A2%B6%F3%B6%BC.jpg?type=f220_220_60_sharpen",
+            "menu_name": "블랙라떼",
+            "price": "3,900원"
+        },
+        {
+            "category": "커피",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20240404_12/1712220150305fUn9N_JPEG/%C4%AB%C6%E4%B6%F3%B6%BC.jpg?type=f220_220_60_sharpen",
+            "menu_name": "카페라떼",
+            "price": "3,800원"
+        },
+        {
+            "category": "커피",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20240404_224/1712220490458VRPEl_JPEG/%C4%AB%B6%F3%B8%E1%B8%B6%B3%A2%BE%DF%B6%C7.jpg?type=f220_220_60_sharpen",
+            "menu_name": "카라멜 마끼아또",
+            "price": "3,900원"
+        },
+        {
+            "category": "커피",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20240404_7/1712220366024ny1IA_JPEG/%C4%AB%C6%E4%B8%F0%C4%AB.jpg?type=f220_220_60_sharpen",
+            "menu_name": "카페모카",
+            "price": "3,900원"
+        },
+        {
+            "category": "라떼(커피X)",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20240404_40/1712221240724txkpu_JPEG/%B5%FE%B1%E2%B6%F3%B6%BC.jpg?type=f220_220_60_sharpen",
+            "menu_name": "리얼딸기라떼대표",
+            "price": "4,500원"
+        },
+        {
+            "category": "라떼(커피X)",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20240404_42/1712222173242oX4Pc_JPEG/%B3%EC%C2%F7%B6%F3%B6%BC.jpg?type=f220_220_60_sharpen",
+            "menu_name": "녹차라떼",
+            "price": "4,300원"
+        },
+        {
+            "category": "라떼(커피X)",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20240404_82/1712221361751pX12S_JPEG/%BA%ED%B7%E7%BA%A3%B8%AE%B6%F3%B6%BC.jpg?type=f220_220_60_sharpen",
+            "menu_name": "리얼 블루베리라떼",
+            "price": "4,500원"
+        },
+        {
+            "category": "라떼(커피X)",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20240404_13/1712221587352GDd4k_JPEG/%C3%CA%C4%DA%B6%F3%B6%BC.jpg?type=f220_220_60_sharpen",
+            "menu_name": "초코라떼",
+            "price": "4,300원"
+        },
+        {
+            "category": "라떼(커피X)",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20240404_279/17122214460088Brle_JPEG/%B8%C1%B0%ED%B6%F3%B6%BC.jpg?type=f220_220_60_sharpen",
+            "menu_name": "리얼 망고라떼",
+            "price": "4,500원"
+        },
+        {
+            "category": "라떼(커피X)",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20240404_211/171222152742335F51_JPEG/%BA%B9%BC%FE%BE%C6%B6%F3%B6%BC.jpg?type=f220_220_60_sharpen",
+            "menu_name": "리얼 복숭아라떼",
+            "price": "4,500원"
+        },
+        {
+            "category": "음료",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20240404_68/1712222316551Lwcd9_JPEG/%C8%A8%B8%DE%C0%CC%B5%E5%B9%D0%C5%A9.jpg?type=f220_220_60_sharpen",
+            "menu_name": "홈메이드 밀크",
+            "price": "2,900원"
+        },
+        {
+            "category": "음료",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20240404_221/1712222426248Ulj3R_JPEG/%BE%C6%C0%CC%BD%BA%C6%BC.jpg?type=f220_220_60_sharpen",
+            "menu_name": "아이스티",
+            "price": "2,900원"
+        },
+        {
+            "category": "음료",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20240404_90/1712222539232iWeqv_JPEG/%BE%F3%B1%D7%B7%B9%C0%CC%B9%D0%C5%A9%C6%BC.jpg?type=f220_220_60_sharpen",
+            "menu_name": "얼그레이 밀크티",
+            "price": "4,300원"
+        },
+        {
+            "category": "음료",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20240404_133/1712222679693Lyzm6_JPEG/%C4%DA%C4%DA%B9%D0%C5%A9%C6%BC.jpg?type=f220_220_60_sharpen",
+            "menu_name": "코코 밀크티",
+            "price": "4,300원"
+        },
+        {
+            "category": "컵파스타",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20240404_149/1712227705748ozm61_JPEG/%BA%BC%B7%CE%B3%D7%C1%A6%C4%C5%C6%C4%BD%BA%C5%B8.jpg?type=f220_220_60_sharpen",
+            "menu_name": "볼로네제 컵 파스타N",
+            "price": "6,700원"
+        },
+        {
+            "category": "컵파스타",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20240404_22/1712227998204XtgM6_JPEG/%B8%C5%C4%DE%C5%A9%B8%B2%C4%C5%C6%C4%BD%BA%C5%B8.jpg?type=f220_220_60_sharpen",
+            "menu_name": "매콤크림 컵파스타매운맛3단계N",
+            "price": "6,700원"
+        },
+        {
+            "category": "그릭요거트",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20240404_24/17122268626145DYCb_JPEG/%BA%B9%BC%FE%BE%C6%B1%D7%B8%AF.jpg?type=f220_220_60_sharpen",
+            "menu_name": "복숭아 그릭요거트",
+            "price": "4,800원"
+        },
+        {
+            "category": "그릭요거트",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20240404_74/1712226468133bvRVU_JPEG/%BE%F3%B1%D7%B7%B9%C0%CC%B1%D7%B8%AF.jpg?type=f220_220_60_sharpen",
+            "menu_name": "얼그레이 그릭요거트",
+            "price": "4,800원"
+        },
+        {
+            "category": "그릭요거트",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20240404_257/1712226909071IFccE_JPEG/%B8%C1%B0%ED%B1%D7%B8%AF.jpg?type=f220_220_60_sharpen",
+            "menu_name": "망고 그릭요거트",
+            "price": "4,800원"
+        },
+        {
+            "category": "그릭요거트",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20240404_39/1712226418165MU5lK_JPEG/%B8%BB%C2%F7%B1%D7%B8%AF.jpg?type=f220_220_60_sharpen",
+            "menu_name": "말차 그릭요거트",
+            "price": "4,800원"
+        },
+        {
+            "category": "그릭요거트",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20240404_82/1712226637255Eiwoa_JPEG/%BA%ED%B7%E7%BA%A3%B8%AE%B1%D7%B8%AF.jpg?type=f220_220_60_sharpen",
+            "menu_name": "블루베리 그릭요거트",
+            "price": "4,800원"
+        },
+        {
+            "category": "그릭요거트",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20240404_196/1712226767040vTM6f_JPEG/%B6%F3%C1%EE%BA%A3%B8%AE%B1%D7%B8%AF.jpg?type=f220_220_60_sharpen",
+            "menu_name": "라즈베리그릭요거트",
+            "price": "4,800원"
+        },
+        {
+            "category": "그릭요거트",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20240404_272/1712226575059Ar4tO_JPEG/%C3%BC%B8%AE%B1%D7%B8%AF.jpg?type=f220_220_60_sharpen",
+            "menu_name": "체리 그릭요거트",
+            "price": "4,800원"
+        },
+        {
+            "category": "그릭요거트",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20240404_88/1712226510108ocIyH_JPEG/%C3%CA%C4%DA%B1%D7%B8%AF%BF%E4%B0%C5%C6%AE.jpg?type=f220_220_60_sharpen",
+            "menu_name": "초코티라미수 그릭요거트",
+            "price": "4,800원"
+        },
+        {
+            "category": "그릭요거트",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20240404_147/1712226285736G5B1t_JPEG/%C7%C3%B7%B9%C0%CE%B1%D7%B8%AF.jpg?type=f220_220_60_sharpen",
+            "menu_name": "플레인 그릭요거트",
+            "price": "4,300원"
+        },
+        {
+            "category": "그릭요거트",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20240404_236/1712226950571vGtBC_JPEG/%C0%AF%C0%DA%B1%D7%B8%AF.jpg?type=f220_220_60_sharpen",
+            "menu_name": "유자 그릭요거트",
+            "price": "4,800원"
+        },
+        {
+            "category": "그릭요거트",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20240404_297/1712226818937aALvb_JPEG/%B9%AB%C8%AD%B0%FA%B1%D7%B8%AF.jpg?type=f220_220_60_sharpen",
+            "menu_name": "무화과 그릭요거트",
+            "price": "4,800원"
+        },
+        {
+            "category": "수제 다쿠아즈",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20240809_168/1723208905711WCjct_JPEG/%BB%EA%B5%B5%B5%FE%B1%E2.jpg?type=f220_220_60_sharpen",
+            "menu_name": "산도딸기",
+            "price": "4,300원"
+        },
+        {
+            "category": "수제 다쿠아즈",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20240809_67/1723210088263MEda4_JPEG/%B4%F5%BA%ED%C4%A1%C1%EE.jpg?type=f220_220_60_sharpen",
+            "menu_name": "더블치즈",
+            "price": "4,300원"
+        },
+        {
+            "category": "수제 다쿠아즈",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20240809_50/1723210156918voePl_JPEG/%B4%DC%C2%A7%B9%D9%B4%D2%B6%F3.jpg?type=f220_220_60_sharpen",
+            "menu_name": "단짠바닐라",
+            "price": "4,300원"
+        },
+        {
+            "category": "수제 다쿠아즈",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20240809_237/1723210459252leLwo_JPEG/%BE%D3%B9%F6%C5%CD.jpg?type=f220_220_60_sharpen",
+            "menu_name": "앙버터",
+            "price": "4,700원"
+        },
+        {
+            "category": "수제 다쿠아즈",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20240809_146/1723210544797HL2B8_JPEG/%B5%C5%C1%F6%B9%D9.jpg?type=f220_220_60_sharpen",
+            "menu_name": "돼지바",
+            "price": "4,700원"
+        },
+        {
+            "category": "수제 다쿠아즈",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20240809_136/1723210303696OJxXP_JPEG/%B8%BB%C2%F7%C6%C4%BA%A3.jpg?type=f220_220_60_sharpen",
+            "menu_name": "말차파베",
+            "price": "4,300원"
+        },
+        {
+            "category": "수제 다쿠아즈",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20240809_71/1723210420039GadbY_JPEG/%C0%CE%C0%FD%B9%CC.jpg?type=f220_220_60_sharpen",
+            "menu_name": "인절미",
+            "price": "4,300원"
+        },
+        {
+            "category": "수제 다쿠아즈",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20240809_67/1723210365774xf9jL_JPEG/%BE%F3%B1%D7%B7%B9%C0%CC.jpg?type=f220_220_60_sharpen",
+            "menu_name": "얼그레이",
+            "price": "4,300원"
+        },
+        {
+            "category": "버터라인",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20240404_105/1712212628158UWXUT_JPEG/%C3%CA%C4%DA%B9%F6%C5%CD%B9%D9.jpg?type=f220_220_60_sharpen",
+            "menu_name": "발로나 초코 버터바",
+            "price": "5,500원"
+        },
+        {
+            "category": "버터라인",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20240404_70/1712212719572MyPG5_JPEG/%C8%B2%C4%A1%C1%EE%B9%F6%C5%CD%B9%D9.jpg?type=f220_220_60_sharpen",
+            "menu_name": "황치즈 버터바",
+            "price": "5,500원"
+        },
+        {
+            "category": "버터라인",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20240404_88/1712212428674jNvKz_JPEG/%C7%C3%B7%B9%C0%CE%B9%F6%C5%CD%B9%D9.jpg?type=f220_220_60_sharpen",
+            "menu_name": "플레인 버터바",
+            "price": "5,500원"
+        },
+        {
+            "category": "버터라인",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20240404_13/1712212299831Odn4q_JPEG/%C4%AB%B6%F3%B8%E1%B9%F6%C5%CD%BB%F7%B5%E5.jpg?type=f220_220_60_sharpen",
+            "menu_name": "카라멜 버터샌드",
+            "price": "2,800원"
+        },
+        {
+            "category": "부스터 음료",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20240601_23/17172369028296Gj4s_JPEG/%BF%A1%B8%DE%B6%F6%B5%E5%C8%FA%B8%B5.jpg?type=f220_220_60_sharpen",
+            "menu_name": "'시그니처' 에메랄드 힐링 포션",
+            "price": "4,500원"
+        },
+        {
+            "category": "부스터 음료",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20240601_291/1717236998682iVao7_JPEG/%BE%F3%B9%DA%BB%E7.jpg?type=f220_220_60_sharpen",
+            "menu_name": "얼박사 포션",
+            "price": "4,500원"
+        },
+        {
+            "category": "부스터 음료",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20240601_188/1717237225944M0i5D_JPEG/%C0%AF%B9%DA%BB%E7.jpg?type=f220_220_60_sharpen",
+            "menu_name": "유박사 포션",
+            "price": "4,800원"
+        },
+        {
+            "category": "부스터 음료",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20240601_250/1717237115655stvc4_JPEG/%B0%A5%B9%DA%BB%E7.jpg?type=f220_220_60_sharpen",
+            "menu_name": "갈박사 포션N",
+            "price": "4,500원"
+        },
+        {
+            "category": "부스터 음료",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20240601_191/1717237289482j2YvE_JPEG/%BA%F1%C5%B8%B7%B9%B8%F3.jpg?type=f220_220_60_sharpen",
+            "menu_name": "비타레몬 포션N",
+            "price": "4,800원"
+        },
+        {
+            "category": "부스터 음료",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20240601_93/17172373807557Mize_JPEG/%B9%DA%B8%C5%BD%C7.jpg?type=f220_220_60_sharpen",
+            "menu_name": "박매실 포션",
+            "price": "4,500원"
+        },
+        {
+            "category": "부스터 음료",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20240601_281/17172374585737ORBx_JPEG/%BA%F1%C5%B8%C6%C4%BF%F6.jpg?type=f220_220_60_sharpen",
+            "menu_name": "비타파워 포션",
+            "price": "4,500원"
+        },
+        {
+            "category": "부스터 음료",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20240601_27/17172376211362VsVR_JPEG/%B0%A5%B9%DA%BB%E7.jpg?type=f220_220_60_sharpen",
+            "menu_name": "포카리500 포션",
+            "price": "4,500원"
+        },
+        {
+            "category": "젤라또",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20240601_229/1717233778728MjUlK_JPEG/%B8%AE%BE%F3%C3%CA%C4%DA.jpg?type=f220_220_60_sharpen",
+            "menu_name": "젤라또 싱글컵",
+            "price": "4,400원"
+        },
+        {
+            "category": "젤라또",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20240601_164/1717233835934YnSsY_PNG/%BD%BA%C5%A9%B8%B0%BC%A6_2024-04-30_124534.png?type=f220_220_60_sharpen",
+            "menu_name": "젤라또 3가지 맛",
+            "price": "19,500원"
+        },
+        {
+            "category": "젤라또",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20240601_249/1717233854799se5S5_PNG/%BD%BA%C5%A9%B8%B0%BC%A6_2024-04-30_124534.png?type=f220_220_60_sharpen",
+            "menu_name": "젤라또 2가지 맛",
+            "price": "15,500원"
+        },
+        {
+            "category": "에이드",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20240404_93/1712224293937d7mhm_JPEG/%B8%C1%B0%ED%BF%A1%C0%CC%B5%E5.jpg?type=f220_220_60_sharpen",
+            "menu_name": "망고에이드",
+            "price": "3,900원"
+        },
+        {
+            "category": "에이드",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20240404_225/1712224369743fjW0r_JPEG/%BA%ED%B7%E7%BA%A3%B8%AE%BF%A1%C0%CC%B5%E5.jpg?type=f220_220_60_sharpen",
+            "menu_name": "블루베리에이드",
+            "price": "3,900원"
+        },
+        {
+            "category": "에이드",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20240404_71/1712222942589VDKqO_JPEG/%BE%D6%C7%C3%C7%C7%C4%A1%BF%A1%C0%CC%B5%E5.jpg?type=f220_220_60_sharpen",
+            "menu_name": "애플피치 에이드",
+            "price": "4,100원"
+        },
+        {
+            "category": "에이드",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20240404_109/17122230361146uy9R_JPEG/%BE%D6%C7%C3%C0%AF%C0%DA%BF%A1%C0%CC%B5%E5.jpg?type=f220_220_60_sharpen",
+            "menu_name": "애플유자 에이드",
+            "price": "4,100원"
+        },
+        {
+            "category": "에이드",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20240404_53/1712225107712jJ9XU_JPEG/%BB%E7%B0%FA%BF%A1%C0%CC%B5%E5.jpg?type=f220_220_60_sharpen",
+            "menu_name": "사과에이드",
+            "price": "3,900원"
+        },
+        {
+            "category": "에이드",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20240404_71/1712224658340Lmdww_JPEG/%BB%EC%B1%B8%BF%A1%C0%CC%B5%E5.jpg?type=f220_220_60_sharpen",
+            "menu_name": "살구에이드",
+            "price": "3,900원"
+        },
+        {
+            "category": "에이드",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20240404_126/1712225031774hPGAs_JPEG/%B7%B9%B8%F3%BF%A1%C0%CC%B5%E5.jpg?type=f220_220_60_sharpen",
+            "menu_name": "레몬에이드",
+            "price": "3,900원"
+        },
+        {
+            "category": "스무디",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20240404_194/17122257167263BF7E_JPEG/%BA%ED%B7%E7%BA%A3%B8%AE%BF%E4%B0%C5%C6%AE%BD%BA%B9%AB%B5%F0.jpg?type=f220_220_60_sharpen",
+            "menu_name": "블루베리요거트스무디",
+            "price": "4,900원"
+        },
+        {
+            "category": "스무디",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20240404_157/1712225663119NXgrN_JPEG/%B5%FE%B1%E2%BF%E4%B0%C5%C6%AE%BD%BA%B9%AB%B5%F0.jpg?type=f220_220_60_sharpen",
+            "menu_name": "딸기요거트스무디",
+            "price": "4,900원"
+        },
+        {
+            "category": "스무디",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20240404_55/1712225566427KiLAE_JPEG/%BA%B9%BC%FE%BE%C6%BF%E4%B0%C5%C6%AE%BD%BA%B9%AB%B5%F0.jpg?type=f220_220_60_sharpen",
+            "menu_name": "복숭아요거트스무디",
+            "price": "4,900원"
+        },
+        {
+            "category": "스무디",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20240404_58/1712225602043lA0Rj_JPEG/%B8%C1%B0%ED%BF%E4%B0%C5%C6%AE%BD%BA%B9%AB%B5%F0.jpg?type=f220_220_60_sharpen",
+            "menu_name": "망고요거트스무디",
+            "price": "4,900원"
+        },
+        {
+            "category": "스무디",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20240404_282/1712225477088lxpBR_JPEG/%C0%DA%B5%CE%BD%BA%B9%AB%B5%F0.jpg?type=f220_220_60_sharpen",
+            "menu_name": "자두스무디",
+            "price": "4,100원"
+        },
+        {
+            "category": "스무디",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20240404_289/1712225263603JSFg8_JPEG/%B5%FE%B1%E2%BD%BA%B9%AB%B5%F0.jpg?type=f220_220_60_sharpen",
+            "menu_name": "딸기스무디",
+            "price": "4,100원"
+        },
+        {
+            "category": "스무디",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20240404_182/1712225312587DUJ5v_JPEG/%B8%C1%B0%ED%BD%BA%B9%AB%B5%F0.jpg?type=f220_220_60_sharpen",
+            "menu_name": "망고스무디",
+            "price": "4,100원"
+        },
+        {
+            "category": "스무디",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20240404_127/171222541979245SA4_JPEG/%BA%ED%B7%E7%BA%A3%B8%AE%BD%BA%B9%AB%B5%F0.jpg?type=f220_220_60_sharpen",
+            "menu_name": "블루베리스무디",
+            "price": "4,100원"
+        },
+        {
+            "category": "스무디",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20240404_181/1712225364573g887U_JPEG/%BA%B9%BC%FE%BE%C6%BD%BA%B9%AB%B5%F0.jpg?type=f220_220_60_sharpen",
+            "menu_name": "복숭아스무디",
+            "price": "4,100원"
+        },
+        {
+            "category": "스무디",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20240404_277/1712225536658DsFzn_JPEG/%C7%C3%B7%B9%C0%CE%BF%E4%B0%C5%C6%AE%BD%BA%B9%AB%B5%F0.jpg?type=f220_220_60_sharpen",
+            "menu_name": "플레인요거트스무디",
+            "price": "4,900원"
+        },
+        {
+            "category": "쉐이크",
+            "img_src": "",
+            "menu_name": "밀크쉐이크",
+            "price": "4,900원"
+        },
+        {
+            "category": "쉐이크",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20240404_37/1712225759790NXudo_JPEG/%B8%BB%C2%F7%BD%A6%C0%CC%C5%A9.jpg?type=f220_220_60_sharpen",
+            "menu_name": "말차쉐이크",
+            "price": "4,900원"
+        },
+        {
+            "category": "쉐이크",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20240404_184/1712225947041TTqU7_JPEG/%BA%ED%B7%A2%BF%C0%B7%B9%BF%C0%BD%A6%C0%CC%C5%A9.jpg?type=f220_220_60_sharpen",
+            "menu_name": "블랙오레오쉐이크",
+            "price": "4,900원"
+        },
+        {
+            "category": "쉐이크",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20240404_180/1712225825177VL9YH_JPEG/%C3%CA%C4%DA%BD%A6%C0%CC%C5%A9.jpg?type=f220_220_60_sharpen",
+            "menu_name": "초코쉐이크",
+            "price": "4,900원"
+        },
+        {
+            "category": "쉐이크",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20240404_201/1712225873022L70wy_JPEG/%C7%C7%BD%BA%C5%B8%C4%A1%BF%C0%BD%A6%C0%CC%C5%A9.jpg?type=f220_220_60_sharpen",
+            "menu_name": "피스타치오쉐이크",
+            "price": "4,900원"
+        },
+        {
+            "category": "차",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20240404_145/1712226156084xEqAH_JPEG/%C6%E4%C6%DB%B9%CE%C6%AE%C6%BC.jpg?type=f220_220_60_sharpen",
+            "menu_name": "페퍼민트티",
+            "price": "2,900원"
+        },
+        {
+            "category": "차",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20240404_212/1712226095881mrc3p_JPEG/%BE%F3%B1%D7%B7%B9%C0%CC%C6%BC.jpg?type=f220_220_60_sharpen",
+            "menu_name": "얼그레이티",
+            "price": "2,900원"
+        },
+        {
+            "category": "차",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20240404_223/17122260289811rA1J_JPEG/%B7%E7%C0%CC%BA%B8%BD%BA%C6%BC.jpg?type=f220_220_60_sharpen",
+            "menu_name": "루이보스티",
+            "price": "2,900원"
+        },
+        {
+            "category": "차",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20240404_186/17122262202419TKiR_JPEG/%C4%C9%B8%F0%B8%B6%C0%CF%C6%BC.jpg?type=f220_220_60_sharpen",
+            "menu_name": "캐모마일티",
+            "price": "2,900원"
+        },
+        {
+            "category": "포장",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20240404_58/1712227310191HCihg_JPEG/%B5%B5%B3%D3%B9%DA%BD%BA.jpg?type=f220_220_60_sharpen",
+            "menu_name": "도넛박스(4구)",
+            "price": "500원"
+        },
+        {
+            "category": "포장",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20240404_218/1712227517662SonQB_JPEG/%B5%F0%C0%FA%C6%AE%B9%DA%BD%BA.jpg?type=f220_220_60_sharpen",
+            "menu_name": "디저트 박스",
+            "price": "500원"
+        },
+        {
+            "category": "포장",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20240404_6/1712227394343V8ftm_JPEG/%B5%B5%B3%D3%B9%DA%BD%BA.jpg?type=f220_220_60_sharpen",
+            "menu_name": "도넛박스(6구)",
+            "price": "500원"
+        },
+        {
+            "category": "포장",
+            "img_src": "",
+            "menu_name": "종이백",
+            "price": "500원"
+        }
+    ]
+}

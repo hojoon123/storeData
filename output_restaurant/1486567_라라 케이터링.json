@@ -1,0 +1,14 @@
+{
+    "store_name": "라라 케이터링",
+    "store_location": "경북 경주시 금성로 411 1층",
+    "loc_x": "399259.516417218",
+    "loc_y": "263835.883076266",
+    "menu": [
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241213_52%2F1734045122627LXj3a_JPEG%2F1000008189.jpg",
+            "menu_name": "핑거푸드",
+            "price": "변동"
+        }
+    ]
+}

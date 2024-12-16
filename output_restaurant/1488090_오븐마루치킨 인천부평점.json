@@ -1,0 +1,164 @@
+{
+    "store_name": "오븐마루치킨 인천부평점",
+    "store_location": "인천 부평구 부흥로334번길 4 1층 오븐마루치킨",
+    "loc_x": "175932.355164616",
+    "loc_y": "444005.032670271",
+    "menu": [
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240905_91%2F1725500547489B3959_PNG%2F%25B7%25CE%25BD%25BA%25C6%25AE_%25C5%25B8%25B9%25D9%25BD%25BA%25C4%25DA%25C6%25E4%25C6%25DB_%25BB%25E7%25C0%25CC%25B5%25E5.png",
+            "menu_name": "타이페퍼 로스트",
+            "price": "21,800원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240905_127%2F1725501445324O5VBL_PNG%2F%25BD%25BD%25B6%25F3%25C0%25CC%25B5%25E59.PNG",
+            "menu_name": "까르보 현미베이크 (순살전용)",
+            "price": "24,400원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240905_72%2F1725500522813DhHBT_PNG%2F%25C7%25F6%25B9%25CC_%25C3%25BC%25B4%25D9%25C4%25A1%25C1%25EE%25B5%25F6_%25BB%25E7%25C0%25CC%25B5%25E5.png",
+            "menu_name": "체다치즈 딥 현미베이크",
+            "price": "23,800원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240905_3%2F1725500503856pt01u_PNG%2F%25C7%25F6%25B9%25CC_%25BD%25BA%25C0%25AD%25B9%25F6%25C5%25CD%25B5%25F6_%25BB%25E7%25C0%25CC%25B5%25E5.png",
+            "menu_name": "스윗버터 딥 현미베이크",
+            "price": "23,800원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240905_64%2F1725500537704HJvFP_PNG%2F%25C7%25F6%25B9%25CC_%25B9%25D0%25C5%25A9%25C4%25DA%25C4%25DA%25B5%25F6_%25BB%25E7%25C0%25CC%25B5%25E5.png",
+            "menu_name": "밀크코코 딥 현미베이크",
+            "price": "23,800원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240905_221%2F1725500607182R4YuD_PNG%2F%25B7%25CE%25BD%25BA%25C6%25AE_%25C3%25BC%25B4%25D9%25C4%25A1%25C1%25EE%25B5%25F6_%25BB%25E7%25C0%25CC%25B5%25E5.png",
+            "menu_name": "체다치즈 딥 로스트",
+            "price": "22,800원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240905_284%2F17255005939189GsgX_PNG%2F%25B7%25CE%25BD%25BA%25C6%25AE_%25BD%25BA%25C0%25AD%25B9%25F6%25C5%25CD%25B5%25F6_%25BB%25E7%25C0%25CC%25B5%25E5.png",
+            "menu_name": "스윗버터 딥 로스트",
+            "price": "22,800원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240905_164%2F1725500622890kLTNx_PNG%2F%25B7%25CE%25BD%25BA%25C6%25AE_%25B9%25D0%25C5%25A9%25C4%25DA%25C4%25DA%25B5%25F6_%25BB%25E7%25C0%25CC%25B5%25E5.png",
+            "menu_name": "밀크코코 딥 로스트",
+            "price": "22,800원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240905_248%2F1725501437751l4E0v_PNG%2F%25BD%25BD%25B6%25F3%25C0%25CC%25B5%25E58.PNG",
+            "menu_name": "바삭 오리지널 현미베이크",
+            "price": "18,800원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240905_76%2F1725501906275CnjeS_PNG%2F%25BD%25C3%25B1%25D7%25B4%25CF%25C3%25B3_%25B7%25B9%25B5%25E5_%25C7%25F6%25B9%25CC%25BA%25A3%25C0%25CC%25C5%25A9.png",
+            "menu_name": "시그니처 레드 현미베이크",
+            "price": "19,900원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240905_28%2F1725501481781GoPS0_PNG%2F%25BD%25BD%25B6%25F3%25C0%25CC%25B5%25E514.PNG",
+            "menu_name": "시그니처 블랙 현미베이크",
+            "price": "19,900원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240905_103%2F1725501474139YJrj8_PNG%2F%25BD%25BD%25B6%25F3%25C0%25CC%25B5%25E513.PNG",
+            "menu_name": "양념현미베이크",
+            "price": "19,900원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240905_53%2F1725501459552VUseA_PNG%2F%25BD%25BD%25B6%25F3%25C0%25CC%25B5%25E511.PNG",
+            "menu_name": "파닭현미베이크",
+            "price": "20,900원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240905_266%2F1725501467596R0APj_PNG%2F%25BD%25BD%25B6%25F3%25C0%25CC%25B5%25E512.PNG",
+            "menu_name": "달콤갈릭현미베이크",
+            "price": "19,900원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240905_160%2F17255014526269La02_PNG%2F%25BD%25BD%25B6%25F3%25C0%25CC%25B5%25E510.PNG",
+            "menu_name": "매운양념 현미베이크",
+            "price": "19,900원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240905_143%2F17255007440970X7tn_PNG%2F%25C3%25BB%25B2%25BF%25BA%25A3%25C0%25CC%25C5%25B7%25C4%25A1%25C5%25B2_%2528%25BB%25C0%2529_%25BB%25E7%25C0%25CC%25B5%25E5.png",
+            "menu_name": "청양페퍼베이킹",
+            "price": "19,900원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240905_181%2F1725501377763xrmX3_PNG%2F%25BD%25BD%25B6%25F3%25C0%25CC%25B5%25E51.PNG",
+            "menu_name": "담백 오리지널 로스트",
+            "price": "17,800원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240905_245%2F1725501878312xyvRu_PNG%2F%25BD%25C3%25B1%25D7%25B4%25CF%25C3%25B3_%25B7%25B9%25B5%25E5_%25B7%25CE%25BD%25BA%25C6%25AE.png",
+            "menu_name": "시그니처 레드 로스트",
+            "price": "19,400원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240905_278%2F1725501546198lOGSX_PNG%2F%25BD%25BD%25B6%25F3%25C0%25CC%25B5%25E516.PNG",
+            "menu_name": "시그니처 블랙 로스트",
+            "price": "19,400원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240905_267%2F17255013902767HnFy_PNG%2F%25BD%25BD%25B6%25F3%25C0%25CC%25B5%25E52.PNG",
+            "menu_name": "바베큐로스트",
+            "price": "19,400원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240905_242%2F1725501407210OdL5g_PNG%2F%25BD%25BD%25B6%25F3%25C0%25CC%25B5%25E54.PNG",
+            "menu_name": "딥간장갈릭 로스트",
+            "price": "19,400원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240905_38%2F1725501397603baqHX_PNG%2F%25BD%25BD%25B6%25F3%25C0%25CC%25B5%25E53.PNG",
+            "menu_name": "치즈칠리로스트",
+            "price": "19,900원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240905_278%2F17255014297542yk7A_PNG%2F%25BD%25BD%25B6%25F3%25C0%25CC%25B5%25E57.PNG",
+            "menu_name": "리얼마늘 로스트",
+            "price": "19,900원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240905_288%2F1725501415623vgjJ4_PNG%2F%25BD%25BD%25B6%25F3%25C0%25CC%25B5%25E55.PNG",
+            "menu_name": "트리플핫 로스트",
+            "price": "19,400원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240905_124%2F17255014225113xBd6_PNG%2F%25BD%25BD%25B6%25F3%25C0%25CC%25B5%25E56.PNG",
+            "menu_name": "마루찜닭 로스트",
+            "price": "19,900원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240620_50%2F17188588305761Nt3T_PNG%2F14_%25B9%25B0%25B9%25F0%25C0%25CC.png",
+            "menu_name": "마루물뱅이",
+            "price": "17,900원"
+        }
+    ]
+}

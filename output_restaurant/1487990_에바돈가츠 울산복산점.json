@@ -1,0 +1,284 @@
+{
+    "store_name": "에바돈가츠 울산복산점",
+    "store_location": "울산 중구 계변고개 11 1층",
+    "loc_x": "411056.299106815",
+    "loc_y": "231446.639469805",
+    "menu": [
+        {
+            "category": "대표메뉴",
+            "img_src": "",
+            "menu_name": "통모짜렐라치즈돈 도시락",
+            "price": "12,900원"
+        },
+        {
+            "category": "대표메뉴",
+            "img_src": "",
+            "menu_name": "생등심돈",
+            "price": "9,900원"
+        },
+        {
+            "category": "대표메뉴",
+            "img_src": "",
+            "menu_name": "에바떡볶이",
+            "price": "7,400원"
+        },
+        {
+            "category": "대표메뉴",
+            "img_src": "",
+            "menu_name": "생등심돈+에바우동",
+            "price": "17,900원"
+        },
+        {
+            "category": "대표메뉴",
+            "img_src": "",
+            "menu_name": "에바돈 슈퍼세트(2인)",
+            "price": "30,900원"
+        },
+        {
+            "category": "대표메뉴",
+            "img_src": "",
+            "menu_name": "매운돈",
+            "price": "11,400원"
+        },
+        {
+            "category": "에바돈 세트메뉴",
+            "img_src": "",
+            "menu_name": "에바돈 슈퍼세트(2인)",
+            "price": "30,900원"
+        },
+        {
+            "category": "에바돈 세트메뉴",
+            "img_src": "",
+            "menu_name": "생등심돈+에바우동",
+            "price": "17,900원"
+        },
+        {
+            "category": "에바돈 세트메뉴",
+            "img_src": "",
+            "menu_name": "모짜렐라치즈돈+에바우동",
+            "price": "20,900원"
+        },
+        {
+            "category": "에바돈 세트메뉴",
+            "img_src": "",
+            "menu_name": "모짜렐라치즈돈+비빔쫄면",
+            "price": "20,900원"
+        },
+        {
+            "category": "에바돈 세트메뉴",
+            "img_src": "",
+            "menu_name": "생등심돈+비빔쫄면",
+            "price": "17,900원"
+        },
+        {
+            "category": "에바돈 세트메뉴",
+            "img_src": "",
+            "menu_name": "생등심돈+냉모밀",
+            "price": "18,400원"
+        },
+        {
+            "category": "에바돈 세트메뉴",
+            "img_src": "",
+            "menu_name": "모짜렐라치즈돈+냉모밀",
+            "price": "21,400원"
+        },
+        {
+            "category": "에바돈 세트메뉴",
+            "img_src": "",
+            "menu_name": "생등심돈+에바떡볶이",
+            "price": "17,900원"
+        },
+        {
+            "category": "에바돈 세트메뉴",
+            "img_src": "",
+            "menu_name": "모짜렐라치즈돈+에바떡볶이",
+            "price": "20,900원"
+        },
+        {
+            "category": "에바돈 돈까스류",
+            "img_src": "",
+            "menu_name": "에바돈 샘플러(모둠) 도시락",
+            "price": "18,900원"
+        },
+        {
+            "category": "에바돈 돈까스류",
+            "img_src": "",
+            "menu_name": "생등심돈",
+            "price": "9,900원"
+        },
+        {
+            "category": "에바돈 돈까스류",
+            "img_src": "",
+            "menu_name": "통모짜렐라치즈돈 도시락",
+            "price": "12,900원"
+        },
+        {
+            "category": "에바돈 돈까스류",
+            "img_src": "",
+            "menu_name": "와사비마요돈",
+            "price": "11,400원"
+        },
+        {
+            "category": "에바돈 돈까스류",
+            "img_src": "",
+            "menu_name": "로제크림돈",
+            "price": "11,900원"
+        },
+        {
+            "category": "에바돈 돈까스류",
+            "img_src": "",
+            "menu_name": "매운돈",
+            "price": "11,400원"
+        },
+        {
+            "category": "에바돈 돈까스류",
+            "img_src": "",
+            "menu_name": "카레돈",
+            "price": "11,400원"
+        },
+        {
+            "category": "에바돈 돈까스류",
+            "img_src": "",
+            "menu_name": "치킨안심돈",
+            "price": "10,900원"
+        },
+        {
+            "category": "에바돈 돈까스류",
+            "img_src": "",
+            "menu_name": "생선가츠",
+            "price": "11,900원"
+        },
+        {
+            "category": "에바돈 면류",
+            "img_src": "",
+            "menu_name": "[새콤달콤] 비빔쫄면",
+            "price": "8,400원"
+        },
+        {
+            "category": "에바돈 면류",
+            "img_src": "",
+            "menu_name": "에바우동",
+            "price": "8,400원"
+        },
+        {
+            "category": "에바돈 면류",
+            "img_src": "",
+            "menu_name": "크림카레우동",
+            "price": "10,400원"
+        },
+        {
+            "category": "에바돈 면류",
+            "img_src": "",
+            "menu_name": "어묵꼬치우동",
+            "price": "9,900원"
+        },
+        {
+            "category": "에바돈 면류",
+            "img_src": "",
+            "menu_name": "카레우동",
+            "price": "9,900원"
+        },
+        {
+            "category": "에바돈 면류",
+            "img_src": "",
+            "menu_name": "새우튀김우동",
+            "price": "9,900원"
+        },
+        {
+            "category": "에바돈 면류",
+            "img_src": "",
+            "menu_name": "얼큰우동",
+            "price": "9,400원"
+        },
+        {
+            "category": "에바돈 면류",
+            "img_src": "",
+            "menu_name": "냉모밀(계절)",
+            "price": "8,900원"
+        },
+        {
+            "category": "에바돈 면류",
+            "img_src": "",
+            "menu_name": "비빔막국수(계절)",
+            "price": "8,900원"
+        },
+        {
+            "category": "에바돈 면류",
+            "img_src": "",
+            "menu_name": "냉우동(계절)",
+            "price": "8,900원"
+        },
+        {
+            "category": "에바돈 라이스&떡볶이",
+            "img_src": "",
+            "menu_name": "에바떡볶이",
+            "price": "7,400원"
+        },
+        {
+            "category": "에바돈 라이스&떡볶이",
+            "img_src": "",
+            "menu_name": "로제떡볶이",
+            "price": "8,400원"
+        },
+        {
+            "category": "추가 메뉴",
+            "img_src": "",
+            "menu_name": "공기밥",
+            "price": "1,000원"
+        },
+        {
+            "category": "추가 메뉴",
+            "img_src": "",
+            "menu_name": "샐러드 추가",
+            "price": "1,000원"
+        },
+        {
+            "category": "추가 메뉴",
+            "img_src": "",
+            "menu_name": "새우튀김",
+            "price": "2,000원"
+        },
+        {
+            "category": "음료",
+            "img_src": "",
+            "menu_name": "펩시콜라(355ml)",
+            "price": "2,000원"
+        },
+        {
+            "category": "음료",
+            "img_src": "",
+            "menu_name": "칠성사이다(355ml)",
+            "price": "2,000원"
+        },
+        {
+            "category": "음료",
+            "img_src": "",
+            "menu_name": "탐스제로(355ml)",
+            "price": "2,000원"
+        },
+        {
+            "category": "소스추가",
+            "img_src": "",
+            "menu_name": "매운소스",
+            "price": "2,000원"
+        },
+        {
+            "category": "소스추가",
+            "img_src": "",
+            "menu_name": "카레소스",
+            "price": "2,000원"
+        },
+        {
+            "category": "소스추가",
+            "img_src": "",
+            "menu_name": "와사비마요소스",
+            "price": "2,000원"
+        },
+        {
+            "category": "소스추가",
+            "img_src": "",
+            "menu_name": "로제크림소스",
+            "price": "2,500원"
+        }
+    ]
+}

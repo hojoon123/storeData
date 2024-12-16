@@ -1,0 +1,716 @@
+{
+    "store_name": "달빛과일 정자점",
+    "store_location": "경기 성남시 분당구 백현로156번길 7-8 1층 달빛과일",
+    "loc_x": "210133.54",
+    "loc_y": "429952.61",
+    "menu": [
+        {
+            "category": "대표메뉴",
+            "img_src": "",
+            "menu_name": "황제 태국 망고 (항공 직송)(1개)",
+            "price": "14,800원"
+        },
+        {
+            "category": "대표메뉴",
+            "img_src": "",
+            "menu_name": "고랭지 참꿀 수박(300g)",
+            "price": "13,500원"
+        },
+        {
+            "category": "대표메뉴",
+            "img_src": "",
+            "menu_name": "고랭지 참꿀 수박(600g)",
+            "price": "26,000원"
+        },
+        {
+            "category": "대표메뉴",
+            "img_src": "",
+            "menu_name": "땡모반 100% 수박 쥬스(500ml)",
+            "price": "7,000원"
+        },
+        {
+            "category": "대표메뉴",
+            "img_src": "",
+            "menu_name": "NEW 고당도 겨울세지 메론(반통(약350g))",
+            "price": "17,500원"
+        },
+        {
+            "category": "대표메뉴",
+            "img_src": "",
+            "menu_name": "NEW 고당도 겨울세지 메론(500g)",
+            "price": "23,000원"
+        },
+        {
+            "category": "이번주 달빛추천과일~",
+            "img_src": "",
+            "menu_name": "NEW 고당도 겨울세지 메론(반통(약350g))",
+            "price": "17,500원"
+        },
+        {
+            "category": "이번주 달빛추천과일~",
+            "img_src": "",
+            "menu_name": "NEW 고당도 겨울세지 메론(500g)",
+            "price": "23,000원"
+        },
+        {
+            "category": "이번주 달빛추천과일~",
+            "img_src": "",
+            "menu_name": "New 설향 딸기(200g)",
+            "price": "18,000원"
+        },
+        {
+            "category": "이번주 달빛추천과일~",
+            "img_src": "",
+            "menu_name": "New 설향 딸기(350g)",
+            "price": "29,000원"
+        },
+        {
+            "category": "대표메뉴",
+            "img_src": "",
+            "menu_name": "화이트 생과일 화채",
+            "price": "22,500원"
+        },
+        {
+            "category": "대표메뉴",
+            "img_src": "",
+            "menu_name": "스테비아 단마토(250g)",
+            "price": "7,500원"
+        },
+        {
+            "category": "대표메뉴",
+            "img_src": "",
+            "menu_name": "스테비아 단마토(500g)",
+            "price": "14,000원"
+        },
+        {
+            "category": "대표메뉴",
+            "img_src": "",
+            "menu_name": "황제 태국 망고 (항공 직송)(1개)",
+            "price": "14,800원"
+        },
+        {
+            "category": "대표메뉴",
+            "img_src": "",
+            "menu_name": "고랭지 참꿀 수박(300g)",
+            "price": "13,500원"
+        },
+        {
+            "category": "대표메뉴",
+            "img_src": "",
+            "menu_name": "고랭지 참꿀 수박(600g)",
+            "price": "26,000원"
+        },
+        {
+            "category": "대표메뉴",
+            "img_src": "",
+            "menu_name": "NEW 고당도 겨울세지 메론(350g)",
+            "price": "17,500원"
+        },
+        {
+            "category": "대표메뉴",
+            "img_src": "",
+            "menu_name": "NEW 고당도 겨울세지 메론(500g)",
+            "price": "23,000원"
+        },
+        {
+            "category": "대표메뉴",
+            "img_src": "",
+            "menu_name": "6종 생과일 도시락",
+            "price": "13,900원"
+        },
+        {
+            "category": "대표메뉴",
+            "img_src": "",
+            "menu_name": "떡볶이(1인분)",
+            "price": "6,000원"
+        },
+        {
+            "category": "내맘대로 반반 & 3구 도시락",
+            "img_src": "",
+            "menu_name": "3구 도시락",
+            "price": "10,000원"
+        },
+        {
+            "category": "내맘대로 반반 & 3구 도시락",
+            "img_src": "",
+            "menu_name": "내맘대로 반반 도시락(1팩)",
+            "price": "8,300원"
+        },
+        {
+            "category": "스테비아 오총사",
+            "img_src": "",
+            "menu_name": "스테비아 감자(300g)",
+            "price": "7,500원"
+        },
+        {
+            "category": "과 일",
+            "img_src": "",
+            "menu_name": "NEW 명품 나주 원황배(대과,햇배)(1개)",
+            "price": "9,500원"
+        },
+        {
+            "category": "과 일",
+            "img_src": "",
+            "menu_name": "NEW 명품 나주 원황배(대과,햇배)(2개)",
+            "price": "17,500원"
+        },
+        {
+            "category": "과 일",
+            "img_src": "",
+            "menu_name": "NEW 태추 단감(1개 컷팅)",
+            "price": "5,000원"
+        },
+        {
+            "category": "과 일",
+            "img_src": "",
+            "menu_name": "NEW 태추 단감(2개 컷팅)",
+            "price": "8,500원"
+        },
+        {
+            "category": "과 일",
+            "img_src": "",
+            "menu_name": "NEW 고당도 애플망고(페루산)(대과 1개)",
+            "price": "17,800원"
+        },
+        {
+            "category": "과 일",
+            "img_src": "",
+            "menu_name": "[ 달빛 과일 ] 프리미엄 샤인 머스킷(250g)",
+            "price": "8,000원"
+        },
+        {
+            "category": "과 일",
+            "img_src": "",
+            "menu_name": "[ 달빛 과일 ] 프리미엄 샤인 머스킷(500g)",
+            "price": "15,000원"
+        },
+        {
+            "category": "과 일",
+            "img_src": "",
+            "menu_name": "생과일 도시락",
+            "price": "13,900원"
+        },
+        {
+            "category": "과 일",
+            "img_src": "",
+            "menu_name": "프리미엄 제주골드키위(제스프리)(3개컷팅)",
+            "price": "10,000원"
+        },
+        {
+            "category": "과 일",
+            "img_src": "",
+            "menu_name": "고당도 허니글로우 파인애플(250g)",
+            "price": "8,000원"
+        },
+        {
+            "category": "과 일",
+            "img_src": "",
+            "menu_name": "고당도 허니글로우 파인애플(500g)",
+            "price": "15,000원"
+        },
+        {
+            "category": "과 일",
+            "img_src": "",
+            "menu_name": "퓨어스팩 블랙라벨 오렌지(2개 컷팅)",
+            "price": "7,500원"
+        },
+        {
+            "category": "과 일",
+            "img_src": "",
+            "menu_name": "퓨어스팩 블랙라벨 오렌지(4개 컷팅)",
+            "price": "14,000원"
+        },
+        {
+            "category": "과 일",
+            "img_src": "",
+            "menu_name": "레드자몽 남아공(1개 컷팅(대))",
+            "price": "5,000원"
+        },
+        {
+            "category": "과 일",
+            "img_src": "",
+            "menu_name": "용과(1개 컷팅)",
+            "price": "8,000원"
+        },
+        {
+            "category": "과 일",
+            "img_src": "",
+            "menu_name": "용과(2개 컷팅)",
+            "price": "15,500원"
+        },
+        {
+            "category": "과 일",
+            "img_src": "",
+            "menu_name": "프리미엄 레드 용과(1개 컷팅)",
+            "price": "10,500원"
+        },
+        {
+            "category": "과 일",
+            "img_src": "",
+            "menu_name": "프리미엄 레드 용과(2개 컷팅)",
+            "price": "18,500원"
+        },
+        {
+            "category": "과 일",
+            "img_src": "",
+            "menu_name": "애플청포도(300g)",
+            "price": "10,000원"
+        },
+        {
+            "category": "과 일",
+            "img_src": "",
+            "menu_name": "애플청포도(600g)",
+            "price": "19,500원"
+        },
+        {
+            "category": "과 일",
+            "img_src": "",
+            "menu_name": "블루베리(100g)",
+            "price": "9,000원"
+        },
+        {
+            "category": "과 일",
+            "img_src": "",
+            "menu_name": "프리미엄 다이아몬드 체리(200g)",
+            "price": "13,500원"
+        },
+        {
+            "category": "과 일",
+            "img_src": "",
+            "menu_name": "NEW 프리미엄 루비향 귤(소원홍) 6개 소과(6알)",
+            "price": "11,000원"
+        },
+        {
+            "category": "과 일",
+            "img_src": "",
+            "menu_name": "New 석류(200g)",
+            "price": "12,000원"
+        },
+        {
+            "category": "과 일",
+            "img_src": "",
+            "menu_name": "레드자몽 남아공(1개 컷팅(대))",
+            "price": "5,000원"
+        },
+        {
+            "category": "[ 달빛 ] 눈꽃 빙수",
+            "img_src": "",
+            "menu_name": "NEW) 눈꽃 생딸기 크림치즈 빙수",
+            "price": "23,000원"
+        },
+        {
+            "category": "[ 달빛 ] 눈꽃 빙수",
+            "img_src": "",
+            "menu_name": "생망고 크림치즈 빙수(생망고)",
+            "price": "19,800원"
+        },
+        {
+            "category": "[ 달빛 ] 눈꽃 빙수",
+            "img_src": "",
+            "menu_name": "메론 빙수",
+            "price": "17,500원"
+        },
+        {
+            "category": "[ 달빛 ] 눈꽃 빙수",
+            "img_src": "",
+            "menu_name": "자몽 빙수",
+            "price": "13,500원"
+        },
+        {
+            "category": "[ 달빛 ] 눈꽃 빙수",
+            "img_src": "",
+            "menu_name": "후르츠 빙수 (달빛 최고 인기메뉴)",
+            "price": "15,800원"
+        },
+        {
+            "category": "[ 달빛 ] 눈꽃 빙수",
+            "img_src": "",
+            "menu_name": "로터스 빙수",
+            "price": "12,000원"
+        },
+        {
+            "category": "[ 달빛 ] 눈꽃 빙수",
+            "img_src": "",
+            "menu_name": "리얼 팥 빙수",
+            "price": "12,800원"
+        },
+        {
+            "category": "[ 달빛 ] 눈꽃 빙수",
+            "img_src": "",
+            "menu_name": "블루베리 크림치즈 빙수(냉동블루베리)",
+            "price": "13,500원"
+        },
+        {
+            "category": "[ 달빛 ] 눈꽃 빙수",
+            "img_src": "",
+            "menu_name": "리얼브라우니 초코 빙수",
+            "price": "13,800원"
+        },
+        {
+            "category": "[ 달빛 ] 눈꽃 빙수",
+            "img_src": "",
+            "menu_name": "고구마 빙수",
+            "price": "13,800원"
+        },
+        {
+            "category": "화 채",
+            "img_src": "",
+            "menu_name": "화이트 생과일 화채 ( 과일 안주 )",
+            "price": "22,500원"
+        },
+        {
+            "category": "화 채",
+            "img_src": "",
+            "menu_name": "핑크 생과일 화채 ( 과일 안주 )",
+            "price": "22,500원"
+        },
+        {
+            "category": "화 채",
+            "img_src": "",
+            "menu_name": "화이트 생과일 화채(1인용)(1인분)",
+            "price": "14,800원"
+        },
+        {
+            "category": "화 채",
+            "img_src": "",
+            "menu_name": "핑크 생과일 화채(1인용)(1인분)",
+            "price": "14,800원"
+        },
+        {
+            "category": "과일 쥬스",
+            "img_src": "",
+            "menu_name": "땡모반 100% 수박 쥬스(500ml)",
+            "price": "7,000원"
+        },
+        {
+            "category": "과일 쥬스",
+            "img_src": "",
+            "menu_name": "딸바 쥬스(500ml)",
+            "price": "6,500원"
+        },
+        {
+            "category": "과일 쥬스",
+            "img_src": "",
+            "menu_name": "파인애플 주스(500ml)",
+            "price": "6,800원"
+        },
+        {
+            "category": "과일 쥬스",
+            "img_src": "",
+            "menu_name": "통째로 오렌지 100% 주스(500ml)",
+            "price": "6,800원"
+        },
+        {
+            "category": "과일 쥬스",
+            "img_src": "",
+            "menu_name": "유기농 케일 100% 건강 주스 with 파인(500ml)",
+            "price": "6,500원"
+        },
+        {
+            "category": "과일 쥬스",
+            "img_src": "",
+            "menu_name": "유기농 케일 100% 건강 주스 with 애플(500ml)",
+            "price": "6,500원"
+        },
+        {
+            "category": "사이드 메뉴",
+            "img_src": "",
+            "menu_name": "NEW 군밤이 왔어요(1컵(약200g))",
+            "price": "6,900원"
+        },
+        {
+            "category": "사이드 메뉴",
+            "img_src": "",
+            "menu_name": "신선한원유로 만든 생요거트볼 with 그래놀라 & 허니(플레인 요거트)",
+            "price": "4,300원"
+        },
+        {
+            "category": "사이드 메뉴",
+            "img_src": "",
+            "menu_name": "플레인 수제 그릭 요거트(무가당, 무첨가)(그릭 요거트)",
+            "price": "4,500원"
+        },
+        {
+            "category": "사이드 메뉴",
+            "img_src": "",
+            "menu_name": "호텔 파티쉐가 직접 만든 리얼 꾸덕 수제 브라우니(1개)",
+            "price": "4,500원"
+        },
+        {
+            "category": "사이드 메뉴",
+            "img_src": "",
+            "menu_name": "호텔 파티쉐가 직접 만든 리얼순수100% 생크림 스콘(1개)",
+            "price": "4,000원"
+        },
+        {
+            "category": "사이드 메뉴",
+            "img_src": "",
+            "menu_name": "호텔 파티쉐가 직접 만든 유로 스타일 정통 호두파이(1개)",
+            "price": "3,500원"
+        },
+        {
+            "category": "사이드 메뉴",
+            "img_src": "",
+            "menu_name": "마로니에(NO밀가루) (추천)(1개)",
+            "price": "4,800원"
+        },
+        {
+            "category": "사이드 메뉴",
+            "img_src": "",
+            "menu_name": "마로니에(NO밀가루) (추천)(마로니에+아메)",
+            "price": "7,000원"
+        },
+        {
+            "category": "커피커피",
+            "img_src": "",
+            "menu_name": "콜드브루 아메리카노(500ml)",
+            "price": "3,500원"
+        },
+        {
+            "category": "커피커피",
+            "img_src": "",
+            "menu_name": "콜드브루 라떼(500ml)",
+            "price": "4,000원"
+        },
+        {
+            "category": "라떼라떼",
+            "img_src": "",
+            "menu_name": "녹차라떼 ICE(500ml)",
+            "price": "5,000원"
+        },
+        {
+            "category": "라떼라떼",
+            "img_src": "",
+            "menu_name": "초코라떼 ICE(500ml)",
+            "price": "5,000원"
+        },
+        {
+            "category": "라떼라떼",
+            "img_src": "",
+            "menu_name": "단호박라떼 ICE(500ml)",
+            "price": "5,500원"
+        },
+        {
+            "category": "라떼라떼",
+            "img_src": "",
+            "menu_name": "고구마라떼(ice)",
+            "price": "5,500원"
+        },
+        {
+            "category": "라떼라떼",
+            "img_src": "",
+            "menu_name": "쑥쑥라떼",
+            "price": "5,000원"
+        },
+        {
+            "category": "라떼라떼",
+            "img_src": "",
+            "menu_name": "흑임자라떼(ice)",
+            "price": "5,000원"
+        },
+        {
+            "category": "라떼라떼",
+            "img_src": "",
+            "menu_name": "고구마라떼 ICE(500ml)",
+            "price": "5,500원"
+        },
+        {
+            "category": "라떼라떼",
+            "img_src": "",
+            "menu_name": "미숫가루라떼 ICE(500ml)",
+            "price": "6,000원"
+        },
+        {
+            "category": "에이드",
+            "img_src": "",
+            "menu_name": "레몬에이드(500ml)",
+            "price": "5,500원"
+        },
+        {
+            "category": "에이드",
+            "img_src": "",
+            "menu_name": "블루레몬에이드(500ml)",
+            "price": "6,000원"
+        },
+        {
+            "category": "에이드",
+            "img_src": "",
+            "menu_name": "자몽에이드",
+            "price": "6,000원"
+        },
+        {
+            "category": "에이드",
+            "img_src": "",
+            "menu_name": "유자에이드",
+            "price": "5,500원"
+        },
+        {
+            "category": "에이드",
+            "img_src": "",
+            "menu_name": "히비스커스 에이드",
+            "price": "5,500원"
+        },
+        {
+            "category": "스무디",
+            "img_src": "",
+            "menu_name": "요거트 스무디(500ml)",
+            "price": "5,000원"
+        },
+        {
+            "category": "스무디",
+            "img_src": "",
+            "menu_name": "녹차 스무디(500ml)",
+            "price": "5,000원"
+        },
+        {
+            "category": "스무디",
+            "img_src": "",
+            "menu_name": "초코 스무디(500ml)",
+            "price": "5,000원"
+        },
+        {
+            "category": "허브차",
+            "img_src": "",
+            "menu_name": "카모마일 티(ice)",
+            "price": "4,000원"
+        },
+        {
+            "category": "허브차",
+            "img_src": "",
+            "menu_name": "페퍼민트 티(ice)",
+            "price": "4,000원"
+        },
+        {
+            "category": "허브차",
+            "img_src": "",
+            "menu_name": "자몽블랙티 ICE(500ml)",
+            "price": "5,500원"
+        },
+        {
+            "category": "허브차",
+            "img_src": "",
+            "menu_name": "레몬허브차 ICE(500ml)",
+            "price": "5,500원"
+        },
+        {
+            "category": "허브차",
+            "img_src": "",
+            "menu_name": "유자허브차 ICE(500ml)",
+            "price": "5,500원"
+        },
+        {
+            "category": "허브차",
+            "img_src": "",
+            "menu_name": "히비스커스",
+            "price": "5,000원"
+        },
+        {
+            "category": "떡볶이 앤 볶음밥",
+            "img_src": "",
+            "menu_name": "로제떡볶이(1인분)",
+            "price": "6,500원"
+        },
+        {
+            "category": "떡볶이 앤 볶음밥",
+            "img_src": "",
+            "menu_name": "새우볶음밥(1인분)",
+            "price": "6,500원"
+        },
+        {
+            "category": "떡볶이 앤 볶음밥",
+            "img_src": "",
+            "menu_name": "낙지볶음밥(1인분)",
+            "price": "6,500원"
+        },
+        {
+            "category": "떡볶이 앤 볶음밥",
+            "img_src": "",
+            "menu_name": "달빛 최강 가성비 스팸 김치 볶음밥(1인분)",
+            "price": "6,800원"
+        },
+        {
+            "category": "단체주문",
+            "img_src": "",
+            "menu_name": "작은(9온즈) 컵과일 10개(10개)",
+            "price": "50,000원"
+        },
+        {
+            "category": "단체주문",
+            "img_src": "",
+            "menu_name": "작은(9온즈) 컵과일 10개(20개)",
+            "price": "100,000원"
+        },
+        {
+            "category": "단체주문",
+            "img_src": "",
+            "menu_name": "큰(14온즈) 컵과일 10개(10개)",
+            "price": "65,000원"
+        },
+        {
+            "category": "단체주문",
+            "img_src": "",
+            "menu_name": "큰(14온즈) 컵과일 10개(20개)",
+            "price": "130,000원"
+        },
+        {
+            "category": "단체주문",
+            "img_src": "",
+            "menu_name": "샌드위치+과일(10개)",
+            "price": "100,000원"
+        },
+        {
+            "category": "단체주문",
+            "img_src": "",
+            "menu_name": "떡+과일(10개)",
+            "price": "100,000원"
+        },
+        {
+            "category": "간식",
+            "img_src": "",
+            "menu_name": "고구마맛탕",
+            "price": "6,900원"
+        },
+        {
+            "category": "간식",
+            "img_src": "",
+            "menu_name": "고로케(감자고로케4개)",
+            "price": "5,900원"
+        },
+        {
+            "category": "간식",
+            "img_src": "",
+            "menu_name": "고로케(야채고로케4개)",
+            "price": "5,900원"
+        },
+        {
+            "category": "간식",
+            "img_src": "",
+            "menu_name": "고로케(치즈고로케4개)",
+            "price": "7,500원"
+        },
+        {
+            "category": "간식",
+            "img_src": "",
+            "menu_name": "리얼 수제 카이막(기본세트)",
+            "price": "8,900원"
+        },
+        {
+            "category": "간식",
+            "img_src": "",
+            "menu_name": "리얼 수제 카이막(기본+아메리카노ice)",
+            "price": "10,900원"
+        },
+        {
+            "category": "간식",
+            "img_src": "",
+            "menu_name": "타코야끼(8개)",
+            "price": "5,900원"
+        },
+        {
+            "category": "간식",
+            "img_src": "",
+            "menu_name": "동동식혜(500ml)",
+            "price": "4,500원"
+        }
+    ]
+}

@@ -1,0 +1,14 @@
+{
+    "store_name": "맛있는한우양곱창",
+    "store_location": "경남 창원시 마산합포구 진동면 진북산업로 39 1층",
+    "loc_x": "335556.087911701",
+    "loc_y": "181065.734040287",
+    "menu": [
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241215_95%2F17342666231195cpy2_JPEG%2F1000013754.jpg",
+            "menu_name": "점심특선 솥밥정식",
+            "price": "12,000원"
+        }
+    ]
+}

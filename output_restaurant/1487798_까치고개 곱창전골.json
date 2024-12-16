@@ -1,0 +1,14 @@
+{
+    "store_name": "까치고개 곱창전골",
+    "store_location": "경기 화성시 양감면 초록로 720-3 까치고개 곱창전골",
+    "loc_x": "198105.77032258",
+    "loc_y": "401441.261943539",
+    "menu": [
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20231105_36%2F1699156738633tGzH0_JPEG%2FIMG_6098.jpeg",
+            "menu_name": "소곱창전골",
+            "price": "40,000원"
+        }
+    ]
+}

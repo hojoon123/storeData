@@ -1,0 +1,26 @@
+{
+    "store_name": "감자려인식이",
+    "store_location": "강원 강릉시 하평4길 48 1층",
+    "loc_x": "368638.717159003",
+    "loc_y": "476272.858841488",
+    "menu": [
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241129_179%2F1732882986054OiaPb_JPEG%2F1000011517.jpg",
+            "menu_name": "오늘의 안주",
+            "price": "20,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241129_57%2F1732882943792xn6g3_JPEG%2F1000011506.jpg",
+            "menu_name": "콩당콩당(비건식)",
+            "price": "13,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241129_153%2F1732857571352Gvhie_JPEG%2F1000011508.jpg",
+            "menu_name": "오늘의 한상",
+            "price": "12,000원"
+        }
+    ]
+}

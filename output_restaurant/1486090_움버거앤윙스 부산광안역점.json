@@ -1,0 +1,14 @@
+{
+    "store_name": "움버거앤윙스 부산광안역점",
+    "store_location": "부산 수영구 수영로582번길 10 1층 107호",
+    "loc_x": "392521.124782678",
+    "loc_y": "186295.139961861",
+    "menu": [
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241206_127%2F1733459079570fnPeb_JPEG%2FnE0cwG5J_d3Eao_nU0p2-jfc0CNSobdMDh7RgMuXrFQwDGB1zUYlyPZh0bBpMUW6.jpg",
+            "menu_name": "버거 오리지널",
+            "price": "4,800원"
+        }
+    ]
+}

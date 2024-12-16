@@ -1,0 +1,98 @@
+{
+    "store_name": "정직유부 진주호탄점",
+    "store_location": "경남 진주시 가호로 57 1층",
+    "loc_x": "301279.830539285",
+    "loc_y": "185565.975209189",
+    "menu": [
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20231201_120%2F1701388890533hkJlJ_JPEG%2F%25BD%25C3%25B1%25D7%25B4%25CF%25C3%25B38%25C1%25BE%25B8%25F0%25B5%25D2%25BC%25BC%25C6%25AE.jpg",
+            "menu_name": "시그니처8종 모둠세트",
+            "price": "12,500원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241125_221%2F1732500463326wGTHH_JPEG%2F%25C3%25BB%25BE%25E7%25B8%25B6%25BF%25E4.jpg",
+            "menu_name": "청양마요 4P",
+            "price": "5,600원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241125_167%2F17325007216249oiOQ_JPEG%2F%25BE%25EE%25B9%25AC%25BF%25EC%25B5%25BF.jpg",
+            "menu_name": "어묵우동",
+            "price": "6,500원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241125_204%2F1732500694576PLPNV_JPEG%2F%25BE%25EE%25B9%25AC%25C5%25C1.jpg",
+            "menu_name": "어묵탕",
+            "price": "4,500원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20231201_278%2F1701389052684C5eBl_JPEG%2F230714_%25B3%25D7%25C0%25CC%25B9%25F6%25C7%25C3%25B7%25B9%25C0%25CC%25BD%25BA_%25B8%25DE%25B4%25BA%25C0%25CC%25B9%25CC%25C1%25F6-18.jpg",
+            "menu_name": "정직우볶이",
+            "price": "3,900원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20231201_243%2F1701388919350h1p5f_JPEG%2F230714_%25B3%25D7%25C0%25CC%25B9%25F6%25C7%25C3%25B7%25B9%25C0%25CC%25BD%25BA_%25B8%25DE%25B4%25BA%25C0%25CC%25B9%25CC%25C1%25F6-13.jpg",
+            "menu_name": "순두부우동",
+            "price": "6,200원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20231201_103%2F1701388949909w7Fgm_JPEG%2F%25B4%25DE%25B0%25F5%25C5%25C1%25BF%25EC%25B5%25BF.jpg",
+            "menu_name": "닭곰탕우동",
+            "price": "6,200원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20231201_212%2F1701388906114ol2ct_JPEG%2F%25C1%25A4%25C1%25F7.jpg",
+            "menu_name": "정직유부",
+            "price": "4,500원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240604_239%2F17174592736113nPJ4_JPEG%2F%25B8%25E9%2529%25BA%25F1%25BA%25F6%25B8%25B7%25B1%25B9%25BC%25F6.jpg",
+            "menu_name": "비빔막국수",
+            "price": "6,500원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20231201_46%2F17013892504912e2Lp_JPEG%2F230714_%25B3%25D7%25C0%25CC%25B9%25F6%25C7%25C3%25B7%25B9%25C0%25CC%25BD%25BA_%25B8%25DE%25B4%25BA%25C0%25CC%25B9%25CC%25C1%25F6-11.jpg",
+            "menu_name": "정직냉모밀",
+            "price": "6,500원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20231201_255%2F17013891750903ecbH_JPEG%2F230714_%25B3%25D7%25C0%25CC%25B9%25F6%25C7%25C3%25B7%25B9%25C0%25CC%25BD%25BA_%25B8%25DE%25B4%25BA%25C0%25CC%25B9%25CC%25C1%25F6-10.jpg",
+            "menu_name": "참깨초계면",
+            "price": "6,200원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240604_158%2F1717459350248dnLfB_JPEG%2F%25B8%25E9%2529%25B9%25B0%25BA%25F1%25BA%25F6%25B8%25B7%25B1%25B9%25BC%25F6.jpg",
+            "menu_name": "물비빔막국수",
+            "price": "7,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20231201_1%2F1701389013978ElK8c_JPEG%2F230714_%25B3%25D7%25C0%25CC%25B9%25F6%25C7%25C3%25B7%25B9%25C0%25CC%25BD%25BA_%25B8%25DE%25B4%25BA%25C0%25CC%25B9%25CC%25C1%25F6-12.jpg",
+            "menu_name": "삼겹비빔면",
+            "price": "5,200원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20231201_51%2F17013890286221hl41_JPEG%2F230714_%25B3%25D7%25C0%25CC%25B9%25F6%25C7%25C3%25B7%25B9%25C0%25CC%25BD%25BA_%25B8%25DE%25B4%25BA%25C0%25CC%25B9%25CC%25C1%25F6-14.jpg",
+            "menu_name": "정직우동",
+            "price": "5,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20231201_300%2F1701389065856eLdFL_JPEG%2F%25C2%25FC%25C4%25A1%25B8%25B6%25BF%25E4.jpg",
+            "menu_name": "참치마요유부",
+            "price": "5,600원"
+        }
+    ]
+}

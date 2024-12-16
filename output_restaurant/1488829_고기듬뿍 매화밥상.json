@@ -1,0 +1,92 @@
+{
+    "store_name": "고기듬뿍 매화밥상",
+    "store_location": "경기 수원시 권선구 금곡로197번길 18-73 115호",
+    "loc_x": "195938.861888323",
+    "loc_y": "419320.035757228",
+    "menu": [
+        {
+            "category": "새로 나온 메뉴",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20241112_9/1731393870771A5nWB_JPEG/%BA%B8%BD%D3.jpg?type=f220_220_60_sharpen",
+            "menu_name": "흑마늘수육정식N",
+            "price": "15,900원"
+        },
+        {
+            "category": "사장님 추천 메뉴",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20241110_42/1731201539441tFvGd_JPEG/20241029_%B4%DF%BA%D2%B0%ED%B1%E2.jpg?type=f220_220_60_sharpen",
+            "menu_name": "직화닭불고기정식매운맛1단계대표",
+            "price": "9,900원"
+        },
+        {
+            "category": "사장님 추천 메뉴",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20241112_276/1731393893358uWL39_JPEG/%B0%A1%C0%DA%B9%CC.jpg?type=f220_220_60_sharpen",
+            "menu_name": "생선구이정식대표",
+            "price": "11,900원"
+        },
+        {
+            "category": "사장님 추천 메뉴",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20241112_135/1731393854305gqdh8_JPEG/%BC%D2%BA%D2%B0%ED%B1%E2.jpg?type=f220_220_60_sharpen",
+            "menu_name": "직화소불고기 정식대표",
+            "price": "13,900원"
+        },
+        {
+            "category": "사장님 추천 메뉴",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20241112_87/17313939225873yEs9_JPEG/%C1%A6%C0%B0.jpg?type=f220_220_60_sharpen",
+            "menu_name": "직화제육볶음정식매운맛1단계대표",
+            "price": "9,900원"
+        },
+        {
+            "category": "사장님 추천 메뉴",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20241110_199/17312015695985QMaC_JPEG/KakaoTalk_20241110_100541999_03.jpg?type=f220_220_60_sharpen",
+            "menu_name": "영주한우모듬 600g대표",
+            "price": "79,000원"
+        },
+        {
+            "category": "사장님 추천 메뉴",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20241110_289/1731201627946OXlde_JPEG/KakaoTalk_20241110_100541999_04.jpg?type=f220_220_60_sharpen",
+            "menu_name": "보성녹돈대표",
+            "price": "16,000원"
+        },
+        {
+            "category": "한우, 삼겹살",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20241110_289/1731201627946OXlde_JPEG/KakaoTalk_20241110_100541999_04.jpg?type=f220_220_60_sharpen",
+            "menu_name": "보성녹돈대표",
+            "price": "16,000원"
+        },
+        {
+            "category": "한우, 삼겹살",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20241110_199/17312015695985QMaC_JPEG/KakaoTalk_20241110_100541999_03.jpg?type=f220_220_60_sharpen",
+            "menu_name": "영주한우모듬 600g대표",
+            "price": "79,000원"
+        },
+        {
+            "category": "점심세트, 저녁세트",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20241112_9/1731393870771A5nWB_JPEG/%BA%B8%BD%D3.jpg?type=f220_220_60_sharpen",
+            "menu_name": "흑마늘수육정식N",
+            "price": "15,900원"
+        },
+        {
+            "category": "점심세트, 저녁세트",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20241112_276/1731393893358uWL39_JPEG/%B0%A1%C0%DA%B9%CC.jpg?type=f220_220_60_sharpen",
+            "menu_name": "생선구이정식대표",
+            "price": "11,900원"
+        },
+        {
+            "category": "점심세트, 저녁세트",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20241112_135/1731393854305gqdh8_JPEG/%BC%D2%BA%D2%B0%ED%B1%E2.jpg?type=f220_220_60_sharpen",
+            "menu_name": "직화소불고기 정식대표",
+            "price": "13,900원"
+        },
+        {
+            "category": "점심세트, 저녁세트",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20241112_87/17313939225873yEs9_JPEG/%C1%A6%C0%B0.jpg?type=f220_220_60_sharpen",
+            "menu_name": "직화제육볶음정식매운맛1단계대표",
+            "price": "9,900원"
+        },
+        {
+            "category": "점심세트, 저녁세트",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20241110_42/1731201539441tFvGd_JPEG/20241029_%B4%DF%BA%D2%B0%ED%B1%E2.jpg?type=f220_220_60_sharpen",
+            "menu_name": "직화닭불고기정식매운맛1단계대표",
+            "price": "9,900원"
+        }
+    ]
+}

@@ -1,0 +1,104 @@
+{
+    "store_name": "오늘,김치찌개",
+    "store_location": "경기 용인시 처인구 모현읍 백옥대로 2100 1층",
+    "loc_x": "221296.059166902",
+    "loc_y": "423393.547578917",
+    "menu": [
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241206_55%2F1733466141471A1rno_JPEG%2F1000011289.jpg",
+            "menu_name": "오늘,김치찌개",
+            "price": "10,000원"
+        },
+        {
+            "category": "",
+            "img_src": "",
+            "menu_name": "오늘,꽁치찌개",
+            "price": "11,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241206_14%2F1733466338338EGn9Y_JPEG%2F1000011293.jpg",
+            "menu_name": "오늘,생김치수육",
+            "price": "15,000원"
+        },
+        {
+            "category": "",
+            "img_src": "",
+            "menu_name": "옛날계란말이",
+            "price": "8,000원"
+        },
+        {
+            "category": "",
+            "img_src": "",
+            "menu_name": "꼬마돈까스",
+            "price": "7,000원"
+        },
+        {
+            "category": "",
+            "img_src": "",
+            "menu_name": "옛날소세지",
+            "price": "6,000원"
+        },
+        {
+            "category": "",
+            "img_src": "",
+            "menu_name": "찌개고기추가",
+            "price": "5,000원"
+        },
+        {
+            "category": "",
+            "img_src": "",
+            "menu_name": "생김치추가",
+            "price": "5,000원"
+        },
+        {
+            "category": "",
+            "img_src": "",
+            "menu_name": "라면사리",
+            "price": "1,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241206_249%2F1733466442973Vrbw9_JPEG%2F1000011283.jpg",
+            "menu_name": "수제소세지&스팸사리",
+            "price": "6,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241206_230%2F1733466534447oXhrg_JPEG%2Ftemp_picture.jpg",
+            "menu_name": "두부사리",
+            "price": "2,000원"
+        },
+        {
+            "category": "",
+            "img_src": "",
+            "menu_name": "계란후라이",
+            "price": "1,000원"
+        },
+        {
+            "category": "",
+            "img_src": "",
+            "menu_name": "하이볼",
+            "price": "8,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241206_170%2F1733466754951S2d1K_JPEG%2F1000011282.jpg",
+            "menu_name": "잔와인",
+            "price": "8,000원"
+        },
+        {
+            "category": "",
+            "img_src": "",
+            "menu_name": "소주/맥주/막걸리",
+            "price": "5,000원"
+        },
+        {
+            "category": "",
+            "img_src": "",
+            "menu_name": "음료",
+            "price": "2,000원"
+        }
+    ]
+}

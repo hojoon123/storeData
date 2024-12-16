@@ -1,0 +1,128 @@
+{
+    "store_name": "정씨네",
+    "store_location": "경기 양평군 용문면 용문로 418 1층",
+    "loc_x": "252867.311528887",
+    "loc_y": "443041.870827376",
+    "menu": [
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241204_59%2F1733286790008Brxkk_JPEG%2FKakaoTalk_Photo_2024-12-04-13-24-06_01_.jpg",
+            "menu_name": "소 갈비살",
+            "price": "16,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241204_297%2F1733286761422JTOOJ_JPEG%2FKakaoTalk_Photo_2024-12-04-13-24-06_02_.jpg",
+            "menu_name": "소 안창살",
+            "price": "16,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241204_117%2F1733286740588vuYK4_JPEG%2FKakaoTalk_Photo_2024-12-04-13-24-07_03_.jpg",
+            "menu_name": "소 막창",
+            "price": "15,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241204_258%2F1733286664494Kd5Xs_JPEG%2FKakaoTalk_Photo_2024-12-04-13-24-07_05_.jpg",
+            "menu_name": "삼겹살",
+            "price": "15,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241204_299%2F1733286377288zCESc_JPEG%2FKakaoTalk_Photo_2024-12-04-13-24-08_08_.jpg",
+            "menu_name": "껍데기(1장)",
+            "price": "8,000원"
+        },
+        {
+            "category": "",
+            "img_src": "",
+            "menu_name": "냉면(물,비빔)",
+            "price": "6,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241204_57%2F1733286702701IpyVl_JPEG%2FKakaoTalk_Photo_2024-12-04-13-24-07_04_.jpg",
+            "menu_name": "돼지 왕 갈비",
+            "price": "15,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241204_20%2F1733286632897wL04O_JPEG%2FKakaoTalk_Photo_2024-12-04-13-24-08_06_.jpg",
+            "menu_name": "항정살",
+            "price": "15,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241204_221%2F1733286610727agTa4_JPEG%2FKakaoTalk_Photo_2024-12-04-13-24-08_07_.jpg",
+            "menu_name": "목살",
+            "price": "15,000원"
+        },
+        {
+            "category": "",
+            "img_src": "",
+            "menu_name": "된장찌개",
+            "price": "2,000원"
+        },
+        {
+            "category": "",
+            "img_src": "",
+            "menu_name": "계란찜",
+            "price": "5,000원"
+        },
+        {
+            "category": "",
+            "img_src": "",
+            "menu_name": "새송이버섯",
+            "price": "1,000원"
+        },
+        {
+            "category": "",
+            "img_src": "",
+            "menu_name": "얼큰/차돌라면",
+            "price": "5,000원"
+        },
+        {
+            "category": "",
+            "img_src": "",
+            "menu_name": "공깃밥",
+            "price": "1,000원"
+        },
+        {
+            "category": "",
+            "img_src": "",
+            "menu_name": "소주",
+            "price": "4,000원"
+        },
+        {
+            "category": "",
+            "img_src": "",
+            "menu_name": "맥주",
+            "price": "4,000원"
+        },
+        {
+            "category": "",
+            "img_src": "",
+            "menu_name": "막걸리",
+            "price": "4,000원"
+        },
+        {
+            "category": "",
+            "img_src": "",
+            "menu_name": "청하",
+            "price": "5,000원"
+        },
+        {
+            "category": "",
+            "img_src": "",
+            "menu_name": "복분자",
+            "price": "13,000원"
+        },
+        {
+            "category": "",
+            "img_src": "",
+            "menu_name": "음료수",
+            "price": "2,000원"
+        }
+    ]
+}

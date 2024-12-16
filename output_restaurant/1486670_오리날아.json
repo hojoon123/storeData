@@ -1,0 +1,50 @@
+{
+    "store_name": "오리날아",
+    "store_location": "충북 청주시 상당구 용정로12번길 3 1층 오리날아",
+    "loc_x": "246035.869374775",
+    "loc_y": "347640.018557562",
+    "menu": [
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241209_231%2F1733745667029XsqNO_JPEG%2FIMG_3938.jpeg",
+            "menu_name": "오리주물럭 중(2~3인) 오리1k",
+            "price": "38,000원"
+        },
+        {
+            "category": "",
+            "img_src": "",
+            "menu_name": "오리주물럭 중(2~3인) 오리 1k",
+            "price": "38,000원"
+        },
+        {
+            "category": "",
+            "img_src": "",
+            "menu_name": "오리주물럭 대(4인) 오리 1.4k",
+            "price": "53,000원"
+        },
+        {
+            "category": "",
+            "img_src": "",
+            "menu_name": "훈제오리반마리",
+            "price": "20,000원"
+        },
+        {
+            "category": "",
+            "img_src": "",
+            "menu_name": "소주",
+            "price": "4,000원"
+        },
+        {
+            "category": "",
+            "img_src": "",
+            "menu_name": "맥주",
+            "price": "4,000원"
+        },
+        {
+            "category": "",
+            "img_src": "",
+            "menu_name": "막걸리",
+            "price": "4,000원"
+        }
+    ]
+}

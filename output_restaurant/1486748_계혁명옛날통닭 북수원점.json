@@ -1,0 +1,128 @@
+{
+    "store_name": "계혁명옛날통닭 북수원점",
+    "store_location": "경기 수원시 장안구 경수대로 935 1층 110호",
+    "loc_x": "200624.509401463",
+    "loc_y": "422215.296918572",
+    "menu": [
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241115_273%2F1731679438679PLW2Q_JPEG%2FIMG_5553.jpeg",
+            "menu_name": "[포장] 옛날치킨 1마리",
+            "price": "9,000원"
+        },
+        {
+            "category": "",
+            "img_src": "",
+            "menu_name": "[포장] 옛날치킨 2마리",
+            "price": "17,000원"
+        },
+        {
+            "category": "",
+            "img_src": "",
+            "menu_name": "[포장] 생맥주 1000cc",
+            "price": "8,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241213_275%2F1734081108397hACvN_JPEG%2FIMG_6649.jpeg",
+            "menu_name": "[포장] 바삭 ‘똥집’ 튀김 (중)",
+            "price": "9,000원"
+        },
+        {
+            "category": "",
+            "img_src": "",
+            "menu_name": "[포장] 바삭 똥집 튀김 (대)",
+            "price": "15,000원"
+        },
+        {
+            "category": "",
+            "img_src": "",
+            "menu_name": "[포장] 순살후라이드 (중)",
+            "price": "9,000원"
+        },
+        {
+            "category": "",
+            "img_src": "",
+            "menu_name": "[포장] 순살 후라이드 (대)",
+            "price": "16,000원"
+        },
+        {
+            "category": "",
+            "img_src": "",
+            "menu_name": "[포장] 닭강정 (중)",
+            "price": "9,000원"
+        },
+        {
+            "category": "",
+            "img_src": "",
+            "menu_name": "[포장] 닭강정 (대)",
+            "price": "16,000원"
+        },
+        {
+            "category": "",
+            "img_src": "",
+            "menu_name": "[포장] 간장강정 (중)",
+            "price": "10,000원"
+        },
+        {
+            "category": "",
+            "img_src": "",
+            "menu_name": "[포장] 간장강정 (대)",
+            "price": "18,000원"
+        },
+        {
+            "category": "",
+            "img_src": "",
+            "menu_name": "[포장] 갈릭강정 (중)",
+            "price": "10,000원"
+        },
+        {
+            "category": "",
+            "img_src": "",
+            "menu_name": "[포장] 갈릭강정 (대)",
+            "price": "18,000원"
+        },
+        {
+            "category": "",
+            "img_src": "",
+            "menu_name": "[포장] 닭다리 중(6개)",
+            "price": "12,000원"
+        },
+        {
+            "category": "",
+            "img_src": "",
+            "menu_name": "[포장] 닭다리 대(10개)",
+            "price": "16,500원"
+        },
+        {
+            "category": "",
+            "img_src": "",
+            "menu_name": "[포장] 대왕새우튀김(5개)",
+            "price": "8,000원"
+        },
+        {
+            "category": "",
+            "img_src": "",
+            "menu_name": "[포장] 국물떡볶이",
+            "price": "12,000원"
+        },
+        {
+            "category": "",
+            "img_src": "",
+            "menu_name": "[포장] 무뼈닭발구이",
+            "price": "14,000원"
+        },
+        {
+            "category": "",
+            "img_src": "",
+            "menu_name": "각종소스 (1봉지)",
+            "price": "500원"
+        },
+        {
+            "category": "",
+            "img_src": "",
+            "menu_name": "치킨 무",
+            "price": "500원"
+        }
+    ]
+}

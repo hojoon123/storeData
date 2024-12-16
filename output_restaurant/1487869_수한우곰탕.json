@@ -1,0 +1,32 @@
+{
+    "store_name": "수한우곰탕",
+    "store_location": "대전 서구 도마3길 30 103,104호",
+    "loc_x": "234132.426268873",
+    "loc_y": "312750.803926098",
+    "menu": [
+        {
+            "category": "",
+            "img_src": "",
+            "menu_name": "한우소머리곰탕",
+            "price": "8,000원"
+        },
+        {
+            "category": "",
+            "img_src": "",
+            "menu_name": "한우선지해장국",
+            "price": "6,000원"
+        },
+        {
+            "category": "",
+            "img_src": "",
+            "menu_name": "한우모듬버섯전골",
+            "price": "39,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240102_243%2F1704181223820HImuL_JPEG%2FF5B281A6-5034-4ACE-BE26-E7F0D7338C44.jpeg",
+            "menu_name": "한우곰탕",
+            "price": "8,000원"
+        }
+    ]
+}

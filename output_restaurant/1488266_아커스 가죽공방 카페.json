@@ -1,0 +1,26 @@
+{
+    "store_name": "아커스 가죽공방 카페",
+    "store_location": "충남 천안시 서북구 불당16길 19 101호",
+    "loc_x": "209468.187295474",
+    "loc_y": "366668.761749458",
+    "menu": [
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240114_227%2F1705204598453kzFt2_JPEG%2F%25C7%25AA%25B5%25F91.jpg",
+            "menu_name": "수제 푸딩",
+            "price": "6,500원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240618_115%2F1718707259608hp1YY_JPEG%2FKakaoTalk_20240618_193926837_01.jpg",
+            "menu_name": "젤라또 & 브라운 치즈 크로플",
+            "price": "9,500원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240618_89%2F1718707339632XUziD_JPEG%2FKakaoTalk_20240618_193926837_02.jpg",
+            "menu_name": "수제 추러스 마들렌",
+            "price": "3,500원"
+        }
+    ]
+}

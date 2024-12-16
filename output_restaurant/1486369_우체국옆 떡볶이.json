@@ -1,0 +1,62 @@
+{
+    "store_name": "우체국옆 떡볶이",
+    "store_location": "충북 청주시 상당구 월평로 252 1층",
+    "loc_x": "245595.835718444",
+    "loc_y": "345114.751702169",
+    "menu": [
+        {
+            "category": "",
+            "img_src": "",
+            "menu_name": "떡볶이",
+            "price": "3,500원"
+        },
+        {
+            "category": "",
+            "img_src": "",
+            "menu_name": "오뎅김밥",
+            "price": "3,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241213_176%2F1734073893684s2VYD_JPEG%2FScreenshot_20241212_173445.jpg",
+            "menu_name": "묵참김밥",
+            "price": "4,500원"
+        },
+        {
+            "category": "",
+            "img_src": "",
+            "menu_name": "참치김밥",
+            "price": "4,000원"
+        },
+        {
+            "category": "",
+            "img_src": "",
+            "menu_name": "치즈김밥",
+            "price": "3,500원"
+        },
+        {
+            "category": "",
+            "img_src": "",
+            "menu_name": "참치즈김밥",
+            "price": "4,500원"
+        },
+        {
+            "category": "",
+            "img_src": "",
+            "menu_name": "모듬튀김",
+            "price": "4,000원"
+        },
+        {
+            "category": "",
+            "img_src": "",
+            "menu_name": "찰순대",
+            "price": "4,000원"
+        },
+        {
+            "category": "",
+            "img_src": "",
+            "menu_name": "오뎅+국물",
+            "price": "3,000원"
+        }
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "store_name": "맛돌이닭강정",
+    "store_location": "강원 원주시 황소마을길 23-6 2층",
+    "loc_x": "283543.970036695",
+    "loc_y": "425828.272779982",
+    "menu": [
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241213_145%2F1734064908010cBd4X_JPEG%2F1000015508.jpg",
+            "menu_name": "맛돌이 닭강정",
+            "price": "20,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241213_244%2F1734064983463yWTgq_JPEG%2F1000015268.jpg",
+            "menu_name": "맛돌이 후라이드",
+            "price": "19,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241213_156%2F17340650327462MfME_JPEG%2F1000015264.jpg",
+            "menu_name": "맛돌이 반반세트",
+            "price": "21,000원"
+        }
+    ]
+}

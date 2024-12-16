@@ -1,0 +1,68 @@
+{
+    "store_name": "족심당",
+    "store_location": "부산 수영구 수영로702번길 3 1층",
+    "loc_x": "392747.688291847",
+    "loc_y": "187413.248213427",
+    "menu": [
+        {
+            "category": "대표메뉴",
+            "img_src": "",
+            "menu_name": "오리지널 족발(중)",
+            "price": "34,000원"
+        },
+        {
+            "category": "대표메뉴",
+            "img_src": "",
+            "menu_name": "오리지널 족발(대)",
+            "price": "40,000원"
+        },
+        {
+            "category": "대표메뉴",
+            "img_src": "",
+            "menu_name": "불족(중)",
+            "price": "30,000원"
+        },
+        {
+            "category": "대표메뉴",
+            "img_src": "",
+            "menu_name": "불족(대)",
+            "price": "36,000원"
+        },
+        {
+            "category": "대표메뉴",
+            "img_src": "",
+            "menu_name": "냉채족발",
+            "price": "35,000원"
+        },
+        {
+            "category": "족발메뉴",
+            "img_src": "",
+            "menu_name": "오리지널 족발(중)",
+            "price": "34,000원"
+        },
+        {
+            "category": "족발메뉴",
+            "img_src": "",
+            "menu_name": "오리지널 족발(대)",
+            "price": "40,000원"
+        },
+        {
+            "category": "족발메뉴",
+            "img_src": "",
+            "menu_name": "불족(중)",
+            "price": "30,000원"
+        },
+        {
+            "category": "족발메뉴",
+            "img_src": "",
+            "menu_name": "불족(대)",
+            "price": "36,000원"
+        },
+        {
+            "category": "족발메뉴",
+            "img_src": "",
+            "menu_name": "냉채족발",
+            "price": "35,000원"
+        }
+    ]
+}

@@ -1,0 +1,98 @@
+{
+    "store_name": "온유버거",
+    "store_location": "경기 용인시 수지구 신수로 767 A동 1층 114호",
+    "loc_x": "208940.745787289",
+    "loc_y": "426247.566686926",
+    "menu": [
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240627_86%2F171945492675459QIu_JPEG%2F%25BF%25C2%25C0%25AF%25BF%25C0%25B8%25AE%25C1%25F6%25B3%25CE.jpg",
+            "menu_name": "온유 오리지널 버거",
+            "price": "7,500원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240627_241%2F1719454939570YgSbU_JPEG%2F%25BB%25F5%25BF%25EC%25C5%25EB%25C5%25EB.jpg",
+            "menu_name": "새우통통버거",
+            "price": "7,500원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240627_77%2F1719454952309JqHHN_JPEG%2F%25B2%25BF%25B3%25A2%25BF%25C0.jpg",
+            "menu_name": "꼬끼오 버거",
+            "price": "7,500원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240627_15%2F17194549634321eKIb_JPEG%2F%25BF%25C2%25B8%25AE%25C4%25A1%25C1%25EE.jpg",
+            "menu_name": "온리 치즈 버거",
+            "price": "8,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240627_2%2F1719454977162PxVHU_JPEG%2F%25C6%25FA%25B5%25E5%25C6%25F7%25C5%25A9.jpg",
+            "menu_name": "폴드포크 버거",
+            "price": "8,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240627_99%2F17194550045561wdr5_JPEG%2F%25C4%25A1%25C1%25EE%25C6%25F8%25C5%25BA%25B9%25F6%25B0%25C5.jpg",
+            "menu_name": "치즈폭탄버거",
+            "price": "8,400원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240627_294%2F1719455012776JdGGS_JPEG%2F%25C4%25A5%25B8%25AE%25B9%25F6%25B0%25C5.jpg",
+            "menu_name": "칠리칠리 버거",
+            "price": "8,200원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240627_238%2F1719455037224uGLsE_JPEG%2F%25BF%25A1%25B1%25D7%25B8%25B6%25BF%25E4.jpg",
+            "menu_name": "에그마요 버거",
+            "price": "8,200원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240627_169%2F1719455078290xYMBC_JPEG%2F%25BF%25EC%25BB%25EF%25B0%25E3.jpg",
+            "menu_name": "우삼겹 머쉬룸 버거",
+            "price": "8,900원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241201_160%2F1733025620669MXPRu_JPEG%2F%25B7%25CE%25BD%25BA%25C6%25AEbbq.jpg",
+            "menu_name": "리코타&BBQ로스트 비프 버거",
+            "price": "10,500원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240627_254%2F1719455070006mU7GI_JPEG%2F%25C7%25EF%25C3%25A2%25B9%25F6%25B0%25C5.jpg",
+            "menu_name": "온U타워 헬창 버거",
+            "price": "11,900원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241201_285%2F1733022819732khxhJ_JPEG%2FKakaoTalk_20241127_133110927.jpg",
+            "menu_name": "양식st 온유 치킨가츠 덮밥",
+            "price": "8,500원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241201_205%2F1733022177288FlLkV_JPEG%2FKakaoTalk_20241127_133125070.jpg",
+            "menu_name": "양식st 온유 리얼스팸 덮밥",
+            "price": "8,500원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241201_232%2F17330228751695Tp7c_JPEG%2FKakaoTalk_20241127_133102728.jpg",
+            "menu_name": "양식st 온유 폴드포크 덮밥",
+            "price": "9,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241201_85%2F17330230852139t3lx_JPEG%2FKakaoTalk_20241127_133042334.jpg",
+            "menu_name": "양식st 온유 제육 덮밥",
+            "price": "9,000원"
+        }
+    ]
+}

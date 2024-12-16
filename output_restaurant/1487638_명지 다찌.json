@@ -1,0 +1,14 @@
+{
+    "store_name": "명지 다찌",
+    "store_location": "부산 강서구 명지국제1로 56-1 108호",
+    "loc_x": "373676.555659244",
+    "loc_y": "178835.487786516",
+    "menu": [
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241128_142%2F1732790992442eYGXG_JPEG%2F1000003223.jpg",
+            "menu_name": "20여가지 한상코스가 제공됩니다",
+            "price": "28,000원"
+        }
+    ]
+}

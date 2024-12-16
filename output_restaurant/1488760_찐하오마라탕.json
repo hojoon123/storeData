@@ -1,0 +1,362 @@
+{
+    "store_name": "찐하오마라탕",
+    "store_location": "전남 장흥군 장흥읍 장흥로 39 201동 102호",
+    "loc_x": "191561.152575986",
+    "loc_y": "131495.571126635",
+    "menu": [
+        {
+            "category": "대표메뉴",
+            "img_src": "",
+            "menu_name": "꿔바로우(미니)",
+            "price": "6,000원"
+        },
+        {
+            "category": "대표메뉴",
+            "img_src": "",
+            "menu_name": "꿔바로우(소)",
+            "price": "10,000원"
+        },
+        {
+            "category": "대표메뉴",
+            "img_src": "",
+            "menu_name": "꿔바로우(대)",
+            "price": "17,000원"
+        },
+        {
+            "category": "대표메뉴",
+            "img_src": "",
+            "menu_name": "내스타일 셀프마라탕 [찐하오마라탕](500g)",
+            "price": "9,500원"
+        },
+        {
+            "category": "대표메뉴",
+            "img_src": "",
+            "menu_name": "내스타일 셀프마라탕 [찐하오마라탕](600g)",
+            "price": "11,400원"
+        },
+        {
+            "category": "대표메뉴",
+            "img_src": "",
+            "menu_name": "내스타일 셀프마라탕 [찐하오마라탕](700g)",
+            "price": "13,300원"
+        },
+        {
+            "category": "대표메뉴",
+            "img_src": "",
+            "menu_name": "내스타일 셀프마라탕 [찐하오마라탕](800g)",
+            "price": "15,200원"
+        },
+        {
+            "category": "대표메뉴",
+            "img_src": "",
+            "menu_name": "내스타일 셀프마라탕 [찐하오마라탕](900g)",
+            "price": "17,100원"
+        },
+        {
+            "category": "대표메뉴",
+            "img_src": "",
+            "menu_name": "내스타일 셀프마라탕 [찐하오마라탕](1000g)",
+            "price": "19,000원"
+        },
+        {
+            "category": "대표메뉴",
+            "img_src": "",
+            "menu_name": "내스타일마라샹궈 [찐하오마라탕](500g)",
+            "price": "15,000원"
+        },
+        {
+            "category": "대표메뉴",
+            "img_src": "",
+            "menu_name": "내스타일마라샹궈 [찐하오마라탕](600g)",
+            "price": "18,000원"
+        },
+        {
+            "category": "대표메뉴",
+            "img_src": "",
+            "menu_name": "내스타일마라샹궈 [찐하오마라탕](700g)",
+            "price": "21,000원"
+        },
+        {
+            "category": "대표메뉴",
+            "img_src": "",
+            "menu_name": "내스타일마라샹궈 [찐하오마라탕](800g)",
+            "price": "24,000원"
+        },
+        {
+            "category": "대표메뉴",
+            "img_src": "",
+            "menu_name": "내스타일마라샹궈 [찐하오마라탕](900g)",
+            "price": "27,000원"
+        },
+        {
+            "category": "대표메뉴",
+            "img_src": "",
+            "menu_name": "내스타일마라샹궈 [찐하오마라탕](1000g)",
+            "price": "30,000원"
+        },
+        {
+            "category": "대표메뉴",
+            "img_src": "",
+            "menu_name": "(신메뉴)내스타일 셀프마라반(500g)",
+            "price": "11,000원"
+        },
+        {
+            "category": "대표메뉴",
+            "img_src": "",
+            "menu_name": "(신메뉴)내스타일 셀프마라반(600g)",
+            "price": "13,200원"
+        },
+        {
+            "category": "대표메뉴",
+            "img_src": "",
+            "menu_name": "(신메뉴)내스타일 셀프마라반(700g)",
+            "price": "15,400원"
+        },
+        {
+            "category": "대표메뉴",
+            "img_src": "",
+            "menu_name": "(신메뉴)내스타일 셀프마라반(800g)",
+            "price": "17,600원"
+        },
+        {
+            "category": "대표메뉴",
+            "img_src": "",
+            "menu_name": "(신메뉴)내스타일 셀프마라반(900g)",
+            "price": "19,800원"
+        },
+        {
+            "category": "대표메뉴",
+            "img_src": "",
+            "menu_name": "(신메뉴)내스타일 셀프마라반(1000g)",
+            "price": "22,000원"
+        },
+        {
+            "category": "메뉴 소개",
+            "img_src": "",
+            "menu_name": "내스타일 셀프마라탕 [찐하오마라탕](500g)",
+            "price": "9,500원"
+        },
+        {
+            "category": "메뉴 소개",
+            "img_src": "",
+            "menu_name": "내스타일 셀프마라탕 [찐하오마라탕](600g)",
+            "price": "11,400원"
+        },
+        {
+            "category": "메뉴 소개",
+            "img_src": "",
+            "menu_name": "내스타일 셀프마라탕 [찐하오마라탕](700g)",
+            "price": "13,300원"
+        },
+        {
+            "category": "메뉴 소개",
+            "img_src": "",
+            "menu_name": "내스타일 셀프마라탕 [찐하오마라탕](800g)",
+            "price": "15,200원"
+        },
+        {
+            "category": "메뉴 소개",
+            "img_src": "",
+            "menu_name": "내스타일 셀프마라탕 [찐하오마라탕](900g)",
+            "price": "17,100원"
+        },
+        {
+            "category": "메뉴 소개",
+            "img_src": "",
+            "menu_name": "내스타일 셀프마라탕 [찐하오마라탕](1000g)",
+            "price": "19,000원"
+        },
+        {
+            "category": "메뉴 소개",
+            "img_src": "",
+            "menu_name": "내스타일마라샹궈 [찐하오마라탕](500g)",
+            "price": "15,000원"
+        },
+        {
+            "category": "메뉴 소개",
+            "img_src": "",
+            "menu_name": "내스타일마라샹궈 [찐하오마라탕](600g)",
+            "price": "18,000원"
+        },
+        {
+            "category": "메뉴 소개",
+            "img_src": "",
+            "menu_name": "내스타일마라샹궈 [찐하오마라탕](700g)",
+            "price": "21,000원"
+        },
+        {
+            "category": "메뉴 소개",
+            "img_src": "",
+            "menu_name": "내스타일마라샹궈 [찐하오마라탕](800g)",
+            "price": "24,000원"
+        },
+        {
+            "category": "메뉴 소개",
+            "img_src": "",
+            "menu_name": "내스타일마라샹궈 [찐하오마라탕](900g)",
+            "price": "27,000원"
+        },
+        {
+            "category": "메뉴 소개",
+            "img_src": "",
+            "menu_name": "내스타일마라샹궈 [찐하오마라탕](1000g)",
+            "price": "30,000원"
+        },
+        {
+            "category": "메뉴 소개",
+            "img_src": "",
+            "menu_name": "(신메뉴)내스타일 셀프마라반(500g)",
+            "price": "11,000원"
+        },
+        {
+            "category": "메뉴 소개",
+            "img_src": "",
+            "menu_name": "(신메뉴)내스타일 셀프마라반(600g)",
+            "price": "13,200원"
+        },
+        {
+            "category": "메뉴 소개",
+            "img_src": "",
+            "menu_name": "(신메뉴)내스타일 셀프마라반(700g)",
+            "price": "15,400원"
+        },
+        {
+            "category": "메뉴 소개",
+            "img_src": "",
+            "menu_name": "(신메뉴)내스타일 셀프마라반(800g)",
+            "price": "17,600원"
+        },
+        {
+            "category": "메뉴 소개",
+            "img_src": "",
+            "menu_name": "(신메뉴)내스타일 셀프마라반(900g)",
+            "price": "19,800원"
+        },
+        {
+            "category": "메뉴 소개",
+            "img_src": "",
+            "menu_name": "(신메뉴)내스타일 셀프마라반(1000g)",
+            "price": "22,000원"
+        },
+        {
+            "category": "메뉴 소개",
+            "img_src": "",
+            "menu_name": "꿔바로우(미니)",
+            "price": "6,000원"
+        },
+        {
+            "category": "메뉴 소개",
+            "img_src": "",
+            "menu_name": "꿔바로우(소)",
+            "price": "10,000원"
+        },
+        {
+            "category": "메뉴 소개",
+            "img_src": "",
+            "menu_name": "꿔바로우(대)",
+            "price": "17,000원"
+        },
+        {
+            "category": "메뉴 소개",
+            "img_src": "",
+            "menu_name": "계란볶음밥",
+            "price": "7,000원"
+        },
+        {
+            "category": "메뉴 소개",
+            "img_src": "",
+            "menu_name": "새우볶음밥",
+            "price": "7,000원"
+        },
+        {
+            "category": "사이드 메뉴",
+            "img_src": "",
+            "menu_name": "공기밥",
+            "price": "1,000원"
+        },
+        {
+            "category": "사이드 메뉴",
+            "img_src": "",
+            "menu_name": "연유 꽃빵",
+            "price": "5,000원"
+        },
+        {
+            "category": "사이드 메뉴",
+            "img_src": "",
+            "menu_name": "멘보샤",
+            "price": "5,000원"
+        },
+        {
+            "category": "사이드 메뉴",
+            "img_src": "",
+            "menu_name": "유우툐우",
+            "price": "5,000원"
+        },
+        {
+            "category": "음료",
+            "img_src": "",
+            "menu_name": "코카콜라(355ml)",
+            "price": "2,000원"
+        },
+        {
+            "category": "음료",
+            "img_src": "",
+            "menu_name": "제로 콜라 (355ml)",
+            "price": "2,000원"
+        },
+        {
+            "category": "음료",
+            "img_src": "",
+            "menu_name": "칠성사이다(355ml)",
+            "price": "2,000원"
+        },
+        {
+            "category": "음료",
+            "img_src": "",
+            "menu_name": "환타(파인애플)(355ml)",
+            "price": "2,000원"
+        },
+        {
+            "category": "음료",
+            "img_src": "",
+            "menu_name": "환타(오렌지)(355ml)",
+            "price": "2,000원"
+        },
+        {
+            "category": "음료",
+            "img_src": "",
+            "menu_name": "빙홍차(아이스티)",
+            "price": "3,000원"
+        },
+        {
+            "category": "음료",
+            "img_src": "",
+            "menu_name": "차파이(복숭아맛티)",
+            "price": "3,000원"
+        },
+        {
+            "category": "음료",
+            "img_src": "",
+            "menu_name": "빙탕설리",
+            "price": "3,000원"
+        },
+        {
+            "category": "음료",
+            "img_src": "",
+            "menu_name": "중국음료(청포도쥬스)",
+            "price": "3,000원"
+        },
+        {
+            "category": "음료",
+            "img_src": "",
+            "menu_name": "중국음료(오렌지쥬스)",
+            "price": "3,000원"
+        },
+        {
+            "category": "음료",
+            "img_src": "",
+            "menu_name": "중국음료(복숭아쥬스)",
+            "price": "3,000원"
+        }
+    ]
+}

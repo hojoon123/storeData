@@ -1,0 +1,98 @@
+{
+    "store_name": "불만난고등어 효자점",
+    "store_location": "전북 전주시 완산구 소태정3길 3 1층",
+    "loc_x": "209030.773962375",
+    "loc_y": "255971.270717609",
+    "menu": [
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241212_92%2F1733978502652AI7he_JPEG%2F1000007926.jpg",
+            "menu_name": "화덕구이 전문점",
+            "price": "변동"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241127_57%2F1732689341118LKgUN_JPEG%2FKakaoTalk_20241127_153411195_17.jpg",
+            "menu_name": "점심만 고등어(평일만 가능)",
+            "price": "9,900원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241127_282%2F1732689995676qgeSA_JPEG%2FKakaoTalk_20241127_153411195_17.jpg",
+            "menu_name": "고등어구이",
+            "price": "12,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241127_34%2F1732690149729WOEpi_JPEG%2FKakaoTalk_20241127_153411195_16.jpg",
+            "menu_name": "볼락구이",
+            "price": "14,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241127_241%2F1732690428530eNMfI_JPEG%2FKakaoTalk_20241127_153411195_01.jpg",
+            "menu_name": "갈치구이(2조각)",
+            "price": "17,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241127_173%2F1732690491160tKTS1_JPEG%2FKakaoTalk_20241127_153411195_15.jpg",
+            "menu_name": "삼치구이",
+            "price": "15,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241127_81%2F1732690539161lns5u_JPEG%2FKakaoTalk_20241127_153411195_14.jpg",
+            "menu_name": "임연수구이",
+            "price": "15,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241127_171%2F1732690576597iPQWF_JPEG%2FKakaoTalk_20241127_153411195_13.jpg",
+            "menu_name": "박대구이",
+            "price": "14,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241127_275%2F1732690668784nG46t_JPEG%2FKakaoTalk_20241127_153411195_10.jpg",
+            "menu_name": "고등어 양념구이",
+            "price": "14,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241127_27%2F1732690716707WW1Pg_JPEG%2FKakaoTalk_20241127_153411195_08.jpg",
+            "menu_name": "볼락 양념구이",
+            "price": "16,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241127_38%2F1732690758615rRcbs_JPEG%2FKakaoTalk_20241127_153411195.jpg",
+            "menu_name": "갈치 양념구이",
+            "price": "18,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241127_215%2F1732690872111KmB3r_JPEG%2FKakaoTalk_20241127_153411195_09.jpg",
+            "menu_name": "임연수 양념구이",
+            "price": "17,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241127_222%2F1732690915278ca8jR_JPEG%2FKakaoTalk_20241127_153411195_07.jpg",
+            "menu_name": "박대 양념구이",
+            "price": "16,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241127_95%2F1732691082420iXs5m_JPEG%2FKakaoTalk_20241127_153411195_11.jpg",
+            "menu_name": "화덕제육",
+            "price": "13,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241127_167%2F1732691026298N5jNO_JPEG%2FKakaoTalk_20241127_153411195_02.jpg",
+            "menu_name": "고등어 묵은지 조림",
+            "price": "15,000원"
+        }
+    ]
+}

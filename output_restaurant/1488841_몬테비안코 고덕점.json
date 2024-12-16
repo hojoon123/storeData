@@ -1,0 +1,98 @@
+{
+    "store_name": "몬테비안코 고덕점",
+    "store_location": "경기 평택시 함박산11길 17 1층",
+    "loc_x": "202275.792100276",
+    "loc_y": "393461.24464031",
+    "menu": [
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240819_75%2F1724050288123zaT6V_JPEG%2F1724028669686-0.jpg",
+            "menu_name": "디만조",
+            "price": "9,800원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240819_189%2F1724050367963TE8Xb_JPEG%2F1724028669686-3.jpg",
+            "menu_name": "풍기",
+            "price": "9,800원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240819_31%2F1724052998388bMimL_JPEG%2F1724028669686-11.jpg",
+            "menu_name": "돈까스",
+            "price": "9,800원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240819_97%2F1724053267774324kd_JPEG%2F1724028601371-23.jpg",
+            "menu_name": "디마레",
+            "price": "13,800원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240819_196%2F1724052901038LkYNP_JPEG%2F1724028669686-5.jpg",
+            "menu_name": "갈릭&쉬림프",
+            "price": "13,800원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240827_33%2F1724724025038H8L7a_JPEG%2F1000039949.jpg",
+            "menu_name": "리조또세피아",
+            "price": "13,800원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240819_71%2F1724052841764Dg7qF_JPEG%2F1724028669686-2.jpg",
+            "menu_name": "감베로니",
+            "price": "13,800원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240819_56%2F17240527565269vM7f_JPEG%2F1724028669686-4.jpg",
+            "menu_name": "세피아",
+            "price": "13,800원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240827_122%2F1724739185175IWQeh_JPEG%2F1000040188.jpg",
+            "menu_name": "감자튀김",
+            "price": "4,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240819_161%2F1724053305560EVTBz_JPEG%2F1724028669686-7.jpg",
+            "menu_name": "케이준 감자튀김",
+            "price": "4,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240827_131%2F1724739227341ziAtQ_JPEG%2F1000040208.jpg",
+            "menu_name": "허니버터 감자튀김",
+            "price": "4,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240819_17%2F1724057799869PgqjV_JPEG%2F1724028669686-8.jpg",
+            "menu_name": "치즈스틱 2개",
+            "price": "3,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240819_158%2F1724057844019U0RBn_JPEG%2F1724028669686-6.jpg",
+            "menu_name": "치즈볼 5개",
+            "price": "4,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240827_214%2F1724739061085dcIyW_JPEG%2F1000040216.jpg",
+            "menu_name": "웨지감자",
+            "price": "4,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240827_185%2F1724739088274EbiTc_JPEG%2F1000040222.jpg",
+            "menu_name": "회오리소시지",
+            "price": "4,000원"
+        }
+    ]
+}

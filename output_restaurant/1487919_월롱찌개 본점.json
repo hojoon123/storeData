@@ -1,0 +1,50 @@
+{
+    "store_name": "월롱찌개 본점",
+    "store_location": "경기 파주시 월롱면 엘씨디로241번길 8-25 파크뷰 108호",
+    "loc_x": "178466.045",
+    "loc_y": "478848.195",
+    "menu": [
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240503_11%2F1714702482518VNSMB_JPEG%2FKakaoTalk_20240401_163200312.jpg",
+            "menu_name": "김치찌개",
+            "price": "18,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240503_270%2F1714702504793HhFYw_JPEG%2FKakaoTalk_20240401_163125713_02.jpg",
+            "menu_name": "고추장찌개",
+            "price": "18,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240503_27%2F17147025432271EOdC_JPEG%2FKakaoTalk_20240401_163125713_10.jpg",
+            "menu_name": "동태찌개",
+            "price": "20,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240503_175%2F171470256181502wpX_JPEG%2FKakaoTalk_20240401_163125713_14.jpg",
+            "menu_name": "차돌된장찌개",
+            "price": "18,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240503_203%2F1714702608760XQCqz_JPEG%2F%25C1%25A6%25C0%25B0%25BA%25BA%25C0%25BD.jpg",
+            "menu_name": "제육볶음",
+            "price": "13,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240503_137%2F1714702710832ocOsS_JPEG%2F%25B0%25E8%25B6%25F5%25B8%25BB%25C0%25CC.jpg",
+            "menu_name": "계란말이",
+            "price": "10,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240503_15%2F1714702717583jXQ34_JPEG%2F%25B0%25ED%25B5%25EE%25BE%25EE%25B1%25B8%25C0%25CC.jpg",
+            "menu_name": "고등어구이",
+            "price": "11,000원"
+        }
+    ]
+}

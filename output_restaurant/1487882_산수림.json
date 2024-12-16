@@ -1,0 +1,20 @@
+{
+    "store_name": "산수림",
+    "store_location": "경북 포항시 북구 흥해읍 도음로827번길 12 산수림 1층",
+    "loc_x": "409347.095620996",
+    "loc_y": "289042.754823259",
+    "menu": [
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20231204_257%2F1701685462532Iny7z_JPEG%2F1000005801.jpg",
+            "menu_name": "오리수육",
+            "price": "65,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20231204_129%2F1701685636630LXBib_JPEG%2F1000005460.jpg",
+            "menu_name": "누룽지 백숙",
+            "price": "65,000원"
+        }
+    ]
+}

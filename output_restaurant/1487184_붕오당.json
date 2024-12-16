@@ -1,0 +1,20 @@
+{
+    "store_name": "붕오당",
+    "store_location": "강원 평창군 대관령면 대관령로 112 1층",
+    "loc_x": "350693.259593043",
+    "loc_y": "464663.515929874",
+    "menu": [
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241213_5%2F17340725947524Libg_JPEG%2FIMG_8346.jpeg",
+            "menu_name": "붕어빵(치즈)",
+            "price": "2,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241213_68%2F1734072570996I13iY_JPEG%2FIMG_8346.jpeg",
+            "menu_name": "붕어빵(팥,슈)",
+            "price": "1,000원"
+        }
+    ]
+}

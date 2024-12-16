@@ -1,0 +1,14 @@
+{
+    "store_name": "플러스82 이천SK하이닉스점",
+    "store_location": "경기 이천시 대월면 경충대로2003번길 91 1동 1층 102호",
+    "loc_x": "243494.535702281",
+    "loc_y": "415785.240421936",
+    "menu": [
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240123_268%2F1706009735583wTYFt_JPEG%2F%25B4%25EB%25C7%25A5%25C0%25CC%25B9%25CC%25C1%25F6_%25BD%25E6%25B3%25D7%25C0%25CF.jpg",
+            "menu_name": "아메리카노",
+            "price": "4,000원"
+        }
+    ]
+}

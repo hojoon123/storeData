@@ -1,0 +1,98 @@
+{
+    "store_name": "박가네",
+    "store_location": "경기 가평군 조종면 조종희망로 14 1층",
+    "loc_x": "230770.647862753",
+    "loc_y": "479566.300566074",
+    "menu": [
+        {
+            "category": "대표메뉴",
+            "img_src": "",
+            "menu_name": "오징어덮밥",
+            "price": "9,000원"
+        },
+        {
+            "category": "대표메뉴",
+            "img_src": "",
+            "menu_name": "제육덮밥",
+            "price": "8,000원"
+        },
+        {
+            "category": "대표메뉴",
+            "img_src": "",
+            "menu_name": "떡볶이(1인분)",
+            "price": "4,000원"
+        },
+        {
+            "category": "대표메뉴",
+            "img_src": "",
+            "menu_name": "오뎅(1인분)",
+            "price": "2,500원"
+        },
+        {
+            "category": "대표메뉴",
+            "img_src": "",
+            "menu_name": "김치볶음밥",
+            "price": "8,000원"
+        },
+        {
+            "category": "반짝 신메뉴",
+            "img_src": "",
+            "menu_name": "매콤새우볶음밥",
+            "price": "9,000원"
+        },
+        {
+            "category": "메뉴소개",
+            "img_src": "",
+            "menu_name": "김치볶음밥",
+            "price": "8,000원"
+        },
+        {
+            "category": "메뉴소개",
+            "img_src": "",
+            "menu_name": "오징어덮밥",
+            "price": "9,000원"
+        },
+        {
+            "category": "메뉴소개",
+            "img_src": "",
+            "menu_name": "제육덮밥",
+            "price": "8,000원"
+        },
+        {
+            "category": "메뉴소개",
+            "img_src": "",
+            "menu_name": "떡볶이(1인분)",
+            "price": "4,000원"
+        },
+        {
+            "category": "메뉴소개",
+            "img_src": "",
+            "menu_name": "오뎅(1인분)",
+            "price": "2,500원"
+        },
+        {
+            "category": "메뉴소개",
+            "img_src": "",
+            "menu_name": "계란후라이(추가)",
+            "price": "500원"
+        },
+        {
+            "category": "음료",
+            "img_src": "",
+            "menu_name": "펩시콜라제로(355ml)",
+            "price": "2,000원"
+        },
+        {
+            "category": "음료",
+            "img_src": "",
+            "menu_name": "스프라이트(355ml)",
+            "price": "2,000원"
+        },
+        {
+            "category": "음료",
+            "img_src": "",
+            "menu_name": "환타제로(355ml)",
+            "price": "2,000원"
+        }
+    ]
+}

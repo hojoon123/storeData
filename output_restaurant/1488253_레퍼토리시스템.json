@@ -1,0 +1,98 @@
+{
+    "store_name": "레퍼토리시스템",
+    "store_location": "경기 양평군 서종면 황순원로 85 1층",
+    "loc_x": "233149.853845035",
+    "loc_y": "455050.857308652",
+    "menu": [
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20231207_37%2F170191800585835sp0_JPEG%2F1701758760913.jpg",
+            "menu_name": "(정찬) 노르웨이식 삼겹살 오븐구이",
+            "price": "35,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240106_230%2F17045049687872WBht_JPEG%2F20240106_093520.jpg",
+            "menu_name": "굴라쉬 & 빵",
+            "price": "9,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240206_119%2F170720517767840qzk_JPEG%2F1000011328.jpg",
+            "menu_name": "샥슈카 / 에그 인 헬",
+            "price": "20,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240206_269%2F1707204623788R2i8g_JPEG%2F1000011326.jpg",
+            "menu_name": "로스트 비프 샌드위치",
+            "price": "10,000원"
+        },
+        {
+            "category": "",
+            "img_src": "",
+            "menu_name": "태국식 해물 코코넛 커리 & 밥",
+            "price": "10,000원"
+        },
+        {
+            "category": "",
+            "img_src": "",
+            "menu_name": "로스트 비프 & 구운야채",
+            "price": "22,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240207_20%2F1707279535178vmY0Y_JPEG%2F1000011357.jpg",
+            "menu_name": "하몽 치즈 샌드위치",
+            "price": "8,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240206_26%2F1707204604421md6Mj_JPEG%2F1000011324.jpg",
+            "menu_name": "칠리 콘 카르네 & 또디야 칩스",
+            "price": "10,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240207_173%2F1707279548240DbQjn_JPEG%2F1000011355.jpg",
+            "menu_name": "뮌헨식 바이스부어스트 & 구운야채",
+            "price": "15,000원"
+        },
+        {
+            "category": "",
+            "img_src": "",
+            "menu_name": "아마레또",
+            "price": "6,000원"
+        },
+        {
+            "category": "",
+            "img_src": "",
+            "menu_name": "딸기 에이드",
+            "price": "5,000원"
+        },
+        {
+            "category": "",
+            "img_src": "",
+            "menu_name": "패션 후르츠 에이드",
+            "price": "5,000원"
+        },
+        {
+            "category": "",
+            "img_src": "",
+            "menu_name": "무알콜 맥주",
+            "price": "5,000원"
+        },
+        {
+            "category": "",
+            "img_src": "",
+            "menu_name": "글뤼바인",
+            "price": "6,000원"
+        },
+        {
+            "category": "",
+            "img_src": "",
+            "menu_name": "핫 쵸코",
+            "price": "4,000원"
+        }
+    ]
+}

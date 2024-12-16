@@ -1,0 +1,32 @@
+{
+    "store_name": "몽촌닭갈비 송도점",
+    "store_location": "인천 연수구 인천타워대로132번길 9 106~109호",
+    "loc_x": "168181.681099646",
+    "loc_y": "431514.369067973",
+    "menu": [
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241205_273%2F1733367215638PiD6p_JPEG%2FCSJ_9884.jpg",
+            "menu_name": "몽촌 한방 닭갈비(시그니처)",
+            "price": "16,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241205_245%2F1733367139795PEsD6_JPEG%2FCSJ_9896.jpg",
+            "menu_name": "몽촌 매콤 닭갈비",
+            "price": "16,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241205_232%2F1733367297140L1Ho9_JPEG%2FCSJ_9893_-_%25BA%25B9%25BB%25E7%25BA%25BB.jpg",
+            "menu_name": "옛날 냉 칼국수",
+            "price": "9,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241205_116%2F1733367263059OKcyD_JPEG%2FCSJ_9890.jpg",
+            "menu_name": "들기름 비빔 칼국수",
+            "price": "9,000원"
+        }
+    ]
+}

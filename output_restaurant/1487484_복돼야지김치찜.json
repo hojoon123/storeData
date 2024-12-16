@@ -1,0 +1,32 @@
+{
+    "store_name": "복돼야지김치찜",
+    "store_location": "경남 김해시 번화1로 168",
+    "loc_x": "363285.047949552",
+    "loc_y": "190318.434236271",
+    "menu": [
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241204_281%2F17332810129270QB1y_JPEG%2FKakaoTalk_20241204_103120829.jpg",
+            "menu_name": "김치찜 2인",
+            "price": "변동"
+        },
+        {
+            "category": "",
+            "img_src": "",
+            "menu_name": "버섯전",
+            "price": "변동"
+        },
+        {
+            "category": "",
+            "img_src": "",
+            "menu_name": "전복볶음밥",
+            "price": "변동"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241204_17%2F1733281296081QAqdc_JPEG%2FKakaoTalk_20241204_103120829.jpg",
+            "menu_name": "김치찜 4인",
+            "price": "변동"
+        }
+    ]
+}

@@ -1,0 +1,110 @@
+{
+    "store_name": "일근이네 본사합정직영점",
+    "store_location": "경기 평택시 평택4로 8 1층",
+    "loc_x": "208739.934161615",
+    "loc_y": "387487.679981102",
+    "menu": [
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241203_195%2F17332045032179lzC5_JPEG%2F%25C0%25CF%25B1%25D9%25B8%25F0%25B5%25D2.jpg",
+            "menu_name": "일근모둠",
+            "price": "29,900원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241203_148%2F1733204567140gOPuX_JPEG%2F%25B9%25CC%25B9%25DA%25BB%25EF%25B0%25E3%25BB%25EC.jpg",
+            "menu_name": "미박삼겹살",
+            "price": "6,900원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241203_213%2F17332046222380DF9G_JPEG%2F%25C6%25AF%25B8%25F1%25BB%25EC.jpg",
+            "menu_name": "특목살",
+            "price": "7,900원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241203_258%2F1733205007718cvEar_JPEG%2F%25B0%25A1%25BA%25EA%25B8%25AE%25BB%25EC.jpg",
+            "menu_name": "가브리살",
+            "price": "8,900원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241203_152%2F1733205073175bkjJF_JPEG%2F%25C5%25EB%25C7%25D7%25C1%25A4%25BB%25EC.jpg",
+            "menu_name": "통항정살",
+            "price": "9,900원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241203_72%2F1733205146679iMF3L_JPEG%2F%25BF%25BE%25B3%25AF%25B5%25B5%25BD%25C3%25B6%25F4.jpg",
+            "menu_name": "옛날도시락",
+            "price": "5,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241203_186%2F1733205200979gJAyw_JPEG%2F%25B6%25F3%25B8%25E9.jpg",
+            "menu_name": "라면",
+            "price": "5,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241203_159%2F1733205272619lDJQq_JPEG%2F%25B1%25E8%25C4%25A1%25C2%25EE%25B0%25B3.jpg",
+            "menu_name": "뚝배기김치찌개",
+            "price": "9,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241203_167%2F1733205357583nLjmu_JPEG%2F%25B5%25C8%25C0%25E5%25C2%25EE%25B0%25B3.jpg",
+            "menu_name": "일근된장찌개",
+            "price": "8,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241203_202%2F1733205516175F97NF_JPEG%2F%25BA%25BA%25C0%25BD%25B9%25E4.jpg",
+            "menu_name": "셀프볶음밥",
+            "price": "2,500원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241203_222%2F1733205438716KvrD7_JPEG%2F%25B0%25E8%25B6%25F5%25C2%25F2.jpg",
+            "menu_name": "날치알계란찜",
+            "price": "5,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241203_240%2F1733205582412xYD7p_JPEG%2F%25B9%25B0%25B3%25C3%25B8%25E9.jpg",
+            "menu_name": "물냉면",
+            "price": "8,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241203_158%2F1733205656323QoYA8_JPEG%2F%25BA%25F1%25BA%25F6%25B3%25C3%25B8%25E9.jpg",
+            "menu_name": "비빔냉면",
+            "price": "8,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241203_286%2F1733205776143kCcRg_JPEG%2F%25B5%25C5%25C1%25F6%25B1%25E8%25C4%25A1%25C2%25EE%25B0%25B3.jpg",
+            "menu_name": "돼지김치찌개",
+            "price": "9,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241203_270%2F1733205791295yCKys_JPEG%2F%25B5%25C5%25C1%25F6%25B1%25E8%25C4%25A1%25B1%25B8%25C0%25CC.jpg",
+            "menu_name": "돼지김치구이",
+            "price": "9,000원"
+        },
+        {
+            "category": "",
+            "img_src": "",
+            "menu_name": "뚝배기불고기",
+            "price": "9,000원"
+        },
+        {
+            "category": "",
+            "img_src": "",
+            "menu_name": "부대찌개",
+            "price": "9,000원"
+        }
+    ]
+}

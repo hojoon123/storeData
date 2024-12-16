@@ -1,0 +1,80 @@
+{
+    "store_name": "명륜화로",
+    "store_location": "경기 김포시 김포한강8로148번길 8-3 1층",
+    "loc_x": "168426.950521657",
+    "loc_y": "459246.291750033",
+    "menu": [
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241211_216%2F1733908166578JqQCB_JPEG%2FKakaoTalk_20241211_165724718.jpg",
+            "menu_name": "흑돼지 모듬 600g",
+            "price": "58,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241211_116%2F1733908186048FFBnp_JPEG%2FKakaoTalk_20241211_165724718_01.jpg",
+            "menu_name": "흑돼지 500g",
+            "price": "48,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241211_72%2F1733908205776wG3PR_JPEG%2FKakaoTalk_20241211_165724718_03.jpg",
+            "menu_name": "흑돼지 삼겹 300g",
+            "price": "30,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241211_106%2F1733908224211kbbEn_JPEG%2FKakaoTalk_20241211_165724718_02.jpg",
+            "menu_name": "흑돼지 목살 300g",
+            "price": "30,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241211_271%2F1733908250102ChMFS_JPEG%2FKakaoTalk_20241211_165724718_04.jpg",
+            "menu_name": "항정살 150g",
+            "price": "18,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241211_235%2F1733908267960ae95b_JPEG%2FKakaoTalk_20241211_165724718_06.jpg",
+            "menu_name": "흑돼지 갈비 250g",
+            "price": "18,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241211_25%2F1733908290982dEUQD_JPEG%2FKakaoTalk_20241211_165724718_05.jpg",
+            "menu_name": "고기김치찌개",
+            "price": "10,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241211_280%2F1733908304799zgNdm_JPEG%2FKakaoTalk_20241211_165724718_07.jpg",
+            "menu_name": "된장찌개",
+            "price": "3,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241211_223%2F1733908313976UrdSX_JPEG%2FKakaoTalk_20241211_165724718_08.jpg",
+            "menu_name": "계란찜",
+            "price": "5,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241211_138%2F1733908323907t714C_JPEG%2FKakaoTalk_20241211_165724718_10.jpg",
+            "menu_name": "잔치국수",
+            "price": "5,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241211_110%2F1733908335910eYpzq_JPEG%2FKakaoTalk_20241211_165724718_09.jpg",
+            "menu_name": "쫄면",
+            "price": "6,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241211_47%2F17339083453195ykMp_JPEG%2FKakaoTalk_20241211_165724718_11.jpg",
+            "menu_name": "묵사발",
+            "price": "5,000원"
+        }
+    ]
+}

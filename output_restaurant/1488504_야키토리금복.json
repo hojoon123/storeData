@@ -1,0 +1,32 @@
+{
+    "store_name": "야키토리금복",
+    "store_location": "울산 중구 병영로 86",
+    "loc_x": "412630.312503077",
+    "loc_y": "233329.842375035",
+    "menu": [
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20231222_167%2F1703238856828PFzRj_JPEG%2F1702736125512.jpg",
+            "menu_name": "야끼소바",
+            "price": "17,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20231222_204%2F1703238814531IQ6HT_JPEG%2F2023-12-16-20-52-01-462.jpg",
+            "menu_name": "소고기타다끼",
+            "price": "25,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20231222_268%2F170323879689862fp7_JPEG%2F1702735908938.jpg",
+            "menu_name": "우삼겹짬뽕탕",
+            "price": "22,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20231222_230%2F1703238754527r7VMe_JPEG%2F2023-12-13-03-13-09-919.jpg",
+            "menu_name": "닭도리탕",
+            "price": "23,000원"
+        }
+    ]
+}

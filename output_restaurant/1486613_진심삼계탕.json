@@ -1,0 +1,32 @@
+{
+    "store_name": "진심삼계탕",
+    "store_location": "전북 전주시 완산구 온고을로 18 1층 102호",
+    "loc_x": "210864.827417769",
+    "loc_y": "259346.837872685",
+    "menu": [
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241212_204%2F1734005522403nzGgN_JPEG%2F20241212_140719.jpg",
+            "menu_name": "능이 삼계탕",
+            "price": "16,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241212_177%2F1734005611846JltNg_JPEG%2F20241212_140713.jpg",
+            "menu_name": "능이 한방 삼계탕",
+            "price": "18,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241212_170%2F1734005463570xezI3_JPEG%2F20241212_140732.jpg",
+            "menu_name": "상황 삼계탕",
+            "price": "16,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241212_18%2F1734005632006MgkQ4_JPEG%2F20241212_140739.jpg",
+            "menu_name": "상황 한방 삼계탕",
+            "price": "18,000원"
+        }
+    ]
+}

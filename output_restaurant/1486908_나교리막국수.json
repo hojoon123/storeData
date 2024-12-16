@@ -1,0 +1,44 @@
+{
+    "store_name": "나교리막국수",
+    "store_location": "전북 군산시 구암로 200 102, 103, 104호",
+    "loc_x": "178360.559215405",
+    "loc_y": "276019.972973997",
+    "menu": [
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241124_179%2F1732422139400dWxDS_PNG%2FIMG_7364.png",
+            "menu_name": "들기름막국수",
+            "price": "9,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241124_242%2F1732422626837S8ckW_PNG%2FIMG_7367.png",
+            "menu_name": "물막국수",
+            "price": "9,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241124_107%2F1732422454652sbNvR_PNG%2FIMG_7436.png",
+            "menu_name": "비빔막국수",
+            "price": "9,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241124_31%2F1732422382056DIfWq_PNG%2FIMG_7444.png",
+            "menu_name": "해물양푼갈비",
+            "price": "35,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241124_249%2F1732422312478t8tji_PNG%2FIMG_7466.png",
+            "menu_name": "황태두부전골",
+            "price": "10,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241124_253%2F1732422246951NsO16_PNG%2FIMG_7443.png",
+            "menu_name": "양푼갈비",
+            "price": "30,000원"
+        }
+    ]
+}

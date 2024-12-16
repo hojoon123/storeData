@@ -1,0 +1,242 @@
+{
+    "store_name": "삼굽당",
+    "store_location": "대구 동구 경안로107길 23 1층",
+    "loc_x": "354477.00595385",
+    "loc_y": "264754.164910627",
+    "menu": [
+        {
+            "category": "대표메뉴",
+            "img_src": "",
+            "menu_name": "훈제 숯불 바베큐 양념 삼겹/목살(500g)",
+            "price": "17,900원"
+        },
+        {
+            "category": "대표메뉴",
+            "img_src": "",
+            "menu_name": "화끈 불 삼겹/목살(500g)",
+            "price": "17,900원"
+        },
+        {
+            "category": "대표메뉴",
+            "img_src": "",
+            "menu_name": "삼굽당 삼겹/목살(500g)",
+            "price": "16,900원"
+        },
+        {
+            "category": "대표메뉴",
+            "img_src": "",
+            "menu_name": "마늘 삼겹/목살(500g)",
+            "price": "17,900원"
+        },
+        {
+            "category": "대표메뉴",
+            "img_src": "",
+            "menu_name": "1인 돼지 김치찌개",
+            "price": "7,000원"
+        },
+        {
+            "category": "대표메뉴",
+            "img_src": "",
+            "menu_name": "1인 도시락 (삼겹or목살)",
+            "price": "8,900원"
+        },
+        {
+            "category": "고기만",
+            "img_src": "",
+            "menu_name": "삼굽당 삼겹/목살(500g)",
+            "price": "16,900원"
+        },
+        {
+            "category": "고기만",
+            "img_src": "",
+            "menu_name": "훈제 숯불 바베큐 양념 삼겹/목살(500g)",
+            "price": "17,900원"
+        },
+        {
+            "category": "고기만",
+            "img_src": "",
+            "menu_name": "화끈 불 삼겹/목살(500g)",
+            "price": "17,900원"
+        },
+        {
+            "category": "고기만",
+            "img_src": "",
+            "menu_name": "마늘 삼겹/목살(500g)",
+            "price": "17,900원"
+        },
+        {
+            "category": "고기만",
+            "img_src": "",
+            "menu_name": "고기만(반반)",
+            "price": "16,900원"
+        },
+        {
+            "category": "세트메뉴",
+            "img_src": "",
+            "menu_name": "1인 세트 (250g)",
+            "price": "14,900원"
+        },
+        {
+            "category": "세트메뉴",
+            "img_src": "",
+            "menu_name": "2인 세트 (500g)",
+            "price": "25,900원"
+        },
+        {
+            "category": "세트메뉴",
+            "img_src": "",
+            "menu_name": "볶음밥+찌개세트",
+            "price": "13,900원"
+        },
+        {
+            "category": "덮밥",
+            "img_src": "",
+            "menu_name": "항정살 덮밥",
+            "price": "10,900원"
+        },
+        {
+            "category": "덮밥",
+            "img_src": "",
+            "menu_name": "삼겹살 덮밥",
+            "price": "9,900원"
+        },
+        {
+            "category": "덮밥",
+            "img_src": "",
+            "menu_name": "목살덮밥",
+            "price": "9,900원"
+        },
+        {
+            "category": "도시락",
+            "img_src": "",
+            "menu_name": "1인 도시락 (삼겹or목살)",
+            "price": "8,900원"
+        },
+        {
+            "category": "사이드메뉴",
+            "img_src": "",
+            "menu_name": "1인 돼지 김치찌개",
+            "price": "7,000원"
+        },
+        {
+            "category": "사이드메뉴",
+            "img_src": "",
+            "menu_name": "돼지 김치 볶음밥",
+            "price": "6,900원"
+        },
+        {
+            "category": "사이드메뉴",
+            "img_src": "",
+            "menu_name": "물냉면",
+            "price": "6,500원"
+        },
+        {
+            "category": "사이드메뉴",
+            "img_src": "",
+            "menu_name": "비빔냉면",
+            "price": "6,500원"
+        },
+        {
+            "category": "사이드메뉴",
+            "img_src": "",
+            "menu_name": "쫄면",
+            "price": "7,000원"
+        },
+        {
+            "category": "사이드메뉴",
+            "img_src": "",
+            "menu_name": "계란찜",
+            "price": "2,500원"
+        },
+        {
+            "category": "사이드메뉴",
+            "img_src": "",
+            "menu_name": "공깃밥",
+            "price": "1,000원"
+        },
+        {
+            "category": "추가선택",
+            "img_src": "",
+            "menu_name": "밑반찬(5종반찬)",
+            "price": "3,000원"
+        },
+        {
+            "category": "추가선택",
+            "img_src": "",
+            "menu_name": "밑반찬(쌈추가)",
+            "price": "2,000원"
+        },
+        {
+            "category": "추가선택",
+            "img_src": "",
+            "menu_name": "밑반찬(양파장)",
+            "price": "1,000원"
+        },
+        {
+            "category": "추가선택",
+            "img_src": "",
+            "menu_name": "밑반찬(쌈무)",
+            "price": "1,000원"
+        },
+        {
+            "category": "추가선택",
+            "img_src": "",
+            "menu_name": "밑반찬(김치)",
+            "price": "1,000원"
+        },
+        {
+            "category": "추가선택",
+            "img_src": "",
+            "menu_name": "밑반찬(청양고추)",
+            "price": "500원"
+        },
+        {
+            "category": "추가선택",
+            "img_src": "",
+            "menu_name": "밑반찬(슬라이스 마늘)",
+            "price": "500원"
+        },
+        {
+            "category": "음료",
+            "img_src": "",
+            "menu_name": "제로 스프라이트(355ml)",
+            "price": "1,500원"
+        },
+        {
+            "category": "음료",
+            "img_src": "",
+            "menu_name": "제로 펩시(라임)(355ml)",
+            "price": "1,500원"
+        },
+        {
+            "category": "음료",
+            "img_src": "",
+            "menu_name": "환타파인(355ml)",
+            "price": "1,500원"
+        },
+        {
+            "category": "음료",
+            "img_src": "",
+            "menu_name": "스프라이트(355ml)",
+            "price": "1,500원"
+        },
+        {
+            "category": "음료",
+            "img_src": "",
+            "menu_name": "스프라이트(500ml)",
+            "price": "2,000원"
+        },
+        {
+            "category": "음료",
+            "img_src": "",
+            "menu_name": "펩시(355ml)",
+            "price": "1,500원"
+        },
+        {
+            "category": "음료",
+            "img_src": "",
+            "menu_name": "펩시(500ml)",
+            "price": "2,000원"
+        }
+    ]
+}

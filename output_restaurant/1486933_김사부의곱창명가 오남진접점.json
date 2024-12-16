@@ -1,0 +1,68 @@
+{
+    "store_name": "김사부의곱창명가 오남진접점",
+    "store_location": "경기 남양주시 오남읍 진건오남로884번길 17 . 1층일부호",
+    "loc_x": "217396.075793317",
+    "loc_y": "466982.105850532",
+    "menu": [
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241211_125%2F1733888987817L4TyA_JPEG%2F1%25C0%25CE%25BE%25DF%25C3%25A4%25B0%25F6%25C3%25A2.jpg",
+            "menu_name": "1인 직화야채곱창볶음 세트",
+            "price": "23,900원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241211_255%2F1733888998953V9KVj_JPEG%2F1%25C0%25CE_%25B8%25B7%25C3%25A2%25BC%25BC%25C6%25AE.jpg",
+            "menu_name": "1인 직화막창구이 세트",
+            "price": "24,900원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241211_219%2F1733889012963boyqD_JPEG%2F2%25C0%25CE_%25BC%25B1%25C5%25C3%25BC%25BC%25C6%25AE.jpg",
+            "menu_name": "곱창&막창 세트 (2인)",
+            "price": "36,400원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241211_265%2F1733889025615f54ad_JPEG%2F2%25C0%25CE_%25B0%25F6%25C3%25A2%25BC%25BC%25C6%25AE.jpg",
+            "menu_name": "직화야채곱창볶음 세트 (2인)",
+            "price": "33,900원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241211_186%2F17338890390366pUll_JPEG%2F2%25C0%25CE%25B8%25B7%25C3%25A2%25B1%25B8%25C0%25CC.jpg",
+            "menu_name": "직화막창구이 세트 (2인)",
+            "price": "34,900원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241211_66%2F1733889120392yP4B8_JPEG%2F%25B4%25DF%25B9%25DF.jpg",
+            "menu_name": "직화 매콤무뼈닭발",
+            "price": "8,900원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241211_73%2F1733889132488KH9Dq_JPEG%2F%25B2%25AE%25B5%25A5%25B1%25E2.jpg",
+            "menu_name": "직화 매콤돼지껍데기",
+            "price": "8,900원"
+        },
+        {
+            "category": "",
+            "img_src": "",
+            "menu_name": "직화 닭오돌뼈",
+            "price": "11,900원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241211_19%2F1733889155869Xo95V_JPEG%2F%25C1%25D6%25B8%25D4%25B9%25E4.jpg",
+            "menu_name": "후리가케주먹밥",
+            "price": "3,900원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241211_229%2F173388914542847fBe_JPEG%2F%25B0%25E8%25B6%25F5%25C2%25F2.jpg",
+            "menu_name": "일본식 계란찜",
+            "price": "3,900원"
+        }
+    ]
+}

@@ -1,0 +1,74 @@
+{
+    "store_name": "아침치 커피 & 빵 영월주천점",
+    "store_location": "강원 영월군 주천면 송학주천로 1768-3 1층",
+    "loc_x": "315069.505972713",
+    "loc_y": "420536.070069183",
+    "menu": [
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240515_47%2F1715749836474Ihq9t_JPEG%2FSNOW_20240515_120959_455.jpg",
+            "menu_name": "김밥",
+            "price": "3,000원"
+        },
+        {
+            "category": "",
+            "img_src": "",
+            "menu_name": "카페라떼",
+            "price": "4,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240515_187%2F1715749844686vbFHT_JPEG%2F20240515_113817.jpg",
+            "menu_name": "치즈김밥",
+            "price": "3,500원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240515_67%2F1715749853949vVIu6_JPEG%2FSNOW_20240515_121032_511.jpg",
+            "menu_name": "땡초김밥",
+            "price": "3,500원"
+        },
+        {
+            "category": "",
+            "img_src": "",
+            "menu_name": "아메리카노",
+            "price": "3,500원"
+        },
+        {
+            "category": "",
+            "img_src": "",
+            "menu_name": "카페모카",
+            "price": "4,500원"
+        },
+        {
+            "category": "",
+            "img_src": "",
+            "menu_name": "카라멜마끼야또",
+            "price": "4,500원"
+        },
+        {
+            "category": "",
+            "img_src": "",
+            "menu_name": "헤이즐넛라떼",
+            "price": "4,500원"
+        },
+        {
+            "category": "",
+            "img_src": "",
+            "menu_name": "바닐라라떼",
+            "price": "4,500원"
+        },
+        {
+            "category": "",
+            "img_src": "",
+            "menu_name": "한라봉에이드",
+            "price": "4,500원"
+        },
+        {
+            "category": "",
+            "img_src": "",
+            "menu_name": "빵(1개)",
+            "price": "3,000원"
+        }
+    ]
+}

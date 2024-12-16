@@ -1,0 +1,296 @@
+{
+    "store_name": "그램치킨 전남대점",
+    "store_location": "광주 북구 우치로90번길 8-6 1층 그램치킨 전남대점",
+    "loc_x": "192001.105543383",
+    "loc_y": "186226.794970138",
+    "menu": [
+        {
+            "category": "대표메뉴",
+            "img_src": "",
+            "menu_name": "(근거리무료배달)양념 치킨라이스(1인분)",
+            "price": "11,800원"
+        },
+        {
+            "category": "대표메뉴",
+            "img_src": "",
+            "menu_name": "근거리무료배달[치밥러버추천]]담백한 치킨라이스",
+            "price": "10,800원"
+        },
+        {
+            "category": "대표메뉴",
+            "img_src": "",
+            "menu_name": "근거리무료배달[[사장님 추천메뉴]]순살 반반치킨",
+            "price": "22,800원"
+        },
+        {
+            "category": "대표메뉴",
+            "img_src": "",
+            "menu_name": "근거리무료배달[[대표메뉴]]통마늘양념 순살바베큐",
+            "price": "21,800원"
+        },
+        {
+            "category": "대표메뉴",
+            "img_src": "",
+            "menu_name": "근거리무료배달[[신메뉴]] 블랙페퍼 치킨라이스",
+            "price": "11,800원"
+        },
+        {
+            "category": "대표메뉴",
+            "img_src": "",
+            "menu_name": "나홀로 치밥세트",
+            "price": "14,800원"
+        },
+        {
+            "category": "그램 치킨메뉴",
+            "img_src": "",
+            "menu_name": "근거리무료배달[[사장님 추천메뉴]]순살 반반치킨",
+            "price": "22,800원"
+        },
+        {
+            "category": "그램 치킨메뉴",
+            "img_src": "",
+            "menu_name": "근거리무료배달[[대표메뉴]]통마늘양념 순살바베큐",
+            "price": "21,800원"
+        },
+        {
+            "category": "그램 치킨메뉴",
+            "img_src": "",
+            "menu_name": "근거리무료배달((추천메뉴))통마늘소금 순살바베큐",
+            "price": "20,800원"
+        },
+        {
+            "category": "그램 치킨메뉴",
+            "img_src": "",
+            "menu_name": "근거리무료배달(매콤매콤)핫소금 순살바베큐",
+            "price": "21,800원"
+        },
+        {
+            "category": "그램 치킨메뉴",
+            "img_src": "",
+            "menu_name": "근거리무료배달(스파이시)커리 순살바베큐",
+            "price": "21,800원"
+        },
+        {
+            "category": "그램 치킨메뉴",
+            "img_src": "",
+            "menu_name": "근거리무료배당 (로제) 순살바베큐",
+            "price": "21,800원"
+        },
+        {
+            "category": "그램 치킨메뉴",
+            "img_src": "",
+            "menu_name": "근거리무료배달 청양데리 순살바베큐",
+            "price": "21,800원"
+        },
+        {
+            "category": "그램 치킨메뉴",
+            "img_src": "",
+            "menu_name": "근거리무료배달[[신메뉴]] 블랙페퍼 순살바베큐",
+            "price": "21,800원"
+        },
+        {
+            "category": "그램 치킨라이스",
+            "img_src": "",
+            "menu_name": "(근거리무료배달)양념 치킨라이스(1인분)",
+            "price": "11,800원"
+        },
+        {
+            "category": "그램 치킨라이스",
+            "img_src": "",
+            "menu_name": "근거리무료배달[치밥러버추천]]담백한 치킨라이스",
+            "price": "10,800원"
+        },
+        {
+            "category": "그램 치킨라이스",
+            "img_src": "",
+            "menu_name": "(근거리무료배달)커리 치킨라이스(1인분)",
+            "price": "11,800원"
+        },
+        {
+            "category": "그램 치킨라이스",
+            "img_src": "",
+            "menu_name": "(근거리무료배달)로제 치킨라이스(1인분)",
+            "price": "11,800원"
+        },
+        {
+            "category": "그램 치킨라이스",
+            "img_src": "",
+            "menu_name": "(근거리무료배달)데리 치킨라이스(1인분)",
+            "price": "11,800원"
+        },
+        {
+            "category": "그램 치킨라이스",
+            "img_src": "",
+            "menu_name": "근거리무료배달[[신메뉴]] 블랙페퍼 치킨라이스",
+            "price": "11,800원"
+        },
+        {
+            "category": "그램치킨 세트메뉴",
+            "img_src": "",
+            "menu_name": "나홀로 치밥세트",
+            "price": "14,800원"
+        },
+        {
+            "category": "그램치킨 세트메뉴",
+            "img_src": "",
+            "menu_name": "((두마리치킨))쌍쌍이 두마리 세트",
+            "price": "34,500원"
+        },
+        {
+            "category": "사이드",
+            "img_src": "",
+            "menu_name": "짜장만두(2개)",
+            "price": "2,000원"
+        },
+        {
+            "category": "사이드",
+            "img_src": "",
+            "menu_name": "짜장만두(4개)",
+            "price": "4,000원"
+        },
+        {
+            "category": "사이드",
+            "img_src": "",
+            "menu_name": "짬뽕만두(2개)",
+            "price": "2,000원"
+        },
+        {
+            "category": "사이드",
+            "img_src": "",
+            "menu_name": "짬뽕만두(4개)",
+            "price": "4,000원"
+        },
+        {
+            "category": "사이드",
+            "img_src": "",
+            "menu_name": "반반만두 (짬뽕2+짜장2)(4개)",
+            "price": "4,000원"
+        },
+        {
+            "category": "사이드",
+            "img_src": "",
+            "menu_name": "[바사칸]감자튀김",
+            "price": "2,500원"
+        },
+        {
+            "category": "사이드",
+            "img_src": "",
+            "menu_name": "[뽀득뽀득]칼집 대왕소세지",
+            "price": "3,000원"
+        },
+        {
+            "category": "사이드",
+            "img_src": "",
+            "menu_name": "[리얼쫀득]치즈볼4개",
+            "price": "4,000원"
+        },
+        {
+            "category": "사이드",
+            "img_src": "",
+            "menu_name": "[리얼쫀득]치즈볼 2개",
+            "price": "2,000원"
+        },
+        {
+            "category": "사이드",
+            "img_src": "",
+            "menu_name": "[통통한]통살새우볼4개",
+            "price": "4,000원"
+        },
+        {
+            "category": "사이드",
+            "img_src": "",
+            "menu_name": "[통통한] 통살새우볼 2개",
+            "price": "2,000원"
+        },
+        {
+            "category": "사이드",
+            "img_src": "",
+            "menu_name": "대파사리100g 추가 (강추)",
+            "price": "2,000원"
+        },
+        {
+            "category": "사이드",
+            "img_src": "",
+            "menu_name": "우동사리",
+            "price": "2,000원"
+        },
+        {
+            "category": "사이드",
+            "img_src": "",
+            "menu_name": "조랭이떡(15개)",
+            "price": "2,000원"
+        },
+        {
+            "category": "사이드",
+            "img_src": "",
+            "menu_name": "또띠아(2장)",
+            "price": "2,000원"
+        },
+        {
+            "category": "사이드",
+            "img_src": "",
+            "menu_name": "공기밥(1인분)",
+            "price": "1,500원"
+        },
+        {
+            "category": "사이드",
+            "img_src": "",
+            "menu_name": "[[사장야심작]]데리마요밥(1인분)",
+            "price": "2,500원"
+        },
+        {
+            "category": "사이드",
+            "img_src": "",
+            "menu_name": "[辛]데리 마요우동(1인분)",
+            "price": "4,000원"
+        },
+        {
+            "category": "사이드",
+            "img_src": "",
+            "menu_name": "할라피뇨(1인분)",
+            "price": "500원"
+        },
+        {
+            "category": "사이드",
+            "img_src": "",
+            "menu_name": "치킨무(1인분)",
+            "price": "500원"
+        },
+        {
+            "category": "음료",
+            "img_src": "",
+            "menu_name": "코카콜라(500MM)",
+            "price": "2,000원"
+        },
+        {
+            "category": "음료",
+            "img_src": "",
+            "menu_name": "코카콜라(1.25L)",
+            "price": "3,000원"
+        },
+        {
+            "category": "음료",
+            "img_src": "",
+            "menu_name": "스프라이트(500MM)",
+            "price": "2,000원"
+        },
+        {
+            "category": "음료",
+            "img_src": "",
+            "menu_name": "스프라이트(1.25L)",
+            "price": "3,000원"
+        },
+        {
+            "category": "음료",
+            "img_src": "",
+            "menu_name": "제로 코카콜라(500MM)",
+            "price": "2,000원"
+        },
+        {
+            "category": "음료",
+            "img_src": "",
+            "menu_name": "제로 코카콜라(1.25L)",
+            "price": "3,000원"
+        }
+    ]
+}

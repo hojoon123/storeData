@@ -1,0 +1,14 @@
+{
+    "store_name": "대륙회수산",
+    "store_location": "경기 화성시 동탄대로6길 29 에비뉴223프라자 1층 105호, 106호",
+    "loc_x": "209703.200108487",
+    "loc_y": "407438.62474852",
+    "menu": [
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241124_30%2F1732439159927arcIu_JPEG%2F%25B9%25E6%25BE%25EE%25C8%25B8.jpg",
+            "menu_name": "제철방어",
+            "price": "60,000원"
+        }
+    ]
+}

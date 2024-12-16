@@ -1,0 +1,44 @@
+{
+    "store_name": "배양리두루치기 봉담점",
+    "store_location": "경기 화성시 봉담읍 삼천병마로 645 1층",
+    "loc_x": "193943.452610345",
+    "loc_y": "407175.570560476",
+    "menu": [
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241209_239%2F17337482219316YgpX_JPEG%2F1733747554145.jpg",
+            "menu_name": "제육볶음 두루치기 (2인)",
+            "price": "22,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241209_156%2F1733748497914JL8Dv_JPEG%2F1733747551940.jpg",
+            "menu_name": "오징어오겹살 두루치기 (2인)",
+            "price": "28,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241209_7%2F1733748580789aytJG_JPEG%2F1733747550856.jpg",
+            "menu_name": "김치찌개",
+            "price": "9,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241209_25%2F1733748648540i0jfa_JPEG%2F1733747553040.jpg",
+            "menu_name": "왕 계란말이",
+            "price": "9,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241209_147%2F1733748692238US8aK_JPEG%2F1733747949548.jpg",
+            "menu_name": "생오겹살 (200g)",
+            "price": "16,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241209_124%2F1733748619198qhEWH_JPEG%2F1733747547994.jpg",
+            "menu_name": "오징어숙회",
+            "price": "14,000원"
+        }
+    ]
+}

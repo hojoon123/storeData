@@ -1,0 +1,14 @@
+{
+    "store_name": "파슷타애요 시흥점",
+    "store_location": "경기 시흥시 호현로9번길 6 1층 101호",
+    "loc_x": "180761.757419008",
+    "loc_y": "437775.885853722",
+    "menu": [
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20231016_113%2F1697465913779flcjQ_JPEG%2FScreenshot_20231016_231802.jpg",
+            "menu_name": "매콤크림파스타",
+            "price": "10,500원"
+        }
+    ]
+}

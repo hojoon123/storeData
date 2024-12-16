@@ -1,0 +1,14 @@
+{
+    "store_name": "경산집",
+    "store_location": "경북 경산시 경산로 277",
+    "loc_x": "355584.486401532",
+    "loc_y": "260530.826019402",
+    "menu": [
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241213_50%2F1734083340688P7X3p_JPEG%2FCK_tica101m18120099_l.jpg",
+            "menu_name": "생삼겹살 (130g)",
+            "price": "10,000원"
+        }
+    ]
+}

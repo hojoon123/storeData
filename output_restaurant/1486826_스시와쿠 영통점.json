@@ -1,0 +1,206 @@
+{
+    "store_name": "스시와쿠 영통점",
+    "store_location": "경기 수원시 영통구 청명남로 21 1층 109호",
+    "loc_x": "206534.697014217",
+    "loc_y": "416684.939051615",
+    "menu": [
+        {
+            "category": "사장님 추천 메뉴",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20241202_55/1733142982570bmBYf_JPEG/%BF%CD%C4%ED%C3%CA%B9%E4.jpg?type=f220_220_60_sharpen",
+            "menu_name": "와쿠초밥대표",
+            "price": "17,800원"
+        },
+        {
+            "category": "사장님 추천 메뉴",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20241202_66/1733143384436oNDRd_JPEG/%BF%CD%C4%ED%B5%A4%B9%E4.jpg?type=f220_220_60_sharpen",
+            "menu_name": "카이센동(와쿠덮밥)대표",
+            "price": "16,000원"
+        },
+        {
+            "category": "모듬초밥",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20241202_101/1733143161673o0BV2_JPEG/%BF%AC%BE%EE%C3%CA%B9%E4.jpg?type=f220_220_60_sharpen",
+            "menu_name": "연어초밥",
+            "price": "17,000원"
+        },
+        {
+            "category": "모듬초밥",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20241202_280/17331432271481lGs1_JPEG/%BF%CD%C4%ED%C1%D6%B4%CF%BE%EE.jpg?type=f220_220_60_sharpen",
+            "menu_name": "와쿠주니어(와사비x)",
+            "price": "7,800원"
+        },
+        {
+            "category": "모듬초밥",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20241202_55/1733142982570bmBYf_JPEG/%BF%CD%C4%ED%C3%CA%B9%E4.jpg?type=f220_220_60_sharpen",
+            "menu_name": "와쿠초밥대표",
+            "price": "17,800원"
+        },
+        {
+            "category": "모듬초밥",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20241202_256/1733112140945t4gsQ_JPEG/%C1%F8%BD%C9%C3%CA%B9%E4_02.jpg?type=f220_220_60_sharpen",
+            "menu_name": "진심초밥",
+            "price": "12,800원"
+        },
+        {
+            "category": "덮밥&물회",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20241202_66/1733143384436oNDRd_JPEG/%BF%CD%C4%ED%B5%A4%B9%E4.jpg?type=f220_220_60_sharpen",
+            "menu_name": "카이센동(와쿠덮밥)대표",
+            "price": "16,000원"
+        },
+        {
+            "category": "덮밥&물회",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20241202_14/1733143294636OJEMm_JPEG/%B8%F0%B5%EB%C8%B8%B5%A4%B9%E4.jpg?type=f220_220_60_sharpen",
+            "menu_name": "모듬회덮밥",
+            "price": "11,800원"
+        },
+        {
+            "category": "덮밥&물회",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20241202_42/1733143599054JY4Py_JPEG/%C0%E5%BE%EE%B5%A4%B9%E4.jpg?type=f220_220_60_sharpen",
+            "menu_name": "장어덮밥",
+            "price": "17,000원"
+        },
+        {
+            "category": "덮밥&물회",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20241202_30/1733143505276yiuel_JPEG/%BF%AC%BE%EE%B5%A4%B9%E4.jpg?type=f220_220_60_sharpen",
+            "menu_name": "연어덮밥",
+            "price": "15,800원"
+        },
+        {
+            "category": "추가&음료",
+            "img_src": "",
+            "menu_name": "제로콜라",
+            "price": "2,000원"
+        },
+        {
+            "category": "추가&음료",
+            "img_src": "",
+            "menu_name": "사이다",
+            "price": "2,000원"
+        },
+        {
+            "category": "추가&음료",
+            "img_src": "",
+            "menu_name": "콜라",
+            "price": "2,000원"
+        },
+        {
+            "category": "추가&음료",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20241202_42/1733144432548IHtkx_JPEG/%BF%EC%B5%BF.jpg?type=f220_220_60_sharpen",
+            "menu_name": "우동",
+            "price": "4,000원"
+        },
+        {
+            "category": "단품초밥",
+            "img_src": "",
+            "menu_name": "구운갈릭소라",
+            "price": "0원"
+        },
+        {
+            "category": "단품초밥",
+            "img_src": "",
+            "menu_name": "계란",
+            "price": "0원"
+        },
+        {
+            "category": "단품초밥",
+            "img_src": "",
+            "menu_name": "날치알",
+            "price": "0원"
+        },
+        {
+            "category": "단품초밥",
+            "img_src": "",
+            "menu_name": "타코와사비",
+            "price": "0원"
+        },
+        {
+            "category": "단품초밥",
+            "img_src": "",
+            "menu_name": "민물장어",
+            "price": "0원"
+        },
+        {
+            "category": "단품초밥",
+            "img_src": "",
+            "menu_name": "소라 (소스없음)",
+            "price": "0원"
+        },
+        {
+            "category": "단품초밥",
+            "img_src": "",
+            "menu_name": "구운갈릭초새우",
+            "price": "0원"
+        },
+        {
+            "category": "단품초밥",
+            "img_src": "",
+            "menu_name": "구운갈릭생새우",
+            "price": "0원"
+        },
+        {
+            "category": "단품초밥",
+            "img_src": "",
+            "menu_name": "와규(소고기)",
+            "price": "0원"
+        },
+        {
+            "category": "단품초밥",
+            "img_src": "",
+            "menu_name": "묵은지연어",
+            "price": "0원"
+        },
+        {
+            "category": "단품초밥",
+            "img_src": "",
+            "menu_name": "구운연어마요",
+            "price": "0원"
+        },
+        {
+            "category": "단품초밥",
+            "img_src": "",
+            "menu_name": "구운갈릭연어",
+            "price": "0원"
+        },
+        {
+            "category": "단품초밥",
+            "img_src": "",
+            "menu_name": "초새우",
+            "price": "0원"
+        },
+        {
+            "category": "단품초밥",
+            "img_src": "",
+            "menu_name": "간장새우",
+            "price": "0원"
+        },
+        {
+            "category": "단품초밥",
+            "img_src": "",
+            "menu_name": "구운새우마요",
+            "price": "0원"
+        },
+        {
+            "category": "단품초밥",
+            "img_src": "",
+            "menu_name": "광어",
+            "price": "0원"
+        },
+        {
+            "category": "단품초밥",
+            "img_src": "",
+            "menu_name": "묵은지광어",
+            "price": "0원"
+        },
+        {
+            "category": "단품초밥",
+            "img_src": "",
+            "menu_name": "연어",
+            "price": "0원"
+        },
+        {
+            "category": "단품초밥",
+            "img_src": "",
+            "menu_name": "연어뱃살",
+            "price": "0원"
+        }
+    ]
+}

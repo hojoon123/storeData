@@ -1,0 +1,44 @@
+{
+    "store_name": "소담소담",
+    "store_location": "경기 광주시 문형산길 93 2층 201호",
+    "loc_x": "",
+    "loc_y": "",
+    "menu": [
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241208_144%2F1733668290448xM48u_JPEG%2F1000002459.jpg",
+            "menu_name": "유린기",
+            "price": "18,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241215_166%2F1734190976274qXG8k_JPEG%2F1000002553.jpg",
+            "menu_name": "오징어순대전+명태회",
+            "price": "18,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241215_225%2F1734190931558sh7t8_JPEG%2F1000002554.jpg",
+            "menu_name": "리얼스팸 볶음밥",
+            "price": "8,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241211_218%2F17339272788522liWx_JPEG%2F1000002538.jpg",
+            "menu_name": "짐빔하이볼",
+            "price": "7,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241211_233%2F1733927236158b5gFA_JPEG%2F1000002539.jpg",
+            "menu_name": "크래미치즈 계란말이",
+            "price": "13,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241211_240%2F17339271330193h1ax_JPEG%2F1000002537.jpg",
+            "menu_name": "구룡포과메기",
+            "price": "23,000원"
+        }
+    ]
+}

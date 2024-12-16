@@ -1,0 +1,56 @@
+{
+    "store_name": "회뜨는광장",
+    "store_location": "경기 부천시 오정구 소사로 741 1층",
+    "loc_x": "182648.657181258",
+    "loc_y": "446689.760423889",
+    "menu": [
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241128_141%2F1732750012803xUi1s_PNG%2F1000070296.png",
+            "menu_name": "광장스페셜(대)",
+            "price": "150,000원"
+        },
+        {
+            "category": "",
+            "img_src": "",
+            "menu_name": "광장회정식1인",
+            "price": "18,000원"
+        },
+        {
+            "category": "",
+            "img_src": "",
+            "menu_name": "생우럭탕(1마리)",
+            "price": "25,000원"
+        },
+        {
+            "category": "",
+            "img_src": "",
+            "menu_name": "초밥(활어,연어,반반)",
+            "price": "18,000원"
+        },
+        {
+            "category": "",
+            "img_src": "",
+            "menu_name": "알고니탕(2인이상)점심",
+            "price": "15,000원"
+        },
+        {
+            "category": "",
+            "img_src": "",
+            "menu_name": "알대구탕(2인이상)점심",
+            "price": "15,000원"
+        },
+        {
+            "category": "",
+            "img_src": "",
+            "menu_name": "회덮밥(점심)",
+            "price": "13,000원"
+        },
+        {
+            "category": "",
+            "img_src": "",
+            "menu_name": "생선구이(점심)",
+            "price": "12,000원"
+        }
+    ]
+}

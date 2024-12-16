@@ -1,0 +1,74 @@
+{
+    "store_name": "봉자막창 평창진부점",
+    "store_location": "강원 평창군 진부면 청송로 88-11",
+    "loc_x": "337300.4808551",
+    "loc_y": "460446.9733047",
+    "menu": [
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241128_92%2F1732771434855maQRR_JPEG%2F%25B0%25ED%25B1%25E2%25B9%25DD%25B9%25DD.jpg",
+            "menu_name": "봉자 고기반반 섞어한판",
+            "price": "41,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241128_78%2F1732771406223uCXUO_JPEG%2F%25BB%25FD%25B8%25B7%25C3%25A2.jpg",
+            "menu_name": "봉자 생막창(500g+500g)",
+            "price": "41,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241128_172%2F1732771372398qBE37_JPEG%2F%25BE%25E7%25B8%25B7.jpg",
+            "menu_name": "봉자 양념 불막창(300g+300g)",
+            "price": "41,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241128_185%2F17327713003600DwUi_JPEG%2F%25BB%25FD%25BB%25EF%25B0%25E3.jpg",
+            "menu_name": "봉자 생삼겹살(300g+300g)",
+            "price": "41,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241128_251%2F1732771189304QFEaY_JPEG%2F%25BB%25FD%25B8%25F1%25BB%25EC.jpg",
+            "menu_name": "봉자 생목살(300g+300g)",
+            "price": "41,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241128_55%2F17327711636071yuek_JPEG%2F%25BF%25EC%25BB%25EF%25B0%25E3.jpg",
+            "menu_name": "봉자 우삼겹살(400g+400g)",
+            "price": "41,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241128_209%2F1732771139469aRH7d_JPEG%2F%25B3%25C3%25BB%25EF_%25282%2529.jpg",
+            "menu_name": "봉자 냉동삼겹살(500g+500g)",
+            "price": "41,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241128_283%2F1732771104099YryQz_JPEG%2F%25BA%25D2%25B4%25DF%25B9%25DF.jpg",
+            "menu_name": "봉자 불 닭발",
+            "price": "20,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241128_222%2F1732771080156M1PHu_JPEG%2F%25BA%25C0%25C0%25DA%25B2%25AE%25B5%25A5%25B1%25E2.jpg",
+            "menu_name": "봉자 벌집껍데기",
+            "price": "5,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241128_52%2F1732771061428r3WVX_JPEG%2F%25B1%25E8%25C4%25A1%25B8%25BB%25C0%25CC%25B1%25B9%25BC%25F6.jpg",
+            "menu_name": "봉자 김치말이국수",
+            "price": "7,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241128_150%2F1732771036082rrc4r_JPEG%2F%25BF%25BE%25B3%25AF%25B6%25B1%25BA%25BA%25C0%25CC.jpg",
+            "menu_name": "봉자 옛날떡볶이",
+            "price": "5,000원"
+        }
+    ]
+}

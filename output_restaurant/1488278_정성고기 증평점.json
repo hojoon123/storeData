@@ -1,0 +1,38 @@
+{
+    "store_name": "정성고기 증평점",
+    "store_location": "충북 증평군 증평읍 진지내길 25 101호 정성고기 증평점",
+    "loc_x": "252770.325205629",
+    "loc_y": "364820.045684289",
+    "menu": [
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20231221_254%2F1703122777835Vjdgz_JPEG%2F20210506_175547.jpg",
+            "menu_name": "한우 살치살",
+            "price": "18,800원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20231221_170%2F1703122701749BrWDI_JPEG%2F20211014_164855.jpg",
+            "menu_name": "한우 꽃등심",
+            "price": "14,800원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20231221_58%2F17031226586566lcgm_JPEG%2FBandPhoto_2021_05_07_10_43_02.jpg",
+            "menu_name": "한돈 목심 1인분",
+            "price": "10,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20231221_56%2F1703122535257Kth9v_JPEG%2FKakaoTalk_20221024_121846788_16.jpg",
+            "menu_name": "한돈 삼겹살 1인분",
+            "price": "10,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20231219_146%2F17029528941803vwgu_JPEG%2FKakaoTalk_20231208_130551453_01.jpg",
+            "menu_name": "한우 육회",
+            "price": "25,000원"
+        }
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "store_name": "히든에이스홀덤펍 명지점",
+    "store_location": "부산 강서구 명지국제2로28번길 34 201호",
+    "loc_x": "373998.862892101",
+    "loc_y": "178751.18941184",
+    "menu": [
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241122_130%2F1732268868158T7FuY_JPEG%2FKakaoTalk_20241122_184739543.jpg",
+            "menu_name": "데일리게임",
+            "price": "10,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241122_1%2F1732269095046oOGuW_JPEG%2FKakaoTalk_20241122_184739543.jpg",
+            "menu_name": "하이롤러게임",
+            "price": "50,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241122_295%2F17322690500709PJx7_JPEG%2FKakaoTalk_20241122_184739543.jpg",
+            "menu_name": "딥스택게임",
+            "price": "30,000원"
+        }
+    ]
+}

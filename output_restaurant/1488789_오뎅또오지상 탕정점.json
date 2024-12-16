@@ -1,0 +1,104 @@
+{
+    "store_name": "오뎅또오지상 탕정점",
+    "store_location": "충남 아산시 탕정면 매곡한들3길 10 1층 101호",
+    "loc_x": "207911.415069727",
+    "loc_y": "364502.394885844",
+    "menu": [
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20231205_267%2F17017808670988CriT_PNG%2F%25B1%25E2%25BA%25BB.png",
+            "menu_name": "기본 오뎅",
+            "price": "2,500원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20231205_76%2F1701781170298vrFYN_PNG%2F%25B8%25C5%25BF%25EE%25BF%25C0%25B5%25AD.png",
+            "menu_name": "매운오뎅",
+            "price": "10,000원"
+        },
+        {
+            "category": "",
+            "img_src": "",
+            "menu_name": "매운우동",
+            "price": "9,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20231205_273%2F1701781603918czRTc_PNG%2F%25BD%25C3%25BB%25FE%25B8%25F0.png",
+            "menu_name": "시샤모",
+            "price": "14,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20231205_141%2F1701782427513zLlMB_PNG%2F%25C5%25D7%25B9%25D9.png",
+            "menu_name": "후추후추테바사키 4p",
+            "price": "13,900원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20231205_160%2F1701781852748FsaHG_PNG%2F%25B3%25AD%25B9%25DD.png",
+            "menu_name": "치킨난반",
+            "price": "16,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20231205_147%2F1701781771109LaRym_PNG%2F%25B9%25F6%25C5%25CD%25BF%25C0%25C2%25A1%25BE%25EE.png",
+            "menu_name": "버터 통오징어구이",
+            "price": "16,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20231205_208%2F1701782068888lITIG_PNG%2F%25BA%25A3%25C0%25CC%25C4%25C1.png",
+            "menu_name": "베이컨 오믈렛",
+            "price": "10,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20231205_45%2F1701781978083P4QPk_PNG%2F%25BB%25E7%25B6%25F3%25B4%25D9%25BB%25A7.png",
+            "menu_name": "사라다빵",
+            "price": "10,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20231205_83%2F1701782709051enxyl_PNG%2F%25BE%25DF%25B8%25B8.png",
+            "menu_name": "야끼만두",
+            "price": "8,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20231205_127%2F17017822142373HQcz_PNG%2F%25B2%25AE%25C1%25FA.png",
+            "menu_name": "닭껍질가라야게",
+            "price": "8,900원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20231205_49%2F17017825150192LKGs_PNG%2F%25BC%25D2%25BD%25C3%25C1%25F6.png",
+            "menu_name": "문어소시지",
+            "price": "7,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20231205_32%2F17017826232939zAX8_PNG%2F%25B0%25A8%25C6%25A2.png",
+            "menu_name": "스마일 감자튀김",
+            "price": "7,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20231205_78%2F1701782850952EvKNM_PNG%2F%25BF%25C0%25C0%25CC.png",
+            "menu_name": "오이샐러드",
+            "price": "5,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20231205_45%2F1701782941482tyntx_PNG%2F%25C5%25E4%25B8%25B6%25C5%25E4.png",
+            "menu_name": "토마토 사라다",
+            "price": "8,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20231205_35%2F1701780983802Y8NFM_PNG%2F%25BF%25EC%25B5%25BF.png",
+            "menu_name": "우동",
+            "price": "8,000원"
+        }
+    ]
+}

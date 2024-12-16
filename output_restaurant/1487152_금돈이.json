@@ -1,0 +1,26 @@
+{
+    "store_name": "금돈이",
+    "store_location": "충남 당진시 송악읍 신복운로5길 4-31 1층오른쪽호",
+    "loc_x": "180464.273686219",
+    "loc_y": "382248.743953368",
+    "menu": [
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241120_47%2F17320864592394c8ky_JPEG%2F1000005111.jpg",
+            "menu_name": "YBD 삼겹",
+            "price": "16,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241213_280%2F1734049789178PV0qx_JPEG%2F1000005453.jpg",
+            "menu_name": "YBD 목살",
+            "price": "16,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241130_257%2F1732962102454YRBMD_JPEG%2F1000005309.jpg",
+            "menu_name": "++ No.9 한우 살치",
+            "price": "49,000원"
+        }
+    ]
+}

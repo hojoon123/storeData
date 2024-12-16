@@ -1,0 +1,194 @@
+{
+    "store_name": "꼬마카세",
+    "store_location": "경남 함안군 가야읍 함마대로 1510 1층",
+    "loc_x": "327360.67281735",
+    "loc_y": "198274.5154453",
+    "menu": [
+        {
+            "category": "",
+            "img_src": "",
+            "menu_name": "파인애플샤베트",
+            "price": "7,000원"
+        },
+        {
+            "category": "",
+            "img_src": "",
+            "menu_name": "아이스황도",
+            "price": "7,000원"
+        },
+        {
+            "category": "",
+            "img_src": "",
+            "menu_name": "타코와사비",
+            "price": "15,000원"
+        },
+        {
+            "category": "",
+            "img_src": "",
+            "menu_name": "해물라면",
+            "price": "12,000원"
+        },
+        {
+            "category": "",
+            "img_src": "",
+            "menu_name": "김치우동",
+            "price": "10,000원"
+        },
+        {
+            "category": "",
+            "img_src": "",
+            "menu_name": "감자전",
+            "price": "7,000원"
+        },
+        {
+            "category": "",
+            "img_src": "",
+            "menu_name": "호롱낙지구이",
+            "price": "13,000원"
+        },
+        {
+            "category": "",
+            "img_src": "",
+            "menu_name": "먹태구이",
+            "price": "15,000원"
+        },
+        {
+            "category": "",
+            "img_src": "",
+            "menu_name": "무뼈닭발볶음",
+            "price": "15,000원"
+        },
+        {
+            "category": "",
+            "img_src": "",
+            "menu_name": "알탕",
+            "price": "25,000원"
+        },
+        {
+            "category": "",
+            "img_src": "",
+            "menu_name": "얼큰해물짬뽕탕",
+            "price": "23,000원"
+        },
+        {
+            "category": "",
+            "img_src": "",
+            "menu_name": "해물나가사키짬뽕탕",
+            "price": "23,000원"
+        },
+        {
+            "category": "",
+            "img_src": "",
+            "menu_name": "감바스알아히요",
+            "price": "20,000원"
+        },
+        {
+            "category": "",
+            "img_src": "",
+            "menu_name": "바지락술찜",
+            "price": "18,000원"
+        },
+        {
+            "category": "",
+            "img_src": "",
+            "menu_name": "꼬치어묵전골",
+            "price": "12,000원"
+        },
+        {
+            "category": "",
+            "img_src": "",
+            "menu_name": "숨굴튀김(시즌)",
+            "price": "15,000원"
+        },
+        {
+            "category": "",
+            "img_src": "",
+            "menu_name": "새우튀김",
+            "price": "15,000원"
+        },
+        {
+            "category": "",
+            "img_src": "",
+            "menu_name": "모둠감자튀김",
+            "price": "15,000원"
+        },
+        {
+            "category": "",
+            "img_src": "",
+            "menu_name": "치킨가라아게",
+            "price": "12,000원"
+        },
+        {
+            "category": "",
+            "img_src": "",
+            "menu_name": "이까게소(오지어다리)",
+            "price": "10,000원"
+        },
+        {
+            "category": "",
+            "img_src": "",
+            "menu_name": "감자고로케",
+            "price": "5,000원"
+        },
+        {
+            "category": "",
+            "img_src": "",
+            "menu_name": "고구마치즈고로케",
+            "price": "5,000원"
+        },
+        {
+            "category": "",
+            "img_src": "",
+            "menu_name": "아게다시도후(두부튀김)",
+            "price": "5,000원"
+        },
+        {
+            "category": "",
+            "img_src": "",
+            "menu_name": "물방울츄러스",
+            "price": "4,000원"
+        },
+        {
+            "category": "",
+            "img_src": "",
+            "menu_name": "닭 목살",
+            "price": "5,000원"
+        },
+        {
+            "category": "",
+            "img_src": "",
+            "menu_name": "파+닭",
+            "price": "5,000원"
+        },
+        {
+            "category": "",
+            "img_src": "",
+            "menu_name": "닭 무릎연골",
+            "price": "5,000원"
+        },
+        {
+            "category": "",
+            "img_src": "",
+            "menu_name": "닭 가슴연골",
+            "price": "5,000원"
+        },
+        {
+            "category": "",
+            "img_src": "",
+            "menu_name": "닭 다리살",
+            "price": "4,500원"
+        },
+        {
+            "category": "",
+            "img_src": "",
+            "menu_name": "닭 껍질",
+            "price": "4,500원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241210_32%2F1733816050443J9sbn_PNG%2FKakaoTalk_20241210_163023537.png",
+            "menu_name": "닭 염통",
+            "price": "4,000원"
+        }
+    ]
+}

@@ -1,0 +1,92 @@
+{
+    "store_name": "식껍 상주점",
+    "store_location": "경북 상주시 동수4길 106 식껍 상주점",
+    "loc_x": "303703.616660215",
+    "loc_y": "325288.007835418",
+    "menu": [
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240109_263%2F1704788895417mblVr_JPEG%2F20231106_191302.jpg",
+            "menu_name": "식껍 시그니처",
+            "price": "35,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240509_11%2F17152523445351yJyq_JPEG%2F20240416_215256.jpg",
+            "menu_name": "뼈삼겹 돼지갈비 (200g)",
+            "price": "12,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240110_267%2F1704871063650VqkkY_JPEG%2FIMG_20231205_163133_805.jpg",
+            "menu_name": "양념택1 (쫀득살) + 식껍시그니처",
+            "price": "49,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240419_99%2F1713511612909EeNQ2_JPEG%2FIMG_20231207_155346_756.jpg",
+            "menu_name": "양념택2(오도독살) +식껍 시그니처",
+            "price": "49,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240419_194%2F1713512240698XFE4Y_JPEG%2FPolish_20240419_163445242.jpg",
+            "menu_name": "양념택3(숯불쭈꾸미)+식껍시그니처",
+            "price": "49,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240419_153%2F1713512525660vIrvu_JPEG%2FLOL_4245_1.jpg",
+            "menu_name": "꼬들목살(150g)",
+            "price": "11,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240419_157%2F1713512397557FTACM_JPEG%2FLOL_4264.jpg",
+            "menu_name": "숙성한돈삼겹살(150g)",
+            "price": "11,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240419_276%2F1713512676728JBLpL_JPEG%2FLOL_4273.jpg",
+            "menu_name": "치마살(150g)",
+            "price": "11,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240419_95%2F17135127813281oSzv_JPEG%2FLOL_4272_1.jpg",
+            "menu_name": "등심덧살(150g)",
+            "price": "11,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240419_38%2F1713513095758t8LqW_JPEG%2FLOL_4369.jpg",
+            "menu_name": "쫀득살(200g)",
+            "price": "14,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240419_139%2F1713513696626qQJji_JPEG%2F1713513676376.jpg",
+            "menu_name": "오도독살(200g)",
+            "price": "14,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240419_179%2F1713513851449Kgx7I_JPEG%2FLOL_4355_1.jpg",
+            "menu_name": "숯불쭈꾸미(200g)",
+            "price": "14,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240419_183%2F1713514012996PGo9C_JPEG%2FLOL_4365_1.jpg",
+            "menu_name": "껍데기(2장)",
+            "price": "9,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240419_8%2F1713514079591pQJiP_JPEG%2FLOL_4365_1.jpg",
+            "menu_name": "껍데기(1장)",
+            "price": "5,000원"
+        }
+    ]
+}

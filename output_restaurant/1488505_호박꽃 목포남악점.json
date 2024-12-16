@@ -1,0 +1,38 @@
+{
+    "store_name": "호박꽃 목포남악점",
+    "store_location": "전남 무안군 삼향읍 대죽서로15번길 38 105호",
+    "loc_x": "150633.340710923",
+    "loc_y": "146140.053664027",
+    "menu": [
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240610_19%2F1718008834496gHi1E_JPEG%2FIMG_4181.jpeg",
+            "menu_name": "호박꽃 모리아와세(3~4인)",
+            "price": "116,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240610_112%2F1718008864882jKG3J_JPEG%2FIMG_4176.jpeg",
+            "menu_name": "호박 모리 아와세 (2인)",
+            "price": "78,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20231207_120%2F1701928849559r5UeJ_JPEG%2F%25B4%25D9%25BF%25EE%25B7%25CE%25B5%25E5_%252878%2529.jpg",
+            "menu_name": "우니 & 단새우 한판",
+            "price": "45,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240610_267%2F1718008901632goJoA_JPEG%2FIMG_4058.jpeg",
+            "menu_name": "김쌈",
+            "price": "13,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20231207_225%2F1701928876067WS1tC_JPEG%2F314702583_404328831784274_1177074917064803393_n.jpg",
+            "menu_name": "우설",
+            "price": "21,000원"
+        }
+    ]
+}

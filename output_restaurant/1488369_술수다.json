@@ -1,0 +1,38 @@
+{
+    "store_name": "술수다",
+    "store_location": "인천 미추홀구 매소홀로562번길 14 1층 101호",
+    "loc_x": "171967.316498875",
+    "loc_y": "437343.946693981",
+    "menu": [
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20231227_159%2F1703675875717rSNjN_JPEG%2F1000002962.jpg",
+            "menu_name": "닭볶음탕",
+            "price": "28,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240217_114%2F1708151321308IWani_JPEG%2F1000003026.jpg",
+            "menu_name": "동태탕",
+            "price": "25,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240217_105%2F17081511291991BV5v_JPEG%2F1000003223.jpg",
+            "menu_name": "조개탕",
+            "price": "18,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20231229_99%2F1703832749177Bwei6_JPEG%2F1000002961.jpg",
+            "menu_name": "닭똥집",
+            "price": "13,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20231229_99%2F1703832628947dRYI7_JPEG%2F1000002960.jpg",
+            "menu_name": "감자전",
+            "price": "10,000원"
+        }
+    ]
+}

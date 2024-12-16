@@ -1,0 +1,266 @@
+{
+    "store_name": "정성닭발 칠곡직영점",
+    "store_location": "대구 북구 칠곡중앙대로71길 30-11 1층",
+    "loc_x": "339419.783771377",
+    "loc_y": "270872.1919489",
+    "menu": [
+        {
+            "category": "대표메뉴",
+            "img_src": "",
+            "menu_name": "[추천] 튤립닭발",
+            "price": "21,000원"
+        },
+        {
+            "category": "대표메뉴",
+            "img_src": "",
+            "menu_name": "[무뼈] 직화닭발",
+            "price": "21,000원"
+        },
+        {
+            "category": "대표메뉴",
+            "img_src": "",
+            "menu_name": "[무뼈] 국물닭발",
+            "price": "23,000원"
+        },
+        {
+            "category": "대표메뉴",
+            "img_src": "",
+            "menu_name": "[살짝매콤] 정성 뼈 후라이드(하림100%냉장)",
+            "price": "14,000원"
+        },
+        {
+            "category": "대표메뉴",
+            "img_src": "",
+            "menu_name": "[살짝매콤] 정성 순살 후라이드(하림닭다리살)",
+            "price": "15,000원"
+        },
+        {
+            "category": "추가배달료선택",
+            "img_src": "",
+            "menu_name": "금호, 사수동",
+            "price": "3,000원"
+        },
+        {
+            "category": "추가배달료선택",
+            "img_src": "",
+            "menu_name": "도남지구힐스테이트",
+            "price": "2,000원"
+        },
+        {
+            "category": "정성세트메뉴",
+            "img_src": "",
+            "menu_name": "[SET1] 닭발(택1)+계란찜+주먹밥",
+            "price": "26,000원"
+        },
+        {
+            "category": "정성세트메뉴",
+            "img_src": "",
+            "menu_name": "[SET2] 닭발(택1)+뼈후라이드(하림100%냉장)",
+            "price": "33,000원"
+        },
+        {
+            "category": "정성세트메뉴",
+            "img_src": "",
+            "menu_name": "[SET3]닭발(택1)+순살후라이드(하림닭다리살)",
+            "price": "34,000원"
+        },
+        {
+            "category": "정성세트메뉴",
+            "img_src": "",
+            "menu_name": "[SET4]닭발(택1)+똥집후라이드(하림냉장)",
+            "price": "34,000원"
+        },
+        {
+            "category": "단품메뉴",
+            "img_src": "",
+            "menu_name": "[추천] 튤립닭발",
+            "price": "21,000원"
+        },
+        {
+            "category": "단품메뉴",
+            "img_src": "",
+            "menu_name": "[무뼈] 직화닭발",
+            "price": "21,000원"
+        },
+        {
+            "category": "단품메뉴",
+            "img_src": "",
+            "menu_name": "[통뼈]직화닭발",
+            "price": "19,000원"
+        },
+        {
+            "category": "단품메뉴",
+            "img_src": "",
+            "menu_name": "[무뼈] 국물닭발",
+            "price": "23,000원"
+        },
+        {
+            "category": "단품메뉴",
+            "img_src": "",
+            "menu_name": "[통뼈] 국물닭발",
+            "price": "22,000원"
+        },
+        {
+            "category": "단품메뉴",
+            "img_src": "",
+            "menu_name": "[매콤]오돌뼈",
+            "price": "19,000원"
+        },
+        {
+            "category": "단품메뉴",
+            "img_src": "",
+            "menu_name": "[매콤] 오돌뼈+주먹밥",
+            "price": "22,000원"
+        },
+        {
+            "category": "단품메뉴",
+            "img_src": "",
+            "menu_name": "[통통]쭈꾸미볶음",
+            "price": "22,000원"
+        },
+        {
+            "category": "단품메뉴",
+            "img_src": "",
+            "menu_name": "[살짝매콤] 정성 뼈 후라이드(하림100%냉장)",
+            "price": "14,000원"
+        },
+        {
+            "category": "단품메뉴",
+            "img_src": "",
+            "menu_name": "[살짝매콤] 정성 순살 후라이드(하림닭다리살)",
+            "price": "15,000원"
+        },
+        {
+            "category": "단품메뉴",
+            "img_src": "",
+            "menu_name": "똥집 후라이드(하림냉장)",
+            "price": "15,000원"
+        },
+        {
+            "category": "단품메뉴",
+            "img_src": "",
+            "menu_name": "닭발편육[살짝매콤]",
+            "price": "11,000원"
+        },
+        {
+            "category": "1+1할인 인기메뉴",
+            "img_src": "",
+            "menu_name": "튤립닭발+튤립닭발",
+            "price": "40,000원"
+        },
+        {
+            "category": "1+1할인 인기메뉴",
+            "img_src": "",
+            "menu_name": "무뼈직화+무뼈직화",
+            "price": "40,000원"
+        },
+        {
+            "category": "1+1할인 인기메뉴",
+            "img_src": "",
+            "menu_name": "튤립닭발+무뼈직화",
+            "price": "40,000원"
+        },
+        {
+            "category": "1+1할인 인기메뉴",
+            "img_src": "",
+            "menu_name": "오돌뼈+통뼈직화",
+            "price": "36,000원"
+        },
+        {
+            "category": "사이드메뉴",
+            "img_src": "",
+            "menu_name": "계란찜",
+            "price": "3,000원"
+        },
+        {
+            "category": "사이드메뉴",
+            "img_src": "",
+            "menu_name": "주먹밥",
+            "price": "4,000원"
+        },
+        {
+            "category": "사이드메뉴",
+            "img_src": "",
+            "menu_name": "치즈떡(10개)",
+            "price": "3,000원"
+        },
+        {
+            "category": "사이드메뉴",
+            "img_src": "",
+            "menu_name": "찰치즈볼(7개)",
+            "price": "4,000원"
+        },
+        {
+            "category": "사이드메뉴",
+            "img_src": "",
+            "menu_name": "김말이튀김(6개)",
+            "price": "3,000원"
+        },
+        {
+            "category": "사이드메뉴",
+            "img_src": "",
+            "menu_name": "공기밥",
+            "price": "1,000원"
+        },
+        {
+            "category": "사이드메뉴",
+            "img_src": "",
+            "menu_name": "샐러드 추가",
+            "price": "1,500원"
+        },
+        {
+            "category": "사이드메뉴",
+            "img_src": "",
+            "menu_name": "마요네즈소스 추가",
+            "price": "500원"
+        },
+        {
+            "category": "사이드메뉴",
+            "img_src": "",
+            "menu_name": "마늘소스 추가",
+            "price": "500원"
+        },
+        {
+            "category": "사이드메뉴",
+            "img_src": "",
+            "menu_name": "치킨무 추가",
+            "price": "500원"
+        },
+        {
+            "category": "사이드메뉴",
+            "img_src": "",
+            "menu_name": "[국물닭발용] 당면사리 추가",
+            "price": "1,000원"
+        },
+        {
+            "category": "사이드메뉴",
+            "img_src": "",
+            "menu_name": "[국물닭발용] 콩나물 추가",
+            "price": "1,000원"
+        },
+        {
+            "category": "음료메뉴",
+            "img_src": "",
+            "menu_name": "코카콜라(355ml)",
+            "price": "2,000원"
+        },
+        {
+            "category": "음료메뉴",
+            "img_src": "",
+            "menu_name": "제로콜라 355ml",
+            "price": "2,000원"
+        },
+        {
+            "category": "음료메뉴",
+            "img_src": "",
+            "menu_name": "스프라이트(355ml)",
+            "price": "2,000원"
+        },
+        {
+            "category": "음료메뉴",
+            "img_src": "",
+            "menu_name": "환타 355ml",
+            "price": "2,000원"
+        }
+    ]
+}

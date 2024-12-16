@@ -1,0 +1,50 @@
+{
+    "store_name": "청정팥들깨칼국수 배곧점",
+    "store_location": "경기 시흥시 서울대학로264번길 26-32 배곧중앙프라자 134,135호",
+    "loc_x": "175810.848650867",
+    "loc_y": "429428.537944057",
+    "menu": [
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241211_142%2F1733884662059tLFpt_JPEG%2F1000027370.jpg",
+            "menu_name": "만두",
+            "price": "8,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241211_295%2F1733884671244NBxvQ_JPEG%2F1000027370.jpg",
+            "menu_name": "해물파전",
+            "price": "15,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241211_137%2F1733884629637PtfJG_JPEG%2F1000027370.jpg",
+            "menu_name": "바지락칼국수",
+            "price": "10,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241211_299%2F17338846077349jHvg_JPEG%2F1000027370.jpg",
+            "menu_name": "들깨수제비",
+            "price": "10,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241211_269%2F17338845900413C6TW_JPEG%2F1000027370.jpg",
+            "menu_name": "들깨칼국수",
+            "price": "10,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241211_11%2F1733884566796r6Gex_JPEG%2F1000027370.jpg",
+            "menu_name": "팥옹심이",
+            "price": "11,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241211_218%2F1733884540631o9GwQ_JPEG%2F1000027370.jpg",
+            "menu_name": "팥칼국수",
+            "price": "11,000원"
+        }
+    ]
+}

@@ -1,0 +1,14 @@
+{
+    "store_name": "카페아이브 좌동2호점",
+    "store_location": "부산 해운대구 세실로 31 대승프라임 1층 101호",
+    "loc_x": "398461.813174819",
+    "loc_y": "187579.129294703",
+    "menu": [
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240115_293%2F1705260251037D0pxk_JPEG%2F16F831C7-9DD2-443A-B2CD-708D6317ED39.jpeg",
+            "menu_name": "스타벅스 아메리카노",
+            "price": "1,400원"
+        }
+    ]
+}

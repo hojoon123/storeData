@@ -1,0 +1,50 @@
+{
+    "store_name": "고기듬뿍 국물두루치기 영종점",
+    "store_location": "인천 중구 하늘중앙로225번길 20 3층 310호",
+    "loc_x": "160950.274334927",
+    "loc_y": "442847.452738572",
+    "menu": [
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241201_136%2F1733057914204LjwTe_JPEG%2Fcommon-3.jpeg",
+            "menu_name": "고기듬뿍 국물두루치기",
+            "price": "14,500원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241213_129%2F17340828595437rhbD_JPEG%2FIMG_9896.jpeg",
+            "menu_name": "고기듬뿍 김치두루치기",
+            "price": "16,500원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241213_108%2F1734082811801MT5QY_JPEG%2FIMG_9895.jpeg",
+            "menu_name": "고기듬뿍 마라두루치기",
+            "price": "16,500원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241213_245%2F1734082897537usEH6_JPEG%2FIMG_9897.jpeg",
+            "menu_name": "고기듬뿍 로제두루치기",
+            "price": "15,500원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241213_47%2F1734082915240wHmVb_JPEG%2FIMG_9898.jpeg",
+            "menu_name": "고기듬뿍 마라로제두루치기",
+            "price": "16,500원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241213_7%2F1734082973616i9avq_JPEG%2FIMG_9893.jpeg",
+            "menu_name": "대파 제육볶음",
+            "price": "14,500원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241213_164%2F1734083032501OzjxF_JPEG%2FIMG_9899.jpeg",
+            "menu_name": "김치제육볶음",
+            "price": "15,500원"
+        }
+    ]
+}

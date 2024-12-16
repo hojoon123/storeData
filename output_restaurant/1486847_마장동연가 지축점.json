@@ -1,0 +1,56 @@
+{
+    "store_name": "마장동연가 지축점",
+    "store_location": "경기 고양시 덕양구 안진1길 18 1층",
+    "loc_x": "",
+    "loc_y": "",
+    "menu": [
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241203_245%2F1733182151226fiFUm_JPEG%2F1000019966.jpg",
+            "menu_name": "소곱창 (500g)",
+            "price": "22,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241203_119%2F1733182205750BQICX_JPEG%2F1000019964.jpg",
+            "menu_name": "모듬곱창 (400g)",
+            "price": "19,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241203_202%2F1733182274378qg1X1_JPEG%2F1000019967.jpg",
+            "menu_name": "소대창 (300g)",
+            "price": "22,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241203_14%2F1733182332355jxnJV_JPEG%2F1000019968.jpg",
+            "menu_name": "소막창(300g)",
+            "price": "22,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241203_245%2F17331824199392lgkH_JPEG%2F1000019970.jpg",
+            "menu_name": "소깐양(300g)",
+            "price": "20,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241203_224%2F1733182380113H7vQo_JPEG%2F1000019969.jpg",
+            "menu_name": "소염통 (300g)",
+            "price": "15,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241203_230%2F1733182449009xL1tx_JPEG%2F1000019971.jpg",
+            "menu_name": "곱창깍두기볶음밥",
+            "price": "6,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241203_282%2F17331824903575WEmH_JPEG%2F1000019972.jpg",
+            "menu_name": "곱창땡초라면",
+            "price": "5,000원"
+        }
+    ]
+}

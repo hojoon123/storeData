@@ -1,0 +1,14 @@
+{
+    "store_name": "블루하우스",
+    "store_location": "전남 순천시 왕궁길 11 2층",
+    "loc_x": "248499.630823737",
+    "loc_y": "161794.838474812",
+    "menu": [
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241210_82%2F1733828776401zTCvc_PNG%2F1000000062.png",
+            "menu_name": "블루하우스",
+            "price": "변동"
+        }
+    ]
+}

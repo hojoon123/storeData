@@ -1,0 +1,80 @@
+{
+    "store_name": "호포해담",
+    "store_location": "경남 양산시 동면 호포로 17 2층",
+    "loc_x": "383275.386573111",
+    "loc_y": "199952.792362937",
+    "menu": [
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241202_285%2F1733096980714h9Cko_JPEG%2F1000027175.jpg",
+            "menu_name": "사시미솥밥코스",
+            "price": "30,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241126_254%2F1732599717942KpA0y_JPEG%2F1000026125.jpg",
+            "menu_name": "가지소보로 솥밥정식",
+            "price": "17,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241128_198%2F1732761869895J7RwL_JPEG%2F1000026182.jpg",
+            "menu_name": "돼지갈비 솥밥정식",
+            "price": "18,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241128_79%2F1732766201235WYkQb_JPEG%2F1000026185.jpg",
+            "menu_name": "전복해초 솥밥정식",
+            "price": "19,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241202_155%2F1733096525540KC5kF_JPEG%2F1000027169.jpg",
+            "menu_name": "호포물회정식",
+            "price": "18,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241124_67%2F1732406361335fIDM5_JPEG%2F1000025787.jpg",
+            "menu_name": "바다장어 솥밥정식",
+            "price": "25,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241124_35%2F1732406308688urlRr_JPEG%2F1000025786.jpg",
+            "menu_name": "민물장어 솥밥정식",
+            "price": "27,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241124_248%2F1732405540006oEzX5_JPEG%2F1000025780.jpg",
+            "menu_name": "오마카세스시(13p)",
+            "price": "25,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241124_77%2F1732405340415GxTz5_JPEG%2F1000025776.jpg",
+            "menu_name": "명품물회정식",
+            "price": "25,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241202_112%2F1733096846488WhDmK_JPEG%2F1000027173.jpg",
+            "menu_name": "해담코스",
+            "price": "45,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241202_30%2F1733096710881ui5cP_JPEG%2F1000027104.jpg",
+            "menu_name": "모둠사시미",
+            "price": "50,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241202_261%2F1733097037206wW9zc_JPEG%2F1000027176.jpg",
+            "menu_name": "프리미엄 모둠사시미",
+            "price": "70,000원"
+        }
+    ]
+}

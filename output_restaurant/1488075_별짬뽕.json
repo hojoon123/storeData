@@ -1,0 +1,14 @@
+{
+    "store_name": "별짬뽕",
+    "store_location": "충남 아산시 신창면 서부북로 770 주2동 1층",
+    "loc_x": "195127.956192914",
+    "loc_y": "365940.546563481",
+    "menu": [
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240604_271%2F1717448608772n48Lt_JPEG%2F1717448597907.jpg",
+            "menu_name": "짜장면",
+            "price": "7,000원"
+        }
+    ]
+}

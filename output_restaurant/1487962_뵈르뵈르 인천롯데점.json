@@ -1,0 +1,56 @@
+{
+    "store_name": "뵈르뵈르 인천롯데점",
+    "store_location": "인천 미추홀구 연남로 35 롯데백화점 인천점 B1",
+    "loc_x": "173499.267314606",
+    "loc_y": "437739.32138498",
+    "menu": [
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241118_230%2F1731895768125qH62D_JPEG%2F%25BD%25C4%25BD%25BA%25C6%25D1.jpg",
+            "menu_name": "싱글 식스팩",
+            "price": "28,200원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240610_174%2F1717983196214IaAUE_PNG%2F%25BD%25CC%25B1%25DB%25C4%25DC.png",
+            "menu_name": "싱글",
+            "price": "4,700원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240610_30%2F1717983205275tbhTp_PNG%2F%25B4%25F5%25BA%25ED%25C4%25DC.png",
+            "menu_name": "더블",
+            "price": "6,500원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241118_171%2F1731895780700B5jWe_JPEG%2F%25C6%25AE%25B8%25AE%25C7%25C3.jpg",
+            "menu_name": "트리플",
+            "price": "11,200원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241118_201%2F1731895789098qO9nw_PNG%2F%25B9%25E8%25B9%25CE-%25C4%25F5%25B5%25E5%25B7%25AF%25C7%25C31.png",
+            "menu_name": "쿼드러플",
+            "price": "18,900원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240801_208%2F1722475695870InRcI_JPEG%2F%25BE%25C6%25C0%25CC%25BD%25BA%25C6%25CB%25C4%25DC_%25B9%25E8%25B0%25E6.jpg",
+            "menu_name": "아이스팝콘",
+            "price": "6,500원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240801_9%2F1722475710283SICcG_JPEG%2F%25B4%25BA%25BF%25E5%25C4%25ED%25C5%25B0.jpg",
+            "menu_name": "뉴욕쿠키",
+            "price": "4,300원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241118_163%2F1731895804378owESQ_JPEG%2FKakaoTalk_20241008_182018808.jpg",
+            "menu_name": "뉴욕쿠키 3-Pack",
+            "price": "12,900원"
+        }
+    ]
+}

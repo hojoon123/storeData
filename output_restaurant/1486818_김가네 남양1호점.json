@@ -1,0 +1,32 @@
+{
+    "store_name": "김가네 남양1호점",
+    "store_location": "경기 화성시 남양읍 역골로49번길 19-1 1동 101호",
+    "loc_x": "184455.466965541",
+    "loc_y": "411173.212459169",
+    "menu": [
+        {
+            "category": "",
+            "img_src": "",
+            "menu_name": "사이드류",
+            "price": "변동"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20231019_231%2F1697691121845L181j_JPEG%2F%25BD%25D2%25B6%25B1%25BA%25BA%25C0%25CC.jpg",
+            "menu_name": "분식류",
+            "price": "변동"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20231019_141%2F1697691102514UfFkL_JPEG%2F%25C3%25B6%25C6%25C7%25C4%25A1%25C1%25EE%25B1%25E8%25C4%25A1%25BA%25BA%25C0%25BD%25B9%25E4.jpg",
+            "menu_name": "밥류",
+            "price": "변동"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20231019_225%2F16976910715240nCmx_JPEG%2F%25B1%25E8%25B0%25A1%25B3%25D7%25B1%25E8%25B9%25E4.jpg",
+            "menu_name": "김밥류",
+            "price": "변동"
+        }
+    ]
+}

@@ -1,0 +1,86 @@
+{
+    "store_name": "홍두깨손칼국수",
+    "store_location": "경기 시흥시 서울대학로278번길 19-13 108동 1층 B-109호",
+    "loc_x": "175778.500048456",
+    "loc_y": "429887.847826116",
+    "menu": [
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241209_242%2F1733722952254GjLJM_JPEG%2Fpage1_1.jpeg",
+            "menu_name": "손칼국수",
+            "price": "6,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241209_31%2F1733725072442DynoL_JPEG%2Fpage1_1.jpeg",
+            "menu_name": "비빔칼국수",
+            "price": "8,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241209_105%2F1733725403077DJ7P7_JPEG%2Fpage1_1.jpeg",
+            "menu_name": "육개장칼국수 (준비 중)",
+            "price": "9,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241209_62%2F1733725560584tFJrh_JPEG%2Fpage1_1.jpeg",
+            "menu_name": "닭반마리칼국수",
+            "price": "11,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241209_63%2F1733725837412axOTA_JPEG%2Fpage1_1.jpeg",
+            "menu_name": "수제돈가스",
+            "price": "9,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241209_167%2F1733725923094gFO9b_JPEG%2Fpage1_1.jpeg",
+            "menu_name": "치즈돈가스",
+            "price": "10,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241209_175%2F1733726029417AsGbm_JPEG%2Fpage1_1.jpeg",
+            "menu_name": "떡만둣국",
+            "price": "7,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241209_171%2F1733726935677yUO4d_JPEG%2Fpage1_1.jpeg",
+            "menu_name": "만둣국",
+            "price": "7,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241209_287%2F1733726107969u01Fj_JPEG%2Fpage1_1.jpeg",
+            "menu_name": "*계절메뉴* 콩국수",
+            "price": "8,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241209_130%2F1733726754751pbR6Y_JPEG%2Fpage1_1.jpeg",
+            "menu_name": "*계절메뉴* 물냉면",
+            "price": "8,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241209_191%2F17337268144851xz45_JPEG%2Fpage1_1.jpeg",
+            "menu_name": "*계절메뉴* 비빔냉면",
+            "price": "8,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241209_190%2F1733727083556MXdIv_JPEG%2Fpage1_1.jpeg",
+            "menu_name": "왕만두 (4개)",
+            "price": "5,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241209_5%2F1733727107731k9oQw_JPEG%2Fpage1_1.jpeg",
+            "menu_name": "공기밥",
+            "price": "1,000원"
+        }
+    ]
+}

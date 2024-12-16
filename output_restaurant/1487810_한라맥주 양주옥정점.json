@@ -1,0 +1,62 @@
+{
+    "store_name": "한라맥주 양주옥정점",
+    "store_location": "경기 양주시 옥정동로7다길 108 드림타워2 1층 한라맥주",
+    "loc_x": "208159.327387407",
+    "loc_y": "479883.656979597",
+    "menu": [
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20231215_278%2F1702622063797n3bmB_JPEG%2FMAD07185.jpg",
+            "menu_name": "살얼음생맥주 500cc",
+            "price": "4,500원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20231215_23%2F1702622083580FcGtx_JPEG%2FMAD07187.jpg",
+            "menu_name": "살얼음생맥주 300cc",
+            "price": "3,300원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20231215_282%2F1702622207912TSSQu_JPEG%2FMAD07220.jpg",
+            "menu_name": "한라봉하이볼",
+            "price": "5,900원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20231215_86%2F1702622194606cHrBQ_JPEG%2FMAD07210.jpg",
+            "menu_name": "한라하이볼",
+            "price": "5,900원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20231215_111%2F1702622221610UPv1L_JPEG%2FMAD07227.jpg",
+            "menu_name": "얼그레이하이볼",
+            "price": "5,900원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20231215_24%2F1702622234981axuF7_JPEG%2FMAD07233.jpg",
+            "menu_name": "청포도하이볼",
+            "price": "5,900원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20231215_80%2F17026222475657sha1_JPEG%2FMAD07235.jpg",
+            "menu_name": "피치하이볼",
+            "price": "5,900원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20231215_164%2F1702622179540Abh0Y_JPEG%2FMAD07200.jpg",
+            "menu_name": "한라봉맥주",
+            "price": "6,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20231215_262%2F170262216327030wMe_JPEG%2FMAD07193.jpg",
+            "menu_name": "제주위트에일",
+            "price": "7,000원"
+        }
+    ]
+}

@@ -1,0 +1,56 @@
+{
+    "store_name": "제주정낭집 표선점",
+    "store_location": "제주 서귀포시 표선면 표선동서로264번길 6 101호",
+    "loc_x": "184497.541104733",
+    "loc_y": "-18784.6775893759",
+    "menu": [
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240129_170%2F1706518277813oyIWr_JPEG%2FIMG_0938.jpg",
+            "menu_name": "낙지볶음(1인)",
+            "price": "12,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240129_65%2F17065183136360wOnI_JPEG%2FIMG_1170.jpg",
+            "menu_name": "낙삼볶음(낙지+삼겹살)(1인)",
+            "price": "13,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240619_156%2F17187906554783FJgK_JPEG%2F20240619_170601.jpg",
+            "menu_name": "낙지해물파전",
+            "price": "20,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240208_96%2F1707353146785U5Vnl_JPEG%2FIMG_1604.jpg",
+            "menu_name": "낙지돼지갈비찜(2~3인)",
+            "price": "40,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240208_133%2F1707353124100ObMXD_JPEG%2FIMG_1604.jpg",
+            "menu_name": "낙지돼지갈비찜(3~4인)",
+            "price": "50,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241113_154%2F17314884813273QB8p_JPEG%2F1000000389_detail_252.jpg",
+            "menu_name": "쭈꾸미볶음(1인)",
+            "price": "12,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241113_12%2F1731488585679Xf9VH_JPEG%2F1000000389_detail_252.jpg",
+            "menu_name": "쭈삼볶음(쭈꾸미+삼겹살)(1인)",
+            "price": "13,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241113_229%2F1731487925875wQjyP_JPEG%2F%25B0%25ED%25B5%25EE%25BE%25EE%25B1%25B8%25C0%25CC.jpg",
+            "menu_name": "고등어구이",
+            "price": "10,000원"
+        }
+    ]
+}

@@ -1,0 +1,242 @@
+{
+    "store_name": "육회바른연어 대구신월성점",
+    "store_location": "대구 달서구 조암로 39 SI타워 103호",
+    "loc_x": "337841.734524379",
+    "loc_y": "259305.408329726",
+    "menu": [
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241213_164%2F1734065785853fM2MU_JPEG%2F4._%25C6%25AE%25B7%25AF%25C7%25C3_%25C0%25B0%25C8%25B8.jpg",
+            "menu_name": "트러플육회",
+            "price": "15,900원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241213_244%2F17340657783785L0dq_JPEG%2F3._%25C6%25AE%25B7%25AF%25C7%25C3_%25B0%25A8%25C0%25DA%25C6%25A2%25B1%25E8.jpg",
+            "menu_name": "트러플감자튀김",
+            "price": "6,900원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241213_94%2F1734065771357L80ag_JPEG%2F2._%25BB%25EA%25C5%25E4%25B8%25AE_%25C7%25CF%25C0%25CC%25BA%25BC.jpg",
+            "menu_name": "산토리하이볼",
+            "price": "6,900원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241213_235%2F1734065763899OdgrG_JPEG%2F1._%25BB%25EA%25C5%25E4%25B8%25AE_%25BE%25F3%25B1%25D7%25B7%25B9%25C0%25CC_%25C7%25CF%25C0%25CC%25BA%25BC.jpg",
+            "menu_name": "산토리얼그레이하이볼",
+            "price": "7,900원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241213_116%2F1734065753936u078J_PNG%2F2-1._%2528%25C1%25A1%25BD%25C9%2529%25C0%25B0%25C8%25B8%25B5%25A4%25B9%25E4%25BC%25BC%25C6%25AE_%25C0%25B0%25C8%25B8%25B5%25A4%25B9%25E4%252B%25C0%25B0%25C8%25B8%25C3%25CA%25B9%25E42P_7900.png",
+            "menu_name": "[점심특선] 덮밥세트",
+            "price": "7,900~8,900원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241213_298%2F1734065729995yJP1p_PNG%2F1-1._%2528%25C1%25A1%25BD%25C9%2529%25C0%25B0%25C8%25B8%25C3%25CA%25B9%25E4_10P_11900.png",
+            "menu_name": "[점심특선] 초밥",
+            "price": "11,900~12,900원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241213_239%2F1734065628205EE107_PNG%2F8._%25C0%25B0%25C8%25B8%25C8%25A5%25B9%25E4%25BC%25BC%25C6%25AE_%25C0%25B0%25C8%25B8%25B5%25A4%25B9%25E4%252B%25C0%25B0%25C8%25B870g%252B%25C0%25B0%25C8%25B8%25C3%25CA%25B9%25E43P_12900.png",
+            "menu_name": "육회혼밥세트",
+            "price": "12,900원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241213_62%2F1734065590809GWcRQ_PNG%2F7._%25BF%25AC%25BE%25EE%25C8%25A5%25B9%25E4%25BC%25BC%25C6%25AE_%25BF%25AC%25BE%25EE%25B5%25A4%25B9%25E4%252B%25BF%25AC%25BE%25EE5P%252B%25BF%25AC%25BE%25EE%25C3%25CA%25B9%25E43P_13900.png",
+            "menu_name": "연어혼밥세트",
+            "price": "13,900원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241213_8%2F1734065580822ODcN0_PNG%2F6._%25B3%25AA%25C8%25A5%25C0%25DA%25BC%25BC%25C6%25AE_%25C0%25B0%25C8%25B8100g%252B%25BF%25AC%25BE%25EE8P_13900.png",
+            "menu_name": "나혼자세트",
+            "price": "13,900원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241213_172%2F1734065572498MRhtD_PNG%2F5._%25B1%25A6%25C2%25FA%25BE%25C6%25BC%25BC%25C6%25AE_A_16900_%25BF%25AC%25BE%25EE8%252B%25C0%25B0%25C8%25B8100%252B%25C0%25B0%25C3%25CA3.png",
+            "menu_name": "괜찮아세트A",
+            "price": "16,900원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241213_275%2F1734065554897eHp2L_PNG%2F4._%25B1%25A6%25C2%25FA%25BE%25C6%25BC%25BC%25C6%25AE_B_17900_%25BF%25AC%25BE%25EE8%252B%25C0%25B0%25C8%25B8100%252B%25BF%25AC%25C3%25CA3.png",
+            "menu_name": "괜찮아세트B",
+            "price": "17,900원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241213_52%2F1734065543549D3ad6_PNG%2F3._%25C0%25FD%25C4%25A3%25BC%25BC%25C6%25AE%2528%25C0%25B0%25C8%25B8%25B5%25A4%25B9%25E4%252B%25BF%25AC%25BE%25EE%25B5%25A4%25B9%25E4%252B%25C0%25B0%25C8%25B8100g%252B%25BF%25AC%25BE%25EE8P%2529_25900.png",
+            "menu_name": "절친세트",
+            "price": "25,900원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241213_120%2F1734065530360ShYlQ_PNG%2F2._%25C0%25B0%25B9%25D9%25BF%25AC%25BC%25BC%25C6%25AE%2528%25C0%25B0%25C8%25B8180g%252B%25BF%25AC%25BE%25EE270g%252B%25B3%25AF%25C4%25A1%25BE%25CB%25C1%25D6%25B8%25D4%25B9%25E4%2529_30900.png",
+            "menu_name": "육바연세트",
+            "price": "30,900원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241213_257%2F1734065516303Dz8UF_PNG%2F1._%25B8%25F0%25BF%25A9%25B6%25F3%25BC%25BC%25C6%25AE_%25C0%25B0%25C8%25B8270%252B%25BF%25AC%25BE%25EE270%252B%25B8%25F0%25B5%25EB%25C3%25CA%25B9%25E412p_62900.png",
+            "menu_name": "모여라세트",
+            "price": "62,900원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241213_274%2F1734065501582MMdM9_PNG%2F6-1._%25BF%25AC%25BE%25EE%25C7%25D1%25C1%25A2%25BD%25C3_180g_20900.png",
+            "menu_name": "연어한접시",
+            "price": "20,900~30,900원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241213_206%2F1734065488422nJGoA_PNG%2F5._%25C0%25B0%25C8%25B8%25C7%25D1%25C1%25A2%25BD%25C3_12900.png",
+            "menu_name": "육회한접시",
+            "price": "12,900원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241213_183%2F1734065481129pQF2Y_PNG%2F4._%25B8%25C5%25BF%25EE%25BA%25D2%25C0%25B0%25C8%25B8_13900.png",
+            "menu_name": "매운불육회",
+            "price": "13,900원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241213_166%2F1734065473866EIhCf_PNG%2F3._%25C5%25B8%25C4%25DA%25BF%25CD%25BB%25E7%25BA%25F1%25C0%25B0%25C8%25B8_14900.png",
+            "menu_name": "타코와사비육회",
+            "price": "14,900원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241213_88%2F17340654657615plUo_PNG%2F2._%25C0%25B0%25C8%25B8%25C2%25CC%25B8%25E9_13900.png",
+            "menu_name": "육회쫄면",
+            "price": "13,900원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241213_7%2F1734065456822SsB0M_PNG%2F1._%25C0%25B0%25C8%25B8%25B9%25B0%25C8%25B8_14900.png",
+            "menu_name": "육회물회",
+            "price": "14,900원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241213_20%2F1734065441948GetOl_PNG%2F1._%25C5%25B7%25C0%25AF%25BA%25CE%25C3%25CA%25B9%25E4_5P_1p_2800_2p_5500.png",
+            "menu_name": "육바연King유부초밥",
+            "price": "2,800~5,500원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241213_259%2F1734065426687ioNMR_PNG%2F7._%25C0%25B0%25C8%25B8%25B9%25D9%25B8%25A5%25BF%25AC%25BE%25EE_17900.png",
+            "menu_name": "육회바른연어10p",
+            "price": "17,900원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241213_152%2F1734065410245geOlA_PNG%2F6-1._%25C0%25B0%25B9%25D9%25BF%25AC3%25B4%25DC%25BA%25AF%25BD%25C5%25C3%25CA%25B9%25E4_10P_19800.png",
+            "menu_name": "육바연 3단변신초밥",
+            "price": "9,900~19,800원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241213_268%2F1734065397099dWUHP_PNG%2F5-1._%25C0%25B0%25C8%25B8%25C3%25CA%25B9%25E4_12P_13900.png",
+            "menu_name": "육회초밥",
+            "price": "7,500~13,900원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241213_131%2F1734065382431uczzM_PNG%2F4-1._%25BF%25AC%25BE%25EE%25C3%25CA%25B9%25E4_12P_14900.png",
+            "menu_name": "연어초밥",
+            "price": "7,900~14,900원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241213_110%2F17340653674606EDD2_PNG%2F3-1._%25BD%25BA%25C5%25D7%25C0%25CC%25C5%25A9%25C3%25CA%25B9%25E4_12P_14900.png",
+            "menu_name": "스테이크초밥",
+            "price": "7,900~14,900원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241213_19%2F1734065351454afq2q_PNG%2F2-1._%25BA%25D2%25C0%25B0%25C8%25B8%25C3%25CA%25B9%25E4_12P_14900.png",
+            "menu_name": "매운불(辛)육회초밥",
+            "price": "7,900~14,900원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241213_256%2F1734065317812iI6aF_PNG%2F1-1._%25B8%25F0%25B5%25EB%25C3%25CA%25B9%25E4_12P_14900.png",
+            "menu_name": "모듬초밥",
+            "price": "7,900~14,900원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241213_166%2F1734065196867Qx2rG_PNG%2F5._%25C0%25B0%25C8%25B8%25B5%25A4%25B9%25E4_6900.png",
+            "menu_name": "육회덮밥",
+            "price": "6,900~8,900원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241213_96%2F1734065178715l6vLU_PNG%2F4._%25BF%25AC%25BE%25EE%25B5%25A4%25B9%25E4_7900.png",
+            "menu_name": "연어덮밥",
+            "price": "7,900~9,900원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241213_56%2F1734065166489JJTtG_PNG%2F3._%25C0%25B0%25BF%25AC%25B5%25A4%25B9%25E4_7900.png",
+            "menu_name": "육연덮밥",
+            "price": "7,900~9,900원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241213_235%2F1734065154688rS8jL_PNG%2F2._%25BA%25D2%25C0%25B0%25C8%25B8%25B5%25A4%25B9%25E4_7900.png",
+            "menu_name": "매운불(辛)육회덮밥",
+            "price": "7,900~9,900원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241213_90%2F1734065133757RPqRU_PNG%2F1._%25B1%25B8%25BF%25EE%25C0%25B0%25C8%25B8%25B5%25A4%25B9%25E4_7900.png",
+            "menu_name": "구운육회덮밥",
+            "price": "7,900~9,900원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241213_227%2F1734065102009QjdD6_PNG%2F4._%25C5%25EB%25BF%25C0%25C2%25A1%25BE%25EE%25C6%25A2%25B1%25E8_10900.png",
+            "menu_name": "통오징어튀김",
+            "price": "10,900원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241213_228%2F1734065093483F6x68_PNG%2F3._%25C5%25A9%25B7%25B1%25C4%25A1%25BF%25C0%25C2%25A1%25BE%25EE_4900.png",
+            "menu_name": "크런치오징어 12p",
+            "price": "4,900원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241213_41%2F1734065082610tdPo7_PNG%2F2-2._%25BB%25F5%25BF%25EC%25C6%25A2%25B1%25E8_10P_10000.png",
+            "menu_name": "새우튀김",
+            "price": "5,500~10,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241213_42%2F1734065069924XM8bx_PNG%2F1._%25B3%25AF%25C4%25A1%25BE%25CB%25C1%25D6%25B8%25D4%25B9%25E4_3000.png",
+            "menu_name": "날치알주먹밥",
+            "price": "3,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241213_109%2F1734065054368h4vU9_PNG%2F2._%25B1%25E8%25C4%25A1%25BF%25EC%25B5%25BF_9900.png",
+            "menu_name": "김치우동",
+            "price": "9,900원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241213_245%2F1734065045403Q3fVn_PNG%2F1._%25BE%25EE%25B9%25AC%25C5%25C1_12900.png",
+            "menu_name": "어묵탕",
+            "price": "12,900원"
+        }
+    ]
+}

@@ -1,0 +1,62 @@
+{
+    "store_name": "염라대왕",
+    "store_location": "경남 밀양시 백민로 101 1층",
+    "loc_x": "358296.457082621",
+    "loc_y": "223824.768432236",
+    "menu": [
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241127_48%2F1732699268253t53m1_JPEG%2F1000021046.jpg",
+            "menu_name": "염라불맛짬뽕",
+            "price": "8,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241127_18%2F1732699372635m1Elq_JPEG%2F1000021045.jpg",
+            "menu_name": "염라해물쟁반짜장",
+            "price": "8,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241129_261%2F173285248469780Wcm_JPEG%2F1000021071.jpg",
+            "menu_name": "염라짜장면",
+            "price": "8,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241127_157%2F1732710481612Vj4Lq_JPEG%2F1000021060.jpg",
+            "menu_name": "염라해물우동",
+            "price": "8,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241202_1%2F1733117434405gH4eQ_JPEG%2F1000021100.jpg",
+            "menu_name": "염라볶음밥",
+            "price": "8,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241202_212%2F17331171575709glvY_JPEG%2F1000021097.jpg",
+            "menu_name": "염라해물쟁반짜장밥",
+            "price": "8,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241127_28%2F1732710597642nQJws_JPEG%2F1000021066.jpg",
+            "menu_name": "염라중화비빔밥",
+            "price": "8,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241127_208%2F17327020147121lAzB_JPEG%2F1000021057.jpg",
+            "menu_name": "탕수육",
+            "price": "8,000~21,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241127_59%2F1732702158397Hu9Gf_JPEG%2F1000021062.jpg",
+            "menu_name": "염라대왕 군만두",
+            "price": "6,000원"
+        }
+    ]
+}

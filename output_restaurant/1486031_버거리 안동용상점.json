@@ -1,0 +1,356 @@
+{
+    "store_name": "버거리 안동용상점",
+    "store_location": "경북 안동시 경동로 868 1층",
+    "loc_x": "356692.831526094",
+    "loc_y": "341218.66083971",
+    "menu": [
+        {
+            "category": "대표메뉴",
+            "img_src": "",
+            "menu_name": "에그 불고기버거 SET",
+            "price": "10,800원"
+        },
+        {
+            "category": "대표메뉴",
+            "img_src": "",
+            "menu_name": "에그베이컨버거 SET",
+            "price": "12,300원"
+        },
+        {
+            "category": "대표메뉴",
+            "img_src": "",
+            "menu_name": "(시그니처) 버거리 버거 SET",
+            "price": "11,400원"
+        },
+        {
+            "category": "대표메뉴",
+            "img_src": "",
+            "menu_name": "핫 치폴레 버거SET",
+            "price": "11,800원"
+        },
+        {
+            "category": "대표메뉴",
+            "img_src": "",
+            "menu_name": "소불고기 버거 SET",
+            "price": "9,800원"
+        },
+        {
+            "category": "세트메뉴",
+            "img_src": "",
+            "menu_name": "New)디럭스치킨버거 SET",
+            "price": "12,100원"
+        },
+        {
+            "category": "세트메뉴",
+            "img_src": "",
+            "menu_name": "New)크리스피치킨버거 SET",
+            "price": "11,300원"
+        },
+        {
+            "category": "세트메뉴",
+            "img_src": "",
+            "menu_name": "New)클래식치킨버거 SET",
+            "price": "11,000원"
+        },
+        {
+            "category": "세트메뉴",
+            "img_src": "",
+            "menu_name": "에그 불고기버거 SET",
+            "price": "10,800원"
+        },
+        {
+            "category": "세트메뉴",
+            "img_src": "",
+            "menu_name": "에그베이컨버거 SET",
+            "price": "12,300원"
+        },
+        {
+            "category": "세트메뉴",
+            "img_src": "",
+            "menu_name": "(시그니처) 버거리 버거 SET",
+            "price": "11,400원"
+        },
+        {
+            "category": "세트메뉴",
+            "img_src": "",
+            "menu_name": "더블클래식 치즈버거 SET",
+            "price": "13,300원"
+        },
+        {
+            "category": "세트메뉴",
+            "img_src": "",
+            "menu_name": "비프 앤 쉬림프 버거 SET",
+            "price": "13,000원"
+        },
+        {
+            "category": "세트메뉴",
+            "img_src": "",
+            "menu_name": "하와이안 버거 SET",
+            "price": "11,800원"
+        },
+        {
+            "category": "세트메뉴",
+            "img_src": "",
+            "menu_name": "핫 치폴레 버거SET",
+            "price": "11,800원"
+        },
+        {
+            "category": "세트메뉴",
+            "img_src": "",
+            "menu_name": "(아메리칸치즈)클래식 치즈버거 SET",
+            "price": "10,600원"
+        },
+        {
+            "category": "세트메뉴",
+            "img_src": "",
+            "menu_name": "쉬림프 버거 SET",
+            "price": "10,300원"
+        },
+        {
+            "category": "세트메뉴",
+            "img_src": "",
+            "menu_name": "소불고기 버거 SET",
+            "price": "9,800원"
+        },
+        {
+            "category": "세트메뉴",
+            "img_src": "",
+            "menu_name": "(가성비) 프레쉬 버거 SET",
+            "price": "9,600원"
+        },
+        {
+            "category": "단품메뉴",
+            "img_src": "",
+            "menu_name": "New)디럭스치킨버거",
+            "price": "7,900원"
+        },
+        {
+            "category": "단품메뉴",
+            "img_src": "",
+            "menu_name": "New)크리스피치킨버거",
+            "price": "7,100원"
+        },
+        {
+            "category": "단품메뉴",
+            "img_src": "",
+            "menu_name": "New)클래식치킨버거",
+            "price": "6,800원"
+        },
+        {
+            "category": "단품메뉴",
+            "img_src": "",
+            "menu_name": "에그 불고기버거",
+            "price": "6,600원"
+        },
+        {
+            "category": "단품메뉴",
+            "img_src": "",
+            "menu_name": "에그베이컨버거",
+            "price": "8,100원"
+        },
+        {
+            "category": "단품메뉴",
+            "img_src": "",
+            "menu_name": "(가성비) 프레쉬 버거",
+            "price": "5,400원"
+        },
+        {
+            "category": "단품메뉴",
+            "img_src": "",
+            "menu_name": "소불고기 버거",
+            "price": "5,600원"
+        },
+        {
+            "category": "단품메뉴",
+            "img_src": "",
+            "menu_name": "쉬림프 버거",
+            "price": "6,100원"
+        },
+        {
+            "category": "단품메뉴",
+            "img_src": "",
+            "menu_name": "(아메리칸치즈)클래식 치즈 버거",
+            "price": "6,400원"
+        },
+        {
+            "category": "단품메뉴",
+            "img_src": "",
+            "menu_name": "(시그니처) 버거리 버거",
+            "price": "7,200원"
+        },
+        {
+            "category": "단품메뉴",
+            "img_src": "",
+            "menu_name": "하와이안 버거",
+            "price": "7,600원"
+        },
+        {
+            "category": "단품메뉴",
+            "img_src": "",
+            "menu_name": "핫 치폴레버거",
+            "price": "7,600원"
+        },
+        {
+            "category": "단품메뉴",
+            "img_src": "",
+            "menu_name": "더블 클래식 치즈 버거",
+            "price": "9,100원"
+        },
+        {
+            "category": "단품메뉴",
+            "img_src": "",
+            "menu_name": "비프 앤 쉬림프 버거",
+            "price": "8,800원"
+        },
+        {
+            "category": "사이드",
+            "img_src": "",
+            "menu_name": "양념감자(샤워크림어니언)",
+            "price": "3,500원"
+        },
+        {
+            "category": "사이드",
+            "img_src": "",
+            "menu_name": "양념감자(멕시칸칠리)",
+            "price": "3,500원"
+        },
+        {
+            "category": "사이드",
+            "img_src": "",
+            "menu_name": "치킨너겟",
+            "price": "3,000원"
+        },
+        {
+            "category": "사이드",
+            "img_src": "",
+            "menu_name": "자이언트 치킨봉",
+            "price": "5,400원"
+        },
+        {
+            "category": "사이드",
+            "img_src": "",
+            "menu_name": "스위트 포테이토",
+            "price": "6,400원"
+        },
+        {
+            "category": "사이드",
+            "img_src": "",
+            "menu_name": "버팔로 윙+스틱",
+            "price": "5,400원"
+        },
+        {
+            "category": "사이드",
+            "img_src": "",
+            "menu_name": "치즈프라이",
+            "price": "4,500원"
+        },
+        {
+            "category": "사이드",
+            "img_src": "",
+            "menu_name": "어니언링",
+            "price": "4,000원"
+        },
+        {
+            "category": "사이드",
+            "img_src": "",
+            "menu_name": "크리스피치킨텐더",
+            "price": "3,400원"
+        },
+        {
+            "category": "사이드",
+            "img_src": "",
+            "menu_name": "치즈스틱",
+            "price": "3,000원"
+        },
+        {
+            "category": "사이드",
+            "img_src": "",
+            "menu_name": "코울슬로",
+            "price": "3,000원"
+        },
+        {
+            "category": "사이드",
+            "img_src": "",
+            "menu_name": "콘 샐러드",
+            "price": "3,000원"
+        },
+        {
+            "category": "사이드",
+            "img_src": "",
+            "menu_name": "프렌치프라이 L",
+            "price": "3,000원"
+        },
+        {
+            "category": "사이드",
+            "img_src": "",
+            "menu_name": "New)오징어링",
+            "price": "4,000원"
+        },
+        {
+            "category": "음료",
+            "img_src": "",
+            "menu_name": "New)블러드오렌지에이드",
+            "price": "4,500원"
+        },
+        {
+            "category": "음료",
+            "img_src": "",
+            "menu_name": "New)한라봉에이드",
+            "price": "4,500원"
+        },
+        {
+            "category": "음료",
+            "img_src": "",
+            "menu_name": "New)자몽에이드",
+            "price": "4,500원"
+        },
+        {
+            "category": "음료",
+            "img_src": "",
+            "menu_name": "아이스티",
+            "price": "3,000원"
+        },
+        {
+            "category": "음료",
+            "img_src": "",
+            "menu_name": "아메리카노",
+            "price": "3,000원"
+        },
+        {
+            "category": "음료",
+            "img_src": "",
+            "menu_name": "오렌지주스(델몬트400ml)",
+            "price": "4,000원"
+        },
+        {
+            "category": "음료",
+            "img_src": "",
+            "menu_name": "트레비(레몬)355ml 뚱캔",
+            "price": "2,800원"
+        },
+        {
+            "category": "음료",
+            "img_src": "",
+            "menu_name": "펩시 제로355ml",
+            "price": "2,500원"
+        },
+        {
+            "category": "음료",
+            "img_src": "",
+            "menu_name": "펩시 콜라 355ml",
+            "price": "2,500원"
+        },
+        {
+            "category": "음료",
+            "img_src": "",
+            "menu_name": "칠성 사이다 355ml",
+            "price": "2,500원"
+        },
+        {
+            "category": "음료",
+            "img_src": "",
+            "menu_name": "TAMS ZERO 오렌지 355ml",
+            "price": "2,500원"
+        }
+    ]
+}

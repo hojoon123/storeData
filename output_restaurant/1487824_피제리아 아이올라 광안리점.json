@@ -1,0 +1,218 @@
+{
+    "store_name": "피제리아 아이올라 광안리점",
+    "store_location": "부산 수영구 수영로540번길 42 1층",
+    "loc_x": "392614.724860014",
+    "loc_y": "185847.94825269",
+    "menu": [
+        {
+            "category": "새로 나온 메뉴",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20241113_255/1731463737977wN0WA_PNG/KakaoTalk_20241111_230840503.png?type=f220_220_60_sharpen",
+            "menu_name": "무안 꿀고구마 & 고다치즈N",
+            "price": "24,500원"
+        },
+        {
+            "category": "인기 메뉴",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20240825_236/1724553596273NuKmL_JPEG/%B0%AD%BF%F8%B5%B5_%C2%FB%C5%E4%B8%B6%C5%E4_%B8%B6%B8%A3%B0%D4%B8%AE%C5%B8%281%29.jpg?type=f220_220_60_sharpen",
+            "menu_name": "강원도 찰토마토 마르게리타인기대표",
+            "price": "19,500원"
+        },
+        {
+            "category": "사장님 추천 메뉴",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20240825_34/1724553525483uj9Bi_JPEG/%B3%AA%C6%FA%B8%AE%B7%E7%BA%BC%B6%F3%282%29.jpg?type=f220_220_60_sharpen",
+            "menu_name": "나폴리 누볼라대표",
+            "price": "10,000원"
+        },
+        {
+            "category": "사장님 추천 메뉴",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20240825_236/1724553596273NuKmL_JPEG/%B0%AD%BF%F8%B5%B5_%C2%FB%C5%E4%B8%B6%C5%E4_%B8%B6%B8%A3%B0%D4%B8%AE%C5%B8%281%29.jpg?type=f220_220_60_sharpen",
+            "menu_name": "강원도 찰토마토 마르게리타인기대표",
+            "price": "19,500원"
+        },
+        {
+            "category": "사장님 추천 메뉴",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20240825_66/1724553685509FCSS2_JPEG/%C0%CC%C5%BB%B8%AE%BE%C8_%B7%E7%B2%C3%B6%F3%C5%A9%B8%B2_%B8%AE%C4%DA%C5%B8%282%29.jpg?type=f220_220_60_sharpen",
+            "menu_name": "이탈리안 루꼴라 & 크림 리코타대표",
+            "price": "25,000원"
+        },
+        {
+            "category": "피자",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20240825_34/1724553525483uj9Bi_JPEG/%B3%AA%C6%FA%B8%AE%B7%E7%BA%BC%B6%F3%282%29.jpg?type=f220_220_60_sharpen",
+            "menu_name": "나폴리 누볼라대표",
+            "price": "10,000원"
+        },
+        {
+            "category": "피자",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20240825_236/1724553596273NuKmL_JPEG/%B0%AD%BF%F8%B5%B5_%C2%FB%C5%E4%B8%B6%C5%E4_%B8%B6%B8%A3%B0%D4%B8%AE%C5%B8%281%29.jpg?type=f220_220_60_sharpen",
+            "menu_name": "강원도 찰토마토 마르게리타인기대표",
+            "price": "19,500원"
+        },
+        {
+            "category": "피자",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20240825_66/1724553685509FCSS2_JPEG/%C0%CC%C5%BB%B8%AE%BE%C8_%B7%E7%B2%C3%B6%F3%C5%A9%B8%B2_%B8%AE%C4%DA%C5%B8%282%29.jpg?type=f220_220_60_sharpen",
+            "menu_name": "이탈리안 루꼴라 & 크림 리코타대표",
+            "price": "25,000원"
+        },
+        {
+            "category": "피자",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20240825_109/1724553727698toNnp_JPEG/%C5%C2%B6%FB_%C7%D1%BF%EC%B6%F3%B1%B8_%C6%E4%C6%DB%B7%CE%B4%CF%281%29.jpg?type=f220_220_60_sharpen",
+            "menu_name": "태랑한우 라구 페퍼로니",
+            "price": "24,000원"
+        },
+        {
+            "category": "피자",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20240825_127/1724553827643HAcY2_JPEG/%C5%A9%B7%B9%B8%B6%B9%F6%BC%B8%C8%C6%C1%A6%C4%A1%C1%EE%282%29.jpg?type=f220_220_60_sharpen",
+            "menu_name": "크레마 버섯 & 훈제 치즈",
+            "price": "24,000원"
+        },
+        {
+            "category": "피자",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20241113_255/1731463737977wN0WA_PNG/KakaoTalk_20241111_230840503.png?type=f220_220_60_sharpen",
+            "menu_name": "무안 꿀고구마 & 고다치즈N",
+            "price": "24,500원"
+        },
+        {
+            "category": "피자",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20241113_79/1731464359012CIbWd_PNG/KakaoTalk_20241111_231007738.png?type=f220_220_60_sharpen",
+            "menu_name": "로제 나폴리 누볼라",
+            "price": "12,500원"
+        },
+        {
+            "category": "피자",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20241113_131/17314644954599DLx6_PNG/KakaoTalk_20241111_231226113.png?type=f220_220_60_sharpen",
+            "menu_name": "페파로니 로제 쉬림프",
+            "price": "29,000원"
+        },
+        {
+            "category": "피자",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20241210_122/1733826043299wr9OD_PNG/KakaoTalk_20241205_120703835_02.png?type=f220_220_60_sharpen",
+            "menu_name": "한정피자 (10판)",
+            "price": "32,000원"
+        },
+        {
+            "category": "파스타(오븐 스파게티)",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20241113_52/1731463877453wDdJX_PNG/KakaoTalk_20241111_231931031.png?type=f220_220_60_sharpen",
+            "menu_name": "로제 쉬림프 파스타",
+            "price": "15,000원"
+        },
+        {
+            "category": "파스타(오븐 스파게티)",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20241113_178/1731463909861gAzz8_PNG/KakaoTalk_20241111_233023759.png?type=f220_220_60_sharpen",
+            "menu_name": "크림 한우 페퍼로니 파스타",
+            "price": "13,000원"
+        },
+        {
+            "category": "파스타(오븐 스파게티)",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20241113_263/17314640478602ITVl_PNG/KakaoTalk_20241111_233215514.png?type=f220_220_60_sharpen",
+            "menu_name": "하바네로 & 까망메르 치즈 파스타매운맛1단계",
+            "price": "15,000원"
+        },
+        {
+            "category": "파스타(오븐 스파게티)",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20241113_175/1731464177088nwhNs_PNG/KakaoTalk_20241111_231457314.png?type=f220_220_60_sharpen",
+            "menu_name": "바질 찰토마토&모짜렐라 치즈 오븐 파스타",
+            "price": "12,000원"
+        },
+        {
+            "category": "파스타(오븐 스파게티)",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20241210_228/17338258459278b9k5_PNG/KakaoTalk_20241210_154026112_05.png?type=f220_220_60_sharpen",
+            "menu_name": "트러플 크림 & 고다치즈",
+            "price": "15,900원"
+        },
+        {
+            "category": "음료",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20240625_126/17193089800054BtIK_JPEG/B.jpg?type=f220_220_60_sharpen",
+            "menu_name": "코카콜라(335ml)",
+            "price": "2,000원"
+        },
+        {
+            "category": "음료",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20240625_220/1719309010932iaabL_JPEG/8475682876_l.jpg?type=f220_220_60_sharpen",
+            "menu_name": "코카콜라 제로(335ml)",
+            "price": "2,000원"
+        },
+        {
+            "category": "음료",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20240625_197/1719309024858rdJFW_JPEG/93_9423855890_r.jpg?type=f220_220_60_sharpen",
+            "menu_name": "스프라이트 제로(335ml)",
+            "price": "2,000원"
+        },
+        {
+            "category": "음료",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20240625_52/1719309050414v2fbT_JPEG/LM8801094133207_001_1.jpg?type=f220_220_60_sharpen",
+            "menu_name": "환타 파인 제로(335ml)",
+            "price": "2,000원"
+        },
+        {
+            "category": "맥주",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20240625_77/17193128783716XoKV_JPEG/f1d7500311f26ef71dfa098b987884f5.jpeg?type=f220_220_60_sharpen",
+            "menu_name": "아사히(330ml)",
+            "price": "7,500원"
+        },
+        {
+            "category": "맥주",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20240625_5/1719312993219qkfmd_PNG/180.%BB%EA%B9%CC%BB%F3%BB%E7_%BB%EA%B9%CC%B1%B8%BF%A4%C6%E4%C0%CF%C7%CA%C1%A8.png?type=f220_220_60_sharpen",
+            "menu_name": "산미구엘(320ml)",
+            "price": "8,000원"
+        },
+        {
+            "category": "맥주",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20240625_193/1719313018485ttG8G_JPEG/4fce4fadabbc6.jpeg?type=f220_220_60_sharpen",
+            "menu_name": "호가든(330ml)",
+            "price": "7,000원"
+        },
+        {
+            "category": "맥주",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20240625_9/1719313037901zVfo4_JPEG/7d9587b7359d4.jpg?type=f220_220_60_sharpen",
+            "menu_name": "카스(330ml)",
+            "price": "4,000원"
+        },
+        {
+            "category": "맥주",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20240625_88/1719313050167sdWKd_PNG/20240509_43838612.png?type=f220_220_60_sharpen",
+            "menu_name": "켈리(330ml)",
+            "price": "4,000원"
+        },
+        {
+            "category": "와인",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20240625_201/1719309141322NHkak_PNG/%B8%DE%B8%A6%B7%CE.png?type=f220_220_60_sharpen",
+            "menu_name": "생 보움, 메를로",
+            "price": "35,500원"
+        },
+        {
+            "category": "와인",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20240625_120/1719309088396BDlQM_PNG/%B6%BC%B8%A3_%B5%A5_%B7%D0.png?type=f220_220_60_sharpen",
+            "menu_name": "뗴르 데 론, 갈리시앙",
+            "price": "43,000원"
+        },
+        {
+            "category": "와인",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20240625_144/1719309106671GVdRw_PNG/%B0%A5%B8%AE%BD%C3%BE%D3_%C7%C1%B7%B9%BD%BA%C6%BC%C1%F6.png?type=f220_220_60_sharpen",
+            "menu_name": "갈리시앙 프레스티지",
+            "price": "39,000원"
+        },
+        {
+            "category": "와인",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20240625_109/1719309185515y5sCv_PNG/%C6%FA%B5%E5%C4%DA%BD%BA%C6%AE.png?type=f220_220_60_sharpen",
+            "menu_name": "폴 드 코스트, 로제",
+            "price": "39,900원"
+        },
+        {
+            "category": "와인",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20240625_68/1719309152451s8tjo_PNG/%BB%FE%B6%C7_%B1%D7%B6%F3%BA%AA_%BB%E7%B8%F0%B3%AB.png?type=f220_220_60_sharpen",
+            "menu_name": "샤또 그라벳 사모낙",
+            "price": "58,000원"
+        },
+        {
+            "category": "와인",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20240625_139/1719309166160CXT4c_PNG/%BC%BF%B8%AE%BF%A1_%B5%E5_%B6%F3_%BB%FD_%BA%B8%BF%F2.png?type=f220_220_60_sharpen",
+            "menu_name": "플뢰르 블랑쉬",
+            "price": "38,500원"
+        },
+        {
+            "category": "와인",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20240625_153/1719309126098cVkbe_PNG/%B8%A3_%BA%DF%BF%EC_%C6%AE%B7%E7%C6%FA%B8%AE%BF%A1.png?type=f220_220_60_sharpen",
+            "menu_name": "르 뷔우 트루폴리에",
+            "price": "36,500원"
+        }
+    ]
+}

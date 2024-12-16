@@ -1,0 +1,158 @@
+{
+    "store_name": "106킬로미터",
+    "store_location": "충북 진천군 이월면 진광로 627 1, 2층",
+    "loc_x": "238289.701053887",
+    "loc_y": "379541.015897971",
+    "menu": [
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241211_103%2F17339177999324aEJ5_JPEG%2FKakaoTalk_20241211_204934665.jpg",
+            "menu_name": "ice 소금옥수수커피",
+            "price": "6,000원"
+        },
+        {
+            "category": "",
+            "img_src": "",
+            "menu_name": "아이스티",
+            "price": "5,000원"
+        },
+        {
+            "category": "",
+            "img_src": "",
+            "menu_name": "얼그레이",
+            "price": "5,000원"
+        },
+        {
+            "category": "",
+            "img_src": "",
+            "menu_name": "루이보스",
+            "price": "5,000원"
+        },
+        {
+            "category": "",
+            "img_src": "",
+            "menu_name": "로즈마리",
+            "price": "5,000원"
+        },
+        {
+            "category": "",
+            "img_src": "",
+            "menu_name": "레몬밤",
+            "price": "5,000원"
+        },
+        {
+            "category": "",
+            "img_src": "",
+            "menu_name": "히비스커스",
+            "price": "5,000원"
+        },
+        {
+            "category": "",
+            "img_src": "",
+            "menu_name": "딸기요거트스무디",
+            "price": "6,500원"
+        },
+        {
+            "category": "",
+            "img_src": "",
+            "menu_name": "쿠키딸기 프라페",
+            "price": "6,500원"
+        },
+        {
+            "category": "",
+            "img_src": "",
+            "menu_name": "오레오오즈 밀크쉐이크",
+            "price": "6,500원"
+        },
+        {
+            "category": "",
+            "img_src": "",
+            "menu_name": "딸기스무디",
+            "price": "6,500원"
+        },
+        {
+            "category": "",
+            "img_src": "",
+            "menu_name": "카라멜땅콩스무디",
+            "price": "6,500원"
+        },
+        {
+            "category": "",
+            "img_src": "",
+            "menu_name": "망고스무디",
+            "price": "6,500원"
+        },
+        {
+            "category": "",
+            "img_src": "",
+            "menu_name": "핑크용과후르츠에이드",
+            "price": "6,000원"
+        },
+        {
+            "category": "",
+            "img_src": "",
+            "menu_name": "청포도에이드",
+            "price": "6,000원"
+        },
+        {
+            "category": "",
+            "img_src": "",
+            "menu_name": "자몽에이드",
+            "price": "6,000원"
+        },
+        {
+            "category": "",
+            "img_src": "",
+            "menu_name": "레몬에이드",
+            "price": "6,000원"
+        },
+        {
+            "category": "",
+            "img_src": "",
+            "menu_name": "바닐라라떼",
+            "price": "6,000원"
+        },
+        {
+            "category": "",
+            "img_src": "",
+            "menu_name": "아포카토",
+            "price": "6,000원"
+        },
+        {
+            "category": "",
+            "img_src": "",
+            "menu_name": "말차라떼",
+            "price": "6,000원"
+        },
+        {
+            "category": "",
+            "img_src": "",
+            "menu_name": "아몬드라떼",
+            "price": "6,000원"
+        },
+        {
+            "category": "",
+            "img_src": "",
+            "menu_name": "ice 딸기라떼",
+            "price": "6,000원"
+        },
+        {
+            "category": "",
+            "img_src": "",
+            "menu_name": "카페라떼",
+            "price": "5,500원"
+        },
+        {
+            "category": "",
+            "img_src": "",
+            "menu_name": "에스프레소",
+            "price": "4,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241206_262%2F1733462715066eTy4j_JPEG%2FKakaoTalk_20241206_142447753.jpg",
+            "menu_name": "아메리카노",
+            "price": "4,000원"
+        }
+    ]
+}

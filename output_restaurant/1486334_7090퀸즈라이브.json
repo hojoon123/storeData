@@ -1,0 +1,14 @@
+{
+    "store_name": "7090퀸즈라이브",
+    "store_location": "충북 청주시 청원구 1순환로 142 4층 402호",
+    "loc_x": "244345.845",
+    "loc_y": "351593.12",
+    "menu": [
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241206_94%2F1733465563058ytatC_JPEG%2F1000015092.jpg",
+            "menu_name": "기본 : 맥주5병+기본안주",
+            "price": "60,000원"
+        }
+    ]
+}

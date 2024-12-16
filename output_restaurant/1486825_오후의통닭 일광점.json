@@ -1,0 +1,314 @@
+{
+    "store_name": "오후의통닭 일광점",
+    "store_location": "부산 기장군 일광읍 해빛3로 115 1층 101호",
+    "loc_x": "402104.617284446",
+    "loc_y": "198634.116458625",
+    "menu": [
+        {
+            "category": "대표메뉴",
+            "img_src": "",
+            "menu_name": "(국내산100%) 통닭다리 순살 후라이드(한박스)",
+            "price": "16,900원"
+        },
+        {
+            "category": "대표메뉴",
+            "img_src": "",
+            "menu_name": "(국내산100%) 통닭다리 순살 후라이드(사이즈업)",
+            "price": "24,900원"
+        },
+        {
+            "category": "대표메뉴",
+            "img_src": "",
+            "menu_name": "조각 후라이드",
+            "price": "13,900원"
+        },
+        {
+            "category": "대표메뉴",
+            "img_src": "",
+            "menu_name": "윙봉 후라이드(기본)",
+            "price": "15,900원"
+        },
+        {
+            "category": "대표메뉴",
+            "img_src": "",
+            "menu_name": "윙봉 후라이드(사이즈 업)",
+            "price": "23,900원"
+        },
+        {
+            "category": "대표메뉴",
+            "img_src": "",
+            "menu_name": "갈비살 닭강정(순살)(한박스)",
+            "price": "17,900원"
+        },
+        {
+            "category": "대표메뉴",
+            "img_src": "",
+            "menu_name": "갈비살 닭강정(순살)(사이즈업)",
+            "price": "26,900원"
+        },
+        {
+            "category": "대표메뉴",
+            "img_src": "",
+            "menu_name": "갈비살 닭강정(순살)(한컵)",
+            "price": "6,500원"
+        },
+        {
+            "category": "대표메뉴",
+            "img_src": "",
+            "menu_name": "한마리 닭강정",
+            "price": "15,900원"
+        },
+        {
+            "category": "대표메뉴",
+            "img_src": "",
+            "menu_name": "닭목살 후라이드",
+            "price": "14,900원"
+        },
+        {
+            "category": "메뉴",
+            "img_src": "",
+            "menu_name": "맛있는 옛날 통닭(한마리)",
+            "price": "10,000원"
+        },
+        {
+            "category": "메뉴",
+            "img_src": "",
+            "menu_name": "맛있는 옛날 통닭(두마리)",
+            "price": "19,000원"
+        },
+        {
+            "category": "메뉴",
+            "img_src": "",
+            "menu_name": "조각 후라이드",
+            "price": "13,900원"
+        },
+        {
+            "category": "메뉴",
+            "img_src": "",
+            "menu_name": "(국내산100%) 통닭다리 순살 후라이드(한박스)",
+            "price": "16,900원"
+        },
+        {
+            "category": "메뉴",
+            "img_src": "",
+            "menu_name": "(국내산100%) 통닭다리 순살 후라이드(사이즈업)",
+            "price": "24,900원"
+        },
+        {
+            "category": "메뉴",
+            "img_src": "",
+            "menu_name": "갈비살 후라이드(순살)+오리지날 소스(한컵은 제외)(한박스)",
+            "price": "15,900원"
+        },
+        {
+            "category": "메뉴",
+            "img_src": "",
+            "menu_name": "갈비살 후라이드(순살)+오리지날 소스(한컵은 제외)(사이즈업)",
+            "price": "23,900원"
+        },
+        {
+            "category": "메뉴",
+            "img_src": "",
+            "menu_name": "갈비살 후라이드(순살)+오리지날 소스(한컵은 제외)(한컵)",
+            "price": "6,000원"
+        },
+        {
+            "category": "메뉴",
+            "img_src": "",
+            "menu_name": "윙봉 후라이드(기본)",
+            "price": "15,900원"
+        },
+        {
+            "category": "메뉴",
+            "img_src": "",
+            "menu_name": "윙봉 후라이드(사이즈 업)",
+            "price": "23,900원"
+        },
+        {
+            "category": "메뉴",
+            "img_src": "",
+            "menu_name": "윙 후라이드(기본)",
+            "price": "15,900원"
+        },
+        {
+            "category": "메뉴",
+            "img_src": "",
+            "menu_name": "윙 후라이드(사이즈 업)",
+            "price": "23,900원"
+        },
+        {
+            "category": "메뉴",
+            "img_src": "",
+            "menu_name": "봉 후라이드(기본)",
+            "price": "15,900원"
+        },
+        {
+            "category": "메뉴",
+            "img_src": "",
+            "menu_name": "봉 후라이드(사이즈 업)",
+            "price": "23,900원"
+        },
+        {
+            "category": "메뉴",
+            "img_src": "",
+            "menu_name": "닭목살 후라이드",
+            "price": "14,900원"
+        },
+        {
+            "category": "메뉴",
+            "img_src": "",
+            "menu_name": "닭근위 후라이드",
+            "price": "11,900원"
+        },
+        {
+            "category": "메뉴",
+            "img_src": "",
+            "menu_name": "(국내산100%) 통닭다리 순살 닭강정(한박스)",
+            "price": "18,900원"
+        },
+        {
+            "category": "메뉴",
+            "img_src": "",
+            "menu_name": "(국내산100%) 통닭다리 순살 닭강정(사이즈업)",
+            "price": "27,900원"
+        },
+        {
+            "category": "메뉴",
+            "img_src": "",
+            "menu_name": "갈비살 닭강정(순살)(한박스)",
+            "price": "17,900원"
+        },
+        {
+            "category": "메뉴",
+            "img_src": "",
+            "menu_name": "갈비살 닭강정(순살)(사이즈업)",
+            "price": "26,900원"
+        },
+        {
+            "category": "메뉴",
+            "img_src": "",
+            "menu_name": "갈비살 닭강정(순살)(한컵)",
+            "price": "6,500원"
+        },
+        {
+            "category": "메뉴",
+            "img_src": "",
+            "menu_name": "한마리 닭강정",
+            "price": "15,900원"
+        },
+        {
+            "category": "메뉴",
+            "img_src": "",
+            "menu_name": "둥지 후라이드",
+            "price": "5,900원"
+        },
+        {
+            "category": "추가배달료",
+            "img_src": "",
+            "menu_name": "웨이브리즈, 행복주택, 무곡",
+            "price": "500원"
+        },
+        {
+            "category": "추가배달료",
+            "img_src": "",
+            "menu_name": "부산은행연수원",
+            "price": "1,000원"
+        },
+        {
+            "category": "추가배달료",
+            "img_src": "",
+            "menu_name": "대변, 만화리",
+            "price": "1,500원"
+        },
+        {
+            "category": "추가배달료",
+            "img_src": "",
+            "menu_name": "화전리",
+            "price": "2,500원"
+        },
+        {
+            "category": "추가배달료",
+            "img_src": "",
+            "menu_name": "동백리",
+            "price": "4,500원"
+        },
+        {
+            "category": "추가배달료",
+            "img_src": "",
+            "menu_name": "칠암, 문중, 문동",
+            "price": "5,500원"
+        },
+        {
+            "category": "특제소스",
+            "img_src": "",
+            "menu_name": "오리지날 양념소스",
+            "price": "1,000원"
+        },
+        {
+            "category": "특제소스",
+            "img_src": "",
+            "menu_name": "매운 레드핫소스",
+            "price": "1,000원"
+        },
+        {
+            "category": "특제소스",
+            "img_src": "",
+            "menu_name": "소이갈릭소스",
+            "price": "1,000원"
+        },
+        {
+            "category": "특제소스",
+            "img_src": "",
+            "menu_name": "달콤칠리소스",
+            "price": "1,000원"
+        },
+        {
+            "category": "특제소스",
+            "img_src": "",
+            "menu_name": "델리치즈 시즈닝",
+            "price": "1,000원"
+        },
+        {
+            "category": "특제소스",
+            "img_src": "",
+            "menu_name": "치킨무(1개)",
+            "price": "500원"
+        },
+        {
+            "category": "음료",
+            "img_src": "",
+            "menu_name": "콜라(355ml)",
+            "price": "1,500원"
+        },
+        {
+            "category": "음료",
+            "img_src": "",
+            "menu_name": "콜라(500ml)",
+            "price": "2,000원"
+        },
+        {
+            "category": "음료",
+            "img_src": "",
+            "menu_name": "스프라이트(355ml)",
+            "price": "1,500원"
+        },
+        {
+            "category": "음료",
+            "img_src": "",
+            "menu_name": "스프라이트(500ml)",
+            "price": "2,000원"
+        },
+        {
+            "category": "음료",
+            "img_src": "",
+            "menu_name": "닥터페퍼355ml",
+            "price": "1,500원"
+        },
+        {
+            "category": "음료",
+            "img_src": "",
+            "menu_name": "웰치스 포도355ml",
+            "price": "1,500원"
+        }
+    ]
+}

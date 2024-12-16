@@ -1,0 +1,14 @@
+{
+    "store_name": "늘마중",
+    "store_location": "전남 여수시 소호4길 5-17 늘마중",
+    "loc_x": "259649.560054779",
+    "loc_y": "138686.312266024",
+    "menu": [
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20231223_27%2F1703332187071sCt2C_JPEG%2F20231215_164153.jpg",
+            "menu_name": "바지락손칼국수",
+            "price": "10,000원"
+        }
+    ]
+}

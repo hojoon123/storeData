@@ -1,0 +1,1202 @@
+{
+    "store_name": "피자알볼로 가양점",
+    "store_location": "서울 강서구 공항대로45길 11 태영빌딩",
+    "loc_x": "187061.739884688",
+    "loc_y": "450426.970845876",
+    "menu": [
+        {
+            "category": "인기메뉴",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20230926_52/1695688231188zvz01_PNG/image.png?type=f220_220_60_sharpen",
+            "menu_name": "콤비네이션 오리지널 L",
+            "price": "24,000원"
+        },
+        {
+            "category": "인기메뉴",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20230926_174/1695688221497dAeO7_PNG/image.png?type=f220_220_60_sharpen",
+            "menu_name": "고구마 오리지널 L",
+            "price": "25,000원"
+        },
+        {
+            "category": "인기메뉴",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20230831_82/1693441802636eJRah_PNG/image.png?type=f220_220_60_sharpen",
+            "menu_name": "쉬림프&핫치킨 오리지널 L",
+            "price": "30,000원"
+        },
+        {
+            "category": "신메뉴",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20241211_13/1733877004776mgaAD_PNG/image.png?type=f220_220_60_sharpen",
+            "menu_name": "알파팩 쉬림프핫치킨&단호박(3단)",
+            "price": "49,500원"
+        },
+        {
+            "category": "신메뉴",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20241211_267/17338770014125LMq1_PNG/image.png?type=f220_220_60_sharpen",
+            "menu_name": "알파팩 고구마&페페로니(3단)",
+            "price": "47,500원"
+        },
+        {
+            "category": "신메뉴",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20241211_211/17338770019003ipx5_PNG/image.png?type=f220_220_60_sharpen",
+            "menu_name": "알파팩 쉬림프핫치킨&단호박(4단)",
+            "price": "69,500원"
+        },
+        {
+            "category": "신메뉴",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20241211_203/1733877002375T6zti_PNG/image.png?type=f220_220_60_sharpen",
+            "menu_name": "알파팩 고구마&페페로니(4단)",
+            "price": "67,500원"
+        },
+        {
+            "category": "신메뉴",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20241211_128/1733877000559sa5rn_PNG/image.png?type=f220_220_60_sharpen",
+            "menu_name": "홍성한우 불고기 오리지널 R",
+            "price": "23,600원"
+        },
+        {
+            "category": "신메뉴",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20241211_128/1733877000559sa5rn_PNG/image.png?type=f220_220_60_sharpen",
+            "menu_name": "홍성한우 불고기 골드 R",
+            "price": "27,600원"
+        },
+        {
+            "category": "신메뉴",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20241211_128/1733877000559sa5rn_PNG/image.png?type=f220_220_60_sharpen",
+            "menu_name": "홍성한우 불고기 치즈크러스트 R",
+            "price": "27,600원"
+        },
+        {
+            "category": "신메뉴",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20241211_128/1733877000559sa5rn_PNG/image.png?type=f220_220_60_sharpen",
+            "menu_name": "홍성한우 불고기 슈크림무스 R",
+            "price": "27,600원"
+        },
+        {
+            "category": "신메뉴",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20241211_128/1733877000559sa5rn_PNG/image.png?type=f220_220_60_sharpen",
+            "menu_name": "홍성한우 불고기 오리지널 L",
+            "price": "28,600원"
+        },
+        {
+            "category": "신메뉴",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20241211_128/1733877000559sa5rn_PNG/image.png?type=f220_220_60_sharpen",
+            "menu_name": "홍성한우 불고기 골드 L",
+            "price": "32,600원"
+        },
+        {
+            "category": "신메뉴",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20241211_128/1733877000559sa5rn_PNG/image.png?type=f220_220_60_sharpen",
+            "menu_name": "홍성한우 불고기 치즈크러스트 L",
+            "price": "32,600원"
+        },
+        {
+            "category": "신메뉴",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20241211_128/1733877000559sa5rn_PNG/image.png?type=f220_220_60_sharpen",
+            "menu_name": "홍성한우 불고기 슈크림무스 L",
+            "price": "32,600원"
+        },
+        {
+            "category": "신메뉴",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20241211_68/1733877005069mUWtX_PNG/image.png?type=f220_220_60_sharpen",
+            "menu_name": "크림감베로니 스파게티",
+            "price": "11,500원"
+        },
+        {
+            "category": "시그니처",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20240801_122/1722472411965GF6MW_PNG/image.png?type=f220_220_60_sharpen",
+            "menu_name": "홍성한우 김치불고기 슈크림무스 L",
+            "price": "34,600원"
+        },
+        {
+            "category": "시그니처",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20240801_122/1722472411965GF6MW_PNG/image.png?type=f220_220_60_sharpen",
+            "menu_name": "홍성한우 김치불고기 치즈크러스트 L",
+            "price": "34,600원"
+        },
+        {
+            "category": "시그니처",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20240801_122/1722472411965GF6MW_PNG/image.png?type=f220_220_60_sharpen",
+            "menu_name": "홍성한우 김치불고기 골드 L",
+            "price": "34,600원"
+        },
+        {
+            "category": "시그니처",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20240801_122/1722472411965GF6MW_PNG/image.png?type=f220_220_60_sharpen",
+            "menu_name": "홍성한우 김치불고기 슈크림무스 R",
+            "price": "29,600원"
+        },
+        {
+            "category": "시그니처",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20240801_122/1722472411965GF6MW_PNG/image.png?type=f220_220_60_sharpen",
+            "menu_name": "홍성한우 김치불고기 치즈크러스트 R",
+            "price": "29,600원"
+        },
+        {
+            "category": "시그니처",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20240801_122/1722472411965GF6MW_PNG/image.png?type=f220_220_60_sharpen",
+            "menu_name": "홍성한우 김치불고기 골드 R",
+            "price": "29,600원"
+        },
+        {
+            "category": "시그니처",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20240801_122/1722472411965GF6MW_PNG/image.png?type=f220_220_60_sharpen",
+            "menu_name": "홍성한우 김치불고기 오리지널 R",
+            "price": "25,600원"
+        },
+        {
+            "category": "시그니처",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20230926_9/16956882419982Bzr2_PNG/image.png?type=f220_220_60_sharpen",
+            "menu_name": "어깨 L",
+            "price": "31,000원"
+        },
+        {
+            "category": "시그니처",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20240801_122/1722472411965GF6MW_PNG/image.png?type=f220_220_60_sharpen",
+            "menu_name": "홍성한우 김치불고기 오리지널 L",
+            "price": "30,600원"
+        },
+        {
+            "category": "시그니처",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20230926_147/1695688204443eEqID_PNG/image.png?type=f220_220_60_sharpen",
+            "menu_name": "쉬림프n핫치킨 골드 L",
+            "price": "34,000원"
+        },
+        {
+            "category": "시그니처",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20230926_147/1695688204443eEqID_PNG/image.png?type=f220_220_60_sharpen",
+            "menu_name": "쉬림프n핫치킨 치즈크러스트 L",
+            "price": "34,000원"
+        },
+        {
+            "category": "시그니처",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20230926_147/1695688204443eEqID_PNG/image.png?type=f220_220_60_sharpen",
+            "menu_name": "쉬림프n핫치킨 슈크림무스 L",
+            "price": "34,000원"
+        },
+        {
+            "category": "시그니처",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20230831_269/1693441801795wkE95_PNG/image.png?type=f220_220_60_sharpen",
+            "menu_name": "꿈을피자 L",
+            "price": "30,000원"
+        },
+        {
+            "category": "시그니처",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20230926_44/1695688201358AzJsd_PNG/image.png?type=f220_220_60_sharpen",
+            "menu_name": "꿈을 치즈크러스트 L",
+            "price": "34,000원"
+        },
+        {
+            "category": "시그니처",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20230926_44/1695688201358AzJsd_PNG/image.png?type=f220_220_60_sharpen",
+            "menu_name": "꿈을 골드 L",
+            "price": "34,000원"
+        },
+        {
+            "category": "시그니처",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20230926_44/1695688201358AzJsd_PNG/image.png?type=f220_220_60_sharpen",
+            "menu_name": "꿈을 슈크림무스 L",
+            "price": "34,000원"
+        },
+        {
+            "category": "시그니처",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20230926_157/1695688210879desAT_PNG/image.png?type=f220_220_60_sharpen",
+            "menu_name": "전주불백 L",
+            "price": "25,000원"
+        },
+        {
+            "category": "시그니처",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20230926_157/1695688210879desAT_PNG/image.png?type=f220_220_60_sharpen",
+            "menu_name": "전주불백 골드 L",
+            "price": "29,000원"
+        },
+        {
+            "category": "시그니처",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20230926_157/1695688210879desAT_PNG/image.png?type=f220_220_60_sharpen",
+            "menu_name": "전주불백 치즈크러스트 L",
+            "price": "29,000원"
+        },
+        {
+            "category": "시그니처",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20230926_157/1695688210879desAT_PNG/image.png?type=f220_220_60_sharpen",
+            "menu_name": "전주불백 슈크림무스 L",
+            "price": "29,000원"
+        },
+        {
+            "category": "시그니처",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20230831_296/1693441800604IxCVJ_PNG/image.png?type=f220_220_60_sharpen",
+            "menu_name": "목동 오리지널 L",
+            "price": "25,000원"
+        },
+        {
+            "category": "시그니처",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20230926_59/1695688205288aMntt_PNG/image.png?type=f220_220_60_sharpen",
+            "menu_name": "목동 치즈크러스트 L",
+            "price": "29,000원"
+        },
+        {
+            "category": "시그니처",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20230926_59/1695688205288aMntt_PNG/image.png?type=f220_220_60_sharpen",
+            "menu_name": "목동 골드 L",
+            "price": "29,000원"
+        },
+        {
+            "category": "시그니처",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20230926_59/1695688205288aMntt_PNG/image.png?type=f220_220_60_sharpen",
+            "menu_name": "목동 슈크림무스 L",
+            "price": "29,000원"
+        },
+        {
+            "category": "시그니처",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20230926_28/1695688214909nd3x2_PNG/image.png?type=f220_220_60_sharpen",
+            "menu_name": "팔도 L",
+            "price": "28,000원"
+        },
+        {
+            "category": "시그니처",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20230926_28/1695688214909nd3x2_PNG/image.png?type=f220_220_60_sharpen",
+            "menu_name": "팔도 치즈크러스트 L",
+            "price": "32,000원"
+        },
+        {
+            "category": "시그니처",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20230926_28/1695688214909nd3x2_PNG/image.png?type=f220_220_60_sharpen",
+            "menu_name": "팔도 골드 L",
+            "price": "32,000원"
+        },
+        {
+            "category": "시그니처",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20230926_28/1695688214909nd3x2_PNG/image.png?type=f220_220_60_sharpen",
+            "menu_name": "팔도 슈크림무스 L",
+            "price": "32,000원"
+        },
+        {
+            "category": "시그니처",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20230831_122/1693441801118RvmTe_PNG/image.png?type=f220_220_60_sharpen",
+            "menu_name": "팔자 L",
+            "price": "28,000원"
+        },
+        {
+            "category": "시그니처",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20230926_243/1695688202629hedmq_PNG/image.png?type=f220_220_60_sharpen",
+            "menu_name": "팔자 골드 L",
+            "price": "32,000원"
+        },
+        {
+            "category": "시그니처",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20230926_243/1695688202629hedmq_PNG/image.png?type=f220_220_60_sharpen",
+            "menu_name": "팔자 치즈크러스트 L",
+            "price": "32,000원"
+        },
+        {
+            "category": "시그니처",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20230926_243/1695688202629hedmq_PNG/image.png?type=f220_220_60_sharpen",
+            "menu_name": "팔자 슈크림무스 L",
+            "price": "32,000원"
+        },
+        {
+            "category": "시그니처",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20230926_9/16956882419982Bzr2_PNG/image.png?type=f220_220_60_sharpen",
+            "menu_name": "어깨 R",
+            "price": "26,000원"
+        },
+        {
+            "category": "시그니처",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20230926_147/1695688204443eEqID_PNG/image.png?type=f220_220_60_sharpen",
+            "menu_name": "쉬림프n핫치킨 오리지널 R",
+            "price": "25,000원"
+        },
+        {
+            "category": "시그니처",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20230926_147/1695688204443eEqID_PNG/image.png?type=f220_220_60_sharpen",
+            "menu_name": "쉬림프n핫치킨 골드 R",
+            "price": "29,000원"
+        },
+        {
+            "category": "시그니처",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20230926_147/1695688204443eEqID_PNG/image.png?type=f220_220_60_sharpen",
+            "menu_name": "쉬림프n핫치킨 치즈크러스트 R",
+            "price": "29,000원"
+        },
+        {
+            "category": "시그니처",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20230926_147/1695688204443eEqID_PNG/image.png?type=f220_220_60_sharpen",
+            "menu_name": "쉬림프n핫치킨 슈크림무스 R",
+            "price": "29,000원"
+        },
+        {
+            "category": "시그니처",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20230926_44/1695688201358AzJsd_PNG/image.png?type=f220_220_60_sharpen",
+            "menu_name": "꿈을피자 R",
+            "price": "25,000원"
+        },
+        {
+            "category": "시그니처",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20230926_44/1695688201358AzJsd_PNG/image.png?type=f220_220_60_sharpen",
+            "menu_name": "꿈을 골드 R",
+            "price": "29,000원"
+        },
+        {
+            "category": "시그니처",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20230926_44/1695688201358AzJsd_PNG/image.png?type=f220_220_60_sharpen",
+            "menu_name": "꿈을 치즈크러스트 R",
+            "price": "29,000원"
+        },
+        {
+            "category": "시그니처",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20230926_44/1695688201358AzJsd_PNG/image.png?type=f220_220_60_sharpen",
+            "menu_name": "꿈을 슈크림무스 R",
+            "price": "29,000원"
+        },
+        {
+            "category": "시그니처",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20230926_157/1695688210879desAT_PNG/image.png?type=f220_220_60_sharpen",
+            "menu_name": "전주불백 R",
+            "price": "20,000원"
+        },
+        {
+            "category": "시그니처",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20230926_157/1695688210879desAT_PNG/image.png?type=f220_220_60_sharpen",
+            "menu_name": "전주불백 골드 R",
+            "price": "24,000원"
+        },
+        {
+            "category": "시그니처",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20230926_157/1695688210879desAT_PNG/image.png?type=f220_220_60_sharpen",
+            "menu_name": "전주불백 치즈크러스트 R",
+            "price": "24,000원"
+        },
+        {
+            "category": "시그니처",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20230926_157/1695688210879desAT_PNG/image.png?type=f220_220_60_sharpen",
+            "menu_name": "전주불백 슈크림무스 R",
+            "price": "24,000원"
+        },
+        {
+            "category": "시그니처",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20230831_296/1693441800604IxCVJ_PNG/image.png?type=f220_220_60_sharpen",
+            "menu_name": "목동 오리지널 R",
+            "price": "20,000원"
+        },
+        {
+            "category": "시그니처",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20230926_59/1695688205288aMntt_PNG/image.png?type=f220_220_60_sharpen",
+            "menu_name": "목동 치즈크러스트 R",
+            "price": "24,000원"
+        },
+        {
+            "category": "시그니처",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20230926_59/1695688205288aMntt_PNG/image.png?type=f220_220_60_sharpen",
+            "menu_name": "목동 골드 R",
+            "price": "24,000원"
+        },
+        {
+            "category": "시그니처",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20230926_59/1695688205288aMntt_PNG/image.png?type=f220_220_60_sharpen",
+            "menu_name": "목동 슈크림무스 R",
+            "price": "24,000원"
+        },
+        {
+            "category": "시그니처",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20230926_243/1695688202629hedmq_PNG/image.png?type=f220_220_60_sharpen",
+            "menu_name": "팔자 R",
+            "price": "23,000원"
+        },
+        {
+            "category": "시그니처",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20230926_243/1695688202629hedmq_PNG/image.png?type=f220_220_60_sharpen",
+            "menu_name": "팔자 골드 R",
+            "price": "27,000원"
+        },
+        {
+            "category": "시그니처",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20230926_243/1695688202629hedmq_PNG/image.png?type=f220_220_60_sharpen",
+            "menu_name": "팔자 치즈크러스트 R",
+            "price": "27,000원"
+        },
+        {
+            "category": "시그니처",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20230926_243/1695688202629hedmq_PNG/image.png?type=f220_220_60_sharpen",
+            "menu_name": "팔자 슈크림무스 R",
+            "price": "27,000원"
+        },
+        {
+            "category": "이탈리안",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20240125_199/1706142600492yN510_PNG/image.png?type=f220_220_60_sharpen",
+            "menu_name": "영천마늘 불고기피자",
+            "price": "27,000원"
+        },
+        {
+            "category": "이탈리안",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20240125_154/1706142601203C7xcR_PNG/image.png?type=f220_220_60_sharpen",
+            "menu_name": "영천마늘 페페로니피자",
+            "price": "23,000원"
+        },
+        {
+            "category": "이탈리안",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20240125_40/1706142600821VK5K3_PNG/image.png?type=f220_220_60_sharpen",
+            "menu_name": "단고통밀도우피자",
+            "price": "25,000원"
+        },
+        {
+            "category": "이탈리안",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20230926_102/1695688237382V5XW4_PNG/image.png?type=f220_220_60_sharpen",
+            "menu_name": "마르게리타",
+            "price": "23,000원"
+        },
+        {
+            "category": "이탈리안",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20230926_153/1695688237079mYgUr_PNG/image.png?type=f220_220_60_sharpen",
+            "menu_name": "잠봉루꼴라피자",
+            "price": "25,000원"
+        },
+        {
+            "category": "오리지널",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20230926_49/1695688230237mjxYG_PNG/image.png?type=f220_220_60_sharpen",
+            "menu_name": "베이컨체다치즈 오리지널 L",
+            "price": "25,000원"
+        },
+        {
+            "category": "오리지널",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20230926_49/1695688230237mjxYG_PNG/image.png?type=f220_220_60_sharpen",
+            "menu_name": "베이컨체다치즈 치즈크러스트 L",
+            "price": "29,000원"
+        },
+        {
+            "category": "오리지널",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20230926_49/1695688230237mjxYG_PNG/image.png?type=f220_220_60_sharpen",
+            "menu_name": "베이컨체다치즈 골드 L",
+            "price": "29,000원"
+        },
+        {
+            "category": "오리지널",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20230926_49/1695688230237mjxYG_PNG/image.png?type=f220_220_60_sharpen",
+            "menu_name": "베이컨체다치즈 슈크림무스 L",
+            "price": "29,000원"
+        },
+        {
+            "category": "오리지널",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20230926_243/1695688211836K1JPO_PNG/image.png?type=f220_220_60_sharpen",
+            "menu_name": "불고기 오리지널 L",
+            "price": "24,000원"
+        },
+        {
+            "category": "오리지널",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20230926_243/1695688211836K1JPO_PNG/image.png?type=f220_220_60_sharpen",
+            "menu_name": "불고기 치즈크러스트 L",
+            "price": "28,000원"
+        },
+        {
+            "category": "오리지널",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20230926_243/1695688211836K1JPO_PNG/image.png?type=f220_220_60_sharpen",
+            "menu_name": "불고기 골드 L",
+            "price": "28,000원"
+        },
+        {
+            "category": "오리지널",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20230926_243/1695688211836K1JPO_PNG/image.png?type=f220_220_60_sharpen",
+            "menu_name": "불고기 슈크림무스 L",
+            "price": "28,000원"
+        },
+        {
+            "category": "오리지널",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20230926_52/1695688231188zvz01_PNG/image.png?type=f220_220_60_sharpen",
+            "menu_name": "콤비네이션 치즈크러스트 L",
+            "price": "28,000원"
+        },
+        {
+            "category": "오리지널",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20230926_52/1695688231188zvz01_PNG/image.png?type=f220_220_60_sharpen",
+            "menu_name": "콤비네이션 골드 L",
+            "price": "28,000원"
+        },
+        {
+            "category": "오리지널",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20230926_52/1695688231188zvz01_PNG/image.png?type=f220_220_60_sharpen",
+            "menu_name": "콤비네이션 슈크림무스 L",
+            "price": "28,000원"
+        },
+        {
+            "category": "오리지널",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20230926_246/1695688231587ckjYS_PNG/image.png?type=f220_220_60_sharpen",
+            "menu_name": "포테이토 오리지널 L",
+            "price": "24,000원"
+        },
+        {
+            "category": "오리지널",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20230926_246/1695688231587ckjYS_PNG/image.png?type=f220_220_60_sharpen",
+            "menu_name": "포테이토 치즈크러스트 L",
+            "price": "28,000원"
+        },
+        {
+            "category": "오리지널",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20230926_246/1695688231587ckjYS_PNG/image.png?type=f220_220_60_sharpen",
+            "menu_name": "포테이토 골드 L",
+            "price": "28,000원"
+        },
+        {
+            "category": "오리지널",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20230926_246/1695688231587ckjYS_PNG/image.png?type=f220_220_60_sharpen",
+            "menu_name": "포테이토 슈크림무스 L",
+            "price": "28,000원"
+        },
+        {
+            "category": "오리지널",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20230926_48/1695688228065uKS0G_PNG/image.png?type=f220_220_60_sharpen",
+            "menu_name": "치즈 오리지널 L",
+            "price": "23,000원"
+        },
+        {
+            "category": "오리지널",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20230926_48/1695688228065uKS0G_PNG/image.png?type=f220_220_60_sharpen",
+            "menu_name": "치즈 치즈크러스트 L",
+            "price": "27,000원"
+        },
+        {
+            "category": "오리지널",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20230926_48/1695688228065uKS0G_PNG/image.png?type=f220_220_60_sharpen",
+            "menu_name": "치즈 골드 L",
+            "price": "27,000원"
+        },
+        {
+            "category": "오리지널",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20230926_48/1695688228065uKS0G_PNG/image.png?type=f220_220_60_sharpen",
+            "menu_name": "치즈 슈크림무스 L",
+            "price": "27,000원"
+        },
+        {
+            "category": "오리지널",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20230926_66/1695688229608EugRu_PNG/image.png?type=f220_220_60_sharpen",
+            "menu_name": "야채 오리지널 L",
+            "price": "23,000원"
+        },
+        {
+            "category": "오리지널",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20230926_66/1695688229608EugRu_PNG/image.png?type=f220_220_60_sharpen",
+            "menu_name": "야채 치즈크러스트 L",
+            "price": "27,000원"
+        },
+        {
+            "category": "오리지널",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20230926_66/1695688229608EugRu_PNG/image.png?type=f220_220_60_sharpen",
+            "menu_name": "야채 골드 L",
+            "price": "27,000원"
+        },
+        {
+            "category": "오리지널",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20230926_66/1695688229608EugRu_PNG/image.png?type=f220_220_60_sharpen",
+            "menu_name": "야채 슈크림무스 L",
+            "price": "27,000원"
+        },
+        {
+            "category": "오리지널",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20230926_226/1695688228853BI78g_PNG/image.png?type=f220_220_60_sharpen",
+            "menu_name": "페페로니 오리지널 L",
+            "price": "23,000원"
+        },
+        {
+            "category": "오리지널",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20230926_226/1695688228853BI78g_PNG/image.png?type=f220_220_60_sharpen",
+            "menu_name": "페페로니 치즈크러스트 L",
+            "price": "27,000원"
+        },
+        {
+            "category": "오리지널",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20230926_226/1695688228853BI78g_PNG/image.png?type=f220_220_60_sharpen",
+            "menu_name": "페페로니 골드 L",
+            "price": "27,000원"
+        },
+        {
+            "category": "오리지널",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20230926_226/1695688228853BI78g_PNG/image.png?type=f220_220_60_sharpen",
+            "menu_name": "페페로니 슈크림무스 L",
+            "price": "27,000원"
+        },
+        {
+            "category": "오리지널",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20230831_105/1693441814700XvoNC_PNG/image.png?type=f220_220_60_sharpen",
+            "menu_name": "베이컨체다치즈 오리지널 R",
+            "price": "20,000원"
+        },
+        {
+            "category": "오리지널",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20230926_49/1695688230237mjxYG_PNG/image.png?type=f220_220_60_sharpen",
+            "menu_name": "베이컨체다치즈 치즈크러스트 R",
+            "price": "24,000원"
+        },
+        {
+            "category": "오리지널",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20230926_49/1695688230237mjxYG_PNG/image.png?type=f220_220_60_sharpen",
+            "menu_name": "베이컨체다치즈 골드 R",
+            "price": "24,000원"
+        },
+        {
+            "category": "오리지널",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20230926_49/1695688230237mjxYG_PNG/image.png?type=f220_220_60_sharpen",
+            "menu_name": "베이컨체다치즈 슈크림무스 R",
+            "price": "24,000원"
+        },
+        {
+            "category": "오리지널",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20230926_243/1695688211836K1JPO_PNG/image.png?type=f220_220_60_sharpen",
+            "menu_name": "불고기 오리지널 R",
+            "price": "19,000원"
+        },
+        {
+            "category": "오리지널",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20230926_243/1695688211836K1JPO_PNG/image.png?type=f220_220_60_sharpen",
+            "menu_name": "불고기 치즈크러스트 R",
+            "price": "23,000원"
+        },
+        {
+            "category": "오리지널",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20230926_243/1695688211836K1JPO_PNG/image.png?type=f220_220_60_sharpen",
+            "menu_name": "불고기 골드 R",
+            "price": "23,000원"
+        },
+        {
+            "category": "오리지널",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20230926_243/1695688211836K1JPO_PNG/image.png?type=f220_220_60_sharpen",
+            "menu_name": "불고기 슈크림무스 R",
+            "price": "23,000원"
+        },
+        {
+            "category": "오리지널",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20230926_52/1695688231188zvz01_PNG/image.png?type=f220_220_60_sharpen",
+            "menu_name": "콤비네이션 오리지널 R",
+            "price": "19,000원"
+        },
+        {
+            "category": "오리지널",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20230926_52/1695688231188zvz01_PNG/image.png?type=f220_220_60_sharpen",
+            "menu_name": "콤비네이션 치즈크러스트 R",
+            "price": "23,000원"
+        },
+        {
+            "category": "오리지널",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20230926_52/1695688231188zvz01_PNG/image.png?type=f220_220_60_sharpen",
+            "menu_name": "콤비네이션 골드 R",
+            "price": "23,000원"
+        },
+        {
+            "category": "오리지널",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20230926_52/1695688231188zvz01_PNG/image.png?type=f220_220_60_sharpen",
+            "menu_name": "콤비네이션 슈크림무스 R",
+            "price": "23,000원"
+        },
+        {
+            "category": "오리지널",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20230831_212/1693441817078UwtpD_PNG/image.png?type=f220_220_60_sharpen",
+            "menu_name": "포테이토 오리지널 R",
+            "price": "19,000원"
+        },
+        {
+            "category": "오리지널",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20230926_246/1695688231587ckjYS_PNG/image.png?type=f220_220_60_sharpen",
+            "menu_name": "포테이토 치즈크러스트 R",
+            "price": "23,000원"
+        },
+        {
+            "category": "오리지널",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20230926_246/1695688231587ckjYS_PNG/image.png?type=f220_220_60_sharpen",
+            "menu_name": "포테이토 골드 R",
+            "price": "23,000원"
+        },
+        {
+            "category": "오리지널",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20230926_246/1695688231587ckjYS_PNG/image.png?type=f220_220_60_sharpen",
+            "menu_name": "포테이토 슈크림무스 R",
+            "price": "23,000원"
+        },
+        {
+            "category": "오리지널",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20230926_48/1695688228065uKS0G_PNG/image.png?type=f220_220_60_sharpen",
+            "menu_name": "치즈 오리지널 R",
+            "price": "18,000원"
+        },
+        {
+            "category": "오리지널",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20230926_48/1695688228065uKS0G_PNG/image.png?type=f220_220_60_sharpen",
+            "menu_name": "치즈 치즈크러스트 R",
+            "price": "22,000원"
+        },
+        {
+            "category": "오리지널",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20230926_48/1695688228065uKS0G_PNG/image.png?type=f220_220_60_sharpen",
+            "menu_name": "치즈 골드 R",
+            "price": "22,000원"
+        },
+        {
+            "category": "오리지널",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20230926_48/1695688228065uKS0G_PNG/image.png?type=f220_220_60_sharpen",
+            "menu_name": "치즈 슈크림무스 R",
+            "price": "22,000원"
+        },
+        {
+            "category": "오리지널",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20230926_66/1695688229608EugRu_PNG/image.png?type=f220_220_60_sharpen",
+            "menu_name": "야채 오리지널 R",
+            "price": "18,000원"
+        },
+        {
+            "category": "오리지널",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20230926_66/1695688229608EugRu_PNG/image.png?type=f220_220_60_sharpen",
+            "menu_name": "야채 치즈크러스트 R",
+            "price": "22,000원"
+        },
+        {
+            "category": "오리지널",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20230926_66/1695688229608EugRu_PNG/image.png?type=f220_220_60_sharpen",
+            "menu_name": "야채 골드 R",
+            "price": "22,000원"
+        },
+        {
+            "category": "오리지널",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20230926_66/1695688229608EugRu_PNG/image.png?type=f220_220_60_sharpen",
+            "menu_name": "야채 슈크림무스 R",
+            "price": "22,000원"
+        },
+        {
+            "category": "오리지널",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20230926_226/1695688228853BI78g_PNG/image.png?type=f220_220_60_sharpen",
+            "menu_name": "페페로니 오리지널 R",
+            "price": "18,000원"
+        },
+        {
+            "category": "오리지널",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20230926_226/1695688228853BI78g_PNG/image.png?type=f220_220_60_sharpen",
+            "menu_name": "페페로니 치즈크러스트 R",
+            "price": "22,000원"
+        },
+        {
+            "category": "오리지널",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20230926_226/1695688228853BI78g_PNG/image.png?type=f220_220_60_sharpen",
+            "menu_name": "페페로니 골드 R",
+            "price": "22,000원"
+        },
+        {
+            "category": "오리지널",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20230926_226/1695688228853BI78g_PNG/image.png?type=f220_220_60_sharpen",
+            "menu_name": "페페로니 슈크림무스 R",
+            "price": "22,000원"
+        },
+        {
+            "category": "스위트",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20230926_143/16956882217634PsFn_PNG/image.png?type=f220_220_60_sharpen",
+            "menu_name": "옥수수 오리지널 L",
+            "price": "25,000원"
+        },
+        {
+            "category": "스위트",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20230926_143/16956882217634PsFn_PNG/image.png?type=f220_220_60_sharpen",
+            "menu_name": "옥수수 골드 L",
+            "price": "29,000원"
+        },
+        {
+            "category": "스위트",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20230926_143/16956882217634PsFn_PNG/image.png?type=f220_220_60_sharpen",
+            "menu_name": "옥수수 치즈크러스트 L",
+            "price": "29,000원"
+        },
+        {
+            "category": "스위트",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20230926_143/16956882217634PsFn_PNG/image.png?type=f220_220_60_sharpen",
+            "menu_name": "옥수수 슈크림무스 L",
+            "price": "29,000원"
+        },
+        {
+            "category": "스위트",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20230926_287/16956882226958sFW2_PNG/image.png?type=f220_220_60_sharpen",
+            "menu_name": "단호박 오리지널 L",
+            "price": "25,000원"
+        },
+        {
+            "category": "스위트",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20230926_287/16956882226958sFW2_PNG/image.png?type=f220_220_60_sharpen",
+            "menu_name": "단호박 치즈크러스트 L",
+            "price": "29,000원"
+        },
+        {
+            "category": "스위트",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20230926_287/16956882226958sFW2_PNG/image.png?type=f220_220_60_sharpen",
+            "menu_name": "단호박 골드 L",
+            "price": "29,000원"
+        },
+        {
+            "category": "스위트",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20230926_287/16956882226958sFW2_PNG/image.png?type=f220_220_60_sharpen",
+            "menu_name": "단호박 슈크림무스 L",
+            "price": "29,000원"
+        },
+        {
+            "category": "스위트",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20230926_174/1695688221497dAeO7_PNG/image.png?type=f220_220_60_sharpen",
+            "menu_name": "고구마 치즈크러스트 L",
+            "price": "29,000원"
+        },
+        {
+            "category": "스위트",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20230926_174/1695688221497dAeO7_PNG/image.png?type=f220_220_60_sharpen",
+            "menu_name": "고구마 골드 L",
+            "price": "29,000원"
+        },
+        {
+            "category": "스위트",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20230926_174/1695688221497dAeO7_PNG/image.png?type=f220_220_60_sharpen",
+            "menu_name": "고구마 슈크림무스 L",
+            "price": "29,000원"
+        },
+        {
+            "category": "스위트",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20230926_112/1695688254771OYl2R_PNG/image.png?type=f220_220_60_sharpen",
+            "menu_name": "고르곤졸라 씬 L",
+            "price": "24,000원"
+        },
+        {
+            "category": "스위트",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20230926_240/1695688220642WQo9g_PNG/image.png?type=f220_220_60_sharpen",
+            "menu_name": "하와이안 오리지널 L",
+            "price": "23,000원"
+        },
+        {
+            "category": "스위트",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20230926_240/1695688220642WQo9g_PNG/image.png?type=f220_220_60_sharpen",
+            "menu_name": "하와이안 치즈크러스트 L",
+            "price": "27,000원"
+        },
+        {
+            "category": "스위트",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20230926_240/1695688220642WQo9g_PNG/image.png?type=f220_220_60_sharpen",
+            "menu_name": "하와이안 골드 L",
+            "price": "27,000원"
+        },
+        {
+            "category": "스위트",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20230926_240/1695688220642WQo9g_PNG/image.png?type=f220_220_60_sharpen",
+            "menu_name": "하와이안 슈크림무스 L",
+            "price": "27,000원"
+        },
+        {
+            "category": "스위트",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20230831_5/1693441809522DGM92_PNG/image.png?type=f220_220_60_sharpen",
+            "menu_name": "옥수수 오리지널 R",
+            "price": "20,000원"
+        },
+        {
+            "category": "스위트",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20230926_143/16956882217634PsFn_PNG/image.png?type=f220_220_60_sharpen",
+            "menu_name": "옥수수 골드 R",
+            "price": "24,000원"
+        },
+        {
+            "category": "스위트",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20230926_143/16956882217634PsFn_PNG/image.png?type=f220_220_60_sharpen",
+            "menu_name": "옥수수 치즈크러스트 R",
+            "price": "24,000원"
+        },
+        {
+            "category": "스위트",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20230926_143/16956882217634PsFn_PNG/image.png?type=f220_220_60_sharpen",
+            "menu_name": "옥수수 슈크림무스 R",
+            "price": "24,000원"
+        },
+        {
+            "category": "스위트",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20230926_287/16956882226958sFW2_PNG/image.png?type=f220_220_60_sharpen",
+            "menu_name": "단호박 오리지널 R",
+            "price": "20,000원"
+        },
+        {
+            "category": "스위트",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20230926_287/16956882226958sFW2_PNG/image.png?type=f220_220_60_sharpen",
+            "menu_name": "단호박 치즈크러스트 R",
+            "price": "24,000원"
+        },
+        {
+            "category": "스위트",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20230926_287/16956882226958sFW2_PNG/image.png?type=f220_220_60_sharpen",
+            "menu_name": "단호박 골드 R",
+            "price": "24,000원"
+        },
+        {
+            "category": "스위트",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20230926_287/16956882226958sFW2_PNG/image.png?type=f220_220_60_sharpen",
+            "menu_name": "단호박 슈크림무스 R",
+            "price": "24,000원"
+        },
+        {
+            "category": "스위트",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20230926_174/1695688221497dAeO7_PNG/image.png?type=f220_220_60_sharpen",
+            "menu_name": "고구마 오리지널 R",
+            "price": "20,000원"
+        },
+        {
+            "category": "스위트",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20230926_174/1695688221497dAeO7_PNG/image.png?type=f220_220_60_sharpen",
+            "menu_name": "고구마 치즈크러스트 R",
+            "price": "24,000원"
+        },
+        {
+            "category": "스위트",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20230926_174/1695688221497dAeO7_PNG/image.png?type=f220_220_60_sharpen",
+            "menu_name": "고구마 골드 R",
+            "price": "24,000원"
+        },
+        {
+            "category": "스위트",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20230926_174/1695688221497dAeO7_PNG/image.png?type=f220_220_60_sharpen",
+            "menu_name": "고구마 슈크림무스 R",
+            "price": "24,000원"
+        },
+        {
+            "category": "스위트",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20230926_112/1695688254771OYl2R_PNG/image.png?type=f220_220_60_sharpen",
+            "menu_name": "고르곤졸라 씬 R",
+            "price": "19,000원"
+        },
+        {
+            "category": "스위트",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20230926_240/1695688220642WQo9g_PNG/image.png?type=f220_220_60_sharpen",
+            "menu_name": "하와이안 오리지널 R",
+            "price": "18,000원"
+        },
+        {
+            "category": "스위트",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20230926_240/1695688220642WQo9g_PNG/image.png?type=f220_220_60_sharpen",
+            "menu_name": "하와이안 치즈크러스트 R",
+            "price": "22,000원"
+        },
+        {
+            "category": "스위트",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20230926_240/1695688220642WQo9g_PNG/image.png?type=f220_220_60_sharpen",
+            "menu_name": "하와이안 골드 R",
+            "price": "22,000원"
+        },
+        {
+            "category": "스위트",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20230926_240/1695688220642WQo9g_PNG/image.png?type=f220_220_60_sharpen",
+            "menu_name": "하와이안 슈크림무스 R",
+            "price": "22,000원"
+        },
+        {
+            "category": "사이드",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20240801_184/1722472412490zuiOV_PNG/image.png?type=f220_220_60_sharpen",
+            "menu_name": "치즈오븐김치볶음밥",
+            "price": "8,500원"
+        },
+        {
+            "category": "사이드",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20240313_291/1710289846298zToJS_PNG/image.png?type=f220_220_60_sharpen",
+            "menu_name": "마라치즈오븐스파게티",
+            "price": "9,500원"
+        },
+        {
+            "category": "사이드",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20240313_194/1710289846074q4RfI_PNG/image.png?type=f220_220_60_sharpen",
+            "menu_name": "마라윙&봉(4조각)",
+            "price": "5,000원"
+        },
+        {
+            "category": "사이드",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20240313_86/1710289846586M4jJm_PNG/image.png?type=f220_220_60_sharpen",
+            "menu_name": "마라윙&봉(10조각)",
+            "price": "10,000원"
+        },
+        {
+            "category": "사이드",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20240508_253/1715128237854LOvNx_PNG/image.png?type=f220_220_60_sharpen",
+            "menu_name": "루꼴라샐러드",
+            "price": "4,500원"
+        },
+        {
+            "category": "사이드",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20240508_115/1715128236667Ga29v_PNG/image.png?type=f220_220_60_sharpen",
+            "menu_name": "치킨텐더 루꼴라샐러드",
+            "price": "6,500원"
+        },
+        {
+            "category": "사이드",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20240508_270/17151282376351FgiW_PNG/image.png?type=f220_220_60_sharpen",
+            "menu_name": "모짜렐라 루꼴라샐러드",
+            "price": "7,500원"
+        },
+        {
+            "category": "사이드",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20240508_240/1715128237356BDIL8_PNG/image.png?type=f220_220_60_sharpen",
+            "menu_name": "바질감자그라탕",
+            "price": "3,500원"
+        },
+        {
+            "category": "사이드",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20240508_105/1715128237005BIzhq_PNG/image.png?type=f220_220_60_sharpen",
+            "menu_name": "점보 치즈오븐스파게티",
+            "price": "24,500원"
+        },
+        {
+            "category": "사이드",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20230514_248/1684042841370hOxnE_PNG/image.png?type=f220_220_60_sharpen",
+            "menu_name": "치즈오븐스파게티",
+            "price": "8,500원"
+        },
+        {
+            "category": "사이드",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20230514_68/1684042770786fkOd5_PNG/image.png?type=f220_220_60_sharpen",
+            "menu_name": "로제치즈오븐스파게티",
+            "price": "9,000원"
+        },
+        {
+            "category": "사이드",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20230831_280/1693441826860eeodK_PNG/image.png?type=f220_220_60_sharpen",
+            "menu_name": "까르보나라스파게티",
+            "price": "9,500원"
+        },
+        {
+            "category": "사이드",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20230514_227/1684042768090BXG6s_PNG/image.png?type=f220_220_60_sharpen",
+            "menu_name": "버팔로윙&봉(4조각)",
+            "price": "4,500원"
+        },
+        {
+            "category": "사이드",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20230514_194/1684042767683HmhOM_PNG/image.png?type=f220_220_60_sharpen",
+            "menu_name": "버팔로윙&봉(10조각)",
+            "price": "9,500원"
+        },
+        {
+            "category": "사이드",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20230831_267/1693441843430f1EeC_PNG/image.png?type=f220_220_60_sharpen",
+            "menu_name": "고구마스틱(14조각)",
+            "price": "9,000원"
+        },
+        {
+            "category": "사이드",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20230514_181/1684042776454oKPdk_PNG/image.png?type=f220_220_60_sharpen",
+            "menu_name": "슈크림치즈스틱(14조각)",
+            "price": "9,000원"
+        },
+        {
+            "category": "사이드",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20230514_231/1684042768487nAEnn_PNG/image.png?type=f220_220_60_sharpen",
+            "menu_name": "스트링치즈스틱(14조각)",
+            "price": "9,500원"
+        },
+        {
+            "category": "사이드",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20230831_218/1693441843809WO8Dn_PNG/image.png?type=f220_220_60_sharpen",
+            "menu_name": "흑미브래드스틱",
+            "price": "4,500원"
+        },
+        {
+            "category": "사이드",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20230831_181/1693441824555K4mfd_PNG/image.png?type=f220_220_60_sharpen",
+            "menu_name": "통밀스틱",
+            "price": "5,500원"
+        },
+        {
+            "category": "사이드",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20240801_189/1722472240497jRMUJ_PNG/image.png?type=f220_220_60_sharpen",
+            "menu_name": "치즈볼(6개)",
+            "price": "6,000원"
+        },
+        {
+            "category": "사이드",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20230514_104/1684042770119CcMjb_PNG/image.png?type=f220_220_60_sharpen",
+            "menu_name": "치킨텐더(6조각)",
+            "price": "8,000원"
+        },
+        {
+            "category": "사이드",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20230514_261/1684042775776xhG2K_PNG/image.png?type=f220_220_60_sharpen",
+            "menu_name": "콘치즈그라탕 R",
+            "price": "3,500원"
+        },
+        {
+            "category": "사이드",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20230514_7/1684042776110Dduak_PNG/image.png?type=f220_220_60_sharpen",
+            "menu_name": "콘치즈그라탕 L",
+            "price": "6,500원"
+        },
+        {
+            "category": "사이드",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20230514_121/1684042840958zWvNy_PNG/image.png?type=f220_220_60_sharpen",
+            "menu_name": "단호박+고구마샐러드",
+            "price": "3,500원"
+        },
+        {
+            "category": "음료소스",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20230831_177/1693441820584YWKnE_PNG/image.png?type=f220_220_60_sharpen",
+            "menu_name": "코카-콜라 1.25L",
+            "price": "2,500원"
+        },
+        {
+            "category": "음료소스",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20230831_173/1693441820140bfJq9_PNG/image.png?type=f220_220_60_sharpen",
+            "menu_name": "코카-콜라 500ml",
+            "price": "2,000원"
+        },
+        {
+            "category": "음료소스",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20230831_300/1693441819885kSpxm_PNG/image.png?type=f220_220_60_sharpen",
+            "menu_name": "스프라이트 1.5L",
+            "price": "2,500원"
+        },
+        {
+            "category": "음료소스",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20230831_256/1693441820382xCRjG_PNG/image.png?type=f220_220_60_sharpen",
+            "menu_name": "스프라이트 500ml",
+            "price": "2,000원"
+        },
+        {
+            "category": "음료소스",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20230831_141/1693441821693li9Eh_PNG/image.png?type=f220_220_60_sharpen",
+            "menu_name": "코카-콜라 제로 1.25L",
+            "price": "2,500원"
+        },
+        {
+            "category": "음료소스",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20230831_161/1693441821491ToPaD_PNG/image.png?type=f220_220_60_sharpen",
+            "menu_name": "코카-콜라 제로 500ml",
+            "price": "2,000원"
+        },
+        {
+            "category": "음료소스",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20240801_206/1722472412698735YW_PNG/image.png?type=f220_220_60_sharpen",
+            "menu_name": "대파크림소스",
+            "price": "800원"
+        },
+        {
+            "category": "음료소스",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20240801_256/1722472284857MjA7j_PNG/image.png?type=f220_220_60_sharpen",
+            "menu_name": "갈릭디핑소스",
+            "price": "400원"
+        },
+        {
+            "category": "음료소스",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20240801_14/1722472285090JFU3J_PNG/image.png?type=f220_220_60_sharpen",
+            "menu_name": "머스타드소스",
+            "price": "400원"
+        },
+        {
+            "category": "음료소스",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20240801_89/1722472274799LD89Q_PNG/image.png?type=f220_220_60_sharpen",
+            "menu_name": "꿀소스",
+            "price": "500원"
+        },
+        {
+            "category": "음료소스",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20240801_145/1722472275205aPr5f_PNG/image.png?type=f220_220_60_sharpen",
+            "menu_name": "핫소스",
+            "price": "100원"
+        },
+        {
+            "category": "음료소스",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20240801_228/1722472275466lV18X_PNG/image.png?type=f220_220_60_sharpen",
+            "menu_name": "피클",
+            "price": "900원"
+        },
+        {
+            "category": "음료소스",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20240801_276/17224722757562W2RN_PNG/image.png?type=f220_220_60_sharpen",
+            "menu_name": "할라피뇨",
+            "price": "900원"
+        }
+    ]
+}

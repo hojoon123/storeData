@@ -1,0 +1,212 @@
+{
+    "store_name": "90맥주",
+    "store_location": "경남 창원시 진해구 신항2로 114 1층 131, 132호",
+    "loc_x": "365796.933058921",
+    "loc_y": "178333.147927421",
+    "menu": [
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241205_287%2F1733407111790A28wg_JPEG%2F1000003876.jpg",
+            "menu_name": "두부삼겹김치",
+            "price": "15,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241214_134%2F17341623264895k8qf_JPEG%2F1000003897.jpg",
+            "menu_name": "얼그레이하이볼",
+            "price": "5,500원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241205_139%2F1733408190126aRrXs_JPEG%2Ftemp_picture.jpg",
+            "menu_name": "요구르뚱샤베트",
+            "price": "7,000원"
+        },
+        {
+            "category": "",
+            "img_src": "",
+            "menu_name": "생맥주 500cc",
+            "price": "3,900원"
+        },
+        {
+            "category": "",
+            "img_src": "",
+            "menu_name": "짜.계.치",
+            "price": "6,000원"
+        },
+        {
+            "category": "",
+            "img_src": "",
+            "menu_name": "코젤다크 시나몬",
+            "price": "9,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241205_188%2F1733407313634jQ17h_JPEG%2F1000003877.jpg",
+            "menu_name": "오돌오돌뼈&주먹밥",
+            "price": "13,000원"
+        },
+        {
+            "category": "",
+            "img_src": "",
+            "menu_name": "감바스",
+            "price": "15,000원"
+        },
+        {
+            "category": "",
+            "img_src": "",
+            "menu_name": "닭똥집볶음",
+            "price": "13,000원"
+        },
+        {
+            "category": "",
+            "img_src": "",
+            "menu_name": "모듬소세지",
+            "price": "14,000원"
+        },
+        {
+            "category": "",
+            "img_src": "",
+            "menu_name": "순대볶음",
+            "price": "15,000원"
+        },
+        {
+            "category": "",
+            "img_src": "",
+            "menu_name": "골뱅이무침",
+            "price": "17,000원"
+        },
+        {
+            "category": "",
+            "img_src": "",
+            "menu_name": "어묵우동",
+            "price": "8,000원"
+        },
+        {
+            "category": "",
+            "img_src": "",
+            "menu_name": "오뎅탕",
+            "price": "10,000원"
+        },
+        {
+            "category": "",
+            "img_src": "",
+            "menu_name": "순대술국",
+            "price": "15,900원"
+        },
+        {
+            "category": "",
+            "img_src": "",
+            "menu_name": "버터구이오징어",
+            "price": "11,000원"
+        },
+        {
+            "category": "",
+            "img_src": "",
+            "menu_name": "반건조오징어",
+            "price": "11,000원"
+        },
+        {
+            "category": "",
+            "img_src": "",
+            "menu_name": "바싹먹태",
+            "price": "14,000원"
+        },
+        {
+            "category": "",
+            "img_src": "",
+            "menu_name": "쥐포",
+            "price": "7,000원"
+        },
+        {
+            "category": "",
+            "img_src": "",
+            "menu_name": "파인애플샤베트",
+            "price": "7,000원"
+        },
+        {
+            "category": "",
+            "img_src": "",
+            "menu_name": "갈릭버터감자튀김",
+            "price": "7,000원"
+        },
+        {
+            "category": "",
+            "img_src": "",
+            "menu_name": "모듬감자튀김",
+            "price": "8,000원"
+        },
+        {
+            "category": "",
+            "img_src": "",
+            "menu_name": "어니언튀김",
+            "price": "8,000원"
+        },
+        {
+            "category": "",
+            "img_src": "",
+            "menu_name": "길지~롱 돈까스",
+            "price": "10,000원"
+        },
+        {
+            "category": "",
+            "img_src": "",
+            "menu_name": "왕큰새우튀김",
+            "price": "5,000원"
+        },
+        {
+            "category": "",
+            "img_src": "",
+            "menu_name": "셀프주먹밥",
+            "price": "3,000원"
+        },
+        {
+            "category": "",
+            "img_src": "",
+            "menu_name": "기네스",
+            "price": "9,000원"
+        },
+        {
+            "category": "",
+            "img_src": "",
+            "menu_name": "호가든",
+            "price": "6,000원"
+        },
+        {
+            "category": "",
+            "img_src": "",
+            "menu_name": "산미구엘",
+            "price": "8,000원"
+        },
+        {
+            "category": "",
+            "img_src": "",
+            "menu_name": "칭다오",
+            "price": "8,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241214_297%2F1734162343328cSfe5_JPEG%2F1000003897.jpg",
+            "menu_name": "진저레몬하이볼",
+            "price": "5,500원"
+        },
+        {
+            "category": "",
+            "img_src": "",
+            "menu_name": "오리지널하이볼",
+            "price": "5,000원"
+        },
+        {
+            "category": "",
+            "img_src": "",
+            "menu_name": "자몽하이볼",
+            "price": "6,000원"
+        },
+        {
+            "category": "",
+            "img_src": "",
+            "menu_name": "잭콕",
+            "price": "7,000원"
+        }
+    ]
+}

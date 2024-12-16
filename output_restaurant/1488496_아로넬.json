@@ -1,0 +1,560 @@
+{
+    "store_name": "아로넬",
+    "store_location": "강원 원주시 양지로 16 2층 203, 204호",
+    "loc_x": "286834.662235453",
+    "loc_y": "425172.111221351",
+    "menu": [
+        {
+            "category": "새로 나온 메뉴",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20240610_104/1717995451387W6qLQ_JPEG/KakaoTalk_20240610_135629937.jpg?type=f220_220_60_sharpen",
+            "menu_name": "새우튀김 샐러드N",
+            "price": "10,000원"
+        },
+        {
+            "category": "새로 나온 메뉴",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20240610_108/1717995524945PQthe_JPEG/KakaoTalk_20240610_135328424_02.jpg?type=f220_220_60_sharpen",
+            "menu_name": "훈제오리 샐러드N",
+            "price": "13,000원"
+        },
+        {
+            "category": "새로 나온 메뉴",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20240610_120/1717995773599kwiBP_JPEG/KakaoTalk_20240610_135328424_04.jpg?type=f220_220_60_sharpen",
+            "menu_name": "생선까스N",
+            "price": "9,500원"
+        },
+        {
+            "category": "새로 나온 메뉴",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20240610_216/1717995816261Nt18K_JPEG/KakaoTalk_20240610_135328424_03.jpg?type=f220_220_60_sharpen",
+            "menu_name": "모둠까스N",
+            "price": "12,000원"
+        },
+        {
+            "category": "사장님 추천 메뉴",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20240206_255/1707216556289BV6ig_JPEG/%C5%A9%B8%B2%B5%B7%C6%C4.jpg?type=f220_220_60_sharpen",
+            "menu_name": "크림 돈.파대표",
+            "price": "14,500원"
+        },
+        {
+            "category": "사장님 추천 메뉴",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20240206_104/17072019632376fdTD_JPEG/%B8%C5%BF%EE_%C5%A9%B8%B2_%B5%B7%C6%C4.jpg?type=f220_220_60_sharpen",
+            "menu_name": "매운 크림 돈.파대표",
+            "price": "15,000원"
+        },
+        {
+            "category": "사장님 추천 메뉴",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20240206_255/1707201995743QLL8W_JPEG/%B7%CE%C1%A6_%B5%B7%C6%C4.jpg?type=f220_220_60_sharpen",
+            "menu_name": "로제 돈.파대표",
+            "price": "15,000원"
+        },
+        {
+            "category": "사장님 추천 메뉴",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20240206_48/1707202025170XsnJx_JPEG/%B6%B1%BA%BA%C0%CC_%B5%B7%C6%C4.jpg?type=f220_220_60_sharpen",
+            "menu_name": "떡볶이 돈.파대표",
+            "price": "14,000원"
+        },
+        {
+            "category": "사장님 추천 메뉴",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20240411_282/1712813083046IhtPa_JPEG/KakaoTalk_20240411_142255017.jpg?type=f220_220_60_sharpen",
+            "menu_name": "비프 뇨끼 파스타대표",
+            "price": "14,000원"
+        },
+        {
+            "category": "아로넬 시그니처",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20240411_282/1712813083046IhtPa_JPEG/KakaoTalk_20240411_142255017.jpg?type=f220_220_60_sharpen",
+            "menu_name": "비프 뇨끼 파스타대표",
+            "price": "14,000원"
+        },
+        {
+            "category": "아로넬 시그니처",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20240411_18/1712813111316y7QAQ_JPEG/KakaoTalk_20240411_142255017_01.jpg?type=f220_220_60_sharpen",
+            "menu_name": "참나물 브리치즈 파스타",
+            "price": "13,000원"
+        },
+        {
+            "category": "돈.파",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20240206_255/1707216556289BV6ig_JPEG/%C5%A9%B8%B2%B5%B7%C6%C4.jpg?type=f220_220_60_sharpen",
+            "menu_name": "크림 돈.파대표",
+            "price": "14,500원"
+        },
+        {
+            "category": "돈.파",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20240206_104/17072019632376fdTD_JPEG/%B8%C5%BF%EE_%C5%A9%B8%B2_%B5%B7%C6%C4.jpg?type=f220_220_60_sharpen",
+            "menu_name": "매운 크림 돈.파대표",
+            "price": "15,000원"
+        },
+        {
+            "category": "돈.파",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20240206_255/1707201995743QLL8W_JPEG/%B7%CE%C1%A6_%B5%B7%C6%C4.jpg?type=f220_220_60_sharpen",
+            "menu_name": "로제 돈.파대표",
+            "price": "15,000원"
+        },
+        {
+            "category": "돈.파",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20240206_48/1707202025170XsnJx_JPEG/%B6%B1%BA%BA%C0%CC_%B5%B7%C6%C4.jpg?type=f220_220_60_sharpen",
+            "menu_name": "떡볶이 돈.파대표",
+            "price": "14,000원"
+        },
+        {
+            "category": "파스타",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20240126_39/1706261377008OlShR_JPEG/KakaoTalk_20240116_092650541.jpg?type=f220_220_60_sharpen",
+            "menu_name": "크림 파스타",
+            "price": "9,500원"
+        },
+        {
+            "category": "파스타",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20240126_47/1706260895118Ieq76_JPEG/KakaoTalk_20240116_092650541_01.jpg?type=f220_220_60_sharpen",
+            "menu_name": "매운 크림 파스타",
+            "price": "10,000원"
+        },
+        {
+            "category": "파스타",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20240126_75/1706261133943DmyTV_JPEG/KakaoTalk_20240116_092650541_04.jpg?type=f220_220_60_sharpen",
+            "menu_name": "로제 파스타",
+            "price": "10,000원"
+        },
+        {
+            "category": "파스타",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20240126_217/1706261061496JeHWC_JPEG/KakaoTalk_20240116_092650541_02.jpg?type=f220_220_60_sharpen",
+            "menu_name": "토마토 파스타",
+            "price": "9,500원"
+        },
+        {
+            "category": "파스타",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20240126_250/1706261110672WFWxr_JPEG/KakaoTalk_20240116_092650541_05.jpg?type=f220_220_60_sharpen",
+            "menu_name": "알리오 올리오",
+            "price": "10,000원"
+        },
+        {
+            "category": "파스타",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20240206_100/1707202214060MJH3q_JPEG/KakaoTalk_20240206_145804516.jpg?type=f220_220_60_sharpen",
+            "menu_name": "핑크 크림 파스타",
+            "price": "10,000원"
+        },
+        {
+            "category": "파스타",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20240126_283/1706261088059ipzt3_JPEG/KakaoTalk_20240116_092650541_03.jpg?type=f220_220_60_sharpen",
+            "menu_name": "아라비아따 파스타",
+            "price": "10,000원"
+        },
+        {
+            "category": "파스타",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20240126_51/1706261235905k4fQs_JPEG/KakaoTalk_20240116_092650541_08.jpg?type=f220_220_60_sharpen",
+            "menu_name": "떡볶이 파스타",
+            "price": "9,000원"
+        },
+        {
+            "category": "돈까스&스테이크",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20240610_216/1717995816261Nt18K_JPEG/KakaoTalk_20240610_135328424_03.jpg?type=f220_220_60_sharpen",
+            "menu_name": "모둠까스N",
+            "price": "12,000원"
+        },
+        {
+            "category": "돈까스&스테이크",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20240206_26/17072022431538Ko7q_JPEG/KakaoTalk_20240206_145804516_02.jpg?type=f220_220_60_sharpen",
+            "menu_name": "수제 돈까스",
+            "price": "9,500원"
+        },
+        {
+            "category": "돈까스&스테이크",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20240610_120/1717995773599kwiBP_JPEG/KakaoTalk_20240610_135328424_04.jpg?type=f220_220_60_sharpen",
+            "menu_name": "생선까스N",
+            "price": "9,500원"
+        },
+        {
+            "category": "돈까스&스테이크",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20240126_95/1706261889405DyXVF_JPEG/%B8%C5%BF%EE_%B5%B7%B1%EE%BD%BA.jpg?type=f220_220_60_sharpen",
+            "menu_name": "수제 매운 돈까스",
+            "price": "10,000원"
+        },
+        {
+            "category": "돈까스&스테이크",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20240126_152/1706261533849zz2f2_JPEG/KakaoTalk_20240116_092650541_20.jpg?type=f220_220_60_sharpen",
+            "menu_name": "찹 스테이크",
+            "price": "18,000원"
+        },
+        {
+            "category": "필라프&리조또",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20240126_124/1706261262204Xd90V_JPEG/KakaoTalk_20240116_092650541_11.jpg?type=f220_220_60_sharpen",
+            "menu_name": "해산물 필라프",
+            "price": "13,000원"
+        },
+        {
+            "category": "필라프&리조또",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20240126_140/170626192594570ato_JPEG/KakaoTalk_20240116_092650541_10.jpg?type=f220_220_60_sharpen",
+            "menu_name": "김치 필라프",
+            "price": "11,000원"
+        },
+        {
+            "category": "필라프&리조또",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20240206_250/1707204276746G7LoG_JPEG/%BA%F1%C7%C1%C7%CA%B6%F3%C7%C12.jpg?type=f220_220_60_sharpen",
+            "menu_name": "비프 필라프",
+            "price": "13,000원"
+        },
+        {
+            "category": "필라프&리조또",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20240126_207/1706261401335eA5Kx_JPEG/KakaoTalk_20240116_092650541_13.jpg?type=f220_220_60_sharpen",
+            "menu_name": "크림 리조또",
+            "price": "10,000원"
+        },
+        {
+            "category": "필라프&리조또",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20240126_175/1706261425772Gzqox_JPEG/KakaoTalk_20240116_092650541_14.jpg?type=f220_220_60_sharpen",
+            "menu_name": "매운 크림 리조또",
+            "price": "10,500원"
+        },
+        {
+            "category": "필라프&리조또",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20240126_227/1706261477474rT9qE_JPEG/KakaoTalk_20240116_092650541_16.jpg?type=f220_220_60_sharpen",
+            "menu_name": "로제 리조또",
+            "price": "10,000원"
+        },
+        {
+            "category": "필라프&리조또",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20240126_223/1706261448650D6IWP_JPEG/KakaoTalk_20240116_092650541_12.jpg?type=f220_220_60_sharpen",
+            "menu_name": "토마토 리조또",
+            "price": "10,000원"
+        },
+        {
+            "category": "피자&샐러드",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20240318_179/1710754183895dUbcz_JPEG/KakaoTalk_20240316_194145061.jpg?type=f220_220_60_sharpen",
+            "menu_name": "베이컨 새우 피자",
+            "price": "15,000원"
+        },
+        {
+            "category": "피자&샐러드",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20240318_171/17107542244288rQsR_JPEG/KakaoTalk_20240316_194145061_01.jpg?type=f220_220_60_sharpen",
+            "menu_name": "크림 베이컨 새우 피자",
+            "price": "15,000원"
+        },
+        {
+            "category": "피자&샐러드",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20240206_165/17072022830159qVFi_JPEG/KakaoTalk_20240206_145804516_01.jpg?type=f220_220_60_sharpen",
+            "menu_name": "고르곤 졸라",
+            "price": "12,000원"
+        },
+        {
+            "category": "피자&샐러드",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20240126_251/1706261590608yxDi6_JPEG/KakaoTalk_20240116_092650541_15.jpg?type=f220_220_60_sharpen",
+            "menu_name": "페퍼로니 피자",
+            "price": "12,000원"
+        },
+        {
+            "category": "피자&샐러드",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20240126_74/1706261608448Y2gkH_JPEG/KakaoTalk_20240116_092650541_18.jpg?type=f220_220_60_sharpen",
+            "menu_name": "샐러드 피자",
+            "price": "13,000원"
+        },
+        {
+            "category": "피자&샐러드",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20240126_293/17062616295541yekw_JPEG/KakaoTalk_20240116_092650541_17.jpg?type=f220_220_60_sharpen",
+            "menu_name": "크림 샐러드 피자",
+            "price": "13,000원"
+        },
+        {
+            "category": "피자&샐러드",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20240610_108/1717995524945PQthe_JPEG/KakaoTalk_20240610_135328424_02.jpg?type=f220_220_60_sharpen",
+            "menu_name": "훈제오리 샐러드N",
+            "price": "13,000원"
+        },
+        {
+            "category": "피자&샐러드",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20240126_143/17062616598402SgdY_JPEG/KakaoTalk_20240116_094210130.jpg?type=f220_220_60_sharpen",
+            "menu_name": "수제 리코타 치즈 샐러드",
+            "price": "11,000원"
+        },
+        {
+            "category": "피자&샐러드",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20240610_104/1717995451387W6qLQ_JPEG/KakaoTalk_20240610_135629937.jpg?type=f220_220_60_sharpen",
+            "menu_name": "새우튀김 샐러드N",
+            "price": "10,000원"
+        },
+        {
+            "category": "피자&샐러드",
+            "img_src": "",
+            "menu_name": "샐러드 컵",
+            "price": "2,000원"
+        },
+        {
+            "category": "사이드메뉴",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20240215_234/1707928547142aR0tO_JPEG/KakaoTalk_20240214_162151985.jpg?type=f220_220_60_sharpen",
+            "menu_name": "새우 감바스",
+            "price": "18,000원"
+        },
+        {
+            "category": "사이드메뉴",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20240126_36/1706261798124Go4ut_JPEG/KakaoTalk_20240116_092650541_22.jpg?type=f220_220_60_sharpen",
+            "menu_name": "토마토 나쵸 치즈",
+            "price": "11,000원"
+        },
+        {
+            "category": "사이드메뉴",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20240610_55/1717995915533iK6XV_JPEG/KakaoTalk_20240610_135328424_01.jpg?type=f220_220_60_sharpen",
+            "menu_name": "새우튀김",
+            "price": "10,000원"
+        },
+        {
+            "category": "사이드메뉴",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20240610_18/1717995695221SBPUj_JPEG/KakaoTalk_20240610_135328424.jpg?type=f220_220_60_sharpen",
+            "menu_name": "어니언링",
+            "price": "8,000원"
+        },
+        {
+            "category": "사이드메뉴",
+            "img_src": "",
+            "menu_name": "감자튀김",
+            "price": "6,000원"
+        },
+        {
+            "category": "커피",
+            "img_src": "",
+            "menu_name": "에스프레소",
+            "price": "2,500원"
+        },
+        {
+            "category": "커피",
+            "img_src": "",
+            "menu_name": "아메리카노",
+            "price": "2,500원"
+        },
+        {
+            "category": "커피",
+            "img_src": "",
+            "menu_name": "헤이즐넛 아메리카노",
+            "price": "4,000원"
+        },
+        {
+            "category": "커피",
+            "img_src": "",
+            "menu_name": "카페라떼",
+            "price": "3,500원"
+        },
+        {
+            "category": "커피",
+            "img_src": "",
+            "menu_name": "바닐라 라떼",
+            "price": "4,000원"
+        },
+        {
+            "category": "커피",
+            "img_src": "",
+            "menu_name": "헤이즐넛 라떼",
+            "price": "4,500원"
+        },
+        {
+            "category": "커피",
+            "img_src": "",
+            "menu_name": "카라멜 마끼아또",
+            "price": "4,500원"
+        },
+        {
+            "category": "커피",
+            "img_src": "",
+            "menu_name": "카페모카",
+            "price": "4,500원"
+        },
+        {
+            "category": "커피",
+            "img_src": "",
+            "menu_name": "카푸치노",
+            "price": "4,000원"
+        },
+        {
+            "category": "커피",
+            "img_src": "",
+            "menu_name": "아인슈페너",
+            "price": "5,500원"
+        },
+        {
+            "category": "논-커피",
+            "img_src": "",
+            "menu_name": "초코 라떼",
+            "price": "4,500원"
+        },
+        {
+            "category": "논-커피",
+            "img_src": "",
+            "menu_name": "고구마 라떼",
+            "price": "4,500원"
+        },
+        {
+            "category": "논-커피",
+            "img_src": "",
+            "menu_name": "그린티 라떼",
+            "price": "4,500원"
+        },
+        {
+            "category": "논-커피",
+            "img_src": "",
+            "menu_name": "민트 라떼",
+            "price": "4,500원"
+        },
+        {
+            "category": "에이드",
+            "img_src": "",
+            "menu_name": "레몬 에이드",
+            "price": "5,000원"
+        },
+        {
+            "category": "에이드",
+            "img_src": "",
+            "menu_name": "자몽 에이드",
+            "price": "5,000원"
+        },
+        {
+            "category": "에이드",
+            "img_src": "",
+            "menu_name": "청포도 에이드",
+            "price": "5,000원"
+        },
+        {
+            "category": "에이드",
+            "img_src": "",
+            "menu_name": "블루레몬 에이드",
+            "price": "5,000원"
+        },
+        {
+            "category": "에이드",
+            "img_src": "",
+            "menu_name": "유자 에이드",
+            "price": "5,000원"
+        },
+        {
+            "category": "에이드",
+            "img_src": "",
+            "menu_name": "망고 에이드",
+            "price": "5,000원"
+        },
+        {
+            "category": "에이드",
+            "img_src": "",
+            "menu_name": "블루베리 에이드",
+            "price": "5,000원"
+        },
+        {
+            "category": "에이드",
+            "img_src": "",
+            "menu_name": "복숭아 에이드",
+            "price": "5,000원"
+        },
+        {
+            "category": "에이드",
+            "img_src": "",
+            "menu_name": "자두 에이드",
+            "price": "5,000원"
+        },
+        {
+            "category": "에이드",
+            "img_src": "",
+            "menu_name": "엘더플라워 에이드",
+            "price": "5,000원"
+        },
+        {
+            "category": "에이드",
+            "img_src": "",
+            "menu_name": "체리콕",
+            "price": "4,500원"
+        },
+        {
+            "category": "스무디",
+            "img_src": "",
+            "menu_name": "플레인 요거트 스무디",
+            "price": "5,000원"
+        },
+        {
+            "category": "스무디",
+            "img_src": "",
+            "menu_name": "딸기 요거트 스무디",
+            "price": "5,500원"
+        },
+        {
+            "category": "스무디",
+            "img_src": "",
+            "menu_name": "망고 요거트 스무디",
+            "price": "5,500원"
+        },
+        {
+            "category": "스무디",
+            "img_src": "",
+            "menu_name": "블루베리 요거트 스무디",
+            "price": "5,500원"
+        },
+        {
+            "category": "스무디",
+            "img_src": "",
+            "menu_name": "복숭아 스무디",
+            "price": "5,500원"
+        },
+        {
+            "category": "스무디",
+            "img_src": "",
+            "menu_name": "자두 스무디",
+            "price": "5,500원"
+        },
+        {
+            "category": "티",
+            "img_src": "",
+            "menu_name": "아이스티",
+            "price": "3,000원"
+        },
+        {
+            "category": "티",
+            "img_src": "",
+            "menu_name": "레몬 티",
+            "price": "3,500원"
+        },
+        {
+            "category": "티",
+            "img_src": "",
+            "menu_name": "자몽 티",
+            "price": "3,500원"
+        },
+        {
+            "category": "티",
+            "img_src": "",
+            "menu_name": "유자 티",
+            "price": "3,500원"
+        },
+        {
+            "category": "티",
+            "img_src": "",
+            "menu_name": "석류 티",
+            "price": "3,500원"
+        },
+        {
+            "category": "티",
+            "img_src": "",
+            "menu_name": "사과 티",
+            "price": "3,500원"
+        },
+        {
+            "category": "티",
+            "img_src": "",
+            "menu_name": "생강 티",
+            "price": "3,500원"
+        },
+        {
+            "category": "티",
+            "img_src": "",
+            "menu_name": "페퍼민트",
+            "price": "3,500원"
+        },
+        {
+            "category": "티",
+            "img_src": "",
+            "menu_name": "캐모마일",
+            "price": "3,500원"
+        },
+        {
+            "category": "티",
+            "img_src": "",
+            "menu_name": "히비스커스",
+            "price": "3,500원"
+        },
+        {
+            "category": "티",
+            "img_src": "",
+            "menu_name": "루이보스",
+            "price": "3,500원"
+        }
+    ]
+}

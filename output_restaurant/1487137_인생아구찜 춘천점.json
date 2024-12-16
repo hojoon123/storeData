@@ -1,0 +1,68 @@
+{
+    "store_name": "인생아구찜 춘천점",
+    "store_location": "강원 춘천시 백령로 215 상가2동 1층 106호",
+    "loc_x": "265693.057162061",
+    "loc_y": "486379.781753926",
+    "menu": [
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241122_15%2F1732261461801EWS4r_PNG%2F%25C4%25DD%25B6%25F3%25B0%25D5%25BE%25C6%25B1%25B8%25C2%25F2.png",
+            "menu_name": "[대표메뉴]콜라겐아구찜(추천)(1인)",
+            "price": "23,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241122_169%2F17322614338211ws55_PNG%2F%25C4%25DD%25B6%25F3%25B0%25D5%25BE%25C6%25B1%25B8%25C2%25F2.png",
+            "menu_name": "[대표메뉴]콜라겐아구찜(추천)(소)",
+            "price": "33,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241122_202%2F1732261398329HS0Rm_PNG%2F%25BB%25EC%25B8%25B6%25B4%25CF.png",
+            "menu_name": "[인기메뉴]살마니아구찜(1인)",
+            "price": "24,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241122_85%2F1732261370190nPz9I_PNG%2F%25BB%25EC%25B8%25B6%25B4%25CF.png",
+            "menu_name": "[인기메뉴]살마니아구찜(소)",
+            "price": "34,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241122_293%2F1732261335085iCGg0_PNG%2F%25C7%25D8%25B9%25B0%25BE%25C6%25B1%25B8%25C2%25F2.png",
+            "menu_name": "종합영양제 해물아구찜(중)",
+            "price": "49,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241122_272%2F17322613131895zHGp_PNG%2F%25BE%25CB%25C2%25F2.png",
+            "menu_name": "[주문폭주]영양만점 알찜(1인)",
+            "price": "25,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241122_269%2F1732261277622mMI9E_PNG%2F%25C5%25EB%25B9%25AE%25BE%25EE%25C7%25D8%25B9%25B0%25C2%25F2.png",
+            "menu_name": "[보양식]통문어 황제해물찜(중)",
+            "price": "56,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241122_216%2F1732261242168wfU9s_PNG%2F%25C0%25CE%25BB%25FD%25C7%25D8%25B9%25B0%25C2%25F2.png",
+            "menu_name": "강력추천 인생해물찜(아구없는)(중)",
+            "price": "56,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241122_146%2F1732261220089Y52u6_PNG%2F%25BE%25C6%25B0%25A9%25C2%25F2.png",
+            "menu_name": "프리미엄 아갑찜 (중)",
+            "price": "53,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241122_232%2F1732261187057sb8Vm_PNG%2F%25BE%25C6%25B3%25AB%25C2%25F2.png",
+            "menu_name": "기력충전 아낙찜 (중)",
+            "price": "45,000원"
+        }
+    ]
+}

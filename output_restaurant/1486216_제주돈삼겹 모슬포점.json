@@ -1,0 +1,50 @@
+{
+    "store_name": "제주돈삼겹 모슬포점",
+    "store_location": "제주 서귀포시 대정읍 하모상가로 43 제주돈삼겹 모슬포점",
+    "loc_x": "130329.183553971",
+    "loc_y": "-30204.6123758408",
+    "menu": [
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241120_123%2F1732062367805CWlRT_PNG%2FIMG_0556.png",
+            "menu_name": "대패삼겹",
+            "price": "3,500원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241120_217%2F1732062173260dceDv_JPEG%2FIMG_0557.jpeg",
+            "menu_name": "꼬들대패삼겹",
+            "price": "4,500원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241128_149%2F17327462593182Hrnl_JPEG%2FIMG_0643.jpeg",
+            "menu_name": "우삼겹",
+            "price": "5,500원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241128_130%2F17327464482240dhkn_JPEG%2FIMG_0644.jpeg",
+            "menu_name": "옛날냉동삼겹",
+            "price": "6,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241128_117%2F173274735676161rUE_JPEG%2FIMG_0646.jpeg",
+            "menu_name": "제주오겹살",
+            "price": "9,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241120_128%2F1732062599603XhWgI_PNG%2FIMG_0559.png",
+            "menu_name": "막창",
+            "price": "6,500원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241128_18%2F17327477981350b5K8_JPEG%2FIMG_0650.jpeg",
+            "menu_name": "소갈비살",
+            "price": "11,000원"
+        }
+    ]
+}

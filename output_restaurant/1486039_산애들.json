@@ -1,0 +1,110 @@
+{
+    "store_name": "산애들",
+    "store_location": "대전 동구 대전로 462",
+    "loc_x": "240487.079072255",
+    "loc_y": "311896.688028977",
+    "menu": [
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20231208_260%2F1702039194753itVvX_JPEG%2FKakaoTalk_20231208_212023207_01.jpg",
+            "menu_name": "능이버섯보약백숙",
+            "price": "70,000원"
+        },
+        {
+            "category": "",
+            "img_src": "",
+            "menu_name": "민물장어 (1kg)",
+            "price": "59,000원"
+        },
+        {
+            "category": "",
+            "img_src": "",
+            "menu_name": "염소수육(국내산 1인분)",
+            "price": "22,000원"
+        },
+        {
+            "category": "",
+            "img_src": "",
+            "menu_name": "염소전골(국내산 1인분)",
+            "price": "22,000원"
+        },
+        {
+            "category": "",
+            "img_src": "",
+            "menu_name": "능이염소무침(국내산 1인분)",
+            "price": "25,000원"
+        },
+        {
+            "category": "",
+            "img_src": "",
+            "menu_name": "염소탕(국내산 小)",
+            "price": "16,000원"
+        },
+        {
+            "category": "",
+            "img_src": "",
+            "menu_name": "염소탕(국내산 大)",
+            "price": "19,000원"
+        },
+        {
+            "category": "",
+            "img_src": "",
+            "menu_name": "들깨순두부 (점심특선)",
+            "price": "7,000원"
+        },
+        {
+            "category": "",
+            "img_src": "",
+            "menu_name": "고등어조림 (점심특선)",
+            "price": "8,000원"
+        },
+        {
+            "category": "",
+            "img_src": "",
+            "menu_name": "된장찌개 (점심특선)",
+            "price": "7,000원"
+        },
+        {
+            "category": "",
+            "img_src": "",
+            "menu_name": "사골곰탕 (점심특선)",
+            "price": "9,000원"
+        },
+        {
+            "category": "",
+            "img_src": "",
+            "menu_name": "청국장 (점심특선)",
+            "price": "7,000원"
+        },
+        {
+            "category": "",
+            "img_src": "",
+            "menu_name": "육계장",
+            "price": "10,000원"
+        },
+        {
+            "category": "",
+            "img_src": "",
+            "menu_name": "마 삼계탕",
+            "price": "17,000원"
+        },
+        {
+            "category": "",
+            "img_src": "",
+            "menu_name": "보약해신탕",
+            "price": "120,000원"
+        },
+        {
+            "category": "",
+            "img_src": "",
+            "menu_name": "소 갈비살(미국산 1인분)",
+            "price": "16,000원"
+        },
+        {
+            "category": "",
+            "img_src": "",
+            "menu_name": "항정살",
+            "price": "12,000원"
+        }
+    ]
+}

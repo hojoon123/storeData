@@ -1,0 +1,98 @@
+{
+    "store_name": "칠봉이짬뽕 산동교직영점",
+    "store_location": "광주 광산구 풍영정길 269 2층",
+    "loc_x": "186998.753878992",
+    "loc_y": "187981.674243287",
+    "menu": [
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20231120_112%2F1700459312492i61gv_JPEG%2F1000001133.jpg",
+            "menu_name": "연근탕수육M",
+            "price": "19,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20231120_204%2F1700459263229X57oU_JPEG%2F1000001131.jpg",
+            "menu_name": "얼큰짬뽕",
+            "price": "10,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20231120_299%2F1700458776840N6a60_JPEG%2F1000001131.jpg",
+            "menu_name": "칠봉이짬뽕",
+            "price": "9,000원"
+        },
+        {
+            "category": "",
+            "img_src": "",
+            "menu_name": "팔보채",
+            "price": "35,000원"
+        },
+        {
+            "category": "",
+            "img_src": "",
+            "menu_name": "중새우요리",
+            "price": "35,000원"
+        },
+        {
+            "category": "",
+            "img_src": "",
+            "menu_name": "연근탕수육+짬뽕+짜장+음료수",
+            "price": "32,000원"
+        },
+        {
+            "category": "",
+            "img_src": "",
+            "menu_name": "군만두",
+            "price": "6,000원"
+        },
+        {
+            "category": "",
+            "img_src": "",
+            "menu_name": "멘보샤",
+            "price": "15,000원"
+        },
+        {
+            "category": "",
+            "img_src": "",
+            "menu_name": "깐풍탕수육L",
+            "price": "33,000원"
+        },
+        {
+            "category": "",
+            "img_src": "",
+            "menu_name": "깐풍탕수육 M",
+            "price": "23,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240130_9%2F1706608479321nhfdE_JPEG%2F1700458407182.jpg",
+            "menu_name": "연근탕수육L",
+            "price": "30,000원"
+        },
+        {
+            "category": "",
+            "img_src": "",
+            "menu_name": "새우볶음밥",
+            "price": "9,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20231120_57%2F1700459295934C5grS_JPEG%2F1000001136.jpg",
+            "menu_name": "해물덮밥",
+            "price": "11,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20231120_262%2F17004592822037A4dm_JPEG%2F1000001132.jpg",
+            "menu_name": "옛날우동",
+            "price": "9,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240130_160%2F1706608441023Nd7Ao_JPEG%2F1700458406664.jpg",
+            "menu_name": "신얼큰짬뽕",
+            "price": "11,000원"
+        }
+    ]
+}

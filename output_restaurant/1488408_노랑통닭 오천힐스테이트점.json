@@ -1,0 +1,494 @@
+{
+    "store_name": "노랑통닭 오천힐스테이트점",
+    "store_location": "경북 포항시 남구 오천읍 중원로 16 302동 105호",
+    "loc_x": "416897.797307992",
+    "loc_y": "278007.392468166",
+    "menu": [
+        {
+            "category": "대표메뉴",
+            "img_src": "",
+            "menu_name": "갈릭 인 더 딥",
+            "price": "23,000원"
+        },
+        {
+            "category": "대표메뉴",
+            "img_src": "",
+            "menu_name": "갈릭 인 더 딥 순살",
+            "price": "23,000원"
+        },
+        {
+            "category": "대표메뉴",
+            "img_src": "",
+            "menu_name": "갈릭 인 더 딥 뼈",
+            "price": "23,000원"
+        },
+        {
+            "category": "대표메뉴",
+            "img_src": "",
+            "menu_name": "통살새우튀김(6EA)",
+            "price": "10,000원"
+        },
+        {
+            "category": "신메뉴",
+            "img_src": "",
+            "menu_name": "갈릭 인 더 딥",
+            "price": "23,000원"
+        },
+        {
+            "category": "신메뉴",
+            "img_src": "",
+            "menu_name": "갈릭 인 더 딥 순살",
+            "price": "23,000원"
+        },
+        {
+            "category": "신메뉴",
+            "img_src": "",
+            "menu_name": "갈릭 인 더 딥 뼈",
+            "price": "23,000원"
+        },
+        {
+            "category": "신메뉴",
+            "img_src": "",
+            "menu_name": "갈릭 인 더 딥 콤보",
+            "price": "25,000원"
+        },
+        {
+            "category": "신메뉴",
+            "img_src": "",
+            "menu_name": "통살새우튀김(6EA)",
+            "price": "10,000원"
+        },
+        {
+            "category": "신메뉴",
+            "img_src": "",
+            "menu_name": "통살새우튀김(3EA)",
+            "price": "6,000원"
+        },
+        {
+            "category": "노랑 오리지널 순살",
+            "img_src": "",
+            "menu_name": "엄청 큰 후라이드 치킨 순살",
+            "price": "19,000원"
+        },
+        {
+            "category": "노랑 오리지널 순살",
+            "img_src": "",
+            "menu_name": "엄청 큰 반반 치킨 순살",
+            "price": "20,000원"
+        },
+        {
+            "category": "노랑 오리지널 순살",
+            "img_src": "",
+            "menu_name": "노랑 3종 세트 순살",
+            "price": "22,000원"
+        },
+        {
+            "category": "노랑 오리지널 순살",
+            "img_src": "",
+            "menu_name": "알싸한 마늘 치킨 순살",
+            "price": "22,000원"
+        },
+        {
+            "category": "노랑 오리지널 순살",
+            "img_src": "",
+            "menu_name": "열불라조 치킨 순살",
+            "price": "22,000원"
+        },
+        {
+            "category": "노랑 오리지널 순살",
+            "img_src": "",
+            "menu_name": "열불 품은 3종 순살",
+            "price": "23,000원"
+        },
+        {
+            "category": "노랑 오리지널 순살",
+            "img_src": "",
+            "menu_name": "칼칼한 청양 치킨 순살",
+            "price": "22,000원"
+        },
+        {
+            "category": "노랑 오리지널 순살",
+            "img_src": "",
+            "menu_name": "뿌리노랑 치킨 순살",
+            "price": "22,000원"
+        },
+        {
+            "category": "노랑 오리지널 순살",
+            "img_src": "",
+            "menu_name": "바삭 누룽지 치킨 순살",
+            "price": "21,000원"
+        },
+        {
+            "category": "노랑 오리지널 순살",
+            "img_src": "",
+            "menu_name": "맵싸한 후라이드 치킨 순살",
+            "price": "21,000원"
+        },
+        {
+            "category": "노랑 오리지널 순살",
+            "img_src": "",
+            "menu_name": "맵싸한 반반 치킨 순살",
+            "price": "22,000원"
+        },
+        {
+            "category": "노랑 오리지널 순살",
+            "img_src": "",
+            "menu_name": "맵싸한 양념 치킨 순살",
+            "price": "23,000원"
+        },
+        {
+            "category": "노랑 오리지널 순살",
+            "img_src": "",
+            "menu_name": "맵싸한 깐풍 치킨 순살",
+            "price": "23,000원"
+        },
+        {
+            "category": "노랑 오리지널 순살",
+            "img_src": "",
+            "menu_name": "맵싸한 3종 치킨 순살",
+            "price": "24,000원"
+        },
+        {
+            "category": "노랑 오리지널 순살",
+            "img_src": "",
+            "menu_name": "엄청 큰 양념 치킨 순살",
+            "price": "21,000원"
+        },
+        {
+            "category": "노랑 오리지널 순살",
+            "img_src": "",
+            "menu_name": "엄청 큰 깐풍 치킨 순살",
+            "price": "21,000원"
+        },
+        {
+            "category": "노랑 오리지널 순살",
+            "img_src": "",
+            "menu_name": "웰빙 파닭 후라이드 치킨 순살",
+            "price": "21,000원"
+        },
+        {
+            "category": "노랑 오리지널 순살",
+            "img_src": "",
+            "menu_name": "웰빙 파닭 후라이드 반반 치킨 순살",
+            "price": "22,000원"
+        },
+        {
+            "category": "노랑 뼈닭 한마리",
+            "img_src": "",
+            "menu_name": "엄청 큰 후라이드 치킨 뼈",
+            "price": "19,000원"
+        },
+        {
+            "category": "노랑 뼈닭 한마리",
+            "img_src": "",
+            "menu_name": "엄청 큰 반반 치킨 뼈",
+            "price": "20,000원"
+        },
+        {
+            "category": "노랑 뼈닭 한마리",
+            "img_src": "",
+            "menu_name": "노랑 3종 세트 뼈",
+            "price": "22,000원"
+        },
+        {
+            "category": "노랑 뼈닭 한마리",
+            "img_src": "",
+            "menu_name": "알싸한 마늘 치킨 뼈",
+            "price": "22,000원"
+        },
+        {
+            "category": "노랑 뼈닭 한마리",
+            "img_src": "",
+            "menu_name": "열불라조 치킨 뼈",
+            "price": "22,000원"
+        },
+        {
+            "category": "노랑 뼈닭 한마리",
+            "img_src": "",
+            "menu_name": "열불 품은 3종 뼈",
+            "price": "23,000원"
+        },
+        {
+            "category": "노랑 뼈닭 한마리",
+            "img_src": "",
+            "menu_name": "칼칼한 청양 치킨 뼈",
+            "price": "22,000원"
+        },
+        {
+            "category": "노랑 뼈닭 한마리",
+            "img_src": "",
+            "menu_name": "바삭 누룽지 치킨 뼈",
+            "price": "21,000원"
+        },
+        {
+            "category": "노랑 뼈닭 한마리",
+            "img_src": "",
+            "menu_name": "맵싸한 후라이드 치킨 뼈",
+            "price": "21,000원"
+        },
+        {
+            "category": "노랑 뼈닭 한마리",
+            "img_src": "",
+            "menu_name": "맵싸한 반반 치킨 뼈",
+            "price": "22,000원"
+        },
+        {
+            "category": "노랑 뼈닭 한마리",
+            "img_src": "",
+            "menu_name": "맵싸한 양념 치킨 뼈",
+            "price": "23,000원"
+        },
+        {
+            "category": "노랑 뼈닭 한마리",
+            "img_src": "",
+            "menu_name": "맵싸한 깐풍 치킨 뼈",
+            "price": "23,000원"
+        },
+        {
+            "category": "노랑 뼈닭 한마리",
+            "img_src": "",
+            "menu_name": "맵싸한 3종 치킨 뼈",
+            "price": "24,000원"
+        },
+        {
+            "category": "노랑 뼈닭 한마리",
+            "img_src": "",
+            "menu_name": "엄청 큰 양념 치킨 뼈",
+            "price": "21,000원"
+        },
+        {
+            "category": "노랑 뼈닭 한마리",
+            "img_src": "",
+            "menu_name": "엄청 큰 깐풍 치킨 뼈",
+            "price": "21,000원"
+        },
+        {
+            "category": "노랑 뼈닭 한마리",
+            "img_src": "",
+            "menu_name": "웰빙 파닭 후라이드 치킨 뼈",
+            "price": "21,000원"
+        },
+        {
+            "category": "노랑 뼈닭 한마리",
+            "img_src": "",
+            "menu_name": "웰빙 파닭 후라이드 반반 치킨 뼈",
+            "price": "22,000원"
+        },
+        {
+            "category": "노랑 콤보",
+            "img_src": "",
+            "menu_name": "엄청 큰 후라이드 치킨 콤보",
+            "price": "21,000원"
+        },
+        {
+            "category": "노랑 콤보",
+            "img_src": "",
+            "menu_name": "엄청 큰 반반 치킨 콤보",
+            "price": "22,000원"
+        },
+        {
+            "category": "노랑 콤보",
+            "img_src": "",
+            "menu_name": "알싸한 마늘 치킨 콤보",
+            "price": "24,000원"
+        },
+        {
+            "category": "노랑 콤보",
+            "img_src": "",
+            "menu_name": "열불라조 치킨 콤보",
+            "price": "25,000원"
+        },
+        {
+            "category": "노랑 콤보",
+            "img_src": "",
+            "menu_name": "칼칼한 청양 치킨 콤보",
+            "price": "24,000원"
+        },
+        {
+            "category": "노랑 콤보",
+            "img_src": "",
+            "menu_name": "뿌리노랑 콤보",
+            "price": "24,000원"
+        },
+        {
+            "category": "노랑 콤보",
+            "img_src": "",
+            "menu_name": "바삭 누룽지 치킨 콤보",
+            "price": "23,000원"
+        },
+        {
+            "category": "노랑 콤보",
+            "img_src": "",
+            "menu_name": "맵싸한 후라이드 치킨 콤보",
+            "price": "23,000원"
+        },
+        {
+            "category": "노랑 콤보",
+            "img_src": "",
+            "menu_name": "맵싸한 반반 치킨 콤보",
+            "price": "24,000원"
+        },
+        {
+            "category": "노랑 콤보",
+            "img_src": "",
+            "menu_name": "맵싸한 양념 치킨 콤보",
+            "price": "25,000원"
+        },
+        {
+            "category": "노랑 콤보",
+            "img_src": "",
+            "menu_name": "맵싸한 깐풍 치킨 콤보",
+            "price": "25,000원"
+        },
+        {
+            "category": "노랑 콤보",
+            "img_src": "",
+            "menu_name": "엄청 큰 양념 치킨 콤보",
+            "price": "23,000원"
+        },
+        {
+            "category": "노랑 콤보",
+            "img_src": "",
+            "menu_name": "엄청 큰 깐풍 치킨 콤보",
+            "price": "23,000원"
+        },
+        {
+            "category": "사이드",
+            "img_src": "",
+            "menu_name": "노랑치즈볼(5EA)",
+            "price": "4,000원"
+        },
+        {
+            "category": "사이드",
+            "img_src": "",
+            "menu_name": "3종 치즈볼(6EA)",
+            "price": "5,000원"
+        },
+        {
+            "category": "사이드",
+            "img_src": "",
+            "menu_name": "노랑칩스",
+            "price": "3,000원"
+        },
+        {
+            "category": "사이드",
+            "img_src": "",
+            "menu_name": "김말이(6EA)",
+            "price": "3,000원"
+        },
+        {
+            "category": "사이드",
+            "img_src": "",
+            "menu_name": "김말이(10EA)",
+            "price": "5,000원"
+        },
+        {
+            "category": "사이드",
+            "img_src": "",
+            "menu_name": "노랑봉투 감자",
+            "price": "8,000원"
+        },
+        {
+            "category": "사이드",
+            "img_src": "",
+            "menu_name": "눈꽃치즈 떡볶이",
+            "price": "8,000원"
+        },
+        {
+            "category": "사이드",
+            "img_src": "",
+            "menu_name": "맵싸한 특수부위 3종",
+            "price": "14,000원"
+        },
+        {
+            "category": "사이드",
+            "img_src": "",
+            "menu_name": "부산 어묵탕",
+            "price": "12,000원"
+        },
+        {
+            "category": "소스추가",
+            "img_src": "",
+            "menu_name": "알싸한 마늘소스",
+            "price": "3,000원"
+        },
+        {
+            "category": "소스추가",
+            "img_src": "",
+            "menu_name": "칼칼한 청양소스",
+            "price": "3,000원"
+        },
+        {
+            "category": "소스추가",
+            "img_src": "",
+            "menu_name": "갈릭인더딥소스",
+            "price": "3,500원"
+        },
+        {
+            "category": "소스추가",
+            "img_src": "",
+            "menu_name": "맵싸한 디핑소스",
+            "price": "1,000원"
+        },
+        {
+            "category": "소스추가",
+            "img_src": "",
+            "menu_name": "대파올리브마요소스",
+            "price": "1,000원"
+        },
+        {
+            "category": "소스추가",
+            "img_src": "",
+            "menu_name": "노랑토마토칠리소스",
+            "price": "1,000원"
+        },
+        {
+            "category": "소스추가",
+            "img_src": "",
+            "menu_name": "양념소스",
+            "price": "500원"
+        },
+        {
+            "category": "소스추가",
+            "img_src": "",
+            "menu_name": "양념소스(2EA)",
+            "price": "1,000원"
+        },
+        {
+            "category": "소스추가",
+            "img_src": "",
+            "menu_name": "케찹(2EA)",
+            "price": "500원"
+        },
+        {
+            "category": "기타 추가",
+            "img_src": "",
+            "menu_name": "파채(파채+소스)",
+            "price": "3,000원"
+        },
+        {
+            "category": "기타 추가",
+            "img_src": "",
+            "menu_name": "치킨 무",
+            "price": "1,000원"
+        },
+        {
+            "category": "기타 추가",
+            "img_src": "",
+            "menu_name": "콩가루 소금(2EA)",
+            "price": "500원"
+        },
+        {
+            "category": "음료",
+            "img_src": "",
+            "menu_name": "콜라 500ml (코카콜라) 추가",
+            "price": "2,000원"
+        },
+        {
+            "category": "음료",
+            "img_src": "",
+            "menu_name": "사이다 500ml (칠성) 추가",
+            "price": "2,000원"
+        }
+    ]
+}

@@ -1,0 +1,212 @@
+{
+    "store_name": "언니네갬성포차",
+    "store_location": "경기 안산시 상록구 석호로 187 2층 언니네갬성포차",
+    "loc_x": "186832.173182571",
+    "loc_y": "421586.245865818",
+    "menu": [
+        {
+            "category": "",
+            "img_src": "",
+            "menu_name": "동태탕",
+            "price": "20,000원"
+        },
+        {
+            "category": "",
+            "img_src": "",
+            "menu_name": "해물순두부",
+            "price": "25,000원"
+        },
+        {
+            "category": "",
+            "img_src": "",
+            "menu_name": "닭볶음탕",
+            "price": "30,000원"
+        },
+        {
+            "category": "",
+            "img_src": "",
+            "menu_name": "오뎅탕",
+            "price": "10,000원"
+        },
+        {
+            "category": "",
+            "img_src": "",
+            "menu_name": "오징어볶음",
+            "price": "20,000원"
+        },
+        {
+            "category": "",
+            "img_src": "",
+            "menu_name": "꼬막찜",
+            "price": "25,000원"
+        },
+        {
+            "category": "",
+            "img_src": "",
+            "menu_name": "가래떡구이",
+            "price": "10,000원"
+        },
+        {
+            "category": "",
+            "img_src": "",
+            "menu_name": "생굴전",
+            "price": "25,000원"
+        },
+        {
+            "category": "",
+            "img_src": "",
+            "menu_name": "부추전",
+            "price": "12,000원"
+        },
+        {
+            "category": "",
+            "img_src": "",
+            "menu_name": "감자채전",
+            "price": "12,000원"
+        },
+        {
+            "category": "",
+            "img_src": "",
+            "menu_name": "김치전",
+            "price": "12,000원"
+        },
+        {
+            "category": "",
+            "img_src": "",
+            "menu_name": "마른안주",
+            "price": "10,000원"
+        },
+        {
+            "category": "",
+            "img_src": "",
+            "menu_name": "쏘세지야채볶음",
+            "price": "15,000원"
+        },
+        {
+            "category": "",
+            "img_src": "",
+            "menu_name": "김치찌개",
+            "price": "15,000원"
+        },
+        {
+            "category": "",
+            "img_src": "",
+            "menu_name": "제육볶음",
+            "price": "20,000원"
+        },
+        {
+            "category": "",
+            "img_src": "",
+            "menu_name": "돼지불고기",
+            "price": "20,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241206_148%2F1733454991784onLeC_JPEG%2FIMG_4886.jpeg",
+            "menu_name": "들기름구이 두부김치",
+            "price": "25,000원"
+        },
+        {
+            "category": "",
+            "img_src": "",
+            "menu_name": "새우감바스",
+            "price": "18,000원"
+        },
+        {
+            "category": "",
+            "img_src": "",
+            "menu_name": "매운 까르보나라 국물떡볶이",
+            "price": "18,000원"
+        },
+        {
+            "category": "",
+            "img_src": "",
+            "menu_name": "계란말이",
+            "price": "10,000원"
+        },
+        {
+            "category": "",
+            "img_src": "",
+            "menu_name": "아이스황도",
+            "price": "10,000원"
+        },
+        {
+            "category": "",
+            "img_src": "",
+            "menu_name": "과일화채",
+            "price": "15,000원"
+        },
+        {
+            "category": "",
+            "img_src": "",
+            "menu_name": "번데기탕",
+            "price": "8,000원"
+        },
+        {
+            "category": "",
+            "img_src": "",
+            "menu_name": "잔치국수",
+            "price": "6,000원"
+        },
+        {
+            "category": "",
+            "img_src": "",
+            "menu_name": "라면",
+            "price": "5,000원"
+        },
+        {
+            "category": "",
+            "img_src": "",
+            "menu_name": "왕주먹밥(1개)",
+            "price": "5,000원"
+        },
+        {
+            "category": "",
+            "img_src": "",
+            "menu_name": "계란찜",
+            "price": "5,000원"
+        },
+        {
+            "category": "",
+            "img_src": "",
+            "menu_name": "공기밥",
+            "price": "1,000원"
+        },
+        {
+            "category": "",
+            "img_src": "",
+            "menu_name": "소주/맥주",
+            "price": "5,000원"
+        },
+        {
+            "category": "",
+            "img_src": "",
+            "menu_name": "막걸리",
+            "price": "4,000원"
+        },
+        {
+            "category": "",
+            "img_src": "",
+            "menu_name": "청하",
+            "price": "6,000원"
+        },
+        {
+            "category": "",
+            "img_src": "",
+            "menu_name": "백세주",
+            "price": "10,000원"
+        },
+        {
+            "category": "",
+            "img_src": "",
+            "menu_name": "복분자주",
+            "price": "16,000원"
+        },
+        {
+            "category": "",
+            "img_src": "",
+            "menu_name": "음료수",
+            "price": "2,000원"
+        }
+    ]
+}

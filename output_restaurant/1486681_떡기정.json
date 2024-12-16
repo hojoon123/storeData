@@ -1,0 +1,182 @@
+{
+    "store_name": "떡기정",
+    "store_location": "인천 남동구 예술로 126 118-A호",
+    "loc_x": "173460.547933106",
+    "loc_y": "438150.90706957",
+    "menu": [
+        {
+            "category": "사장님 추천 메뉴",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20241127_205/17326923569666dS62_JPEG/%BD%D2%B6%B1%BA%BA%C0%CC%BC%BC%C6%AE%C3%D6%C1%BE.jpg?type=f220_220_60_sharpen",
+            "menu_name": "가래떡 떡볶이 세트대표",
+            "price": "13,500원"
+        },
+        {
+            "category": "사장님 추천 메뉴",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20241127_297/1732692367912grl8D_JPEG/%B9%D0%B6%B1%BA%BA%C0%CC%BC%BC%C6%AE%C3%D6%C1%BE.jpg?type=f220_220_60_sharpen",
+            "menu_name": "즉석 밀떡볶이 세트대표",
+            "price": "13,500원"
+        },
+        {
+            "category": "세트메뉴",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20241127_297/1732692367912grl8D_JPEG/%B9%D0%B6%B1%BA%BA%C0%CC%BC%BC%C6%AE%C3%D6%C1%BE.jpg?type=f220_220_60_sharpen",
+            "menu_name": "즉석 밀떡볶이 세트대표",
+            "price": "13,500원"
+        },
+        {
+            "category": "세트메뉴",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20241127_205/17326923569666dS62_JPEG/%BD%D2%B6%B1%BA%BA%C0%CC%BC%BC%C6%AE%C3%D6%C1%BE.jpg?type=f220_220_60_sharpen",
+            "menu_name": "가래떡 떡볶이 세트대표",
+            "price": "13,500원"
+        },
+        {
+            "category": "단품메뉴",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20241123_152/1732368432321J1Hie_PNG/%B9%D0%B6%B1%BA%BA%C0%CC.png?type=f220_220_60_sharpen",
+            "menu_name": "즉석 밀떡볶이",
+            "price": "4,500원"
+        },
+        {
+            "category": "단품메뉴",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20241123_187/1732368418963a1MjO_PNG/%B0%A1%B7%A1%B6%B1%B6%B1%BA%BA%C0%CC.png?type=f220_220_60_sharpen",
+            "menu_name": "가래떡 떡볶이",
+            "price": "4,500원"
+        },
+        {
+            "category": "사이드메뉴",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20241127_8/1732697576352CMa79_PNG/%B1%E8%B8%BB%C0%CC.png?type=f220_220_60_sharpen",
+            "menu_name": "김말이(3개)",
+            "price": "2,000원"
+        },
+        {
+            "category": "사이드메뉴",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20241123_106/1732353312333oS4iG_PNG/%BF%C0%B5%AD.png?type=f220_220_60_sharpen",
+            "menu_name": "꼬치 어묵(3개)",
+            "price": "3,000원"
+        },
+        {
+            "category": "사이드메뉴",
+            "img_src": "",
+            "menu_name": "분식 돈까스",
+            "price": "1,500원"
+        },
+        {
+            "category": "사이드메뉴",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20241127_100/1732697643552U4tnm_PNG/%B0%ED%B1%B8%B8%B6%C6%A2%B1%E8.png?type=f220_220_60_sharpen",
+            "menu_name": "고구마(2개)",
+            "price": "1,800원"
+        },
+        {
+            "category": "사이드메뉴",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20241127_71/1732697635588wtIB5_PNG/%BF%C0%C2%A1%BE%EE%C6%A2%B1%E8.png?type=f220_220_60_sharpen",
+            "menu_name": "오징어(3개)",
+            "price": "2,500원"
+        },
+        {
+            "category": "사이드메뉴",
+            "img_src": "",
+            "menu_name": "꼬치 어묵(1개)",
+            "price": "1,000원"
+        },
+        {
+            "category": "사이드메뉴",
+            "img_src": "",
+            "menu_name": "참치 주먹밥",
+            "price": "3,000원"
+        },
+        {
+            "category": "사이드메뉴",
+            "img_src": "",
+            "menu_name": "셀프 주먹밥",
+            "price": "2,500원"
+        },
+        {
+            "category": "사이드메뉴",
+            "img_src": "",
+            "menu_name": "납작만두(4개)",
+            "price": "1,500원"
+        },
+        {
+            "category": "사이드메뉴",
+            "img_src": "",
+            "menu_name": "새우튀김",
+            "price": "1,800원"
+        },
+        {
+            "category": "사이드메뉴",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20241123_273/1732351555683yrNj8_PNG/%BC%F8%B4%EB.png?type=f220_220_60_sharpen",
+            "menu_name": "순대",
+            "price": "4,500원"
+        },
+        {
+            "category": "사이드메뉴",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20241127_270/1732697665478VbA1K_PNG/%B0%ED%C3%DF%C6%A2%B1%E8.png?type=f220_220_60_sharpen",
+            "menu_name": "고추튀김",
+            "price": "1,500원"
+        },
+        {
+            "category": "사이드메뉴",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20241123_248/1732368451309An0tQ_PNG/%B8%F0%B5%D2%C6%A2%B1%E8.png?type=f220_220_60_sharpen",
+            "menu_name": "모둠 튀김",
+            "price": "3,500원"
+        },
+        {
+            "category": "사이드메뉴",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20241127_224/17326976561318bS7J_PNG/%BE%DF%C3%A4%C6%A2%B1%E8.png?type=f220_220_60_sharpen",
+            "menu_name": "야채튀김",
+            "price": "1,300원"
+        },
+        {
+            "category": "사이드메뉴",
+            "img_src": "",
+            "menu_name": "통오징어",
+            "price": "7,500원"
+        },
+        {
+            "category": "사이드메뉴",
+            "img_src": "",
+            "menu_name": "맛감자",
+            "price": "3,500원"
+        },
+        {
+            "category": "사이드메뉴",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20241127_169/1732697698577AIcSx_PNG/%C8%AB%B0%D4%C6%A2%B1%E8.png?type=f220_220_60_sharpen",
+            "menu_name": "집게다리(4개)",
+            "price": "2,800원"
+        },
+        {
+            "category": "사이드메뉴",
+            "img_src": "",
+            "menu_name": "감자튀김",
+            "price": "3,000원"
+        },
+        {
+            "category": "사이드메뉴",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20241127_280/1732697686482oIaj7_PNG/%B8%B8%B5%CE%C6%A2%B1%E8.png?type=f220_220_60_sharpen",
+            "menu_name": "야끼만두",
+            "price": "800원"
+        },
+        {
+            "category": "사이드메뉴",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20241127_265/1732697676192ybP1T_PNG/%C4%A1%C1%EE%BA%BC.png?type=f220_220_60_sharpen",
+            "menu_name": "치즈볼(4개)",
+            "price": "3,000원"
+        },
+        {
+            "category": "음료",
+            "img_src": "",
+            "menu_name": "쿨피스 뚱캔",
+            "price": "1,800원"
+        },
+        {
+            "category": "음료",
+            "img_src": "",
+            "menu_name": "사이다 뚱캔",
+            "price": "2,000원"
+        },
+        {
+            "category": "음료",
+            "img_src": "",
+            "menu_name": "콜라 뚱캔",
+            "price": "2,000원"
+        }
+    ]
+}

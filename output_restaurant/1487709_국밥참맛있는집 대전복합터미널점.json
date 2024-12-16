@@ -1,0 +1,506 @@
+{
+    "store_name": "국밥참맛있는집 대전복합터미널점",
+    "store_location": "대전 동구 동서대로1695번길 43 1층",
+    "loc_x": "239129.65949732",
+    "loc_y": "316815.065528869",
+    "menu": [
+        {
+            "category": "대표메뉴",
+            "img_src": "",
+            "menu_name": "돼지국밥(부드러운 국밥용 수육고기가 들어간 돼지국밥)(보통)",
+            "price": "9,000원"
+        },
+        {
+            "category": "대표메뉴",
+            "img_src": "",
+            "menu_name": "돼지국밥(부드러운 국밥용 수육고기가 들어간 돼지국밥)(곱배기)",
+            "price": "11,000원"
+        },
+        {
+            "category": "대표메뉴",
+            "img_src": "",
+            "menu_name": "삼겹수육 정식",
+            "price": "12,000원"
+        },
+        {
+            "category": "대표메뉴",
+            "img_src": "",
+            "menu_name": "얼큰육개장(소고기국밥보다 진한 얼큰육개장)",
+            "price": "9,000원"
+        },
+        {
+            "category": "대표메뉴",
+            "img_src": "",
+            "menu_name": "병천육순대국밥(병천순대 맛을 느낄 수 있는 순대국)(보통)",
+            "price": "9,000원"
+        },
+        {
+            "category": "대표메뉴",
+            "img_src": "",
+            "menu_name": "병천육순대국밥(병천순대 맛을 느낄 수 있는 순대국)(곱배기)",
+            "price": "11,000원"
+        },
+        {
+            "category": "식사 SET(1인)",
+            "img_src": "",
+            "menu_name": "곁들임수육 1인 세트",
+            "price": "16,500원"
+        },
+        {
+            "category": "식사 SET(1인)",
+            "img_src": "",
+            "menu_name": "불향불고기 1인 세트",
+            "price": "16,500원"
+        },
+        {
+            "category": "식사 SET(1인)",
+            "img_src": "",
+            "menu_name": "만두 1인 세트",
+            "price": "13,500원"
+        },
+        {
+            "category": "식사 SET(1인)",
+            "img_src": "",
+            "menu_name": "옛날편육 1인 세트",
+            "price": "14,500원"
+        },
+        {
+            "category": "식사 SET(1인)",
+            "img_src": "",
+            "menu_name": "순대 1인 세트",
+            "price": "14,500원"
+        },
+        {
+            "category": "식사 SET(1인)",
+            "img_src": "",
+            "menu_name": "직화구이 떡갈비 1인 세트",
+            "price": "13,500원"
+        },
+        {
+            "category": "식사 SET(1인)",
+            "img_src": "",
+            "menu_name": "모둠수육 1인 세트",
+            "price": "21,500원"
+        },
+        {
+            "category": "식사SET(2인)",
+            "img_src": "",
+            "menu_name": "곁들임수육 2인 세트",
+            "price": "24,000원"
+        },
+        {
+            "category": "식사SET(2인)",
+            "img_src": "",
+            "menu_name": "불향불고기 2인 세트",
+            "price": "24,000원"
+        },
+        {
+            "category": "식사SET(2인)",
+            "img_src": "",
+            "menu_name": "순대 2인 세트",
+            "price": "22,000원"
+        },
+        {
+            "category": "식사SET(2인)",
+            "img_src": "",
+            "menu_name": "옛날편육 2인 세트",
+            "price": "23,000원"
+        },
+        {
+            "category": "식사SET(2인)",
+            "img_src": "",
+            "menu_name": "직화구이떡갈비 2인 세트",
+            "price": "21,000원"
+        },
+        {
+            "category": "식사SET(2인)",
+            "img_src": "",
+            "menu_name": "만두 2인 세트",
+            "price": "21,000원"
+        },
+        {
+            "category": "식사SET(2인)",
+            "img_src": "",
+            "menu_name": "삼겹수육 2인 세트",
+            "price": "41,000원"
+        },
+        {
+            "category": "식사SET(2인)",
+            "img_src": "",
+            "menu_name": "모둠수육 2인 세트",
+            "price": "41,000원"
+        },
+        {
+            "category": "전통국밥류",
+            "img_src": "",
+            "menu_name": "돼지국밥(부드러운 국밥용 수육고기가 들어간 돼지국밥)(보통)",
+            "price": "9,000원"
+        },
+        {
+            "category": "전통국밥류",
+            "img_src": "",
+            "menu_name": "돼지국밥(부드러운 국밥용 수육고기가 들어간 돼지국밥)(곱배기)",
+            "price": "11,000원"
+        },
+        {
+            "category": "전통국밥류",
+            "img_src": "",
+            "menu_name": "삼겹수육국밥(고오급국밥,삼겹살과 국밥의 조화,수육국밥)(보통)",
+            "price": "11,000원"
+        },
+        {
+            "category": "전통국밥류",
+            "img_src": "",
+            "menu_name": "삼겹수육국밥(고오급국밥,삼겹살과 국밥의 조화,수육국밥)(곱배기)",
+            "price": "13,000원"
+        },
+        {
+            "category": "전통국밥류",
+            "img_src": "",
+            "menu_name": "병천육순대국밥(병천순대 맛을 느낄 수 있는 순대국)(보통)",
+            "price": "9,000원"
+        },
+        {
+            "category": "전통국밥류",
+            "img_src": "",
+            "menu_name": "병천육순대국밥(병천순대 맛을 느낄 수 있는 순대국)(곱배기)",
+            "price": "11,000원"
+        },
+        {
+            "category": "전통국밥류",
+            "img_src": "",
+            "menu_name": "내장국밥(막창,곱창 등 돈내장을 삶고 끓여낸 내장국밥)(보통)",
+            "price": "9,000원"
+        },
+        {
+            "category": "전통국밥류",
+            "img_src": "",
+            "menu_name": "내장국밥(막창,곱창 등 돈내장을 삶고 끓여낸 내장국밥)(곱배기)",
+            "price": "11,000원"
+        },
+        {
+            "category": "전통국밥류",
+            "img_src": "",
+            "menu_name": "모둠국밥(국밥용수육,내장,순대를 사골에 끓인 모둠국밥)(보통)",
+            "price": "9,000원"
+        },
+        {
+            "category": "전통국밥류",
+            "img_src": "",
+            "menu_name": "모둠국밥(국밥용수육,내장,순대를 사골에 끓인 모둠국밥)(곱배기)",
+            "price": "11,000원"
+        },
+        {
+            "category": "전통국밥류",
+            "img_src": "",
+            "menu_name": "순살국밥(순살고기만 엄선해 사골육수에 끓인 살코기국밥)(보통)",
+            "price": "10,000원"
+        },
+        {
+            "category": "전통국밥류",
+            "img_src": "",
+            "menu_name": "순살국밥(순살고기만 엄선해 사골육수에 끓인 살코기국밥)(곱배기)",
+            "price": "12,000원"
+        },
+        {
+            "category": "전통국밥류",
+            "img_src": "",
+            "menu_name": "얼큰국밥(얼큰함을 추가로 느껴 볼 수 있는 얼큰이국밥)(보통)",
+            "price": "9,500원"
+        },
+        {
+            "category": "전통국밥류",
+            "img_src": "",
+            "menu_name": "얼큰국밥(얼큰함을 추가로 느껴 볼 수 있는 얼큰이국밥)(곱배기)",
+            "price": "11,500원"
+        },
+        {
+            "category": "시그니처 식사류",
+            "img_src": "",
+            "menu_name": "누룽지국밥",
+            "price": "10,000원"
+        },
+        {
+            "category": "시그니처 식사류",
+            "img_src": "",
+            "menu_name": "얼큰육개장(소고기국밥보다 진한 얼큰육개장)",
+            "price": "9,000원"
+        },
+        {
+            "category": "시그니처 식사류",
+            "img_src": "",
+            "menu_name": "얼큰만두육개장(대왕만두가 들어간 국참맛만의 만두육개장)",
+            "price": "11,000원"
+        },
+        {
+            "category": "시그니처 식사류",
+            "img_src": "",
+            "menu_name": "얼큰육개장칼국수(얼큰육개장과 칼국수의 환상조화)",
+            "price": "11,000원"
+        },
+        {
+            "category": "시그니처 식사류",
+            "img_src": "",
+            "menu_name": "마늘국밥",
+            "price": "10,000원"
+        },
+        {
+            "category": "시그니처 식사류",
+            "img_src": "",
+            "menu_name": "만두국밥",
+            "price": "11,000원"
+        },
+        {
+            "category": "시그니처 식사류",
+            "img_src": "",
+            "menu_name": "닭 한 마리 삼계탕",
+            "price": "15,000원"
+        },
+        {
+            "category": "시그니처 식사류",
+            "img_src": "",
+            "menu_name": "누룽지 닭 한 마리 삼계탕",
+            "price": "16,000원"
+        },
+        {
+            "category": "정식 식사류",
+            "img_src": "",
+            "menu_name": "불향 불고기류 정식",
+            "price": "12,000원"
+        },
+        {
+            "category": "정식 식사류",
+            "img_src": "",
+            "menu_name": "삼겹수육 정식",
+            "price": "12,000원"
+        },
+        {
+            "category": "특선류",
+            "img_src": "",
+            "menu_name": "삼겹수육(수육 정석 삼겹살 수육)",
+            "price": "25,000원"
+        },
+        {
+            "category": "특선류",
+            "img_src": "",
+            "menu_name": "모둠수육(병천육순대와 삼겹수육의 콜라보레이션)",
+            "price": "25,000원"
+        },
+        {
+            "category": "특선류",
+            "img_src": "",
+            "menu_name": "담양식순대내장전골",
+            "price": "23,000원"
+        },
+        {
+            "category": "특선류",
+            "img_src": "",
+            "menu_name": "모둠술국",
+            "price": "18,000원"
+        },
+        {
+            "category": "든든 곁들임",
+            "img_src": "",
+            "menu_name": "곁들임수육(수육 정석 삼겹살 수육)",
+            "price": "8,000원"
+        },
+        {
+            "category": "든든 곁들임",
+            "img_src": "",
+            "menu_name": "불향불고기(불향 가득 찐불고기 맛 그대로)",
+            "price": "8,000원"
+        },
+        {
+            "category": "든든 곁들임",
+            "img_src": "",
+            "menu_name": "옛날편육(돼지껍데기 같은 쫄깃함을 가진 옛날편육)",
+            "price": "7,000원"
+        },
+        {
+            "category": "든든 곁들임",
+            "img_src": "",
+            "menu_name": "직화구이 떡갈비(이맛에,이가격에)",
+            "price": "5,000원"
+        },
+        {
+            "category": "곁들임 순대",
+            "img_src": "",
+            "menu_name": "삼색모둠순대",
+            "price": "9,000원"
+        },
+        {
+            "category": "곁들임 순대",
+            "img_src": "",
+            "menu_name": "병천육순대",
+            "price": "8,000원"
+        },
+        {
+            "category": "곁들임 순대",
+            "img_src": "",
+            "menu_name": "속초김치순대",
+            "price": "8,000원"
+        },
+        {
+            "category": "곁들임 순대",
+            "img_src": "",
+            "menu_name": "함안식찰순대",
+            "price": "6,000원"
+        },
+        {
+            "category": "곁들임 만두",
+            "img_src": "",
+            "menu_name": "모둠만두",
+            "price": "6,000원"
+        },
+        {
+            "category": "곁들임 만두",
+            "img_src": "",
+            "menu_name": "고기왕만두",
+            "price": "6,000원"
+        },
+        {
+            "category": "곁들임 만두",
+            "img_src": "",
+            "menu_name": "김치왕만두",
+            "price": "6,000원"
+        },
+        {
+            "category": "곁들임 만두",
+            "img_src": "",
+            "menu_name": "고기만두",
+            "price": "5,000원"
+        },
+        {
+            "category": "곁들임 만두",
+            "img_src": "",
+            "menu_name": "김치만두",
+            "price": "5,000원"
+        },
+        {
+            "category": "곁들임 만두",
+            "img_src": "",
+            "menu_name": "갈비만두",
+            "price": "6,000원"
+        },
+        {
+            "category": "든든 냉면",
+            "img_src": "",
+            "menu_name": "물냉면(보통)",
+            "price": "8,000원"
+        },
+        {
+            "category": "든든 냉면",
+            "img_src": "",
+            "menu_name": "물냉면(곱배기)",
+            "price": "10,000원"
+        },
+        {
+            "category": "든든 냉면",
+            "img_src": "",
+            "menu_name": "비빔냉면(보통)",
+            "price": "8,000원"
+        },
+        {
+            "category": "든든 냉면",
+            "img_src": "",
+            "menu_name": "비빔냉면(곱배기)",
+            "price": "10,000원"
+        },
+        {
+            "category": "반찬, 공깃밥 추가",
+            "img_src": "",
+            "menu_name": "5찬 추가",
+            "price": "2,000원"
+        },
+        {
+            "category": "반찬, 공깃밥 추가",
+            "img_src": "",
+            "menu_name": "깍두기 추가",
+            "price": "1,000원"
+        },
+        {
+            "category": "반찬, 공깃밥 추가",
+            "img_src": "",
+            "menu_name": "배추김치 추가",
+            "price": "1,000원"
+        },
+        {
+            "category": "반찬, 공깃밥 추가",
+            "img_src": "",
+            "menu_name": "공깃밥 추가",
+            "price": "1,000원"
+        },
+        {
+            "category": "반찬, 공깃밥 추가",
+            "img_src": "",
+            "menu_name": "부추 추가",
+            "price": "1,000원"
+        },
+        {
+            "category": "반찬, 공깃밥 추가",
+            "img_src": "",
+            "menu_name": "쌈채소 추가",
+            "price": "1,000원"
+        },
+        {
+            "category": "반찬, 공깃밥 추가",
+            "img_src": "",
+            "menu_name": "다대기 추가",
+            "price": "500원"
+        },
+        {
+            "category": "반찬, 공깃밥 추가",
+            "img_src": "",
+            "menu_name": "새우젓 추가",
+            "price": "500원"
+        },
+        {
+            "category": "반찬, 공깃밥 추가",
+            "img_src": "",
+            "menu_name": "쌈장",
+            "price": "500원"
+        },
+        {
+            "category": "반찬, 공깃밥 추가",
+            "img_src": "",
+            "menu_name": "고추 추가",
+            "price": "1,000원"
+        },
+        {
+            "category": "반찬, 공깃밥 추가",
+            "img_src": "",
+            "menu_name": "양파 추가",
+            "price": "1,000원"
+        },
+        {
+            "category": "반찬, 공깃밥 추가",
+            "img_src": "",
+            "menu_name": "마늘 추가",
+            "price": "500원"
+        },
+        {
+            "category": "음료",
+            "img_src": "",
+            "menu_name": "코카콜라(500ml)",
+            "price": "2,000원"
+        },
+        {
+            "category": "음료",
+            "img_src": "",
+            "menu_name": "칠성사이다(500ml)",
+            "price": "2,000원"
+        },
+        {
+            "category": "음료",
+            "img_src": "",
+            "menu_name": "환타 파인애플(500ml)",
+            "price": "2,000원"
+        },
+        {
+            "category": "음료",
+            "img_src": "",
+            "menu_name": "펩시제로(500ml)",
+            "price": "2,000원"
+        }
+    ]
+}

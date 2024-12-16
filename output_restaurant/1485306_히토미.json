@@ -1,0 +1,134 @@
+{
+    "store_name": "히토미",
+    "store_location": "경북 경주시 충효중앙길 95",
+    "loc_x": "396948.60504262",
+    "loc_y": "262683.109624266",
+    "menu": [
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241126_27%2F1732619532262QlcEw_JPEG%2F1000038967.jpg",
+            "menu_name": "육회",
+            "price": "12,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241126_9%2F1732616769315nkX3W_JPEG%2F1000039626.jpg",
+            "menu_name": "뭉티기",
+            "price": "13,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241126_282%2F1732616753650zkrQy_JPEG%2F1000039626.jpg",
+            "menu_name": "회무침",
+            "price": "10,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241126_44%2F1732616737399E0KUj_JPEG%2F1000039626.jpg",
+            "menu_name": "오뎅탕",
+            "price": "12,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241126_245%2F17326167169698ctny_JPEG%2F1000039626.jpg",
+            "menu_name": "동태탕",
+            "price": "12,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241126_151%2F17326167019543Wdju_JPEG%2F1000039626.jpg",
+            "menu_name": "연어스테이크",
+            "price": "13,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241126_2%2F1732619566246OnfKs_JPEG%2F1000038966.jpg",
+            "menu_name": "명란계란말이",
+            "price": "12,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241126_250%2F1732619592241aNOjg_JPEG%2F1000038954.jpg",
+            "menu_name": "과메기",
+            "price": "12,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241126_216%2F1732616650505YnzzH_JPEG%2F1000039626.jpg",
+            "menu_name": "이치란 레멘",
+            "price": "9,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241126_118%2F1732616607419RE5XB_JPEG%2F1000039626.jpg",
+            "menu_name": "간장계란밥",
+            "price": "3,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241126_45%2F17326196195776QVQo_JPEG%2F1000038953.jpg",
+            "menu_name": "치킨가라야케",
+            "price": "12,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241126_250%2F1732616523193gFIYu_JPEG%2F1000039626.jpg",
+            "menu_name": "치킨닭날개",
+            "price": "12,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241126_82%2F1732616503843H3Dp4_JPEG%2F1000039626.jpg",
+            "menu_name": "새우가라야케",
+            "price": "12,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241126_31%2F1732619639205jwizq_JPEG%2F1000038968.jpg",
+            "menu_name": "염통",
+            "price": "10,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241126_40%2F1732616459558Nz4vz_JPEG%2F1000039626.jpg",
+            "menu_name": "은행",
+            "price": "10,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241126_58%2F1732616438450XhBjj_JPEG%2F1000039626.jpg",
+            "menu_name": "학꽁치포",
+            "price": "10,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241126_246%2F1732616420810mp6c3_JPEG%2F1000039626.jpg",
+            "menu_name": "소주",
+            "price": "5,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241126_116%2F1732616409340grkL6_JPEG%2F1000039626.jpg",
+            "menu_name": "맥주",
+            "price": "5,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241126_160%2F1732616345085VMIKP_JPEG%2F1000038974.jpg",
+            "menu_name": "생맥주",
+            "price": "5,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241126_233%2F17326163797944ULei_JPEG%2F1000039626.jpg",
+            "menu_name": "얼그레이하이볼",
+            "price": "7,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241126_238%2F17326163882493xYrW_JPEG%2F1000039626.jpg",
+            "menu_name": "진저하이볼",
+            "price": "7,000원"
+        }
+    ]
+}

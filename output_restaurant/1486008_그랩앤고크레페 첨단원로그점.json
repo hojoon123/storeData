@@ -1,0 +1,26 @@
+{
+    "store_name": "그랩앤고크레페 첨단원로그점",
+    "store_location": "광주 광산구 임방울대로826번길 19-23 1층",
+    "loc_x": "186273.824538538",
+    "loc_y": "190846.410431685",
+    "menu": [
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241212_135%2F1733944164574FylNI_JPEG%2F6791E90F-F384-4816-A664-89F9EC4826A3.jpeg",
+            "menu_name": "나만의 커스텀 크레페",
+            "price": "4,900원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241212_13%2F1733944189379GqBVU_JPEG%2FIMG_3288.jpeg",
+            "menu_name": "생딸기 초코 브라우니 크레페",
+            "price": "8,900원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241212_124%2F1733944225242x1RGN_JPEG%2F76B75E0A-ECAD-49E9-B0C6-EF70C7A719CB.jpeg",
+            "menu_name": "생귤생귤 크레페",
+            "price": "6,500원"
+        }
+    ]
+}

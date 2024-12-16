@@ -1,0 +1,98 @@
+{
+    "store_name": "bhc치킨 문의청남대점",
+    "store_location": "충북 청주시 상당구 문의면 문의시내로 60",
+    "loc_x": "244481.568823312",
+    "loc_y": "335394.370270502",
+    "menu": [
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241121_78%2F1732119621300aOoEJ_JPEG%2FIMG_1253.jpeg",
+            "menu_name": "내슈빌퐈이어킹 윙봉/콤보/스틱",
+            "price": "25,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241121_230%2F1732119559159qKygK_JPEG%2FIMG_1254.jpeg",
+            "menu_name": "내슈빌퐈이어킹 반반",
+            "price": "24,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240912_240%2F1726104234528v7j5g_JPEG%2F%25C7%25D6%25B0%25F1%25B5%25E5%25C5%25B7_%25C7%25D1%25B8%25B6%25B8%25AE.jpg",
+            "menu_name": "HOT골드킹",
+            "price": "21,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240912_154%2F17261044010456W0M2_JPEG%2F%25C7%25D6%25B0%25F1%25B5%25E5%25C5%25B7_%25C4%25DE%25BA%25B8.jpg",
+            "menu_name": "HOT골드킹 콤보/윙/스틱",
+            "price": "24,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20230728_131%2F1690529295413LXGyu_PNG%2F%25BB%25D1%25B8%25B5%25C5%25AC.png",
+            "menu_name": "뿌링클",
+            "price": "21,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20230728_5%2F1690529243545DabvT_PNG%2F%25B8%25C0%25C3%25CA%25C5%25B7.png",
+            "menu_name": "맛초킹",
+            "price": "21,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241203_289%2F1733214060406TY7cn_PNG%2F%25B9%25E8%25B4%25DE%25BE%25DB_%25BB%25D1%25B8%25B5%25C5%25AC%25B3%25AA%25C3%25DD.png",
+            "menu_name": "(NEW)뿌링클나쵸",
+            "price": "2,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241031_221%2F1730334209185n5Y4I_JPEG%2Fbhc_%25BB%25D1%25B8%25B5%25B6%25F3%25C0%25CC%25BD%25BA_%25B4%25A9%25B3%25A2.jpg",
+            "menu_name": "(NEW)뿌링클라이스",
+            "price": "4,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241031_267%2F1730334193503uIRNi_JPEG%2Fbhc_%25B8%25C0%25C3%25CA%25B6%25F3%25C0%25CC%25BD%25BA_%25B4%25A9%25B3%25A2.jpg",
+            "menu_name": "(NEW)맛초킹라이스",
+            "price": "4,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240418_67%2F1713400878802F3PiA_PNG%2F%25C7%25D1%25B8%25B8.png",
+            "menu_name": "쏘마치",
+            "price": "21,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240418_216%2F1713401011563DmWkG_PNG%2F%25C4%25DE%25BA%25B8.png",
+            "menu_name": "쏘마치 콤보/윙/스틱/순살",
+            "price": "23,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20230728_130%2F1690529459685ymMuI_JPEG%2F%25C7%25D1%25B8%25B6%25B8%25AE.jpg",
+            "menu_name": "마법클",
+            "price": "22,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20230728_210%2F1690529435853jFqtK_JPEG%2F%25BD%25BA%25C6%25BD.jpg",
+            "menu_name": "마법클 콤보/윙/스틱",
+            "price": "23,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20230728_147%2F1690529420549k3MJA_PNG%2F%25BC%25F8%25BB%25EC%25BE%25E7%25B3%25E4_01_%25B3%25D7%25C0%25CC%25B9%25F6.png",
+            "menu_name": "더블팝 순살 양념",
+            "price": "23,500원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20230728_264%2F1690529402535RfCRf_PNG%2F%25BC%25F8%25BB%25EC%25C8%25C4%25B6%25F3%25C0%25CC%25B5%25E5_01_%25B3%25D7%25C0%25CC%25B9%25F6.png",
+            "menu_name": "더블팝 순살 후라이드",
+            "price": "23,000원"
+        }
+    ]
+}

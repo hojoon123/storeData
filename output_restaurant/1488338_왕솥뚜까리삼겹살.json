@@ -1,0 +1,56 @@
+{
+    "store_name": "왕솥뚜까리삼겹살",
+    "store_location": "경남 진주시 모덕로 252-1 1층",
+    "loc_x": "302080.462326069",
+    "loc_y": "188297.358484856",
+    "menu": [
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240328_45%2F1711621648592ApUvM_JPEG%2F1000003470.jpg",
+            "menu_name": "삼겹살 150g",
+            "price": "11,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240328_185%2F1711621692769cvP2V_JPEG%2F1000003705.jpg",
+            "menu_name": "대패삼겹살(150g)",
+            "price": "10,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240408_59%2F1712560430328819Sj_JPEG%2F1000003708.jpg",
+            "menu_name": "볶음밥",
+            "price": "3,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240228_259%2F1709130042939y6kPR_JPEG%2FKakaoTalk_20240228_231445351_01.jpg",
+            "menu_name": "항정살(150g)",
+            "price": "13,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240228_57%2F17091301303955xNp2_JPEG%2FKakaoTalk_20240228_231903272.jpg",
+            "menu_name": "가브리살(150g)",
+            "price": "12,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240228_38%2F1709129721093WPiby_JPEG%2FKakaoTalk_20240226_173244980.jpg",
+            "menu_name": "쫄면",
+            "price": "7,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240228_204%2F1709129772969j0iL3_JPEG%2FKakaoTalk_20240226_173244359.jpg",
+            "menu_name": "수제비",
+            "price": "6,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240228_138%2F1709129808550gQ0oq_JPEG%2FKakaoTalk_20240226_174923101.jpg",
+            "menu_name": "된장찌개",
+            "price": "3,000원"
+        }
+    ]
+}

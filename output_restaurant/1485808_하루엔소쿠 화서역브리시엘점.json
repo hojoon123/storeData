@@ -1,0 +1,38 @@
+{
+    "store_name": "하루엔소쿠 화서역브리시엘점",
+    "store_location": "경기 수원시 장안구 수성로157번길 60 판매시설동 1층 125호",
+    "loc_x": "",
+    "loc_y": "",
+    "menu": [
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241203_135%2F1733195809785xUUuX_JPEG%2FKakaoTalk_20240124_104654325_06.jpg",
+            "menu_name": "하루카츠",
+            "price": "11,500원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241203_215%2F1733195834010F4LiP_JPEG%2FKakaoTalk_20240124_104654325_04.jpg",
+            "menu_name": "돈카츠돈부리",
+            "price": "8,900원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241203_268%2F17331958502715qUkq_JPEG%2FKakaoTalk_20240124_104654325_03.jpg",
+            "menu_name": "김치나베우동",
+            "price": "10,900원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241203_131%2F1733195865851Kn3gI_JPEG%2FKakaoTalk_20240124_104654325_05.jpg",
+            "menu_name": "치즈카츠",
+            "price": "13,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241203_166%2F1733195887790hmIpj_JPEG%2FKakaoTalk_20240124_104654325_01.jpg",
+            "menu_name": "특히레카츠",
+            "price": "13,500원"
+        }
+    ]
+}

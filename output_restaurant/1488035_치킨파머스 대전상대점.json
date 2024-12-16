@@ -1,0 +1,308 @@
+{
+    "store_name": "치킨파머스 대전상대점",
+    "store_location": "대전 유성구 상대복용로29번길 52 상가동 1층",
+    "loc_x": "229473.758790092",
+    "loc_y": "315189.327421513",
+    "menu": [
+        {
+            "category": "대표메뉴",
+            "img_src": "",
+            "menu_name": "시그니쳐 치파세트(치킨+파스타)",
+            "price": "26,900원"
+        },
+        {
+            "category": "대표메뉴",
+            "img_src": "",
+            "menu_name": "허니콘",
+            "price": "21,900원"
+        },
+        {
+            "category": "대표메뉴",
+            "img_src": "",
+            "menu_name": "스테이크",
+            "price": "21,900원"
+        },
+        {
+            "category": "대표메뉴",
+            "img_src": "",
+            "menu_name": "순살 반반",
+            "price": "19,900원"
+        },
+        {
+            "category": "대표메뉴",
+            "img_src": "",
+            "menu_name": "슈림프 오일파스타",
+            "price": "7,900원"
+        },
+        {
+            "category": "대표메뉴",
+            "img_src": "",
+            "menu_name": "파머스 베이컨크림파스타",
+            "price": "10,900원"
+        },
+        {
+            "category": "// 미친가격 //",
+            "img_src": "",
+            "menu_name": "오 ~ 닭다리 치킨",
+            "price": "8,900원"
+        },
+        {
+            "category": "// 치킨+파스타 SET //",
+            "img_src": "",
+            "menu_name": "반반치파세트(반반치킨+파스타)",
+            "price": "24,900원"
+        },
+        {
+            "category": "// 치킨+파스타 SET //",
+            "img_src": "",
+            "menu_name": "치파세트(치킨+파스타)",
+            "price": "24,900원"
+        },
+        {
+            "category": "// 치킨+파스타 SET //",
+            "img_src": "",
+            "menu_name": "시그니쳐 치파세트(치킨+파스타)",
+            "price": "26,900원"
+        },
+        {
+            "category": "// 파머스치킨 //",
+            "img_src": "",
+            "menu_name": "콘크런치 후라이드",
+            "price": "18,900원"
+        },
+        {
+            "category": "// 파머스치킨 //",
+            "img_src": "",
+            "menu_name": "양념",
+            "price": "19,900원"
+        },
+        {
+            "category": "// 파머스치킨 //",
+            "img_src": "",
+            "menu_name": "매운양념",
+            "price": "19,900원"
+        },
+        {
+            "category": "// 파머스치킨 //",
+            "img_src": "",
+            "menu_name": "간장",
+            "price": "19,900원"
+        },
+        {
+            "category": "// 파머스치킨 //",
+            "img_src": "",
+            "menu_name": "핫간장",
+            "price": "19,900원"
+        },
+        {
+            "category": "// 파머스치킨 //",
+            "img_src": "",
+            "menu_name": "깻잎간장",
+            "price": "20,900원"
+        },
+        {
+            "category": "// 파머스치킨 //",
+            "img_src": "",
+            "menu_name": "깻잎핫간장",
+            "price": "20,900원"
+        },
+        {
+            "category": "// 파머스치킨 //",
+            "img_src": "",
+            "menu_name": "스테이크",
+            "price": "21,900원"
+        },
+        {
+            "category": "// 파머스치킨 //",
+            "img_src": "",
+            "menu_name": "갈릭",
+            "price": "21,900원"
+        },
+        {
+            "category": "// 파머스치킨 //",
+            "img_src": "",
+            "menu_name": "허니콘",
+            "price": "21,900원"
+        },
+        {
+            "category": "// 반반 //",
+            "img_src": "",
+            "menu_name": "콤보반반",
+            "price": "20,900원"
+        },
+        {
+            "category": "// 반반 //",
+            "img_src": "",
+            "menu_name": "닭다리 반반",
+            "price": "18,900원"
+        },
+        {
+            "category": "// 반반 //",
+            "img_src": "",
+            "menu_name": "뼈 반반",
+            "price": "18,900원"
+        },
+        {
+            "category": "// 반반 //",
+            "img_src": "",
+            "menu_name": "순살 반반",
+            "price": "19,900원"
+        },
+        {
+            "category": "// 파스타 //",
+            "img_src": "",
+            "menu_name": "슈림프 오일파스타",
+            "price": "7,900원"
+        },
+        {
+            "category": "// 파스타 //",
+            "img_src": "",
+            "menu_name": "슈림프 바질오일파스타",
+            "price": "8,900원"
+        },
+        {
+            "category": "// 파스타 //",
+            "img_src": "",
+            "menu_name": "파머스 슈림프로제파스타",
+            "price": "10,900원"
+        },
+        {
+            "category": "// 파스타 //",
+            "img_src": "",
+            "menu_name": "파머스 베이컨크림파스타",
+            "price": "10,900원"
+        },
+        {
+            "category": "// 파스타 //",
+            "img_src": "",
+            "menu_name": "파머스 베이컨토마토파스타",
+            "price": "10,900원"
+        },
+        {
+            "category": "// 파스타 //",
+            "img_src": "",
+            "menu_name": "슈림프 바질크림파스타",
+            "price": "10,900원"
+        },
+        {
+            "category": "// 파스타 //",
+            "img_src": "",
+            "menu_name": "베이컨 바질크림파스타",
+            "price": "10,900원"
+        },
+        {
+            "category": "// 사이드 //",
+            "img_src": "",
+            "menu_name": "자이언트 만두",
+            "price": "3,500원"
+        },
+        {
+            "category": "// 사이드 //",
+            "img_src": "",
+            "menu_name": "26cm 롱소세지",
+            "price": "4,500원"
+        },
+        {
+            "category": "// 사이드 //",
+            "img_src": "",
+            "menu_name": "어묵깡",
+            "price": "8,000원"
+        },
+        {
+            "category": "// 사이드 //",
+            "img_src": "",
+            "menu_name": "모듬 플래터",
+            "price": "12,900원"
+        },
+        {
+            "category": "// 사이드 //",
+            "img_src": "",
+            "menu_name": "매운국물닭발",
+            "price": "11,900원"
+        },
+        {
+            "category": "// 사이드 //",
+            "img_src": "",
+            "menu_name": "똥집 후라이드",
+            "price": "10,900원"
+        },
+        {
+            "category": "// 사이드 //",
+            "img_src": "",
+            "menu_name": "로제떡볶이",
+            "price": "7,000원"
+        },
+        {
+            "category": "// 사이드 //",
+            "img_src": "",
+            "menu_name": "국물떡볶이",
+            "price": "6,000원"
+        },
+        {
+            "category": "// 사이드 //",
+            "img_src": "",
+            "menu_name": "모짜치즈볼 (5조각)",
+            "price": "5,000원"
+        },
+        {
+            "category": "// 사이드 //",
+            "img_src": "",
+            "menu_name": "고구마스틱",
+            "price": "5,000원"
+        },
+        {
+            "category": "// 사이드 //",
+            "img_src": "",
+            "menu_name": "감자튀김",
+            "price": "5,000원"
+        },
+        {
+            "category": "// 사이드 //",
+            "img_src": "",
+            "menu_name": "치킨너겟 (8조각)",
+            "price": "5,000원"
+        },
+        {
+            "category": "// 음료 //",
+            "img_src": "",
+            "menu_name": "콜라(500ml)",
+            "price": "2,000원"
+        },
+        {
+            "category": "// 음료 //",
+            "img_src": "",
+            "menu_name": "콜라(1.25L)",
+            "price": "3,000원"
+        },
+        {
+            "category": "// 음료 //",
+            "img_src": "",
+            "menu_name": "사이다(500ml)",
+            "price": "2,000원"
+        },
+        {
+            "category": "// 음료 //",
+            "img_src": "",
+            "menu_name": "사이다(1.25L)",
+            "price": "3,000원"
+        },
+        {
+            "category": "//추가메뉴//",
+            "img_src": "",
+            "menu_name": "무 추가",
+            "price": "500원"
+        },
+        {
+            "category": "//추가메뉴//",
+            "img_src": "",
+            "menu_name": "양념소스",
+            "price": "500원"
+        },
+        {
+            "category": "//추가메뉴//",
+            "img_src": "",
+            "menu_name": "매운양념소스",
+            "price": "500원"
+        }
+    ]
+}

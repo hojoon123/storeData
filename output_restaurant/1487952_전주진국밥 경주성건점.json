@@ -1,0 +1,44 @@
+{
+    "store_name": "전주진국밥 경주성건점",
+    "store_location": "경북 경주시 금성로 295 4동 46호",
+    "loc_x": "399266.054564378",
+    "loc_y": "262675.077579605",
+    "menu": [
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240226_154%2F1708926505658nIKWJ_JPEG%2F%25C2%25AB%25BB%25CD%25B1%25B9%25B9%25E4.jpg",
+            "menu_name": "짬뽕국밥",
+            "price": "10,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240226_18%2F1708926596097h0YYz_JPEG%2F%25BC%25F6%25C0%25B0%25B1%25B9%25B9%25E4.jpg",
+            "menu_name": "수육국밥",
+            "price": "10,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240226_174%2F1708926658956CxTvk_JPEG%2F%25B8%25F0%25B5%25EB%25B1%25B9%25B9%25E4.jpg",
+            "menu_name": "모듬국밥",
+            "price": "10,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240226_299%2F1708926705691Bs8ba_JPEG%2F%25B5%25C5%25C1%25F6%25B1%25B9%25B9%25E4.jpg",
+            "menu_name": "돼지국밥",
+            "price": "9,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240226_232%2F1708926773768Gj5ur_JPEG%2F%25BC%25F8%25B4%25EB%25B1%25B9%25B9%25E4.jpg",
+            "menu_name": "순대국밥",
+            "price": "9,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240226_280%2F1708926836309p3A4S_JPEG%2F%25B3%25BB%25C0%25E5%25B1%25B9%25B9%25E4.jpg",
+            "menu_name": "내장국밥",
+            "price": "9,000원"
+        }
+    ]
+}

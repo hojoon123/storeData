@@ -1,0 +1,38 @@
+{
+    "store_name": "애밀베이커리",
+    "store_location": "경기 수원시 권선구 금곡로197번길 18-73 106호",
+    "loc_x": "195938.861888323",
+    "loc_y": "419320.035757228",
+    "menu": [
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241119_84%2F1731980889429IGEwQ_JPEG%2F%25BA%25FC%25B3%25D7_%25282%2529.jpg",
+            "menu_name": "빠네",
+            "price": "15,900원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241119_206%2F1731980754137Q0cb0_JPEG%2F%25B8%25ED%25B6%25F5%25C6%25C4%25BD%25BA%25C5%25B8.jpg",
+            "menu_name": "명란파스타",
+            "price": "11,900원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241001_25%2F1727710361112mBQ4X_JPEG%2FKakaoTalk_20240923_230559519_01.jpg",
+            "menu_name": "리코타크림치즈샐러드",
+            "price": "12,900원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241001_203%2F1727710263495l99uY_JPEG%2FKakaoTalk_20240923_230559519.jpg",
+            "menu_name": "에그크로와상플레이트",
+            "price": "11,900원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240319_289%2F1710817025966RSe70_JPEG%2F20231216_130157.jpg",
+            "menu_name": "아메리카노",
+            "price": "4,500원"
+        }
+    ]
+}

@@ -1,0 +1,62 @@
+{
+    "store_name": "77삼겹",
+    "store_location": "대전 서구 청사서로54번길 17 1층 101호",
+    "loc_x": "233823.152665115",
+    "loc_y": "318056.84519821",
+    "menu": [
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20231228_259%2F1703745480555GwnVC_JPEG%2F%25BB%25FD%25BB%25EF%25B0%25E34.JPG",
+            "menu_name": "77생삼",
+            "price": "15,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20231228_236%2F1703745537456aeYTg_JPEG%2F%25B3%25C3%25BB%25EF%25B0%25E31.JPG",
+            "menu_name": "77냉삼",
+            "price": "15,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20231228_89%2F1703745593833oa2Cx_JPEG%2F%25B8%25F1%25BB%25EC2.JPG",
+            "menu_name": "77 특생목살",
+            "price": "15,000원"
+        },
+        {
+            "category": "",
+            "img_src": "",
+            "menu_name": "냉면(물,비빔)",
+            "price": "7,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240804_83%2F1722711949255QUHSD_JPEG%2F1000015692.jpg",
+            "menu_name": "팔도77비빔면",
+            "price": "4,000원"
+        },
+        {
+            "category": "",
+            "img_src": "",
+            "menu_name": "77 된장술밥",
+            "price": "5,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20231228_294%2F1703745712385fGz67_JPEG%2F%25C7%25CF%25C0%25CC%25BA%25BC1.JPG",
+            "menu_name": "하이볼",
+            "price": "7,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240923_236%2F17270704927696ORzU_JPEG%2F1000038355.jpg",
+            "menu_name": "된장찌개",
+            "price": "6,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240314_133%2F1710416360092CfCiy_JPEG%2F1000013691.jpg",
+            "menu_name": "라면",
+            "price": "4,000원"
+        }
+    ]
+}

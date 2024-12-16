@@ -1,0 +1,440 @@
+{
+    "store_name": "청년분식&치킨 진주중앙점",
+    "store_location": "경남 진주시 북장대로64번길 7 1층(상봉동)",
+    "loc_x": "297734.339565858",
+    "loc_y": "189058.630669165",
+    "menu": [
+        {
+            "category": "대표메뉴",
+            "img_src": "",
+            "menu_name": "[배.달.료1,0,0,0원]청년 떡볶이",
+            "price": "5,500원"
+        },
+        {
+            "category": "대표메뉴",
+            "img_src": "",
+            "menu_name": "떡치세트",
+            "price": "15,000원"
+        },
+        {
+            "category": "대표메뉴",
+            "img_src": "",
+            "menu_name": "마라세트",
+            "price": "14,500원"
+        },
+        {
+            "category": "대표메뉴",
+            "img_src": "",
+            "menu_name": "[BEST]마라떡볶이",
+            "price": "10,000원"
+        },
+        {
+            "category": "대표메뉴",
+            "img_src": "",
+            "menu_name": "떡순튀세트",
+            "price": "15,500원"
+        },
+        {
+            "category": "대표메뉴",
+            "img_src": "",
+            "menu_name": "후라이드 치킨(300g)",
+            "price": "8,000원"
+        },
+        {
+            "category": "세트메뉴",
+            "img_src": "",
+            "menu_name": "떡치세트",
+            "price": "15,000원"
+        },
+        {
+            "category": "세트메뉴",
+            "img_src": "",
+            "menu_name": "마라세트",
+            "price": "14,500원"
+        },
+        {
+            "category": "세트메뉴",
+            "img_src": "",
+            "menu_name": "떡순튀세트",
+            "price": "15,500원"
+        },
+        {
+            "category": "세트메뉴",
+            "img_src": "",
+            "menu_name": "떡튀세트",
+            "price": "14,500원"
+        },
+        {
+            "category": "세트메뉴",
+            "img_src": "",
+            "menu_name": "가래떡세트",
+            "price": "10,000원"
+        },
+        {
+            "category": "메인메뉴",
+            "img_src": "",
+            "menu_name": "가래떡 떡볶이",
+            "price": "4,500원"
+        },
+        {
+            "category": "메인메뉴",
+            "img_src": "",
+            "menu_name": "[배.달.료1,0,0,0원]청년 떡볶이",
+            "price": "5,500원"
+        },
+        {
+            "category": "메인메뉴",
+            "img_src": "",
+            "menu_name": "청년 라볶이",
+            "price": "6,500원"
+        },
+        {
+            "category": "메인메뉴",
+            "img_src": "",
+            "menu_name": "치즈 떡볶이",
+            "price": "7,500원"
+        },
+        {
+            "category": "메인메뉴",
+            "img_src": "",
+            "menu_name": "[BEST]로제 떡볶이",
+            "price": "8,000원"
+        },
+        {
+            "category": "메인메뉴",
+            "img_src": "",
+            "menu_name": "베이컨 크림 떡볶이",
+            "price": "9,000원"
+        },
+        {
+            "category": "메인메뉴",
+            "img_src": "",
+            "menu_name": "[BEST]마라떡볶이",
+            "price": "10,000원"
+        },
+        {
+            "category": "메인메뉴",
+            "img_src": "",
+            "menu_name": "마라 로제 떡볶이",
+            "price": "10,000원"
+        },
+        {
+            "category": "메인메뉴",
+            "img_src": "",
+            "menu_name": "달콤 고구마 떡볶이",
+            "price": "10,000원"
+        },
+        {
+            "category": "메인메뉴",
+            "img_src": "",
+            "menu_name": "차돌 떡볶이",
+            "price": "12,000원"
+        },
+        {
+            "category": "메인메뉴",
+            "img_src": "",
+            "menu_name": "통오징어 떡볶이",
+            "price": "12,000원"
+        },
+        {
+            "category": "순살치킨 메뉴",
+            "img_src": "",
+            "menu_name": "후라이드 치킨(300g)",
+            "price": "8,000원"
+        },
+        {
+            "category": "순살치킨 메뉴",
+            "img_src": "",
+            "menu_name": "양념 치킨(300g)",
+            "price": "9,000원"
+        },
+        {
+            "category": "순살치킨 메뉴",
+            "img_src": "",
+            "menu_name": "마늘간장 치킨(300g)",
+            "price": "9,000원"
+        },
+        {
+            "category": "튀김 메뉴",
+            "img_src": "",
+            "menu_name": "모듬튀김",
+            "price": "5,000원"
+        },
+        {
+            "category": "튀김 메뉴",
+            "img_src": "",
+            "menu_name": "체다크림스틱(2개)",
+            "price": "1,500원"
+        },
+        {
+            "category": "튀김 메뉴",
+            "img_src": "",
+            "menu_name": "어묵튀김(4개)",
+            "price": "1,500원"
+        },
+        {
+            "category": "튀김 메뉴",
+            "img_src": "",
+            "menu_name": "김말이(3개)",
+            "price": "2,000원"
+        },
+        {
+            "category": "튀김 메뉴",
+            "img_src": "",
+            "menu_name": "야끼만두튀김(5개)",
+            "price": "2,000원"
+        },
+        {
+            "category": "튀김 메뉴",
+            "img_src": "",
+            "menu_name": "잡채말이어묵(3개)",
+            "price": "2,000원"
+        },
+        {
+            "category": "튀김 메뉴",
+            "img_src": "",
+            "menu_name": "야채튀김(2개)",
+            "price": "3,000원"
+        },
+        {
+            "category": "튀김 메뉴",
+            "img_src": "",
+            "menu_name": "고구마튀김(2개)",
+            "price": "3,000원"
+        },
+        {
+            "category": "튀김 메뉴",
+            "img_src": "",
+            "menu_name": "오징어튀김(2개)",
+            "price": "3,000원"
+        },
+        {
+            "category": "튀김 메뉴",
+            "img_src": "",
+            "menu_name": "고추튀김(2개)",
+            "price": "3,000원"
+        },
+        {
+            "category": "튀김 메뉴",
+            "img_src": "",
+            "menu_name": "닭껍질튀김(150g)",
+            "price": "3,000원"
+        },
+        {
+            "category": "튀김 메뉴",
+            "img_src": "",
+            "menu_name": "게살튀김(3개)",
+            "price": "3,000원"
+        },
+        {
+            "category": "튀김 메뉴",
+            "img_src": "",
+            "menu_name": "새우튀김(2개)",
+            "price": "4,000원"
+        },
+        {
+            "category": "튀김 메뉴",
+            "img_src": "",
+            "menu_name": "맛감자(300g)",
+            "price": "4,000원"
+        },
+        {
+            "category": "튀김 메뉴",
+            "img_src": "",
+            "menu_name": "골든크림치즈볼(5개)",
+            "price": "4,000원"
+        },
+        {
+            "category": "튀김 메뉴",
+            "img_src": "",
+            "menu_name": "돈까스",
+            "price": "4,500원"
+        },
+        {
+            "category": "식사 메뉴",
+            "img_src": "",
+            "menu_name": "날치알 주먹밥(셀프)",
+            "price": "4,500원"
+        },
+        {
+            "category": "식사 메뉴",
+            "img_src": "",
+            "menu_name": "참치마요 덮밥",
+            "price": "5,000원"
+        },
+        {
+            "category": "식사 메뉴",
+            "img_src": "",
+            "menu_name": "치킨마요 덮밥",
+            "price": "4,500원"
+        },
+        {
+            "category": "식사 메뉴",
+            "img_src": "",
+            "menu_name": "스팸마요 덮밥",
+            "price": "4,500원"
+        },
+        {
+            "category": "식사 메뉴",
+            "img_src": "",
+            "menu_name": "직화제육 덮밥",
+            "price": "6,000원"
+        },
+        {
+            "category": "식사 메뉴",
+            "img_src": "",
+            "menu_name": "돈까스 덮밥",
+            "price": "6,000원"
+        },
+        {
+            "category": "식사 메뉴",
+            "img_src": "",
+            "menu_name": "소불고기 덮밥",
+            "price": "6,500원"
+        },
+        {
+            "category": "꼬마김밥",
+            "img_src": "",
+            "menu_name": "꼬마김밥(5줄)",
+            "price": "4,000원"
+        },
+        {
+            "category": "꼬마김밥",
+            "img_src": "",
+            "menu_name": "치즈 꼬마김밥(5줄)",
+            "price": "5,000원"
+        },
+        {
+            "category": "꼬마김밥",
+            "img_src": "",
+            "menu_name": "참치 꼬마김밥(5줄)",
+            "price": "5,000원"
+        },
+        {
+            "category": "꼬마김밥",
+            "img_src": "",
+            "menu_name": "소불고기 꼬마김밥(5줄)",
+            "price": "5,000원"
+        },
+        {
+            "category": "꼬마김밥",
+            "img_src": "",
+            "menu_name": "스팸 꼬마김밥(5줄)",
+            "price": "5,000원"
+        },
+        {
+            "category": "사이드",
+            "img_src": "",
+            "menu_name": "크리스피 핫도그(1개)",
+            "price": "2,500원"
+        },
+        {
+            "category": "사이드",
+            "img_src": "",
+            "menu_name": "소떡소떡(1개)",
+            "price": "3,000원"
+        },
+        {
+            "category": "사이드",
+            "img_src": "",
+            "menu_name": "회오리감자(1개)",
+            "price": "3,000원"
+        },
+        {
+            "category": "사이드",
+            "img_src": "",
+            "menu_name": "오징어핫바(1개)",
+            "price": "3,000원"
+        },
+        {
+            "category": "사이드",
+            "img_src": "",
+            "menu_name": "버터갈릭 감자튀김",
+            "price": "4,500원"
+        },
+        {
+            "category": "사이드",
+            "img_src": "",
+            "menu_name": "닭똥집 튀김",
+            "price": "6,000원"
+        },
+        {
+            "category": "사이드",
+            "img_src": "",
+            "menu_name": "찰순대(내장포함300g)",
+            "price": "4,000원"
+        },
+        {
+            "category": "사이드",
+            "img_src": "",
+            "menu_name": "꼬치어묵탕",
+            "price": "3,000원"
+        },
+        {
+            "category": "사이드",
+            "img_src": "",
+            "menu_name": "우동",
+            "price": "4,500원"
+        },
+        {
+            "category": "사이드",
+            "img_src": "",
+            "menu_name": "새우튀김우동",
+            "price": "6,000원"
+        },
+        {
+            "category": "토핑 추가 메뉴",
+            "img_src": "",
+            "menu_name": "단무지추가 1개",
+            "price": "500원"
+        },
+        {
+            "category": "토핑 추가 메뉴",
+            "img_src": "",
+            "menu_name": "비엔나추가 5개",
+            "price": "1,000원"
+        },
+        {
+            "category": "토핑 추가 메뉴",
+            "img_src": "",
+            "menu_name": "메추리알추가 5알",
+            "price": "1,000원"
+        },
+        {
+            "category": "토핑 추가 메뉴",
+            "img_src": "",
+            "menu_name": "사각어묵추가 1장",
+            "price": "1,000원"
+        },
+        {
+            "category": "토핑 추가 메뉴",
+            "img_src": "",
+            "menu_name": "납작당면추가 100g",
+            "price": "2,000원"
+        },
+        {
+            "category": "토핑 추가 메뉴",
+            "img_src": "",
+            "menu_name": "치즈추가 100g",
+            "price": "2,000원"
+        },
+        {
+            "category": "음료추가",
+            "img_src": "",
+            "menu_name": "쿨피스 450ml",
+            "price": "1,500원"
+        },
+        {
+            "category": "음료추가",
+            "img_src": "",
+            "menu_name": "콜라 500ml",
+            "price": "2,000원"
+        },
+        {
+            "category": "음료추가",
+            "img_src": "",
+            "menu_name": "사이다 500ml",
+            "price": "2,000원"
+        }
+    ]
+}

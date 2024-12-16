@@ -1,0 +1,38 @@
+{
+    "store_name": "요거트아이스크림친구들",
+    "store_location": "경기 성남시 분당구 백현로156번길 7-8 1층 101호",
+    "loc_x": "210133.54",
+    "loc_y": "429952.61",
+    "menu": [
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241206_95%2F1733492862953M5Bmi_PNG%2F%25C8%25C4%25B8%25A3%25C3%25F7_%25C6%25F8%25C5%25BA_%25BF%25E4%25B0%25C5%25C6%25AE.png",
+            "menu_name": "후르츠 폭탄 요거트 아이스크림",
+            "price": "14,800원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241206_174%2F1733493058849jS185_PNG%2F%25BB%25FD%25B8%25C1%25B0%25ED%25C5%25A9%25B8%25B2%25C4%25A1%25C1%25EE%25BF%25E4%25B0%25C5%25C6%25AE.png",
+            "menu_name": "생망고 크림치즈 요거트 아이스크",
+            "price": "18,800원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241206_279%2F17334930305535rYPG_PNG%2F%25B1%25E2%25BA%25BB%25BF%25E4%25B0%25C5%25C6%25AE.png",
+            "menu_name": "요거트 아이스크림",
+            "price": "4,500원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241206_88%2F1733492992649H1lN7_PNG%2F%25B2%25DC%25C0%25DA%25B8%25F9%25BF%25E4%25B0%25C5%25C6%25AE.png",
+            "menu_name": "꿀 자몽 요거트 아이스크림",
+            "price": "14,500원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241206_58%2F1733492937156MEbAQ_PNG%2F%25C3%25CA%25C4%25DA_%25BF%25E4%25B0%25C5%25C6%25AE.png",
+            "menu_name": "초코 폭탄 요거트 아이스크",
+            "price": "12,000원"
+        }
+    ]
+}

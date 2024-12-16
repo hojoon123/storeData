@@ -1,0 +1,14 @@
+{
+    "store_name": "달빛포차",
+    "store_location": "경기 시흥시 대골안길 77 1층 104호",
+    "loc_x": "181070.190865267",
+    "loc_y": "437903.339955672",
+    "menu": [
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20231215_70%2F1702636631271oLqxH_JPEG%2F1702636410216.jpg",
+            "menu_name": "굴보쌈",
+            "price": "40,000원"
+        }
+    ]
+}

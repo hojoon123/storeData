@@ -1,0 +1,38 @@
+{
+    "store_name": "88치킨",
+    "store_location": "전남 구례군 산동면 지리산온천로 270",
+    "loc_x": "241537.705483055",
+    "loc_y": "202038.362933698",
+    "menu": [
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240206_43%2F1707225618995Ky1fk_JPEG%2Fscaled_1707218114819.jpg",
+            "menu_name": "울금 후라이드",
+            "price": "18,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240206_48%2F1707225689296thM3E_JPEG%2Fscaled_1707218719570.jpg",
+            "menu_name": "울금 양념",
+            "price": "19,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240206_4%2F1707218290231IiTMg_JPEG%2Fscaled_1707218242545.jpg",
+            "menu_name": "어묵탕",
+            "price": "15,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240206_15%2F1707227190513ICenn_JPEG%2Fscaled_1707227099413.jpg",
+            "menu_name": "뼈없는 닭발튀김",
+            "price": "15,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240206_293%2F1707218901257tvKp6_JPEG%2Fscaled_1707218715485.jpg",
+            "menu_name": "골뱅이무침",
+            "price": "20,000원"
+        }
+    ]
+}

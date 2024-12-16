@@ -1,0 +1,68 @@
+{
+    "store_name": "어화도 이마트양주점",
+    "store_location": "경기 양주시 평화로 1713 1층",
+    "loc_x": "204672.182224116",
+    "loc_y": "482162.980362785",
+    "menu": [
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241213_225%2F1734056949260sglDr_JPEG%2FKakaoTalk_20241210_192701294.jpg",
+            "menu_name": "고등어구이",
+            "price": "11,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241213_215%2F17340570251252Qk6K_JPEG%2FKakaoTalk_20241210_192701294_02.jpg",
+            "menu_name": "임연수구이",
+            "price": "13,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241213_121%2F1734057131711Egcet_JPEG%2FKakaoTalk_20241210_192701294_01.jpg",
+            "menu_name": "갈치구이",
+            "price": "13,000원"
+        },
+        {
+            "category": "",
+            "img_src": "",
+            "menu_name": "가자미구이",
+            "price": "13,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241213_72%2F1734057049537KHqHF_JPEG%2FKakaoTalk_20241204_161712739_02.jpg",
+            "menu_name": "뽈락구이",
+            "price": "11,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241213_296%2F1734057097447JiRWR_JPEG%2FKakaoTalk_20241212_113238038_01.jpg",
+            "menu_name": "가자미조림",
+            "price": "13,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241213_253%2F1734057164446vBMrH_JPEG%2FKakaoTalk_20241212_113238038.jpg",
+            "menu_name": "어화샤브샤브",
+            "price": "11,000원"
+        },
+        {
+            "category": "",
+            "img_src": "",
+            "menu_name": "어화얼큰샤브",
+            "price": "12,000원"
+        },
+        {
+            "category": "",
+            "img_src": "",
+            "menu_name": "어화사골샤브",
+            "price": "13,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241213_97%2F17340570735916XaGX_JPEG%2FKakaoTalk_20241210_192701294_04.jpg",
+            "menu_name": "꼬막비빔밥",
+            "price": "9,500원"
+        }
+    ]
+}

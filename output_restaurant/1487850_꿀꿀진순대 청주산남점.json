@@ -1,0 +1,80 @@
+{
+    "store_name": "꿀꿀진순대 청주산남점",
+    "store_location": "충북 청주시 서원구 산남로 56 에버프라자 107호",
+    "loc_x": "241784.339339338",
+    "loc_y": "345686.547385742",
+    "menu": [
+        {
+            "category": "사장님 추천 메뉴",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20240913_62/1726208026412IhX7z_JPEG/image_%286%29.jpg?type=f220_220_60_sharpen",
+            "menu_name": "한우사골 순대국대표",
+            "price": "10,000원"
+        },
+        {
+            "category": "메뉴",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20240913_62/1726208026412IhX7z_JPEG/image_%286%29.jpg?type=f220_220_60_sharpen",
+            "menu_name": "한우사골 순대국대표",
+            "price": "10,000원"
+        },
+        {
+            "category": "메뉴",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20240913_76/1726207984073IGe3K_JPEG/image_%2811%29.jpg?type=f220_220_60_sharpen",
+            "menu_name": "한돈 머릿고기",
+            "price": "150,000원"
+        },
+        {
+            "category": "메뉴",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20240913_49/1726208014536wwLCM_JPEG/image_%287%29.jpg?type=f220_220_60_sharpen",
+            "menu_name": "찐(산양삼) 순대국",
+            "price": "11,000원"
+        },
+        {
+            "category": "메뉴",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20240913_42/1726208002351uh1fH_JPEG/image_%289%29.jpg?type=f220_220_60_sharpen",
+            "menu_name": "진순대 오젓수육",
+            "price": "14,000원"
+        },
+        {
+            "category": "메뉴",
+            "img_src": "",
+            "menu_name": "철판 계란후라이",
+            "price": "3,000원"
+        },
+        {
+            "category": "메뉴",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20240913_287/17262079936341kc2v_JPEG/image_%2810%29.jpg?type=f220_220_60_sharpen",
+            "menu_name": "토종 접시순대",
+            "price": "12,000원"
+        },
+        {
+            "category": "메뉴",
+            "img_src": "",
+            "menu_name": "순대만",
+            "price": "10,000원"
+        },
+        {
+            "category": "메뉴",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20240913_234/1726207968147Ag5Cj_JPEG/image_%288%29.jpg?type=f220_220_60_sharpen",
+            "menu_name": "돈복 쟁반",
+            "price": "50,000원"
+        },
+        {
+            "category": "음료 및 주류",
+            "img_src": "",
+            "menu_name": "소주",
+            "price": "5,000원"
+        },
+        {
+            "category": "음료 및 주류",
+            "img_src": "",
+            "menu_name": "막걸리",
+            "price": "4,000원"
+        },
+        {
+            "category": "음료 및 주류",
+            "img_src": "",
+            "menu_name": "맥주",
+            "price": "5,000원"
+        }
+    ]
+}

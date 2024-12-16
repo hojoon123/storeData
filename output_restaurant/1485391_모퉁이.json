@@ -1,0 +1,14 @@
+{
+    "store_name": "모퉁이",
+    "store_location": "광주 남구 백운로 41 1층",
+    "loc_x": "191467.121983607",
+    "loc_y": "182019.855340709",
+    "menu": [
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241206_234%2F1733415058823S4jqj_PNG%2FIMG_3095.png",
+            "menu_name": "국물닭발(무뼈/뼈/튤립)",
+            "price": "20,000원"
+        }
+    ]
+}

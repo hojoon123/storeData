@@ -1,0 +1,68 @@
+{
+    "store_name": "아바타,치",
+    "store_location": "경기 남양주시 다산중앙로123번길 22-80 1층 118호, 아바타치",
+    "loc_x": "213231.029888708",
+    "loc_y": "458074.995730147",
+    "menu": [
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20231025_16%2F16982325079070hesG_JPEG%2F22.jpg",
+            "menu_name": "플레인 치아바타",
+            "price": "3,800원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20231025_159%2F16982324974508KBFC_JPEG%2F33.jpg",
+            "menu_name": "올리브 치아바타",
+            "price": "4,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20231025_105%2F1698232473927XlPah_JPEG%2F44.jpg",
+            "menu_name": "밤 치아바타",
+            "price": "4,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20231025_179%2F16982324610987EjJL_JPEG%2F55.jpg",
+            "menu_name": "크랜베리아몬드 치아바타",
+            "price": "4,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20231025_198%2F1698232449676Hka9V_JPEG%2F66.jpg",
+            "menu_name": "먹물크림치즈 치아바타",
+            "price": "4,500원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20231025_23%2F1698232530621VmzEj_JPEG%2F11.jpg",
+            "menu_name": "바질토마토 치아바타",
+            "price": "4,500원"
+        },
+        {
+            "category": "",
+            "img_src": "",
+            "menu_name": "무화과 치아바타",
+            "price": "4,200원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20231029_227%2F16985650234044YOxj_JPEG%2F1123.jpg",
+            "menu_name": "햄치즈 파니니",
+            "price": "7,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20231029_120%2F16985650830998cxVM_JPEG%2F4424.jpg",
+            "menu_name": "튜나멜트 파니니",
+            "price": "8,000원"
+        },
+        {
+            "category": "",
+            "img_src": "",
+            "menu_name": "레몬치킨 파니니",
+            "price": "8,000원"
+        }
+    ]
+}

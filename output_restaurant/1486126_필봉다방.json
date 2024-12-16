@@ -1,0 +1,158 @@
+{
+    "store_name": "필봉다방",
+    "store_location": "경기 오산시 현충로 48 1층 102호",
+    "loc_x": "206401.965431307",
+    "loc_y": "406806.93499409",
+    "menu": [
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241201_218%2F1733059131545bPe2n_JPEG%2F1000039852.jpg",
+            "menu_name": "미니붕어빵",
+            "price": "7,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20231024_79%2F16981497412695xyA9_JPEG%2F1000021232.jpg",
+            "menu_name": "아메리카노 ice",
+            "price": "4,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20231024_103%2F1698149692926tPoIX_JPEG%2F1000021233.jpg",
+            "menu_name": "아메리카노 hot",
+            "price": "4,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20231028_182%2F1698420980404HfNKP_JPEG%2F20231026_143445.jpg",
+            "menu_name": "쌍화차",
+            "price": "6,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241201_300%2F173305938717254mdc_JPEG%2F1000039799.jpg",
+            "menu_name": "약과아이스크림",
+            "price": "5,500원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241201_193%2F1733059208664oDD3s_JPEG%2F1000039811.jpg",
+            "menu_name": "군고구마(with 갓김치)",
+            "price": "6,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20231024_80%2F16981497751941NqH7_JPEG%2F1000021234.jpg",
+            "menu_name": "카페라떼 ice",
+            "price": "4,500원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20231024_2%2F1698149811058OnvdJ_JPEG%2F1000021221.jpg",
+            "menu_name": "카페라떼 hot",
+            "price": "4,500원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20231024_230%2F1698149855305PNTXE_JPEG%2F1000021220.jpg",
+            "menu_name": "바닐라라떼 ice",
+            "price": "5,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20231024_248%2F1698149898577wf8v1_JPEG%2F1000021221.jpg",
+            "menu_name": "바닐라라떼 hot",
+            "price": "5,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20231028_280%2F1698420636148TwUmN_JPEG%2F1698142033421.jpg",
+            "menu_name": "카라멜마끼아또 ice",
+            "price": "5,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20231028_7%2F1698420683687mHlB7_JPEG%2F20231025_154132.jpg",
+            "menu_name": "카라멜마끼아또 hot",
+            "price": "5,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20231028_195%2F1698420720537lWzqs_JPEG%2F20231025_151016.jpg",
+            "menu_name": "카페모카 ice",
+            "price": "5,500원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20231028_11%2F1698420751752a1LAm_JPEG%2F20231025_163204.jpg",
+            "menu_name": "카페모카 hot",
+            "price": "5,500원"
+        },
+        {
+            "category": "",
+            "img_src": "",
+            "menu_name": "수제감주",
+            "price": "5,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20231028_182%2F1698420867131A5xVH_JPEG%2F20231025_165602.jpg",
+            "menu_name": "미숫가루 ice",
+            "price": "4,500원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20231028_189%2F1698420820087kaltV_JPEG%2F1698420601934.jpg",
+            "menu_name": "자몽에이드 ice",
+            "price": "5,500원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20231028_19%2F1698420792837jhNxu_JPEG%2F1698420604632.jpg",
+            "menu_name": "청포도에이드 ice",
+            "price": "5,500원"
+        },
+        {
+            "category": "",
+            "img_src": "",
+            "menu_name": "미숫가루라떼",
+            "price": "5,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20231028_89%2F1698420918746y41mS_JPEG%2F20231025_144643.jpg",
+            "menu_name": "자몽차",
+            "price": "5,500원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20231028_20%2F1698420945083uoIdx_JPEG%2F20231025_144710.jpg",
+            "menu_name": "유자차",
+            "price": "5,500원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20231024_244%2F1698150431749ryNhs_JPEG%2F1000020599.jpg",
+            "menu_name": "미니쿠키 브라우니",
+            "price": "3,500원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20231024_290%2F1698150465299a1c4z_JPEG%2F1000020600.jpg",
+            "menu_name": "미니쿠키 유자브라우니",
+            "price": "3,500원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20231024_193%2F1698150086107F4itR_PNG%2F1000020591.png",
+            "menu_name": "플레인휘낭시에",
+            "price": "2,700원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20231024_114%2F1698150127751rlfwD_PNG%2F1000020592.png",
+            "menu_name": "무화과휘낭시에",
+            "price": "2,800원"
+        }
+    ]
+}

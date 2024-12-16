@@ -1,0 +1,38 @@
+{
+    "store_name": "블랙포레스트커피",
+    "store_location": "강원 강릉시 선수촌로 130 1층",
+    "loc_x": "364749.47300516",
+    "loc_y": "474993.83011436",
+    "menu": [
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240207_195%2F1707275839417WoNW7_JPEG%2F20240207_115926.jpg",
+            "menu_name": "스테이크 샌드위치",
+            "price": "13,800원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240207_244%2F1707277944360qRblu_JPEG%2F20240207_125111.jpg",
+            "menu_name": "치킨베이컨 샌드위치",
+            "price": "7,800원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240207_133%2F1707277753880qnsGH_JPEG%2F20240207_120357.jpg",
+            "menu_name": "햄치즈 루꼴라 샌드위치",
+            "price": "8,800원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240207_167%2F1707275601253GsglL_JPEG%2F20240207_121106.jpg",
+            "menu_name": "치아바타 샌드위치",
+            "price": "8,800원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240123_222%2F1706005524141X2MqI_JPEG%2F20240106_172835.jpg",
+            "menu_name": "햄에그 샌드위치",
+            "price": "6,800원"
+        }
+    ]
+}

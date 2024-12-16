@@ -1,0 +1,86 @@
+{
+    "store_name": "사바토사몬 화홍문본점",
+    "store_location": "경기 수원시 팔달구 수원천로 373 1층 사바토사몬",
+    "loc_x": "201457.555944001",
+    "loc_y": "420534.044179583",
+    "menu": [
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240912_232%2F1726150815326bxsNm_JPEG%2F397F8E84-1E22-467B-A560-0D37DAA8346A.jpeg",
+            "menu_name": "사바토사몬 정식",
+            "price": "27,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240828_41%2F17248161562149xvjT_JPEG%2FIMG_4834.jpeg",
+            "menu_name": "생연어구이 변경",
+            "price": "3,500원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241204_167%2F1733286480051ONn0D_JPEG%2FIMG_5143.jpeg",
+            "menu_name": "논알콜 스파클링 레드와인",
+            "price": "8,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241204_116%2F17332865578562grmH_JPEG%2FIMG_5144.jpeg",
+            "menu_name": "논알콜 스파클링 화이트와인",
+            "price": "8,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240511_255%2F1715416758091OnBHL_JPEG%2FKakaoTalk_20240511_164908909_02.jpg",
+            "menu_name": "레몬하이볼",
+            "price": "8,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240511_37%2F1715416765309q0wlH_JPEG%2FKakaoTalk_20240511_164908909.jpg",
+            "menu_name": "피치하이볼",
+            "price": "8,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240511_218%2F1715416781436hmRJ0_PNG%2F277301294_4937516956367177_6569685130518587490_n.png",
+            "menu_name": "삿포로생맥주",
+            "price": "8,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240624_91%2F1719233999556q2kw6_JPEG%2FIMG_4544.jpeg",
+            "menu_name": "논알콜 초야 우메슈",
+            "price": "7,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240624_16%2F1719234031103JWNjg_JPEG%2FIMG_4541.jpeg",
+            "menu_name": "논알콜 초야 유즈슈",
+            "price": "7,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240511_104%2F1715416773683fP4oc_JPEG%2FKakaoTalk_20240511_164930131.jpg",
+            "menu_name": "우롱차",
+            "price": "5,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240531_220%2F1717113725603PKEVF_PNG%2FKakaoTalk_20240531_090123657.png",
+            "menu_name": "수박사이다",
+            "price": "5,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240531_72%2F1717113733232O4KGF_PNG%2FKakaoTalk_20240531_090122560.png",
+            "menu_name": "멜론사이다",
+            "price": "5,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240531_11%2F1717113739334pAaHq_PNG%2FKakaoTalk_20240531_090123210.png",
+            "menu_name": "복숭아 사이다",
+            "price": "5,000원"
+        }
+    ]
+}

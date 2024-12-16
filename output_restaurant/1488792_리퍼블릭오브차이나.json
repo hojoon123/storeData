@@ -1,0 +1,38 @@
+{
+    "store_name": "리퍼블릭오브차이나",
+    "store_location": "경남 창원시 성산구 삼정자로 7 경상대학교 병원 편의시설동 남천프라자 지하1층",
+    "loc_x": "355333.4488172",
+    "loc_y": "190095.559112608",
+    "menu": [
+        {
+            "category": "",
+            "img_src": "",
+            "menu_name": "옛날 짜장면",
+            "price": "6,500원"
+        },
+        {
+            "category": "",
+            "img_src": "",
+            "menu_name": "간짜장",
+            "price": "9,000원"
+        },
+        {
+            "category": "",
+            "img_src": "",
+            "menu_name": "삼선짜장",
+            "price": "12,000원"
+        },
+        {
+            "category": "",
+            "img_src": "",
+            "menu_name": "교동짬뽕",
+            "price": "8,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240328_82%2F1711604651035VSuAb_JPEG%2FIMG_6655.jpeg",
+            "menu_name": "주류 (소주,맥주)",
+            "price": "5,000원"
+        }
+    ]
+}

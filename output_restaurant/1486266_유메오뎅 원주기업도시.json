@@ -1,0 +1,98 @@
+{
+    "store_name": "유메오뎅 원주기업도시",
+    "store_location": "강원 원주시 지정면 무릉로 35-1 1층 106호",
+    "loc_x": "277575.413647863",
+    "loc_y": "430719.642327459",
+    "menu": [
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241206_76%2F1733471597675RIO1e_JPEG%2F%25C5%25D7%25B7%25E7%25C5%25D7%25B7%25E7%25B5%25F5%25BC%25B6.jpg",
+            "menu_name": "테루테루 딤섬 8pcs",
+            "price": "12,900원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241206_84%2F17334715739686VKPF_JPEG%2F%25B8%25F0%25C3%25F7%25B4%25CF_%25BF%25CF%25BC%25BA.jpg",
+            "menu_name": "모츠니(한우대창조림)",
+            "price": "14,900원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241206_5%2F1733471562546ICixJ_JPEG%2F%25C5%25B2%25C0%25DA%25C4%25ED.jpg",
+            "menu_name": "킨자쿠 카레우동",
+            "price": "13,900원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241206_180%2F1733471549543ojC8u_JPEG%2F%25B5%25BF%25B9%25B0%25C0%25C7%25BD%25A3%25C7%25AA%25B5%25F9_%25BF%25CF%25BC%25BA.jpg",
+            "menu_name": "동물의숲 푸딩과 찐빵",
+            "price": "13,900원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241206_138%2F1733471523827cB5OQ_JPEG%2F%25BD%25C3%25B8%25DE%25C3%25BB%25BE%25EE.jpg",
+            "menu_name": "시메청어(청어초절임)",
+            "price": "21,900원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241206_122%2F1733471500809xiQBs_PNG%2F%25B8%25B6%25B6%25F3%25BF%25C0%25B5%25AD.png",
+            "menu_name": "마라오뎅SET",
+            "price": "21,900원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241206_154%2F1733471488444QCoyF_JPEG%2F%25B0%25A1%25B6%25F3%25BE%25C6%25B0%25D4%25BC%25BC%25C6%25AE.jpg",
+            "menu_name": "가라아게SET",
+            "price": "25,900원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241206_100%2F1733471472803G5NJX_JPEG%2F%25C5%25B0%25B8%25AE%25B8%25F0%25C2%25EE%25BC%25BC%25C6%25AE.jpg",
+            "menu_name": "키리모찌SET",
+            "price": "23,900원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241206_17%2F1733471453395h3g4S_JPEG%2F%25B5%25E5%25B8%25B5%25C5%25A9_%252844%2529.jpg",
+            "menu_name": "유메소주300ml(체리)",
+            "price": "6,900원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241206_192%2F1733471397891LQ2nG_JPEG%2F%25B5%25E5%25B8%25B5%25C5%25A9_%252845%2529.jpg",
+            "menu_name": "유메소주300ml(유자)",
+            "price": "6,900원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241206_129%2F1733471367244HvJbR_JPEG%2F%25B8%25F0%25C2%25EE%25B8%25AE%25B5%25B5%25C8%25C4.jpg",
+            "menu_name": "투명모찌리도후",
+            "price": "11,900원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241206_282%2F1733471321350UVliO_JPEG%2F%25C5%25A5%25BF%25EC%25B8%25AE%25B3%25C3%25BF%25EC%25B5%25BF.jpg",
+            "menu_name": "큐우리 냉우동",
+            "price": "8,900원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241206_274%2F1733471295531ACSbV_JPEG%2F%25C4%25AB%25C5%25B0%25B0%25ED%25BF%25C0%25B8%25AE.jpg",
+            "menu_name": "카키고오리-백도(alc.3%)",
+            "price": "13,900원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241206_38%2F1733471268778ull2A_JPEG%2F%25BB%25E7%25C0%25CC%25B5%25E5_%252813%2529.jpg",
+            "menu_name": "카니미소(게딱지구이)",
+            "price": "11,900원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241206_262%2F173347124013177ps5_JPEG%2F%25B9%25AE%25BE%25EE%25B0%25A1%25B6%25F3%25BE%25C6%25B0%25D4_%25C8%25AE%25C0%25E5.jpg",
+            "menu_name": "문어가라아게",
+            "price": "19,900원"
+        }
+    ]
+}

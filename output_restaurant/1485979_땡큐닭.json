@@ -1,0 +1,182 @@
+{
+    "store_name": "땡큐닭",
+    "store_location": "대구 달서구 상화로29길 34 1층",
+    "loc_x": "338208.680435891",
+    "loc_y": "257880.743801189",
+    "menu": [
+        {
+            "category": "대표메뉴",
+            "img_src": "",
+            "menu_name": "담백한 순살 기본 구이치킨(650g)",
+            "price": "20,900원"
+        },
+        {
+            "category": "대표메뉴",
+            "img_src": "",
+            "menu_name": "[ 마라 ]바베큐양념 치킨(670g)",
+            "price": "22,900원"
+        },
+        {
+            "category": "대표메뉴",
+            "img_src": "",
+            "menu_name": "순한 바베큐양념 순살 치킨(670g)",
+            "price": "21,900원"
+        },
+        {
+            "category": "대표메뉴",
+            "img_src": "",
+            "menu_name": "매콤한 바베큐양념 순살 치킨(670g)",
+            "price": "22,900원"
+        },
+        {
+            "category": "대표메뉴",
+            "img_src": "",
+            "menu_name": "국물떡볶이(2인분)",
+            "price": "6,500원"
+        },
+        {
+            "category": "대표메뉴",
+            "img_src": "",
+            "menu_name": "선택 튀김(3가지선택)",
+            "price": "6,000원"
+        },
+        {
+            "category": "오픈서비스와 기본토핑",
+            "img_src": "",
+            "menu_name": "오픈 서비스제공 메뉴클릭후 선택",
+            "price": "1원"
+        },
+        {
+            "category": "오픈서비스와 기본토핑",
+            "img_src": "",
+            "menu_name": "치킨 기본토핑",
+            "price": "1원"
+        },
+        {
+            "category": "[ 메인 메뉴 ]",
+            "img_src": "",
+            "menu_name": "담백한 순살 기본 구이치킨(650g)",
+            "price": "20,900원"
+        },
+        {
+            "category": "[ 메인 메뉴 ]",
+            "img_src": "",
+            "menu_name": "순한 바베큐양념 순살 치킨(670g)",
+            "price": "21,900원"
+        },
+        {
+            "category": "[ 메인 메뉴 ]",
+            "img_src": "",
+            "menu_name": "매콤한 바베큐양념 순살 치킨(670g)",
+            "price": "22,900원"
+        },
+        {
+            "category": "[ 메인 메뉴 ]",
+            "img_src": "",
+            "menu_name": "[ 마라 ]바베큐양념 치킨(670g)",
+            "price": "22,900원"
+        },
+        {
+            "category": "[ 메인 메뉴 ]",
+            "img_src": "",
+            "menu_name": "[ 왕갈비 ] 바베큐양념 치킨(670g)",
+            "price": "21,900원"
+        },
+        {
+            "category": "[ 반반 한 닭 ]",
+            "img_src": "",
+            "menu_name": "기본 구이 치킨+순한 바베큐양념구이(670g)",
+            "price": "21,900원"
+        },
+        {
+            "category": "[ 반반 한 닭 ]",
+            "img_src": "",
+            "menu_name": "기본 구이치킨 + 매콤 바베큐양념 치킨(670g)",
+            "price": "22,900원"
+        },
+        {
+            "category": "[ 세트 한 닭]",
+            "img_src": "",
+            "menu_name": "기본 구이치킨+국물떡볶이(3~4인분)",
+            "price": "27,000원"
+        },
+        {
+            "category": "[ 세트 한 닭]",
+            "img_src": "",
+            "menu_name": "순한 바베큐양념 치킨+ 국물떡볶이(3~4인분)",
+            "price": "28,000원"
+        },
+        {
+            "category": "[ 세트 한 닭]",
+            "img_src": "",
+            "menu_name": "매콤 바베큐양념 치킨+국물떡볶이(3~4인분)",
+            "price": "29,000원"
+        },
+        {
+            "category": "[ 사이드 메뉴 ]",
+            "img_src": "",
+            "menu_name": "국물떡볶이(2인분)",
+            "price": "6,500원"
+        },
+        {
+            "category": "[ 사이드 메뉴 ]",
+            "img_src": "",
+            "menu_name": "떡볶이랑 튀김이랑(2~3인분)",
+            "price": "12,500원"
+        },
+        {
+            "category": "[ 사이드 메뉴 ]",
+            "img_src": "",
+            "menu_name": "선택 튀김(3가지선택)",
+            "price": "6,000원"
+        },
+        {
+            "category": "[ 사이드 메뉴 ]",
+            "img_src": "",
+            "menu_name": "양배추 샐러드",
+            "price": "2,000원"
+        },
+        {
+            "category": "[ 사이드 메뉴 ]",
+            "img_src": "",
+            "menu_name": "우동사리(기본 구이치킨x)(1인분)",
+            "price": "2,000원"
+        },
+        {
+            "category": "[ 사이드 메뉴 ]",
+            "img_src": "",
+            "menu_name": "치즈추가(기본구이치킨x)",
+            "price": "3,000원"
+        },
+        {
+            "category": "[ 사이드 메뉴 ]",
+            "img_src": "",
+            "menu_name": "치킨무",
+            "price": "500원"
+        },
+        {
+            "category": "[ 사이드 메뉴 ]",
+            "img_src": "",
+            "menu_name": "공기밥(1인분)",
+            "price": "1,000원"
+        },
+        {
+            "category": "[ 음료 ]",
+            "img_src": "",
+            "menu_name": "펩시 뚱캔(355ml)",
+            "price": "2,000원"
+        },
+        {
+            "category": "[ 음료 ]",
+            "img_src": "",
+            "menu_name": "펩시제로 뚱캔(355ml)",
+            "price": "2,000원"
+        },
+        {
+            "category": "[ 음료 ]",
+            "img_src": "",
+            "menu_name": "칠성사이다 뚱캔(355ml)",
+            "price": "2,000원"
+        }
+    ]
+}

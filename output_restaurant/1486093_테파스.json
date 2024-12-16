@@ -1,0 +1,14 @@
+{
+    "store_name": "테파스",
+    "store_location": "부산 수영구 수영로510번길 20 2층",
+    "loc_x": "392436.174653713",
+    "loc_y": "185579.506176362",
+    "menu": [
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241213_20%2F1734071621031mX8up_PNG%2FIMG_0038.png",
+            "menu_name": "TEPAS MENU",
+            "price": "1원"
+        }
+    ]
+}

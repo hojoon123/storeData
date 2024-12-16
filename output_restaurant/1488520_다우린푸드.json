@@ -1,0 +1,14 @@
+{
+    "store_name": "다우린푸드",
+    "store_location": "경북 김천시 자산로 147 3층 푸드코트",
+    "loc_x": "300544.530835278",
+    "loc_y": "292034.065172524",
+    "menu": [
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20231214_293%2F1702560425279qWdPd_JPEG%2F%25B0%25ED%25C3%25DF%25C2%25A5%25C0%25E5.jpg",
+            "menu_name": "다우린 짜장면",
+            "price": "6,500원"
+        }
+    ]
+}

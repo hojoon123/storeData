@@ -1,0 +1,284 @@
+{
+    "store_name": "동명카츠 서산석림점",
+    "store_location": "충남 서산시 한마음5로 46 102호",
+    "loc_x": "151434.662282528",
+    "loc_y": "363685.623066444",
+    "menu": [
+        {
+            "category": "인기 메뉴",
+            "img_src": "https://ldb-phinf.pstatic.net/20210806_28/16282461970553izm8_JPEG/03_%BE%C8%BD%C9%B5%B7%C4%AB%C3%F7.jpg?type=f220_220_60_sharpen",
+            "menu_name": "안심돈카츠(2ps, 소스 미포함)인기",
+            "price": "6,900원"
+        },
+        {
+            "category": "인기 메뉴",
+            "img_src": "https://ldb-phinf.pstatic.net/20210806_156/16282461818134qU5Q_JPEG/01_%B5%EE%BD%C9%B5%B7%C4%AB%C3%F7.jpg?type=f220_220_60_sharpen",
+            "menu_name": "등심돈카츠(소스 미포함)인기",
+            "price": "4,900원"
+        },
+        {
+            "category": "인기 메뉴",
+            "img_src": "https://ldb-phinf.pstatic.net/20210806_25/1628246205235LiUOb_JPEG/04_%C4%A1%C1%EE%B5%B7%C4%AB%C3%F7.jpg?type=f220_220_60_sharpen",
+            "menu_name": "치즈돈카츠(소스 미포함)인기",
+            "price": "5,900원"
+        },
+        {
+            "category": "인기 메뉴",
+            "img_src": "https://ldb-phinf.pstatic.net/20210806_201/1628246121296iNOVO_JPEG/02_%BE%C8%BD%C9%B5%B5%BD%C3%B6%F4.jpg?type=f220_220_60_sharpen",
+            "menu_name": "안심 도시락(안심2ps)인기",
+            "price": "11,000원"
+        },
+        {
+            "category": "동명 도시락",
+            "img_src": "https://ldb-phinf.pstatic.net/20210806_293/1628246110655ziwxJ_JPEG/01_%B5%EE%BD%C9%B5%B5%BD%C3%B6%F4.jpg?type=f220_220_60_sharpen",
+            "menu_name": "등심 도시락(등심1ps)",
+            "price": "9,000원"
+        },
+        {
+            "category": "동명 도시락",
+            "img_src": "https://ldb-phinf.pstatic.net/20210806_201/1628246121296iNOVO_JPEG/02_%BE%C8%BD%C9%B5%B5%BD%C3%B6%F4.jpg?type=f220_220_60_sharpen",
+            "menu_name": "안심 도시락(안심2ps)인기",
+            "price": "11,000원"
+        },
+        {
+            "category": "동명 도시락",
+            "img_src": "https://ldb-phinf.pstatic.net/20210806_138/1628246149842TAAgB_JPEG/05_%B4%F5%BA%ED%C4%A1%C1%EE%B5%B5%BD%C3%B6%F4.jpg?type=f220_220_60_sharpen",
+            "menu_name": "더블치즈 도시락(더블치즈1ps)",
+            "price": "11,000원"
+        },
+        {
+            "category": "동명 도시락",
+            "img_src": "https://ldb-phinf.pstatic.net/20210806_287/1628246138672K6y0W_JPEG/04_%B0%ED%C4%A1%B5%B7%B5%B5%BD%C3%B6%F4.jpg?type=f220_220_60_sharpen",
+            "menu_name": "고치돈 도시락(고치돈1ps)",
+            "price": "10,000원"
+        },
+        {
+            "category": "동명 도시락",
+            "img_src": "https://ldb-phinf.pstatic.net/20210806_201/1628246129551sg0fI_JPEG/03_%C4%A1%C1%EE%B5%B5%BD%C3%B6%F4.jpg?type=f220_220_60_sharpen",
+            "menu_name": "치즈 도시락(치즈1ps)",
+            "price": "10,000원"
+        },
+        {
+            "category": "동명 도시락",
+            "img_src": "https://ldb-phinf.pstatic.net/20210806_167/1628246166687CyWuC_JPEG/07_%BB%FD%BC%B1%C4%BF%C6%B2%B7%BF%B5%B5%BD%C3%B6%F4.jpg?type=f220_220_60_sharpen",
+            "menu_name": "생선커틀렛 도시락(생선커틀렛2ps)",
+            "price": "11,000원"
+        },
+        {
+            "category": "동명 도시락",
+            "img_src": "https://ldb-phinf.pstatic.net/20210806_220/1628246158474ygdvq_JPEG/06_%C4%A1%C5%B2%C5%D9%B4%F5%B5%B5%BD%C3%B6%F4.jpg?type=f220_220_60_sharpen",
+            "menu_name": "치킨텐더 도시락(치킨텐더4ps)",
+            "price": "10,000원"
+        },
+        {
+            "category": "동명 단품메뉴",
+            "img_src": "https://ldb-phinf.pstatic.net/20210806_156/16282461818134qU5Q_JPEG/01_%B5%EE%BD%C9%B5%B7%C4%AB%C3%F7.jpg?type=f220_220_60_sharpen",
+            "menu_name": "등심돈카츠(소스 미포함)인기",
+            "price": "4,900원"
+        },
+        {
+            "category": "동명 단품메뉴",
+            "img_src": "https://ldb-phinf.pstatic.net/20210806_28/16282461970553izm8_JPEG/03_%BE%C8%BD%C9%B5%B7%C4%AB%C3%F7.jpg?type=f220_220_60_sharpen",
+            "menu_name": "안심돈카츠(2ps, 소스 미포함)인기",
+            "price": "6,900원"
+        },
+        {
+            "category": "동명 단품메뉴",
+            "img_src": "https://ldb-phinf.pstatic.net/20210806_25/1628246205235LiUOb_JPEG/04_%C4%A1%C1%EE%B5%B7%C4%AB%C3%F7.jpg?type=f220_220_60_sharpen",
+            "menu_name": "치즈돈카츠(소스 미포함)인기",
+            "price": "5,900원"
+        },
+        {
+            "category": "동명 단품메뉴",
+            "img_src": "https://ldb-phinf.pstatic.net/20210806_88/1628246221294Ph8aL_JPEG/06_%B4%F5%BA%ED%C4%A1%C1%EE%B5%B7%C4%AB%C3%F7.jpg?type=f220_220_60_sharpen",
+            "menu_name": "더블치즈돈카츠(소스 미포함)",
+            "price": "6,900원"
+        },
+        {
+            "category": "동명 단품메뉴",
+            "img_src": "https://ldb-phinf.pstatic.net/20210806_158/16282462128590IQOy_JPEG/05_%B0%ED%B1%B8%B8%B6%C4%A1%C1%EE%B5%B7%C4%AB%C3%F7.jpg?type=f220_220_60_sharpen",
+            "menu_name": "고구마치즈돈카츠(소스 미포함)",
+            "price": "5,900원"
+        },
+        {
+            "category": "동명 단품메뉴",
+            "img_src": "https://ldb-phinf.pstatic.net/20210806_2/1628246228870n2idh_JPEG/07_%C4%A1%C5%B2%C5%D9%B4%F5%C4%BF%C6%B2%B7%BF.jpg?type=f220_220_60_sharpen",
+            "menu_name": "치킨텐더커틀렛(4ps, 소스 미포함)",
+            "price": "5,000원"
+        },
+        {
+            "category": "동명 단품메뉴",
+            "img_src": "https://ldb-phinf.pstatic.net/20210806_190/1628246237358CTyLQ_JPEG/08_%BB%FD%BC%B1%C4%BF%C6%B2%B7%BF.jpg?type=f220_220_60_sharpen",
+            "menu_name": "생선커틀렛(소스 미포함)",
+            "price": "3,500원"
+        },
+        {
+            "category": "동명 세트메뉴",
+            "img_src": "",
+            "menu_name": "모듬카츠SET1",
+            "price": "16,200원"
+        },
+        {
+            "category": "동명 세트메뉴",
+            "img_src": "",
+            "menu_name": "모듬카츠SET2",
+            "price": "15,200원"
+        },
+        {
+            "category": "동명 세트메뉴",
+            "img_src": "",
+            "menu_name": "모듬카츠SET3",
+            "price": "17,300원"
+        },
+        {
+            "category": "동명 세트메뉴",
+            "img_src": "",
+            "menu_name": "모듬카츠SET4",
+            "price": "27,900원"
+        },
+        {
+            "category": "동명 일품요리",
+            "img_src": "https://ldb-phinf.pstatic.net/20210806_37/1628246274366QcByH_JPEG/03_%B1%B9%B9%B0%B4%A9%B5%E9%B6%B1%BA%BA%C0%CC.jpg?type=f220_220_60_sharpen",
+            "menu_name": "국물누들떡볶이(1인분)",
+            "price": "6,500원"
+        },
+        {
+            "category": "동명 일품요리",
+            "img_src": "https://ldb-phinf.pstatic.net/20210806_299/16282462820833vPG9_PNG/04_%B7%CE%C1%A6%B4%A9%B5%E9%B6%B1%BA%BA%C0%CC.png?type=f220_220_60_sharpen",
+            "menu_name": "로제누들떡볶이(1인분)",
+            "price": "7,000원"
+        },
+        {
+            "category": "동명 일품요리",
+            "img_src": "https://ldb-phinf.pstatic.net/20210806_249/1628246290262oBQJX_JPEG/05_%C0%AF%BA%CE%BF%EC%B5%BF.jpg?type=f220_220_60_sharpen",
+            "menu_name": "유부우동(1인분)",
+            "price": "6,000원"
+        },
+        {
+            "category": "동명 일품요리",
+            "img_src": "https://ldb-phinf.pstatic.net/20210806_200/16282462980842TfUV_JPEG/06_%B3%C3%B8%F0%B9%D0.jpg?type=f220_220_60_sharpen",
+            "menu_name": "냉모밀(1인분)",
+            "price": "6,500원"
+        },
+        {
+            "category": "동명 일품요리",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20240225_143/1708864837333372ph_PNG/image02.png?type=f220_220_60_sharpen",
+            "menu_name": "쫄면",
+            "price": "7,500원"
+        },
+        {
+            "category": "동명 일품요리",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20240225_288/17088648861899saqI_PNG/image01.png?type=f220_220_60_sharpen",
+            "menu_name": "직화 닭갈비 덮밥",
+            "price": "10,500원"
+        },
+        {
+            "category": "동명 일품요리",
+            "img_src": "",
+            "menu_name": "직화 오돌뼈 덮밥",
+            "price": "10,500원"
+        },
+        {
+            "category": "동명 일품요리",
+            "img_src": "",
+            "menu_name": "직화 제육덮밥",
+            "price": "10,500원"
+        },
+        {
+            "category": "동명 사이드메뉴",
+            "img_src": "https://ldb-phinf.pstatic.net/20210806_39/1628246313615oSdrk_JPEG/01_%B8%E0%BA%B8%BB%FE.jpg?type=f220_220_60_sharpen",
+            "menu_name": "멘보샤(4ea)",
+            "price": "4,900원"
+        },
+        {
+            "category": "동명 사이드메뉴",
+            "img_src": "https://ldb-phinf.pstatic.net/20210823_272/1629707477596u65hE_PNG/%BC%D2%B6%B1%BC%D2%B6%B1.png?type=f220_220_60_sharpen",
+            "menu_name": "소떡소떡",
+            "price": "2,500원"
+        },
+        {
+            "category": "동명 사이드메뉴",
+            "img_src": "https://ldb-phinf.pstatic.net/20210806_242/1628246328314aeeEF_JPEG/03_%BF%D5%BB%F5%BF%EC%C6%A2%B1%E8.jpg?type=f220_220_60_sharpen",
+            "menu_name": "왕새우튀김",
+            "price": "2,000원"
+        },
+        {
+            "category": "동명 사이드메뉴",
+            "img_src": "https://ldb-phinf.pstatic.net/20210806_59/1628246334941MS3oB_JPEG/04_%C4%A1%C1%EE%BA%BC.jpg?type=f220_220_60_sharpen",
+            "menu_name": "치즈볼(1ea)",
+            "price": "700원"
+        },
+        {
+            "category": "동명 사이드메뉴",
+            "img_src": "https://ldb-phinf.pstatic.net/20210806_15/1628246342854ATTEQ_JPEG/04_%C4%A1%C1%EE%BA%BC.jpg?type=f220_220_60_sharpen",
+            "menu_name": "치즈볼(4ea)",
+            "price": "2,500원"
+        },
+        {
+            "category": "동명 사이드메뉴",
+            "img_src": "https://ldb-phinf.pstatic.net/20210806_296/1628246368033vEmGR_JPEG/07_%B7%D5%C4%A1%C1%EE%BD%BA%C6%BD.jpg?type=f220_220_60_sharpen",
+            "menu_name": "롱치즈스틱(1ea)",
+            "price": "1,500원"
+        },
+        {
+            "category": "동명 사이드메뉴",
+            "img_src": "https://ldb-phinf.pstatic.net/20210806_290/1628246379217PlVmt_JPEG/08_%B0%ED%C3%DF%BC%DB%BC%DB%B0%ED%B1%E2%B8%BB%C0%CC.jpg?type=f220_220_60_sharpen",
+            "menu_name": "고추송송고기말이(4ea)",
+            "price": "2,500원"
+        },
+        {
+            "category": "동명 사이드메뉴",
+            "img_src": "https://ldb-phinf.pstatic.net/20210806_110/1628246386735jpeqo_JPEG/09_%B9%CC%B4%CF%B0%A8%C0%DA%B0%ED%B7%CE%C4%C9.jpg?type=f220_220_60_sharpen",
+            "menu_name": "미니 감자고로케(2ea)",
+            "price": "1,500원"
+        },
+        {
+            "category": "동명 전용소스",
+            "img_src": "https://ldb-phinf.pstatic.net/20210806_60/16282464002752bp77_JPEG/01_%B5%B7%C4%AB%C3%F7%BC%D2%BD%BA.jpg?type=f220_220_60_sharpen",
+            "menu_name": "돈카츠 소스(40g)",
+            "price": "500원"
+        },
+        {
+            "category": "동명 전용소스",
+            "img_src": "https://ldb-phinf.pstatic.net/20210806_231/1628246407451cLdSi_JPEG/02_%B5%B7%C4%AB%C3%F7%BC%D2%BD%BA%2880g%29.jpg?type=f220_220_60_sharpen",
+            "menu_name": "돈카츠 소스(80g)",
+            "price": "1,000원"
+        },
+        {
+            "category": "동명 전용소스",
+            "img_src": "https://ldb-phinf.pstatic.net/20210806_266/16282464139933KPp8_JPEG/03_%B8%C5%C4%DE%C4%A5%B8%AE%BC%D2%BD%BA.jpg?type=f220_220_60_sharpen",
+            "menu_name": "매콤달콤칠리소스(40g)",
+            "price": "500원"
+        },
+        {
+            "category": "동명 전용소스",
+            "img_src": "https://ldb-phinf.pstatic.net/20210806_179/1628246425765pSXgb_JPEG/04_%C5%B8%B8%A3%C5%B8%B8%A3%BC%D2%BD%BA.jpg?type=f220_220_60_sharpen",
+            "menu_name": "타르타르 소스(40g)",
+            "price": "500원"
+        },
+        {
+            "category": "동명 전용소스",
+            "img_src": "https://ldb-phinf.pstatic.net/20210806_155/1628246433526B57SP_JPEG/05_%BA%D2%B8%C5%C4%DE%BC%D2%BD%BA.jpg?type=f220_220_60_sharpen",
+            "menu_name": "(NEW)불 매콤 소스(100g)",
+            "price": "1,300원"
+        },
+        {
+            "category": "음료",
+            "img_src": "",
+            "menu_name": "음료 355ml(콜라/펩시제로/사이다/탐스파인)",
+            "price": "2,000원"
+        },
+        {
+            "category": "추가메뉴",
+            "img_src": "",
+            "menu_name": "공기밥",
+            "price": "1,000원"
+        },
+        {
+            "category": "추가메뉴",
+            "img_src": "",
+            "menu_name": "양배추샐러드",
+            "price": "1,000원"
+        }
+    ]
+}

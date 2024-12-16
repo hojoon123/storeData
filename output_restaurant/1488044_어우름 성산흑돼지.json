@@ -1,0 +1,86 @@
+{
+    "store_name": "어우름 성산흑돼지",
+    "store_location": "제주 서귀포시 성산읍 일출로 292 어우름 성산흑돼지",
+    "loc_x": "193877.695536275",
+    "loc_y": "-3631.52691150701",
+    "menu": [
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241203_113%2F1733230876201eB9uY_JPEG%2FAAA02925.jpg",
+            "menu_name": "돼지 숄더랙 목갈비(400~450g)",
+            "price": "46,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241203_283%2F1733230729057Ij7um_JPEG%2FAAA02952.jpg",
+            "menu_name": "가성비 런치세트 이벤트",
+            "price": "66,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241203_195%2F1733230839826QAyB0_JPEG%2FAAA02933.jpg",
+            "menu_name": "어우름 세트 600g",
+            "price": "66,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241203_16%2F1733230760482OiOOi_JPEG%2FAAA02936.jpg",
+            "menu_name": "꼬들살 400g",
+            "price": "45,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241203_131%2F1733230770527NOWh1_JPEG%2FAAA02989.jpg",
+            "menu_name": "제주전복뚝배기",
+            "price": "9,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241203_215%2F1733230817982hfthF_JPEG%2FAAA02968.jpg",
+            "menu_name": "달콤한 비빔국수",
+            "price": "7,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241203_265%2F1733230892017dkllY_JPEG%2FAAA03319.jpg",
+            "menu_name": "7일교차숙성 흑삼겹살 300g",
+            "price": "33,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241203_225%2F17332309080901GUJW_JPEG%2FAAA03376.jpg",
+            "menu_name": "10일 교차숙성 꽃목살 300g",
+            "price": "33,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241203_225%2F1733230810128H3C7e_JPEG%2FAAA02971.jpg",
+            "menu_name": "노란눈꽃 냉국수",
+            "price": "7,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241203_5%2F1733230779463JuhAL_JPEG%2FAAA03029.jpg",
+            "menu_name": "우리아이 된장국 (공기밥포함)",
+            "price": "4,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241203_218%2F1733230788653IWGSV_JPEG%2FAAA02990.jpg",
+            "menu_name": "복분자하이볼",
+            "price": "8,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241203_170%2F17332307969660BcIX_JPEG%2FAAA02992.jpg",
+            "menu_name": "복분자 하이볼 무알콜",
+            "price": "8,000원"
+        },
+        {
+            "category": "",
+            "img_src": "",
+            "menu_name": "콜키지",
+            "price": "20,000원"
+        }
+    ]
+}

@@ -1,0 +1,74 @@
+{
+    "store_name": "마라섬 용인흥덕점",
+    "store_location": "경기 용인시 기흥구 흥덕1로79번길 2 105호",
+    "loc_x": "206268.389938788",
+    "loc_y": "419228.11968509",
+    "menu": [
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240128_160%2F1706437326094KzRo6_JPEG%2F055A1741.jpg",
+            "menu_name": "마라탕",
+            "price": "2,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240128_219%2F1706437360683Lq9qx_JPEG%2F055A1747.jpg",
+            "menu_name": "마라샹궈",
+            "price": "3,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240128_78%2F1706437509514iHOeC_JPEG%2F055A1817_%25282%2529.jpg",
+            "menu_name": "딤섬 모듬 세트",
+            "price": "8,500원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240128_170%2F1706437386509tJ6Mg_JPEG%2F055A1789.jpg",
+            "menu_name": "꿔바로우 미니4p",
+            "price": "12,000원"
+        },
+        {
+            "category": "",
+            "img_src": "",
+            "menu_name": "레몬 크림 새우",
+            "price": "18,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240128_283%2F1706437477212b6ueS_JPEG%2F055A1773_%25282%2529.jpg",
+            "menu_name": "황금 계란 볶음밥",
+            "price": "8,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240128_112%2F1706415349862WoALs_JPEG%2F055A1838-min.jpg",
+            "menu_name": "통 새우 하가우",
+            "price": "9,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240128_41%2F1706415314426dtYcp_JPEG%2F055A1841-min.jpg",
+            "menu_name": "새우 소롱포",
+            "price": "8,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240128_67%2F17064152787820rwMv_JPEG%2F055A1844-min.jpg",
+            "menu_name": "고기 소롱포",
+            "price": "7,000원"
+        },
+        {
+            "category": "",
+            "img_src": "",
+            "menu_name": "신 마라 왕 교자",
+            "price": "7,000원"
+        },
+        {
+            "category": "",
+            "img_src": "",
+            "menu_name": "로제마라상궈",
+            "price": "3,500원"
+        }
+    ]
+}

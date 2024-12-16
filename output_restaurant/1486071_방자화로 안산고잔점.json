@@ -1,0 +1,98 @@
+{
+    "store_name": "방자화로 안산고잔점",
+    "store_location": "경기 안산시 단원구 당곡로 27 202호~205호",
+    "loc_x": "185133.958215408",
+    "loc_y": "424199.351585061",
+    "menu": [
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241201_15%2F1733035336469049f2_JPEG%2F0.KakaoTalk_20221021_074519788.jpg",
+            "menu_name": "방자한우스페셜 500g",
+            "price": "149,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241201_101%2F1733035306248pDWbH_JPEG%2F0.KakaoTalk_20221021_074542419.jpg",
+            "menu_name": "방자한우한판 500g",
+            "price": "138,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241201_81%2F1733035106821kG14h_JPEG%2F0.KakaoTalk_20221021_074539966.jpg",
+            "menu_name": "방자한돈모듬 (600g)",
+            "price": "62,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241201_217%2F1733035081326c0zey_JPEG%2F0.KakaoTalk_20221021_074532389.jpg",
+            "menu_name": "숙성 통삼겹(150g)",
+            "price": "16,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241201_277%2F1733035277723PFVDp_JPEG%2F0.KakaoTalk_20221021_074529760.jpg",
+            "menu_name": "등심 1++ (150g)",
+            "price": "39,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241201_6%2F1733035252321yR5VV_JPEG%2F0.KakaoTalk_20221021_074517299.jpg",
+            "menu_name": "살치살 (한정판매)1++ (150g)",
+            "price": "48,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241201_300%2F1733035224225grtxv_JPEG%2F0.KakaoTalk_20221021_074533619.jpg",
+            "menu_name": "안심 1+ (150g)",
+            "price": "47,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241201_26%2F17330352090717urRs_JPEG%2F0.KakaoTalk_20221021_074517299.jpg",
+            "menu_name": "갈빗살 1+ (150g)",
+            "price": "41,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241201_40%2F1733035186608JLblg_JPEG%2F0.KakaoTalk_20221021_074517299.jpg",
+            "menu_name": "치마살 1++ (150g)",
+            "price": "53,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241201_16%2F1733035058385BhJlr_JPEG%2F0.KakaoTalk_20221021_074531096.jpg",
+            "menu_name": "숙성 통목살 (150g)",
+            "price": "16,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241201_171%2F1733035041093eKvki_JPEG%2F0.KakaoTalk_20221021_074546356.jpg",
+            "menu_name": "숙성 항정살 (150g)",
+            "price": "18,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241201_181%2F1733035010526ai5hr_PNG%2F%25B4%25D9%25BF%25EE%25B7%25CE%25B5%25E5.png",
+            "menu_name": "한돈 양념구이 (200g)",
+            "price": "18,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241201_211%2F1733034932507F8x2U_JPEG%2F0.KakaoTalk_20221021_074525620.jpg",
+            "menu_name": "대패삼겹정식(2인이상주문)",
+            "price": "12,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241201_259%2F17330349078832TIOS_JPEG%2F0.KakaoTalk_20221021_074536214.jpg",
+            "menu_name": "우삼겹정식(2인이상주문)",
+            "price": "13,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241201_82%2F1733034872872ty1gx_JPEG%2F0.KakaoTalk_20221021_074543648.jpg",
+            "menu_name": "한우불고기전골",
+            "price": "13,000원"
+        }
+    ]
+}

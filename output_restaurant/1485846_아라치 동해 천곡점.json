@@ -1,0 +1,206 @@
+{
+    "store_name": "아라치 동해 천곡점",
+    "store_location": "강원 동해시 감추7길 22-11 101호 (천곡동)",
+    "loc_x": "387442.85653981",
+    "loc_y": "447865.127629454",
+    "menu": [
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241021_78%2F1729468686315StOh1_PNG%2F%25BE%25D6%25B0%25A3%25C0%25E5_%25B4%25F5%25BA%25ED%25B8%25B5_top_%25C0%25FA%25BF%25EB%25B7%25AE.png",
+            "menu_name": "크링크링 애간장 치킨",
+            "price": "21,800원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241021_136%2F1729468742822Eg1tE_PNG%2F%25BE%25E7%25B3%25E4_%25B4%25F5%25BA%25ED%25B8%25B5_top_%25C0%25FA%25BF%25EB%25B7%25AE.png",
+            "menu_name": "크링크링 양념 치킨",
+            "price": "21,800원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241021_180%2F1729468803299B5SHE_PNG%2F%25B0%25A5%25B8%25AF%25C5%25E5%25C5%25E5_%25C0%25FA%25BF%25EB%25B7%25AE.png",
+            "menu_name": "갈릭톡톡 치킨",
+            "price": "20,800원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240903_189%2F1725340334196pDPHo_JPEG%2F%25B9%25E8%25B9%25CE_%25B8%25DE%25B4%25BA%25C0%25CC%25B9%25CC%25C1%25F6_1280_X_960_%25C4%25A1%25C5%25B2_%25BB%25C0_%25BE%25C6%25B6%25F3%25C4%25A1%25BC%25BC%25C6%25AE1_%25C4%25A1%25C5%25B2_%25B0%25A8%25C0%25DA%25C6%25A2%25B1%25E8.jpg",
+            "menu_name": "페이커 굿즈 세트 1번",
+            "price": "22,800원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240903_184%2F17253403800985rO7u_JPEG%2F%25B9%25E8%25B9%25CE_%25B8%25DE%25B4%25BA%25C0%25CC%25B9%25CC%25C1%25F6_1280_X_960_%25C4%25A1%25C5%25B2_%25BB%25C0_%25BE%25C6%25B6%25F3%25C4%25A1%25BC%25BC%25C6%25AE2_%25C4%25A1%25C5%25B2_%25B6%25CB%25C1%25FD%25C8%25C4%25B6%25F3%25C0%25CC%25B5%25E5.jpg",
+            "menu_name": "페이커 굿즈 세트 2번",
+            "price": "25,800원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240903_152%2F17253404103386HcFk_JPEG%2F%25B9%25E8%25B9%25CE_%25B8%25DE%25B4%25BA%25C0%25CC%25B9%25CC%25C1%25F6_1280_X_960_%25C4%25A1%25C5%25B2_%25BB%25C0_%25BE%25C6%25B6%25F3%25C4%25A1%25BC%25BC%25C6%25AE3_%25C6%25AE%25B8%25AE%25C7%25C3%25BC%25BC%25C6%25AE_%25B0%25A8%25C0%25DA%25C6%25A2%25B1%25E8.jpg",
+            "menu_name": "페이커 굿즈 세트 3번",
+            "price": "30,800원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240807_154%2F1722991681598hlANw_PNG%2FKakaoTalk_20240807_094154877.png",
+            "menu_name": "트리플 세트",
+            "price": "29,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240327_51%2F1711511658611MctVV_PNG%2F%25BE%25D6%25B0%25A3%25C0%25E5_%25C4%25A1%25C5%25B2_top_%25C0%25FA%25BF%25EB%25B7%25AE.png",
+            "menu_name": "애간장 치킨",
+            "price": "20,800원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240229_270%2F1709186370257lGd2u_PNG%2F%25B9%25D9%25C1%25FA%25BE%25D6%25B0%25A3%25C0%25E5_top_%25C0%25FA%25BF%25EB%25B7%25AE.png",
+            "menu_name": "바질 애간장 치킨",
+            "price": "21,800원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240229_180%2F1709186351250rPFBe_PNG%2F%25B0%25ED%25C3%25DF%25BE%25D6%25B0%25A3%25C0%25E5_top_%25C0%25FA%25BF%25EB%25B7%25AE.png",
+            "menu_name": "고추 애간장 치킨",
+            "price": "21,800원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240327_247%2F1711511678526TO6vF_PNG%2F%25C6%25C4%25C6%25A2%25C6%25C4%25C6%25A2_top_%25C0%25FA%25BF%25EB%25B7%25AE.png",
+            "menu_name": "파튀파튀 치킨",
+            "price": "21,800원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240327_125%2F1711511694040IcBPF_PNG%2F%25B1%25F1%25C7%25B3%25C6%25C4%25C6%25A2_top_%25C0%25FA%25BF%25EB%25B7%25AE.png",
+            "menu_name": "깐풍파튀 치킨",
+            "price": "21,800원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240327_220%2F1711511703255zlXxq_PNG%2F%25B9%25D9%25BB%25E7%25BB%25E8_%25C8%25C4%25B6%25F3%25C0%25CC%25B5%25E5_top_%25C0%25FA%25BF%25EB%25B7%25AE.png",
+            "menu_name": "바사삭 후라이드",
+            "price": "18,800원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240327_203%2F1711511710734QLaGC_PNG%2F%25B8%25C5%25BF%25EE_%25B0%25A3%25C0%25E5_%25C4%25A1%25C5%25B2_top_%25C0%25FA%25BF%25EB%25B7%25AE.png",
+            "menu_name": "매운 간장 치킨",
+            "price": "20,800원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240327_200%2F17115117246177QCIv_PNG%2F%25B0%25ED%25C3%25DF%25C0%25E5%25C6%25FE%25B4%25E7_top_%25C0%25FA%25BF%25EB%25B7%25AE.png",
+            "menu_name": "고추장 퐁당 치킨",
+            "price": "20,800원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240327_92%2F171151173790319d1C_PNG%2F%25C6%25C4%25B4%25DF_top_%25C0%25FA%25BF%25EB%25B7%25AE.png",
+            "menu_name": "산더미 파닭",
+            "price": "20,800원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240327_146%2F1711511747927tDnGh_PNG%2F%25BE%25E7%25B3%25E4%25C4%25A1%25C5%25B2_top_%25C0%25FA%25BF%25EB%25B7%25AE.png",
+            "menu_name": "양념 치킨",
+            "price": "20,800원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240327_221%2F1711511756574wHOKG_PNG%2F%25BB%25E7%25B8%25A3%25B8%25A3%25C4%25A1%25C5%25B2_top_%25C0%25FA%25BF%25EB%25B7%25AE.png",
+            "menu_name": "사르르 치킨",
+            "price": "20,800원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240229_151%2F17091866377867FxI6_PNG%2F%25C5%25A9%25B7%25B1%25C4%25A1%25C4%25A1%25C5%25B2_%25C0%25FA%25BF%25EB%25B7%25AE.png",
+            "menu_name": "크런치 치킨",
+            "price": "15,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240313_247%2F1710308588703WCN5J_PNG%2F%25BE%25C6%25B6%25F3%25C4%25A1_%25BA%25F1%25BA%25F6%25B8%25E9_top_%25C0%25FA%25BF%25EB%25B7%25AE.png",
+            "menu_name": "아라치 비빔면",
+            "price": "5,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240313_5%2F1710308615084x6P12_PNG%2F7080%25B1%25B9%25B9%25B0%25B6%25B1%25BA%25BA%25C0%25CC_top_%25C0%25FA%25BF%25EB%25B7%25AE.png",
+            "menu_name": "7080 국물 떡볶이",
+            "price": "6,500원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240805_290%2F1722824860945J8Ejn_PNG%2F%25B9%25DD%25B4%25DE%25C4%25A1%25C1%25EE%25B0%25A8%25C0%25DA%25282ea%2529_top_%25C0%25FA%25BF%25EB%25B7%25AE.png",
+            "menu_name": "반달치즈감자",
+            "price": "12,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240313_277%2F1710308668406PoPor_PNG%2F%25B8%25F0%25B5%25D2%25B0%25A8%25C0%25DA_top_%25C0%25FA%25BF%25EB%25B7%25AE.png",
+            "menu_name": "모둠감자",
+            "price": "9,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240313_99%2F17103086944197k0sB_PNG%2F%25BC%25D2%25B6%25B1%25BC%25D2%25B6%25B1_top_%25C0%25FA%25BF%25EB%25B7%25AE.png",
+            "menu_name": "소떡소떡",
+            "price": "3,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240805_130%2F1722824959682Dz3zc_PNG%2F%25B1%25B9%25B9%25B0%25B4%25DF%25B9%25DF_top_%25C0%25FA%25BF%25EB%25B7%25AE.png",
+            "menu_name": "국물 닭발",
+            "price": "18,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240805_94%2F1722824947485lY7We_PNG%2F%25B9%25AB%25BB%25C0%25B4%25DF%25B9%25E0_%25B4%25A9%25B3%25A2_%25C0%25FA%25BF%25EB%25B7%25AE.png",
+            "menu_name": "직화 무뼈닭발",
+            "price": "18,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240805_93%2F1722824908275piKjH_PNG%2F%25C2%25F7%25B5%25B9%25C2%25AB%25BB%25CD%25C5%25C1_%25B4%25A9%25B3%25A2_%25C0%25FA%25BF%25EB%25B7%25AE.png",
+            "menu_name": "차돌 짬뽕탕",
+            "price": "20,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240805_82%2F1722825281724VfSny_PNG%2F%25C7%25D8%25B9%25B0%25C2%25AB%25BB%25CD%25C5%25C1_%25B4%25A9%25B3%25A2_%25C0%25FA%25BF%25EB%25B7%25AE.png",
+            "menu_name": "해물 짬뽕탕",
+            "price": "18,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240805_36%2F17228252947860Tpm1_PNG%2F%25BE%25EE%25B9%25AC%25C5%25C1_%25C0%25FA%25BF%25EB%25B7%25AE.png",
+            "menu_name": "어묵탕",
+            "price": "15,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240805_96%2F17228249279795goWK_PNG%2F%25C2%25CC%25B9%25F0%25C0%25CC_top_%25C0%25FA%25BF%25EB%25B7%25AE.png",
+            "menu_name": "쫄뱅이",
+            "price": "19,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240805_202%2F1722824971478KjKa0_PNG%2F%25BF%25C0%25B5%25B9%25BB%25C0_%25B4%25A9%25B3%25A2_%25C0%25FA%25BF%25EB%25B7%25AE.png",
+            "menu_name": "오돌뼈",
+            "price": "16,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240805_187%2F1722825002250OG22x_PNG%2F%25B8%25F0%25B5%25D2%25C6%25F7_%25B4%25A9%25B3%25A2_%25C0%25FA%25BF%25EB%25B7%25AE.png",
+            "menu_name": "모둠포",
+            "price": "13,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240805_91%2F1722825013940qxTvl_PNG%2F%25B8%25D4%25C5%25C2_%25B4%25A9%25B3%25A2_%25C0%25FA%25BF%25EB%25B7%25AE.png",
+            "menu_name": "먹태",
+            "price": "15,000원"
+        }
+    ]
+}

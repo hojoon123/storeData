@@ -1,0 +1,14 @@
+{
+    "store_name": "라사천마라탕 울산달동점",
+    "store_location": "울산 남구 돋질로 202",
+    "loc_x": "411012.929467237",
+    "loc_y": "229381.789678297",
+    "menu": [
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20231005_138%2F1696472646348TrfJM_PNG%2F20230215_115750.png",
+            "menu_name": "마라탕",
+            "price": "변동"
+        }
+    ]
+}

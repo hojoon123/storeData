@@ -1,0 +1,428 @@
+{
+    "store_name": "겟레디커피",
+    "store_location": "경기 하남시 미사강변동로 127 경서타워 1층 110호",
+    "loc_x": "216809.580749603",
+    "loc_y": "451560.940535611",
+    "menu": [
+        {
+            "category": "새로 나온 메뉴",
+            "img_src": "",
+            "menu_name": "밤 크림라떼N",
+            "price": "6,000원"
+        },
+        {
+            "category": "인기 메뉴",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20240517_72/1715928079412TOGlz_JPEG/KakaoTalk_20240517_144621535.jpg?type=f220_220_60_sharpen",
+            "menu_name": "아메리카노인기대표",
+            "price": "3,500원"
+        },
+        {
+            "category": "인기 메뉴",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20240509_300/17152384512986m88c_JPEG/KakaoTalk_20240502_134451890_08.jpg?type=f220_220_60_sharpen",
+            "menu_name": "클래식 샌드위치인기대표",
+            "price": "5,900원"
+        },
+        {
+            "category": "인기 메뉴",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20240509_210/17152386330598gxUh_JPEG/KakaoTalk_20240502_134451890_10.jpg?type=f220_220_60_sharpen",
+            "menu_name": "당근라페 샌드위치인기",
+            "price": "6,300원"
+        },
+        {
+            "category": "인기 메뉴",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20240623_12/17191517097677kT3Q_PNG/KakaoTalk_20240623_223743293_01.png?type=f220_220_60_sharpen",
+            "menu_name": "카페라떼인기",
+            "price": "4,000원"
+        },
+        {
+            "category": "인기 메뉴",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20240710_141/1720574052461SLebs_JPEG/KakaoTalk_20240702_122053180_05.jpg?type=f220_220_60_sharpen",
+            "menu_name": "매콤치킨텐더 샌드위치매운맛1단계인기",
+            "price": "7,100원"
+        },
+        {
+            "category": "사장님 추천 메뉴",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20240509_51/1715237373180VXzPO_JPEG/KakaoTalk_20240416_112235245.jpg?type=f220_220_60_sharpen",
+            "menu_name": "페퍼로니 피자빵대표",
+            "price": "4,300원"
+        },
+        {
+            "category": "사장님 추천 메뉴",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20240509_300/17152384512986m88c_JPEG/KakaoTalk_20240502_134451890_08.jpg?type=f220_220_60_sharpen",
+            "menu_name": "클래식 샌드위치인기대표",
+            "price": "5,900원"
+        },
+        {
+            "category": "사장님 추천 메뉴",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20240517_72/1715928079412TOGlz_JPEG/KakaoTalk_20240517_144621535.jpg?type=f220_220_60_sharpen",
+            "menu_name": "아메리카노인기대표",
+            "price": "3,500원"
+        },
+        {
+            "category": "사장님 추천 메뉴",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20240527_173/1716788618158kNLor_JPEG/KakaoTalk_20240402_141942348.jpg?type=f220_220_60_sharpen",
+            "menu_name": "샌드위치+아메리카노 세트대표",
+            "price": "7,900원"
+        },
+        {
+            "category": "사장님 추천 메뉴",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20241104_208/1730708372812fWHCn_PNG/%C5%A9%B8%B2%B6%F3%B6%BC.png?type=f220_220_60_sharpen",
+            "menu_name": "겟레디 크림라떼대표",
+            "price": "5,000원"
+        },
+        {
+            "category": "피자빵",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20240509_45/17152374574645XSRK_JPEG/KakaoTalk_20240509_155032033.jpg?type=f220_220_60_sharpen",
+            "menu_name": "고구마 피자빵",
+            "price": "4,500원"
+        },
+        {
+            "category": "피자빵",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20240509_51/1715237373180VXzPO_JPEG/KakaoTalk_20240416_112235245.jpg?type=f220_220_60_sharpen",
+            "menu_name": "페퍼로니 피자빵대표",
+            "price": "4,300원"
+        },
+        {
+            "category": "피자빵",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20240614_263/1718322376839V01As_JPEG/SE-0db958d8-f1c1-4457-86e4-2c1e8ffbcd42.jpg?type=f220_220_60_sharpen",
+            "menu_name": "소불고기 피자빵",
+            "price": "4,900원"
+        },
+        {
+            "category": "샌드위치",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20240509_300/17152384512986m88c_JPEG/KakaoTalk_20240502_134451890_08.jpg?type=f220_220_60_sharpen",
+            "menu_name": "클래식 샌드위치인기대표",
+            "price": "5,900원"
+        },
+        {
+            "category": "샌드위치",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20240509_210/17152386330598gxUh_JPEG/KakaoTalk_20240502_134451890_10.jpg?type=f220_220_60_sharpen",
+            "menu_name": "당근라페 샌드위치인기",
+            "price": "6,300원"
+        },
+        {
+            "category": "샌드위치",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20240511_99/1715403956006oCMoh_JPEG/SE-4a00aedf-571c-41e6-8f45-ea423c42d17e.jpg?type=f220_220_60_sharpen",
+            "menu_name": "참치샐러드 샌드위치",
+            "price": "6,500원"
+        },
+        {
+            "category": "샌드위치",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20240511_42/1715404008395nh8r5_JPEG/KakaoTalk_20240331_143106887_08.jpg?type=f220_220_60_sharpen",
+            "menu_name": "에그마요 샌드위치",
+            "price": "5,500원"
+        },
+        {
+            "category": "샌드위치",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20240602_65/17173114671139JAN3_JPEG/%C1%A6%B8%F1%C0%BB-%C0%D4%B7%C2%C7%D8%C1%D6%BC%BC%BF%E4_-022.jpg?type=f220_220_60_sharpen",
+            "menu_name": "매콤마요소불고기 샌드위치매운맛1단계",
+            "price": "7,300원"
+        },
+        {
+            "category": "샌드위치",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20240520_175/1716164799427RbPtL_PNG/%C1%A6%B8%F1%C0%BB-%C0%D4%B7%C2%C7%D8%C1%D6%BC%BC%BF%E4_-018.png?type=f220_220_60_sharpen",
+            "menu_name": "크로크무슈",
+            "price": "4,900원"
+        },
+        {
+            "category": "샌드위치",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20240527_173/1716788618158kNLor_JPEG/KakaoTalk_20240402_141942348.jpg?type=f220_220_60_sharpen",
+            "menu_name": "샌드위치+아메리카노 세트대표",
+            "price": "7,900원"
+        },
+        {
+            "category": "샌드위치",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20240710_141/1720574052461SLebs_JPEG/KakaoTalk_20240702_122053180_05.jpg?type=f220_220_60_sharpen",
+            "menu_name": "매콤치킨텐더 샌드위치매운맛1단계인기",
+            "price": "7,100원"
+        },
+        {
+            "category": "커피",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20240517_72/1715928079412TOGlz_JPEG/KakaoTalk_20240517_144621535.jpg?type=f220_220_60_sharpen",
+            "menu_name": "아메리카노인기대표",
+            "price": "3,500원"
+        },
+        {
+            "category": "커피",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20240623_12/17191517097677kT3Q_PNG/KakaoTalk_20240623_223743293_01.png?type=f220_220_60_sharpen",
+            "menu_name": "카페라떼인기",
+            "price": "4,000원"
+        },
+        {
+            "category": "커피",
+            "img_src": "",
+            "menu_name": "바닐라라떼",
+            "price": "4,500원"
+        },
+        {
+            "category": "커피",
+            "img_src": "",
+            "menu_name": "카페모카",
+            "price": "4,500원"
+        },
+        {
+            "category": "커피",
+            "img_src": "",
+            "menu_name": "캬라멜마끼아또",
+            "price": "4,500원"
+        },
+        {
+            "category": "커피",
+            "img_src": "",
+            "menu_name": "돌체라떼",
+            "price": "4,500원"
+        },
+        {
+            "category": "커피",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20241104_208/1730708372812fWHCn_PNG/%C5%A9%B8%B2%B6%F3%B6%BC.png?type=f220_220_60_sharpen",
+            "menu_name": "겟레디 크림라떼대표",
+            "price": "5,000원"
+        },
+        {
+            "category": "커피",
+            "img_src": "",
+            "menu_name": "밤 크림라떼N",
+            "price": "6,000원"
+        },
+        {
+            "category": "스페셜커피",
+            "img_src": "",
+            "menu_name": "게이샤 콜드브루",
+            "price": "5,500원"
+        },
+        {
+            "category": "스페셜커피",
+            "img_src": "",
+            "menu_name": "게이샤 콜드브루 라떼",
+            "price": "6,000원"
+        },
+        {
+            "category": "스페셜커피",
+            "img_src": "",
+            "menu_name": "게이샤 아메리카노",
+            "price": "5,000원"
+        },
+        {
+            "category": "스무디",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20240528_83/1716881698114wvpEe_PNG/KakaoTalk_20240528_154354766.png?type=f220_220_60_sharpen",
+            "menu_name": "배스무디",
+            "price": "4,900원"
+        },
+        {
+            "category": "스무디",
+            "img_src": "",
+            "menu_name": "딸기스무디",
+            "price": "4,900원"
+        },
+        {
+            "category": "스무디",
+            "img_src": "",
+            "menu_name": "망고스무디",
+            "price": "4,900원"
+        },
+        {
+            "category": "스무디",
+            "img_src": "",
+            "menu_name": "블루베리스무디",
+            "price": "4,900원"
+        },
+        {
+            "category": "스무디",
+            "img_src": "",
+            "menu_name": "플레인요거트스무디",
+            "price": "5,200원"
+        },
+        {
+            "category": "스무디",
+            "img_src": "",
+            "menu_name": "딸기요거트스무디",
+            "price": "5,200원"
+        },
+        {
+            "category": "스무디",
+            "img_src": "",
+            "menu_name": "블루베리요거트스무디",
+            "price": "5,200원"
+        },
+        {
+            "category": "스무디",
+            "img_src": "",
+            "menu_name": "밀크쉐이크",
+            "price": "4,900원"
+        },
+        {
+            "category": "스무디",
+            "img_src": "",
+            "menu_name": "커피밀크쉐이크",
+            "price": "5,900원"
+        },
+        {
+            "category": "스무디",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20240801_270/1722474673886stukr_JPEG/009.jpg?type=f220_220_60_sharpen",
+            "menu_name": "미숫가루스무디",
+            "price": "4,900원"
+        },
+        {
+            "category": "에이드",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20240623_249/1719151898870aKLCN_JPEG/KakaoTalk_20231212_211453864_21.jpg?type=f220_220_60_sharpen",
+            "menu_name": "자몽에이드",
+            "price": "4,900원"
+        },
+        {
+            "category": "에이드",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20240623_113/1719151931996nuNMi_JPEG/KakaoTalk_20231212_211453864_20.jpg?type=f220_220_60_sharpen",
+            "menu_name": "레몬에이드",
+            "price": "4,900원"
+        },
+        {
+            "category": "에이드",
+            "img_src": "",
+            "menu_name": "유자에이드",
+            "price": "4,900원"
+        },
+        {
+            "category": "에이드",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20240807_198/1723008886332hHNrk_PNG/%C1%A6%B8%F1%C0%BB-%C0%D4%B7%C2%C7%D8%C1%D6%BC%BC%BF%E4_-010_%285%29.png?type=f220_220_60_sharpen",
+            "menu_name": "청포도에이드",
+            "price": "4,900원"
+        },
+        {
+            "category": "에이드",
+            "img_src": "",
+            "menu_name": "패션후르츠에이드",
+            "price": "4,900원"
+        },
+        {
+            "category": "주스",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20240530_292/1717074889752fADRt_JPEG/KakaoTalk_20240530_204524809_03.jpg?type=f220_220_60_sharpen",
+            "menu_name": "오렌지 착즙 주스",
+            "price": "6,500원"
+        },
+        {
+            "category": "주스",
+            "img_src": "",
+            "menu_name": "토마토 주스",
+            "price": "6,500원"
+        },
+        {
+            "category": "라떼",
+            "img_src": "",
+            "menu_name": "초코라떼",
+            "price": "4,400원"
+        },
+        {
+            "category": "라떼",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20240623_194/1719151805466LjvD2_JPEG/KakaoTalk_20231212_211513553_14.jpg?type=f220_220_60_sharpen",
+            "menu_name": "말차라떼",
+            "price": "4,400원"
+        },
+        {
+            "category": "라떼",
+            "img_src": "",
+            "menu_name": "로얄밀크티",
+            "price": "4,400원"
+        },
+        {
+            "category": "라떼",
+            "img_src": "",
+            "menu_name": "토피넛라떼",
+            "price": "4,400원"
+        },
+        {
+            "category": "라떼",
+            "img_src": "",
+            "menu_name": "진저라떼(생강라떼)",
+            "price": "4,900원"
+        },
+        {
+            "category": "라떼",
+            "img_src": "",
+            "menu_name": "딸기라떼",
+            "price": "4,900원"
+        },
+        {
+            "category": "라떼",
+            "img_src": "",
+            "menu_name": "바나나라떼",
+            "price": "4,400원"
+        },
+        {
+            "category": "라떼",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20241001_229/1727770454392YGR4m_PNG/006.png?type=f220_220_60_sharpen",
+            "menu_name": "자색고구마 라떼",
+            "price": "4,400원"
+        },
+        {
+            "category": "라떼",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20241001_296/1727769659457edKDW_PNG/007.png?type=f220_220_60_sharpen",
+            "menu_name": "보늬밤 라떼",
+            "price": "4,900원"
+        },
+        {
+            "category": "차",
+            "img_src": "",
+            "menu_name": "캐모마일",
+            "price": "4,000원"
+        },
+        {
+            "category": "차",
+            "img_src": "",
+            "menu_name": "페퍼민트",
+            "price": "4,000원"
+        },
+        {
+            "category": "차",
+            "img_src": "",
+            "menu_name": "루이보스",
+            "price": "4,000원"
+        },
+        {
+            "category": "차",
+            "img_src": "",
+            "menu_name": "피치블랙티",
+            "price": "4,500원"
+        },
+        {
+            "category": "차",
+            "img_src": "",
+            "menu_name": "복숭아 아이스티",
+            "price": "3,500원"
+        },
+        {
+            "category": "차",
+            "img_src": "",
+            "menu_name": "자몽차",
+            "price": "4,500원"
+        },
+        {
+            "category": "차",
+            "img_src": "",
+            "menu_name": "레몬차",
+            "price": "4,500원"
+        },
+        {
+            "category": "차",
+            "img_src": "",
+            "menu_name": "생강차",
+            "price": "4,500원"
+        },
+        {
+            "category": "차",
+            "img_src": "",
+            "menu_name": "레몬생강차",
+            "price": "4,500원"
+        },
+        {
+            "category": "디저트",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20240522_68/1716336295426aOyRY_JPEG/KakaoTalk_20240522_090248202.jpg?type=f220_220_60_sharpen",
+            "menu_name": "한입 러스크(100G)",
+            "price": "2,500원"
+        },
+        {
+            "category": "디저트",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20240522_67/1716336382803NxEKL_JPEG/KakaoTalk_20240522_090248202_01.jpg?type=f220_220_60_sharpen",
+            "menu_name": "초코 러스크(120G)",
+            "price": "3,000원"
+        }
+    ]
+}

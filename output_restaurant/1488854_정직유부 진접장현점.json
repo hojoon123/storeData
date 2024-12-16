@@ -1,0 +1,320 @@
+{
+    "store_name": "정직유부 진접장현점",
+    "store_location": "경기 남양주시 금강로1573번길 9 105호",
+    "loc_x": "217014.879718161",
+    "loc_y": "469986.060950564",
+    "menu": [
+        {
+            "category": "대표메뉴",
+            "img_src": "",
+            "menu_name": "청양마요 4P",
+            "price": "6,100원"
+        },
+        {
+            "category": "대표메뉴",
+            "img_src": "",
+            "menu_name": "어묵탕",
+            "price": "5,000원"
+        },
+        {
+            "category": "대표메뉴",
+            "img_src": "",
+            "menu_name": "어묵우동",
+            "price": "7,000원"
+        },
+        {
+            "category": "대표메뉴",
+            "img_src": "",
+            "menu_name": "재구매1위)시그니처8종도시락",
+            "price": "13,500원"
+        },
+        {
+            "category": "대표메뉴",
+            "img_src": "",
+            "menu_name": "(반반도시락) 유부 2P + 유부 2P",
+            "price": "6,100원"
+        },
+        {
+            "category": "대표메뉴",
+            "img_src": "",
+            "menu_name": "(속풀이해장) 순두부우동",
+            "price": "6,700원"
+        },
+        {
+            "category": "신규 출시",
+            "img_src": "",
+            "menu_name": "Hot 청양마요 4P세트",
+            "price": "11,100원"
+        },
+        {
+            "category": "신규 출시",
+            "img_src": "",
+            "menu_name": "Hot 청양마요 3P세트",
+            "price": "9,700원"
+        },
+        {
+            "category": "신규 출시",
+            "img_src": "",
+            "menu_name": "Hot 청양마요 모둠 세트",
+            "price": "15,600원"
+        },
+        {
+            "category": "신규 출시",
+            "img_src": "",
+            "menu_name": "청양마요 4P",
+            "price": "6,100원"
+        },
+        {
+            "category": "신규 출시",
+            "img_src": "",
+            "menu_name": "어묵탕",
+            "price": "5,000원"
+        },
+        {
+            "category": "신규 출시",
+            "img_src": "",
+            "menu_name": "어묵우동",
+            "price": "7,000원"
+        },
+        {
+            "category": "세트",
+            "img_src": "",
+            "menu_name": "재구매1위)시그니처8종도시락",
+            "price": "13,500원"
+        },
+        {
+            "category": "세트",
+            "img_src": "",
+            "menu_name": "[1인] 혼밥세트 (유부초밥3P+면1)",
+            "price": "9,300원"
+        },
+        {
+            "category": "세트",
+            "img_src": "",
+            "menu_name": "[1인] 혼밥세트 (반반유부4P+면1)",
+            "price": "11,600원"
+        },
+        {
+            "category": "세트",
+            "img_src": "",
+            "menu_name": "[1인] 떡볶이 찍먹세트",
+            "price": "9,100원"
+        },
+        {
+            "category": "단품[유부]",
+            "img_src": "",
+            "menu_name": "(반반도시락) 유부 2P + 유부 2P",
+            "price": "6,100원"
+        },
+        {
+            "category": "단품[유부]",
+            "img_src": "",
+            "menu_name": "정직유부 4p",
+            "price": "5,000원"
+        },
+        {
+            "category": "단품[유부]",
+            "img_src": "",
+            "menu_name": "참치마요유부 4p",
+            "price": "6,100원"
+        },
+        {
+            "category": "단품[유부]",
+            "img_src": "",
+            "menu_name": "볶음김치유부 4p",
+            "price": "6,100원"
+        },
+        {
+            "category": "단품[유부]",
+            "img_src": "",
+            "menu_name": "(100% 국내산) 불고기유부 4p",
+            "price": "6,100원"
+        },
+        {
+            "category": "단품[유부]",
+            "img_src": "",
+            "menu_name": "(프리미엄) 크래미와사마요유부 4p",
+            "price": "6,100원"
+        },
+        {
+            "category": "단품[유부]",
+            "img_src": "",
+            "menu_name": "(한정판매) 에그유부 4p",
+            "price": "6,100원"
+        },
+        {
+            "category": "단품[유부]",
+            "img_src": "",
+            "menu_name": "(닭다리살) 닭갈비유부 4p",
+            "price": "6,100원"
+        },
+        {
+            "category": "단품[유부]",
+            "img_src": "",
+            "menu_name": "(청양고추송송) 매콤참치유부 4p",
+            "price": "6,100원"
+        },
+        {
+            "category": "단품[유부]",
+            "img_src": "",
+            "menu_name": "(프리미엄) 감태 유부초밥",
+            "price": "5,900원"
+        },
+        {
+            "category": "단품[면]",
+            "img_src": "",
+            "menu_name": "(담백한)닭곰탕우동",
+            "price": "6,700원"
+        },
+        {
+            "category": "단품[면]",
+            "img_src": "",
+            "menu_name": "(속풀이해장) 순두부우동",
+            "price": "6,700원"
+        },
+        {
+            "category": "단품[면]",
+            "img_src": "",
+            "menu_name": "삼겹비빔면",
+            "price": "5,700원"
+        },
+        {
+            "category": "단품[면]",
+            "img_src": "",
+            "menu_name": "(BEST) 정직우동",
+            "price": "5,500원"
+        },
+        {
+            "category": "단품[면]",
+            "img_src": "",
+            "menu_name": "(숙취해소) 얼큰우동",
+            "price": "5,700원"
+        },
+        {
+            "category": "단품[면]",
+            "img_src": "",
+            "menu_name": "(매운맛UP) The얼큰우동",
+            "price": "6,000원"
+        },
+        {
+            "category": "단품[면]",
+            "img_src": "",
+            "menu_name": "(다이어터)참깨초계면",
+            "price": "6,700원"
+        },
+        {
+            "category": "단품[면]",
+            "img_src": "",
+            "menu_name": "정직냉모밀",
+            "price": "7,000원"
+        },
+        {
+            "category": "단품[면]",
+            "img_src": "",
+            "menu_name": "비빔막국수",
+            "price": "7,000원"
+        },
+        {
+            "category": "단품[면]",
+            "img_src": "",
+            "menu_name": "물비빔막국수",
+            "price": "7,500원"
+        },
+        {
+            "category": "단품[면]",
+            "img_src": "",
+            "menu_name": "(유부 찍어먹기 좋은)우볶이",
+            "price": "4,500원"
+        },
+        {
+            "category": "개별 토핑",
+            "img_src": "",
+            "menu_name": "참치마요 토핑",
+            "price": "900원"
+        },
+        {
+            "category": "개별 토핑",
+            "img_src": "",
+            "menu_name": "볶음김치 토핑",
+            "price": "900원"
+        },
+        {
+            "category": "개별 토핑",
+            "img_src": "",
+            "menu_name": "불고기 토핑",
+            "price": "900원"
+        },
+        {
+            "category": "개별 토핑",
+            "img_src": "",
+            "menu_name": "크래미와사마요 토핑",
+            "price": "900원"
+        },
+        {
+            "category": "개별 토핑",
+            "img_src": "",
+            "menu_name": "에그마요 토핑",
+            "price": "900원"
+        },
+        {
+            "category": "개별 토핑",
+            "img_src": "",
+            "menu_name": "매콤참치 토핑",
+            "price": "900원"
+        },
+        {
+            "category": "개별 토핑",
+            "img_src": "",
+            "menu_name": "닭갈비 토핑",
+            "price": "900원"
+        },
+        {
+            "category": "개별 토핑",
+            "img_src": "",
+            "menu_name": "삶은달걀(1개)",
+            "price": "1,000원"
+        },
+        {
+            "category": "개별 토핑",
+            "img_src": "",
+            "menu_name": "불닭마요소스(30g)",
+            "price": "600원"
+        },
+        {
+            "category": "음료및기타",
+            "img_src": "",
+            "menu_name": "펩시콜라(355ml)",
+            "price": "2,000원"
+        },
+        {
+            "category": "음료및기타",
+            "img_src": "",
+            "menu_name": "칠성사이다(355ml)",
+            "price": "2,000원"
+        },
+        {
+            "category": "음료및기타",
+            "img_src": "",
+            "menu_name": "어린이음료(오렌지 망고)",
+            "price": "1,500원"
+        },
+        {
+            "category": "음료및기타",
+            "img_src": "",
+            "menu_name": "어린이음료(포도 사과)",
+            "price": "1,500원"
+        },
+        {
+            "category": "음료및기타",
+            "img_src": "",
+            "menu_name": "맑은 장국",
+            "price": "500원"
+        },
+        {
+            "category": "음료및기타",
+            "img_src": "",
+            "menu_name": "살얼음 동치미육수",
+            "price": "900원"
+        }
+    ]
+}

@@ -1,0 +1,14 @@
+{
+    "store_name": "본본로스",
+    "store_location": "전남 순천시 왕지3길 18-22 1층",
+    "loc_x": "247972.940092849",
+    "loc_y": "163685.960477002",
+    "menu": [
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241210_15%2F17338277476300ooG3_JPEG%2FKakaoTalk_20241210_125840337.jpg",
+            "menu_name": "한우갈비살",
+            "price": "27,000원"
+        }
+    ]
+}

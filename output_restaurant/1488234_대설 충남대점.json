@@ -1,0 +1,314 @@
+{
+    "store_name": "대설 충남대점",
+    "store_location": "대전 유성구 궁동로18번길 30 지상 2층",
+    "loc_x": "231249.615545137",
+    "loc_y": "318038.921607042",
+    "menu": [
+        {
+            "category": "사장님 추천 메뉴",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20231001_272/1696145374001KRO1r_JPEG/KakaoTalk_20231001_121936889_19.jpg?type=f220_220_60_sharpen",
+            "menu_name": "마스카포네 망고 대설대표",
+            "price": "12,000원"
+        },
+        {
+            "category": "사장님 추천 메뉴",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20231001_165/16961460142418IOWD_JPEG/KakaoTalk_20231001_163637913_01.jpg?type=f220_220_60_sharpen",
+            "menu_name": "요거토마 대설대표",
+            "price": "12,000원"
+        },
+        {
+            "category": "대설 시그니처 메뉴",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20231001_272/1696145374001KRO1r_JPEG/KakaoTalk_20231001_121936889_19.jpg?type=f220_220_60_sharpen",
+            "menu_name": "마스카포네 망고 대설대표",
+            "price": "12,000원"
+        },
+        {
+            "category": "대설 시그니처 메뉴",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20231001_165/16961460142418IOWD_JPEG/KakaoTalk_20231001_163637913_01.jpg?type=f220_220_60_sharpen",
+            "menu_name": "요거토마 대설대표",
+            "price": "12,000원"
+        },
+        {
+            "category": "대설 시즌 메뉴",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20231001_254/16961463858497LB9f_JPEG/%C5%A9%B8%B2%C4%A1%C1%EE_%B5%FE%B1%E2.jpg?type=f220_220_60_sharpen",
+            "menu_name": "[심쿵해] 크림치즈生딸기 대설",
+            "price": "14,900원"
+        },
+        {
+            "category": "대설 시즌 메뉴",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20231001_130/1696146285323spEL1_JPEG/%BF%E4%B0%C5_%B5%FE%B1%E2_%B4%EB%BC%B3.jpg?type=f220_220_60_sharpen",
+            "menu_name": "[여심저격] 요거生딸기 대설",
+            "price": "13,900원"
+        },
+        {
+            "category": "대설 시즌 메뉴",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20231001_30/1696146346167KBfIP_JPEG/%C6%CF_%B5%FE%B1%E2.jpg?type=f220_220_60_sharpen",
+            "menu_name": "[휘둥그레] 팥 딸기 대설",
+            "price": "13,900원"
+        },
+        {
+            "category": "대설 시즌 메뉴",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20231001_295/1696146175803uRnzn_JPEG/%B8%B6%BD%BA%C4%AB%C6%F7%B3%D7_%B5%FE%B1%E2_%B4%EB%BC%B3.jpg?type=f220_220_60_sharpen",
+            "menu_name": "[말모말모] 마스카포네 生딸기 대설",
+            "price": "12,000원"
+        },
+        {
+            "category": "대설 인기 메뉴",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20231001_65/1696146601449LLxLt_JPEG/KakaoTalk_20231001_121936889_12.jpg?type=f220_220_60_sharpen",
+            "menu_name": "크림치즈 오레오 대설",
+            "price": "14,900원"
+        },
+        {
+            "category": "대설 인기 메뉴",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20231001_135/1696146685992rLTuh_JPEG/KakaoTalk_20231001_121936889_13.jpg?type=f220_220_60_sharpen",
+            "menu_name": "흑돼지바 대설",
+            "price": "13,000원"
+        },
+        {
+            "category": "대설 인기 메뉴",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20231001_121/1696146922648YcjVG_JPEG/KakaoTalk_20231001_121936889_14.jpg?type=f220_220_60_sharpen",
+            "menu_name": "퐁퐁인절미 대설",
+            "price": "12,000원"
+        },
+        {
+            "category": "대설 인기 메뉴",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20231001_102/1696146896301Aqcqz_JPEG/KakaoTalk_20231001_121936889_10.jpg?type=f220_220_60_sharpen",
+            "menu_name": "마스카포네 인절미 대설",
+            "price": "11,000원"
+        },
+        {
+            "category": "대설 인기 메뉴",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20231001_266/1696146970280hrRxJ_JPEG/KakaoTalk_20231001_121936889_15.jpg?type=f220_220_60_sharpen",
+            "menu_name": "팥 흑임자 대설",
+            "price": "13,900원"
+        },
+        {
+            "category": "대설 인기 메뉴",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20231001_86/1696146299633jmx11_JPEG/KakaoTalk_20231001_121936889_03.jpg?type=f220_220_60_sharpen",
+            "menu_name": "비비빅 대설",
+            "price": "12,000원"
+        },
+        {
+            "category": "대설 인기 메뉴",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20231001_190/1696146339276xrpBS_JPEG/KakaoTalk_20231001_121936889_05.jpg?type=f220_220_60_sharpen",
+            "menu_name": "요거베리 대설",
+            "price": "12,000원"
+        },
+        {
+            "category": "대설 인기 메뉴",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20231001_215/1696146523513SRA0G_JPEG/KakaoTalk_20231001_121936889_10.jpg?type=f220_220_60_sharpen",
+            "menu_name": "팥 인절미 대설",
+            "price": "12,900원"
+        },
+        {
+            "category": "대설 인기 메뉴",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20231001_28/16961463812932vsU6_JPEG/KakaoTalk_20231001_121936889_06.jpg?type=f220_220_60_sharpen",
+            "menu_name": "요거딸바 대설",
+            "price": "12,000원"
+        },
+        {
+            "category": "대설 인기 메뉴",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20231001_215/16961464884596WyaK_JPEG/KakaoTalk_20231001_121936889_09.jpg?type=f220_220_60_sharpen",
+            "menu_name": "초코오레오대설",
+            "price": "12,900원"
+        },
+        {
+            "category": "대설 인기 메뉴",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20231001_240/1696147328293TrX9u_JPEG/KakaoTalk_20231001_163724577.jpg?type=f220_220_60_sharpen",
+            "menu_name": "돌체 대설",
+            "price": "8,900원"
+        },
+        {
+            "category": "대설 인기 메뉴",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20231001_2/1696146121863OEoHy_JPEG/KakaoTalk_20231001_121936889.jpg?type=f220_220_60_sharpen",
+            "menu_name": "백돼지바 대설",
+            "price": "13,500원"
+        },
+        {
+            "category": "대설 인기 메뉴",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20231001_255/1696146194211t285r_JPEG/KakaoTalk_20231001_121936889_01.jpg?type=f220_220_60_sharpen",
+            "menu_name": "수제 티라미수 대설",
+            "price": "16,000원"
+        },
+        {
+            "category": "대설 인기 메뉴",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20231001_268/1696147112720JuBIc_JPEG/KakaoTalk_20231001_121936889_17.jpg?type=f220_220_60_sharpen",
+            "menu_name": "돼지바 대설",
+            "price": "13,000원"
+        },
+        {
+            "category": "대설 인기 메뉴",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20231001_214/1696147026368yEQEm_JPEG/KakaoTalk_20231001_121936889_16.jpg?type=f220_220_60_sharpen",
+            "menu_name": "마스카포네딸바 대설",
+            "price": "12,900원"
+        },
+        {
+            "category": "대설 인기 메뉴",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20231001_291/1696147264039bRORo_JPEG/KakaoTalk_20231001_121936889_22.jpg?type=f220_220_60_sharpen",
+            "menu_name": "미쯔더블초코 대설",
+            "price": "12,900원"
+        },
+        {
+            "category": "대설 인기 메뉴",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20231001_198/1696147197359V39LY_JPEG/KakaoTalk_20231001_121936889_20.jpg?type=f220_220_60_sharpen",
+            "menu_name": "망고파인 대설",
+            "price": "12,000원"
+        },
+        {
+            "category": "대설 인기 메뉴",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20231001_78/1696147234002q1Ttj_JPEG/KakaoTalk_20231001_121936889_21.jpg?type=f220_220_60_sharpen",
+            "menu_name": "민초오레오 대설",
+            "price": "13,900원"
+        },
+        {
+            "category": "캔빙수",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20231001_130/1696147108817b6ygU_JPEG/%C4%B5%BF%E4%B0%C5%C5%E4%B8%B6.jpg?type=f220_220_60_sharpen",
+            "menu_name": "[세계유일]캔 요거토마 대설",
+            "price": "6,200원"
+        },
+        {
+            "category": "캔빙수",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20231001_121/1696147135466nuWuA_JPEG/%C4%B5_%B5%C5%C1%F6%B9%D9.jpg?type=f220_220_60_sharpen",
+            "menu_name": "[추억의 돼지바] 캔 돼지바 대설",
+            "price": "6,200원"
+        },
+        {
+            "category": "캔빙수",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20231001_225/16961470289598An4x_JPEG/%C4%B5_%C0%CE%C0%FD%B9%CC.jpg?type=f220_220_60_sharpen",
+            "menu_name": "[꼬숩다] 캔 인절미 대설",
+            "price": "5,900원"
+        },
+        {
+            "category": "캔빙수",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20231001_179/1696147057916XOFwR_JPEG/%C4%B5%BA%F1%BA%F1%BA%F2.jpg?type=f220_220_60_sharpen",
+            "menu_name": "캔 비비빅 대설[팥빙수]",
+            "price": "6,200원"
+        },
+        {
+            "category": "캔빙수",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20231001_131/1696147084835KUwSs_JPEG/%C4%B5_%C6%CF_%C8%E6%C0%D3%C0%DA.jpg?type=f220_220_60_sharpen",
+            "menu_name": "[100%국내산] 캔 팥 흑임자 대설",
+            "price": "6,800원"
+        },
+        {
+            "category": "캔빙수",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20231001_248/1696147191507hNLtv_JPEG/%C4%B5_%B5%FE%B1%E2.jpg?type=f220_220_60_sharpen",
+            "menu_name": "캔 마스카포네 딸기 대설",
+            "price": "6,200원"
+        },
+        {
+            "category": "컵빙수",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20231001_235/1696147312433Gc7oA_JPEG/%C4%C5_%BF%E4%B0%C5%BA%A3%B8%AE.jpg?type=f220_220_60_sharpen",
+            "menu_name": "컵 요거베리 대설",
+            "price": "6,200원"
+        },
+        {
+            "category": "컵빙수",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20231001_226/1696147368569Mc6KY_JPEG/%C4%C5_%C6%CF_%C8%E6%C0%D3%C0%DA.jpg?type=f220_220_60_sharpen",
+            "menu_name": "[100% 국내산] 컵 팥 흑임자대설",
+            "price": "6,800원"
+        },
+        {
+            "category": "컵빙수",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20231001_10/1696147269176JdMWE_JPEG/%C4%C5_%BA%F1%BA%F1%BA%F2.jpg?type=f220_220_60_sharpen",
+            "menu_name": "컵 비비빅 대설 [팥빙수]",
+            "price": "6,200원"
+        },
+        {
+            "category": "컵빙수",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20231001_116/1696147229067wRL9h_JPEG/%C4%C5_%B5%C5%C1%F6%B9%D9.jpg?type=f220_220_60_sharpen",
+            "menu_name": "[추억의 돼지바] 컵 돼지바 대설",
+            "price": "6,200원"
+        },
+        {
+            "category": "컵빙수",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20231001_103/1696147249625K4HEC_JPEG/%C4%C5_%B8%C1%B0%ED%C6%C4%C0%CE.jpg?type=f220_220_60_sharpen",
+            "menu_name": "[믿고먹는] 컵 망고파인 대설",
+            "price": "6,200원"
+        },
+        {
+            "category": "폭설",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20231001_185/1696148823730GbSxe_JPEG/%C6%F8%BC%B3_%B9%CC%C2%EA.jpg?type=f220_220_60_sharpen",
+            "menu_name": "[퐁당미쯔] 미쯔더블초코 폭설",
+            "price": "24,800원"
+        },
+        {
+            "category": "폭설",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20231001_242/16961488653638i2ud_JPEG/%C6%F8%BC%B3_%B5%C5%C1%F6%B9%D9.jpg?type=f220_220_60_sharpen",
+            "menu_name": "[추억의돼지바] 돼지바 폭설",
+            "price": "25,000원"
+        },
+        {
+            "category": "폭설",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20231001_38/1696148925693vFvlH_JPEG/%C6%F8%BC%B3_%B8%B6%BD%BA%C4%AB%C6%F7%B3%D7_%B8%C1%B0%ED.jpg?type=f220_220_60_sharpen",
+            "menu_name": "[믿고먹는] 마스카포네 망고 폭설",
+            "price": "23,000원"
+        },
+        {
+            "category": "폭설",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20231001_156/1696148690735PUtNk_JPEG/%C6%F8%BC%B3_%C6%CF_%C8%E6%C0%D3%C0%DA.jpg?type=f220_220_60_sharpen",
+            "menu_name": "팥 흑임자 폭설",
+            "price": "26,800원"
+        },
+        {
+            "category": "폭설",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20231001_289/1696148747398Rlob2_JPEG/%C6%F8%BC%B3_%C6%CF_%C0%CE%C0%FD%B9%CC.jpg?type=f220_220_60_sharpen",
+            "menu_name": "[매력철철] 팥 인절미 폭설",
+            "price": "24,800원"
+        },
+        {
+            "category": "폭설",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20231001_281/169614906831222M85_JPEG/%C6%F8%BC%B3_%C6%BC%B6%F3%B9%CC%BC%F6.jpg?type=f220_220_60_sharpen",
+            "menu_name": "[찐이야] 수제 티라미수 폭설",
+            "price": "31,000원"
+        },
+        {
+            "category": "폭설",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20231001_121/16961491236967vUF4_JPEG/%C6%F8%BC%B3_%BF%E4%B0%C5%C5%E4%B8%B6.jpg?type=f220_220_60_sharpen",
+            "menu_name": "[세계유일] 요거토마 폭설",
+            "price": "23,000원"
+        },
+        {
+            "category": "폭설",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20231001_17/1696149153119AJoaM_JPEG/%C6%F8%BC%B3_%C6%FE%C6%FE%C0%CE%C0%FD%B9%CC.jpg?type=f220_220_60_sharpen",
+            "menu_name": "[내마음이 데굴데굴] 퐁퐁인절미 폭설",
+            "price": "23,000원"
+        },
+        {
+            "category": "폭설",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20231001_40/16961489582648xpmX_JPEG/%C6%F8%BC%B3_%B8%C1%B0%ED%C6%C4%C0%CE.jpg?type=f220_220_60_sharpen",
+            "menu_name": "[쏘쿨] 망고파인 폭설",
+            "price": "26,000원"
+        },
+        {
+            "category": "폭설",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20231001_177/1696148990244gEUNX_JPEG/%C6%F8%BC%B3_%BF%E4%B0%C5%B5%FE%B9%D9.jpg?type=f220_220_60_sharpen",
+            "menu_name": "[눈이번쩍]요거딸바 폭설",
+            "price": "23,000원"
+        },
+        {
+            "category": "폭설",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20231001_251/16961490185695z3aw_JPEG/%C6%F8%BC%B3_%BF%E4%B0%C5%BA%A3%B8%AE.jpg?type=f220_220_60_sharpen",
+            "menu_name": "[베리베리굿] 요거베리폭설",
+            "price": "23,000원"
+        },
+        {
+            "category": "폭설",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20231001_111/1696148582762vEfmo_JPEG/%C6%F8%BC%B3_%B8%B6%BD%BA%C4%AB%C6%F7%B3%D7_%C0%CE%C0%FD%B9%CC.jpg?type=f220_220_60_sharpen",
+            "menu_name": "[꼬숩다] 마스카포네 인절미 폭설",
+            "price": "21,000원"
+        },
+        {
+            "category": "폭설",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20231001_31/1696148631254l581X_JPEG/%C6%F8%BC%B3_%BA%F1%BA%F1%BA%F2.jpg?type=f220_220_60_sharpen",
+            "menu_name": "비비빅 폭설 [팥빙수]",
+            "price": "23,000원"
+        },
+        {
+            "category": "폭설",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20231001_191/1696148457679aLlbY_JPEG/%C6%F8%BC%B3_%B5%B9%C3%BC.jpg?type=f220_220_60_sharpen",
+            "menu_name": "[행복해] 돌체 폭설",
+            "price": "16,800원"
+        }
+    ]
+}

@@ -1,0 +1,794 @@
+{
+    "store_name": "샐러디아 검단신도시점",
+    "store_location": "인천 서구 이음5로 65 상가동 126호",
+    "loc_x": "",
+    "loc_y": "",
+    "menu": [
+        {
+            "category": "대표메뉴",
+            "img_src": "",
+            "menu_name": "[신선함가득] 그린 샐러드 빅볼",
+            "price": "6,900원"
+        },
+        {
+            "category": "대표메뉴",
+            "img_src": "",
+            "menu_name": "[육즙팡팡] 구운 토시 샐러드 빅볼(100g)",
+            "price": "12,400원"
+        },
+        {
+            "category": "대표메뉴",
+            "img_src": "",
+            "menu_name": "[육즙팡팡] 구운 토시 샐러드 빅볼(200g)",
+            "price": "17,400원"
+        },
+        {
+            "category": "대표메뉴",
+            "img_src": "",
+            "menu_name": "[촉촉담백] 촉촉 닭가슴살 샐러드 빅볼(1p)",
+            "price": "9,400원"
+        },
+        {
+            "category": "대표메뉴",
+            "img_src": "",
+            "menu_name": "[촉촉담백] 촉촉 닭가슴살 샐러드 빅볼(2p)",
+            "price": "11,900원"
+        },
+        {
+            "category": "대표메뉴",
+            "img_src": "",
+            "menu_name": "[근사하게] 토시 스테이크 도시락",
+            "price": "9,900원"
+        },
+        {
+            "category": "대표메뉴",
+            "img_src": "",
+            "menu_name": "[육즙폭탄] 부채 스테이크 도시락",
+            "price": "9,900원"
+        },
+        {
+            "category": "빅볼 샐러드 Big bowl Salad",
+            "img_src": "",
+            "menu_name": "[신선함가득] 그린 샐러드 빅볼",
+            "price": "6,900원"
+        },
+        {
+            "category": "빅볼 샐러드 Big bowl Salad",
+            "img_src": "",
+            "menu_name": "[촉촉담백] 촉촉 닭가슴살 샐러드 빅볼(1p)",
+            "price": "9,400원"
+        },
+        {
+            "category": "빅볼 샐러드 Big bowl Salad",
+            "img_src": "",
+            "menu_name": "[촉촉담백] 촉촉 닭가슴살 샐러드 빅볼(2p)",
+            "price": "11,900원"
+        },
+        {
+            "category": "빅볼 샐러드 Big bowl Salad",
+            "img_src": "",
+            "menu_name": "[체중관리킹] 아보카도 샐러드 빅볼",
+            "price": "10,800원"
+        },
+        {
+            "category": "빅볼 샐러드 Big bowl Salad",
+            "img_src": "",
+            "menu_name": "[육즙팡팡] 구운 토시 샐러드 빅볼(100g)",
+            "price": "12,400원"
+        },
+        {
+            "category": "빅볼 샐러드 Big bowl Salad",
+            "img_src": "",
+            "menu_name": "[육즙팡팡] 구운 토시 샐러드 빅볼(200g)",
+            "price": "17,400원"
+        },
+        {
+            "category": "빅볼 샐러드 Big bowl Salad",
+            "img_src": "",
+            "menu_name": "[육즙부자] 구운 부채 샐러드 빅볼(100g)",
+            "price": "12,400원"
+        },
+        {
+            "category": "빅볼 샐러드 Big bowl Salad",
+            "img_src": "",
+            "menu_name": "[육즙부자] 구운 부채 샐러드 빅볼(200g)",
+            "price": "17,400원"
+        },
+        {
+            "category": "빅볼 샐러드 Big bowl Salad",
+            "img_src": "",
+            "menu_name": "[담백고소] 구운 목살 샐러드 빅볼(100g)",
+            "price": "9,900원"
+        },
+        {
+            "category": "빅볼 샐러드 Big bowl Salad",
+            "img_src": "",
+            "menu_name": "[담백고소] 구운 목살 샐러드 빅볼(200g)",
+            "price": "12,400원"
+        },
+        {
+            "category": "빅볼 샐러드 Big bowl Salad",
+            "img_src": "",
+            "menu_name": "[쫀득고소] 훈제 오리 샐러드 빅볼(100g)",
+            "price": "9,800원"
+        },
+        {
+            "category": "빅볼 샐러드 Big bowl Salad",
+            "img_src": "",
+            "menu_name": "[쫀득고소] 훈제 오리 샐러드 빅볼(200g)",
+            "price": "12,300원"
+        },
+        {
+            "category": "빅볼 샐러드 Big bowl Salad",
+            "img_src": "",
+            "menu_name": "[스테미너] 훈제 연어 샐러드 빅볼(기본)",
+            "price": "11,900원"
+        },
+        {
+            "category": "빅볼 샐러드 Big bowl Salad",
+            "img_src": "",
+            "menu_name": "[스테미너] 훈제 연어 샐러드 빅볼(가득)",
+            "price": "16,400원"
+        },
+        {
+            "category": "빅볼 샐러드 Big bowl Salad",
+            "img_src": "",
+            "menu_name": "[영양충전] 리코타 치즈 샐러드 빅볼(100g)",
+            "price": "9,800원"
+        },
+        {
+            "category": "빅볼 샐러드 Big bowl Salad",
+            "img_src": "",
+            "menu_name": "[영양충전] 리코타 치즈 샐러드 빅볼(200g)",
+            "price": "12,300원"
+        },
+        {
+            "category": "빅볼 샐러드 Big bowl Salad",
+            "img_src": "",
+            "menu_name": "[탱탱하새우] 구운 어니언 새우 샐러드 빅볼(4ps)",
+            "price": "9,800원"
+        },
+        {
+            "category": "빅볼 샐러드 Big bowl Salad",
+            "img_src": "",
+            "menu_name": "[탱탱하새우] 구운 어니언 새우 샐러드 빅볼(8ps)",
+            "price": "12,300원"
+        },
+        {
+            "category": "빅볼 샐러드 Big bowl Salad",
+            "img_src": "",
+            "menu_name": "[프레시한] 바질 카프레제 샐러드 빅볼(3p)",
+            "price": "9,400원"
+        },
+        {
+            "category": "빅볼 샐러드 Big bowl Salad",
+            "img_src": "",
+            "menu_name": "[프레시한] 바질 카프레제 샐러드 빅볼(6p)",
+            "price": "11,900원"
+        },
+        {
+            "category": "빅볼 샐러드 Big bowl Salad",
+            "img_src": "",
+            "menu_name": "[부드럽스] 무스 샐러드 빅볼(1스쿱)",
+            "price": "9,400원"
+        },
+        {
+            "category": "빅볼 샐러드 Big bowl Salad",
+            "img_src": "",
+            "menu_name": "[한끼대용] 구운 야채 샐러드 빅볼",
+            "price": "9,400원"
+        },
+        {
+            "category": "빅볼 샐러드 Big bowl Salad",
+            "img_src": "",
+            "menu_name": "[겉바속촉] 치킨텐더 샐러드 빅볼(2ps)",
+            "price": "9,400원"
+        },
+        {
+            "category": "빅볼 샐러드 Big bowl Salad",
+            "img_src": "",
+            "menu_name": "[겉바속촉] 치킨텐더 샐러드 빅볼(4ps)",
+            "price": "11,900원"
+        },
+        {
+            "category": "세트 메뉴",
+            "img_src": "",
+            "menu_name": "소소한 행복 SET",
+            "price": "11,200원"
+        },
+        {
+            "category": "세트 메뉴",
+            "img_src": "",
+            "menu_name": "쩝쩝박사 SET",
+            "price": "11,700원"
+        },
+        {
+            "category": "세트 메뉴",
+            "img_src": "",
+            "menu_name": "샐러핏(SalaFit) 3KIT",
+            "price": "21,300원"
+        },
+        {
+            "category": "세트 메뉴",
+            "img_src": "",
+            "menu_name": "샐러핏(SalaFit) 5KIT",
+            "price": "34,500원"
+        },
+        {
+            "category": "빅볼 샐러드 Big bowl Salad",
+            "img_src": "",
+            "menu_name": "[신선함가득] 그린 샐러드 빅볼",
+            "price": "6,900원"
+        },
+        {
+            "category": "빅볼 샐러드 Big bowl Salad",
+            "img_src": "",
+            "menu_name": "[촉촉담백] 촉촉 닭가슴살 샐러드 빅볼(1p)",
+            "price": "9,400원"
+        },
+        {
+            "category": "빅볼 샐러드 Big bowl Salad",
+            "img_src": "",
+            "menu_name": "[촉촉담백] 촉촉 닭가슴살 샐러드 빅볼(2p)",
+            "price": "11,900원"
+        },
+        {
+            "category": "빅볼 샐러드 Big bowl Salad",
+            "img_src": "",
+            "menu_name": "[체중관리킹] 아보카도 샐러드 빅볼",
+            "price": "10,800원"
+        },
+        {
+            "category": "빅볼 샐러드 Big bowl Salad",
+            "img_src": "",
+            "menu_name": "[육즙팡팡] 구운 토시 샐러드 빅볼(100g)",
+            "price": "12,400원"
+        },
+        {
+            "category": "빅볼 샐러드 Big bowl Salad",
+            "img_src": "",
+            "menu_name": "[육즙팡팡] 구운 토시 샐러드 빅볼(200g)",
+            "price": "17,400원"
+        },
+        {
+            "category": "빅볼 샐러드 Big bowl Salad",
+            "img_src": "",
+            "menu_name": "[육즙부자] 구운 부채 샐러드 빅볼(100g)",
+            "price": "12,400원"
+        },
+        {
+            "category": "빅볼 샐러드 Big bowl Salad",
+            "img_src": "",
+            "menu_name": "[육즙부자] 구운 부채 샐러드 빅볼(200g)",
+            "price": "17,400원"
+        },
+        {
+            "category": "빅볼 샐러드 Big bowl Salad",
+            "img_src": "",
+            "menu_name": "[담백고소] 구운 목살 샐러드 빅볼(100g)",
+            "price": "9,900원"
+        },
+        {
+            "category": "빅볼 샐러드 Big bowl Salad",
+            "img_src": "",
+            "menu_name": "[담백고소] 구운 목살 샐러드 빅볼(200g)",
+            "price": "12,400원"
+        },
+        {
+            "category": "빅볼 샐러드 Big bowl Salad",
+            "img_src": "",
+            "menu_name": "[쫀득고소] 훈제 오리 샐러드 빅볼(100g)",
+            "price": "9,800원"
+        },
+        {
+            "category": "빅볼 샐러드 Big bowl Salad",
+            "img_src": "",
+            "menu_name": "[쫀득고소] 훈제 오리 샐러드 빅볼(200g)",
+            "price": "12,300원"
+        },
+        {
+            "category": "빅볼 샐러드 Big bowl Salad",
+            "img_src": "",
+            "menu_name": "[스테미너] 훈제 연어 샐러드 빅볼(기본)",
+            "price": "11,900원"
+        },
+        {
+            "category": "빅볼 샐러드 Big bowl Salad",
+            "img_src": "",
+            "menu_name": "[스테미너] 훈제 연어 샐러드 빅볼(가득)",
+            "price": "16,400원"
+        },
+        {
+            "category": "빅볼 샐러드 Big bowl Salad",
+            "img_src": "",
+            "menu_name": "[영양충전] 리코타 치즈 샐러드 빅볼(100g)",
+            "price": "9,800원"
+        },
+        {
+            "category": "빅볼 샐러드 Big bowl Salad",
+            "img_src": "",
+            "menu_name": "[영양충전] 리코타 치즈 샐러드 빅볼(200g)",
+            "price": "12,300원"
+        },
+        {
+            "category": "빅볼 샐러드 Big bowl Salad",
+            "img_src": "",
+            "menu_name": "[탱탱하새우] 구운 어니언 새우 샐러드 빅볼(4ps)",
+            "price": "9,800원"
+        },
+        {
+            "category": "빅볼 샐러드 Big bowl Salad",
+            "img_src": "",
+            "menu_name": "[탱탱하새우] 구운 어니언 새우 샐러드 빅볼(8ps)",
+            "price": "12,300원"
+        },
+        {
+            "category": "빅볼 샐러드 Big bowl Salad",
+            "img_src": "",
+            "menu_name": "[프레시한] 바질 카프레제 샐러드 빅볼(3p)",
+            "price": "9,400원"
+        },
+        {
+            "category": "빅볼 샐러드 Big bowl Salad",
+            "img_src": "",
+            "menu_name": "[프레시한] 바질 카프레제 샐러드 빅볼(6p)",
+            "price": "11,900원"
+        },
+        {
+            "category": "빅볼 샐러드 Big bowl Salad",
+            "img_src": "",
+            "menu_name": "[부드럽스] 무스 샐러드 빅볼(1스쿱)",
+            "price": "9,400원"
+        },
+        {
+            "category": "빅볼 샐러드 Big bowl Salad",
+            "img_src": "",
+            "menu_name": "[한끼대용] 구운 야채 샐러드 빅볼",
+            "price": "9,400원"
+        },
+        {
+            "category": "빅볼 샐러드 Big bowl Salad",
+            "img_src": "",
+            "menu_name": "[겉바속촉] 치킨텐더 샐러드 빅볼(2ps)",
+            "price": "9,400원"
+        },
+        {
+            "category": "빅볼 샐러드 Big bowl Salad",
+            "img_src": "",
+            "menu_name": "[겉바속촉] 치킨텐더 샐러드 빅볼(4ps)",
+            "price": "11,900원"
+        },
+        {
+            "category": "빅볼 포케 Big bowl Poke",
+            "img_src": "",
+            "menu_name": "촉촉 닭가슴살 포케",
+            "price": "10,900원"
+        },
+        {
+            "category": "빅볼 포케 Big bowl Poke",
+            "img_src": "",
+            "menu_name": "구운 목살 포케",
+            "price": "10,900원"
+        },
+        {
+            "category": "빅볼 포케 Big bowl Poke",
+            "img_src": "",
+            "menu_name": "구운 토시 포케",
+            "price": "12,900원"
+        },
+        {
+            "category": "빅볼 포케 Big bowl Poke",
+            "img_src": "",
+            "menu_name": "구운 부채 포케",
+            "price": "12,900원"
+        },
+        {
+            "category": "빅볼 포케 Big bowl Poke",
+            "img_src": "",
+            "menu_name": "구운 연두부&버섯 포케",
+            "price": "10,900원"
+        },
+        {
+            "category": "빅볼 포케 Big bowl Poke",
+            "img_src": "",
+            "menu_name": "훈제 오리 포케",
+            "price": "10,800원"
+        },
+        {
+            "category": "빅볼 포케 Big bowl Poke",
+            "img_src": "",
+            "menu_name": "프리미엄 연어 스테이크 포케",
+            "price": "13,900원"
+        },
+        {
+            "category": "빅볼 포케 Big bowl Poke",
+            "img_src": "",
+            "menu_name": "구운 어니언 새우 포케",
+            "price": "10,800원"
+        },
+        {
+            "category": "빅볼 포케 Big bowl Poke",
+            "img_src": "",
+            "menu_name": "콩고기 포케 (비건)",
+            "price": "11,400원"
+        },
+        {
+            "category": "다이어트 도시락 Diet Lunch Box",
+            "img_src": "",
+            "menu_name": "[식단메이트] 닭가슴살 도시락",
+            "price": "7,400원"
+        },
+        {
+            "category": "다이어트 도시락 Diet Lunch Box",
+            "img_src": "",
+            "menu_name": "[근사하게] 토시 스테이크 도시락",
+            "price": "9,900원"
+        },
+        {
+            "category": "다이어트 도시락 Diet Lunch Box",
+            "img_src": "",
+            "menu_name": "[육즙폭탄] 부채 스테이크 도시락",
+            "price": "9,900원"
+        },
+        {
+            "category": "다이어트 도시락 Diet Lunch Box",
+            "img_src": "",
+            "menu_name": "[든든한끼] 목살스테이크 도시락",
+            "price": "7,900원"
+        },
+        {
+            "category": "다이어트 도시락 Diet Lunch Box",
+            "img_src": "",
+            "menu_name": "[탄단지갑] 훈제 오리 도시락",
+            "price": "7,800원"
+        },
+        {
+            "category": "다이어트 도시락 Diet Lunch Box",
+            "img_src": "",
+            "menu_name": "[식단대표] 연어 스테이크 도시락",
+            "price": "10,900원"
+        },
+        {
+            "category": "다이어트 도시락 Diet Lunch Box",
+            "img_src": "",
+            "menu_name": "[채식주의] 콩고기 스테이크 도시락",
+            "price": "8,400원"
+        },
+        {
+            "category": "프리미엄 요거트 Premium Yogurt",
+            "img_src": "",
+            "menu_name": "[핵꾸덕하게] 플레인 그릭 요거트(100g)",
+            "price": "4,500원"
+        },
+        {
+            "category": "스프 Soup",
+            "img_src": "",
+            "menu_name": "단호박 크림 스프",
+            "price": "4,900원"
+        },
+        {
+            "category": "스프 Soup",
+            "img_src": "",
+            "menu_name": "베이컨 포테이토 스프",
+            "price": "4,900원"
+        },
+        {
+            "category": "해독주스 / 건강주스",
+            "img_src": "",
+            "menu_name": "그린 비기너 SET(2개선택)",
+            "price": "11,100원"
+        },
+        {
+            "category": "해독주스 / 건강주스",
+            "img_src": "",
+            "menu_name": "그린 마스터 SET(4개선택)",
+            "price": "21,000원"
+        },
+        {
+            "category": "해독주스 / 건강주스",
+            "img_src": "",
+            "menu_name": "[해독효과] 캐비(ABC) 주스",
+            "price": "5,800원"
+        },
+        {
+            "category": "해독주스 / 건강주스",
+            "img_src": "",
+            "menu_name": "[눈건강지켜] 캐플 주스",
+            "price": "5,800원"
+        },
+        {
+            "category": "해독주스 / 건강주스",
+            "img_src": "",
+            "menu_name": "[면역증진] 케바 주스",
+            "price": "5,800원"
+        },
+        {
+            "category": "해독주스 / 건강주스",
+            "img_src": "",
+            "menu_name": "[피로회복] 샐케 주스",
+            "price": "5,800원"
+        },
+        {
+            "category": "해독주스 / 건강주스",
+            "img_src": "",
+            "menu_name": "[속이편안] 마바 주스",
+            "price": "5,800원"
+        },
+        {
+            "category": "해독주스 / 건강주스",
+            "img_src": "",
+            "menu_name": "[상큼피부] 오파 주스",
+            "price": "5,800원"
+        },
+        {
+            "category": "생과일주스",
+            "img_src": "",
+            "menu_name": "[생기가득] 바나나 주스",
+            "price": "4,800원"
+        },
+        {
+            "category": "생과일주스",
+            "img_src": "",
+            "menu_name": "[혈압감소] 토마토 주스",
+            "price": "4,800원"
+        },
+        {
+            "category": "생과일주스",
+            "img_src": "",
+            "menu_name": "[입맛돋는] 파인애플 주스",
+            "price": "4,800원"
+        },
+        {
+            "category": "생과일주스",
+            "img_src": "",
+            "menu_name": "[혈관튼튼] 키위 주스",
+            "price": "4,800원"
+        },
+        {
+            "category": "생과일주스",
+            "img_src": "",
+            "menu_name": "[이너뷰티] 사과 주스",
+            "price": "4,800원"
+        },
+        {
+            "category": "생과일주스",
+            "img_src": "",
+            "menu_name": "[과즙폭발] 오렌지 주스",
+            "price": "4,800원"
+        },
+        {
+            "category": "생과일주스",
+            "img_src": "",
+            "menu_name": "[심쿵방지] 아보카도 주스",
+            "price": "5,800원"
+        },
+        {
+            "category": "COFFEE",
+            "img_src": "",
+            "menu_name": "아메리카노 (고소)",
+            "price": "3,000원"
+        },
+        {
+            "category": "COFFEE",
+            "img_src": "",
+            "menu_name": "꿀 아메리카노",
+            "price": "3,500원"
+        },
+        {
+            "category": "COFFEE",
+            "img_src": "",
+            "menu_name": "[우유러버] 카페라떼",
+            "price": "4,000원"
+        },
+        {
+            "category": "COFFEE",
+            "img_src": "",
+            "menu_name": "꿀 라떼",
+            "price": "4,500원"
+        },
+        {
+            "category": "COFFEE",
+            "img_src": "",
+            "menu_name": "[풍미가득] 카라멜 마끼야또",
+            "price": "4,500원"
+        },
+        {
+            "category": "COFFEE",
+            "img_src": "",
+            "menu_name": "[달달구리] 연유라떼",
+            "price": "5,000원"
+        },
+        {
+            "category": "COFFEE",
+            "img_src": "",
+            "menu_name": "[깊은풍미] 콜드브루",
+            "price": "4,000원"
+        },
+        {
+            "category": "COFFEE",
+            "img_src": "",
+            "menu_name": "생 아보카도 커피",
+            "price": "6,900원"
+        },
+        {
+            "category": "콜드브루",
+            "img_src": "",
+            "menu_name": "콜드브루 다크",
+            "price": "4,500원"
+        },
+        {
+            "category": "콜드브루",
+            "img_src": "",
+            "menu_name": "콜드브루 라떼",
+            "price": "5,000원"
+        },
+        {
+            "category": "디카페인",
+            "img_src": "",
+            "menu_name": "콜드브루 디카페인",
+            "price": "5,000원"
+        },
+        {
+            "category": "디카페인",
+            "img_src": "",
+            "menu_name": "디카페인 콜드브루 연유라떼",
+            "price": "5,900원"
+        },
+        {
+            "category": "디카페인",
+            "img_src": "",
+            "menu_name": "디카페인 콜드브루 라떼",
+            "price": "5,500원"
+        },
+        {
+            "category": "저칼로리 에이드",
+            "img_src": "",
+            "menu_name": "[저칼로리] 레몬 에이드",
+            "price": "5,000원"
+        },
+        {
+            "category": "저칼로리 에이드",
+            "img_src": "",
+            "menu_name": "[저칼로리] 자몽 에이드",
+            "price": "5,000원"
+        },
+        {
+            "category": "저칼로리 에이드",
+            "img_src": "",
+            "menu_name": "[저칼로리] 금귤 에이드",
+            "price": "5,000원"
+        },
+        {
+            "category": "저칼로리 에이드",
+            "img_src": "",
+            "menu_name": "[저칼로리] 청포도 에이드",
+            "price": "5,000원"
+        },
+        {
+            "category": "저칼로리 에이드",
+            "img_src": "",
+            "menu_name": "[저칼로리] 패션후르츠 에이드",
+            "price": "5,000원"
+        },
+        {
+            "category": "티",
+            "img_src": "",
+            "menu_name": "크림얼그레이",
+            "price": "4,000원"
+        },
+        {
+            "category": "티",
+            "img_src": "",
+            "menu_name": "로즈우롱",
+            "price": "4,000원"
+        },
+        {
+            "category": "티",
+            "img_src": "",
+            "menu_name": "민트가든",
+            "price": "4,000원"
+        },
+        {
+            "category": "티",
+            "img_src": "",
+            "menu_name": "카밍클레멘타인",
+            "price": "4,000원"
+        },
+        {
+            "category": "티",
+            "img_src": "",
+            "menu_name": "히비스커스 비타",
+            "price": "4,000원"
+        },
+        {
+            "category": "티",
+            "img_src": "",
+            "menu_name": "유자 루이보스",
+            "price": "4,000원"
+        },
+        {
+            "category": "NON.COFFEE",
+            "img_src": "",
+            "menu_name": "미숫가루 라떼",
+            "price": "5,000원"
+        },
+        {
+            "category": "NON.COFFEE",
+            "img_src": "",
+            "menu_name": "아이스티",
+            "price": "4,000원"
+        },
+        {
+            "category": "음료",
+            "img_src": "",
+            "menu_name": "제로 콜라",
+            "price": "2,100원"
+        },
+        {
+            "category": "음료",
+            "img_src": "",
+            "menu_name": "제로 스프라이트",
+            "price": "2,100원"
+        },
+        {
+            "category": "음료",
+            "img_src": "",
+            "menu_name": "동원 샘물",
+            "price": "600원"
+        },
+        {
+            "category": "수제 드레싱 추가선택",
+            "img_src": "",
+            "menu_name": "수제 오리엔탈 드레싱",
+            "price": "700원"
+        },
+        {
+            "category": "수제 드레싱 추가선택",
+            "img_src": "",
+            "menu_name": "수제 발사믹 드레싱",
+            "price": "700원"
+        },
+        {
+            "category": "수제 드레싱 추가선택",
+            "img_src": "",
+            "menu_name": "수제 어니언 드레싱",
+            "price": "700원"
+        },
+        {
+            "category": "수제 드레싱 추가선택",
+            "img_src": "",
+            "menu_name": "수제 케이준 드레싱",
+            "price": "700원"
+        },
+        {
+            "category": "수제 드레싱 추가선택",
+            "img_src": "",
+            "menu_name": "수제 흑임자 드레싱",
+            "price": "700원"
+        },
+        {
+            "category": "수제 드레싱 추가선택",
+            "img_src": "",
+            "menu_name": "수제 유자 무지방 드레싱",
+            "price": "700원"
+        },
+        {
+            "category": "수제 드레싱 추가선택",
+            "img_src": "",
+            "menu_name": "수제 허니 머스타드",
+            "price": "700원"
+        },
+        {
+            "category": "수제 드레싱 추가선택",
+            "img_src": "",
+            "menu_name": "수제 스리라차 마요 드레싱",
+            "price": "700원"
+        },
+        {
+            "category": "수제 드레싱 추가선택",
+            "img_src": "",
+            "menu_name": "수제 유자 간장 드레싱",
+            "price": "700원"
+        }
+    ]
+}

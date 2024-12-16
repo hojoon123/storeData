@@ -1,0 +1,62 @@
+{
+    "store_name": "마레지노 파주점",
+    "store_location": "경기 파주시 탄현면 헤이리마을길 55-16 2층 마레지노",
+    "loc_x": "173250.130173388",
+    "loc_y": "476266.757659337",
+    "menu": [
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240722_129%2F17216056984151Nl6g_JPEG%2F1705621612134.jpg",
+            "menu_name": "웨딩케이터링",
+            "price": "변동"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241209_287%2F1733698636537yBHlk_JPEG%2FIMG_20210117_114646_271.jpg",
+            "menu_name": "돌잔치",
+            "price": "변동"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241209_47%2F1733698544915UnORA_JPEG%2FIMG_20200819_085908_205.jpg",
+            "menu_name": "스몰웨딩",
+            "price": "변동"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241209_39%2F1733698305431zMNsE_JPEG%2FIMG_20220929_090432_999.jpg",
+            "menu_name": "가족행사",
+            "price": "변동"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241209_260%2F1733698355193aPtGk_JPEG%2F1722165617671.jpg",
+            "menu_name": "기업행사",
+            "price": "변동"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241023_248%2F1729687358042LQA57_JPEG%2F1000040089.jpg",
+            "menu_name": "기업행사케이터링",
+            "price": "변동"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241028_2%2F1730075323308c3H33_JPEG%2F1722164654921.jpg",
+            "menu_name": "다과케이터링",
+            "price": "변동"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241023_104%2F1729686783157DbUtG_JPEG%2F1000040116.jpg",
+            "menu_name": "샌드위치단체도시락",
+            "price": "변동"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240722_96%2F1721604846290WezLP_JPEG%2F1692886583397.jpg",
+            "menu_name": "홈파티도시락",
+            "price": "변동"
+        }
+    ]
+}

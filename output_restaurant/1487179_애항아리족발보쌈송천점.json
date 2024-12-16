@@ -1,0 +1,104 @@
+{
+    "store_name": "애항아리족발보쌈송천점",
+    "store_location": "전북 전주시 덕진구 솔내로 128 1층",
+    "loc_x": "211394.823480994",
+    "loc_y": "262372.454583887",
+    "menu": [
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241214_254%2F1734135114567iKxtK_JPEG%2FKakaoTalk_20241214_090039671_02.jpg",
+            "menu_name": "모듬스페셜",
+            "price": "60,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241214_280%2F1734135056014cS5BQ_JPEG%2FKakaoTalk_20241214_090039671_02.jpg",
+            "menu_name": "회보쌈 小 (회무침,찰초밥)",
+            "price": "41,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241214_292%2F1734135023243PB2ts_JPEG%2FKakaoTalk_20241214_090039671_02.jpg",
+            "menu_name": "회보쌈 中 (회무침,찰초밥)",
+            "price": "46,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241214_69%2F1734134996625TWS0Q_JPEG%2FKakaoTalk_20241214_090039671_02.jpg",
+            "menu_name": "회보쌈 大 (회무침,찰초밥)",
+            "price": "52,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241214_258%2F1734134964038Fnvtw_JPEG%2FKakaoTalk_20241214_090039671_03.jpg",
+            "menu_name": "굴보쌈(동절기) 小",
+            "price": "41,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241214_161%2F1734134934477T9yhc_JPEG%2FKakaoTalk_20241214_090039671_03.jpg",
+            "menu_name": "굴보쌈 (동절기) 中",
+            "price": "46,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241214_95%2F17341349154383MDiF_JPEG%2FKakaoTalk_20241214_090039671_03.jpg",
+            "menu_name": "굴보쌈(동절기) 大",
+            "price": "52,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241214_24%2F1734134890580dj8eg_JPEG%2FKakaoTalk_20241214_090039671_03.jpg",
+            "menu_name": "보쌈 小",
+            "price": "27,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241214_218%2F1734134871915dTc4n_JPEG%2FKakaoTalk_20241214_090039671_03.jpg",
+            "menu_name": "보쌈 中",
+            "price": "35,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241214_46%2F1734134839481dVx9H_JPEG%2FKakaoTalk_20241214_090039671_03.jpg",
+            "menu_name": "보쌈 大",
+            "price": "42,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241214_300%2F1734134846836bLeIB_JPEG%2FKakaoTalk_20241214_090039671_03.jpg",
+            "menu_name": "족보쌈(족발+보쌈)中",
+            "price": "42,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241214_65%2F1734134791396j02Yb_JPEG%2FKakaoTalk_20241214_090039671_03.jpg",
+            "menu_name": "족보쌈(족발+보쌈) 大",
+            "price": "46,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241214_92%2F1734134729338cJ1Ai_JPEG%2FKakaoTalk_20241214_090039671_04.jpg",
+            "menu_name": "반반족(족발+매운불족)",
+            "price": "36,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241214_21%2F1734134703736ifn7k_JPEG%2FKakaoTalk_20241214_090039671_04.jpg",
+            "menu_name": "매운 불족발",
+            "price": "29,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241214_299%2F1734134667721QR5Y4_JPEG%2FKakaoTalk_20241214_090039671_04.jpg",
+            "menu_name": "족발 中",
+            "price": "25,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241214_177%2F1734134590963Dz9Wn_JPEG%2FKakaoTalk_20241214_090039671_03.jpg",
+            "menu_name": "족발 大",
+            "price": "29,000원"
+        }
+    ]
+}

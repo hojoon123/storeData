@@ -1,0 +1,98 @@
+{
+    "store_name": "미태리 시흥은계호수공원점",
+    "store_location": "경기 시흥시 은계중앙로 234 은계호수타운3 A동 218, 219호",
+    "loc_x": "182634.212629669",
+    "loc_y": "438085.893048841",
+    "menu": [
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240718_189%2F1721277819779Pc9DJ_JPEG%2F70.%25BF%25C3%25B5%25A5%25C0%25CC%25BC%25BC%25C6%25AE.jpg",
+            "menu_name": "올데이세트",
+            "price": "31,800원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240718_62%2F1721278148240UeovA_JPEG%2F1.%25B0%25A8%25B9%25D9%25BD%25BA%25C6%25C4%25BD%25BA%25C5%25B8.jpg",
+            "menu_name": "감바스 파스타",
+            "price": "10,500원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240718_261%2F1721278155340P0Nwy_JPEG%2F15.%25B7%25CE%25C1%25A6%25B8%25CA%25C1%25A6%25C6%25C4%25BD%25BA%25C5%25B8.jpg",
+            "menu_name": "로제 맵제 파스타",
+            "price": "12,500원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240718_172%2F1721278162450MTPOA_JPEG%2F30.%25BD%25C3%25B1%25D7%25B4%25CF%25C3%25B3%25C5%25A5%25BA%25EA%25BD%25BA%25C5%25D7%25C0%25CC%25C5%25A9.jpg",
+            "menu_name": "시그니처 큐브 스테이크",
+            "price": "23,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240718_98%2F1721278247310R6T1A_JPEG%2F10.%25C7%25D8%25C0%25E5%25C2%25AB%25BB%25CD%25C6%25C4%25BD%25BA%25C5%25B8.jpg",
+            "menu_name": "해물 짬뽕 파스타",
+            "price": "9,500원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240718_64%2F1721278264740bRfT5_JPEG%2F3.%25BA%25C0%25B0%25F1%25B7%25B9%25C6%25C4%25BD%25BA%25C5%25B8.jpg",
+            "menu_name": "봉골레 파스타",
+            "price": "8,800원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240718_154%2F1721278280283oQUYy_JPEG%2F12.%25BA%25A3%25C0%25CC%25C4%25C1%25B1%25EE%25B8%25A3%25BA%25B8%25B3%25AA%25B6%25F3.jpg",
+            "menu_name": "베이컨 까르보나라",
+            "price": "9,500원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240718_269%2F1721278398562S8Ghu_JPEG%2F16.%25C0%25CC%25C5%25C2%25B8%25AE%25C1%25A4%25C5%25EB%25BA%25FC%25B3%25D7.jpg",
+            "menu_name": "이태리 정통 빠네",
+            "price": "11,800원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240718_29%2F1721278452059us1Db_JPEG%2F30.%25B9%25CC%25C5%25C2%25B8%25AE%25C6%25E4%25C6%25DB%25B7%25CE%25B4%25CF%25C7%25C7%25C0%25DA.jpg",
+            "menu_name": "미태리 페퍼로니 피자",
+            "price": "10,800원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240718_139%2F1721278509861FPt5Y_JPEG%2F33.%25B9%25CC%25C5%25C2%25B8%25AE%25B0%25A5%25B8%25AF%25C6%25F7%25C5%25D7%25C0%25CC%25C5%25E4%25C7%25C7%25C0%25DA.jpg",
+            "menu_name": "미태리 갈릭 포테이토 피자",
+            "price": "12,800원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240718_17%2F1721278133534FMVXq_JPEG%2F69.%25C4%25BF%25C7%25C3%25BC%25BC%25C6%25AE.jpg",
+            "menu_name": "커플세트",
+            "price": "28,500원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240718_33%2F1721278140964hiWwP_JPEG%2F71.%25B0%25A1%25C1%25B7%25BC%25BC%25C6%25AE.jpg",
+            "menu_name": "가족세트(4~5인)",
+            "price": "58,800원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240718_109%2F1721278223876CERnx_JPEG%2F5.%25C5%25E4%25B8%25B6%25C5%25E4%25C6%25C4%25BD%25BA%25C5%25B8.jpg",
+            "menu_name": "토마토 파스타",
+            "price": "6,800원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240718_115%2F1721278232467rw4aj_JPEG%2F6.%25BA%25A3%25C0%25CC%25C4%25C1%25C5%25E4%25B8%25B6%25C5%25E4%25C6%25C4%25BD%25BA%25C5%25B8.jpg",
+            "menu_name": "베이컨 토마토 파스타",
+            "price": "9,500원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240718_108%2F1721278238630Juxqo_JPEG%2F8.%25C7%25D8%25B9%25B0%25C5%25E4%25B8%25B6%25C5%25E4%25C6%25C4%25BD%25BA%25C5%25B8.jpg",
+            "menu_name": "해물 토마토 파스타",
+            "price": "10,500원"
+        }
+    ]
+}

@@ -1,0 +1,602 @@
+{
+    "store_name": "모락로제떡볶이&닭강정 다산점",
+    "store_location": "경기 남양주시 도농로 43 1층 102호",
+    "loc_x": "213751.486513116",
+    "loc_y": "456365.90926061",
+    "menu": [
+        {
+            "category": "대표메뉴",
+            "img_src": "",
+            "menu_name": "국물떡볶이+크리스피치킨",
+            "price": "17,000원"
+        },
+        {
+            "category": "대표메뉴",
+            "img_src": "",
+            "menu_name": "[[꿀조합]] 볼로냐로제떡볶이+똥집세트",
+            "price": "18,000원"
+        },
+        {
+            "category": "대표메뉴",
+            "img_src": "",
+            "menu_name": "볼로냐로제떡볶이+닭강정세트",
+            "price": "20,000원"
+        },
+        {
+            "category": "대표메뉴",
+            "img_src": "",
+            "menu_name": "[[크림가득]] 베이컨까르보나라떡볶이 1~2인분",
+            "price": "10,000원"
+        },
+        {
+            "category": "대표메뉴",
+            "img_src": "",
+            "menu_name": "[[매콤치즈]] 이태리투움바떡볶이 1~2인분",
+            "price": "10,500원"
+        },
+        {
+            "category": "대표메뉴",
+            "img_src": "",
+            "menu_name": "[[가성비 세트]] 떡순튀",
+            "price": "16,500원"
+        },
+        {
+            "category": "떡볶이 1~2인분",
+            "img_src": "",
+            "menu_name": "국물떡볶이 1~2인분",
+            "price": "6,500원"
+        },
+        {
+            "category": "떡볶이 1~2인분",
+            "img_src": "",
+            "menu_name": "[[역대급]] 볼로냐로제떡볶이 1~2인분",
+            "price": "10,000원"
+        },
+        {
+            "category": "떡볶이 1~2인분",
+            "img_src": "",
+            "menu_name": "[[크림가득]] 베이컨까르보나라떡볶이 1~2인분",
+            "price": "10,000원"
+        },
+        {
+            "category": "떡볶이 1~2인분",
+            "img_src": "",
+            "menu_name": "[[매콤치즈]] 이태리투움바떡볶이 1~2인분",
+            "price": "10,500원"
+        },
+        {
+            "category": "떡볶이 1~2인분",
+            "img_src": "",
+            "menu_name": "[[매콤얼얼]]마라떡볶이 1~2인분",
+            "price": "11,000원"
+        },
+        {
+            "category": "닭강정(순살)",
+            "img_src": "",
+            "menu_name": "[[누구나반한]] 옛날 닭강정(순살)",
+            "price": "12,000원"
+        },
+        {
+            "category": "닭강정(순살)",
+            "img_src": "",
+            "menu_name": "[[환상적인]] 갈릭소이 닭강정(순살)",
+            "price": "12,000원"
+        },
+        {
+            "category": "닭강정(순살)",
+            "img_src": "",
+            "menu_name": "[[풍미가득]] 달콤치즈 닭강정(순살)",
+            "price": "12,000원"
+        },
+        {
+            "category": "닭강정(순살)",
+            "img_src": "",
+            "menu_name": "[[이런맛은없었다]] 수원 왕갈비 닭강정(순살)",
+            "price": "12,000원"
+        },
+        {
+            "category": "닭강정(순살)",
+            "img_src": "",
+            "menu_name": "[[극강의매움]] 불 닭강정(순살)",
+            "price": "12,500원"
+        },
+        {
+            "category": "닭강정(순살)",
+            "img_src": "",
+            "menu_name": "슈프림 양념 닭강정(순살)",
+            "price": "13,000원"
+        },
+        {
+            "category": "닭강정(순살)",
+            "img_src": "",
+            "menu_name": "슈프림 왕갈비 닭강정(순살)",
+            "price": "13,000원"
+        },
+        {
+            "category": "닭강정(순살)",
+            "img_src": "",
+            "menu_name": "슈프림 불 닭강정(순살)",
+            "price": "13,500원"
+        },
+        {
+            "category": "닭강정(순살)",
+            "img_src": "",
+            "menu_name": "크리스피 닭강정(순살)",
+            "price": "10,500원"
+        },
+        {
+            "category": "[[NEW]] 모락볶음밥",
+            "img_src": "",
+            "menu_name": "스크램블 에그 김치볶음밥",
+            "price": "6,900원"
+        },
+        {
+            "category": "[[NEW]] 모락볶음밥",
+            "img_src": "",
+            "menu_name": "스크램블에그 야채볶음밥(1~2인분)",
+            "price": "6,900원"
+        },
+        {
+            "category": "[[NEW]] 모락볶음밥",
+            "img_src": "",
+            "menu_name": "김치볶음밥",
+            "price": "5,900원"
+        },
+        {
+            "category": "[[NEW]] 모락볶음밥",
+            "img_src": "",
+            "menu_name": "김치볶음밥(우삼겹 김치볶음밥)",
+            "price": "7,400원"
+        },
+        {
+            "category": "[[NEW]] 모락볶음밥",
+            "img_src": "",
+            "menu_name": "김치볶음밥(스팸 김치볶음밥)",
+            "price": "7,400원"
+        },
+        {
+            "category": "[[NEW]] 모락볶음밥",
+            "img_src": "",
+            "menu_name": "김치볶음밥(베이컨 김치 볶음밥)",
+            "price": "7,400원"
+        },
+        {
+            "category": "[[NEW]] 모락볶음밥",
+            "img_src": "",
+            "menu_name": "햄야채볶음밥(햄 야채 볶음밥)",
+            "price": "5,900원"
+        },
+        {
+            "category": "[[NEW]] 모락볶음밥",
+            "img_src": "",
+            "menu_name": "햄야채볶음밥(햄 야채 새우볶음밥)",
+            "price": "7,400원"
+        },
+        {
+            "category": "떡볶이 2~3인분",
+            "img_src": "",
+            "menu_name": "[2~3인] 우삼겹떡볶이",
+            "price": "15,500원"
+        },
+        {
+            "category": "떡볶이 2~3인분",
+            "img_src": "",
+            "menu_name": "[2~3인] 통새우튀김떡볶이",
+            "price": "14,500원"
+        },
+        {
+            "category": "떡볶이 2~3인분",
+            "img_src": "",
+            "menu_name": "[2~3인] 탕수육떡볶이",
+            "price": "14,500원"
+        },
+        {
+            "category": "떡볶이 3~4인분",
+            "img_src": "",
+            "menu_name": "[[누구나 좋아하는]] 국물떡볶이 3~4인분",
+            "price": "12,000원"
+        },
+        {
+            "category": "떡볶이 3~4인분",
+            "img_src": "",
+            "menu_name": "[[꾸덕한]] 볼로냐로제떡볶이 3~4인분",
+            "price": "18,500원"
+        },
+        {
+            "category": "떡볶이 3~4인분",
+            "img_src": "",
+            "menu_name": "[[매콤얼얼]]마라떡볶이 3~4인분",
+            "price": "19,000원"
+        },
+        {
+            "category": "떡볶이 3~4인분",
+            "img_src": "",
+            "menu_name": "[[크림가득]] 베이컨까르보나라떡볶이 3~4인분",
+            "price": "18,500원"
+        },
+        {
+            "category": "떡볶이 3~4인분",
+            "img_src": "",
+            "menu_name": "[[매콤치즈]] 이태리투움바떡볶이 3~4인분",
+            "price": "19,000원"
+        },
+        {
+            "category": "고속도로휴게소",
+            "img_src": "",
+            "menu_name": "[[휴게소]] 회오리감자(1개)",
+            "price": "4,000원"
+        },
+        {
+            "category": "고속도로휴게소",
+            "img_src": "",
+            "menu_name": "[[휴게소]] 대왕칼집소시지(1개)",
+            "price": "2,500원"
+        },
+        {
+            "category": "고속도로휴게소",
+            "img_src": "",
+            "menu_name": "[[휴게소]] 소떡소떡(1개)",
+            "price": "2,500원"
+        },
+        {
+            "category": "고속도로휴게소",
+            "img_src": "",
+            "menu_name": "[[휴게소]] 팝콘치킨",
+            "price": "3,500원"
+        },
+        {
+            "category": "고속도로휴게소",
+            "img_src": "",
+            "menu_name": "[[휴게소]] 순대내장선택(순대만)",
+            "price": "5,000원"
+        },
+        {
+            "category": "고속도로휴게소",
+            "img_src": "",
+            "menu_name": "[[휴게소]] 순대내장선택(순대(내장포함))",
+            "price": "5,000원"
+        },
+        {
+            "category": "고속도로휴게소",
+            "img_src": "",
+            "menu_name": "[[휴게소]] 곰돌이돈까스",
+            "price": "1,500원"
+        },
+        {
+            "category": "고속도로휴게소",
+            "img_src": "",
+            "menu_name": "[[휴게소]] 핫바",
+            "price": "2,000원"
+        },
+        {
+            "category": "고속도로휴게소",
+            "img_src": "",
+            "menu_name": "[[휴게소]] 떡꼬치",
+            "price": "1,500원"
+        },
+        {
+            "category": "고속도로휴게소",
+            "img_src": "",
+            "menu_name": "[[휴게소]] 닭가슴살 양념꼬치",
+            "price": "3,000원"
+        },
+        {
+            "category": "1~2인 세트메뉴",
+            "img_src": "",
+            "menu_name": "[[가성비 세트]] 떡순튀",
+            "price": "16,500원"
+        },
+        {
+            "category": "1~2인 세트메뉴",
+            "img_src": "",
+            "menu_name": "[[꿀조합]] 볼로냐로제떡볶이+똥집세트",
+            "price": "18,000원"
+        },
+        {
+            "category": "1~2인 세트메뉴",
+            "img_src": "",
+            "menu_name": "떡볶이 튀김 컵밥 set",
+            "price": "16,000원"
+        },
+        {
+            "category": "2~3인 세트메뉴",
+            "img_src": "",
+            "menu_name": "국물떡볶이+크리스피치킨",
+            "price": "17,000원"
+        },
+        {
+            "category": "2~3인 세트메뉴",
+            "img_src": "",
+            "menu_name": "로제떡볶이+크리스피치킨",
+            "price": "20,500원"
+        },
+        {
+            "category": "2~3인 세트메뉴",
+            "img_src": "",
+            "menu_name": "볼로냐로제떡볶이+닭강정세트",
+            "price": "20,000원"
+        },
+        {
+            "category": "2~3인 세트메뉴",
+            "img_src": "",
+            "menu_name": "국물떡볶이+닭강정세트",
+            "price": "17,000원"
+        },
+        {
+            "category": "2~3인 세트메뉴",
+            "img_src": "",
+            "menu_name": "[[매콤얼얼]]마라떡볶이+닭강정세트",
+            "price": "21,000원"
+        },
+        {
+            "category": "2~3인 세트메뉴",
+            "img_src": "",
+            "menu_name": "[[주문폭주]] 이태리투움바떡볶이+닭강정세트",
+            "price": "20,500원"
+        },
+        {
+            "category": "2~3인 세트메뉴",
+            "img_src": "",
+            "menu_name": "[[환상콜라보]] 베이컨까르보나라떡볶이+닭강정세트",
+            "price": "20,000원"
+        },
+        {
+            "category": "2~3인 세트메뉴",
+            "img_src": "",
+            "menu_name": "[[실속메뉴]] 떡순튀오",
+            "price": "19,500원"
+        },
+        {
+            "category": "3~4인 세트메뉴",
+            "img_src": "",
+            "menu_name": "[[환상적인]] 볼로냐로제떡볶이+닭강정+치킨마요컵밥",
+            "price": "24,500원"
+        },
+        {
+            "category": "3~4인 세트메뉴",
+            "img_src": "",
+            "menu_name": "국물떡볶이1~2인+로제떡볶이1~2인+닭강정",
+            "price": "26,500원"
+        },
+        {
+            "category": "3~4인 세트메뉴",
+            "img_src": "",
+            "menu_name": "이태리투움바떡볶이 + 닭강정 + 치즈볼",
+            "price": "23,500원"
+        },
+        {
+            "category": "밥 종류",
+            "img_src": "",
+            "menu_name": "김가루 밥",
+            "price": "2,500원"
+        },
+        {
+            "category": "밥 종류",
+            "img_src": "",
+            "menu_name": "치킨마요 컵밥",
+            "price": "5,000원"
+        },
+        {
+            "category": "밥 종류",
+            "img_src": "",
+            "menu_name": "스팸마요 컵밥",
+            "price": "5,000원"
+        },
+        {
+            "category": "밥 종류",
+            "img_src": "",
+            "menu_name": "로제 리조또",
+            "price": "6,000원"
+        },
+        {
+            "category": "밥 종류",
+            "img_src": "",
+            "menu_name": "크림 리조또",
+            "price": "6,000원"
+        },
+        {
+            "category": "사이드 메뉴",
+            "img_src": "",
+            "menu_name": "튀김세트A",
+            "price": "5,000원"
+        },
+        {
+            "category": "사이드 메뉴",
+            "img_src": "",
+            "menu_name": "튀김세트B",
+            "price": "7,000원"
+        },
+        {
+            "category": "사이드 메뉴",
+            "img_src": "",
+            "menu_name": "튀김세트C",
+            "price": "9,000원"
+        },
+        {
+            "category": "사이드 메뉴",
+            "img_src": "",
+            "menu_name": "실속튀김(야끼만두2김말이1어묵튀김4)",
+            "price": "2,500원"
+        },
+        {
+            "category": "사이드 메뉴",
+            "img_src": "",
+            "menu_name": "해쉬브라운(2개)",
+            "price": "2,000원"
+        },
+        {
+            "category": "사이드 메뉴",
+            "img_src": "",
+            "menu_name": "김말이 튀김(3개)",
+            "price": "2,000원"
+        },
+        {
+            "category": "사이드 메뉴",
+            "img_src": "",
+            "menu_name": "꿔바로우 오징어 튀김(2개)",
+            "price": "2,500원"
+        },
+        {
+            "category": "사이드 메뉴",
+            "img_src": "",
+            "menu_name": "튀김만두(2개)",
+            "price": "1,000원"
+        },
+        {
+            "category": "사이드 메뉴",
+            "img_src": "",
+            "menu_name": "모짜렐라 치즈스틱(3개)",
+            "price": "2,500원"
+        },
+        {
+            "category": "사이드 메뉴",
+            "img_src": "",
+            "menu_name": "고구마 치즈스틱(3개)",
+            "price": "2,500원"
+        },
+        {
+            "category": "사이드 메뉴",
+            "img_src": "",
+            "menu_name": "고구마 튀김(2개)",
+            "price": "1,600원"
+        },
+        {
+            "category": "사이드 메뉴",
+            "img_src": "",
+            "menu_name": "야채 튀김(2개)",
+            "price": "2,000원"
+        },
+        {
+            "category": "사이드 메뉴",
+            "img_src": "",
+            "menu_name": "새우튀김(2개)",
+            "price": "2,100원"
+        },
+        {
+            "category": "사이드 메뉴",
+            "img_src": "",
+            "menu_name": "어묵 튀김(8개)",
+            "price": "2,000원"
+        },
+        {
+            "category": "사이드 메뉴",
+            "img_src": "",
+            "menu_name": "바삭 대게튀김(2개)",
+            "price": "2,000원"
+        },
+        {
+            "category": "사이드 메뉴",
+            "img_src": "",
+            "menu_name": "감자튀김(M)",
+            "price": "2,000원"
+        },
+        {
+            "category": "사이드 메뉴",
+            "img_src": "",
+            "menu_name": "치즈볼(4개)",
+            "price": "3,000원"
+        },
+        {
+            "category": "사이드 메뉴",
+            "img_src": "",
+            "menu_name": "모듬어묵탕",
+            "price": "7,000원"
+        },
+        {
+            "category": "사이드 메뉴",
+            "img_src": "",
+            "menu_name": "닭똥집(300g)",
+            "price": "8,000원"
+        },
+        {
+            "category": "사이드 메뉴",
+            "img_src": "",
+            "menu_name": "꼬치어묵(3개)",
+            "price": "3,000원"
+        },
+        {
+            "category": "사이드 메뉴",
+            "img_src": "",
+            "menu_name": "야끼만두(2개)",
+            "price": "1,000원"
+        },
+        {
+            "category": "사이드 메뉴",
+            "img_src": "",
+            "menu_name": "갈비만두튀김(3개)",
+            "price": "2,000원"
+        },
+        {
+            "category": "사이드 메뉴",
+            "img_src": "",
+            "menu_name": "맛감자",
+            "price": "2,000원"
+        },
+        {
+            "category": "사이드 메뉴",
+            "img_src": "",
+            "menu_name": "야채춘권 3개",
+            "price": "2,000원"
+        },
+        {
+            "category": "추가품목",
+            "img_src": "",
+            "menu_name": "치킨무 추가",
+            "price": "500원"
+        },
+        {
+            "category": "추가품목",
+            "img_src": "",
+            "menu_name": "단무지 추가",
+            "price": "500원"
+        },
+        {
+            "category": "음료",
+            "img_src": "",
+            "menu_name": "쿨피스 355ml",
+            "price": "1,500원"
+        },
+        {
+            "category": "음료",
+            "img_src": "",
+            "menu_name": "밀키스(340ml)",
+            "price": "1,500원"
+        },
+        {
+            "category": "음료",
+            "img_src": "",
+            "menu_name": "펩시 500ml",
+            "price": "2,000원"
+        },
+        {
+            "category": "음료",
+            "img_src": "",
+            "menu_name": "펩시제로라임 500ml",
+            "price": "2,000원"
+        },
+        {
+            "category": "음료",
+            "img_src": "",
+            "menu_name": "칠성사이다 500ml",
+            "price": "2,000원"
+        },
+        {
+            "category": "음료",
+            "img_src": "",
+            "menu_name": "펩시 1.25L",
+            "price": "3,000원"
+        },
+        {
+            "category": "음료",
+            "img_src": "",
+            "menu_name": "칠성사이다 1.25L",
+            "price": "3,000원"
+        },
+        {
+            "category": "음료",
+            "img_src": "",
+            "menu_name": "쿨피스",
+            "price": "1,500원"
+        }
+    ]
+}

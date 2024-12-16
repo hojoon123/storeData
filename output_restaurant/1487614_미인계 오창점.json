@@ -1,0 +1,74 @@
+{
+    "store_name": "미인계 오창점",
+    "store_location": "충북 청주시 청원구 오창읍 중심상업1로 46-25 1층 102호",
+    "loc_x": "238147.341163755",
+    "loc_y": "357255.21104247",
+    "menu": [
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241202_145%2F1733101175864XqC4k_PNG%2F%25B9%25CC%25B0%25E8%25B5%25B5%25B8%25AE%25C5%25C1.png",
+            "menu_name": "미계도리탕 中(2-3인)",
+            "price": "34,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241202_134%2F1733101239618CioOO_PNG%2F%25B9%25CC%25B0%25E8%25B5%25B5%25B8%25AE%25C5%25C1.png",
+            "menu_name": "미계도리탕 大(3-4인)",
+            "price": "43,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241202_51%2F1733101252043LOI0o_PNG%2F%25B4%25DF%25B8%25F1%25BB%25EC%25BA%25BA%25C0%25BD.png",
+            "menu_name": "닭목살 볶음",
+            "price": "13,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241202_169%2F17331012759203BiND_PNG%2F%25B4%25DF%25B4%25D9%25B8%25AE%25BB%25EC%25C6%25C4%25B9%25AB%25C4%25A7.png",
+            "menu_name": "닭다리살파무침",
+            "price": "13,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241202_130%2F1733101285025BHOlq_PNG%2F%25C4%25A1%25C1%25EE%25B0%25A8%25C0%25DA%25C0%25FC.png",
+            "menu_name": "치즈감자전",
+            "price": "13,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241202_113%2F1733101300683qUKb6_PNG%2F%25BF%25B0%25C5%25EB%25B2%25BF%25C4%25A1.png",
+            "menu_name": "염통꼬치(5EA)",
+            "price": "3,500원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241202_85%2F1733101312954Q8nw1_PNG%2F%25B6%25CB%25C1%25FD%25C6%25A2%25B1%25E8.png",
+            "menu_name": "똥집튀김",
+            "price": "13,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241202_166%2F173310132810560sji_PNG%2F%25B0%25ED%25B1%25B8%25B8%25B6%25B0%25ED%25B7%25CE%25C4%25C9.png",
+            "menu_name": "고구마고로케",
+            "price": "4,500원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241202_232%2F1733101339843taMvS_PNG%2F%25B6%25B1%25B0%25A5%25BA%25F1.png",
+            "menu_name": "떡갈비",
+            "price": "4,500원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241202_8%2F1733101353025DDzPC_PNG%2F%25C8%25AD%25B8%25E9_%25C4%25B8%25C3%25B3_2024-09-09_143016.png",
+            "menu_name": "미인계하이볼",
+            "price": "7,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241202_216%2F173310136299945kqj_PNG%2F%25C8%25AD%25B8%25E9_%25C4%25B8%25C3%25B3_2024-09-09_143110.png",
+            "menu_name": "복분자하이볼",
+            "price": "8,000원"
+        }
+    ]
+}

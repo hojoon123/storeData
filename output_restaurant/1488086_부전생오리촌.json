@@ -1,0 +1,50 @@
+{
+    "store_name": "부전생오리촌",
+    "store_location": "부산 해운대구 삼어로 188 1층",
+    "loc_x": "392862.461195308",
+    "loc_y": "192508.95037032",
+    "menu": [
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20230605_175%2F16859385413594uvph_JPEG%2F2023-06-05-13-00-52-226.jpg",
+            "menu_name": "백반(정식)",
+            "price": "6,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20230605_166%2F1685964425185V4Vht_JPEG%2F20230605_180958.jpg",
+            "menu_name": "오리백숙(한방/옻)",
+            "price": "50,000원"
+        },
+        {
+            "category": "",
+            "img_src": "",
+            "menu_name": "오리구이(소금/양념)",
+            "price": "35,000~40,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20230605_176%2F1685939784794k0R9f_JPEG%2FScreenshot_20230605_133514_Instagram.jpg",
+            "menu_name": "추어탕",
+            "price": "8,000원"
+        },
+        {
+            "category": "",
+            "img_src": "",
+            "menu_name": "생삼겹살",
+            "price": "8,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20230606_210%2F1686022499666TtfI4_JPEG%2F20230606_123021.jpg",
+            "menu_name": "대패삼겹살",
+            "price": "4,000원"
+        },
+        {
+            "category": "",
+            "img_src": "",
+            "menu_name": "추어탕포장(2인분)",
+            "price": "15,000원"
+        }
+    ]
+}

@@ -1,0 +1,86 @@
+{
+    "store_name": "카페 봉비벙",
+    "store_location": "경기 수원시 영통구 센트럴타운로 107 204동 1층 51호",
+    "loc_x": "204219.521658448",
+    "loc_y": "421105.173167299",
+    "menu": [
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241116_279%2F1731719341817YQrBI_JPEG%2F%25C7%25CA%25C5%25CD.jpeg",
+            "menu_name": "드립 커피(필터)",
+            "price": "변동"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241112_247%2F1731400864853995Db_JPEG%2FIMG_8193.JPG",
+            "menu_name": "딸기 시즌",
+            "price": "변동"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241112_124%2F17314010364354q8ak_JPEG%2FFullSizeRender_2.JPG",
+            "menu_name": "뱅 쇼",
+            "price": "8,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241117_71%2F1731826621347DNDdR_PNG%2FBlend.png",
+            "menu_name": "아메리카노",
+            "price": "5,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241112_272%2F1731400778002UHFe2_JPEG%2FIMG_8093.JPG",
+            "menu_name": "피스타치오 티라미수",
+            "price": "9,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240604_126%2F1717480679073eAsj6_PNG%2F%25BD%25BA%25C5%25A9%25B8%25B0%25BC%25A6_2024-04-03_%25BF%25C0%25C8%25C4_2.28.21.png",
+            "menu_name": "와인",
+            "price": "변동"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240408_228%2F1712570116453fqEcY_JPEG%2F%25C5%25A9%25B7%25E7%25C5%25B0.jpeg",
+            "menu_name": "크루키",
+            "price": "6,500원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240420_271%2F1713592019862rDPwf_JPEG%2F05A778C0-FCC6-4A39-8BB0-1F2E38B1ECA2.JPG",
+            "menu_name": "카페 비엔나",
+            "price": "6,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240420_66%2F1713592033030SDvoR_JPEG%2F0321DEB2-B74D-407C-B40F-3DA0709D7E93.JPG",
+            "menu_name": "카페 비엔나 라떼",
+            "price": "6,500원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240823_73%2F1724407789441wUSnb_JPEG%2FIMG_6097.JPG",
+            "menu_name": "리얼 자몽 에이드",
+            "price": "7,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240111_248%2F1704957762834pfrCQ_JPEG%2FKakaoTalk_Photo_2024-01-06-18-11-44.jpeg",
+            "menu_name": "초콜렛 무스",
+            "price": "9,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240801_22%2F17224943113768Shg3_JPEG%2FIMG_5038.jpg",
+            "menu_name": "사워도우 플레이트(weekend)",
+            "price": "12,500원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240801_252%2F1722494160716Jpny0_JPEG%2FIMG_5343.JPG",
+            "menu_name": "잠봉 에멍딸(only weekend)",
+            "price": "11,500원"
+        }
+    ]
+}

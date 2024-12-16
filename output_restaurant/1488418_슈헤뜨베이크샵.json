@@ -1,0 +1,152 @@
+{
+    "store_name": "슈헤뜨베이크샵",
+    "store_location": "인천 연수구 컨벤시아대로230번길 54 1층 A150호",
+    "loc_x": "167539.110564706",
+    "loc_y": "431918.771993793",
+    "menu": [
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240502_244%2F1714627884653eFSA6_JPEG%2FIMG_0908.jpeg",
+            "menu_name": "잠봉뵈르",
+            "price": "8,800원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240929_230%2F172757824363100Q97_JPEG%2FIMG_1291.jpeg",
+            "menu_name": "애플브리",
+            "price": "8,800원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240502_235%2F1714627629694JXj2c_JPEG%2FIMG_1098.jpeg",
+            "menu_name": "당근라페 샌드위치",
+            "price": "8,800원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240502_171%2F1714627531962I1r91_JPEG%2FIMG_0746.jpeg",
+            "menu_name": "고르곤졸라/올리브치즈/무화과 바게트",
+            "price": "5,800원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240121_185%2F1705807444353RSmFR_JPEG%2FIMG_9630.jpeg",
+            "menu_name": "소금빵",
+            "price": "3,200원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20231205_178%2F1701776428633PjwFz_JPEG%2FIMG_8610.jpeg",
+            "menu_name": "크로와상",
+            "price": "4,200원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20231222_264%2F17032153077492UYbI_JPEG%2FIMG_9207.jpeg",
+            "menu_name": "빵 오 쇼콜라",
+            "price": "4,300원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20231224_263%2F1703419676406weSHt_JPEG%2FIMG_9217.jpeg",
+            "menu_name": "바게트",
+            "price": "4,800원"
+        },
+        {
+            "category": "",
+            "img_src": "",
+            "menu_name": "퀸아망",
+            "price": "4,200원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20231224_86%2F17034198694981gaN6_JPEG%2FIMG_9210.jpeg",
+            "menu_name": "치아바타",
+            "price": "4,200원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20231224_78%2F1703420173391gn49s_JPEG%2FIMG_9208.jpeg",
+            "menu_name": "올리브 치아바타",
+            "price": "4,800원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20231224_166%2F1703419924995g8kiv_JPEG%2FIMG_9209.jpeg",
+            "menu_name": "치즈 치아바타",
+            "price": "4,800원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20231224_293%2F1703419211061T8wmB_JPEG%2FIMG_9201.jpeg",
+            "menu_name": "아몬드 크로와상",
+            "price": "5,000원"
+        },
+        {
+            "category": "",
+            "img_src": "",
+            "menu_name": "아몬드 빵오쇼콜라",
+            "price": "5,200원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20231224_135%2F1703419827821MSOLd_JPEG%2FIMG_9234.jpeg",
+            "menu_name": "고르곤졸라 바게트",
+            "price": "5,800원"
+        },
+        {
+            "category": "",
+            "img_src": "",
+            "menu_name": "브레싼",
+            "price": "3,800원"
+        },
+        {
+            "category": "",
+            "img_src": "",
+            "menu_name": "낭테르",
+            "price": "6,800원"
+        },
+        {
+            "category": "",
+            "img_src": "",
+            "menu_name": "베이컨 에삐",
+            "price": "5,800원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20231224_207%2F170342032351025zJ2_JPEG%2FA8E6FDE3-FD8B-4833-AF50-F6AC4BF55A11.jpeg",
+            "menu_name": "르뱅쿠키",
+            "price": "4,200원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20231224_42%2F17034203956776tDVi_JPEG%2FIMG_9203.jpeg",
+            "menu_name": "휘낭시에",
+            "price": "2,800원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20231224_243%2F1703420433691HjBeL_JPEG%2FIMG_9204.jpeg",
+            "menu_name": "초코 휘낭시에",
+            "price": "3,400원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20231224_197%2F1703420526351FC8ve_JPEG%2FIMG_9205.jpeg",
+            "menu_name": "무화과 휘낭시에",
+            "price": "3,200원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20231224_41%2F1703420581514AX5TU_JPEG%2FIMG_9215.jpeg",
+            "menu_name": "마들렌",
+            "price": "2,800원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20231224_295%2F1703420625397JglJF_JPEG%2FIMG_9216.jpeg",
+            "menu_name": "초코 마들렌",
+            "price": "3,300원"
+        }
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "store_name": "타코락 일광점",
+    "store_location": "부산 기장군 일광읍 해빛6로 85-10 102호",
+    "loc_x": "402517.290415973",
+    "loc_y": "198510.61238309",
+    "menu": [
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241210_74%2F1733789875879XmPX6_JPEG%2FIMG_1988.jpeg",
+            "menu_name": "오리지날타코야끼",
+            "price": "5,000원"
+        },
+        {
+            "category": "",
+            "img_src": "",
+            "menu_name": "파 타코야끼",
+            "price": "6,000원"
+        },
+        {
+            "category": "",
+            "img_src": "",
+            "menu_name": "데리야끼타코야끼",
+            "price": "5,000원"
+        }
+    ]
+}

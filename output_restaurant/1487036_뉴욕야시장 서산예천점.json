@@ -1,0 +1,98 @@
+{
+    "store_name": "뉴욕야시장 서산예천점",
+    "store_location": "충남 서산시 예천4로 19-8 1층 101호",
+    "loc_x": "150749.701849086",
+    "loc_y": "362963.618153597",
+    "menu": [
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241127_211%2F1732700168936EaGtL_JPEG%2FNY3_%25B4%25BA%25BF%25E5%25B5%25EE%25BD%25C9%25BD%25BA%25C5%25D7%25C0%25CC%25C5%25A9.jpg",
+            "menu_name": "뉴욕 등심 스테이크",
+            "price": "20,900원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241127_290%2F1732700205414iILh3_JPEG%2FNY9_%25C7%25D1%25BF%25EC%25BD%25BA%25C5%25D7%25C0%25CC%25C5%25A9_%25C4%25BF%25C6%25C3.jpg",
+            "menu_name": "한우 스테이크",
+            "price": "21,900원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241127_206%2F1732700291319y4o98_JPEG%2FNY6_%25C7%25CE%25B0%25C5%25BD%25BA%25C5%25D7%25C0%25CC%25C5%25A9.jpg",
+            "menu_name": "핑거스테이크",
+            "price": "16,900원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241127_40%2F17327002370269J2oo_JPEG%2FNY4_%25B8%25B6%25C0%25CC%25C4%25DD%25C0%25C7%25B8%25C6%25BE%25D8%25C4%25A1%25C1%25EE%25BD%25BA%25C5%25D7%25C0%25CC%25C5%25A9.jpg",
+            "menu_name": "마이콜의 맥앤치즈 스테이크",
+            "price": "22,900원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241127_25%2F17327003265881vFfz_JPEG%2FNY9_%25C5%25EB%25B4%25D9%25B8%25AE%25BD%25CE%25C0%25CC%25BC%25F8%25BB%25EC6%25C1%25B6%25B0%25A2.jpg",
+            "menu_name": "통다리싸이순살 6조각",
+            "price": "9,900원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241127_205%2F1732700502654nvFN1_JPEG%2FNY9_%25C5%25E4%25B8%25B6%25C5%25E4%25C7%25D8%25C0%25E5%25C6%25C4%25BD%25BA%25C5%25C1.jpg",
+            "menu_name": "토마토 해장파스탕",
+            "price": "23,900원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241127_14%2F17327013684349jxBM_JPEG%2FNY15_%25BD%25A1%25BA%25D2%25B9%25AB%25BB%25C0%25B4%25DF%25B9%25DF.jpg",
+            "menu_name": "숯불무뼈닭발",
+            "price": "19,900원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241127_62%2F1732701158619yxYRD_JPEG%2FNY3_%25C4%25DC%25C4%25A1%25C1%25EE%25C7%25B0%25C0%25BA%25C5%25B3%25B9%25D9%25BB%25E7.jpg",
+            "menu_name": "콘치즈 품은 칼바사",
+            "price": "12,900원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241127_29%2F1732701095112DaphR_JPEG%2FNY8_%25BF%25CD%25C0%25CE%25B9%25D9%25C1%25F6%25B6%25F4%25BC%25FA%25C2%25F2.jpg",
+            "menu_name": "와인 바지락술찜",
+            "price": "17,900원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241127_4%2F1732701055456lt2TD_JPEG%2FNY9_%25C4%25A1%25C1%25EE%25C2%25CC%25BA%25BA%25C0%25CC.jpg",
+            "menu_name": "치즈 쫄볶이",
+            "price": "9,900원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241127_173%2F173270092852763j1I_JPEG%2FNY6_%25B0%25A1%25B9%25AE%25BE%25EE%25B9%25F6%25C5%25CD%25B1%25B8%25C0%25CC.jpg",
+            "menu_name": "가문어 버터구이",
+            "price": "7,900원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241127_47%2F1732700901831OW2pN_JPEG%2FNY8_%25BE%25EE%25B9%25AC%25C6%25A2%25B1%25E8%25B5%25EB%25BB%25D2%25B1%25B9%25B9%25B0%25B6%25B1%25BA%25BA%25C0%25CC.jpg",
+            "menu_name": "어묵튀김듬뿍 국물떡볶이",
+            "price": "9,900원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241127_85%2F1732700878613Csuec_JPEG%2FNY2_%25C4%25A1%25C1%25EE%25C6%25F7%25C5%25D7%25C0%25CC%25C5%25E4.jpg",
+            "menu_name": "치즈 포테이토",
+            "price": "6,900원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241127_99%2F1732700859814sRYEa_JPEG%2FNY1_%25BC%25F6%25C1%25A6%25BC%25D2%25BC%25BC%25C1%25F62EA.jpg",
+            "menu_name": "수제 소세지",
+            "price": "5,800원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241127_151%2F1732700795816cxBQR_JPEG%2FNY6_%25B8%25C1%25B0%25ED%25C3%25F2%25B7%25AF%25BD%25BA%25BE%25C6%25C0%25CC%25BD%25BA%25C5%25A9%25B8%25B2.jpg",
+            "menu_name": "망고츄러스 아이스크림",
+            "price": "8,900원"
+        }
+    ]
+}

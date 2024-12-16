@@ -1,0 +1,62 @@
+{
+    "store_name": "부원1번뒷고기",
+    "store_location": "경남 김해시 가락로23번길 5 1층",
+    "loc_x": "371252.175772026",
+    "loc_y": "193737.350848965",
+    "menu": [
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241205_175%2F1733370957904K5FEC_JPEG%2F%25BA%25CE%25BF%25F81%25B9%25F8%25B5%25DE%25B0%25ED%25B1%25E2.jpg",
+            "menu_name": "생뒷고기",
+            "price": "7,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241205_171%2F173337108824039Bq8_JPEG%2F%25BA%25CE%25BF%25F81%25B9%25F8%25B5%25DE%25B0%25ED%25B1%25E2.jpg",
+            "menu_name": "뒷통구이",
+            "price": "8,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241205_220%2F1733371130550JvVvo_JPEG%2F%25BA%25CE%25BF%25F81%25B9%25F8%25B5%25DE%25B0%25ED%25B1%25E2.jpg",
+            "menu_name": "생삼겹살",
+            "price": "8,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241205_237%2F17333709705919CSKo_JPEG%2F%25BA%25CE%25BF%25F81%25B9%25F8%25B5%25DE%25B0%25ED%25B1%25E2.jpg",
+            "menu_name": "대패삼겹살",
+            "price": "5,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241205_14%2F1733371150229KlVQD_JPEG%2F%25BA%25CE%25BF%25F81%25B9%25F8%25B5%25DE%25B0%25ED%25B1%25E2.jpg",
+            "menu_name": "돼지껍데기",
+            "price": "5,000원"
+        },
+        {
+            "category": "",
+            "img_src": "",
+            "menu_name": "국수",
+            "price": "4,000원"
+        },
+        {
+            "category": "",
+            "img_src": "",
+            "menu_name": "된장찌개",
+            "price": "3,000원"
+        },
+        {
+            "category": "",
+            "img_src": "",
+            "menu_name": "라면",
+            "price": "3,000원"
+        },
+        {
+            "category": "",
+            "img_src": "",
+            "menu_name": "공기밥",
+            "price": "1,000원"
+        }
+    ]
+}

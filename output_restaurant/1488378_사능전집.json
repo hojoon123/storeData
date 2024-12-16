@@ -1,0 +1,14 @@
+{
+    "store_name": "사능전집",
+    "store_location": "경기 남양주시 진건읍 진건오남로86번길 30 가동 101호",
+    "loc_x": "215898.977220085",
+    "loc_y": "461773.539683707",
+    "menu": [
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240103_244%2F1704269366636bUfnt_JPEG%2F1000007447.jpg",
+            "menu_name": "모듬전",
+            "price": "23,000원"
+        }
+    ]
+}

@@ -1,0 +1,74 @@
+{
+    "store_name": "나이테, 나의 이로운 테이블",
+    "store_location": "제주 제주시 구좌읍 세화3길 35 2층 나이테",
+    "loc_x": "186571.87744704",
+    "loc_y": "3346.63398912984",
+    "menu": [
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241213_38%2F1734020832427sL5ie_JPEG%2FIMG_7670.jpeg",
+            "menu_name": "브라운치즈크로플",
+            "price": "6,500원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241213_217%2F1734020327574AbR90_JPEG%2FIMG_7650.jpeg",
+            "menu_name": "(Season) 딸기눈꽃빙수",
+            "price": "13,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241213_159%2F1734020932540l3Lm9_JPEG%2FIMG_7667.jpeg",
+            "menu_name": "(Season)딸기 생크림 크로플",
+            "price": "6,800원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241213_236%2F1734020669761f5UYk_JPEG%2FIMG_7665.jpeg",
+            "menu_name": "(Season)딸기말차빙수",
+            "price": "14,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240612_97%2F1718159509683Ci35X_JPEG%2FIMG_3199.jpeg",
+            "menu_name": "팥빙수",
+            "price": "7,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240612_135%2F1718159538465kzQyu_JPEG%2FIMG_3205.jpeg",
+            "menu_name": "제주 보리개역 빙수",
+            "price": "7,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240612_193%2F1718159584852XlO6d_JPEG%2FIMG_3201.jpeg",
+            "menu_name": "녹차빙수",
+            "price": "8,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240612_153%2F1718159639153xwrc5_JPEG%2FIMG_3202.jpeg",
+            "menu_name": "로열밀크티빙수",
+            "price": "8,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240612_197%2F1718159881916TBXta_JPEG%2FIMG_3204.jpeg",
+            "menu_name": "말차테린느",
+            "price": "5,500원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240703_256%2F1719976548213yrTdo_JPEG%2FIMG_3356.jpeg",
+            "menu_name": "(Season off)제주애플망고빙수",
+            "price": "21,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240612_282%2F17181597131740euMc_JPEG%2FIMG_3203.jpeg",
+            "menu_name": "(Season off)제주애플망고빙수",
+            "price": "39,000원"
+        }
+    ]
+}

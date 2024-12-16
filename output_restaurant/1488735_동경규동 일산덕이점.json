@@ -1,0 +1,350 @@
+{
+    "store_name": "동경규동 일산덕이점",
+    "store_location": "경기 고양시 일산서구 미래로 229 미빈빌딩 1층",
+    "loc_x": "177530.759123712",
+    "loc_y": "466332.729352686",
+    "menu": [
+        {
+            "category": "대표메뉴",
+            "img_src": "",
+            "menu_name": "[인기메뉴] 김치치즈가츠동",
+            "price": "10,900원"
+        },
+        {
+            "category": "대표메뉴",
+            "img_src": "",
+            "menu_name": "[야심작 신메뉴] 규동 메가콤보",
+            "price": "12,500원"
+        },
+        {
+            "category": "대표메뉴",
+            "img_src": "",
+            "menu_name": "[동경에서먹었던그맛] 규동",
+            "price": "9,200원"
+        },
+        {
+            "category": "세트메뉴",
+            "img_src": "",
+            "menu_name": "[쌀쌀한날 만족도 1위] 김치가츠나베 정식세트",
+            "price": "14,500원"
+        },
+        {
+            "category": "세트메뉴",
+            "img_src": "",
+            "menu_name": "[든든하고 시원하게]돈가츠 냉모밀 정식",
+            "price": "15,500원"
+        },
+        {
+            "category": "세트메뉴",
+            "img_src": "",
+            "menu_name": "[주문폭주]야끼규 냉모밀 정식",
+            "price": "14,800원"
+        },
+        {
+            "category": "세트메뉴",
+            "img_src": "",
+            "menu_name": "[숙성수제등심] 등심돈가츠 정식SET",
+            "price": "15,000원"
+        },
+        {
+            "category": "세트메뉴",
+            "img_src": "",
+            "menu_name": "[인기메뉴] 푸짐규동한상 SET",
+            "price": "14,500원"
+        },
+        {
+            "category": "세트메뉴",
+            "img_src": "",
+            "menu_name": "[콧물주의] 맵맵푸짐 SET",
+            "price": "15,000원"
+        },
+        {
+            "category": "세트메뉴",
+            "img_src": "",
+            "menu_name": "[홀 인기1위]규동(소)대파 유린치킨세트",
+            "price": "12,500원"
+        },
+        {
+            "category": "정통일식 규동",
+            "img_src": "",
+            "menu_name": "[야심작 신메뉴] 규동 메가콤보",
+            "price": "12,500원"
+        },
+        {
+            "category": "정통일식 규동",
+            "img_src": "",
+            "menu_name": "[동경에서먹었던그맛] 규동",
+            "price": "9,200원"
+        },
+        {
+            "category": "정통일식 규동",
+            "img_src": "",
+            "menu_name": "[직화구이] 야끼규동",
+            "price": "9,700원"
+        },
+        {
+            "category": "정통일식 규동",
+            "img_src": "",
+            "menu_name": "[직화구이] 매운야끼규동",
+            "price": "9,900원"
+        },
+        {
+            "category": "정통일식 규동",
+            "img_src": "",
+            "menu_name": "모짜렐라치즈+매운야끼규동",
+            "price": "10,700원"
+        },
+        {
+            "category": "정통일식 규동",
+            "img_src": "",
+            "menu_name": "불판김치규동+온센타마고",
+            "price": "10,300원"
+        },
+        {
+            "category": "정통일식 규동",
+            "img_src": "",
+            "menu_name": "오꼬노미 규타마동",
+            "price": "10,200원"
+        },
+        {
+            "category": "정통일식 규동",
+            "img_src": "",
+            "menu_name": "김치규동",
+            "price": "9,500원"
+        },
+        {
+            "category": "정통일식 규동",
+            "img_src": "",
+            "menu_name": "네기규동",
+            "price": "9,800원"
+        },
+        {
+            "category": "정통일식 규동",
+            "img_src": "",
+            "menu_name": "[한국인의 입맛]돼지갈비동",
+            "price": "8,900원"
+        },
+        {
+            "category": "정통일식 규동",
+            "img_src": "",
+            "menu_name": "[돼지갈비와 김치의만남]돼지두루치기동",
+            "price": "9,500원"
+        },
+        {
+            "category": "돈부리 ( 돈까스 , 치킨 , 새우튀김 )",
+            "img_src": "",
+            "menu_name": "[국내산등심] 수제등심돈가츠정식(+가쓰오우동)",
+            "price": "15,000원"
+        },
+        {
+            "category": "돈부리 ( 돈까스 , 치킨 , 새우튀김 )",
+            "img_src": "",
+            "menu_name": "[국내산등심] 가츠동",
+            "price": "9,700원"
+        },
+        {
+            "category": "돈부리 ( 돈까스 , 치킨 , 새우튀김 )",
+            "img_src": "",
+            "menu_name": "[인기메뉴] 김치치즈가츠동",
+            "price": "10,900원"
+        },
+        {
+            "category": "돈부리 ( 돈까스 , 치킨 , 새우튀김 )",
+            "img_src": "",
+            "menu_name": "[국내산등심]김치가츠동",
+            "price": "9,900원"
+        },
+        {
+            "category": "돈부리 ( 돈까스 , 치킨 , 새우튀김 )",
+            "img_src": "",
+            "menu_name": "[국내산등심]치즈가츠동",
+            "price": "10,400원"
+        },
+        {
+            "category": "돈부리 ( 돈까스 , 치킨 , 새우튀김 )",
+            "img_src": "",
+            "menu_name": "[점보새우튀김] 타마고 에비텐동",
+            "price": "10,900원"
+        },
+        {
+            "category": "돈부리 ( 돈까스 , 치킨 , 새우튀김 )",
+            "img_src": "",
+            "menu_name": "[다리살] 치킨가라아게동",
+            "price": "9,500원"
+        },
+        {
+            "category": "돈부리 ( 돈까스 , 치킨 , 새우튀김 )",
+            "img_src": "",
+            "menu_name": "치킨마요동",
+            "price": "9,500원"
+        },
+        {
+            "category": "정통 일본식 카레",
+            "img_src": "",
+            "menu_name": "[국내산등심] 가츠카레",
+            "price": "10,000원"
+        },
+        {
+            "category": "정통 일본식 카레",
+            "img_src": "",
+            "menu_name": "[촉촉바삭]에비텐 카레",
+            "price": "9,900원"
+        },
+        {
+            "category": "정통 일본식 카레",
+            "img_src": "",
+            "menu_name": "[다리살] 치킨카레",
+            "price": "9,600원"
+        },
+        {
+            "category": "정통 일본식 카레",
+            "img_src": "",
+            "menu_name": "고로케 카레",
+            "price": "9,400원"
+        },
+        {
+            "category": "정통 일본식 카레",
+            "img_src": "",
+            "menu_name": "야끼규 카레",
+            "price": "9,800원"
+        },
+        {
+            "category": "정통일식 가쓰오 우동",
+            "img_src": "",
+            "menu_name": "[시원한] 냉모밀",
+            "price": "8,300원"
+        },
+        {
+            "category": "정통일식 가쓰오 우동",
+            "img_src": "",
+            "menu_name": "[고기듬뿍 해장만족] 얼큰니꾸우동",
+            "price": "9,800원"
+        },
+        {
+            "category": "정통일식 가쓰오 우동",
+            "img_src": "",
+            "menu_name": "[고기듬뿍]니꾸우동",
+            "price": "9,500원"
+        },
+        {
+            "category": "정통일식 가쓰오 우동",
+            "img_src": "",
+            "menu_name": "[수제 점보새우가 통째로] 에비텐 카레우동",
+            "price": "9,500원"
+        },
+        {
+            "category": "정통일식 가쓰오 우동",
+            "img_src": "",
+            "menu_name": "가쓰오 우동",
+            "price": "6,900원"
+        },
+        {
+            "category": "정통일식 가쓰오 우동",
+            "img_src": "",
+            "menu_name": "에비텐 냉모밀",
+            "price": "9,800원"
+        },
+        {
+            "category": "정통일식 가쓰오 우동",
+            "img_src": "",
+            "menu_name": "유부듬뿍김치우동",
+            "price": "7,500원"
+        },
+        {
+            "category": "사이드메뉴",
+            "img_src": "",
+            "menu_name": "수제등심 미니돈까스",
+            "price": "4,900원"
+        },
+        {
+            "category": "사이드메뉴",
+            "img_src": "",
+            "menu_name": "대파 유린돈가츠",
+            "price": "5,900원"
+        },
+        {
+            "category": "사이드메뉴",
+            "img_src": "",
+            "menu_name": "대파 유린치킨",
+            "price": "5,900원"
+        },
+        {
+            "category": "사이드메뉴",
+            "img_src": "",
+            "menu_name": "치킨가라아게5개",
+            "price": "4,800원"
+        },
+        {
+            "category": "사이드메뉴",
+            "img_src": "",
+            "menu_name": "왕새우튀김2개",
+            "price": "4,700원"
+        },
+        {
+            "category": "사이드메뉴",
+            "img_src": "",
+            "menu_name": "왕감자 고로케 2개",
+            "price": "4,800원"
+        },
+        {
+            "category": "사이드메뉴",
+            "img_src": "",
+            "menu_name": "감자고로케4개 (샐러드미포함)(4개)",
+            "price": "4,700원"
+        },
+        {
+            "category": "사이드메뉴",
+            "img_src": "",
+            "menu_name": "감자고로케4개 (샐러드미포함)(8개)",
+            "price": "9,000원"
+        },
+        {
+            "category": "사이드메뉴",
+            "img_src": "",
+            "menu_name": "정통일식 수제카레(190g)",
+            "price": "3,400원"
+        },
+        {
+            "category": "사이드메뉴",
+            "img_src": "",
+            "menu_name": "냉모밀 (소)",
+            "price": "4,500원"
+        },
+        {
+            "category": "사이드메뉴",
+            "img_src": "",
+            "menu_name": "가쓰오우동 (소)",
+            "price": "3,900원"
+        },
+        {
+            "category": "사이드메뉴",
+            "img_src": "",
+            "menu_name": "후리가케공기밥",
+            "price": "1,500원"
+        },
+        {
+            "category": "사이드메뉴",
+            "img_src": "",
+            "menu_name": "콜라",
+            "price": "2,000원"
+        },
+        {
+            "category": "사이드메뉴",
+            "img_src": "",
+            "menu_name": "제로콜라",
+            "price": "2,000원"
+        },
+        {
+            "category": "사이드메뉴",
+            "img_src": "",
+            "menu_name": "사이다",
+            "price": "2,000원"
+        },
+        {
+            "category": "사이드메뉴",
+            "img_src": "",
+            "menu_name": "온센타마고(반숙란)",
+            "price": "1,200원"
+        }
+    ]
+}

@@ -1,0 +1,56 @@
+{
+    "store_name": "멘야 쿠지라",
+    "store_location": "세종 부강면 부강외천로 24",
+    "loc_x": "233112.670127723",
+    "loc_y": "336312.389546665",
+    "menu": [
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240329_178%2F17117070153092cv56_JPEG%2FIMG_9062.jpeg",
+            "menu_name": "돈코츠라멘",
+            "price": "9,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240329_176%2F1711706999953uzT2I_JPEG%2FIMG_9185.jpeg",
+            "menu_name": "매운라멘",
+            "price": "9,500원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240620_88%2F1718850120534RBxtU_JPEG%2FIMG_1779.jpeg",
+            "menu_name": "냉라멘",
+            "price": "9,500원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240628_201%2F17195687236191NXsQ_JPEG%2FIMG_2021.jpeg",
+            "menu_name": "교자(4개)",
+            "price": "3,500원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240329_137%2F1711706631223QqvzB_JPEG%2Fprocessed-B29317A9-509D-4788-8A78-D8A6BF4BE8F1.jpeg",
+            "menu_name": "네기토로덮밥",
+            "price": "11,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240629_179%2F1719635445962OlGvH_JPEG%2FIMG_2041.jpeg",
+            "menu_name": "쇼유라멘",
+            "price": "8,500원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240628_247%2F1719569070701DoFys_JPEG%2FIMG_1966.jpeg",
+            "menu_name": "쿠지라덮밥",
+            "price": "3,500원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240329_175%2F1711706976348REvjt_JPEG%2FIMG_7917.jpeg",
+            "menu_name": "비프카레덮밥",
+            "price": "8,500원"
+        }
+    ]
+}

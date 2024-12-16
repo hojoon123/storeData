@@ -1,0 +1,194 @@
+{
+    "store_name": "소문한우정육식당",
+    "store_location": "전남 나주시 청동길 22",
+    "loc_x": "174909.589305642",
+    "loc_y": "170855.145012765",
+    "menu": [
+        {
+            "category": "대표메뉴",
+            "img_src": "",
+            "menu_name": "한우육회비빔밥(일반 (70g))",
+            "price": "10,000원"
+        },
+        {
+            "category": "대표메뉴",
+            "img_src": "",
+            "menu_name": "한우육회비빔밥(특 (110g))",
+            "price": "13,000원"
+        },
+        {
+            "category": "대표메뉴",
+            "img_src": "",
+            "menu_name": "한우육회초밥(6 PCS)",
+            "price": "6,000원"
+        },
+        {
+            "category": "대표메뉴",
+            "img_src": "",
+            "menu_name": "한우육회초밥(12 PCS)",
+            "price": "10,000원"
+        },
+        {
+            "category": "대표메뉴",
+            "img_src": "",
+            "menu_name": "더위야 안녕~ 한우육회물회(일반 (70g))",
+            "price": "15,000원"
+        },
+        {
+            "category": "대표메뉴",
+            "img_src": "",
+            "menu_name": "더위야 안녕~ 한우육회물회(특 (110g))",
+            "price": "20,000원"
+        },
+        {
+            "category": "한우물회",
+            "img_src": "",
+            "menu_name": "더위야 안녕~ 한우육회물회(일반 (70g))",
+            "price": "15,000원"
+        },
+        {
+            "category": "한우물회",
+            "img_src": "",
+            "menu_name": "더위야 안녕~ 한우육회물회(특 (110g))",
+            "price": "20,000원"
+        },
+        {
+            "category": "한우물회",
+            "img_src": "",
+            "menu_name": "더위야 안녕~ 한우불고기 물회(일반 (100g))",
+            "price": "15,000원"
+        },
+        {
+            "category": "한우물회",
+            "img_src": "",
+            "menu_name": "더위야 안녕~ 한우불고기 물회(특 (180g))",
+            "price": "20,000원"
+        },
+        {
+            "category": "한우비빔밥",
+            "img_src": "",
+            "menu_name": "한우육회비빔밥(일반 (70g))",
+            "price": "10,000원"
+        },
+        {
+            "category": "한우비빔밥",
+            "img_src": "",
+            "menu_name": "한우육회비빔밥(특 (110g))",
+            "price": "13,000원"
+        },
+        {
+            "category": "한우비빔밥",
+            "img_src": "",
+            "menu_name": "한우익힘비빔밥(일반)",
+            "price": "10,000원"
+        },
+        {
+            "category": "한우비빔밥",
+            "img_src": "",
+            "menu_name": "한우익힘비빔밥(특)",
+            "price": "13,000원"
+        },
+        {
+            "category": "한우특미",
+            "img_src": "",
+            "menu_name": "한우나주곰탕",
+            "price": "10,000원"
+        },
+        {
+            "category": "한우특미",
+            "img_src": "",
+            "menu_name": "한우 불백(2인 기준 400g)",
+            "price": "30,000원"
+        },
+        {
+            "category": "한우특미",
+            "img_src": "",
+            "menu_name": "한우육회초밥(6 PCS)",
+            "price": "6,000원"
+        },
+        {
+            "category": "한우특미",
+            "img_src": "",
+            "menu_name": "한우육회초밥(12 PCS)",
+            "price": "10,000원"
+        },
+        {
+            "category": "냉면",
+            "img_src": "",
+            "menu_name": "비빔냉면",
+            "price": "10,000원"
+        },
+        {
+            "category": "대게메뉴",
+            "img_src": "",
+            "menu_name": "대게찜(한마리)",
+            "price": "49,000원"
+        },
+        {
+            "category": "육회, 생고기(육사시미)",
+            "img_src": "",
+            "menu_name": "한우 육회 순한맛 (담백한 맛)(200g)",
+            "price": "24,000원"
+        },
+        {
+            "category": "육회, 생고기(육사시미)",
+            "img_src": "",
+            "menu_name": "한우 육회 순한맛 (담백한 맛)(300g)",
+            "price": "35,000원"
+        },
+        {
+            "category": "육회, 생고기(육사시미)",
+            "img_src": "",
+            "menu_name": "한우 육회 알싸한맛 (얼큰한 맛)(200g)",
+            "price": "24,000원"
+        },
+        {
+            "category": "육회, 생고기(육사시미)",
+            "img_src": "",
+            "menu_name": "한우 육회 알싸한맛 (얼큰한 맛)(300g)",
+            "price": "35,000원"
+        },
+        {
+            "category": "육회, 생고기(육사시미)",
+            "img_src": "",
+            "menu_name": "한우 생고기(육사시미)(200g)",
+            "price": "30,000원"
+        },
+        {
+            "category": "육회, 생고기(육사시미)",
+            "img_src": "",
+            "menu_name": "한우 생고기(육사시미)(300g)",
+            "price": "42,000원"
+        },
+        {
+            "category": "육회, 생고기(육사시미)",
+            "img_src": "",
+            "menu_name": "한우 생고기(육사시미)(400g)",
+            "price": "50,000원"
+        },
+        {
+            "category": "음료메뉴",
+            "img_src": "",
+            "menu_name": "코카콜라(355ml)",
+            "price": "2,000원"
+        },
+        {
+            "category": "음료메뉴",
+            "img_src": "",
+            "menu_name": "제로콜라(355ml)",
+            "price": "2,000원"
+        },
+        {
+            "category": "음료메뉴",
+            "img_src": "",
+            "menu_name": "스프라이트(355ml)",
+            "price": "2,000원"
+        },
+        {
+            "category": "음료메뉴",
+            "img_src": "",
+            "menu_name": "환타 파인(355ml)",
+            "price": "2,000원"
+        }
+    ]
+}

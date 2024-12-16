@@ -1,0 +1,14 @@
+{
+    "store_name": "포심",
+    "store_location": "경남 창원시 의창구 원이대로20번길 18-9 1층",
+    "loc_x": "348198.915646825",
+    "loc_y": "196865.310785619",
+    "menu": [
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241208_288%2F17336495951907KO0v_JPEG%2F%25C6%25F7%25BD%25C9%25B1%25B9%25BC%25F6.jpg",
+            "menu_name": "프리미엄황태국수",
+            "price": "13,000원"
+        }
+    ]
+}

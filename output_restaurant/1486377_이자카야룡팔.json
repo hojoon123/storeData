@@ -1,0 +1,98 @@
+{
+    "store_name": "이자카야룡팔",
+    "store_location": "경남 창원시 의창구 창원대로397번길 8-9 1층 106호",
+    "loc_x": "349439.058958341",
+    "loc_y": "194081.122570472",
+    "menu": [
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241214_228%2F1734140198485FqFIi_JPEG%2FIMG_9012.jpeg",
+            "menu_name": "사케",
+            "price": "35,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241214_276%2F17341401892286QAfX_JPEG%2FIMG_9012.jpeg",
+            "menu_name": "사와 (레몬,자몽,유자)",
+            "price": "3,900원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241214_54%2F1734140173308Y3MJT_JPEG%2FIMG_9012.jpeg",
+            "menu_name": "산토리하이볼플레이버(레몬,자몽,유자)",
+            "price": "7,900원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241214_172%2F17341401646308emcP_JPEG%2FIMG_9012.jpeg",
+            "menu_name": "소주",
+            "price": "4,900원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241214_55%2F1734140155786u7Y66_JPEG%2FIMG_9012.jpeg",
+            "menu_name": "카스 생맥주",
+            "price": "1,900원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241214_15%2F1734140144972ydMXh_JPEG%2FIMG_9012.jpeg",
+            "menu_name": "기린이찌방 생맥주",
+            "price": "4,900원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241214_62%2F1734140136890jXYAX_JPEG%2FIMG_9012.jpeg",
+            "menu_name": "산토리 하이볼",
+            "price": "6,900원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241212_29%2F1733930654953CmuOg_JPEG%2FIMG_8947.jpeg",
+            "menu_name": "트러플 짜파게티",
+            "price": "6,900원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241212_108%2F1733930585426cqKiM_JPEG%2FIMG_8947.jpeg",
+            "menu_name": "돈코츠 라멘",
+            "price": "7,900원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241212_29%2F1733930559635ERa9A_JPEG%2FIMG_8947.jpeg",
+            "menu_name": "요쿠르트 샤베트",
+            "price": "4,900원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241212_180%2F1733930544205BoYF6_JPEG%2FIMG_8947.jpeg",
+            "menu_name": "파인애플 샤베트",
+            "price": "4,900원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241212_193%2F17339305175192GxtF_JPEG%2FIMG_8947.jpeg",
+            "menu_name": "규 타다끼",
+            "price": "17,900원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241212_195%2F1733930493352pLIhK_JPEG%2FIMG_8947.jpeg",
+            "menu_name": "모찌리도후",
+            "price": "7,900원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241212_291%2F1733930466564HIQI6_JPEG%2FIMG_8947.jpeg",
+            "menu_name": "타코와사비",
+            "price": "9,900원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241212_158%2F17339304356357kHyo_JPEG%2FIMG_8947.jpeg",
+            "menu_name": "오꼬노미야끼",
+            "price": "11,900원"
+        }
+    ]
+}

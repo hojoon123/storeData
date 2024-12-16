@@ -1,0 +1,14 @@
+{
+    "store_name": "돈부집",
+    "store_location": "경기 수원시 장안구 장안로89번길 43 1층",
+    "loc_x": "199931.672922466",
+    "loc_y": "421010.917013314",
+    "menu": [
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20231227_95%2F17036635467044JwXX_JPEG%2FKakaoTalk_20231227_092637978_13.jpg",
+            "menu_name": "돈부속모듬구이",
+            "price": "12,000원"
+        }
+    ]
+}

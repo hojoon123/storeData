@@ -1,0 +1,62 @@
+{
+    "store_name": "구오구사푸드",
+    "store_location": "경남 창원시 의창구 의안로12번길 11 101호",
+    "loc_x": "347789.804051729",
+    "loc_y": "197142.948556801",
+    "menu": [
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241207_286%2F1733574588407R5vp3_JPEG%2FKakaoTalk_20241202_124433671_02.jpg",
+            "menu_name": "가야물비빔냉면",
+            "price": "7,900원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241207_291%2F1733574575432pn3Be_JPEG%2FKakaoTalk_20241202_124433671.jpg",
+            "menu_name": "가야비빔냉면",
+            "price": "7,900원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241207_271%2F1733574546243h2RaI_JPEG%2FKakaoTalk_20241202_124433671_01.jpg",
+            "menu_name": "가야물냉면",
+            "price": "7,900원"
+        },
+        {
+            "category": "",
+            "img_src": "",
+            "menu_name": "1인 든든돼지김치찜",
+            "price": "12,900원"
+        },
+        {
+            "category": "",
+            "img_src": "",
+            "menu_name": "1인 든든참치김치찜",
+            "price": "12,900원"
+        },
+        {
+            "category": "",
+            "img_src": "",
+            "menu_name": "1인 든든스팸김치찜",
+            "price": "13,900원"
+        },
+        {
+            "category": "",
+            "img_src": "",
+            "menu_name": "1인 든든우삼겹김치찜",
+            "price": "13,900원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241207_90%2F1733574460818Xxi6N_JPEG%2FKakaoTalk_20241202_124416724_10.jpg",
+            "menu_name": "오리불고기 1인도시",
+            "price": "15,900원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241207_16%2F1733574422487hXS35_JPEG%2FKakaoTalk_20241202_124416724_11.jpg",
+            "menu_name": "한우소고기국밥",
+            "price": "9,500원"
+        }
+    ]
+}

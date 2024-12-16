@@ -1,0 +1,56 @@
+{
+    "store_name": "밀커피",
+    "store_location": "부산 해운대구 송정중앙로36번길 5 1층",
+    "loc_x": "400703.850465679",
+    "loc_y": "189187.894956052",
+    "menu": [
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240327_69%2F1711507636427TDgMd_JPEG%2F1000006015.jpg",
+            "menu_name": "참치샌드위치",
+            "price": "6,900원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240327_144%2F1711507708859bF8eM_JPEG%2F1000005430.jpg",
+            "menu_name": "에그마요",
+            "price": "5,900원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240327_217%2F1711507796195DqHML_JPEG%2F1000005429.jpg",
+            "menu_name": "바질토마토샌드위치",
+            "price": "8,300원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20231207_85%2F1701916691793iNJw1_JPEG%2F1701916676966.jpg",
+            "menu_name": "달콤 불고기 샌드위치",
+            "price": "7,900원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20231207_283%2F1701916469573Ixwdq_JPEG%2F1701916452405.jpg",
+            "menu_name": "햄치즈에그 샌드위치",
+            "price": "6,900원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240327_206%2F1711507907185gib1h_JPEG%2F1000005427.jpg",
+            "menu_name": "핵불닭마요닭가슴살샌드위치",
+            "price": "7,800원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240327_295%2F17115078407590pyfJ_JPEG%2F1000005433.jpg",
+            "menu_name": "닭가슴살 샌드위치",
+            "price": "7,300원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240327_234%2F17115076070233B6gm_JPEG%2F1000006017.jpg",
+            "menu_name": "단호박샌드위치",
+            "price": "7,300원"
+        }
+    ]
+}

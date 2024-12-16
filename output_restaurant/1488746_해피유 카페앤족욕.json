@@ -1,0 +1,74 @@
+{
+    "store_name": "해피유 카페앤족욕",
+    "store_location": "경기 파주시 산남로 94 1층",
+    "loc_x": "173013.0666542",
+    "loc_y": "466355.860131837",
+    "menu": [
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240128_281%2F17064202982127KVud_JPEG%2F1706420270154.jpg",
+            "menu_name": "대추차",
+            "price": "6,000원"
+        },
+        {
+            "category": "",
+            "img_src": "",
+            "menu_name": "레몬 아이스티",
+            "price": "5,000원"
+        },
+        {
+            "category": "",
+            "img_src": "",
+            "menu_name": "복숭아 아이스티",
+            "price": "5,000원"
+        },
+        {
+            "category": "",
+            "img_src": "",
+            "menu_name": "레몬 에이드",
+            "price": "6,000원"
+        },
+        {
+            "category": "",
+            "img_src": "",
+            "menu_name": "체리 에이드",
+            "price": "6,000원"
+        },
+        {
+            "category": "",
+            "img_src": "",
+            "menu_name": "자몽에이드",
+            "price": "6,000원"
+        },
+        {
+            "category": "",
+            "img_src": "",
+            "menu_name": "에스프레소",
+            "price": "3,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240128_24%2F1706420227680NatGG_JPEG%2F1000033968.jpg",
+            "menu_name": "아메리카노",
+            "price": "3,000원"
+        },
+        {
+            "category": "",
+            "img_src": "",
+            "menu_name": "카페라떼",
+            "price": "4,000원"
+        },
+        {
+            "category": "",
+            "img_src": "",
+            "menu_name": "바닐라라떼",
+            "price": "4,500원"
+        },
+        {
+            "category": "",
+            "img_src": "",
+            "menu_name": "카라멜라떼",
+            "price": "4,500원"
+        }
+    ]
+}

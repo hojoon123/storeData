@@ -1,0 +1,98 @@
+{
+    "store_name": "척척버거 양산본점",
+    "store_location": "경남 양산시 물금읍 야리4길 13 118호",
+    "loc_x": "382823.600718891",
+    "loc_y": "203518.064584145",
+    "menu": [
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241208_282%2F1733643964079kBppt_JPEG%2F%25C3%25B4%25C3%25B4%25BC%25BC%25C6%25AE.JPG",
+            "menu_name": "척척버거세트",
+            "price": "12,100원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241208_6%2F1733644102394mfVMu_PNG%2F%25C3%25B4%25C3%25B4_%25C0%25FC%25C3%25BC%25BC%25A6.png",
+            "menu_name": "척척버거세트M+척척버거M(버거하나더!",
+            "price": "15,200원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241208_241%2F1733643833007rDmJe_PNG%2F%25C3%25B4%25C3%25B4_%25C0%25FC%25C3%25BC%25BC%25A6.png",
+            "menu_name": "1인가성비세트",
+            "price": "13,200원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241208_235%2F1733643720227Lfois_JPEG%2F%25BF%25CD%25BB%25E7%25B8%25B6%25BF%25E4%25BD%25AC%25B8%25B2%25C7%25C1%25BC%25BC%25C6%25AE.JPG",
+            "menu_name": "직화통새우버거세트",
+            "price": "12,600원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241208_113%2F1733643849976n4r4p_JPEG%2F%25BA%25A3%25C0%25CC%25C4%25C1%25BC%25BC%25C6%25AE.JPG",
+            "menu_name": "베이컨버거세트(바베큐소스)",
+            "price": "12,600원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241208_108%2F1733643947940SCMuX_JPEG%2F%25BC%25D2%25BA%25D2%25B0%25ED%25B1%25E2%25BC%25BC%25C6%25AE.JPG",
+            "menu_name": "소불고기버거세트",
+            "price": "10,600원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241208_91%2F1733643918966NEc6E_JPEG%2F%25B5%25F0%25C1%25BE%25B8%25D3%25BD%25BA%25C5%25B8%25B5%25E5%25BC%25BC%25C6%25AE.JPG",
+            "menu_name": "디종후레시버거세트",
+            "price": "11,100원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241208_167%2F1733643883045iKdua_JPEG%2F%25C4%25A1%25C1%25EE%25BC%25BC%25C6%25AE.JPG",
+            "menu_name": "치즈버거세트",
+            "price": "12,100원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241210_215%2F1733814109220qXsLH_PNG%2F%25C3%25B4%25C3%25B4.PNG",
+            "menu_name": "척척버거(단품)",
+            "price": "8,300원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241210_6%2F1733814473599b8kb0_PNG%2F%25BA%25A3%25C0%25CC%25C4%25C1.PNG",
+            "menu_name": "베이컨버거(단품)",
+            "price": "8,800원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241210_20%2F17338145254279J4c9_PNG%2F%25BF%25CD%25BB%25E7%25B8%25B6%25BF%25E4%25BD%25AC%25B8%25B2%25C7%25C1.PNG",
+            "menu_name": "직화통새우버거(단품)",
+            "price": "8,800원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241210_43%2F1733814200257UaqaP_PNG%2F%25BC%25D2%25BA%25D2%25B0%25ED%25B1%25E2.PNG",
+            "menu_name": "소불고기버거(단품)",
+            "price": "6,800원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241210_78%2F1733814433756INuQb_JPEG%2F%25C4%25A1%25C5%25B2%25B9%25F6%25B0%25C5.jpg",
+            "menu_name": "치킨버거(단품)",
+            "price": "8,500원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241210_187%2F1733814379361tSfmg_JPEG%2F%25C4%25A1%25C6%25FA%25B7%25B9.jpg",
+            "menu_name": "치폴레버거(단품)",
+            "price": "8,300원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241210_85%2F1733814329051TWrza_PNG%2F%25C4%25A1%25C1%25EE.PNG",
+            "menu_name": "치즈버거(단품)",
+            "price": "8,300원"
+        }
+    ]
+}

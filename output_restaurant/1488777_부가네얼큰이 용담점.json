@@ -1,0 +1,80 @@
+{
+    "store_name": "부가네얼큰이 용담점",
+    "store_location": "제주 제주시 용화로9길 5 1층",
+    "loc_x": "154199.02545634",
+    "loc_y": "1642.58507208251",
+    "menu": [
+        {
+            "category": "",
+            "img_src": "",
+            "menu_name": "오돌뼈+김가루밥",
+            "price": "18,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20231007_1%2F1696666385545OXjyc_JPEG%2F1696653082689-1.jpg",
+            "menu_name": "매운날개 한접시",
+            "price": "18,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20231007_50%2F1696666450094uqI3C_JPEG%2F1696653082689-0.jpg",
+            "menu_name": "소금구이날개 한접시",
+            "price": "18,000원"
+        },
+        {
+            "category": "",
+            "img_src": "",
+            "menu_name": "반반 set (매운날개/소금구이날개)",
+            "price": "18,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20231007_59%2F1696666846623lf5Xz_JPEG%2F1696653082689-3.jpg",
+            "menu_name": "매운통뼈닭발 한접시",
+            "price": "18,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20231007_82%2F1696666982952Hn22R_JPEG%2F1696653082689-2.jpg",
+            "menu_name": "무뼈닭발 한접시",
+            "price": "18,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20231007_226%2F1696666910812HOeA8_JPEG%2F1696653082689-4.jpg",
+            "menu_name": "국물닭발 통뼈",
+            "price": "18,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20231007_202%2F16966672556751fk74_JPEG%2F1696653082689-5.jpg",
+            "menu_name": "무뼈굵물닭발",
+            "price": "18,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20231007_150%2F1696667108684lnct7_JPEG%2F1696653082689-6.jpg",
+            "menu_name": "얼큰이라면",
+            "price": "5,000원"
+        },
+        {
+            "category": "",
+            "img_src": "",
+            "menu_name": "매요밥",
+            "price": "5,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20231007_107%2F1696667133484zDnGQ_JPEG%2F1696653082689-9.jpg",
+            "menu_name": "김가루밥",
+            "price": "4,000원"
+        },
+        {
+            "category": "",
+            "img_src": "",
+            "menu_name": "계란찜",
+            "price": "3,000원"
+        }
+    ]
+}

@@ -1,0 +1,62 @@
+{
+    "store_name": "샤브올데이 강릉송정점",
+    "store_location": "강원 강릉시 경강로 2399 B동",
+    "loc_x": "369295.804018814",
+    "loc_y": "476158.486514645",
+    "menu": [
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241206_118%2F1733462334488Ywxch_PNG%2F%25C6%25F2%25C0%25CF%25C1%25D6%25B8%25BB_%25B8%25DE%25B4%25BA%25BB%25E7%25C1%25F8.PNG",
+            "menu_name": "평일점심(고기무제한)",
+            "price": "24,900원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241206_198%2F1733462319825xvK0c_PNG%2F%25C6%25F2%25C0%25CF%25C1%25D6%25B8%25BB_%25B8%25DE%25B4%25BA%25BB%25E7%25C1%25F8.PNG",
+            "menu_name": "평일저녁(고기무제한)",
+            "price": "29,900원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241206_77%2F1733462285069TRGTh_PNG%2F%25C6%25F2%25C0%25CF%25C1%25D6%25B8%25BB_%25B8%25DE%25B4%25BA%25BB%25E7%25C1%25F8.PNG",
+            "menu_name": "주말 및 공휴일(고기무제한)",
+            "price": "29,900원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241206_63%2F1733462252757fMV09_PNG%2F%25B4%25D9%25BE%25E7%25C7%25D1_%25BB%25F8%25B7%25AF%25B5%25E5%25B9%25D9_%25B9%25AB%25C1%25A6%25C7%25D1_%25C1%25A6%25B0%25F8.PNG",
+            "menu_name": "다양한 샐러드바 무제한 제공!",
+            "price": "무료"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241206_33%2F1733462224392rQlgF_PNG%2F%25C7%25B0%25C1%25FA_%25C1%25C1%25C0%25BA_%25BC%25D2%25B0%25ED%25B1%25E2_%25B9%25AB%25C1%25A6%25C7%25D1_%25C1%25A6%25B0%25F8.PNG",
+            "menu_name": "품질 좋은 소고기 무제한 제공!",
+            "price": "무료"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241206_46%2F1733462192662YHPEK_PNG%2F%25BD%25C5%25BC%25B1%25C7%25D1_%25BF%25F9%25B3%25B2%25BD%25D3_%25B9%25AB%25C1%25A6%25C7%25D1_%25C1%25A6%25B0%25F8.PNG",
+            "menu_name": "신선한 월남쌈 무제한 제공!",
+            "price": "무료"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241210_152%2F1733808084192GvtEc_PNG%2F%25B8%25AE%25B9%25F6%25BD%25BA%25C5%25C7_%25B8%25C6%25C1%25D6_%25B9%25AB%25C1%25A6%25C7%25D1_%25C1%25A6%25B0%25F8.png",
+            "menu_name": "리버스탭 맥주 무제한 제공!",
+            "price": "무료"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241206_77%2F1733462175050NIa4M_PNG%2F%25C3%25CA%25B5%25EE%25C7%25D0%25BB%25FD%25B9%25CC%25C3%25EB%25C7%25D0%25BE%25C6%25B5%25BF.PNG",
+            "menu_name": "초등학생",
+            "price": "13,900원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241206_150%2F1733462145476Jlmq7_PNG%2F%25C3%25CA%25B5%25EE%25C7%25D0%25BB%25FD%25B9%25CC%25C3%25EB%25C7%25D0%25BE%25C6%25B5%25BF.PNG",
+            "menu_name": "미취학아동(36개월~7세)",
+            "price": "6,900원"
+        }
+    ]
+}

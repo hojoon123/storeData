@@ -1,0 +1,146 @@
+{
+    "store_name": "타코찡 청주점",
+    "store_location": "충북 청주시 흥덕구 신율로111번길 10 . 1층",
+    "loc_x": "239792.704021517",
+    "loc_y": "347489.999703794",
+    "menu": [
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20231219_167%2F1702915349934c04Ol_JPEG%2FRenderedI_%25282%2529.jpg",
+            "menu_name": "오리지널 타코야끼",
+            "price": "4,500원"
+        },
+        {
+            "category": "",
+            "img_src": "",
+            "menu_name": "28알 (두가지맛 가능)",
+            "price": "15,000원"
+        },
+        {
+            "category": "",
+            "img_src": "",
+            "menu_name": "21알세트(세가지맛)",
+            "price": "13,500원"
+        },
+        {
+            "category": "",
+            "img_src": "",
+            "menu_name": "14알세트(2가지맛가능)",
+            "price": "9,500원"
+        },
+        {
+            "category": "",
+            "img_src": "",
+            "menu_name": "더치커피",
+            "price": "2,900원"
+        },
+        {
+            "category": "",
+            "img_src": "",
+            "menu_name": "아이스티",
+            "price": "2,900원"
+        },
+        {
+            "category": "",
+            "img_src": "",
+            "menu_name": "아샷추(아이스티+샷이퐁당)",
+            "price": "3,500원"
+        },
+        {
+            "category": "",
+            "img_src": "",
+            "menu_name": "체리콕",
+            "price": "3,500원"
+        },
+        {
+            "category": "",
+            "img_src": "",
+            "menu_name": "자몽에이드",
+            "price": "3,500원"
+        },
+        {
+            "category": "",
+            "img_src": "",
+            "menu_name": "청포도에이드",
+            "price": "3,500원"
+        },
+        {
+            "category": "",
+            "img_src": "",
+            "menu_name": "망고에이드",
+            "price": "3,500원"
+        },
+        {
+            "category": "",
+            "img_src": "",
+            "menu_name": "불닭볶음면 대 (불대)",
+            "price": "2,500원"
+        },
+        {
+            "category": "",
+            "img_src": "",
+            "menu_name": "불닭볶음면 소 (불소)",
+            "price": "1,900원"
+        },
+        {
+            "category": "",
+            "img_src": "",
+            "menu_name": "파타코(네기타코)",
+            "price": "5,000원"
+        },
+        {
+            "category": "",
+            "img_src": "",
+            "menu_name": "핵폭탄",
+            "price": "5,000원"
+        },
+        {
+            "category": "",
+            "img_src": "",
+            "menu_name": "청양",
+            "price": "5,000원"
+        },
+        {
+            "category": "",
+            "img_src": "",
+            "menu_name": "와사비",
+            "price": "5,000원"
+        },
+        {
+            "category": "",
+            "img_src": "",
+            "menu_name": "명란",
+            "price": "5,000원"
+        },
+        {
+            "category": "",
+            "img_src": "",
+            "menu_name": "갈릭",
+            "price": "5,000원"
+        },
+        {
+            "category": "",
+            "img_src": "",
+            "menu_name": "콘소메",
+            "price": "5,000원"
+        },
+        {
+            "category": "",
+            "img_src": "",
+            "menu_name": "뿌잉",
+            "price": "5,000원"
+        },
+        {
+            "category": "",
+            "img_src": "",
+            "menu_name": "치즈",
+            "price": "5,000원"
+        },
+        {
+            "category": "",
+            "img_src": "",
+            "menu_name": "매콤",
+            "price": "5,000원"
+        }
+    ]
+}

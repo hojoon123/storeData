@@ -1,0 +1,206 @@
+{
+    "store_name": "치킨플래닛파주금촌점",
+    "store_location": "경기 파주시 중앙로 328",
+    "loc_x": "180081.409828633",
+    "loc_y": "473626.420795394",
+    "menu": [
+        {
+            "category": "대표메뉴",
+            "img_src": "",
+            "menu_name": "옛날통닭 (당일한정수량20마리)(1마리)",
+            "price": "8,000원"
+        },
+        {
+            "category": "대표메뉴",
+            "img_src": "",
+            "menu_name": "옛날통닭 (당일한정수량20마리)(2마리)",
+            "price": "15,000원"
+        },
+        {
+            "category": "대표메뉴",
+            "img_src": "",
+            "menu_name": "울트라 쏘닉 빠싹 후라이드 (사이즈업,맛 업그레이드 )",
+            "price": "16,900원"
+        },
+        {
+            "category": "대표메뉴",
+            "img_src": "",
+            "menu_name": "양념치킨 (사이즈업,맛 업그레이드 )",
+            "price": "17,900원"
+        },
+        {
+            "category": "대표메뉴",
+            "img_src": "",
+            "menu_name": "간장마늘치킨 (사이즈 업 ,맛 업그레이드)",
+            "price": "17,900원"
+        },
+        {
+            "category": "오리지널 치킨",
+            "img_src": "",
+            "menu_name": "옛날통닭 (당일한정수량20마리)(1마리)",
+            "price": "8,000원"
+        },
+        {
+            "category": "오리지널 치킨",
+            "img_src": "",
+            "menu_name": "옛날통닭 (당일한정수량20마리)(2마리)",
+            "price": "15,000원"
+        },
+        {
+            "category": "오리지널 치킨",
+            "img_src": "",
+            "menu_name": "울트라 쏘닉 빠싹 후라이드 (사이즈업,맛 업그레이드 )",
+            "price": "16,900원"
+        },
+        {
+            "category": "오리지널 치킨",
+            "img_src": "",
+            "menu_name": "양념치킨 (사이즈업,맛 업그레이드 )",
+            "price": "17,900원"
+        },
+        {
+            "category": "오리지널 치킨",
+            "img_src": "",
+            "menu_name": "간장마늘치킨 (사이즈 업 ,맛 업그레이드)",
+            "price": "17,900원"
+        },
+        {
+            "category": "반반치킨",
+            "img_src": "",
+            "menu_name": "오리지널 반반(사이즈업 ,맛 업그레이드 )",
+            "price": "16,900원"
+        },
+        {
+            "category": "반반치킨",
+            "img_src": "",
+            "menu_name": "순살 반반",
+            "price": "17,900원"
+        },
+        {
+            "category": "순살치킨 [100%국내산 닭다리살 only]",
+            "img_src": "",
+            "menu_name": "울트라 쏘닉 빠싹 순살(사이즈업,맛 업그레이드 )",
+            "price": "17,900원"
+        },
+        {
+            "category": "순살치킨 [100%국내산 닭다리살 only]",
+            "img_src": "",
+            "menu_name": "크리스피 양념[순살](사이즈업 ,맛 업그레이드 )",
+            "price": "18,900원"
+        },
+        {
+            "category": "순살치킨 [100%국내산 닭다리살 only]",
+            "img_src": "",
+            "menu_name": "크리스피 마늘간장[순살](사이즈업 ,맛 업그레이드 )",
+            "price": "18,900원"
+        },
+        {
+            "category": "순살치킨 [100%국내산 닭다리살 only]",
+            "img_src": "",
+            "menu_name": "순살 깐풍치킨(1마리)",
+            "price": "19,900원"
+        },
+        {
+            "category": "순살치킨 [100%국내산 닭다리살 only]",
+            "img_src": "",
+            "menu_name": "김.피.닭(1인분)",
+            "price": "15,000원"
+        },
+        {
+            "category": "순살치킨 [100%국내산 닭다리살 only]",
+            "img_src": "",
+            "menu_name": "김.피.닭(2~3인분)",
+            "price": "25,000원"
+        },
+        {
+            "category": "사이드메뉴",
+            "img_src": "",
+            "menu_name": "[얼큰시원 베스트메뉴] 꽃게 어묵탕",
+            "price": "16,900원"
+        },
+        {
+            "category": "사이드메뉴",
+            "img_src": "",
+            "menu_name": "감자튀김",
+            "price": "5,000원"
+        },
+        {
+            "category": "사이드메뉴",
+            "img_src": "",
+            "menu_name": "치즈볼(5개)",
+            "price": "4,500원"
+        },
+        {
+            "category": "사이드메뉴",
+            "img_src": "",
+            "menu_name": "깡통시장 장우손 떡볶이",
+            "price": "5,000원"
+        },
+        {
+            "category": "음료",
+            "img_src": "",
+            "menu_name": "코카콜라 245ml캔",
+            "price": "1,000원"
+        },
+        {
+            "category": "음료",
+            "img_src": "",
+            "menu_name": "칠성사이다 245ml캔",
+            "price": "1,000원"
+        },
+        {
+            "category": "음료",
+            "img_src": "",
+            "menu_name": "코카콜라 500ml",
+            "price": "2,000원"
+        },
+        {
+            "category": "음료",
+            "img_src": "",
+            "menu_name": "칠성사이다 500ml",
+            "price": "2,000원"
+        },
+        {
+            "category": "음료",
+            "img_src": "",
+            "menu_name": "코카콜라 1.25L",
+            "price": "2,500원"
+        },
+        {
+            "category": "음료",
+            "img_src": "",
+            "menu_name": "칠성사이다 1.25L",
+            "price": "2,500원"
+        },
+        {
+            "category": "추가메뉴",
+            "img_src": "",
+            "menu_name": "양념소금(1개)",
+            "price": "500원"
+        },
+        {
+            "category": "추가메뉴",
+            "img_src": "",
+            "menu_name": "허니머스타드(1개)",
+            "price": "500원"
+        },
+        {
+            "category": "추가메뉴",
+            "img_src": "",
+            "menu_name": "치킨양념소스(1개)",
+            "price": "500원"
+        },
+        {
+            "category": "추가메뉴",
+            "img_src": "",
+            "menu_name": "간장소스",
+            "price": "1,000원"
+        },
+        {
+            "category": "추가메뉴",
+            "img_src": "",
+            "menu_name": "치킨무(1개)",
+            "price": "500원"
+        }
+    ]
+}

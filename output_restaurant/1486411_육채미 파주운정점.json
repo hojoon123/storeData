@@ -1,0 +1,38 @@
+{
+    "store_name": "육채미 파주운정점",
+    "store_location": "경기 파주시 초롱꽃로 139 스타타워A동 110, 111호",
+    "loc_x": "",
+    "loc_y": "",
+    "menu": [
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241203_137%2F1733185078534Bgymo_JPEG%2FSM_08458.jpg",
+            "menu_name": "테이블당 생맥주 무한리필",
+            "price": "6,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241203_31%2F1733185054321291SE_JPEG%2FSM_08440.jpg",
+            "menu_name": "무한대패&샤브샤브&월남쌈무한리필(런치",
+            "price": "16,900원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241203_272%2F1733185117157BOaGS_JPEG%2FSM_08538.jpg",
+            "menu_name": "무한대패&샤브샤브&월남쌈무한리필(디너",
+            "price": "18,900원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241203_242%2F1733185094599031sn_JPEG%2FSM_08467.jpg",
+            "menu_name": "무한리필 (초등학생)",
+            "price": "9,900원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241203_238%2F1733185106955bQwa9_JPEG%2FSM_08480.jpg",
+            "menu_name": "무한리필 (4세~7세)",
+            "price": "7,900원"
+        }
+    ]
+}

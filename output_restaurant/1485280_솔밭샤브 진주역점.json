@@ -1,0 +1,56 @@
+{
+    "store_name": "솔밭샤브 진주역점",
+    "store_location": "경남 진주시 개양로 100 상가 107동 1층 121호",
+    "loc_x": "301673.974310388",
+    "loc_y": "184485.77642756",
+    "menu": [
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241121_244%2F1732175123609VN22j_JPEG%2F%25A4%25B1.jpg",
+            "menu_name": "솔밭 맑은샤브",
+            "price": "14,900원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241121_226%2F1732175239146GfIAs_JPEG%2F%25A4%25B5.jpg",
+            "menu_name": "솔밭 매콤 사골샤브",
+            "price": "14,900원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241121_275%2F1732175805247lsSww_JPEG%2F%25A4%25A4.jpg",
+            "menu_name": "튀김플레이트",
+            "price": "8,900원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241121_294%2F1732175436554VNrVR_JPEG%2F%25A4%25B2.jpg",
+            "menu_name": "솔밭 마라샤브",
+            "price": "15,900원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241121_56%2F1732175656276jDqCg_JPEG%2F%25A4%25B8.jpg",
+            "menu_name": "관동식 스키야키",
+            "price": "16,900원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241121_116%2F1732175995354d35JT_JPEG%2F%25A4%25A1.jpg",
+            "menu_name": "통모짜렐라튀김",
+            "price": "6,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241121_103%2F17321759415326oj5c_JPEG%2F%25A4%25A7.jpg",
+            "menu_name": "떡갈비카츠",
+            "price": "8,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241121_59%2F1732176013646XBmCj_JPEG%2F%25A4%25A9.jpg",
+            "menu_name": "후토마키5P",
+            "price": "13,900원"
+        }
+    ]
+}

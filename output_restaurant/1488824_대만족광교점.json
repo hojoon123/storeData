@@ -1,0 +1,98 @@
+{
+    "store_name": "대만족광교점",
+    "store_location": "경기 수원시 영통구 웰빙타운로 47 골드클래스2 1층 106호",
+    "loc_x": "204026.791121512",
+    "loc_y": "422569.243269316",
+    "menu": [
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240813_135%2F1723537337812dp3Kc_JPEG%2F%25B4%25D9%25BF%25EE%25B7%25CE%25B5%25E5.jpeg",
+            "menu_name": "대만족 족발 (중)",
+            "price": "35,000원"
+        },
+        {
+            "category": "",
+            "img_src": "",
+            "menu_name": "대만족 족발 (대)",
+            "price": "41,000원"
+        },
+        {
+            "category": "",
+            "img_src": "",
+            "menu_name": "대만족 족발 (특대)",
+            "price": "45,000원"
+        },
+        {
+            "category": "",
+            "img_src": "",
+            "menu_name": "대만족 불족발 (중)",
+            "price": "37,000원"
+        },
+        {
+            "category": "",
+            "img_src": "",
+            "menu_name": "대만족 불족발 (대)",
+            "price": "43,000원"
+        },
+        {
+            "category": "",
+            "img_src": "",
+            "menu_name": "대만족 불족발 (특대)",
+            "price": "47,000원"
+        },
+        {
+            "category": "",
+            "img_src": "",
+            "menu_name": "대만족 불족발 (반반)",
+            "price": "44,000원"
+        },
+        {
+            "category": "",
+            "img_src": "",
+            "menu_name": "족발고기 추가",
+            "price": "22,000원"
+        },
+        {
+            "category": "",
+            "img_src": "",
+            "menu_name": "대만족 마늘족발 (중)",
+            "price": "38,000원"
+        },
+        {
+            "category": "",
+            "img_src": "",
+            "menu_name": "대만족 마늘족발 (대)",
+            "price": "44,000원"
+        },
+        {
+            "category": "",
+            "img_src": "",
+            "menu_name": "대만족 마늘족발 (특대)",
+            "price": "48,000원"
+        },
+        {
+            "category": "",
+            "img_src": "",
+            "menu_name": "대만족 보쌈 (중)",
+            "price": "35,000원"
+        },
+        {
+            "category": "",
+            "img_src": "",
+            "menu_name": "대만족 보쌈 (대)",
+            "price": "41,000원"
+        },
+        {
+            "category": "",
+            "img_src": "",
+            "menu_name": "대만족 보쌈 (특대)",
+            "price": "45,000원"
+        },
+        {
+            "category": "",
+            "img_src": "",
+            "menu_name": "대만족 마늘보쌈 (중)",
+            "price": "38,000원"
+        }
+    ]
+}

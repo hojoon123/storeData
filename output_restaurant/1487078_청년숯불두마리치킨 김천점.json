@@ -1,0 +1,14 @@
+{
+    "store_name": "청년숯불두마리치킨 김천점",
+    "store_location": "경북 김천시 아랫장터2길 5",
+    "loc_x": "301570.483624291",
+    "loc_y": "291612.331300372",
+    "menu": [
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241122_270%2F17322285357018hKnm_PNG%2F%25B8%25DE%25B4%25BA%25C6%25C7.png",
+            "menu_name": "1+1두마리청년세트",
+            "price": "29,900원"
+        }
+    ]
+}

@@ -1,0 +1,260 @@
+{
+    "store_name": "상하이 향라지류",
+    "store_location": "경기 고양시 일산서구 현중로36번길 31 성호프라자 104호",
+    "loc_x": "179614.830872438",
+    "loc_y": "465810.436078604",
+    "menu": [
+        {
+            "category": "대표메뉴",
+            "img_src": "",
+            "menu_name": "[혼술강추]상하이 지류 上海鸡柳",
+            "price": "6,500원"
+        },
+        {
+            "category": "대표메뉴",
+            "img_src": "",
+            "menu_name": "[혼술강추] 궈바러우",
+            "price": "13,000원"
+        },
+        {
+            "category": "대표메뉴",
+            "img_src": "",
+            "menu_name": "[혼술강추]팝콘치킨 鸡米花",
+            "price": "6,500원"
+        },
+        {
+            "category": "대표메뉴",
+            "img_src": "",
+            "menu_name": "[혼술강추]치킨까스 鸡排",
+            "price": "7,000원"
+        },
+        {
+            "category": "대표메뉴",
+            "img_src": "",
+            "menu_name": "[혼술강추]닭날개튀김 鸡翅(6p)",
+            "price": "8,500원"
+        },
+        {
+            "category": "대표메뉴",
+            "img_src": "",
+            "menu_name": "[혼술강추] 대만소세지 台湾烤肠(1개)",
+            "price": "3,500원"
+        },
+        {
+            "category": "튀김류",
+            "img_src": "",
+            "menu_name": "[혼술강추]상하이 지류 上海鸡柳",
+            "price": "6,500원"
+        },
+        {
+            "category": "튀김류",
+            "img_src": "",
+            "menu_name": "[혼술강추] 궈바러우",
+            "price": "13,000원"
+        },
+        {
+            "category": "튀김류",
+            "img_src": "",
+            "menu_name": "[혼술강추]팝콘치킨 鸡米花",
+            "price": "6,500원"
+        },
+        {
+            "category": "튀김류",
+            "img_src": "",
+            "menu_name": "[혼술강추]치킨까스 鸡排",
+            "price": "7,000원"
+        },
+        {
+            "category": "튀김류",
+            "img_src": "",
+            "menu_name": "[혼술강추] 닭안심튀김 川香鸡柳(3p)",
+            "price": "7,000원"
+        },
+        {
+            "category": "튀김류",
+            "img_src": "",
+            "menu_name": "[혼술강추]닭날개튀김 鸡翅(6p)",
+            "price": "8,500원"
+        },
+        {
+            "category": "튀김류",
+            "img_src": "",
+            "menu_name": "갑오징어볼튀김 鱼丸(3p)",
+            "price": "4,500원"
+        },
+        {
+            "category": "튀김류",
+            "img_src": "",
+            "menu_name": "취두부튀김 臭豆腐",
+            "price": "5,500원"
+        },
+        {
+            "category": "튀김류",
+            "img_src": "",
+            "menu_name": "[혼술강추]건두부 고수말이튀김 干豆腐香菜卷(3p)",
+            "price": "5,500원"
+        },
+        {
+            "category": "튀김류",
+            "img_src": "",
+            "menu_name": "[혼술강추]건두부 팽이버섯말이 干豆腐金针菇(3p)",
+            "price": "5,500원"
+        },
+        {
+            "category": "튀김류",
+            "img_src": "",
+            "menu_name": "새우튀김(3p)",
+            "price": "5,000원"
+        },
+        {
+            "category": "튀김류",
+            "img_src": "",
+            "menu_name": "왕중왕소세지 王中王香肠",
+            "price": "4,500원"
+        },
+        {
+            "category": "튀김류",
+            "img_src": "",
+            "menu_name": "[혼술강추] 대만소세지 台湾烤肠(1개)",
+            "price": "3,500원"
+        },
+        {
+            "category": "튀김류",
+            "img_src": "",
+            "menu_name": "오징어구이 烤鱿鱼",
+            "price": "9,000원"
+        },
+        {
+            "category": "튀김류",
+            "img_src": "",
+            "menu_name": "새송이버섯튀김 杏鲍菇(2p)",
+            "price": "4,500원"
+        },
+        {
+            "category": "튀김류",
+            "img_src": "",
+            "menu_name": "양배추 튀김 大头菜(2p)",
+            "price": "4,500원"
+        },
+        {
+            "category": "튀김류",
+            "img_src": "",
+            "menu_name": "떡꼬치 炸打糕",
+            "price": "4,000원"
+        },
+        {
+            "category": "튀김류",
+            "img_src": "",
+            "menu_name": "감자튀김 炸薯条",
+            "price": "4,000원"
+        },
+        {
+            "category": "튀김류",
+            "img_src": "",
+            "menu_name": "순한양념 不辣串料",
+            "price": "1,000원"
+        },
+        {
+            "category": "튀김류",
+            "img_src": "",
+            "menu_name": "매운양념 辣串料",
+            "price": "1,000원"
+        },
+        {
+            "category": "주식",
+            "img_src": "",
+            "menu_name": "소고기쌀국수 牛肉米线",
+            "price": "10,000원"
+        },
+        {
+            "category": "주식",
+            "img_src": "",
+            "menu_name": "양고기쌀국수 羊肉米线",
+            "price": "10,000원"
+        },
+        {
+            "category": "주식",
+            "img_src": "",
+            "menu_name": "소시지쌀국수 香肠米线",
+            "price": "10,000원"
+        },
+        {
+            "category": "주식",
+            "img_src": "",
+            "menu_name": "갑오징어볼 쌀국수 鱼丸米线",
+            "price": "10,000원"
+        },
+        {
+            "category": "주식",
+            "img_src": "",
+            "menu_name": "팽이버섯쌀국수 金针蘑米线",
+            "price": "10,000원"
+        },
+        {
+            "category": "주식",
+            "img_src": "",
+            "menu_name": "순대 米肠",
+            "price": "13,000원"
+        },
+        {
+            "category": "주식",
+            "img_src": "",
+            "menu_name": "물만두 水饺",
+            "price": "8,000원"
+        },
+        {
+            "category": "주식",
+            "img_src": "",
+            "menu_name": "손전병 手抓饼",
+            "price": "3,500원"
+        },
+        {
+            "category": "주식",
+            "img_src": "",
+            "menu_name": "꽃빵튀김 花卷",
+            "price": "7,000원"
+        },
+        {
+            "category": "계절메뉴",
+            "img_src": "",
+            "menu_name": "물냉면",
+            "price": "8,000원"
+        },
+        {
+            "category": "계절메뉴",
+            "img_src": "",
+            "menu_name": "비빔냉면",
+            "price": "8,000원"
+        },
+        {
+            "category": "계절메뉴",
+            "img_src": "",
+            "menu_name": "월병(1봉)",
+            "price": "5,000원"
+        },
+        {
+            "category": "음료",
+            "img_src": "",
+            "menu_name": "사이다 355ml",
+            "price": "2,000원"
+        },
+        {
+            "category": "음료",
+            "img_src": "",
+            "menu_name": "콜라 355ml",
+            "price": "2,000원"
+        },
+        {
+            "category": "음료",
+            "img_src": "",
+            "menu_name": "삥훙차 冰红茶",
+            "price": "3,000원"
+        },
+        {
+            "category": "음료",
+            "img_src": "",
+            "menu_name": "배음료 冰糖雪梨",
+            "price": "3,000원"
+        }
+    ]
+}

@@ -1,0 +1,176 @@
+{
+    "store_name": "체다페퍼 도화점",
+    "store_location": "인천 미추홀구 숙골로 93 1층 105호",
+    "loc_x": "170096.331514627",
+    "loc_y": "440959.098072698",
+    "menu": [
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241102_117%2F1730505430275skxed_JPEG%2F%25C5%25AC%25BA%25F1%25BA%25B8%25C1%25A4.jpg",
+            "menu_name": "클래식비프버거",
+            "price": "6,200원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20231205_60%2F1701784532357YGukv_JPEG%2FKakaoTalk_20230112_004018166_05.jpg",
+            "menu_name": "클래식치즈버거",
+            "price": "5,700원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241102_204%2F1730505453355uEYSs_JPEG%2F%25B5%25F6%25C4%25A1%25C1%25EE_%25BA%25B8%25C1%25A4_2%25B8%25C5%25B0%25A1.jpg",
+            "menu_name": "딥치즈버거",
+            "price": "6,900원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241102_116%2F1730505487449FJWLK_JPEG%2F%25BA%25F1%25C7%25C1%25C4%25A5%25B8%25AE_%25BA%25B8%25C1%25A4.jpg",
+            "menu_name": "비프칠리버거",
+            "price": "6,900원"
+        },
+        {
+            "category": "",
+            "img_src": "",
+            "menu_name": "올드스쿨비프버거",
+            "price": "5,700원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241102_173%2F1730505955185xD98f_JPEG%2F%25BF%25C3%25B5%25E5%25BD%25BA%25C4%25F0%25B5%25F6%25C4%25A1%25C1%25EE2mega.jpg",
+            "menu_name": "올드스쿨딥치즈버거",
+            "price": "6,400원"
+        },
+        {
+            "category": "",
+            "img_src": "",
+            "menu_name": "올드스쿨칠리버거",
+            "price": "6,400원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241102_291%2F17305065553300O1bJ_JPEG%2F%25B4%25F5%25BA%25ED%25C4%25A1%25C1%25EE%25BB%25F7%25B5%25E5%25C0%25A7%25C4%25A1%25BA%25B8%25C1%25A4_2mega.jpg",
+            "menu_name": "그릴드더블치즈샌드위치",
+            "price": "6,900원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241102_205%2F1730506590545Bce6D_JPEG%2F%25C6%25E4%25C6%25BC%25B8%25E1%25C6%25AE2mega.jpg",
+            "menu_name": "패티멜트 샌드위치",
+            "price": "6,900원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241102_190%2F1730506632676JSFvl_JPEG%2F%25C7%25CA%25B8%25AE%25C4%25A1%25C1%25EE_%25BA%25B8%25C1%25A4.jpg",
+            "menu_name": "필리치즈 샌드위치",
+            "price": "7,600원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241102_124%2F1730506680901HWbIE_JPEG%2F%25C6%25E4%25C6%25DB%25B7%25CE%25B4%25CF_%25BA%25B8%25C1%25A42mega.jpg",
+            "menu_name": "페퍼로니 퀘사디아",
+            "price": "6,300원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241102_16%2F1730506709795nPS8G_JPEG%2F%25B0%25ED%25B1%25B8%25B8%25B6%25BA%25B8%25C1%25A42mega.jpg",
+            "menu_name": "고구마 퀘사디아",
+            "price": "6,600원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241102_12%2F173050674177252j1H_JPEG%2F%25C6%25D0%25C6%25BC%25C4%25A5%25B8%25AE%25C4%25F9%25BB%25E7%25B5%25F0%25BE%25C6_%25BA%25B8%25C1%25A4.jpg",
+            "menu_name": "비프칠리 퀘사이다",
+            "price": "6,800원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241102_267%2F17305067923349xm8n_JPEG%2F%25BA%25F1%25C7%25C1%25C4%25A5%25B8%25AE_%25C4%25F9%25BB%25E7%25B5%25F0%25BE%25C6_%25BA%25B8%25C1%25A4.jpg",
+            "menu_name": "비프슈프림 퀘사디아 + 랜치 (소스)",
+            "price": "9,300원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241102_207%2F1730506837973JPRQv_JPEG%2F%25BA%25F1%25C7%25C1%25BD%25B4%25C7%25C1%25B8%25B2.jpg",
+            "menu_name": "패티칠리 퀘사이다 + 랜치(소스)",
+            "price": "9,800원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241102_48%2F1730506874161dmpRH_JPEG%2FKakaoTalk_20230110_233825410_04.jpg",
+            "menu_name": "프라이",
+            "price": "3,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241102_97%2F1730506907774S9Wks_JPEG%2F%25C4%25A5%25B8%25AE%25C7%25C1%25B6%25F3%25C0%25CC2%25B8%25C5%25B0%25A1.jpg",
+            "menu_name": "비프칠리 프라이",
+            "price": "4,600원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241102_75%2F1730506944718EHnQR_JPEG%2F%25C3%25BC%25B4%25D9%25C7%25C1%25B6%25F3%25C0%25CC.jpg",
+            "menu_name": "어니언 체다프라이",
+            "price": "4,600원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241102_174%2F1730506974156cH0wv_JPEG%2F%25BE%25EE%25B4%25CF%25BE%25F0%25C4%25A1%25C1%25EE%25C7%25C1%25B6%25F3%25C0%25CC_%25BF%25EB%25B7%25AE2%25B8%25C5%25B0%25A1.jpg",
+            "menu_name": "어니언 치즈프라이",
+            "price": "5,400원"
+        },
+        {
+            "category": "",
+            "img_src": "",
+            "menu_name": "콘나초 + 소스2종(살사,치즈)",
+            "price": "6,300원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241102_144%2F17305072438653njo6_JPEG%2FKakaoTalk_20230106_034023025_09.jpg",
+            "menu_name": "새우링",
+            "price": "6,300원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241102_6%2F1730507199377aiG66_JPEG%2FKakaoTalk_20230106_034023025_11.jpg",
+            "menu_name": "어니언링",
+            "price": "4,100원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241102_285%2F1730507265888i5gUq_JPEG%2FKakaoTalk_20230110_233825410_03.jpg",
+            "menu_name": "고구마프라이",
+            "price": "4,800원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241102_65%2F1730507316912ljQk1_JPEG%2F%25C4%25A1%25C5%25B22mega.jpg",
+            "menu_name": "쳇치킨(S)",
+            "price": "4,800원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241102_80%2F1730507361936aTsEw_JPEG%2F%25C4%25A1%25C5%25B22mega.jpg",
+            "menu_name": "쳇치킨(M)+프라이소스",
+            "price": "6,700원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241102_275%2F1730507410934DPmWb_JPEG%2FKakaoTalk_20230106_034023025_22.jpg",
+            "menu_name": "버팔로윙(4P)",
+            "price": "5,200원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241102_234%2F1730507456236LpATF_JPEG%2FKakaoTalk_20230106_034023025_14.jpg",
+            "menu_name": "버팔로윙(6P) + 프라이소스",
+            "price": "7,800원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241102_93%2F1730507492667zV6f8_JPEG%2F%25C4%25DA%25BF%25EC%25BD%25BD%25B7%25CE_%25BA%25B8%25C1%25A41_2%25B8%25DE%25B0%25A1.jpg",
+            "menu_name": "코울슬로",
+            "price": "2,200원"
+        }
+    ]
+}

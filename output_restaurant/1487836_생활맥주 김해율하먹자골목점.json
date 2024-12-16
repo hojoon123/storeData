@@ -1,0 +1,146 @@
+{
+    "store_name": "생활맥주 김해율하먹자골목점",
+    "store_location": "경남 김해시 율하1로81번길 14-7 1층",
+    "loc_x": "365252.970643366",
+    "loc_y": "187665.972425435",
+    "menu": [
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20220404_218%2F1649038158535gar9E_JPEG%2F%25BE%25DE%25B1%25D7%25B8%25AE%25B9%25F6%25B5%25E51.jpg",
+            "menu_name": "앵그리버드",
+            "price": "19,500원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20220404_91%2F1649038290734MVVlX_JPEG%2F%25BE%25DE%25B1%25D7%25B8%25AE%25B9%25F6%25B5%25E5%25BF%25CD%25B0%25A8%25C0%25DA_%25C0%25FA%25BF%25EB%25B7%25AE.jpg",
+            "menu_name": "앵그리버드와 감자",
+            "price": "23,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20220404_92%2F1649038313978ivteI_JPEG%2F%25BE%25DE%25B1%25D7%25B8%25AE%25B9%25F6%25B5%25E5RED.jpg",
+            "menu_name": "앵그리버드 레드",
+            "price": "20,500원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20220404_225%2F16490384050969SfXE_JPEG%2F%25BE%25DE%25B1%25D7%25B8%25AE%25B9%25F6%25B5%25E5black_%25C0%25FA%25BF%25EB%25B7%25AE.jpg",
+            "menu_name": "앵그리버드 블랙",
+            "price": "20,500원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20230427_108%2F1682575334358D3oiE_JPEG%2F%25BE%25DE%25B1%25D7%25B8%25AE%25B9%25F6%25B5%25E5_%25C5%25A9%25B7%25B1%25C4%25A1_%25C3%25D6%25C1%25BE%25C6%25F7%25BD%25BA%25C5%25CD.jpg",
+            "menu_name": "앵그리버드 크런치",
+            "price": "21,500원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20231127_264%2F1701069794052zI9sD_JPEG%2F%25B1%25E8%25B2%25C9%25B5%25BF_%25C6%25F7%25BD%25BA%25C5%25CD_%25C0%25FA%25BF%25EB%25B7%25AE.jpg",
+            "menu_name": "김꽃동",
+            "price": "18,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20220404_93%2F1649040096065O70Ag_JPEG%2F%25C5%25A9%25B8%25AE%25BD%25BA%25C7%25C7%25C5%25D9%25B4%25F5%25BF%25CD%25BB%25F5%25BF%25EC_%25C0%25FA%25BF%25EB%25B7%25AE.jpg",
+            "menu_name": "크리스피 텐더와 새우",
+            "price": "19,500원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20220404_154%2F1649039362152Q6pQl_JPEG%2F%25B0%25F1%25BA%25F6%25B8%25E91.jpg",
+            "menu_name": "골빔면",
+            "price": "12,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20221216_258%2F1671176423116nQlBd_JPEG%2F%25B0%25ED%25B1%25DE%25C2%25F0%25BE%25EE%25B9%25AC%25C5%25C1_%25C6%25F7%25BD%25BA%25C5%25CD.jpg",
+            "menu_name": "고급찐어묵탕",
+            "price": "17,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20220404_254%2F1649038587464xaf2a_JPEG%2F%25B9%25F6%25C6%25C8%25B7%25CE%25C0%25AE_%25C0%25FA%25BF%25EB%25B7%25AE.jpg",
+            "menu_name": "버팔로 윙과 감자",
+            "price": "19,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20220404_76%2F16490396389569fo84_JPEG%2F%25C8%25B2%25C5%25C2%25C6%25F7%25BD%25BA%25C5%25CD.jpg",
+            "menu_name": "바삭 황태 구이",
+            "price": "17,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20220404_92%2F1649038875962QnTKV_JPEG%2F%25BD%25BA%25C6%25D4%25C6%25A2%25B1%25E81.jpg",
+            "menu_name": "스팸튀김",
+            "price": "12,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20220404_115%2F164903969771823ctL_JPEG%2F%25B6%25B1%25BA%25BA%25C0%25CC%25C6%25F7%25BD%25BA%25C5%25CD%2528%25BD%25C5%25B1%25D4%2529_%25C0%25FA%25BF%25EB%25B7%25AE.jpg",
+            "menu_name": "생활 떡볶이",
+            "price": "18,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20220404_157%2F16490401872741qTFm_JPEG%2F%25BA%25CE%25B4%25EB%25B6%25B1%25BA%25BA%25C0%25CC_%25C6%25F7%25BD%25BA%25C5%25CD.jpg",
+            "menu_name": "생활 부대 떡볶이",
+            "price": "19,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20220404_118%2F164903871899546wLu_JPEG%2F%25BC%25D2%25BD%25C3%25C1%25F6%25BF%25CD%25C4%25A3%25B1%25B8%25B5%25E91.jpg",
+            "menu_name": "소시지와 친구들",
+            "price": "17,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20220404_24%2F1649038609805JLr6F_JPEG%2F%25B1%25D7%25B8%25B0%25B6%25F3%25C0%25CC%25C6%25AE%25BB%25F8%25B7%25AF%25B5%25E51.jpg",
+            "menu_name": "그린라이트 샐러드",
+            "price": "17,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20220404_278%2F1649039573745HQ73A_JPEG%2F%25C1%25DF%25C8%25AD%25C4%25A1%25C5%25B2%25BB%25F8%25B7%25AF%25B5%25E5.jpg",
+            "menu_name": "중화 치킨 샐러드",
+            "price": "18,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20220404_230%2F1649039555919mSfn1_JPEG%2F%25C3%25CB%25C3%25CB%25BF%25C0%25C2%25A1%25BE%25EE_%25C0%25FA%25BF%25EB%25B7%25AE.jpg",
+            "menu_name": "촉촉오징어",
+            "price": "15,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20220404_56%2F1649038857817uteH1_JPEG%2F%25B9%25E9%25C8%25AD%25C1%25A1%25C0%25B0%25C6%25F7_%25C0%25FA%25BF%25EB%25B7%25AE.jpg",
+            "menu_name": "백화점 육포와 땅콩",
+            "price": "17,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20230720_274%2F1689823527082TOsPy_JPEG%2F%25BE%25C6%25C0%25CC%25BD%25BA_%25C8%25B2%25B5%25B5.jpg",
+            "menu_name": "아이스 황도",
+            "price": "12,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20220404_12%2F1649039024571rR3Ha_JPEG%2F%25BF%25C0%25B8%25AE%25C1%25F6%25B3%25CE%25B0%25A8%25C0%25DA%25C6%25A2%25B1%25E8_%25C0%25FA%25BF%25EB%25B7%25AE.jpg",
+            "menu_name": "오리지널 감자튀김",
+            "price": "10,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20220404_201%2F1649039240419nwr8w_JPEG%2F%25C4%25C9%25C0%25CC%25C1%25D8%25B0%25A8%25C0%25DA%25C6%25A2%25B1%25E8_%25C0%25FA%25BF%25EB%25B7%25AE.jpg",
+            "menu_name": "케이준 감자튀김",
+            "price": "10,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20220404_252%2F1649039264262DDPsq_JPEG%2F%25B3%25AA%25C3%25CA%25C4%25A81.jpg",
+            "menu_name": "나초칩",
+            "price": "11,000원"
+        }
+    ]
+}

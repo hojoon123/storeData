@@ -1,0 +1,140 @@
+{
+    "store_name": "터미널뼈다귀해장국",
+    "store_location": "경기 포천시 소흘읍 솔모루로92번길 3 1층",
+    "loc_x": "212964.743533271",
+    "loc_y": "480757.708629067",
+    "menu": [
+        {
+            "category": "대표메뉴",
+            "img_src": "",
+            "menu_name": "감자탕",
+            "price": "40,000원"
+        },
+        {
+            "category": "대표메뉴",
+            "img_src": "",
+            "menu_name": "뼈다귀 해장국",
+            "price": "11,000원"
+        },
+        {
+            "category": "대표메뉴",
+            "img_src": "",
+            "menu_name": "왕돈까스",
+            "price": "11,000원"
+        },
+        {
+            "category": "대표메뉴",
+            "img_src": "",
+            "menu_name": "생선까스",
+            "price": "11,000원"
+        },
+        {
+            "category": "대표메뉴",
+            "img_src": "",
+            "menu_name": "치킨가라아게(500g)",
+            "price": "15,000원"
+        },
+        {
+            "category": "대표메뉴",
+            "img_src": "",
+            "menu_name": "오징어튀김(5개)",
+            "price": "6,000원"
+        },
+        {
+            "category": "식사메뉴",
+            "img_src": "",
+            "menu_name": "감자탕",
+            "price": "40,000원"
+        },
+        {
+            "category": "식사메뉴",
+            "img_src": "",
+            "menu_name": "뼈다귀 해장국",
+            "price": "11,000원"
+        },
+        {
+            "category": "식사메뉴",
+            "img_src": "",
+            "menu_name": "왕돈까스",
+            "price": "11,000원"
+        },
+        {
+            "category": "식사메뉴",
+            "img_src": "",
+            "menu_name": "생선까스",
+            "price": "11,000원"
+        },
+        {
+            "category": "사이드메뉴",
+            "img_src": "",
+            "menu_name": "가지튀김(4개)",
+            "price": "9,000원"
+        },
+        {
+            "category": "사이드메뉴",
+            "img_src": "",
+            "menu_name": "치킨가라아게(500g)",
+            "price": "15,000원"
+        },
+        {
+            "category": "사이드메뉴",
+            "img_src": "",
+            "menu_name": "오징어튀김(5개)",
+            "price": "6,000원"
+        },
+        {
+            "category": "사이드메뉴",
+            "img_src": "",
+            "menu_name": "고로케(4개)",
+            "price": "6,000원"
+        },
+        {
+            "category": "사이드메뉴",
+            "img_src": "",
+            "menu_name": "갈비만두(6개)",
+            "price": "6,000원"
+        },
+        {
+            "category": "추가메뉴",
+            "img_src": "",
+            "menu_name": "공기밥",
+            "price": "1,000원"
+        },
+        {
+            "category": "추가메뉴",
+            "img_src": "",
+            "menu_name": "뼈추가",
+            "price": "16,000원"
+        },
+        {
+            "category": "추가메뉴",
+            "img_src": "",
+            "menu_name": "라면사리",
+            "price": "1,000원"
+        },
+        {
+            "category": "음료",
+            "img_src": "",
+            "menu_name": "콜라355ml",
+            "price": "2,000원"
+        },
+        {
+            "category": "음료",
+            "img_src": "",
+            "menu_name": "사이다355ml",
+            "price": "2,000원"
+        },
+        {
+            "category": "음료",
+            "img_src": "",
+            "menu_name": "환타355ml",
+            "price": "2,000원"
+        },
+        {
+            "category": "음료",
+            "img_src": "",
+            "menu_name": "밀키스355ml",
+            "price": "2,000원"
+        }
+    ]
+}

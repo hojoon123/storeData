@@ -1,0 +1,44 @@
+{
+    "store_name": "상상오리 평택점",
+    "store_location": "경기 평택시 비전6길 20-2 1층",
+    "loc_x": "209009.258708019",
+    "loc_y": "389248.910561738",
+    "menu": [
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240118_80%2F1705570303108AlGNJ_JPEG%2FIMG_7799.jpeg",
+            "menu_name": "오리바베큐 M",
+            "price": "31,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240118_66%2F1705570442292W6Fas_JPEG%2FIMG_7800.jpeg",
+            "menu_name": "삼겹 바베큐 L",
+            "price": "41,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240118_96%2F1705570417558wRUVs_JPEG%2FIMG_7798.jpeg",
+            "menu_name": "모듬 바베큐 L",
+            "price": "43,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240118_111%2F1705570389102aTtGC_JPEG%2FIMG_7799.jpeg",
+            "menu_name": "오리 바베큐 L",
+            "price": "41,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240118_289%2F1705570367678EkdR8_JPEG%2FIMG_7800.jpeg",
+            "menu_name": "삼겹 바베큐 M",
+            "price": "31,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240118_39%2F1705570335339hH5sN_JPEG%2FIMG_7798.jpeg",
+            "menu_name": "모듬 바베큐 M",
+            "price": "33,000원"
+        }
+    ]
+}

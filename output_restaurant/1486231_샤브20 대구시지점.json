@@ -1,0 +1,32 @@
+{
+    "store_name": "샤브20 대구시지점",
+    "store_location": "대구 수성구 달구벌대로 3223 2층",
+    "loc_x": "354377.744409687",
+    "loc_y": "261384.402138793",
+    "menu": [
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241130_49%2F1732954943560vVnOo_JPEG%2FKakaoTalk_20241130_171827251_09.jpg",
+            "menu_name": "평일런치",
+            "price": "20,900원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241130_102%2F1732954987864ilUPn_JPEG%2FKakaoTalk_20241130_171827251_09.jpg",
+            "menu_name": "평일 디너, 주말 공휴일",
+            "price": "24,900원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241130_296%2F1732955037677dXh7X_JPEG%2FKakaoTalk_20241130_171827251_09.jpg",
+            "menu_name": "초등학생",
+            "price": "13,500원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241130_166%2F1732955055088jbJ8I_JPEG%2FKakaoTalk_20241130_171827251_09.jpg",
+            "menu_name": "미취학아동",
+            "price": "7,500원"
+        }
+    ]
+}

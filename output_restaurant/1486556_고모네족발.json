@@ -1,0 +1,38 @@
+{
+    "store_name": "고모네족발",
+    "store_location": "충북 진천군 덕산읍 시가로 43 114호",
+    "loc_x": "247646.435678552",
+    "loc_y": "378275.576721845",
+    "menu": [
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241204_206%2F1733302578908ojVhh_JPEG%2FIMG_1788.jpeg",
+            "menu_name": "족발(국내산 앞징족)-대",
+            "price": "38,000원"
+        },
+        {
+            "category": "",
+            "img_src": "",
+            "menu_name": "보쌈",
+            "price": "35,000원"
+        },
+        {
+            "category": "",
+            "img_src": "",
+            "menu_name": "막국수",
+            "price": "13,000원"
+        },
+        {
+            "category": "",
+            "img_src": "",
+            "menu_name": "족발포장(국내산 앞장족)-대",
+            "price": "35,000원"
+        },
+        {
+            "category": "",
+            "img_src": "",
+            "menu_name": "보쌈포장",
+            "price": "30,000원"
+        }
+    ]
+}

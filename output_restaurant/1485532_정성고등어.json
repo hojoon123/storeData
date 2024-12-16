@@ -1,0 +1,62 @@
+{
+    "store_name": "정성고등어",
+    "store_location": "경기 하남시 월호로 70 3층 정성고등어",
+    "loc_x": "218285.17502031",
+    "loc_y": "450290.460141612",
+    "menu": [
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241129_160%2F17328060231962mWLb_JPEG%2FDSCF0213.jpg",
+            "menu_name": "화덕 고등어구이",
+            "price": "15,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241129_266%2F1732806307618RWUYP_JPEG%2FDSCF0218.jpg",
+            "menu_name": "화덕 제주갈치구이",
+            "price": "29,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241129_73%2F1732806058846vM9HP_JPEG%2FDSCF0210.jpg",
+            "menu_name": "화덕 임연수구이",
+            "price": "16,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241129_72%2F1732806080877lAJHl_JPEG%2FDSCF0217.jpg",
+            "menu_name": "화덕 삼치구이",
+            "price": "17,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241129_137%2F1732806445254EREyE_JPEG%2FKakaoTalk_20241128_235259676.jpg",
+            "menu_name": "숯불 직화제육구이",
+            "price": "16,000원"
+        },
+        {
+            "category": "",
+            "img_src": "",
+            "menu_name": "(4~7세) 아동용 숯불제육,임연수어",
+            "price": "10,000원"
+        },
+        {
+            "category": "",
+            "img_src": "",
+            "menu_name": "(4~7세) 아동용 제주갈치구이",
+            "price": "23,000원"
+        },
+        {
+            "category": "",
+            "img_src": "",
+            "menu_name": "(4~7세) 아동용 삼치",
+            "price": "11,000원"
+        },
+        {
+            "category": "",
+            "img_src": "",
+            "menu_name": "(4~7세) 아동용 고등어구이",
+            "price": "9,000원"
+        }
+    ]
+}

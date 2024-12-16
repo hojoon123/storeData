@@ -1,0 +1,98 @@
+{
+    "store_name": "카페 줄가라",
+    "store_location": "경기 파주시 조리읍 대원로 213-1 1-2층",
+    "loc_x": "182538.138367059",
+    "loc_y": "470367.78449221",
+    "menu": [
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241211_279%2F1733918048963pCFx6_PNG%2FIMG_8370_1.png",
+            "menu_name": "아란치니",
+            "price": "6,900원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241208_107%2F1733620235816qNcKm_JPEG%2F%25C1%25A6%25B8%25F1%25C0%25BB-%25C0%25D4%25B7%25C2%25C7%25D8%25C1%25D6%25BC%25BC%25BF%25E4_-0021_%25289%2529.jpg",
+            "menu_name": "아메리카노",
+            "price": "4,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241206_167%2F1733474556824xL94F_PNG%2Fmc_IMG_8039_1-1.png",
+            "menu_name": "뱅쇼",
+            "price": "8,000원"
+        },
+        {
+            "category": "",
+            "img_src": "",
+            "menu_name": "에스프레소",
+            "price": "3,800원"
+        },
+        {
+            "category": "",
+            "img_src": "",
+            "menu_name": "카푸치노",
+            "price": "4,500원"
+        },
+        {
+            "category": "",
+            "img_src": "",
+            "menu_name": "바닐라 라떼",
+            "price": "5,000원"
+        },
+        {
+            "category": "",
+            "img_src": "",
+            "menu_name": "카페모카",
+            "price": "5,000원"
+        },
+        {
+            "category": "",
+            "img_src": "",
+            "menu_name": "카페 라떼",
+            "price": "4,500원"
+        },
+        {
+            "category": "",
+            "img_src": "",
+            "menu_name": "흑임자 라떼",
+            "price": "5,500원"
+        },
+        {
+            "category": "",
+            "img_src": "",
+            "menu_name": "오트 라떼",
+            "price": "5,000원"
+        },
+        {
+            "category": "",
+            "img_src": "",
+            "menu_name": "콜드브루",
+            "price": "4,500원"
+        },
+        {
+            "category": "",
+            "img_src": "",
+            "menu_name": "아이스 돌체라떼",
+            "price": "6,000원"
+        },
+        {
+            "category": "",
+            "img_src": "",
+            "menu_name": "핫 돌체라떼",
+            "price": "5,000원"
+        },
+        {
+            "category": "",
+            "img_src": "",
+            "menu_name": "루이보스 밀크티",
+            "price": "6,500원"
+        },
+        {
+            "category": "",
+            "img_src": "",
+            "menu_name": "딸기크림라떼",
+            "price": "6,500원"
+        }
+    ]
+}

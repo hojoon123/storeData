@@ -1,0 +1,68 @@
+{
+    "store_name": "노을조개 거북섬",
+    "store_location": "경기 시흥시 거북섬1로 4 110호, 111호",
+    "loc_x": "171071.984659613",
+    "loc_y": "425025.975958604",
+    "menu": [
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241122_88%2F1732249362856xgFau_JPEG%2F%25BF%25AC%25B2%25C9%25C1%25B6%25B0%25B3%25C2%25F2_%2528%25BC%25D2%2529.jpg",
+            "menu_name": "연꽃 조개찜 소 (2인)",
+            "price": "69,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241122_26%2F17322493746910OVDM_JPEG%2F%25BF%25AC%25B2%25C9%25C1%25B6%25B0%25B3%25C2%25F2_%2528%25C1%25DF%2529.jpg",
+            "menu_name": "연꽃 조개찜 중 (3인)",
+            "price": "84,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241122_286%2F1732249389056CzW4v_JPEG%2F%25BF%25AC%25B2%25C9%25C1%25B6%25B0%25B3%25C2%25F2_%2528%25B4%25EB%2529.jpg",
+            "menu_name": "연꽃 조개찜 대 (4인)",
+            "price": "99,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241122_243%2F1732249471836EGUMA_JPEG%2F%25BB%25F5%25BF%25EC_%25B9%25CC%25B3%25AA%25B8%25AE%25C0%25FC.jpg",
+            "menu_name": "새우 미나리전",
+            "price": "16,900원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241122_12%2F1732249410591ybUJH_JPEG%2F%25B6%25F8%25BD%25BA%25C5%25CD%25C1%25B6%25B0%25B3%25C2%25F2_%2528%25BC%25D2%2529.jpg",
+            "menu_name": "랍스터 조개찜 소 (2인)",
+            "price": "94,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241122_155%2F1732249437137tsMvE_JPEG%2F%25B6%25F8%25BD%25BA%25C5%25CD%25C1%25B6%25B0%25B3%25C2%25F2_%2528%25C1%25DF%2529.jpg",
+            "menu_name": "랍스터 조개찜 중 (3인)",
+            "price": "109,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241122_165%2F1732249457679uuI77_JPEG%2F%25B6%25F8%25BD%25BA%25C5%25CD%25C1%25B6%25B0%25B3%25C2%25F2_%2528%25B4%25EB%2529.jpg",
+            "menu_name": "랍스터 조개찜 대 (4인)",
+            "price": "124,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241123_179%2F1732350371347TpnPs_JPEG%2F%25B3%25EB%25C0%25BB%25C1%25B6%25B0%25B3_%25BC%25AE%25C8%25AD%25C2%25F2.jpg",
+            "menu_name": "석화찜",
+            "price": "65,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241122_257%2F1732249486383rYImn_JPEG%2F%25BB%25EA%25C5%25E4%25B8%25AE_%25C7%25CF%25C0%25CC%25BA%25BC.jpg",
+            "menu_name": "산토리 하이볼",
+            "price": "6,900원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241122_250%2F17322494973896GT85_JPEG%2F%25C0%25AF%25C0%25DA_%25C7%25CF%25C0%25CC%25BA%25BC.jpg",
+            "menu_name": "유자 하이볼",
+            "price": "6,900원"
+        }
+    ]
+}

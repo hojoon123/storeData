@@ -1,0 +1,38 @@
+{
+    "store_name": "세끼모토",
+    "store_location": "부산 중구 대청로 142-1 1층",
+    "loc_x": "385515.503619839",
+    "loc_y": "180074.979144723",
+    "menu": [
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241212_107%2F1733989179188tgWBE_JPEG%2FIMG_9240.jpeg",
+            "menu_name": "우나동",
+            "price": "20,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241206_25%2F1733477860900JQWVc_JPEG%2FIMG_9230.jpeg",
+            "menu_name": "우나쥬",
+            "price": "27,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241212_227%2F1733989529859FIk2D_JPEG%2FIMG_9222.jpeg",
+            "menu_name": "우나쥬 특",
+            "price": "32,000원"
+        },
+        {
+            "category": "",
+            "img_src": "",
+            "menu_name": "홋카이도 부타동 ( 숯불돼지덮밥)",
+            "price": "10,000원"
+        },
+        {
+            "category": "",
+            "img_src": "",
+            "menu_name": "홋카이도 부타동 특",
+            "price": "13,000원"
+        }
+    ]
+}

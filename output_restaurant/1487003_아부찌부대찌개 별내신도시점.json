@@ -1,0 +1,92 @@
+{
+    "store_name": "아부찌부대찌개 별내신도시점",
+    "store_location": "경기 남양주시 별내3로 84 103호",
+    "loc_x": "210756.181746624",
+    "loc_y": "460604.971779963",
+    "menu": [
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241210_270%2F1733803853730kcxml_PNG%2F%25BE%25C6%25BA%25CE%25C2%25EE_%25BA%25CE%25B4%25EB%25C2%25EE%25B0%25B3.png",
+            "menu_name": "아부찌 부대찌개",
+            "price": "11,900원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241210_215%2F1733804309689Jz6lN_PNG%2F%25BF%25EC%25BB%25EF%25B0%25E3%25BA%25CE%25B4%25EB%25C2%25EE%25B0%25B3.png",
+            "menu_name": "특스팸 부대찌개",
+            "price": "14,900원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241210_14%2F1733804570255c2bST_PNG%2F%25C7%25DC%25B0%25A1%25B5%25E6%25BA%25CE%25B4%25EB%25C2%25EE%25B0%25B3.png",
+            "menu_name": "햄가득 부대찌개",
+            "price": "17,900원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241210_175%2F1733804754677oB0Cd_PNG%2Fsct_215_n.png",
+            "menu_name": "찜닭",
+            "price": "16,900원"
+        },
+        {
+            "category": "",
+            "img_src": "",
+            "menu_name": "햄 사리 추가",
+            "price": "3,000원"
+        },
+        {
+            "category": "",
+            "img_src": "",
+            "menu_name": "베이컨 추가",
+            "price": "1,000원"
+        },
+        {
+            "category": "",
+            "img_src": "",
+            "menu_name": "만두사리 4개",
+            "price": "1,000원"
+        },
+        {
+            "category": "",
+            "img_src": "",
+            "menu_name": "빈스(콩)",
+            "price": "1,000원"
+        },
+        {
+            "category": "",
+            "img_src": "",
+            "menu_name": "수제비",
+            "price": "1,000원"
+        },
+        {
+            "category": "",
+            "img_src": "",
+            "menu_name": "당면",
+            "price": "1,000원"
+        },
+        {
+            "category": "",
+            "img_src": "",
+            "menu_name": "매운양념",
+            "price": "1,000원"
+        },
+        {
+            "category": "",
+            "img_src": "",
+            "menu_name": "리필육수",
+            "price": "2,000원"
+        },
+        {
+            "category": "",
+            "img_src": "",
+            "menu_name": "라면사리",
+            "price": "1,000원"
+        },
+        {
+            "category": "",
+            "img_src": "",
+            "menu_name": "치즈",
+            "price": "1,000원"
+        }
+    ]
+}

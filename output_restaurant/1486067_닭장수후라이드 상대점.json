@@ -1,0 +1,98 @@
+{
+    "store_name": "닭장수후라이드 상대점",
+    "store_location": "대전 유성구 상대복용로29번길 52",
+    "loc_x": "229473.758790092",
+    "loc_y": "315189.327421513",
+    "menu": [
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20220120_201%2F1642664123020MWzcc_PNG%2F%25C8%25C4%25B6%25F3%25C0%25CC%25B5%25E5.png",
+            "menu_name": "후라이드 한마리",
+            "price": "11,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20220125_278%2F1643072765464NTk2l_PNG%2F%25B6%25CB%25C1%25FD.png",
+            "menu_name": "후라이드 똥집",
+            "price": "11,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20220125_239%2F16430727053558etgt_PNG%2F%25B6%25B1%25BA%25BA%25C0%25CC.png",
+            "menu_name": "떡볶이",
+            "price": "6,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20220125_129%2F1643072692160clGAy_PNG%2F%25B8%25F0%25B5%25EB%25B0%25A8%25C0%25DA.png",
+            "menu_name": "모듬감자",
+            "price": "9,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20220125_194%2F1643072059263dTys6_PNG%2F%25C4%25A1%25C1%25EE%25BA%25BC.png",
+            "menu_name": "치즈볼",
+            "price": "6,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20220125_92%2F1643072039523lYbEI_PNG%2F%25C8%25C4%25B6%25F3%25C0%25CC%25B5%25E5_%25B8%25F1%25BB%25EC.png",
+            "menu_name": "후라이드 목살",
+            "price": "16,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20220125_141%2F164307202426853Yuf_PNG%2F%25B1%25B9%25B9%25B0%25B4%25DF%25B9%25DF.png",
+            "menu_name": "국물 닭발",
+            "price": "17,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20220125_170%2F1643071974348gQm0O_PNG%2F%25B4%25DF%25B9%25DF.png",
+            "menu_name": "후라이드 닭발",
+            "price": "13,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20220125_215%2F1643071951718JPS52_PNG%2F%25C0%25AE%25BA%25C0_%25B8%25C5%25C4%25DE_%25C0%25CC%25B9%25CC%25C1%25F6.png",
+            "menu_name": "윙봉 매콤",
+            "price": "19,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20220125_3%2F1643071923217Ol0a2_PNG%2F%25C0%25AE%25BA%25C0%2528%25B0%25A3%25C0%25E5%2529.png",
+            "menu_name": "윙봉 간장",
+            "price": "18,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20220125_157%2F1643071895269HYPkC_PNG%2F%25C0%25AE%25BA%25C0_%25BB%25E7%25BA%25BB.png",
+            "menu_name": "윙봉 후라이드",
+            "price": "17,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20220125_46%2F1643071867335wQnha_PNG%2F%25BC%25F8%25BB%25EC%2528%25B8%25B6%25B4%25C3%25B0%25ED%25C3%25DF%2529.png",
+            "menu_name": "순살 마늘고추",
+            "price": "19,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20220125_169%2F1643071845144oJHWl_PNG%2F%25BC%25F8%25BB%25EC%2528%25B8%25C5%25C4%25DE%2529.png",
+            "menu_name": "순살 매콤",
+            "price": "19,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20220125_255%2F1643071826225wa9yI_PNG%2F%25BC%25F8%25BB%25EC%2528%25B0%25A3%25C0%25E5%2529.png",
+            "menu_name": "순살 간장",
+            "price": "18,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20220125_300%2F1643071800029xO0DU_PNG%2F%25BC%25F8%25BB%25EC%2528%25BE%25E7%25B3%25E4%2529.png",
+            "menu_name": "순살 양념",
+            "price": "18,000원"
+        }
+    ]
+}

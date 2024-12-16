@@ -1,0 +1,782 @@
+{
+    "store_name": "카페인중독 원주시청점",
+    "store_location": "강원 원주시 시청로 28 올림픽프라자 105호",
+    "loc_x": "281681.085448085",
+    "loc_y": "426828.263057757",
+    "menu": [
+        {
+            "category": "대표메뉴",
+            "img_src": "",
+            "menu_name": "[ 1L / 2L ] 아메리카노",
+            "price": "7,500원"
+        },
+        {
+            "category": "대표메뉴",
+            "img_src": "",
+            "menu_name": "[ 시그니처 ] 햅쌀 와플",
+            "price": "5,300원"
+        },
+        {
+            "category": "대표메뉴",
+            "img_src": "",
+            "menu_name": "더블 초코 나무숲",
+            "price": "5,800원"
+        },
+        {
+            "category": "대표메뉴",
+            "img_src": "",
+            "menu_name": "핫도그 ( 콘치폭 / 매콤 / 갈릭 )",
+            "price": "5,300원"
+        },
+        {
+            "category": "대표메뉴",
+            "img_src": "",
+            "menu_name": "카중 마요 토스트 ( 기본 / 햄 / 콘치즈 )",
+            "price": "4,300원"
+        },
+        {
+            "category": "2024년 FW _ NEW 신 메 뉴",
+            "img_src": "",
+            "menu_name": "NEW 방앗간 햅쌀 식혜",
+            "price": "4,300원"
+        },
+        {
+            "category": "2024년 FW _ NEW 신 메 뉴",
+            "img_src": "",
+            "menu_name": "NEW 방앗간 궁중 수정과",
+            "price": "4,300원"
+        },
+        {
+            "category": "2024년 FW _ NEW 신 메 뉴",
+            "img_src": "",
+            "menu_name": "NEW 크루띠네",
+            "price": "6,500원"
+        },
+        {
+            "category": "2024년 FW _ NEW 신 메 뉴",
+            "img_src": "",
+            "menu_name": "NEW 모카 크루번",
+            "price": "6,500원"
+        },
+        {
+            "category": "2024년 FW _ NEW 신 메 뉴",
+            "img_src": "",
+            "menu_name": "NEW 디카페인 콜드브루",
+            "price": "3,500원"
+        },
+        {
+            "category": "2024년 FW _ NEW 신 메 뉴",
+            "img_src": "",
+            "menu_name": "NEW 디카페인 콜드브루 라떼",
+            "price": "4,500원"
+        },
+        {
+            "category": "2024년 FW _ NEW 신 메 뉴",
+            "img_src": "",
+            "menu_name": "NEW 디카페인 바닐라빈 크림 콜드브루 라떼",
+            "price": "5,500원"
+        },
+        {
+            "category": "2024년 FW _ NEW 신 메 뉴",
+            "img_src": "",
+            "menu_name": "NEW 버터 가득 크루키 (너티초코칩/트리플초코)",
+            "price": "6,500원"
+        },
+        {
+            "category": "우리 약속해요 X 후기",
+            "img_src": "",
+            "menu_name": "500원",
+            "price": "500원"
+        },
+        {
+            "category": "시그니처 음료",
+            "img_src": "",
+            "menu_name": "더블 초코 나무숲",
+            "price": "5,800원"
+        },
+        {
+            "category": "시그니처 음료",
+            "img_src": "",
+            "menu_name": "햅쌀 크림 라떼",
+            "price": "5,800원"
+        },
+        {
+            "category": "시그니처 생크림 와플",
+            "img_src": "",
+            "menu_name": "추억의 길거리 와플",
+            "price": "3,800원"
+        },
+        {
+            "category": "시그니처 생크림 와플",
+            "img_src": "",
+            "menu_name": "생크림 와플",
+            "price": "4,000원"
+        },
+        {
+            "category": "시그니처 생크림 와플",
+            "img_src": "",
+            "menu_name": "소금 우유 와플",
+            "price": "4,500원"
+        },
+        {
+            "category": "시그니처 생크림 와플",
+            "img_src": "",
+            "menu_name": "애플 와플",
+            "price": "4,500원"
+        },
+        {
+            "category": "시그니처 생크림 와플",
+            "img_src": "",
+            "menu_name": "딸기 와플",
+            "price": "4,500원"
+        },
+        {
+            "category": "시그니처 생크림 와플",
+            "img_src": "",
+            "menu_name": "오레오 와플",
+            "price": "4,500원"
+        },
+        {
+            "category": "시그니처 생크림 와플",
+            "img_src": "",
+            "menu_name": "블루베리 와플",
+            "price": "4,500원"
+        },
+        {
+            "category": "시그니처 생크림 와플",
+            "img_src": "",
+            "menu_name": "누텔라 와플",
+            "price": "4,800원"
+        },
+        {
+            "category": "시그니처 생크림 와플",
+            "img_src": "",
+            "menu_name": "인절미 와플",
+            "price": "4,800원"
+        },
+        {
+            "category": "시그니처 생크림 와플",
+            "img_src": "",
+            "menu_name": "돼지바 와플",
+            "price": "4,800원"
+        },
+        {
+            "category": "시그니처 생크림 와플",
+            "img_src": "",
+            "menu_name": "로투스 와플",
+            "price": "4,800원"
+        },
+        {
+            "category": "시그니처 생크림 와플",
+            "img_src": "",
+            "menu_name": "카야 생크림 와플",
+            "price": "5,300원"
+        },
+        {
+            "category": "시그니처 생크림 와플",
+            "img_src": "",
+            "menu_name": "[ 시그니처 ] 햅쌀 와플",
+            "price": "5,300원"
+        },
+        {
+            "category": "시그니처 생크림 와플",
+            "img_src": "",
+            "menu_name": "카야 버터 와플",
+            "price": "5,800원"
+        },
+        {
+            "category": "시그니처 생크림 와플",
+            "img_src": "",
+            "menu_name": "누텔라 바나나 와플",
+            "price": "5,800원"
+        },
+        {
+            "category": "시그니처 생크림 와플",
+            "img_src": "",
+            "menu_name": "티라미수 와플",
+            "price": "5,800원"
+        },
+        {
+            "category": "시그니처 생크림 와플",
+            "img_src": "",
+            "menu_name": "맘모스 와플",
+            "price": "5,800원"
+        },
+        {
+            "category": "시그니처 생크림 와플",
+            "img_src": "",
+            "menu_name": "붕어빵 와플",
+            "price": "4,800원"
+        },
+        {
+            "category": "시그니처 생크림 와플",
+            "img_src": "",
+            "menu_name": "앙 버터 와플",
+            "price": "4,800원"
+        },
+        {
+            "category": "시그니처 생크림 크로플",
+            "img_src": "",
+            "menu_name": "플레인 크로플",
+            "price": "4,500원"
+        },
+        {
+            "category": "시그니처 생크림 크로플",
+            "img_src": "",
+            "menu_name": "누텔라 크로플",
+            "price": "4,800원"
+        },
+        {
+            "category": "시그니처 생크림 크로플",
+            "img_src": "",
+            "menu_name": "로투스 크로플",
+            "price": "4,800원"
+        },
+        {
+            "category": "시그니처 생크림 크로플",
+            "img_src": "",
+            "menu_name": "돼지바 크로플",
+            "price": "4,800원"
+        },
+        {
+            "category": "시그니처 생크림 크로플",
+            "img_src": "",
+            "menu_name": "인절미 크로플",
+            "price": "4,800원"
+        },
+        {
+            "category": "시그니처 생크림 크로플",
+            "img_src": "",
+            "menu_name": "햅쌀 크로플",
+            "price": "4,800원"
+        },
+        {
+            "category": "시그니처 생크림 크로플",
+            "img_src": "",
+            "menu_name": "카야 버터 크로플",
+            "price": "5,100원"
+        },
+        {
+            "category": "시그니처 생크림 크로플",
+            "img_src": "",
+            "menu_name": "로쉐 크로플",
+            "price": "5,300원"
+        },
+        {
+            "category": "시그니처 생크림 크로플",
+            "img_src": "",
+            "menu_name": "갈릭 크로플",
+            "price": "5,300원"
+        },
+        {
+            "category": "시그니처 생크림 크로플",
+            "img_src": "",
+            "menu_name": "티라미수 크로플",
+            "price": "5,300원"
+        },
+        {
+            "category": "시그니처 생크림 크로플",
+            "img_src": "",
+            "menu_name": "전남친 크로플",
+            "price": "4,800원"
+        },
+        {
+            "category": "시그니처 생크림 크로플",
+            "img_src": "",
+            "menu_name": "전여친 크로플",
+            "price": "4,800원"
+        },
+        {
+            "category": "시그니처 생크림 크로플",
+            "img_src": "",
+            "menu_name": "누텔라 바나나 크로플",
+            "price": "5,300원"
+        },
+        {
+            "category": "컵 떡볶이",
+            "img_src": "",
+            "menu_name": "매콤 까르보나라 컵떡볶이",
+            "price": "6,300원"
+        },
+        {
+            "category": "컵 떡볶이",
+            "img_src": "",
+            "menu_name": "국물 컵떡볶이",
+            "price": "5,800원"
+        },
+        {
+            "category": "컵 떡볶이",
+            "img_src": "",
+            "menu_name": "로제 컵떡볶이",
+            "price": "6,300원"
+        },
+        {
+            "category": "컵 떡볶이",
+            "img_src": "",
+            "menu_name": "분모자 컵떡볶이",
+            "price": "6,800원"
+        },
+        {
+            "category": "컵 떡볶이",
+            "img_src": "",
+            "menu_name": "추억의 깻잎 컵떡볶이",
+            "price": "6,300원"
+        },
+        {
+            "category": "베이커리",
+            "img_src": "",
+            "menu_name": "生 생크림빵",
+            "price": "3,800원"
+        },
+        {
+            "category": "베이커리",
+            "img_src": "",
+            "menu_name": "벽돌 샌드위치 ( 에그마요 / 참치마요 )",
+            "price": "7,500원"
+        },
+        {
+            "category": "베이커리",
+            "img_src": "",
+            "menu_name": "에그포테이토콘 샐러드빵",
+            "price": "4,800원"
+        },
+        {
+            "category": "베이커리",
+            "img_src": "",
+            "menu_name": "핫도그 ( 콘치폭 / 매콤 / 갈릭 )",
+            "price": "5,300원"
+        },
+        {
+            "category": "베이커리",
+            "img_src": "",
+            "menu_name": "카야 토스트 ( 카야 / 카야 버터 )",
+            "price": "4,300원"
+        },
+        {
+            "category": "베이커리",
+            "img_src": "",
+            "menu_name": "카중 마요 토스트 ( 기본 / 햄 / 콘치즈 )",
+            "price": "4,300원"
+        },
+        {
+            "category": "베이커리",
+            "img_src": "",
+            "menu_name": "카중 갈릭 토스트 ( 기본 / 햄 / 콘치즈 )",
+            "price": "4,500원"
+        },
+        {
+            "category": "베이커리",
+            "img_src": "",
+            "menu_name": "크룽지 ( 엄청 큼 주의 )",
+            "price": "3,500원"
+        },
+        {
+            "category": "베이커리",
+            "img_src": "",
+            "menu_name": "에그참치모닝빵",
+            "price": "5,300원"
+        },
+        {
+            "category": "베이커리",
+            "img_src": "",
+            "menu_name": "추억의 라면땅",
+            "price": "3,300원"
+        },
+        {
+            "category": "베이커리",
+            "img_src": "",
+            "menu_name": "오리지널 계란빵",
+            "price": "3,800원"
+        },
+        {
+            "category": "베이커리",
+            "img_src": "",
+            "menu_name": "콘 치즈 베이컨 계란빵",
+            "price": "4,300원"
+        },
+        {
+            "category": "베이커리",
+            "img_src": "",
+            "menu_name": "팝콘 ( 카라멜 / 밀크 초코 )",
+            "price": "3,300원"
+        },
+        {
+            "category": "베이커리",
+            "img_src": "",
+            "menu_name": "생크림 토스트",
+            "price": "4,000원"
+        },
+        {
+            "category": "베이커리",
+            "img_src": "",
+            "menu_name": "모닝 소금빵",
+            "price": "3,800원"
+        },
+        {
+            "category": "당 수혈 [ 100% 수제 ] [ 품절주의 ]",
+            "img_src": "",
+            "menu_name": "꾸덕 버터바 ( 딴 곳 보다 두꺼움 )",
+            "price": "5,800원"
+        },
+        {
+            "category": "당 수혈 [ 100% 수제 ] [ 품절주의 ]",
+            "img_src": "",
+            "menu_name": "머랭쿠키 ( 솔티 / 체리 / 코코넛 )",
+            "price": "3,600원"
+        },
+        {
+            "category": "케이크",
+            "img_src": "",
+            "menu_name": "말렌카 꿀 케이크 ( 월넛 / 초코 )",
+            "price": "6,500원"
+        },
+        {
+            "category": "대용량 보틀",
+            "img_src": "",
+            "menu_name": "[ 1L / 2L ] 아메리카노",
+            "price": "7,500원"
+        },
+        {
+            "category": "대용량 보틀",
+            "img_src": "",
+            "menu_name": "[ 1L / 2L ] 바닐라빈 라떼",
+            "price": "11,000원"
+        },
+        {
+            "category": "대용량 보틀",
+            "img_src": "",
+            "menu_name": "[ 1L / 2L ] 헤이즐넛 라떼",
+            "price": "9,800원"
+        },
+        {
+            "category": "대용량 보틀",
+            "img_src": "",
+            "menu_name": "[ 1L / 2L ] 사이공 라떼",
+            "price": "9,800원"
+        },
+        {
+            "category": "대용량 보틀",
+            "img_src": "",
+            "menu_name": "[ 1L / 2L ] 아이스티",
+            "price": "8,800원"
+        },
+        {
+            "category": "대용량 보틀",
+            "img_src": "",
+            "menu_name": "[ 1L / 2L ] 아빠커피",
+            "price": "9,300원"
+        },
+        {
+            "category": "대용량 보틀",
+            "img_src": "",
+            "menu_name": "[ 1L / 2L ] 매실차",
+            "price": "8,800원"
+        },
+        {
+            "category": "대용량 보틀",
+            "img_src": "",
+            "menu_name": "[ 1L / 2L ] 찜질방 미숫가루",
+            "price": "9,800원"
+        },
+        {
+            "category": "대용량 보틀",
+            "img_src": "",
+            "menu_name": "[ 1L / 2L ] 딸기우유 라떼",
+            "price": "11,000원"
+        },
+        {
+            "category": "대용량 보틀",
+            "img_src": "",
+            "menu_name": "[ 1L / 2L ] 더블초코 라떼",
+            "price": "11,000원"
+        },
+        {
+            "category": "대용량 보틀",
+            "img_src": "",
+            "menu_name": "[ 1L / 2L ] 갈배 스무디",
+            "price": "12,000원"
+        },
+        {
+            "category": "대용량 보틀",
+            "img_src": "",
+            "menu_name": "[ 1L / 2L ] 제주 천혜향 스무디",
+            "price": "12,000원"
+        },
+        {
+            "category": "아메리카노 베프",
+            "img_src": "",
+            "menu_name": "아메리카노",
+            "price": "3,000원"
+        },
+        {
+            "category": "아메리카노 베프",
+            "img_src": "",
+            "menu_name": "꿀 아메리카노 ( 해장 커피 )",
+            "price": "3,500원"
+        },
+        {
+            "category": "아메리카노 베프",
+            "img_src": "",
+            "menu_name": "헤이즐넛 아메리카노",
+            "price": "3,600원"
+        },
+        {
+            "category": "아메리카노 베프",
+            "img_src": "",
+            "menu_name": "바닐라빈 아메리카노",
+            "price": "4,000원"
+        },
+        {
+            "category": "아메리카노 베프",
+            "img_src": "",
+            "menu_name": "수. 샷. 추 ( 수정과 + 샷 추가 )",
+            "price": "4,800원"
+        },
+        {
+            "category": "커피",
+            "img_src": "",
+            "menu_name": "카페 라떼",
+            "price": "4,500원"
+        },
+        {
+            "category": "커피",
+            "img_src": "",
+            "menu_name": "카페 모카",
+            "price": "4,800원"
+        },
+        {
+            "category": "커피",
+            "img_src": "",
+            "menu_name": "바닐라빈 라떼 ( 저당 알룰로스 )",
+            "price": "5,300원"
+        },
+        {
+            "category": "커피",
+            "img_src": "",
+            "menu_name": "헤이즐넛 라떼",
+            "price": "4,800원"
+        },
+        {
+            "category": "커피",
+            "img_src": "",
+            "menu_name": "사이공 라떼 ( 연유 라떼 )",
+            "price": "4,800원"
+        },
+        {
+            "category": "커피",
+            "img_src": "",
+            "menu_name": "아빠커피 ( 믹스커피 )",
+            "price": "3,800원"
+        },
+        {
+            "category": "라떼",
+            "img_src": "",
+            "menu_name": "제주 말차 라떼",
+            "price": "4,800원"
+        },
+        {
+            "category": "라떼",
+            "img_src": "",
+            "menu_name": "밀크티 라떼 ( 홍차 라떼 )",
+            "price": "4,800원"
+        },
+        {
+            "category": "라떼",
+            "img_src": "",
+            "menu_name": "더블초코 라떼",
+            "price": "4,800원"
+        },
+        {
+            "category": "라떼",
+            "img_src": "",
+            "menu_name": "토피넛 라떼",
+            "price": "4,800원"
+        },
+        {
+            "category": "라떼",
+            "img_src": "",
+            "menu_name": "자색고구마 라떼",
+            "price": "4,800원"
+        },
+        {
+            "category": "라떼",
+            "img_src": "",
+            "menu_name": "딸기우유 라떼",
+            "price": "5,300원"
+        },
+        {
+            "category": "라떼",
+            "img_src": "",
+            "menu_name": "찜질방 미숫가루",
+            "price": "4,800원"
+        },
+        {
+            "category": "에이드",
+            "img_src": "",
+            "menu_name": "레드자몽 에이드",
+            "price": "5,000원"
+        },
+        {
+            "category": "에이드",
+            "img_src": "",
+            "menu_name": "복숭아자두 에이드",
+            "price": "5,000원"
+        },
+        {
+            "category": "에이드",
+            "img_src": "",
+            "menu_name": "체리콕",
+            "price": "4,000원"
+        },
+        {
+            "category": "에이드",
+            "img_src": "",
+            "menu_name": "제주 천혜향 에이드",
+            "price": "5,000원"
+        },
+        {
+            "category": "에이드",
+            "img_src": "",
+            "menu_name": "샤인머스캣 에이드",
+            "price": "5,000원"
+        },
+        {
+            "category": "에이드",
+            "img_src": "",
+            "menu_name": "자몽허니블랙티 에이드",
+            "price": "5,000원"
+        },
+        {
+            "category": "에이드",
+            "img_src": "",
+            "menu_name": "매실 에이드",
+            "price": "5,000원"
+        },
+        {
+            "category": "에이드",
+            "img_src": "",
+            "menu_name": "유자 에이드",
+            "price": "5,000원"
+        },
+        {
+            "category": "스무디",
+            "img_src": "",
+            "menu_name": "요거트 스무디 ( 플레인 / 딸기 / 블루베리 )",
+            "price": "5,800원"
+        },
+        {
+            "category": "스무디",
+            "img_src": "",
+            "menu_name": "갈배 스무디",
+            "price": "5,800원"
+        },
+        {
+            "category": "스무디",
+            "img_src": "",
+            "menu_name": "메론나 스무디",
+            "price": "5,800원"
+        },
+        {
+            "category": "스무디",
+            "img_src": "",
+            "menu_name": "딸기우유 스무디",
+            "price": "5,800원"
+        },
+        {
+            "category": "스무디",
+            "img_src": "",
+            "menu_name": "블루베리 스무디",
+            "price": "5,800원"
+        },
+        {
+            "category": "스무디",
+            "img_src": "",
+            "menu_name": "제주 말차 스무디",
+            "price": "5,800원"
+        },
+        {
+            "category": "스무디",
+            "img_src": "",
+            "menu_name": "쿠앤크 스무디",
+            "price": "5,800원"
+        },
+        {
+            "category": "스무디",
+            "img_src": "",
+            "menu_name": "코코넛 스무디",
+            "price": "5,800원"
+        },
+        {
+            "category": "스무디",
+            "img_src": "",
+            "menu_name": "코코넛 커피 스무디",
+            "price": "6,300원"
+        },
+        {
+            "category": "스무디",
+            "img_src": "",
+            "menu_name": "제주 천혜향 스무디",
+            "price": "5,800원"
+        },
+        {
+            "category": "스무디",
+            "img_src": "",
+            "menu_name": "生 꿀 토마토 주스 ( 해장주스 )",
+            "price": "6,500원"
+        },
+        {
+            "category": "차",
+            "img_src": "",
+            "menu_name": "루이보스 슈가플럼",
+            "price": "4,300원"
+        },
+        {
+            "category": "차",
+            "img_src": "",
+            "menu_name": "얼그레이",
+            "price": "4,300원"
+        },
+        {
+            "category": "차",
+            "img_src": "",
+            "menu_name": "페퍼민트",
+            "price": "4,300원"
+        },
+        {
+            "category": "차",
+            "img_src": "",
+            "menu_name": "캐모마일",
+            "price": "4,300원"
+        },
+        {
+            "category": "차",
+            "img_src": "",
+            "menu_name": "아이스티 ( 복숭아 / 레몬 / 아샷추 )",
+            "price": "3,800원"
+        },
+        {
+            "category": "차",
+            "img_src": "",
+            "menu_name": "매실차",
+            "price": "4,300원"
+        },
+        {
+            "category": "차",
+            "img_src": "",
+            "menu_name": "유자차",
+            "price": "4,300원"
+        },
+        {
+            "category": "차",
+            "img_src": "",
+            "menu_name": "히비스커스 패션후르츠 티",
+            "price": "4,800원"
+        },
+        {
+            "category": "1인 세트메뉴",
+            "img_src": "",
+            "menu_name": "아아1L + 랜덤 샌드위치",
+            "price": "12,000원"
+        }
+    ]
+}

@@ -1,0 +1,44 @@
+{
+    "store_name": "씨네마맥주 대구 성당더샵점",
+    "store_location": "대구 달서구 장기로 105 1층",
+    "loc_x": "339871.858220097",
+    "loc_y": "261446.572042196",
+    "menu": [
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240102_126%2F1704182134041sbhHU_JPEG%2FKakaoTalk_20230707_094513592_19.jpg",
+            "menu_name": "페퍼로니피자",
+            "price": "13,900원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240102_3%2F170418206234682gJf_JPEG%2F%25C7%25CF%25C0%25CC%25BA%25BC-%25B8%25F0%25C0%25BD.jpg",
+            "menu_name": "하이볼",
+            "price": "7,500원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20231013_221%2F1697188828143gOv5m_JPEG%2FKakaoTalk_20230707_094513592_14.jpg",
+            "menu_name": "온닭떡볶이",
+            "price": "17,900원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20231013_211%2F1697188807596Imkz3_JPEG%2FKakaoTalk_20230707_094513592_03.jpg",
+            "menu_name": "등심&치즈돈까스",
+            "price": "14,900원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20231013_220%2F16971887928101llCo_JPEG%2FKakaoTalk_20230707_094513592_01.jpg",
+            "menu_name": "감바스",
+            "price": "14,900원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20231005_190%2F1696483700874SIsA4_JPEG%2FKakaoTalk_20230707_094513592_09.jpg",
+            "menu_name": "저온숙성 살얼음맥주",
+            "price": "4,500원"
+        }
+    ]
+}

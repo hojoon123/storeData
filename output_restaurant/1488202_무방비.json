@@ -1,0 +1,452 @@
+{
+    "store_name": "무방비",
+    "store_location": "대구 동구 동부로30길 50-1 1층 1, 2, 3호",
+    "loc_x": "347015.076852504",
+    "loc_y": "264822.919773655",
+    "menu": [
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240207_176%2F1707234432565AgVdC_JPEG%2F1707234359862.jpg",
+            "menu_name": "무방비 연어사시미",
+            "price": "24,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20231202_71%2F170152907544111y5d_JPEG%2F1701248019438.jpg",
+            "menu_name": "옥수동 김치전골",
+            "price": "20,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20231229_82%2F1703781937030ecOzi_JPEG%2F1703781895194.jpg",
+            "menu_name": "하카타 오뎅전골",
+            "price": "20,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20231229_153%2F17037819250613cNj5_JPEG%2F1703781895094.jpg",
+            "menu_name": "관동식 스키야키",
+            "price": "20,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240109_85%2F1704731483292Ar7TW_JPEG%2F1704730214057.jpg",
+            "menu_name": "추천모둠 닭꼬치",
+            "price": "16,000원"
+        },
+        {
+            "category": "",
+            "img_src": "",
+            "menu_name": "언양식 스지전골",
+            "price": "20,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240219_228%2F1708336424480MEuld_JPEG%2F1708336412656.jpg",
+            "menu_name": "나가사키 짬뽕탕",
+            "price": "20,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240109_229%2F1704731168868U1K0e_JPEG%2F1704731160116.jpg",
+            "menu_name": "연어 + 모둠꼬치",
+            "price": "39,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240109_194%2F1704731176359SgI9K_JPEG%2F1704731159011.jpg",
+            "menu_name": "전골 + 모둠꼬치",
+            "price": "35,000원"
+        },
+        {
+            "category": "",
+            "img_src": "",
+            "menu_name": "메로구이 + 모둠꼬치(8종) 세트",
+            "price": "50,000원"
+        },
+        {
+            "category": "",
+            "img_src": "",
+            "menu_name": "무방비표 메로구이",
+            "price": "31,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240207_194%2F1707235085360ptx3V_JPEG%2F1707235049926.jpg",
+            "menu_name": "닭꼬치 단품 - 다리",
+            "price": "2,800원"
+        },
+        {
+            "category": "",
+            "img_src": "",
+            "menu_name": "닭 종아리살",
+            "price": "2,800원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240207_34%2F1707235093376Pv9no_JPEG%2F1707235048205.jpg",
+            "menu_name": "닭꼬치 단품 - 다리+파",
+            "price": "2,800원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20231221_153%2F1703168355745IuTwR_JPEG%2F1703168300764.jpg",
+            "menu_name": "닭꼬치 단품 - 가슴살",
+            "price": "2,800원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240219_214%2F1708336434446ohtXk_JPEG%2F1708336412507.jpg",
+            "menu_name": "닭꼬치 - 안심",
+            "price": "2,800원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240312_200%2F1710236176159yyzEE_JPEG%2F1710236135837.jpg",
+            "menu_name": "닭꼬치 - 근위",
+            "price": "2,800원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240207_198%2F1707235105152aA1yE_JPEG%2F1707235046920.jpg",
+            "menu_name": "닭꼬치 단품 - 닭껍질",
+            "price": "2,800원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20231221_125%2F1703168365126lr5PK_JPEG%2F1703168300975.jpg",
+            "menu_name": "닭꼬치 단품 - 목살",
+            "price": "2,800원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240109_230%2F1704730354066eSubp_JPEG%2F1704730214491.jpg",
+            "menu_name": "닭꼬치 단품 - 닭봉",
+            "price": "2,800원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241017_186%2F1729167464254o0elk_PNG%2F1729167457398.png",
+            "menu_name": "닭꼬치 단품 - 완자",
+            "price": "3,500원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20231227_150%2F1703606296084v85q1_JPEG%2F1703605047435.jpg",
+            "menu_name": "닭꼬치 단품 - 염통",
+            "price": "2,800원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20231227_213%2F1703606304546GDadw_JPEG%2F1703605047359.jpg",
+            "menu_name": "꼬치 단품 - 은행",
+            "price": "2,800원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240109_131%2F1704731500532u8ol2_JPEG%2F1704730214125.jpg",
+            "menu_name": "꼬치 단품 - 옥수수",
+            "price": "2,800원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240101_26%2F1704120495002lN4GF_JPEG%2F1704120098279.jpg",
+            "menu_name": "꼬치 단품 - 베이컨 팽이말이",
+            "price": "2,800원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240312_149%2F1710236326665YrmOg_JPEG%2F1710236315916.jpg",
+            "menu_name": "꼬치 - 대파",
+            "price": "2,000원"
+        },
+        {
+            "category": "",
+            "img_src": "",
+            "menu_name": "표고버섯 꼬치",
+            "price": "2,800원"
+        },
+        {
+            "category": "",
+            "img_src": "",
+            "menu_name": "새우 꼬치",
+            "price": "3,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240806_259%2F17229366735614L3nt_PNG%2F1722843708069.png",
+            "menu_name": "연어 턱살 구이",
+            "price": "12,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240109_276%2F1704730388899HiB8P_JPEG%2F1704730214716.jpg",
+            "menu_name": "치킨난반",
+            "price": "16,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241017_227%2F1729167478661ykF4G_PNG%2F1729167372598.png",
+            "menu_name": "눈꽃 치즈 감자전",
+            "price": "13,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240312_144%2F17102361853792ihzQ_JPEG%2F1710235671967.jpg",
+            "menu_name": "나카츠식 가라아게",
+            "price": "15,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20231129_108%2F1701248190902JYvDN_JPEG%2F1701248019330.jpg",
+            "menu_name": "해물 볶음우동",
+            "price": "13,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20231223_141%2F1703260399908tF4lA_JPEG%2F1703259374363.jpg",
+            "menu_name": "새우 야끼소바",
+            "price": "13,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240219_133%2F1708336455122voMJ3_JPEG%2F1708336412867.jpg",
+            "menu_name": "나고야 완자표고",
+            "price": "12,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240109_47%2F1704730407447a9Mkw_JPEG%2F1704730214925.jpg",
+            "menu_name": "명란구이",
+            "price": "10,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240219_108%2F1708336467389uB6Gj_JPEG%2F1708336412770.jpg",
+            "menu_name": "훗카이도 시샤모",
+            "price": "10,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240109_142%2F1704731513895Pscjl_JPEG%2F1704730214778.jpg",
+            "menu_name": "모둠 고로케",
+            "price": "10,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240312_231%2F1710236263669S2XBl_JPEG%2F1710236256293.jpg",
+            "menu_name": "새우&게살튀김",
+            "price": "10,000원"
+        },
+        {
+            "category": "",
+            "img_src": "",
+            "menu_name": "타코 와사비",
+            "price": "9,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241017_259%2F1729167495365GSyG1_PNG%2F1729167457542.png",
+            "menu_name": "오꼬노미야끼",
+            "price": "8,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241017_285%2F172916754295567mS7_PNG%2F1729167375882.png",
+            "menu_name": "김치우동",
+            "price": "7,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241017_8%2F1729167504907kq2Xf_PNG%2F1729167457476.png",
+            "menu_name": "파인 샤베트",
+            "price": "7,500원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241017_143%2F1729167514242wSJVP_PNG%2F1729167457317.png",
+            "menu_name": "요구르트 샤베트",
+            "price": "8,500원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241017_162%2F1729167527212BTHz5_PNG%2F1729167372662.png",
+            "menu_name": "사리류 (우동, 라면)",
+            "price": "2,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241017_267%2F1729167632870t9g4I_PNG%2F1729167372426.png",
+            "menu_name": "공깃밥(햇반)",
+            "price": "2,000원"
+        },
+        {
+            "category": "",
+            "img_src": "",
+            "menu_name": "딸기 하이볼",
+            "price": "9,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240109_40%2F1704730477913Wx7Li_JPEG%2F1704730214296.jpg",
+            "menu_name": "피치 하이볼",
+            "price": "9,000원"
+        },
+        {
+            "category": "",
+            "img_src": "",
+            "menu_name": "청포도 하이볼",
+            "price": "9,000원"
+        },
+        {
+            "category": "",
+            "img_src": "",
+            "menu_name": "자몽 하이볼",
+            "price": "9,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240109_282%2F1704730506652Expbn_JPEG%2F1704730214359.jpg",
+            "menu_name": "유자 하이볼",
+            "price": "9,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240109_174%2F1704730520022ff1OR_JPEG%2F1704730213837.jpg",
+            "menu_name": "그린애플 하이볼",
+            "price": "8,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240109_275%2F1704730530601cLUPk_JPEG%2F1704730213961.jpg",
+            "menu_name": "얼그레이 하이볼",
+            "price": "8,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240109_121%2F1704730538221PUPNn_JPEG%2F1704730213717.jpg",
+            "menu_name": "블루레몬 하이볼",
+            "price": "8,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240109_145%2F1704730549682fRlCP_JPEG%2F1704730214214.jpg",
+            "menu_name": "산토리 하이볼",
+            "price": "7,000원"
+        },
+        {
+            "category": "",
+            "img_src": "",
+            "menu_name": "소주",
+            "price": "5,000원"
+        },
+        {
+            "category": "",
+            "img_src": "",
+            "menu_name": "맥주",
+            "price": "5,000원"
+        },
+        {
+            "category": "",
+            "img_src": "",
+            "menu_name": "생맥주 500cc",
+            "price": "4,000원"
+        },
+        {
+            "category": "",
+            "img_src": "",
+            "menu_name": "생맥주 300cc",
+            "price": "2,500원"
+        },
+        {
+            "category": "",
+            "img_src": "",
+            "menu_name": "콜라",
+            "price": "2,000원"
+        },
+        {
+            "category": "",
+            "img_src": "",
+            "menu_name": "제로콜라",
+            "price": "2,000원"
+        },
+        {
+            "category": "",
+            "img_src": "",
+            "menu_name": "스프라이트",
+            "price": "2,000원"
+        },
+        {
+            "category": "",
+            "img_src": "",
+            "menu_name": "환타파인",
+            "price": "2,000원"
+        },
+        {
+            "category": "",
+            "img_src": "",
+            "menu_name": "토닉워터",
+            "price": "2,000원"
+        },
+        {
+            "category": "",
+            "img_src": "",
+            "menu_name": "산토리 샷추가",
+            "price": "2,000원"
+        },
+        {
+            "category": "",
+            "img_src": "",
+            "menu_name": "레몬 슬라이스 추가",
+            "price": "1,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240609_31%2F1717927532989jioA6_JPEG%2FScreenshot_20240609_190229_Google.jpg",
+            "menu_name": "하쿠쯔루 마루(500ml)",
+            "price": "18,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240609_27%2F1717927540796iyt7s_JPEG%2FScreenshot_20240609_190305_Google.jpg",
+            "menu_name": "간바레 오또상(900ml)",
+            "price": "37,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240609_175%2F17179275488429BPLX_JPEG%2FScreenshot_20240609_190342_Google.jpg",
+            "menu_name": "준마이750(900ml)",
+            "price": "30,000원"
+        },
+        {
+            "category": "",
+            "img_src": "",
+            "menu_name": "기린 이치방(420ml)",
+            "price": "7,500원"
+        },
+        {
+            "category": "",
+            "img_src": "",
+            "menu_name": "도쿠리(센노유메)",
+            "price": "12,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240609_97%2F1717927559405LSOG9_JPEG%2FScreenshot_20240609_190444_Google.jpg",
+            "menu_name": "요하치로(200ml)",
+            "price": "7,000원"
+        },
+        {
+            "category": "",
+            "img_src": "",
+            "menu_name": "준마이(북극곰의눈물)",
+            "price": "47,000원"
+        },
+        {
+            "category": "",
+            "img_src": "",
+            "menu_name": "준마이 다이긴죠",
+            "price": "85,000원"
+        }
+    ]
+}

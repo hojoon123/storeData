@@ -1,0 +1,20 @@
+{
+    "store_name": "부산최고국밥",
+    "store_location": "경기 안산시 단원구 산단로 296 디124호",
+    "loc_x": "181174.40591547",
+    "loc_y": "424448.569834666",
+    "menu": [
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241212_231%2F17339818973713Hllf_JPEG%2FKakaoTalk_20240313_214721703_01.jpg",
+            "menu_name": "순대국밥",
+            "price": "10,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241209_87%2F1733676746258APGMs_JPEG%2FKakaoTalk_20240313_214721703.jpg",
+            "menu_name": "수육국밥",
+            "price": "10,000원"
+        }
+    ]
+}

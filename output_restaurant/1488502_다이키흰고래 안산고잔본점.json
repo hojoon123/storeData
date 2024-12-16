@@ -1,0 +1,98 @@
+{
+    "store_name": "다이키흰고래 안산고잔본점",
+    "store_location": "경기 안산시 단원구 이삭2길 65 101호",
+    "loc_x": "185597.557168039",
+    "loc_y": "423395.205176252",
+    "menu": [
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20231217_79%2F1702809431177T9j4v_JPEG%2F%25B4%25D9%25C0%25CC%25C5%25B0%25C7%25D1%25BB%25F3.jpg",
+            "menu_name": "다이키한상",
+            "price": "58,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20231217_84%2F1702809491260nuUyf_JPEG%2F2%25B9%25CC%25B3%25AA%25B8%25AE%252C%25B0%25A8%25C5%25C2.jpg",
+            "menu_name": "다이키 육회 한상",
+            "price": "42,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241024_62%2F1729754689469G7Lxk_JPEG%2F%25BF%25AC%25BE%25EE%25BC%25BC%25C6%25AE.jpg",
+            "menu_name": "다이키 숙성연어 한상",
+            "price": "34,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241018_104%2F1729240643457nNkmA_JPEG%2F%25C2%25F7%25B5%25B9%25BB%25EF%25C7%25D5.jpg",
+            "menu_name": "한우 차돌육회&우니&단새우 삼합",
+            "price": "39,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241024_92%2F1729754752963ob8oU_JPEG%2F%25C0%25B0%25BB%25E7%25BD%25C3%25B9%25CC_%25B4%25DC%25C7%25B0.jpg",
+            "menu_name": "한우투쁠 육사시미",
+            "price": "32,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241024_193%2F1729754706821Nf8L3_JPEG%2F%25C0%25B0%25C8%25B8%25B4%25DC%25C7%25B0.jpg",
+            "menu_name": "다이키육회",
+            "price": "28,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20231217_286%2F1702809568194Yg5mc_JPEG%2F4.jpg",
+            "menu_name": "미역 스지 사태 나베",
+            "price": "32,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241018_183%2F1729240409513ON0XQ_JPEG%2Fjpeg-optimizer_%25C2%25F7%25B5%25B9%25BA%25BA%25C0%25BD_%25281%2529.jpg",
+            "menu_name": "치즈스지차돌볶음",
+            "price": "28,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20231217_241%2F1702809851086DecXj_JPEG%2F%25C0%25B0%25C8%25B8%25BE%25EE%25B8%25B0.jpg",
+            "menu_name": "육회어린새싹 물회",
+            "price": "18,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241018_233%2F1729240635884Y9P33_JPEG%2F%25C7%25D8%25B9%25B0%25B2%25A2%25C0%25D9%25C2%25AB%25BA%25C0.jpg",
+            "menu_name": "해물깻잎짬뽕",
+            "price": "18,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241018_254%2F1729240624185PA0sX_JPEG%2F%25C2%25F7%25B5%25B9%25B8%25B6%25C1%25A6%25BC%25D2%25B9%25D9.jpg",
+            "menu_name": "차돌 마제소바",
+            "price": "18,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20231217_169%2F1702809899699gIXWG_JPEG%2F77.jpg",
+            "menu_name": "들기름 육회 냉파스타",
+            "price": "16,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20231217_71%2F1702809939812onPjI_JPEG%2F%25B0%25A1%25B8%25AE%25BA%25F1.jpg",
+            "menu_name": "가리비 페투치네 크림파스타",
+            "price": "18,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241018_30%2F1729240616609AlYef_JPEG%2F%25BF%25EC%25B4%25CF%25B9%25DD%25C6%25C7.jpg",
+            "menu_name": "성게알 반판",
+            "price": "12,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241109_79%2F1731137624940S1mCh_JPEG%2F%25B9%25D9%25BB%25E8%25C7%25D1_%25B1%25E8%25C4%25A1%25C0%25FC.jpg",
+            "menu_name": "바삭한 김치전",
+            "price": "11,000원"
+        }
+    ]
+}

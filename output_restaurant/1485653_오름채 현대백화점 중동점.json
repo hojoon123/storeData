@@ -1,0 +1,98 @@
+{
+    "store_name": "오름채 현대백화점 중동점",
+    "store_location": "경기 부천시 원미구 길주로 180 8층",
+    "loc_x": "178909.579821349",
+    "loc_y": "444735.441041218",
+    "menu": [
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241202_222%2F1733109077340YFe4W_JPEG%2F%25BB%25FE%25BA%25EA.jpg",
+            "menu_name": "맑은샤브-우삼겹",
+            "price": "17,900원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241202_204%2F1733109045567dOqti_JPEG%2F%25BB%25FE%25BA%25EA.jpg",
+            "menu_name": "맑은샤브-목심",
+            "price": "18,900원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241202_289%2F1733109023313KRJ85_JPEG%2F%25BB%25FE%25BA%25EA.jpg",
+            "menu_name": "맑은샤브-부채살",
+            "price": "19,900원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241202_158%2F1733108998831j6HQg_JPEG%2F%25BB%25FE%25BA%25EA.jpg",
+            "menu_name": "맑은샤브-한우설깃살1++",
+            "price": "24,900원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241202_210%2F1733108966688BDi9p_JPEG%2F%25BB%25FE%25BA%25EA.jpg",
+            "menu_name": "맑은샤브-한우채끝1++no.9",
+            "price": "53,900원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241202_35%2F1733108849615XD7hS_JPEG%2F%25BE%25F3%25C5%25AB1.jpg",
+            "menu_name": "얼큰,들깨,꽃게된장샤브-우삼겹",
+            "price": "18,900원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241202_111%2F1733108737032Vyhzw_JPEG%2F%25BB%25FE%25BA%25EA.jpg",
+            "menu_name": "얼큰,들깨,꽃게된장샤브-목심",
+            "price": "19,900원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241202_28%2F1733108723267Dx3nX_JPEG%2F%25BB%25FE%25BA%25EA.jpg",
+            "menu_name": "얼큰,들깨,꽃게된장샤브-부채살",
+            "price": "20,900원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241202_34%2F1733108696457Gz5bE_JPEG%2F%25BB%25FE%25BA%25EA.jpg",
+            "menu_name": "얼큰,들깨,꽃게된장샤브-한우설깃살",
+            "price": "25,900원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241202_43%2F1733108654480qjUP0_JPEG%2F%25BB%25FE%25BA%25EA.jpg",
+            "menu_name": "얼큰,들깨,꽃게된장샤브-한우채끝",
+            "price": "54,900원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241202_284%2F1733108592346xGytF_JPEG%2F%25BD%25BA%25C5%25B0%25BE%25DF%25C5%25B0.jpg",
+            "menu_name": "스키야키-우삼겹",
+            "price": "19,900원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241202_29%2F17331085766370WbDE_JPEG%2F%25BD%25BA%25C5%25B0%25BE%25DF%25C5%25B0.jpg",
+            "menu_name": "스키야키-목심",
+            "price": "20,900원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241202_221%2F17331085603535cvJd_JPEG%2F%25BD%25BA%25C5%25B0%25BE%25DF%25C5%25B0.jpg",
+            "menu_name": "스키야키-부채살",
+            "price": "21,900원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241202_230%2F1733108543477bxUsm_JPEG%2F%25BD%25BA%25C5%25B0%25BE%25DF%25C5%25B0.jpg",
+            "menu_name": "스키야키-한우설깃살1++",
+            "price": "26,900원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241202_110%2F1733108463073EzfpA_JPEG%2F%25BD%25BA%25C5%25B0%25BE%25DF%25C5%25B0.jpg",
+            "menu_name": "스키야키-한우채끝1++no.9",
+            "price": "55,900원"
+        }
+    ]
+}

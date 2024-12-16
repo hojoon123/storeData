@@ -1,0 +1,128 @@
+{
+    "store_name": "밋업하우스",
+    "store_location": "경북 포항시 북구 문화로 32 1층",
+    "loc_x": "413400.953657542",
+    "loc_y": "285051.649190111",
+    "menu": [
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241207_256%2F173354174157067Nyp_JPEG%2F%25C7%25CF%25BF%25EC%25BD%25BA%25C4%25BF%25C7%25C7.jpg",
+            "menu_name": "하우스커피(아메리카노)",
+            "price": "2,500원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241214_288%2F1734151219184RYhJP_JPEG%2FKakaoTalk_20241214_122700681.jpg",
+            "menu_name": "오늘의 디저트",
+            "price": "변동"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241201_299%2F1733016480689BE0S4_JPEG%2F%25C8%25E6%25C0%25D3%25C0%25DA%25B6%25F3%25B6%25BC.jpg",
+            "menu_name": "흑임자라떼",
+            "price": "4,500원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241207_262%2F1733541717838JnaPn_JPEG%2F%25C8%25E6%25C0%25D3%25C0%25DA%25C5%25A9%25B8%25B2%25B6%25F3%25B6%25BC.jpg",
+            "menu_name": "흑임자크림라떼",
+            "price": "5,500원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241207_191%2F1733541703502dnG9D_JPEG%2F%25BE%25A6%25C0%25FD%25B9%25CC%25C5%25A9%25B8%25B2%25B6%25F3%25B6%25BC.jpg",
+            "menu_name": "쑥절미크림라떼",
+            "price": "5,500원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241207_207%2F1733542020500z7tUK_JPEG%2F%25C3%25CA%25C4%25DA%25B5%25B5%25B3%25D3%25B6%25F3%25B6%25BC.jpg",
+            "menu_name": "초코도넛라떼",
+            "price": "4,500원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241201_2%2F17330175327528fKVE_JPEG%2F%25C0%25CE%25C0%25FD%25B9%25CC%25BE%25C6%25C0%25CC%25BD%25BA%25C5%25A9%25B8%25B2.jpg",
+            "menu_name": "인절미 크럼블 아이스크림",
+            "price": "5,500원"
+        },
+        {
+            "category": "",
+            "img_src": "",
+            "menu_name": "아메리카노 디카페인",
+            "price": "3,000원"
+        },
+        {
+            "category": "",
+            "img_src": "",
+            "menu_name": "카페라떼",
+            "price": "3,500원"
+        },
+        {
+            "category": "",
+            "img_src": "",
+            "menu_name": "바닐라라떼",
+            "price": "4,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241201_18%2F1733016919310RkiKB_JPEG%2F%25B5%25FE%25B1%25E2%25B6%25F3%25B6%25BC2.jpg",
+            "menu_name": "딸기라떼",
+            "price": "4,500원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241201_172%2F1733016726908lB149_JPEG%2F%25B8%25BB%25C2%25F7%25B6%25F3%25B6%25BC.jpg",
+            "menu_name": "말차라떼",
+            "price": "4,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241201_64%2F17330165499680YWAw_JPEG%2F%25B7%25B9%25B8%25F3%25BB%25FD%25B0%25AD%25C2%25F73.jpg",
+            "menu_name": "레몬진저티",
+            "price": "4,500원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241201_108%2F1733016805711yN7Tm_JPEG%2F%25B7%25B9%25B8%25F3%25BF%25A1%25C0%25CC%25B5%25E52.jpg",
+            "menu_name": "수제 레몬에이드",
+            "price": "4,500원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241201_118%2F1733016758192QlHbe_JPEG%2F%25C8%25F7%25BA%25F1%25BD%25BA%25C4%25BF%25BD%25BA%25B7%25B9%25B8%25F3%25BF%25A1%25C0%25CC%25B5%25E52.jpg",
+            "menu_name": "히비스커스 레몬에이드",
+            "price": "4,800원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241201_54%2F1733017499931U80cz_JPEG%2F%25BE%25C6%25C0%25CC%25BD%25BA%25C5%25A9%25B8%25B2%25B6%25F3%25B6%25BC2.jpg",
+            "menu_name": "아포가토",
+            "price": "5,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241207_150%2F1733541757111YajS2_JPEG%2F%25BE%25C6%25C0%25CC%25BD%25BA%25C5%25A9%25B8%25B2%25B6%25F3%25B6%25BC.jpg",
+            "menu_name": "아이스크림라떼",
+            "price": "6,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241201_294%2F1733017311879uay2Q_JPEG%2F%25B5%25FE%25B1%25E2%25BE%25C6%25C0%25CC%25BD%25BA%25C5%25A9%25B8%25B2.jpg",
+            "menu_name": "딸기청 아이스크림",
+            "price": "5,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241201_190%2F1733017650247mltrR_JPEG%2F%25C8%25E6%25C0%25D3%25C0%25DA%25BE%25C6%25C0%25CC%25BD%25BA%25C5%25A9%25B8%25B2.jpg",
+            "menu_name": "흑임자 크럼블 아이스크림",
+            "price": "5,500원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241201_74%2F1733017373399UnRdj_JPEG%2F%25BE%25A6%25BE%25C6%25C0%25CC%25BD%25BA%25C5%25A9%25B8%25B2.jpg",
+            "menu_name": "쑥 크럼블 아이스크림",
+            "price": "5,500원"
+        }
+    ]
+}

@@ -1,0 +1,14 @@
+{
+    "store_name": "말바우 영숙이네",
+    "store_location": "광주 북구 동문대로 81 1층",
+    "loc_x": "192895.095482605",
+    "loc_y": "185810.809986469",
+    "menu": [
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20231211_9%2F1702281545650x480w_JPEG%2FKakaoTalk_20231211_165827149.jpg",
+            "menu_name": "김치",
+            "price": "5,000원"
+        }
+    ]
+}

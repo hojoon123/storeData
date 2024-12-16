@@ -1,0 +1,98 @@
+{
+    "store_name": "벤조이",
+    "store_location": "경기 용인시 수지구 풍덕천로30번길 3 1층 1호",
+    "loc_x": "207661.771881979",
+    "loc_y": "423972.868400295",
+    "menu": [
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240618_1%2F1718639414626AVMxL_JPEG%2FKakaoTalk_20240527_211246241.jpg",
+            "menu_name": "벤조이 시그니처",
+            "price": "19,900원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240618_156%2F1718639510758zcAo4_JPEG%2F3.jpg",
+            "menu_name": "후무스 플래터(포장 전용 메뉴)",
+            "price": "12,900원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240618_298%2F1718639665376xRBQt_JPEG%2F11.jpg",
+            "menu_name": "비건 차지키 소스",
+            "price": "3,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20230807_146%2F1691414962799cM4wf_JPEG%2F%25BF%25C0%25B8%25AE%25C1%25F6%25B3%25CE.jpg",
+            "menu_name": "오리지널 후무스",
+            "price": "2,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20230808_140%2F1691476825049vOVU0_JPEG%2F%25B9%25D9%25C1%25FA.jpg",
+            "menu_name": "바질 후무스",
+            "price": "2,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20231111_42%2F1699688951086sGXI4_JPEG%2F%25B0%25A5.jpg",
+            "menu_name": "갈릭 후무스",
+            "price": "2,500원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20230808_188%2F1691477044130FHIfY_JPEG%2F%25C6%25C4%25C7%25C1%25B8%25AE%25C4%25AB.jpg",
+            "menu_name": "파프리카 후무스",
+            "price": "2,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240618_300%2F1718639823048dPSGM_JPEG%2F111.jpg",
+            "menu_name": "비건 에그마요 후무스",
+            "price": "2,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20230808_286%2F1691476907444MtvMS_JPEG%2F%25B4%25DC%25C8%25A3%25B9%25DA.jpg",
+            "menu_name": "단호박 후무스",
+            "price": "2,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20230908_279%2F1694128897789CHihw_JPEG%2F%25BA%25F1%25C6%25AE.jpg",
+            "menu_name": "ABC 후무스",
+            "price": "2,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240618_229%2F1718640003491z75kR_JPEG%2F5.jpg",
+            "menu_name": "스파이시 후무스",
+            "price": "2,500원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20231111_142%2F1699689273791K2qIM_JPEG%2F%25C6%25C8%25B6%25F3%25C6%25E71.jpg",
+            "menu_name": "팔라펠 with 비건 캐슈 크림",
+            "price": "8,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240618_273%2F1718638915183Wrvr0_JPEG%2FKakaoTalk_20240618_004115347.jpg",
+            "menu_name": "당근 라페 샐러드",
+            "price": "4,500원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20230808_199%2F1691477249038XuC7x_JPEG%2F%25C5%25B8%25BA%25D2%25B7%25B91.jpg",
+            "menu_name": "퀴노아 타불레 샐러드",
+            "price": "4,500원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240104_277%2F1704347595271q5MK4_JPEG%2F1.jpg",
+            "menu_name": "야채스틱",
+            "price": "3,500원"
+        }
+    ]
+}

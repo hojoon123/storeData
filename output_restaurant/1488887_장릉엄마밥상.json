@@ -1,0 +1,20 @@
+{
+    "store_name": "장릉엄마밥상",
+    "store_location": "경기 김포시 승가로 87 가동 1층",
+    "loc_x": "174561.105403359",
+    "loc_y": "455947.70462004",
+    "menu": [
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240128_64%2F17064167777587UnW7_JPEG%2F1706411046098.jpg",
+            "menu_name": "엄마밥상",
+            "price": "17,900원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240128_72%2F1706416756295GpBFe_JPEG%2F1706411045527.jpg",
+            "menu_name": "엄마갈비찜밥상",
+            "price": "27,900원"
+        }
+    ]
+}

@@ -1,0 +1,92 @@
+{
+    "store_name": "깜장오리",
+    "store_location": "충북 충주시 충원대로 198 1층",
+    "loc_x": "280214.186051621",
+    "loc_y": "383130.688000183",
+    "menu": [
+        {
+            "category": "",
+            "img_src": "",
+            "menu_name": "능이오리백숙",
+            "price": "80,000원"
+        },
+        {
+            "category": "",
+            "img_src": "",
+            "menu_name": "깜장오리백숙",
+            "price": "70,000원"
+        },
+        {
+            "category": "",
+            "img_src": "",
+            "menu_name": "오리양념주물럭",
+            "price": "70,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20231226_277%2F1703571398066o02Bo_PNG%2F0._X.png",
+            "menu_name": "오리훈제",
+            "price": "70,000원"
+        },
+        {
+            "category": "",
+            "img_src": "",
+            "menu_name": "능이전골 大",
+            "price": "60,000원"
+        },
+        {
+            "category": "",
+            "img_src": "",
+            "menu_name": "능이전골 中",
+            "price": "50,000원"
+        },
+        {
+            "category": "",
+            "img_src": "",
+            "menu_name": "두부전골 大",
+            "price": "40,000원"
+        },
+        {
+            "category": "",
+            "img_src": "",
+            "menu_name": "두부전골 中",
+            "price": "30,000원"
+        },
+        {
+            "category": "",
+            "img_src": "",
+            "menu_name": "두부전골 小",
+            "price": "20,000원"
+        },
+        {
+            "category": "",
+            "img_src": "",
+            "menu_name": "오삼불고기",
+            "price": "10,000원"
+        },
+        {
+            "category": "",
+            "img_src": "",
+            "menu_name": "동태찌개",
+            "price": "9,000원"
+        },
+        {
+            "category": "",
+            "img_src": "",
+            "menu_name": "짜글이",
+            "price": "10,000원"
+        },
+        {
+            "category": "",
+            "img_src": "",
+            "menu_name": "닭백숙",
+            "price": "50,000원"
+        },
+        {
+            "category": "",
+            "img_src": "",
+            "menu_name": "삼계탕",
+            "price": "15,000원"
+        }
+    ]
+}

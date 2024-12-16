@@ -1,0 +1,140 @@
+{
+    "store_name": "미카도스시 부평시장역점",
+    "store_location": "인천 부평구 대정로 7 1층 102, 103, 104호",
+    "loc_x": "175480.602287624",
+    "loc_y": "444012.370127584",
+    "menu": [
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240821_182%2F1724229047939ikrxo_JPEG%2FKakaoTalk_20240819_180809491.jpg",
+            "menu_name": "모든 접시",
+            "price": "1,900원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20231205_222%2F1701765470328vhizQ_JPEG%2F%25BD%25BA%25C6%25E4%25BC%25C8%25C3%25CA%25B9%25E4.JPG",
+            "menu_name": "스페셜초밥(10P)",
+            "price": "19,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20231205_58%2F170176552610872lrz_JPEG%2F%25BF%25C0%25B4%25C3%25C0%25C7%25C3%25CA%25B9%25E4.JPG",
+            "menu_name": "오늘의 초밥(10P)",
+            "price": "17,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20231205_35%2F1701765578955yxpVT_JPEG%2F%25B0%25A3%25C0%25E5%25BB%25F5%25BF%25EC%25B8%25F0%25B5%25D2%25C3%25CA%25B9%25E4.JPG",
+            "menu_name": "간장새우 모둠초밥(10P)",
+            "price": "15,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20231205_166%2F1701765632248Sm0Sn_JPEG%2FIMG_7908.JPG",
+            "menu_name": "모둠초밥(10P)",
+            "price": "12,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20231205_138%2F1701765666744a0jpb_JPEG%2F%25C0%25E5%25BE%25EE%25C3%25CA%25B9%25E4.JPG",
+            "menu_name": "장어초밥",
+            "price": "20,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20231205_239%2F1701765687401Sfggc_JPEG%2F%25B0%25A3%25C0%25E5%25BB%25F5%25BF%25EC%25C3%25CA%25B9%25E4.JPG",
+            "menu_name": "간장새우초밥",
+            "price": "19,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20231205_17%2F1701765703380LLER2_JPEG%2F%25B1%25A4%25BE%25EE%25C3%25CA%25B9%25E4.JPG",
+            "menu_name": "광어초밥",
+            "price": "16,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20231205_101%2F17017657240204vnWo_JPEG%2F%25B1%25A4%25BE%25EE%25B9%25DD_%25BF%25AC%25BE%25EE%25B9%25DD.JPG",
+            "menu_name": "광어반+연어반 초밥",
+            "price": "15,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20231205_189%2F1701765742819JuqzW_JPEG%2F%25BF%25AC%25BE%25EE%25BE%25E7%25C6%25C4%25C3%25CA%25B9%25E4.JPG",
+            "menu_name": "연어양파초밥",
+            "price": "15,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20231205_7%2F17017657736449E7do_JPEG%2F%25BF%25AC%25BE%25EE%25C3%25CA%25B9%25E4.JPG",
+            "menu_name": "연어초밥",
+            "price": "14,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20231205_112%2F1701765788627M6KpP_JPEG%2F%25C2%25FC%25C4%25A1%25C3%25CA%25B9%25E4.JPG",
+            "menu_name": "참치초밥",
+            "price": "20,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20231205_32%2F17017658178893CG07_JPEG%2F%25C0%25B0%25BB%25E7%25BD%25C3%25B9%25CC%25C3%25CA%25B9%25E4.JPG",
+            "menu_name": "육사시미초밥",
+            "price": "15,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20231205_61%2F1701765849116ttKQ3_JPEG%2F%25B1%25A4%25BE%25EE%25B9%25DD_%25C0%25B0%25BB%25E7%25BD%25C3%25B9%25CC%25B9%25DD.JPG",
+            "menu_name": "광어반+육사시미반",
+            "price": "16,500원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20231205_130%2F1701765894688kuLVn_JPEG%2F%25BF%25AC%25BE%25EE%25B9%25DD_%25C0%25B0%25BB%25E7%25BD%25C3%25B9%25CC%25B9%25DD.JPG",
+            "menu_name": "연어반+육사시미반",
+            "price": "15,500원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20231205_20%2F1701765423913GxndW_JPEG%2FIMG_8264.JPG",
+            "menu_name": "스페셜活세트",
+            "price": "28,900원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20231205_257%2F1701765042503obwOF_JPEG%2FIMG_7938.JPG",
+            "menu_name": "커플세트",
+            "price": "24,500원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20231205_158%2F1701764808496UkJIi_JPEG%2FIMG_0641.JPG",
+            "menu_name": "미카도모둠세트",
+            "price": "23,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20231205_143%2F17017644578938O0UI_JPEG%2F%25BC%25D2%25B0%25ED%25B1%25E2_5.JPG",
+            "menu_name": "소고기초밥(5P)",
+            "price": "10,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20231205_100%2F17017644137427siOi_JPEG%2F%25C0%25E5%25BE%25EE_5.JPG",
+            "menu_name": "장어초밥(5P)",
+            "price": "10,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20231205_93%2F1701764379277OcDe1_JPEG%2F%25BF%25AC%25BE%25EE_5.JPG",
+            "menu_name": "연어초밥(5P)",
+            "price": "8,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20231205_32%2F1701764393290mEHki_JPEG%2F%25C0%25B0%25BB%25E7%25BD%25C3%25B9%25CC_5.JPG",
+            "menu_name": "육사시미초밥(5P)",
+            "price": "8,500원"
+        }
+    ]
+}

@@ -1,0 +1,86 @@
+{
+    "store_name": "멕시카나치킨 소양점",
+    "store_location": "전북 완주군 소양면 소양로 246-6",
+    "loc_x": "220857.477780083",
+    "loc_y": "261693.88174644",
+    "menu": [
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241022_130%2F1729576811757K7yho_PNG%2F%25C4%25A1%25C7%25CA%25B8%25B5_45%25B5%25B5_%25BC%25D2%25BD%25BA_%25B4%25A9%25B3%25A2%2528%25C0%25FA%25C7%25D8%25BB%25F3%2529.png",
+            "menu_name": "치필링",
+            "price": "23,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240903_183%2F1725345414025rJ9sO_PNG%2F1989%25BF%25C0%25B8%25AE%25C1%25F8%25C8%25C4%25B6%25F3%25C0%25CC%25B5%25E5_%25B4%25A9%25B3%25A2%2528%25C0%25FA%25BF%25EB%25B7%25AE%2529.png",
+            "menu_name": "1989오리진후라이드",
+            "price": "18,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240903_240%2F1725345455460rR2qE_PNG%2F%25BE%25E7%25B3%25E4%25C4%25A1%25C5%25B2_%25B4%25A9%25B3%25A2%2528%25C0%25FA%25C7%25D8%25BB%25F3%2529.png",
+            "menu_name": "양념치킨",
+            "price": "21,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240903_105%2F1725345892317oexXp_PNG%2F%25C4%25A1%25C5%25E4%25BD%25BA%25C4%25A1%25C5%25B2_%25B4%25A9%25B3%25A2%2528%25C0%25FA%25C7%25D8%25BB%25F3%2529.png",
+            "menu_name": "치토스치킨",
+            "price": "22,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240603_169%2F1717389305422zBXjd_PNG%2F%25BA%25F1%25BA%25F6%25C4%25A1%25C5%25B2_45%25B5%25B5_%25B4%25A9%25B3%25A2.png",
+            "menu_name": "팔도비빔치킨",
+            "price": "22,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240903_214%2F1725345158807y1jUV_PNG%2F%25B1%25F1%25C7%25B3%25BF%25E4%25B8%25AE%25C4%25A1%25C5%25B2_%25B4%25A9%25B3%25A2%2528%25C0%25FA%25C7%25D8%25BB%25F3%2529.png",
+            "menu_name": "깐풍요리치킨",
+            "price": "23,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240903_215%2F1725345263358MJSaE_PNG%2F%25B8%25B6%25B4%25C3%25BE%25CB%25B8%25B6%25B4%25CF%25C4%25A1%25C5%25B2_%25B4%25A9%25B3%25A2%2528%25C0%25FA%25C7%25D8%25BB%25F3%2529.png",
+            "menu_name": "마늘알마니치킨",
+            "price": "23,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240903_72%2F17253453179003D92h_PNG%2F%25B8%25F0%25B5%25CE%25C0%25C7%25B8%25B6%25BF%25E4_%25B4%25A9%25B3%25A2%2528%25C0%25FA%25C7%25D8%25BB%25F3%2529.png",
+            "menu_name": "모두의마요치킨",
+            "price": "22,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240903_37%2F1725345376139wpXog_PNG%2F%25C8%25C4%25B6%25F3%25C0%25CC%25B5%25E5_%25B4%25A9%25B3%25A2%2528%25C0%25FA%25C7%25D8%25BB%25F3%2529.png",
+            "menu_name": "후라이드치킨",
+            "price": "19,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240903_124%2F1725345487229RpnxB_PNG%2F%25B9%25DD%25B9%25DD%25C4%25A1%25C5%25B2_%25B4%25A9%25B3%25A2%2528%25C0%25FA%25C7%25D8%25BB%25F3%2529.png",
+            "menu_name": "반반치킨",
+            "price": "변동"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240903_158%2F17253456366867hubc_PNG%2F%25B6%25AF%25C3%25CA%25C4%25A1%25C5%25B2_%25B4%25A9%25B3%25A2%2528%25C0%25FA%25C7%25D8%25BB%25F3%2529.png",
+            "menu_name": "땡초치킨",
+            "price": "22,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240903_19%2F1725345856042uO15o_PNG%2F%25B4%25AB%25B2%25C9%25C4%25A1%25C1%25EE%25C4%25A1%25C5%25B2_%25B4%25A9%25B3%25A2%2528%25C0%25FA%25C7%25D8%25BB%25F3%2529.png",
+            "menu_name": "눈꽃치즈치킨",
+            "price": "22,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241022_235%2F1729576880231G7phz_PNG%2F%25B0%25A3%25C0%25E5%25C4%25A1%25C5%25B2_%25B4%25A9%25B3%25A2%2528%25C0%25FA%25C7%25D8%25BB%25F3%2529.png",
+            "menu_name": "간장치킨",
+            "price": "21,000원"
+        }
+    ]
+}

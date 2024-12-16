@@ -1,0 +1,92 @@
+{
+    "store_name": "구레미식당",
+    "store_location": "경남 의령군 부림면 대한로 1773",
+    "loc_x": "320258.338423391",
+    "loc_y": "219391.749312559",
+    "menu": [
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241205_146%2F1733407865998ypKxP_JPEG%2F%25C2%25A5%25C0%25E5%25B8%25E91.jpg",
+            "menu_name": "짜장면",
+            "price": "7,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241205_94%2F1733407883588mXxR5_JPEG%2F%25C2%25AB%25BB%25CD1.jpg",
+            "menu_name": "짬뽕",
+            "price": "9,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241205_13%2F1733407899895BQCfK_JPEG%2F%25BA%25BA%25C0%25BD%25C2%25AB%25BB%25CD1.jpg",
+            "menu_name": "볶음짬뽕",
+            "price": "10,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241205_135%2F1733407914949rTE9T_JPEG%2F%25BE%25F3%25C5%25AB%25B0%25ED%25B1%25E2%25C2%25AB%25BB%25CD2.jpg",
+            "menu_name": "얼큰고기짬뽕",
+            "price": "12,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241205_30%2F1733407930670lg3mv_JPEG%2F%25BF%25EF%25B8%25E91.jpg",
+            "menu_name": "울면",
+            "price": "9,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241205_240%2F1733408023014Ulz3s_JPEG%2F%25C0%25EF%25B9%25DD%25C2%25A5%25C0%25E55.jpg",
+            "menu_name": "해물쟁반짜장",
+            "price": "16,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241205_230%2F1733408034781yqCHF_JPEG%2F%25BB%25F5%25BF%25EC%25BA%25BA%25C0%25BD%25B9%25E41.jpg",
+            "menu_name": "새우볶음밥",
+            "price": "8,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241205_277%2F1733408050462UhR5D_JPEG%2F%25C0%25E2%25C3%25A4%25B9%25E42.jpg",
+            "menu_name": "잡채밥",
+            "price": "8,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241205_24%2F1733407995642R25fb_JPEG%2F%25B1%25F1%25C7%25B3%25B1%25E23.jpg",
+            "menu_name": "깐풍기",
+            "price": "18,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241205_171%2F1733407955203SHAl8_JPEG%2F%25C5%25C1%25BC%25F6%25C0%25B02.jpg",
+            "menu_name": "탕수육(중)",
+            "price": "16,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241205_276%2F1733407978956hvJzj_JPEG%2F%25C5%25C1%25BC%25F6%25C0%25B02.jpg",
+            "menu_name": "탕수육(대)",
+            "price": "21,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241207_156%2F1733554239756Vc6j7_JPEG%2F%25BF%25C0%25C7%25E2%25C0%25E5%25C0%25B0.jpg",
+            "menu_name": "오향장육(한정수량)",
+            "price": "28,000원"
+        },
+        {
+            "category": "",
+            "img_src": "",
+            "menu_name": "짬뽕국물",
+            "price": "12,000원"
+        },
+        {
+            "category": "",
+            "img_src": "",
+            "menu_name": "군만두",
+            "price": "5,000원"
+        }
+    ]
+}

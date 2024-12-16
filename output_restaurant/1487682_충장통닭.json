@@ -1,0 +1,158 @@
+{
+    "store_name": "충장통닭",
+    "store_location": "광주 동구 무등로 420-1 1층",
+    "loc_x": "193339.795040834",
+    "loc_y": "184364.032002867",
+    "menu": [
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241210_82%2F1733823392335RL9S0_JPEG%2FKakaoTalk_20241210_183100187.jpg",
+            "menu_name": "[포장]한마리통닭",
+            "price": "9,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241210_123%2F1733823399453OM2ce_JPEG%2FKakaoTalk_20241210_183100187_01.jpg",
+            "menu_name": "[포장]두마리통닭",
+            "price": "17,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241210_16%2F1733823406032tbSXl_JPEG%2FKakaoTalk_20241210_183100187_02.jpg",
+            "menu_name": "[포장]후라이드(조각닭)",
+            "price": "12,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241210_218%2F1733823413882FEjfg_JPEG%2FKakaoTalk_20241210_183100187_03.jpg",
+            "menu_name": "[포장]양념/매운/간장(조각닭)",
+            "price": "13,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241204_13%2F1733305457195i5UpY_JPEG%2F1.jpg",
+            "menu_name": "[포장]충장슈프림(조각닭)",
+            "price": "14,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241210_196%2F1733823426836hX24L_JPEG%2FKakaoTalk_20241210_183100187_04.jpg",
+            "menu_name": "[포장]후라이드(순살)",
+            "price": "13,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241210_37%2F1733823432439jO4QU_JPEG%2FKakaoTalk_20241210_183100187_05.jpg",
+            "menu_name": "[포장]양념/매운/간장(순살)",
+            "price": "14,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241210_126%2F1733823441384460vA_JPEG%2FKakaoTalk_20241210_183100187_06.jpg",
+            "menu_name": "[포장]충장슈프림(순살)",
+            "price": "15,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241204_230%2F1733305544984vwo6i_JPEG%2F1.jpg",
+            "menu_name": "[포장]한마리+똥집/연골/닭껍질 세트",
+            "price": "17,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241204_71%2F1733305562557qzBXe_JPEG%2F1.jpg",
+            "menu_name": "[포장]한마리+치즈볼/치즈스틱 세트",
+            "price": "14,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241210_86%2F1733823453561nSDDl_JPEG%2FKakaoTalk_20241210_183100187_08.jpg",
+            "menu_name": "[포장]똥집튀김",
+            "price": "9,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241204_158%2F1733305597304osmAK_JPEG%2F1.jpg",
+            "menu_name": "[포장]연골튀김",
+            "price": "9,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241210_171%2F1733823459831ERGHS_JPEG%2FKakaoTalk_20241210_183100187_09.jpg",
+            "menu_name": "[포장]닭껍질튀김",
+            "price": "9,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241210_56%2F1733823464881KVwin_JPEG%2FKakaoTalk_20241210_183100187_10.jpg",
+            "menu_name": "[포장]모듬감자튀김",
+            "price": "8,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241210_187%2F1733823470134B1IRJ_JPEG%2FKakaoTalk_20241210_183100187_11.jpg",
+            "menu_name": "[포장]치즈볼(5개)",
+            "price": "5,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241210_196%2F1733823474758ukcP6_JPEG%2FKakaoTalk_20241210_183100187_12.jpg",
+            "menu_name": "[포장]치즈스틱(5개)",
+            "price": "5,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241210_145%2F17338234799055HgpV_JPEG%2FKakaoTalk_20241210_183100187_13.jpg",
+            "menu_name": "[매장]어묵탕",
+            "price": "10,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241210_93%2F1733823484684Ig1rP_JPEG%2FKakaoTalk_20241210_183100187_14.jpg",
+            "menu_name": "[매장]떡볶이",
+            "price": "10,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241204_88%2F1733305709494ac7rD_JPEG%2F1.jpg",
+            "menu_name": "음료中",
+            "price": "2,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241204_40%2F17333057245160YVBy_JPEG%2F1.jpg",
+            "menu_name": "음료大",
+            "price": "3,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241204_279%2F1733305738435agnfB_JPEG%2F1.jpg",
+            "menu_name": "생맥주500ml",
+            "price": "4,500원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241204_111%2F1733305749760HVV3V_JPEG%2F1.jpg",
+            "menu_name": "맥주",
+            "price": "4,500원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241204_50%2F1733305760570nQRDP_JPEG%2F1.jpg",
+            "menu_name": "소주",
+            "price": "4,500원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241204_204%2F1733305771316d5dPL_JPEG%2F1.jpg",
+            "menu_name": "양배추 샐러드",
+            "price": "1,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241210_209%2F1733823490184SzUaM_JPEG%2FKakaoTalk_20241210_183100187_15.jpg",
+            "menu_name": "무/소스",
+            "price": "500원"
+        }
+    ]
+}

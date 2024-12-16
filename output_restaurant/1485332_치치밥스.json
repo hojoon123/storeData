@@ -1,0 +1,86 @@
+{
+    "store_name": "치치밥스",
+    "store_location": "경기 남양주시 미금로56번길 24 1층",
+    "loc_x": "213568.169169661",
+    "loc_y": "456401.1667739",
+    "menu": [
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241206_163%2F1733494523680sNk38_JPEG%2FKakaoTalk_20241206_230953714.jpg",
+            "menu_name": "치치강정(중간맛)",
+            "price": "17,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241206_101%2F17334947981747kxTh_JPEG%2FKakaoTalk_20241206_231935554.jpg",
+            "menu_name": "간장맛강정",
+            "price": "17,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241206_153%2F1733495238940NhJh5_JPEG%2FKakaoTalk_20241206_232528793.jpg",
+            "menu_name": "치치김밥(기본)",
+            "price": "3,500원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241206_44%2F17334950726048dah0_JPEG%2FKakaoTalk_20241206_230953714_03.jpg",
+            "menu_name": "왕꼬마김밥",
+            "price": "5,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241206_222%2F1733495040873yTuW7_JPEG%2FKakaoTalk_20241206_230953714_03.jpg",
+            "menu_name": "씨앗낙지젓김밥",
+            "price": "6,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241206_17%2F1733495401641kKDQU_JPEG%2FKakaoTalk_20241206_232542511.jpg",
+            "menu_name": "치즈김밥",
+            "price": "4,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241206_188%2F1733495336436y5uye_JPEG%2FKakaoTalk_20241206_232623781.jpg",
+            "menu_name": "불어묵김밥",
+            "price": "4,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241206_171%2F17334954639823Sszx_JPEG%2FKakaoTalk_20241206_232623781.jpg",
+            "menu_name": "김치김밥",
+            "price": "4,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241206_275%2F1733495512110B7dSH_JPEG%2FKakaoTalk_20241206_232632886.jpg",
+            "menu_name": "참치김밥",
+            "price": "4,500원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241206_102%2F1733495650055PtzwU_JPEG%2Fnn.jpg",
+            "menu_name": "직화제육김밥",
+            "price": "5,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241206_206%2F1733494877468sdpt9_JPEG%2FKakaoTalk_20241206_230953714_01.jpg",
+            "menu_name": "후라이드",
+            "price": "15,900원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241206_48%2F1733494672654S5qgS_JPEG%2FKakaoTalk_20241206_230953714_06.jpg",
+            "menu_name": "달콤맛강정",
+            "price": "17,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241206_92%2F17334946998558N4b4_JPEG%2FKakaoTalk_20241206_230953714_11.jpg",
+            "menu_name": "매운맛강정",
+            "price": "18,000원"
+        }
+    ]
+}

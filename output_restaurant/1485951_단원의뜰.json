@@ -1,0 +1,26 @@
+{
+    "store_name": "단원의뜰",
+    "store_location": "경북 안동시 새골1길 25",
+    "loc_x": "353405.298384908",
+    "loc_y": "342621.083373712",
+    "menu": [
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20211202_262%2F1638416269588KRFrL_JPEG%2FD04417B9-FB7D-4084-A9DC-66F2656953CF.jpeg",
+            "menu_name": "가래떡구이",
+            "price": "6,000원"
+        },
+        {
+            "category": "",
+            "img_src": "",
+            "menu_name": "아메리카노",
+            "price": "4,000원"
+        },
+        {
+            "category": "",
+            "img_src": "",
+            "menu_name": "카페라떼",
+            "price": "4,500원"
+        }
+    ]
+}

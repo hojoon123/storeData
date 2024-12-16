@@ -1,0 +1,68 @@
+{
+    "store_name": "우소참숯화로구이 배방점",
+    "store_location": "충남 아산시 배방읍 북수로 41 1층 101호",
+    "loc_x": "205767.32126497",
+    "loc_y": "363564.827291178",
+    "menu": [
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241205_289%2F17333992900183cvgc_JPEG%2FIMG_9636.jpeg",
+            "menu_name": "생 소갈비살500g",
+            "price": "39,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241205_256%2F1733399301750oKMkm_JPEG%2FIMG_9634.jpeg",
+            "menu_name": "와규진갈비300g",
+            "price": "46,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241205_135%2F17333993121199bQUW_JPEG%2FIMG_9640.jpeg",
+            "menu_name": "생+양념+와규 900g",
+            "price": "85,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241205_283%2F1733392170470PcUgC_JPEG%2FIMG_9620.jpeg",
+            "menu_name": "양념 소갈비살500g",
+            "price": "39,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241205_102%2F1733399324203ftepK_JPEG%2FIMG_9638.jpeg",
+            "menu_name": "반반소갈비살 500g",
+            "price": "39,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241205_8%2F1733399335374RjGXj_JPEG%2FIMG_9655.jpeg",
+            "menu_name": "한우육희200g",
+            "price": "25,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241205_169%2F1733399228761YzUrh_JPEG%2FIMG_9651.jpeg",
+            "menu_name": "수제양념돼지갈비300g",
+            "price": "16,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241205_299%2F17333992417717eAbe_JPEG%2FIMG_9643.jpeg",
+            "menu_name": "간장양념소갈비살500g",
+            "price": "39,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241205_226%2F17333992517685eLo0_JPEG%2FIMG_9641.jpeg",
+            "menu_name": "LA갈비250g",
+            "price": "17,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241205_108%2F1733399262267J2CMT_JPEG%2FIMG_9654.jpeg",
+            "menu_name": "삼겹살200g",
+            "price": "15,000원"
+        }
+    ]
+}

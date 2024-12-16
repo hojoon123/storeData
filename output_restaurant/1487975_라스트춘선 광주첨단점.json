@@ -1,0 +1,98 @@
+{
+    "store_name": "라스트춘선 광주첨단점",
+    "store_location": "광주 광산구 첨단강변로99번길 66 103호, 104호",
+    "loc_x": "186181.438177207",
+    "loc_y": "190739.213110004",
+    "menu": [
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20231212_43%2F1702389779585e0xvg_JPEG%2F1000002244.jpg",
+            "menu_name": "한우 모츠나베",
+            "price": "30,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20231212_284%2F1702389819817MFv9t_JPEG%2F1000002243.jpg",
+            "menu_name": "카라이 모츠나베",
+            "price": "30,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20231212_51%2F1702389999684f6rib_JPEG%2F1000002235.jpg",
+            "menu_name": "정춘선 샤브나베",
+            "price": "27,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20231212_240%2F17023898589308Frk1_JPEG%2F1000002242.jpg",
+            "menu_name": "정춘선 곱도리탕",
+            "price": "35,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20231212_199%2F1702389885372IVOTs_JPEG%2F1000002234.jpg",
+            "menu_name": "항정삼합",
+            "price": "28,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20231212_162%2F1702389914212i03Gn_JPEG%2F1000002248.jpg",
+            "menu_name": "닭다리살 대파",
+            "price": "21,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20231212_48%2F1702389955410UfDGL_JPEG%2F1000002240.jpg",
+            "menu_name": "감태명란마요 주먹밥",
+            "price": "8,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20231212_220%2F1702390588393R7JLt_JPEG%2F1000002231.jpg",
+            "menu_name": "육회김밥",
+            "price": "13,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20231212_57%2F1702390554834q0u4C_JPEG%2F1000002232.jpg",
+            "menu_name": "들기름 젓갈파스타",
+            "price": "14,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20231212_217%2F1702390409197g8L1z_JPEG%2F1000002237.jpg",
+            "menu_name": "오리 스테이크",
+            "price": "21,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20231212_49%2F1702391516307yz5br_JPEG%2F1000002406.jpg",
+            "menu_name": "김치볶음밥",
+            "price": "9,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20231212_153%2F1702390269532tfByh_JPEG%2F1000002239.jpg",
+            "menu_name": "광장시장 녹두전",
+            "price": "18,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20231212_1%2F1702391525002BYqdI_JPEG%2F1000002404.jpg",
+            "menu_name": "트러플 은행구이",
+            "price": "8,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20231212_18%2F1702391533533PWXhF_JPEG%2F1000002405.jpg",
+            "menu_name": "짜계치와 파김치",
+            "price": "8,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20231212_283%2F1702391541608JwNTe_JPEG%2F1000002403.jpg",
+            "menu_name": "창난젓 까나페",
+            "price": "18,000원"
+        }
+    ]
+}

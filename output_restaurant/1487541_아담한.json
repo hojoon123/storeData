@@ -1,0 +1,62 @@
+{
+    "store_name": "아담한",
+    "store_location": "제주 제주시 구좌읍 세평항로 46-10 1층",
+    "loc_x": "186554.287216405",
+    "loc_y": "3356.80950778348",
+    "menu": [
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241215_2%2F1734258920941hB1sy_JPEG%2F1000017144.jpg",
+            "menu_name": "새송이버섯전",
+            "price": "8,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241215_246%2F1734258684571GmOTj_JPEG%2F1000017150.jpg",
+            "menu_name": "호박전",
+            "price": "8,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241215_161%2F1734258530775iPqml_JPEG%2F1000017165.jpg",
+            "menu_name": "김치전",
+            "price": "8,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241215_213%2F1734218362885au7nl_JPEG%2F1000017131.jpg",
+            "menu_name": "해물완자",
+            "price": "8,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241210_3%2F17338364877030zPbu_JPEG%2F1000016699.jpg",
+            "menu_name": "새우전",
+            "price": "8,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241208_236%2F1733664078682G61ED_JPEG%2F1000016615.jpg",
+            "menu_name": "굴전",
+            "price": "8,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241208_33%2F1733663996628fFYmn_JPEG%2F1000016614.jpg",
+            "menu_name": "동태전",
+            "price": "8,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241208_87%2F1733663609811h8ab5_JPEG%2F1000016414.jpg",
+            "menu_name": "스팸꼬치전",
+            "price": "8,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241203_30%2F1733231346214TX2iV_PNG%2F1000016342.png",
+            "menu_name": "무뼈닭발",
+            "price": "18,000원"
+        }
+    ]
+}

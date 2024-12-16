@@ -1,0 +1,134 @@
+{
+    "store_name": "아메리칸익스프레스 탕정점",
+    "store_location": "충남 아산시 탕정면 매곡한들7길 25 1층 101호",
+    "loc_x": "207313.629724147",
+    "loc_y": "364489.980932659",
+    "menu": [
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241201_189%2F1733038178104n9VXS_PNG%2F%25C0%25BD%25BD%25C4%25BA%25B8%25C1%25A4-%25B4%25A2%25B3%25A2.png",
+            "menu_name": "크림 뇨끼",
+            "price": "15,000원"
+        },
+        {
+            "category": "",
+            "img_src": "",
+            "menu_name": "American SET (2인 세트)",
+            "price": "36,000원"
+        },
+        {
+            "category": "",
+            "img_src": "",
+            "menu_name": "Express SET (1인 세트)",
+            "price": "19,000원"
+        },
+        {
+            "category": "",
+            "img_src": "",
+            "menu_name": "시즌 시그니처 - 캐모마일에이드",
+            "price": "6,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241201_122%2F1733038128318merDn_PNG%2F%25C0%25BD%25BD%25C4%25BA%25B8%25C1%25A4-A.E%25C6%25C4%25BD%25BA%25C5%25B8%2528%25C5%25E4%25B8%25B6%25C5%25E4%2529.png",
+            "menu_name": "A.E 파스타(토마토)",
+            "price": "14,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241201_138%2F1733038102691Ithtq_PNG%2F%25C0%25BD%25BD%25C4%25BA%25B8%25C1%25A4-A.E%25C6%25C4%25BD%25BA%25C5%25B8%2528%25C5%25A9%25B8%25B2%25292.png",
+            "menu_name": "A.E 파스타(크림)",
+            "price": "14,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241201_110%2F1733038199812pFsXn_PNG%2F%25C0%25BD%25BD%25C4%25BA%25B8%25C1%25A4-%25BF%25A1%25B1%25D7%25C0%25CE%25C7%25EF.png",
+            "menu_name": "에그 인 헬",
+            "price": "15,000원"
+        },
+        {
+            "category": "",
+            "img_src": "",
+            "menu_name": "계절 샐러드",
+            "price": "11,000원"
+        },
+        {
+            "category": "",
+            "img_src": "",
+            "menu_name": "AMEX 하이볼",
+            "price": "7,500원"
+        },
+        {
+            "category": "",
+            "img_src": "",
+            "menu_name": "아메리카노",
+            "price": "4,500원"
+        },
+        {
+            "category": "",
+            "img_src": "",
+            "menu_name": "카페라떼",
+            "price": "5,000원"
+        },
+        {
+            "category": "",
+            "img_src": "",
+            "menu_name": "카푸치노",
+            "price": "5,000원"
+        },
+        {
+            "category": "",
+            "img_src": "",
+            "menu_name": "바닐라라떼",
+            "price": "5,500원"
+        },
+        {
+            "category": "",
+            "img_src": "",
+            "menu_name": "카라멜마끼야또",
+            "price": "5,500원"
+        },
+        {
+            "category": "",
+            "img_src": "",
+            "menu_name": "카페모카",
+            "price": "5,500원"
+        },
+        {
+            "category": "",
+            "img_src": "",
+            "menu_name": "토피넛라떼",
+            "price": "6,000원"
+        },
+        {
+            "category": "",
+            "img_src": "",
+            "menu_name": "초콜릿 라떼",
+            "price": "6,000원"
+        },
+        {
+            "category": "",
+            "img_src": "",
+            "menu_name": "녹차라떼",
+            "price": "6,000원"
+        },
+        {
+            "category": "",
+            "img_src": "",
+            "menu_name": "밀크티",
+            "price": "6,000원"
+        },
+        {
+            "category": "",
+            "img_src": "",
+            "menu_name": "자몽에이드",
+            "price": "5,500원"
+        },
+        {
+            "category": "",
+            "img_src": "",
+            "menu_name": "레몬에이드",
+            "price": "5,500원"
+        }
+    ]
+}

@@ -1,0 +1,20 @@
+{
+    "store_name": "비산마라탕",
+    "store_location": "경기 안양시 동안구 비산로 9 1층 110호",
+    "loc_x": "",
+    "loc_y": "",
+    "menu": [
+        {
+            "category": "",
+            "img_src": "",
+            "menu_name": "미니전",
+            "price": "2,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240302_177%2F17093904470162Mv1i_JPEG%2FScreenshot_20240302_233733_Samsung_Internet.jpg",
+            "menu_name": "계란볶음밥",
+            "price": "7,000원"
+        }
+    ]
+}

@@ -1,0 +1,44 @@
+{
+    "store_name": "춘리마라탕 산울점",
+    "store_location": "세종 산울7로 11 근생E동 2층 E-211, 212, 213호",
+    "loc_x": "223404.833949868",
+    "loc_y": "336866.83850089",
+    "menu": [
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241203_44%2F1733215366328enyHH_JPEG%2FKakaoTalk_20231214_104838755.jpg",
+            "menu_name": "[주문 1위]대한민국 대표 마라탕",
+            "price": "2,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241203_257%2F1733215407761z04pJ_JPEG%2FKakaoTalk_20231214_104838755_01.jpg",
+            "menu_name": "[술안주 밥도둑] 마라샹궈",
+            "price": "3,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241203_210%2F1733215534014QvgQu_JPEG%2FKakaoTalk_20231214_104838755_03.jpg",
+            "menu_name": "[겉바속촉]꿔바로우 (소)",
+            "price": "7,900원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241203_41%2F17332155622206MC2M_JPEG%2FKakaoTalk_20231214_104838755_03.jpg",
+            "menu_name": "[겉바속촉]꿔바로우 (중)",
+            "price": "12,900원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241203_241%2F1733215577698vdjqY_JPEG%2FKakaoTalk_20231214_104838755_03.jpg",
+            "menu_name": "[겉바속촉]꿔바로우 (대)",
+            "price": "16,900원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241203_245%2F173321564688957zND_JPEG%2FKakaoTalk_20231214_104838755_02.jpg",
+            "menu_name": "[담백함,고소함] 계란볶음밥",
+            "price": "6,900원"
+        }
+    ]
+}

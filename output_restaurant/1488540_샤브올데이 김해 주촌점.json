@@ -1,0 +1,62 @@
+{
+    "store_name": "샤브올데이 김해 주촌점",
+    "store_location": "경남 김해시 주촌면 선천로 51 3층",
+    "loc_x": "367308.993456006",
+    "loc_y": "194626.839714262",
+    "menu": [
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240213_231%2F1707797358785G9tXj_PNG%2F%25BD%25BA%25C5%25A9%25B8%25B0%25BC%25A6_2024-02-13_125531.png",
+            "menu_name": "평일점심 (고기무제한)",
+            "price": "23,900원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240213_17%2F17077973675872gXmi_PNG%2F%25BD%25BA%25C5%25A9%25B8%25B0%25BC%25A6_2024-02-13_125423.png",
+            "menu_name": "평일저녁(고기무제한)",
+            "price": "28,900원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240213_54%2F17077973750848x39t_PNG%2F%25BD%25BA%25C5%25A9%25B8%25B0%25BC%25A6_2024-02-13_125621.png",
+            "menu_name": "주말/공휴일(고기무제한)",
+            "price": "28,900원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240213_267%2F1707797401442lue5u_PNG%2F%25BD%25BA%25C5%25A9%25B8%25B0%25BC%25A6_2024-02-13_125635.png",
+            "menu_name": "다양한 샐러드바 무제한 제공!",
+            "price": "무료"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240213_37%2F1707797410545wWMls_PNG%2F%25BD%25BA%25C5%25A9%25B8%25B0%25BC%25A6_2024-02-13_125407.png",
+            "menu_name": "품질좋은 소고기 무제한 제공!",
+            "price": "무료"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240213_95%2F1707797417203w42Jx_PNG%2F%25BD%25BA%25C5%25A9%25B8%25B0%25BC%25A6_2024-02-13_125546.png",
+            "menu_name": "신선한 월남쌈 무제한 제공!",
+            "price": "무료"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241211_155%2F1733895139146nOjrd_PNG%2F%25B8%25AE%25B9%25F6%25BD%25BA%25C5%25C7_%25B8%25C6%25C1%25D6_%25B9%25AB%25C1%25A6%25C7%25D1_%25C1%25A6%25B0%25F8.png",
+            "menu_name": "리버스탭 맥주 무제한 제공!",
+            "price": "무료"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240213_294%2F1707797427507ORtUw_PNG%2F%25BD%25BA%25C5%25A9%25B8%25B0%25BC%25A6_2024-02-13_125441.png",
+            "menu_name": "초등학생(고기무제한)",
+            "price": "13,900원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240213_119%2F1707797439690sDrE0_PNG%2F%25BD%25BA%25C5%25A9%25B8%25B0%25BC%25A6_2024-02-13_125657.png",
+            "menu_name": "미취학아동 (36개월-7세)",
+            "price": "6,900원"
+        }
+    ]
+}

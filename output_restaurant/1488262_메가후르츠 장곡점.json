@@ -1,0 +1,68 @@
+{
+    "store_name": "메가후르츠 장곡점",
+    "store_location": "경기 시흥시 장현장곡로 10 1616동 지1층 B115호",
+    "loc_x": "181430.351564087",
+    "loc_y": "430677.030660242",
+    "menu": [
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20231228_160%2F1703753527594ssN3E_JPEG%2F%25B9%25E8%25B9%25CE_%25BE%25C6%25B8%25DE%25B8%25AE%25C4%25AB%25B3%25EB%2528%25C7%25D6%25BE%25C6%25C0%25CC%25BD%25BA%2529.jpg",
+            "menu_name": "아메리카노",
+            "price": "1,900원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20231228_272%2F1703753377581fgJLG_JPEG%2F%25B9%25E8%25B9%25CE_%25C4%25C5%25B0%25FA%25C0%25CF%2528large%2529.jpg",
+            "menu_name": "컵과일",
+            "price": "4,400~6,400원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20231228_14%2F1703753418336uE8Cz_JPEG%2F%25B9%25E8%25B9%25CE_%25C4%25C5%25C8%25AD%25C3%25A4.jpg",
+            "menu_name": "모듬컵화채",
+            "price": "6,900원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20231228_168%2F1703753454364SBR9p_JPEG%2F%25B0%25FA%25C0%25CF%25C8%25AD%25C3%25A41_%25C0%25DB%25C0%25BA%25BB%25E7%25C0%25CC%25C1%25EE.jpg",
+            "menu_name": "과일화채",
+            "price": "14,900~17,900원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20231228_208%2F1703753479220CREzV_PNG%2F2%25C4%25AD3%25C4%25AD4%25C4%25AD.png",
+            "menu_name": "생과일도시락",
+            "price": "7,000~20,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20231228_222%2F1703753502487RXLXQ_PNG%2F%25B8%25DE%25B0%25A1%25C8%25C4%25B8%25A3%25C3%25F7_%25B0%25FA%25C0%25CF.png",
+            "menu_name": "단품과일도시락",
+            "price": "3,000~20,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20231228_228%2F1703753546336sGym8_JPEG%2F%25B9%25E8%25B9%25CE_%25C4%25AB%25C6%25E4%25B6%25F3%25B6%25BC%2528%25C7%25D6%25BE%25C6%25C0%25CC%25BD%25BA%2529.jpg",
+            "menu_name": "카페라떼",
+            "price": "3,500원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20231228_293%2F1703753563844uTw2T_JPEG%2F%25B9%25E8%25B9%25CE_%25BC%25F6%25B9%25DA%25C1%25D6%25BD%25BA.jpg",
+            "menu_name": "수박주스",
+            "price": "6,900원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20231228_243%2F1703753582994YQCt8_JPEG%2F%25B9%25E8%25B9%25CE_%25C3%25BB%25C6%25F7%25B5%25B5%25C1%25D6%25BD%25BA.jpg",
+            "menu_name": "청포도주스",
+            "price": "5,900원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20231228_92%2F1703753601497UUyeJ_JPEG%2F%25B9%25E8%25B9%25CE_%25C6%25C4%25C0%25CE%25BE%25D6%25C7%25C3%25C1%25D6%25BD%25BA.jpg",
+            "menu_name": "파인애플주스",
+            "price": "6,900원"
+        }
+    ]
+}

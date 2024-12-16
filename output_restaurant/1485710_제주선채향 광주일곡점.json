@@ -1,0 +1,44 @@
+{
+    "store_name": "제주선채향 광주일곡점",
+    "store_location": "광주 북구 일곡택지로 81 지하1층",
+    "loc_x": "190282.559080086",
+    "loc_y": "189978.912527701",
+    "menu": [
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241129_121%2F1732891474783NYBjK_JPEG%2F1000050496.jpg",
+            "menu_name": "전복죽",
+            "price": "17,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241129_46%2F17328915434077J7Mb_JPEG%2F1000050499.jpg",
+            "menu_name": "(특)전복죽",
+            "price": "22,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241129_144%2F1732892028591GSQlU_JPEG%2F1000050500.jpg",
+            "menu_name": "전복미역국(돌솥밥 제공)",
+            "price": "12,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241129_296%2F1732891981014toWLh_JPEG%2F1000050498.jpg",
+            "menu_name": "전복칼국수",
+            "price": "11,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241129_238%2F1732892125685D96cE_JPEG%2F1000050502.jpg",
+            "menu_name": "전복 버터구이(소)",
+            "price": "23,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241129_110%2F1732892206237FNlOo_JPEG%2F1000050501.jpg",
+            "menu_name": "전복 버터구이(대)",
+            "price": "45,000원"
+        }
+    ]
+}

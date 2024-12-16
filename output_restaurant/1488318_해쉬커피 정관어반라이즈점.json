@@ -1,0 +1,20 @@
+{
+    "store_name": "해쉬커피 정관어반라이즈점",
+    "store_location": "부산 기장군 정관읍 정관8로 28 108호",
+    "loc_x": "398065.799370034",
+    "loc_y": "204718.966111877",
+    "menu": [
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20231227_30%2F1703632214398M17rW_PNG%2F%25B8%25DE%25B4%25BA.png",
+            "menu_name": "[패스오더전용] 100원 아메리카노",
+            "price": "100원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20231220_285%2F1703054384032aNydp_JPEG%2Fimage.jpg",
+            "menu_name": "샵라떼",
+            "price": "4,000원"
+        }
+    ]
+}

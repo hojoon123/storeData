@@ -1,0 +1,14 @@
+{
+    "store_name": "타쿠즈",
+    "store_location": "경남 창원시 마산합포구 해안대로 19 1층 타쿠즈",
+    "loc_x": "342120.714219725",
+    "loc_y": "187921.629806619",
+    "menu": [
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241130_227%2F1732973002059L3K2x_JPEG%2F1000011977.jpg",
+            "menu_name": "타쿠즈",
+            "price": "1원"
+        }
+    ]
+}

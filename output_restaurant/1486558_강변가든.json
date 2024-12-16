@@ -1,0 +1,14 @@
+{
+    "store_name": "강변가든",
+    "store_location": "경남 의령군 지정면 마산로 98 강변",
+    "loc_x": "328380.675860114",
+    "loc_y": "207967.270484396",
+    "menu": [
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241119_16%2F17320034385849w6jE_JPEG%2F1000015714.jpg",
+            "menu_name": "향어회(소)",
+            "price": "35,000원"
+        }
+    ]
+}

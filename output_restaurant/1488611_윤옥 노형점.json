@@ -1,0 +1,50 @@
+{
+    "store_name": "윤옥 노형점",
+    "store_location": "제주 제주시 원노형9길 12 1층",
+    "loc_x": "152045.803649478",
+    "loc_y": "-793.351363969346",
+    "menu": [
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240706_179%2F1720272413312XlVKQ_JPEG%2FIMG_2014.jpeg",
+            "menu_name": "밥이나 면 추가 무료입니다.",
+            "price": "0원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240706_60%2F1720272251514pktRX_JPEG%2FIMG_2004.jpeg",
+            "menu_name": "윤라멘",
+            "price": "10,500원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240706_113%2F1720272313392NtFDL_JPEG%2FIMG_20191105_111752_953.jpeg",
+            "menu_name": "신윤라멘",
+            "price": "10,500원"
+        },
+        {
+            "category": "",
+            "img_src": "",
+            "menu_name": "테라 300ml 1500원!",
+            "price": "1,500원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240706_244%2F1720254165748eW2Cl_JPEG%2FIMG_1972.jpeg",
+            "menu_name": "닭껍질만두",
+            "price": "8,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241207_155%2F1733545936671jzwjI_JPEG%2FIMG_3509.jpeg",
+            "menu_name": "마파소바(마파두부 비빔면)",
+            "price": "12,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240706_161%2F1720254121741V6nhi_JPEG%2FIMG_1968.jpeg",
+            "menu_name": "(꿀)토마토절임",
+            "price": "3,000원"
+        }
+    ]
+}

@@ -1,0 +1,266 @@
+{
+    "store_name": "메가혼밥 대구북구점",
+    "store_location": "대구 북구 산격로 83-1 1층",
+    "loc_x": "344953.826989677",
+    "loc_y": "267579.591609621",
+    "menu": [
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240215_176%2F1707964992318S9lnF_JPEG%2F1%25C2%25EE%25B0%25B3%252B%25BB%25E7%25C0%25CC%25B5%25E5SET.jpg",
+            "menu_name": "찌개+사이드 [SET]",
+            "price": "11,500원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240215_124%2F17079652549676huWy_JPEG%2F7%25B0%25ED%25C3%25DF%25C0%25E5%25BB%25EF%25B0%25E3%25B1%25B8%25C0%25CC%25B5%25B5%25BD%25C3%25B6%25F4.jpg",
+            "menu_name": "1인 고추장 삼겹구이 도시락",
+            "price": "11,500원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240215_115%2F1707965390882jgzJj_JPEG%2F1%25C0%25B0%25C8%25B8%25BA%25F1%25BA%25F6%25B9%25E4.jpg",
+            "menu_name": "육회비빔밥",
+            "price": "10,900원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240215_293%2F1707965606059pGuxF_JPEG%2F1%25BD%25BA%25C6%25D4%25BA%25CE%25B4%25EB%25C2%25EE%25B0%25B3.jpg",
+            "menu_name": "스팸부대찌개",
+            "price": "11,900원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240215_277%2F1707965622307yHdDO_JPEG%2F2%25B1%25E8%25C4%25A1%25C2%25EE%25B0%25B3.jpg",
+            "menu_name": "김치찌개",
+            "price": "8,900원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240215_216%2F1707965052747QO3Iq_JPEG%2F2%25BA%25F1%25BA%25F6%25B9%25E4%252B%25C2%25EE%25B0%25B3SET.jpg",
+            "menu_name": "비빔밥+찌개 [SET]",
+            "price": "16,500원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240215_185%2F1707965071175QfWPa_JPEG%2F3%25B5%25B5%25BD%25C3%25B6%25F4%252B%25C2%25EE%25B0%25B3SET.jpg",
+            "menu_name": "도시락+찌개 [SET]",
+            "price": "17,900원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240215_150%2F1707965089230QBQF3_JPEG%2F4%25C1%25A4%25BD%25C4%252B%25C2%25EE%25B0%25B3SET.jpg",
+            "menu_name": "정식+찌개 [SET]",
+            "price": "19,500원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240215_298%2F170796510386115jPp_JPEG%2F5.%25B5%25A4%25B9%25E4%252B%25C2%25EE%25B0%25B3SET.jpg",
+            "menu_name": "덮밥+찌개 [SET]",
+            "price": "16,500원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240215_290%2F1707965160881Yc4Ce_JPEG%2F1%25BB%25EF%25B0%25E3%25B1%25B8%25C0%25CC%25B5%25B5%25BD%25C3%25B6%25F4.jpg",
+            "menu_name": "1인 삼겹구이 도시락",
+            "price": "10,500원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240215_150%2F1707965183117hXVwW_JPEG%2F2%25C0%25B0%25C8%25B8%25B5%25B5%25BD%25C3%25B6%25F4.jpg",
+            "menu_name": "1인 육회 도시락(120g)",
+            "price": "11,500원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240215_113%2F1707965220804IH2Cc_JPEG%2F2_%25C2%25DE%25B2%25D9%25B9%25CC%25B5%25B5%25BD%25C3%25B6%25F4.jpg",
+            "menu_name": "1인 쭈꾸미 도시락",
+            "price": "11,500원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240215_5%2F1707965269650fcyIz_JPEG%2F3%25B0%25A5%25BA%25F1%25B1%25B8%25C0%25CC%25B5%25B5%25BD%25C3%25B6%25F4.jpg",
+            "menu_name": "1인 갈비구이 도시락",
+            "price": "11,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240215_273%2F1707965283764qW7qW_JPEG%2F4%25B8%25F1%25BB%25EC%25B1%25B8%25C0%25CC%25B5%25B5%25BD%25C3%25B6%25F4.jpg",
+            "menu_name": "1인 목살구이 도시락",
+            "price": "10,500원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240215_214%2F1707965298474aHdYD_JPEG%2F5%25B4%25EB%25C6%25D0%25BB%25EF%25B0%25E3%25B1%25B8%25C0%25CC%25B5%25B5%25BD%25C3%25B6%25F4.jpg",
+            "menu_name": "1인 대패삼겹 구이 도시락",
+            "price": "10,500원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240215_126%2F1707965312574eYM3J_JPEG%2F6%25BF%25EC%25BB%25EF%25B0%25E3%25B1%25B8%25C0%25CC%25B5%25B5%25BD%25C3%25B6%25F4.jpg",
+            "menu_name": "1인 우삼겹구이 도시락",
+            "price": "11,500원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240215_168%2F1707965331938GIhAk_JPEG%2F8%25B0%25ED%25C3%25DF%25C0%25E5%25B4%25EB%25C6%25D0%25B1%25B8%25C0%25CC%25B5%25B5%25BD%25C3%25B6%25F4.jpg",
+            "menu_name": "1인 고추장 대패구이 도시락",
+            "price": "11,500원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240215_160%2F1707965344794Y0yhX_JPEG%2F9%25BD%25BA%25C6%25D4%25B1%25B8%25C0%25CC%25B5%25B5%25BD%25C3%25B6%25F4.jpg",
+            "menu_name": "1인 스팸구이 도시락",
+            "price": "10,500원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240215_155%2F1707965359290owiWW_JPEG%2F10%25C1%25A6%25C0%25B0%25B5%25B5%25BD%25C3%25B6%25F4.jpg",
+            "menu_name": "1인 제육도시락",
+            "price": "11,500원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240215_260%2F1707965741619TzJVm_JPEG%2F1%25B0%25ED%25B1%25E2%25C1%25A4%25BD%25C4.jpg",
+            "menu_name": "고기정식",
+            "price": "11,900원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240215_103%2F1707965448125c7oN7_JPEG%2F5%25BB%25EF%25B0%25E3%25BA%25F1%25BA%25F6%25B9%25E4.jpg",
+            "menu_name": "삼겹비빔밥",
+            "price": "9,900원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240215_119%2F1707965461219L4kV8_JPEG%2F3%25BE%25DF%25C3%25A4%25BA%25F1%25BA%25F6%25B9%25E4.jpg",
+            "menu_name": "야채비빔밥",
+            "price": "8,900원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240215_240%2F1707965501352VbzkD_JPEG%2F6%25BF%25EC%25BB%25EF%25B0%25E3%25BA%25F1%25BA%25F6%25B9%25E4.jpg",
+            "menu_name": "우삼겹비빔밥",
+            "price": "9,900원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240215_259%2F1707965474915u042J_JPEG%2F3_%25C2%25DE%25B2%25D9%25B9%25CC%25BA%25F1%25BA%25F6%25B9%25E4.jpg",
+            "menu_name": "쭈꾸미비빔밥",
+            "price": "10,900원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240215_137%2F1707965489178Yt35O_JPEG%2F2%25B0%25A5%25BA%25F1%25BA%25F1%25BA%25F6%25B9%25E4.jpg",
+            "menu_name": "갈비비빔밥",
+            "price": "10,500원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240215_254%2F1707965512781LmMru_JPEG%2F7%25B4%25EB%25C6%25D0%25BA%25F1%25BA%25F6%25B9%25E4.jpg",
+            "menu_name": "대패비빔밥",
+            "price": "9,900원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240215_137%2F1707965525857m0DrO_JPEG%2F4%25B8%25F1%25BB%25EC%25BA%25F1%25BA%25F6%25B9%25E4.jpg",
+            "menu_name": "목살비빔밥",
+            "price": "9,900원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240215_281%2F1707965539458urExE_JPEG%2F8%25C2%25FC%25C4%25A1%25BA%25F1%25BA%25F6%25B9%25E4.jpg",
+            "menu_name": "참치비빔밥",
+            "price": "9,900원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240215_109%2F1707965562872NmIxa_JPEG%2F9%25BD%25BA%25C6%25D4%25BA%25F1%25BA%25F6%25B9%25E4.jpg",
+            "menu_name": "스팸비빔밥",
+            "price": "9,900원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240215_33%2F1707965577981Ehuen_JPEG%2F10%25C1%25A6%25C0%25B0%25BA%25F1%25BA%25F6%25B9%25E4.jpg",
+            "menu_name": "제육비빔밥",
+            "price": "10,900원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240215_158%2F1707965763372KLTqz_JPEG%2F1%25BB%25EF%25B0%25E3%25B5%25A4%25B9%25E4.jpg",
+            "menu_name": "삼겹덮밥",
+            "price": "9,900원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240215_18%2F1707965775987S0LXx_JPEG%2F2%25B8%25F1%25BB%25EC%25B5%25A4%25B9%25E4.jpg",
+            "menu_name": "목살덮밥",
+            "price": "9,900원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240215_124%2F1707965787839dMcw2_JPEG%2F3%25B0%25A5%25BA%25F1%25B5%25A4%25B9%25E4.jpg",
+            "menu_name": "갈비덮밥",
+            "price": "10,500원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240215_50%2F1707965802074bKimX_JPEG%2F4%25B4%25EB%25C6%25D0%25B5%25A4%25B9%25E4.jpg",
+            "menu_name": "대패덮밥",
+            "price": "9,900원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240215_85%2F1707965814658MCp0X_JPEG%2F5%25BF%25EC%25BB%25EF%25B0%25E3%25B5%25A4%25B9%25E4.jpg",
+            "menu_name": "우삼겹덮밥",
+            "price": "9,900원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240215_117%2F1707965848253gwVtl_JPEG%2F6%25BD%25BA%25C6%25D4%25B8%25B6%25BF%25E4%25B5%25A4%25B9%25E4.jpg",
+            "menu_name": "스팸마요덮밥",
+            "price": "8,900원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240215_64%2F1707965861246RCBkm_JPEG%2F7%25C2%25FC%25C4%25A1%25B8%25B6%25BF%25E4%25B5%25A4%25B9%25E4.jpg",
+            "menu_name": "참치마요덮밥",
+            "price": "8,900원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240215_161%2F1707965874549M9nlb_JPEG%2F8%25C1%25A6%25C0%25B0%25B5%25A4%25B9%25E4.jpg",
+            "menu_name": "제육덮밥",
+            "price": "10,500원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240215_8%2F1707965888717w9iBG_JPEG%2F4_%25C2%25DE%25B2%25D9%25B9%25CC_%25B5%25A4%25B9%25E4.jpg",
+            "menu_name": "쭈꾸미덮밥",
+            "price": "10,500원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240215_38%2F1707965662738w5nGR_JPEG%2F3%25B5%25C8%25C0%25E5%25C2%25EE%25B0%25B3.jpg",
+            "menu_name": "된장찌개",
+            "price": "8,900원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240215_246%2F1707965678274JukjT_JPEG%2F1_%25C3%25BB%25B1%25B9%25C0%25E5%25C2%25EE%25B0%25B3.jpg",
+            "menu_name": "청국장찌개",
+            "price": "10,900원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240215_82%2F1707965691854kgWUR_JPEG%2F4%25BC%25F8%25B5%25CE%25BA%25CE%25C2%25EE%25B0%25B3.jpg",
+            "menu_name": "순두부찌개",
+            "price": "8,900원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240215_122%2F1707965704134Ad8n6_JPEG%2F5%25BB%25E7%25B0%25F1%25C0%25B0%25B0%25B3%25C0%25E5.jpg",
+            "menu_name": "사골육개장",
+            "price": "8,900원"
+        }
+    ]
+}

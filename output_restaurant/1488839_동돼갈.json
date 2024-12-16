@@ -1,0 +1,20 @@
+{
+    "store_name": "동돼갈",
+    "store_location": "경북 구미시 인동중앙로11길 40-2 1층",
+    "loc_x": "327637.241910542",
+    "loc_y": "290758.707224393",
+    "menu": [
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240816_102%2F1723803678450YUUv0_JPEG%2F20240816_185224.jpg",
+            "menu_name": "양념돼지갈비+껍데기",
+            "price": "8,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240105_153%2F1704389706336YpNeI_JPEG%2FIMG_4730.jpeg",
+            "menu_name": "생삼겹살",
+            "price": "11,000원"
+        }
+    ]
+}

@@ -1,0 +1,50 @@
+{
+    "store_name": "특수부대 소사벌점",
+    "store_location": "경기 평택시 비전2로 216 로얄프라자 1동 110, 111, 112호",
+    "loc_x": "210091.288140939",
+    "loc_y": "388963.492803226",
+    "menu": [
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240618_288%2F1718706027661rPkPw_JPEG%2F20240216_143042.jpg",
+            "menu_name": "부대찌개",
+            "price": "10,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240708_138%2F1720431043968ByNCC_JPEG%2F20240703_190022.jpg",
+            "menu_name": "한돈 목살 160g",
+            "price": "16,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240708_111%2F1720430879472xLRBK_JPEG%2F20240703_190022.jpg",
+            "menu_name": "한돈 삼겹살 160g",
+            "price": "16,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240704_123%2F1720062251876zOyh6_JPEG%2F20240703_190039.jpg",
+            "menu_name": "특전사 숯불 닭구이 1인분",
+            "price": "16,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240704_189%2F1720062125682RLg24_JPEG%2F20240703_200128.jpg",
+            "menu_name": "707 한돈모듬구이 대",
+            "price": "70,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240702_152%2F1719918911523sCTcP_JPEG%2Fse_one_20240702_185435_a.jpg",
+            "menu_name": "특수부대모듬구이 중",
+            "price": "55,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240702_268%2F1719918703132oWvzr_JPEG%2Fse_one_20240702_185435_a.jpg",
+            "menu_name": "특수부대 모듬구이 대",
+            "price": "80,000원"
+        }
+    ]
+}

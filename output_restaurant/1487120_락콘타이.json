@@ -1,0 +1,98 @@
+{
+    "store_name": "락콘타이",
+    "store_location": "경기 안양시 만안구 만안로 232 7층",
+    "loc_x": "",
+    "loc_y": "",
+    "menu": [
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241212_106%2F1733968554617uer15_JPEG%2FKakaoTalk_Photo_2024-12-11-23-38-38-19.jpeg",
+            "menu_name": "똠얌꿍",
+            "price": "20,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241212_50%2F1733968526150vEFqk_JPEG%2FKakaoTalk_Photo_2024-12-11-23-38-38-22.jpeg",
+            "menu_name": "공심채삼겹살볶음",
+            "price": "20,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241212_264%2F1733968459164ClqHN_JPEG%2FKakaoTalk_Photo_2024-12-11-23-38-38-23.jpeg",
+            "menu_name": "공심채볶음",
+            "price": "15,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241212_147%2F1733968359395y9338_PNG%2F%25BD%25BA%25C5%25A9%25B8%25B0%25BC%25A6_2024-12-12_%25BF%25C0%25C0%25FC_10.52.31.png",
+            "menu_name": "카타이프새우튀김",
+            "price": "9,900원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241212_297%2F1733968299084MqIrD_JPEG%2FKakaoTalk_Photo_2024-12-11-23-38-38-4.jpeg",
+            "menu_name": "닭봉튀김",
+            "price": "9,900원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241212_121%2F1733968266300QKeew_JPEG%2FKakaoTalk_Photo_2024-12-11-23-38-38-16.jpeg",
+            "menu_name": "삑뽀삐아",
+            "price": "9,900원"
+        },
+        {
+            "category": "",
+            "img_src": "",
+            "menu_name": "쏨땀까이텃",
+            "price": "20,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241212_216%2F1733968187234ov2dx_JPEG%2FKakaoTalk_Photo_2024-12-11-23-38-38-9.jpeg",
+            "menu_name": "쏨땀타이",
+            "price": "15,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241212_146%2F1733968151211LdKig_JPEG%2FKakaoTalk_Photo_2024-12-11-23-38-38-10.jpeg",
+            "menu_name": "새우팟타이",
+            "price": "13,900원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241212_132%2F1733968123632Sl9r2_JPEG%2FKakaoTalk_Photo_2024-12-11-23-38-38-7.jpeg",
+            "menu_name": "파인애플볶음밥",
+            "price": "13,900원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241212_150%2F1733968095107O6rxA_JPEG%2FKakaoTalk_Photo_2024-12-11-23-38-38-12.jpeg",
+            "menu_name": "새우볶음밥",
+            "price": "13,900원"
+        },
+        {
+            "category": "",
+            "img_src": "",
+            "menu_name": "삼겹살 덮밥",
+            "price": "13,900원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241212_35%2F17339680248069Cg9Y_JPEG%2FKakaoTalk_Photo_2024-12-11-23-38-38-11.jpeg",
+            "menu_name": "새우오징어덮밥",
+            "price": "12,900원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241212_187%2F1733967995251Ruiis_JPEG%2FKakaoTalk_Photo_2024-12-11-23-38-38-20.jpeg",
+            "menu_name": "돼지고기덮밥",
+            "price": "12,900원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241212_147%2F17339679571480sCA8_JPEG%2FKakaoTalk_Photo_2024-12-11-23-38-38-3.jpeg",
+            "menu_name": "해물쌀국수",
+            "price": "12,900원"
+        }
+    ]
+}

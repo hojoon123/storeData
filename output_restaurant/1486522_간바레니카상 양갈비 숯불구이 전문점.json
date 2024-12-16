@@ -1,0 +1,38 @@
+{
+    "store_name": "간바레니카상 양갈비 숯불구이 전문점",
+    "store_location": "전남 순천시 왕지1길 3-22 1층",
+    "loc_x": "247675.006534327",
+    "loc_y": "163694.527324089",
+    "menu": [
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241209_5%2F1733730113449sesEa_JPEG%2FKakaoTalk_20241129_002716650.jpg",
+            "menu_name": "니카상 프리미엄 세트",
+            "price": "59,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241210_126%2F1733838670969ovfJf_JPEG%2FKakaoTalk_20241129_002717622.jpg",
+            "menu_name": "니카상 프리미엄 프랜치랙(180g)",
+            "price": "32,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241209_290%2F1733730914056ET8gV_JPEG%2F241126_%25C3%25D6%25C0%25AF%25BC%25BA_%25C1%25A6%25C7%25B00035.jpg",
+            "menu_name": "니카상 양 등심 불고기 150g",
+            "price": "17,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241209_149%2F1733730775304vJD2X_JPEG%2F241126_%25C3%25D6%25C0%25AF%25BC%25BA_%25C1%25A6%25C7%25B00030.jpg",
+            "menu_name": "니카상 양등심 120g",
+            "price": "16,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241209_197%2F1733730327336Cn0gH_JPEG%2FKakaoTalk_20241129_002717088.jpg",
+            "menu_name": "니카상 양갈비 140g",
+            "price": "18,000원"
+        }
+    ]
+}

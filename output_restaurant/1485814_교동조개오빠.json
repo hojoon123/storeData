@@ -1,0 +1,14 @@
+{
+    "store_name": "교동조개오빠",
+    "store_location": "대구 중구 국채보상로123길 16 1층",
+    "loc_x": "344209.943098998",
+    "loc_y": "264646.225644373",
+    "menu": [
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241130_192%2F1732958249877fJK0e_JPEG%2FIMG_0993.jpeg",
+            "menu_name": "생물조개탕",
+            "price": "27,500원"
+        }
+    ]
+}

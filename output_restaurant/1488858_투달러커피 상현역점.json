@@ -1,0 +1,704 @@
+{
+    "store_name": "투달러커피 상현역점",
+    "store_location": "경기 용인시 수지구 광교중앙로 297 D동 102호 투달러커피 상현역점",
+    "loc_x": "206013.056773134",
+    "loc_y": "421638.835982832",
+    "menu": [
+        {
+            "category": "인기 메뉴",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20240102_85/1704164644766oFuUJ_PNG/%C4%BF%C7%C7%29_%BE%C6%B8%DE%B8%AE%C4%AB%B3%EB.png?type=f220_220_60_sharpen",
+            "menu_name": "아메리카노인기대표",
+            "price": "2,000원"
+        },
+        {
+            "category": "사장님 추천 메뉴",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20240102_85/1704164644766oFuUJ_PNG/%C4%BF%C7%C7%29_%BE%C6%B8%DE%B8%AE%C4%AB%B3%EB.png?type=f220_220_60_sharpen",
+            "menu_name": "아메리카노인기대표",
+            "price": "2,000원"
+        },
+        {
+            "category": "사장님 추천 메뉴",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20240102_255/1704164998676bFPUk_PNG/%C4%BF%C7%C7%29_%C4%AB%C6%E4%B6%F3%B6%BC.png?type=f220_220_60_sharpen",
+            "menu_name": "카페라떼대표",
+            "price": "2,900원"
+        },
+        {
+            "category": "사장님 추천 메뉴",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20240102_167/1704171638401P2hcC_PNG/%B5%F0%C0%FA%C6%AE%29_%BF%CD%C7%C3_%C7%C3%B7%B9%C0%CE.png?type=f220_220_60_sharpen",
+            "menu_name": "플레인 와플대표",
+            "price": "2,800원"
+        },
+        {
+            "category": "COFFEE",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20240102_52/1704165065875MOgoo_PNG/%C4%BF%C7%C7%29_%C7%EC%C0%CC%C1%F1%B3%D3%B6%F3%B6%BC.png?type=f220_220_60_sharpen",
+            "menu_name": "헤이즐넛라떼",
+            "price": "3,400원"
+        },
+        {
+            "category": "COFFEE",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20240102_24/1704165108043uVrMu_PNG/%C4%BF%C7%C7%29_%B9%D9%B3%AA%B3%AA%B8%C0%BF%EC%C0%AF%B6%F3%B6%BC.png?type=f220_220_60_sharpen",
+            "menu_name": "바나나맛우유라떼",
+            "price": "3,500원"
+        },
+        {
+            "category": "COFFEE",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20240102_9/1704165093713udo76_PNG/%C4%BF%C7%C7%29_%C4%AB%C6%E4%B6%F3%B6%BC.png?type=f220_220_60_sharpen",
+            "menu_name": "꿀 카페라떼",
+            "price": "3,400원"
+        },
+        {
+            "category": "COFFEE",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20240102_13/1704165018703Fgb7o_PNG/%C4%BF%C7%C7%29_%BC%D2%C0%CC%B6%F3%B6%BC.png?type=f220_220_60_sharpen",
+            "menu_name": "소이라떼",
+            "price": "2,900원"
+        },
+        {
+            "category": "COFFEE",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20240102_215/1704165044823gOo3W_PNG/%C4%BF%C7%C7%29_%B9%D9%B4%D2%B6%F3%B6%F3%B6%BC.png?type=f220_220_60_sharpen",
+            "menu_name": "바닐라라떼",
+            "price": "3,400원"
+        },
+        {
+            "category": "COFFEE",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20240213_124/1707787408993lpop9_PNG/%C5%F5%B4%DE%B7%AF%C6%E4%B3%CA%B6%F3%B6%BC%28%C6%ED%C1%FD%29-%B3%D7%C0%CC%B9%F6%C1%D6%B9%AE.png?type=f220_220_60_sharpen",
+            "menu_name": "투달러페너",
+            "price": "3,900원"
+        },
+        {
+            "category": "COFFEE",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20240102_255/1704164998676bFPUk_PNG/%C4%BF%C7%C7%29_%C4%AB%C6%E4%B6%F3%B6%BC.png?type=f220_220_60_sharpen",
+            "menu_name": "카페라떼대표",
+            "price": "2,900원"
+        },
+        {
+            "category": "COFFEE",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20240102_172/1704164892266sd6OJ_PNG/%C4%BF%C7%C7%29_%C1%A1%BA%B8%B8%AE%C4%AB%B3%EB.png?type=f220_220_60_sharpen",
+            "menu_name": "꿀 점보리카노(1L)",
+            "price": "4,800원"
+        },
+        {
+            "category": "COFFEE",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20240102_143/1704164920267bzOdb_JPEG/%C4%BF%C7%C7%29_%BE%C6%BC%A6%C3%DF.jpg?type=f220_220_60_sharpen",
+            "menu_name": "아샷추",
+            "price": "3,500원"
+        },
+        {
+            "category": "COFFEE",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20240102_234/1704164941007YxiBz_PNG/%C4%BF%C7%C7%29_%C1%A1%BA%B8%B8%AE%C4%AB%B3%EB.png?type=f220_220_60_sharpen",
+            "menu_name": "점보 아샷추(1L)",
+            "price": "6,300원"
+        },
+        {
+            "category": "COFFEE",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20240102_202/1704164871132zSQW4_PNG/%C4%BF%C7%C7%29_%BE%C6%B8%DE%B8%AE%C4%AB%B3%EB.png?type=f220_220_60_sharpen",
+            "menu_name": "꿀메리카노",
+            "price": "2,700원"
+        },
+        {
+            "category": "COFFEE",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20240102_146/1704164782526SoT8J_PNG/%C4%BF%C7%C7%29_%C7%EC%C0%CC%C1%F1%B3%D3%BE%C6%B8%DE%B8%AE%C4%AB%B3%EB.png?type=f220_220_60_sharpen",
+            "menu_name": "헤이즐넛 아메리카노",
+            "price": "2,700원"
+        },
+        {
+            "category": "COFFEE",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20240102_78/17041648075094PSyC_PNG/%C4%BF%C7%C7%29_%C1%A1%BA%B8%B8%AE%C4%AB%B3%EB.png?type=f220_220_60_sharpen",
+            "menu_name": "헤이즐넛 점보리카노(1L)",
+            "price": "4,800원"
+        },
+        {
+            "category": "COFFEE",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20240102_272/1704164689979k91El_PNG/%C4%BF%C7%C7%29_%C1%A1%BA%B8%B8%AE%C4%AB%B3%EB.png?type=f220_220_60_sharpen",
+            "menu_name": "점보리카노(1L)",
+            "price": "3,500원"
+        },
+        {
+            "category": "COFFEE",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20240102_85/1704164644766oFuUJ_PNG/%C4%BF%C7%C7%29_%BE%C6%B8%DE%B8%AE%C4%AB%B3%EB.png?type=f220_220_60_sharpen",
+            "menu_name": "아메리카노인기대표",
+            "price": "2,000원"
+        },
+        {
+            "category": "COFFEE",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20240102_60/1704165249702qCmID_JPEG/%C4%BF%C7%C7%29_%C8%E6%B4%E7%BC%A6%B6%F3%B6%BC.jpg?type=f220_220_60_sharpen",
+            "menu_name": "흑당샷라떼",
+            "price": "4,300원"
+        },
+        {
+            "category": "COFFEE",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20240102_126/1704165232677bKDVr_PNG/%C4%BF%C7%C7%29_%C5%E4%C7%C7%B3%D3%C4%AB%C6%E4%B6%F3%B6%BC.png?type=f220_220_60_sharpen",
+            "menu_name": "토피넛 카페라떼",
+            "price": "4,300원"
+        },
+        {
+            "category": "COFFEE",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20240102_141/1704165151004nDBIW_PNG/%C4%BF%C7%C7%29_%C4%AB%C6%E4%B8%F0%C4%AB.png?type=f220_220_60_sharpen",
+            "menu_name": "카페모카",
+            "price": "3,700원"
+        },
+        {
+            "category": "COFFEE",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20240102_163/1704165131580s9XNi_PNG/%C4%BF%C7%C7%29_%C4%AB%B6%F3%B8%E1%B8%B6%B3%A2%BE%C6%B6%C7.png?type=f220_220_60_sharpen",
+            "menu_name": "카라멜마끼아또",
+            "price": "3,700원"
+        },
+        {
+            "category": "COFFEE",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20240102_271/1704165197582PjxjJ_JPEG/%C4%BF%C7%C7%29_%B9%D0%C5%A9%C6%BC%BC%A6%B6%F3%B6%BC.jpg?type=f220_220_60_sharpen",
+            "menu_name": "밀크티샷라떼",
+            "price": "4,300원"
+        },
+        {
+            "category": "COFFEE",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20240102_150/1704165165896mKuqk_PNG/%C4%BF%C7%C7%29_%B5%B9%C3%BC%B6%F3%B6%BC.png?type=f220_220_60_sharpen",
+            "menu_name": "돌체라떼",
+            "price": "3,900원"
+        },
+        {
+            "category": "COFFEE",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20240102_130/1704165181562OvGjh_PNG/%C4%BF%C7%C7%29_%B8%BB%C2%F7%BC%A6%B6%F3%B6%BC.png?type=f220_220_60_sharpen",
+            "menu_name": "말차샷라떼",
+            "price": "4,100원"
+        },
+        {
+            "category": "COLD BREW",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20240102_197/1704165467148YY5Xk_PNG/%C4%BF%C7%C7%29_%C4%AB%C6%E4%B6%F3%B6%BC.png?type=f220_220_60_sharpen",
+            "menu_name": "디카페인 라떼",
+            "price": "3,900원"
+        },
+        {
+            "category": "COLD BREW",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20240102_200/17041654434714o1n2_PNG/%C4%BF%C7%C7%29_%C1%A1%BA%B8%B8%AE%C4%AB%B3%EB.png?type=f220_220_60_sharpen",
+            "menu_name": "점보 디카페인(1L)",
+            "price": "5,800원"
+        },
+        {
+            "category": "COLD BREW",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20240102_123/1704165392068RMu2K_PNG/%C4%BF%C7%C7%29_%C1%A1%BA%B8%B8%AE%C4%AB%B3%EB.png?type=f220_220_60_sharpen",
+            "menu_name": "점보 콜드브루(1L)",
+            "price": "5,800원"
+        },
+        {
+            "category": "COLD BREW",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20240102_214/1704165429520z6grw_PNG/%C4%BF%C7%C7%29_%BE%C6%B8%DE%B8%AE%C4%AB%B3%EB.png?type=f220_220_60_sharpen",
+            "menu_name": "디카페인 콜드브루",
+            "price": "3,300원"
+        },
+        {
+            "category": "COLD BREW",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20240102_215/17041654121641c5vz_PNG/%C4%BF%C7%C7%29_%C4%AB%C6%E4%B6%F3%B6%BC.png?type=f220_220_60_sharpen",
+            "menu_name": "콜드브루 라떼",
+            "price": "3,900원"
+        },
+        {
+            "category": "COLD BREW",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20240102_45/1704165374879B0Dt9_PNG/%C4%BF%C7%C7%29_%BE%C6%B8%DE%B8%AE%C4%AB%B3%EB.png?type=f220_220_60_sharpen",
+            "menu_name": "콜드브루",
+            "price": "3,300원"
+        },
+        {
+            "category": "NON COFFEE",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20240102_41/17041656579676TpfI_PNG/%B3%ED%C4%BF%C7%C7%29_%B0%ED%B1%B8%B8%B6%B6%F3%B6%BC.png?type=f220_220_60_sharpen",
+            "menu_name": "고구마라떼",
+            "price": "3,700원"
+        },
+        {
+            "category": "NON COFFEE",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20240102_83/1704165686162O4uRV_JPEG/%B3%ED%C4%BF%C7%C7%29_%C8%E6%B4%E7%B6%F3%B6%BC.jpg?type=f220_220_60_sharpen",
+            "menu_name": "흑당라떼",
+            "price": "3,700원"
+        },
+        {
+            "category": "NON COFFEE",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20240102_111/1704165672833MbE9k_PNG/%B3%ED%C4%BF%C7%C7%29_%C5%E4%C7%C7%B3%D3%B6%F3%B6%BC.png?type=f220_220_60_sharpen",
+            "menu_name": "토피넛라떼",
+            "price": "3,700원"
+        },
+        {
+            "category": "NON COFFEE",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20240102_179/1704165603800CFTVI_PNG/%B3%ED%C4%BF%C7%C7%29_%BE%D6%C7%C3%B8%C1%B0%ED%B6%F3%B6%BC.png?type=f220_220_60_sharpen",
+            "menu_name": "애플망고라떼",
+            "price": "3,500원"
+        },
+        {
+            "category": "NON COFFEE",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20240102_86/1704165590401U0VBP_PNG/%B3%ED%C4%BF%C7%C7%29_%B5%FE%B1%E2%B6%F3%B6%BC.png?type=f220_220_60_sharpen",
+            "menu_name": "딸기라떼",
+            "price": "3,500원"
+        },
+        {
+            "category": "NON COFFEE",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20240102_164/1704165637916Wxjga_PNG/%B3%ED%C4%BF%C7%C7%29_%B7%CE%BE%E2%B9%D0%C5%A9%C6%BC.png?type=f220_220_60_sharpen",
+            "menu_name": "로얄밀크티",
+            "price": "3,700원"
+        },
+        {
+            "category": "NON COFFEE",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20240102_120/1704165622567doQEx_JPEG/%B3%ED%C4%BF%C7%C7%29_%C6%D0%BC%C7%C8%C4%B8%A3%C3%F7%B6%F3%B6%BC.jpg?type=f220_220_60_sharpen",
+            "menu_name": "패션후르츠라뗴",
+            "price": "3,500원"
+        },
+        {
+            "category": "NON COFFEE",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20240102_211/1704165575292Ta48X_PNG/%B3%ED%C4%BF%C7%C7%29_%C4%AB%B6%F3%B8%E1%C7%C7%B3%D3%B6%F3%B6%BC.png?type=f220_220_60_sharpen",
+            "menu_name": "카라멜피넛라떼",
+            "price": "3,500원"
+        },
+        {
+            "category": "NON COFFEE",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20240102_203/1704165560642bNdoi_PNG/%B3%ED%C4%BF%C7%C7%29_%C1%A6%C1%D6%B8%BB%C2%F7%B6%F3%B6%BC.png?type=f220_220_60_sharpen",
+            "menu_name": "제주말차라떼",
+            "price": "3,500원"
+        },
+        {
+            "category": "NON COFFEE",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20240102_87/1704165532653D507F_PNG/%B3%ED%C4%BF%C7%C7%29_%C3%CA%C4%DA%B6%F3%B6%BC.png?type=f220_220_60_sharpen",
+            "menu_name": "초코라떼",
+            "price": "3,500원"
+        },
+        {
+            "category": "NON COFFEE",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20240102_210/1704165516706pesWb_PNG/%B3%ED%C4%BF%C7%C7%29_%BF%C0%B0%EE%B6%F3%B6%BC.png?type=f220_220_60_sharpen",
+            "menu_name": "오곡라떼",
+            "price": "3,300원"
+        },
+        {
+            "category": "NON COFFEE",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20240129_27/17065198679385bWsq_PNG/%C1%F8%C0%FA%B6%F3%B6%BC.png?type=f220_220_60_sharpen",
+            "menu_name": "진저라떼",
+            "price": "3,700원"
+        },
+        {
+            "category": "TEA",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20240102_30/1704166195446jG3hq_PNG/%C6%BC%29_%C0%DA%B8%F9%C6%BC.png?type=f220_220_60_sharpen",
+            "menu_name": "자몽티",
+            "price": "3,300원"
+        },
+        {
+            "category": "TEA",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20240102_59/1704166208106F7NJi_PNG/%C6%BC%29_%B7%B9%B8%F3%C6%BC.png?type=f220_220_60_sharpen",
+            "menu_name": "레몬티",
+            "price": "3,300원"
+        },
+        {
+            "category": "TEA",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20240102_160/1704166114723ca52N_PNG/%C6%BC%29_%BE%D6%C7%C3%C6%BC.png?type=f220_220_60_sharpen",
+            "menu_name": "애플티",
+            "price": "2,700원"
+        },
+        {
+            "category": "TEA",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20240102_179/1704166156745IXgBD_PNG/%C6%BC%29_%C4%B3%B8%F0%BA%ED%B7%A2%BA%A3%B8%AE.png?type=f220_220_60_sharpen",
+            "menu_name": "캐모블랙베리",
+            "price": "2,700원"
+        },
+        {
+            "category": "TEA",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20240102_198/17041661805346W1qE_PNG/%C6%BC%29_%B7%B9%B5%E5%BF%C0%B7%BB%C1%F6.png?type=f220_220_60_sharpen",
+            "menu_name": "레드오렌지",
+            "price": "2,700원"
+        },
+        {
+            "category": "TEA",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20240102_18/1704166139233rrqoc_PNG/%C6%BC%29_%B7%E7%C0%CC%BA%B8%BD%BA%C7%C3%B7%B3.png?type=f220_220_60_sharpen",
+            "menu_name": "루이보스플럼",
+            "price": "2,700원"
+        },
+        {
+            "category": "TEA",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20240102_66/1704166074005rCkBU_PNG/%C6%BC%29_%BA%B9%BC%FE%BE%C6%BE%C6%C0%CC%BD%BA.png?type=f220_220_60_sharpen",
+            "menu_name": "복숭아아이스티",
+            "price": "2,500원"
+        },
+        {
+            "category": "TEA",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20240102_96/1704166055128cWphJ_PNG/%C6%BC%29_%BD%BA%C6%AE%B7%CE%BA%A3%B8%AE%B9%CE%C6%AE.png?type=f220_220_60_sharpen",
+            "menu_name": "스트로베리민트",
+            "price": "2,500원"
+        },
+        {
+            "category": "TEA",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20240102_172/1704166094200anJyN_PNG/%C6%BC%29_%C1%A1%BA%B8%BA%B9%BC%FE%BE%C6.png?type=f220_220_60_sharpen",
+            "menu_name": "점보 복숭아아이스티(1L)",
+            "price": "4,300원"
+        },
+        {
+            "category": "TEA",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20240102_9/1704166000822Wfy0m_PNG/%C6%BC%29_%B8%D3%BD%BA%C4%B9%C6%BC.png?type=f220_220_60_sharpen",
+            "menu_name": "머스캣티",
+            "price": "2,500원"
+        },
+        {
+            "category": "TEA",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20240102_200/1704166017624eipzW_PNG/%C6%BC%29_%C7%F6%B9%CC%B3%EC%C2%F7.png?type=f220_220_60_sharpen",
+            "menu_name": "현미녹차",
+            "price": "2,500원"
+        },
+        {
+            "category": "TEA",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20240102_121/1704165917042IxVFI_PNG/%C6%BC%29_%C6%E4%C6%DB%B9%CE%C6%AE.png?type=f220_220_60_sharpen",
+            "menu_name": "페퍼민트",
+            "price": "2,300원"
+        },
+        {
+            "category": "TEA",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20240102_50/1704165892213TpCEL_PNG/%C6%BC%29_%C4%B3%B8%F0%B8%B6%C0%CF.png?type=f220_220_60_sharpen",
+            "menu_name": "캐모마일",
+            "price": "2,300원"
+        },
+        {
+            "category": "TEA",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20240102_113/1704165966289JKDIs_PNG/%C6%BC%29_%C8%F7%BA%F1%BD%BA%C4%BF%BD%BA.png?type=f220_220_60_sharpen",
+            "menu_name": "히비스커스",
+            "price": "2,300원"
+        },
+        {
+            "category": "TEA",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20240102_74/1704165942096gonK7_PNG/%C6%BC%29_%BE%F3%B1%D7%B7%B9%C0%CC.png?type=f220_220_60_sharpen",
+            "menu_name": "얼그레이",
+            "price": "2,300원"
+        },
+        {
+            "category": "TEA",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20240102_293/1704166377961awFSO_PNG/%C6%BC%29_%C0%DA%B8%F9%C7%E3%B4%CF%BA%ED%B7%A2.png?type=f220_220_60_sharpen",
+            "menu_name": "자몽허니블랙티",
+            "price": "3,800원"
+        },
+        {
+            "category": "TEA",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20240102_14/17041664044835URP0_PNG/%C6%BC%29_%C0%AF%C0%DA%C2%F7.png?type=f220_220_60_sharpen",
+            "menu_name": "유자차",
+            "price": "3,500원"
+        },
+        {
+            "category": "TEA",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20240102_244/1704166328467jolPK_PNG/%C6%BC%29_%C0%AF%C0%DA%BE%D6%C7%C3%C6%BC.png?type=f220_220_60_sharpen",
+            "menu_name": "유자애플티",
+            "price": "3,900원"
+        },
+        {
+            "category": "TEA",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20240102_160/1704166345160m6CmL_PNG/%C6%BC%29_%B7%B9%B8%F3%C7%E3%B4%CF%BA%ED%B7%A2.png?type=f220_220_60_sharpen",
+            "menu_name": "레몬허니블랙티",
+            "price": "3,800원"
+        },
+        {
+            "category": "TEA",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20240102_190/17041662600639pJam_PNG/%C6%BC%29_%C0%FC%C5%EB%B2%DC%B4%EB%C3%DF%C2%F7.png?type=f220_220_60_sharpen",
+            "menu_name": "전통 꿀대추차",
+            "price": "3,300원"
+        },
+        {
+            "category": "TEA",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20240102_36/1704166305997ID8Js_PNG/%C6%BC%29_%C0%AF%C0%DA%B8%D3%BD%BA%C4%B9%C6%BC.png?type=f220_220_60_sharpen",
+            "menu_name": "유자머스캣티",
+            "price": "3,900원"
+        },
+        {
+            "category": "TEA",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20240102_212/1704166280696jnNuh_JPEG/%C6%BC%29_%C1%A1%BA%B8%C7%EA%B0%B3%C2%F7.jpg?type=f220_220_60_sharpen",
+            "menu_name": "점보헛개차(1L)",
+            "price": "2,700원"
+        },
+        {
+            "category": "TEA",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20240129_158/1706519835520Ajqi3_PNG/%BB%FD%B0%AD%C2%F7.png?type=f220_220_60_sharpen",
+            "menu_name": "생강차",
+            "price": "3,500원"
+        },
+        {
+            "category": "ADE&JUICE",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20240102_203/1704166746867xE80M_PNG/%BF%A1%C0%CC%B5%E5%29_%BA%B9%BC%FE%BE%C6.png?type=f220_220_60_sharpen",
+            "menu_name": "복숭아에이드",
+            "price": "3,000원"
+        },
+        {
+            "category": "ADE&JUICE",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20240102_71/1704166727761kRkFH_PNG/%BF%A1%C0%CC%B5%E5%29_%C0%DA%B8%F9.png?type=f220_220_60_sharpen",
+            "menu_name": "자몽에이드",
+            "price": "3,500원"
+        },
+        {
+            "category": "ADE&JUICE",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20240102_295/1704166710157uOe9X_PNG/%BF%A1%C0%CC%B5%E5%29_%B7%B9%B8%F3.png?type=f220_220_60_sharpen",
+            "menu_name": "레몬에이드",
+            "price": "3,500원"
+        },
+        {
+            "category": "ADE&JUICE",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20240102_170/1704166671405ph6LQ_PNG/%BF%A1%C0%CC%B5%E5%29_%B8%C1%B0%ED.png?type=f220_220_60_sharpen",
+            "menu_name": "망고에이드",
+            "price": "3,500원"
+        },
+        {
+            "category": "ADE&JUICE",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20240102_206/1704166653864REWXP_PNG/%BF%A1%C0%CC%B5%E5%29_%BB%E7%B0%FA.png?type=f220_220_60_sharpen",
+            "menu_name": "사과에이드",
+            "price": "3,500원"
+        },
+        {
+            "category": "ADE&JUICE",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20240102_265/1704166684534zi5md_PNG/%BF%A1%C0%CC%B5%E5%29_%BA%ED%B7%E7%B7%B9%B8%F3.png?type=f220_220_60_sharpen",
+            "menu_name": "블루레몬에이드",
+            "price": "3,500원"
+        },
+        {
+            "category": "ADE&JUICE",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20240102_189/17041666145705aOz2_PNG/%BF%A1%C0%CC%B5%E5%29_%C6%D0%BC%C7%C8%C4%B8%A3%C3%F7.png?type=f220_220_60_sharpen",
+            "menu_name": "패션후르츠에이드",
+            "price": "3,500원"
+        },
+        {
+            "category": "ADE&JUICE",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20240102_106/1704166601716X2GVJ_PNG/%BF%A1%C0%CC%B5%E5%29_%BB%FE%C0%CE%B8%D3%BD%BA%C4%B9.png?type=f220_220_60_sharpen",
+            "menu_name": "샤인머스캣에이드",
+            "price": "3,500원"
+        },
+        {
+            "category": "ADE&JUICE",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20240102_247/1704166635505VEATx_PNG/%BF%A1%C0%CC%B5%E5%29_%C7%D1%B6%F3%BA%C0.png?type=f220_220_60_sharpen",
+            "menu_name": "한라봉 에이드",
+            "price": "3,500원"
+        },
+        {
+            "category": "ADE&JUICE",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20240102_274/1704166537706a5VWH_JPEG/%BD%E6%B8%D3%C1%D6%BD%BA%29_%BF%C0%B7%BB%C1%F6.jpg?type=f220_220_60_sharpen",
+            "menu_name": "오렌지 주스",
+            "price": "3,800원"
+        },
+        {
+            "category": "ADE&JUICE",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20240102_122/1704166517246nCzNx_JPEG/%BD%E6%B8%D3%C1%D6%BD%BA%29_%C0%DA%B8%F9%C7%D1%B6%F3%BA%C0.jpg?type=f220_220_60_sharpen",
+            "menu_name": "자몽&한라봉 주스",
+            "price": "3,800원"
+        },
+        {
+            "category": "ADE&JUICE",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20240102_175/1704166573475vBPVe_JPEG/%BD%E6%B8%D3%C1%D6%BD%BA%29_%B8%C1%B0%ED%C6%D0%BC%C7%C8%C4%B8%A3%C3%F7.jpg?type=f220_220_60_sharpen",
+            "menu_name": "망고&패션후르츠 주스",
+            "price": "3,800원"
+        },
+        {
+            "category": "ADE&JUICE",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20240102_165/1704166556930oP3nk_JPEG/%BD%E6%B8%D3%C1%D6%BD%BA%29_%B7%B9%B5%E5%C0%DA%B8%F9.jpg?type=f220_220_60_sharpen",
+            "menu_name": "레드자몽 주스",
+            "price": "3,800원"
+        },
+        {
+            "category": "ADE&JUICE",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20240102_108/1704166484771cELVF_JPEG/%BD%E6%B8%D3%C1%D6%BD%BA%29_%C5%A9%B7%A3%BA%A3%B8%AE%B7%B9%B8%F3.jpg?type=f220_220_60_sharpen",
+            "menu_name": "크랜베리&레몬 주스",
+            "price": "3,800원"
+        },
+        {
+            "category": "ADE&JUICE",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20240102_177/1704166502625uWo4V_JPEG/%BD%E6%B8%D3%C1%D6%BD%BA%29_%BB%E7%B0%FA.jpg?type=f220_220_60_sharpen",
+            "menu_name": "사과 주스",
+            "price": "3,800원"
+        },
+        {
+            "category": "SHAKE&FRAPPE",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20240102_233/1704167018423I62tQ_PNG/%BD%A6%C0%CC%C5%A9%29_%C4%AB%B6%F3%B8%E1%C7%C7%B3%D3.png?type=f220_220_60_sharpen",
+            "menu_name": "카라멜피넛 쉐이크",
+            "price": "4,400원"
+        },
+        {
+            "category": "SHAKE&FRAPPE",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20240102_249/1704166971826ag195_PNG/%C7%C1%B6%F3%C6%E4%29_%C1%A6%C1%D6%B8%BB%C2%F7.png?type=f220_220_60_sharpen",
+            "menu_name": "제주말차 프라페",
+            "price": "4,200원"
+        },
+        {
+            "category": "SHAKE&FRAPPE",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20240102_9/1704166958273T4Pyp_PNG/%C7%C1%B6%F3%C6%E4%29_%B2%DC%B2%DC%B9%D9.png?type=f220_220_60_sharpen",
+            "menu_name": "꿀꿀바 프라페",
+            "price": "4,200원"
+        },
+        {
+            "category": "SHAKE&FRAPPE",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20240102_67/1704166945153UrbPs_PNG/%C7%C1%B6%F3%C6%E4%29_%C4%ED%C5%B0.png?type=f220_220_60_sharpen",
+            "menu_name": "쿠키 프라페",
+            "price": "4,200원"
+        },
+        {
+            "category": "SHAKE&FRAPPE",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20240102_291/17041669994094UW6e_PNG/%BD%A6%C0%CC%C5%A9%29_%C0%CE%C0%FD%B9%CC.png?type=f220_220_60_sharpen",
+            "menu_name": "인절미 쉐이크",
+            "price": "4,800원"
+        },
+        {
+            "category": "SHAKE&FRAPPE",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20240102_180/1704166895301HPs6h_PNG/%BD%A6%C0%CC%C5%A9%29_%C4%BF%C7%C7.png?type=f220_220_60_sharpen",
+            "menu_name": "커피 쉐이크",
+            "price": "4,400원"
+        },
+        {
+            "category": "SHAKE&FRAPPE",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20240102_211/1704166932440Y2bEo_PNG/%C7%C1%B6%F3%C6%E4%29_%B9%CE%C6%AE%C3%CA%C4%DA.png?type=f220_220_60_sharpen",
+            "menu_name": "민트초코 프라페",
+            "price": "4,800원"
+        },
+        {
+            "category": "SHAKE&FRAPPE",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20240102_180/1704166909909z9dR2_PNG/%BD%A6%C0%CC%C5%A9%29_%B1%B8%B8%A7%BC%D2%B4%D9.png?type=f220_220_60_sharpen",
+            "menu_name": "구름소다 쉐이크",
+            "price": "4,400원"
+        },
+        {
+            "category": "SHAKE&FRAPPE",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20240102_86/1704166858815boGFz_PNG/%BD%A6%C0%CC%C5%A9%29_%B8%AE%BE%F3%B5%FE%B1%E2.png?type=f220_220_60_sharpen",
+            "menu_name": "리얼 딸기 쉐이크",
+            "price": "4,400원"
+        },
+        {
+            "category": "SHAKE&FRAPPE",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20240102_286/1704166844782XAEVt_PNG/%BD%A6%C0%CC%C5%A9%29_%BC%D2%C7%C1%C6%AE%C3%CA%C4%DA.png?type=f220_220_60_sharpen",
+            "menu_name": "소프트 초코쉐이크",
+            "price": "4,400원"
+        },
+        {
+            "category": "SHAKE&FRAPPE",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20240102_167/1704166875719u8Diu_PNG/%BD%A6%C0%CC%C5%A9%29_%B8%AE%BE%F3%BE%D6%C7%C3%B8%C1%B0%ED.png?type=f220_220_60_sharpen",
+            "menu_name": "리얼 애플망고 쉐이크",
+            "price": "4,400원"
+        },
+        {
+            "category": "SHAKE&FRAPPE",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20240102_23/1704166828861vASpV_PNG/%BD%A6%C0%CC%C5%A9%29_%BC%D2%C7%C1%C6%AE%B9%D0%C5%A9.png?type=f220_220_60_sharpen",
+            "menu_name": "소프트 밀크쉐이크",
+            "price": "3,900원"
+        },
+        {
+            "category": "SMOOTHIE",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20240102_197/170417128913829Kc0_PNG/%B8%AE%BE%F3%BD%BA%B9%AB%B5%F0%29_%BA%ED%B7%E7%BA%A3%B8%AE.png?type=f220_220_60_sharpen",
+            "menu_name": "리얼 블루베리 스무디",
+            "price": "4,200원"
+        },
+        {
+            "category": "SMOOTHIE",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20240102_192/1704171239041MvBua_PNG/%B8%AE%BE%F3%BD%BA%B9%AB%B5%F0%29_%BE%D6%C7%C3%B8%C1%B0%ED.png?type=f220_220_60_sharpen",
+            "menu_name": "리얼 애플망고 스무디",
+            "price": "4,200원"
+        },
+        {
+            "category": "SMOOTHIE",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20240102_101/1704171211939kYa91_PNG/%B8%AE%BE%F3%BD%BA%B9%AB%B5%F0%29_%B5%FE%B1%E2.png?type=f220_220_60_sharpen",
+            "menu_name": "리얼 딸기 스무디",
+            "price": "4,200원"
+        },
+        {
+            "category": "YOGURT",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20240102_263/1704171397676NdkC1_PNG/%BF%E4%B0%C5%C6%AE%BD%BA%B9%AB%B5%F0%29_%BA%ED%B7%E7%BA%A3%B8%AE.png?type=f220_220_60_sharpen",
+            "menu_name": "블루베리 요거트 스무디",
+            "price": "4,600원"
+        },
+        {
+            "category": "YOGURT",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20240102_219/1704171352227L9BhO_PNG/%BF%E4%B0%C5%C6%AE%BD%BA%B9%AB%B5%F0%29_%B5%FE%B1%E2.png?type=f220_220_60_sharpen",
+            "menu_name": "딸기 요거트 스무디",
+            "price": "4,600원"
+        },
+        {
+            "category": "YOGURT",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20240102_10/1704171370767S4JzW_PNG/%BF%E4%B0%C5%C6%AE%BD%BA%B9%AB%B5%F0%29_%B8%C1%B0%ED.png?type=f220_220_60_sharpen",
+            "menu_name": "애플망고 요거트 스무디",
+            "price": "4,600원"
+        },
+        {
+            "category": "YOGURT",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20240102_87/1704171336411hKtGW_PNG/%BF%E4%B0%C5%C6%AE%BD%BA%B9%AB%B5%F0%29_%C7%C3%B7%B9%C0%CE.png?type=f220_220_60_sharpen",
+            "menu_name": "플레인 요거트 스무디",
+            "price": "4,200원"
+        },
+        {
+            "category": "CAKE",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20240102_165/1704171528479XnImg_JPEG/%B5%F0%C0%FA%C6%AE%29_%C4%C9%C0%CD_%B8%BB%B7%BB%C4%AB%BF%F9%B3%D3.jpg?type=f220_220_60_sharpen",
+            "menu_name": "말렌카꿀케익 월넛",
+            "price": "5,200원"
+        },
+        {
+            "category": "CAKE",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20240102_229/1704171561782b1Rdy_JPEG/%B5%F0%C0%FA%C6%AE%29_%C4%C9%C0%CD_%B8%BB%B7%BB%C4%AB%B7%B9%B8%F3.jpg?type=f220_220_60_sharpen",
+            "menu_name": "말렌카꿀케익 레몬",
+            "price": "5,200원"
+        },
+        {
+            "category": "CAKE",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20240102_182/1704171546438c093M_JPEG/%B5%F0%C0%FA%C6%AE%29_%C4%C9%C0%CD_%B8%BB%B7%BB%C4%AB%C4%DA%C4%DA%BE%C6.jpg?type=f220_220_60_sharpen",
+            "menu_name": "말렌카꿀케익 코코아",
+            "price": "5,200원"
+        },
+        {
+            "category": "WAFFLE",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20240102_258/1704171774606NxS7f_JPEG/%B5%F0%C0%FA%C6%AE%29_%B6%B1%C7%C3_%B7%CE%C5%F5%BD%BA.jpg?type=f220_220_60_sharpen",
+            "menu_name": "로투스 떡플",
+            "price": "5,300원"
+        },
+        {
+            "category": "WAFFLE",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20240102_35/1704171758343YlQYV_JPEG/%B5%F0%C0%FA%C6%AE%29_%B6%B1%C7%C3_%C4%AB%BD%BA%C5%D7%B6%F3.jpg?type=f220_220_60_sharpen",
+            "menu_name": "카스테라 떡플",
+            "price": "5,300원"
+        },
+        {
+            "category": "WAFFLE",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20240102_2/1704171704668tQ46A_PNG/%B5%F0%C0%FA%C6%AE%29_%BF%CD%C7%C3_%BE%D6%C7%C3%BD%C3%B3%AA%B8%F3.png?type=f220_220_60_sharpen",
+            "menu_name": "애플시나몬 와플",
+            "price": "4,200원"
+        },
+        {
+            "category": "WAFFLE",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20240102_294/1704171741995YTjdz_JPEG/%B5%F0%C0%FA%C6%AE%29_%B6%B1%C7%C3_%BF%C0%B8%AE%C1%F6%B3%CE.jpg?type=f220_220_60_sharpen",
+            "menu_name": "오리지널 떡플",
+            "price": "4,800원"
+        },
+        {
+            "category": "WAFFLE",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20240102_42/17041717221060VepV_PNG/%B5%F0%C0%FA%C6%AE%29_%BF%CD%C7%C3_%B4%A9%C5%DA%B6%F3%C3%CA%C4%DA.png?type=f220_220_60_sharpen",
+            "menu_name": "누텔라 초코 와플",
+            "price": "4,200원"
+        },
+        {
+            "category": "WAFFLE",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20240102_210/170417166504446cRQ_PNG/%B5%F0%C0%FA%C6%AE%29_%BF%CD%C7%C3_%B8%DE%C0%CC%C7%C3%B0%DF%B0%FA.png?type=f220_220_60_sharpen",
+            "menu_name": "메이플 견과 와플",
+            "price": "3,800원"
+        },
+        {
+            "category": "WAFFLE",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20240102_156/1704171651634OpL1U_PNG/%B5%F0%C0%FA%C6%AE%29_%BF%CD%C7%C3_%B8%DE%C0%CC%C7%C3%BD%C3%B7%B4.png?type=f220_220_60_sharpen",
+            "menu_name": "메이플 시럽 와플",
+            "price": "3,300원"
+        },
+        {
+            "category": "WAFFLE",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20240102_80/1704171685881JOIEe_PNG/%B5%F0%C0%FA%C6%AE%29_%BF%CD%C7%C3_%BB%FD%C5%A9%B8%B2.png?type=f220_220_60_sharpen",
+            "menu_name": "듬뿍 생크림 와플",
+            "price": "4,200원"
+        },
+        {
+            "category": "WAFFLE",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20240102_167/1704171638401P2hcC_PNG/%B5%F0%C0%FA%C6%AE%29_%BF%CD%C7%C3_%C7%C3%B7%B9%C0%CE.png?type=f220_220_60_sharpen",
+            "menu_name": "플레인 와플대표",
+            "price": "2,800원"
+        },
+        {
+            "category": "COOKIE",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20240102_186/1704171812049MV6Rt_PNG/%B5%F0%C0%FA%C6%AE%29_%B9%D0%C4%AB%C3%CA%C4%DA%BD%B4%C7%C1%B8%B2.png?type=f220_220_60_sharpen",
+            "menu_name": "밀카 초코 슈프림",
+            "price": "800원"
+        },
+        {
+            "category": "COOKIE",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20240102_182/1704171825272cRzCw_JPEG/%B5%F0%C0%FA%C6%AE%29_%B9%D0%C4%AB%C3%CA%C4%DA%B9%AB.jpg?type=f220_220_60_sharpen",
+            "menu_name": "밀카 초코무",
+            "price": "800원"
+        },
+        {
+            "category": "COOKIE",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20240102_252/1704171795313NhGR1_JPEG/%B5%F0%C0%FA%C6%AE%29_%C4%BF%C5%AC%B7%A3%B5%E5%B9%D9.jpg?type=f220_220_60_sharpen",
+            "menu_name": "커클랜드 그래놀라바",
+            "price": "500원"
+        }
+    ]
+}

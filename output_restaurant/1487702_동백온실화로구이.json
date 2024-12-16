@@ -1,0 +1,110 @@
+{
+    "store_name": "동백온실화로구이",
+    "store_location": "경기 파주시 운정로 113-170",
+    "loc_x": "180974.19851718",
+    "loc_y": "469416.604763676",
+    "menu": [
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241202_54%2F1733130624680kTn5g_JPEG%2F%25B0%25ED%25C3%25DF%25C0%25E5-%25B2%25C9.jpg",
+            "menu_name": "고추장 화로구이",
+            "price": "23,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241202_164%2F1733130716300OoG6u_JPEG%2F%25B0%25A3%25C0%25E5-%25B2%25C9.jpg",
+            "menu_name": "간장 화로구이",
+            "price": "27,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241202_188%2F1733133070676ilNeY_JPEG%2F%25BC%25D2%25BE%25E7%25B3%25E4.jpg",
+            "menu_name": "소 양념갈비",
+            "price": "37,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241202_176%2F17331329892279ehS8_JPEG%2F%25B2%25C9%25B5%25EE%25BD%25C9.jpg",
+            "menu_name": "동백꽃등심",
+            "price": "55,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241202_160%2F1733132556107SLwLc_JPEG%2F%25BC%25B3%25C8%25AD%25C0%25B0.%25B2%25C9.jpg",
+            "menu_name": "동백설화육",
+            "price": "49,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241202_190%2F1733132124601OU3h0_JPEG%2F%25BB%25F5%25BF%25EC%25BB%25EC.jpg",
+            "menu_name": "동백새우살",
+            "price": "65,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241202_236%2F1733132050082tlUxc_JPEG%2F%25C0%25B0%25C8%25B8-.jpg",
+            "menu_name": "한우 눈꽃 육회",
+            "price": "32,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241202_71%2F1733131937144TPjLX_JPEG%2F%25BE%25C6%25B7%25D5%25BB%25E7%25C5%25C2.jpg",
+            "menu_name": "아롱사태 수육",
+            "price": "23,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241202_84%2F1733132021458UenGW_JPEG%2F%25BE%25C6%25B7%25D5%25BB%25E7%25C5%25C2.jpg",
+            "menu_name": "아롱사태 수육",
+            "price": "12,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241202_220%2F1733131887132vIr5w_JPEG%2F%25C7%25D1%25BF%25EC.jpg",
+            "menu_name": "한우 된장 찌개",
+            "price": "12,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241202_144%2F1733131783456xmohx_JPEG%2F%25B9%25B0%25B8%25B7%25B1%25B9%25BC%25F6.jpg",
+            "menu_name": "동백 물 막국수",
+            "price": "12,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241202_196%2F1733131420506qJsNk_JPEG%2F%25BA%25F6%25BA%25F6.jpg",
+            "menu_name": "동백 비빔 막국수",
+            "price": "12,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241202_7%2F1733131293521Giltz_JPEG%2F%25BF%25C2%25B1%25B9%25BC%25F6.jpg",
+            "menu_name": "메밀 온면",
+            "price": "10,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241202_162%2F1733131212351ewLQu_JPEG%2F%25B1%25B9%25BC%25F6%25C0%25FC%25B0%25F1.jpg",
+            "menu_name": "한우 국수 전골 (2인 이상)",
+            "price": "12,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241202_216%2F1733131063667Tyldj_JPEG%2F%25C0%25B0%25C8%25B8%25BA%25F1%25BA%25F6%25B9%25E4.jpg",
+            "menu_name": "동백 육회 비빔밥",
+            "price": "15,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241202_122%2F1733130996462IwQ6H_JPEG%2F%25B0%25F5%25C5%25C1.jpg",
+            "menu_name": "가마솥 곰탕",
+            "price": "13,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241202_173%2F1733130928144MBGzf_JPEG%2F12-1.jpg",
+            "menu_name": "가마솥갈비탕",
+            "price": "18,000원"
+        }
+    ]
+}

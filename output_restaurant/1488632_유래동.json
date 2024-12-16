@@ -1,0 +1,194 @@
+{
+    "store_name": "유래동",
+    "store_location": "대구 중구 달구벌대로443길 34-11 1층 유래동",
+    "loc_x": "344991.223896926",
+    "loc_y": "263871.453166482",
+    "menu": [
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241129_296%2F1732871712169a0Szl_JPEG%2F1000008011.jpg",
+            "menu_name": "한돈굴보쌈 바지락수제비 소",
+            "price": "40,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241129_132%2F1732819699146qJKlW_JPEG%2F1000007497.jpg",
+            "menu_name": "아롱사태미소전골 대 (4-5인)",
+            "price": "29,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241112_298%2F1731410785705lN5JG_JPEG%2F1000007497.jpg",
+            "menu_name": "아롱사태미소전골 소 (2-3인)",
+            "price": "22,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240714_164%2F1720961300094QumTo_JPEG%2Fbatch_17.JPG",
+            "menu_name": "항정살수육튀김",
+            "price": "24,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240907_63%2F1725668455581CYSCX_JPEG%2FIMG_20240305_190444_057.jpg",
+            "menu_name": "집나간메뉴를찾습니다",
+            "price": "변동"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240331_69%2F1711868746415v5KOf_JPEG%2F20240331_012641.jpg",
+            "menu_name": "등갈비도리탕",
+            "price": "25,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241112_210%2F1731410182128pTRDb_JPEG%2F1000007499.jpg",
+            "menu_name": "고구마콘치즈닭갈비",
+            "price": "20,000원"
+        },
+        {
+            "category": "",
+            "img_src": "",
+            "menu_name": "해물술술탕",
+            "price": "17,000원"
+        },
+        {
+            "category": "",
+            "img_src": "",
+            "menu_name": "어묵김치우동",
+            "price": "14,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240810_119%2F1723294432705GmKYi_JPEG%2FIMG_20240810_215325_622.jpg",
+            "menu_name": "돼지두루치기",
+            "price": "16,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241112_8%2F1731410662259I4PPm_JPEG%2F1000007496.jpg",
+            "menu_name": "고기완자계란말이",
+            "price": "12,000원"
+        },
+        {
+            "category": "",
+            "img_src": "",
+            "menu_name": "참치주먹밥",
+            "price": "4,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241129_289%2F1732871745843RkMTk_JPEG%2F1000008011.jpg",
+            "menu_name": "한돈굴보쌈바지락수제비 대",
+            "price": "50,000원"
+        },
+        {
+            "category": "",
+            "img_src": "",
+            "menu_name": "단품보쌈 소",
+            "price": "33,000원"
+        },
+        {
+            "category": "",
+            "img_src": "",
+            "menu_name": "단품보쌈 대",
+            "price": "43,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241112_29%2F1731411077788mtoMP_JPEG%2F1000007502.jpg",
+            "menu_name": "항정볶음라면",
+            "price": "7,000원"
+        },
+        {
+            "category": "",
+            "img_src": "",
+            "menu_name": "뚝배기바지락탕",
+            "price": "11,000원"
+        },
+        {
+            "category": "",
+            "img_src": "",
+            "menu_name": "누룽지 콘치즈",
+            "price": "7,000원"
+        },
+        {
+            "category": "",
+            "img_src": "",
+            "menu_name": "유래동감튀",
+            "price": "7,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241112_71%2F17314110646477dL1K_JPEG%2F1000007504.jpg",
+            "menu_name": "애플망고 킥 아이스께끼",
+            "price": "무료"
+        },
+        {
+            "category": "",
+            "img_src": "",
+            "menu_name": "고봉밥",
+            "price": "2,000원"
+        },
+        {
+            "category": "",
+            "img_src": "",
+            "menu_name": "화요17도 세트",
+            "price": "25,000원"
+        },
+        {
+            "category": "",
+            "img_src": "",
+            "menu_name": "화요25도세트",
+            "price": "28,000원"
+        },
+        {
+            "category": "",
+            "img_src": "",
+            "menu_name": "진로새로이슬이랑참이랑 좋은데이날",
+            "price": "5,000원"
+        },
+        {
+            "category": "",
+            "img_src": "",
+            "menu_name": "카스테라켈리",
+            "price": "5,000원"
+        },
+        {
+            "category": "",
+            "img_src": "",
+            "menu_name": "막걸리한주전자",
+            "price": "6,000원"
+        },
+        {
+            "category": "",
+            "img_src": "",
+            "menu_name": "화요레몬하이볼",
+            "price": "8,000원"
+        },
+        {
+            "category": "",
+            "img_src": "",
+            "menu_name": "복분자하이볼",
+            "price": "7,000원"
+        },
+        {
+            "category": "",
+            "img_src": "",
+            "menu_name": "로제청하",
+            "price": "6,000원"
+        },
+        {
+            "category": "",
+            "img_src": "",
+            "menu_name": "청하",
+            "price": "6,000원"
+        },
+        {
+            "category": "",
+            "img_src": "",
+            "menu_name": "토닉워터 레몬슬라이스",
+            "price": "2,000원"
+        }
+    ]
+}

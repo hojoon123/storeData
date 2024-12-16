@@ -1,0 +1,14 @@
+{
+    "store_name": "꽃마마커피",
+    "store_location": "대구 북구 산격로 66-1 1층",
+    "loc_x": "344891.550263295",
+    "loc_y": "267419.309048455",
+    "menu": [
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241127_86%2F1732691824111rBeDx_JPEG%2F1000004697.jpg",
+            "menu_name": "아메리카노",
+            "price": "2,000원"
+        }
+    ]
+}

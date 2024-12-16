@@ -1,0 +1,14 @@
+{
+    "store_name": "위스프레소",
+    "store_location": "경북 경주시 원지길 14 2층",
+    "loc_x": "400404.100119455",
+    "loc_y": "265386.960923784",
+    "menu": [
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241202_4%2F1733137345095vwNe1_JPEG%2FKakaoTalk_20241202_190332828.jpg",
+            "menu_name": "롱 아일랜드 아이스티",
+            "price": "8,000원"
+        }
+    ]
+}

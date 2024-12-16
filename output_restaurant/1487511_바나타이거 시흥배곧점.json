@@ -1,0 +1,98 @@
+{
+    "store_name": "바나타이거 시흥배곧점",
+    "store_location": "경기 시흥시 배곧3로 80 1층 112호",
+    "loc_x": "175930.289005003",
+    "loc_y": "429864.612794522",
+    "menu": [
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240910_277%2F1725929847038Ozq7D_JPEG%2F%25B9%25E8%25B9%25CE_%25C8%25A3%25B6%25FB%25C0%25CC%25B6%25F3%25B6%25BC.jpg",
+            "menu_name": "호랑이라떼",
+            "price": "3,900원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240910_292%2F1725930000235TExnU_JPEG%2F%25B9%25E8%25B9%25CE_%25B9%25D9%25B3%25AA%25C6%25FE%25B6%25F3%25B6%25BC.jpg",
+            "menu_name": "바나퐁라떼",
+            "price": "3,900원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240910_44%2F1725930068445ShLgL_JPEG%2F%25B9%25E8%25B9%25CE_%25C8%25A3%25B6%25FB%25C0%25CC%25BB%25A7%2528%25C7%25C3%25B7%25B9%25C0%25CE%2529.jpg",
+            "menu_name": "호랑이빵",
+            "price": "2,500원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240910_71%2F1725930126143IYxqT_JPEG%2F%25B9%25E8%25B9%25CE_%25C8%25A3%25B6%25FB%25C0%25CC%25BB%25A7%2528%25C3%25CA%25C4%25DA%25C5%25A9%25B8%25B2%2529.jpg",
+            "menu_name": "초코 호랑이빵",
+            "price": "3,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240910_272%2F1725930187807Ytynt_JPEG%2F%25B9%25E8%25B9%25CE_%25C5%25A9%25B7%25CE%25C7%25C3%25B9%25D9.jpg",
+            "menu_name": "크로플바",
+            "price": "2,500원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240910_199%2F1725930215195Vlosh_JPEG%2F%25B9%25E8%25B9%25CE_%25B5%25F6%25C3%25CA%25C4%25DA_%25C5%25A9%25B7%25CE%25C7%25C3%25B9%25D9.jpg",
+            "menu_name": "초코 크로플바",
+            "price": "3,200원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20230607_206%2F1686117128305JEaG3_JPEG%2F%25B9%25E8%25B9%25CE_%25C7%25C3%25B7%25B9%25C0%25CE-%25C5%25A9%25B7%25CE%25C7%25C3.jpg",
+            "menu_name": "플레인 크로플",
+            "price": "2,900원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20230911_225%2F1694396091772gCJus_PNG%2F1280x1280_%25BC%25D2%25B1%25DD%25BB%25A7.png",
+            "menu_name": "소금빵",
+            "price": "3,400원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20230607_108%2F16861153080320uHPr_JPEG%2F%25B9%25E8%25B9%25CE_%25C4%25AB%25C6%25E4%25B6%25F3%25B6%25BC-HOT.jpg",
+            "menu_name": "카페라떼(H)",
+            "price": "2,900원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20230607_228%2F1686114178378eLKcF_JPEG%2F%25B9%25E8%25B9%25CE_%25BE%25C6%25B8%25DE%25B8%25AE%25C4%25AB%25B3%25EB-ICE.jpg",
+            "menu_name": "아메리카노(I)",
+            "price": "2,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20230607_153%2F1686116489242xjVMM_JPEG%2F%25B9%25E8%25B9%25CE_%25C5%25B7%25B8%25DE%25B8%25AE%25C4%25AB%25B3%25EB.jpg",
+            "menu_name": "킹메리카노 1L",
+            "price": "3,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20230607_67%2F1686116094598FQDl5_JPEG%2F%25B9%25E8%25B9%25CE_%25C4%25AB%25C6%25E4%25B6%25F3%25B6%25BC.jpg",
+            "menu_name": "카페라떼(I)",
+            "price": "2,900원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20230607_186%2F1686114299208rzM4A_JPEG%2F%25B9%25E8%25B9%25CE_%25BF%25AC%25C0%25AF%25C5%25A5%25BA%25EA%25B6%25F3%25B6%25BC.jpg",
+            "menu_name": "연유큐브라떼",
+            "price": "4,200원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20230607_52%2F1686113153161IP4Tp_JPEG%2F%25B9%25E8%25B9%25CE_%25B5%25FE%25B1%25E2%25B6%25F3%25B6%25BC.jpg",
+            "menu_name": "딸기라떼",
+            "price": "3,700원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20230607_53%2F1686112528073B0vId_JPEG%2F%25B9%25E8%25B9%25CE_%25B0%25A5%25BE%25C6%25B8%25B8%25B5%25E7%25B9%25E8%25BD%25BA%25B9%25AB%25B5%25F0.jpg",
+            "menu_name": "갈아만든 배스무디",
+            "price": "3,900원"
+        }
+    ]
+}

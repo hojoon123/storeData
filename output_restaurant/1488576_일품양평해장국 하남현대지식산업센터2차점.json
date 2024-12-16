@@ -1,0 +1,170 @@
+{
+    "store_name": "일품양평해장국 하남현대지식산업센터2차점",
+    "store_location": "경기 하남시 미사대로 540 현대지식산업센터 한강미사2차 26BL 2층 AC02-023, AC02-024호",
+    "loc_x": "218091.759753711",
+    "loc_y": "450614.564841249",
+    "menu": [
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20231208_270%2F1702019402118pI04K_PNG%2F%25BE%25E7%25C6%25F2%25C7%25D8%25C0%25E5%25B1%25B9%252C-%25BE%25F3%25C5%25AB%25BE%25E7%25C6%25F2%25C7%25D8%25C0%25E5%25B1%25B9.png",
+            "menu_name": "양평해장국",
+            "price": "10,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20231208_2%2F1702019380051FkquN_PNG%2F%25BE%25E7%25C6%25F2%25C7%25D8%25C0%25E5%25B1%25B9%252C-%25BE%25F3%25C5%25AB%25BE%25E7%25C6%25F2%25C7%25D8%25C0%25E5%25B1%25B9.png",
+            "menu_name": "얼큰양평해장국",
+            "price": "11,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20231208_64%2F1702019368662mLIs3_PNG%2F%25BE%25F3%25C5%25AB%25BC%25F8%25B4%25EB%25B1%25B9.png",
+            "menu_name": "얼큰순대국",
+            "price": "10,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20231208_263%2F1702019358009WUB35_PNG%2F%25BB%25C0%25C7%25D8%25C0%25E5%25B1%25B9.png",
+            "menu_name": "뼈다귀해장국",
+            "price": "10,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20231208_29%2F1702019339949TRkny_PNG%2F%25B3%25BB%25C0%25E5%25C5%25C1.png",
+            "menu_name": "내장탕",
+            "price": "13,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20231208_299%2F1702019312687GkMRL_PNG%2F%25BF%25EC%25B0%25C5%25C1%25F6%25C7%25D8%25C0%25E5%25B1%25B9.png",
+            "menu_name": "우거지해장국",
+            "price": "10,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20231208_129%2F1702019296131nAa9e_PNG%2F%25BF%25ED%25B0%25B3%25C0%25E5.png",
+            "menu_name": "육개장",
+            "price": "10,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20231208_99%2F1702019281499caM0P_PNG%2F%25BC%25B1%25C1%25F6%25C7%25D8%25C0%25E5%25B1%25B9.png",
+            "menu_name": "선지해장국",
+            "price": "9,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20231208_143%2F1702019269805kdAGu_PNG%2F%25BA%25CF%25BE%25EE%25C4%25E1%25B3%25AA%25B9%25B0%25C7%25D8%25C0%25E5%25B1%25B9.png",
+            "menu_name": "북어콩나물해장국",
+            "price": "9,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20231208_188%2F17020192503603w8uk_PNG%2F%25B0%25A5%25BA%25F1%25C5%25C1.png",
+            "menu_name": "갈비탕",
+            "price": "15,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20231208_193%2F1702019230975OBLlM_PNG%2F%25C4%25E1%25B1%25B9%25BC%25F6.png",
+            "menu_name": "콩국수",
+            "price": "9,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20231208_1%2F17020192129595mMn0_PNG%2F%25B0%25F6%25C3%25A2%25C0%25FC%25B0%25F1.png",
+            "menu_name": "곱창전골",
+            "price": "38,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20231208_248%2F1702019195794Uun7Y_PNG%2F%25B3%25BB%25C0%25E5%25C0%25FC%25B0%25F1.png",
+            "menu_name": "내장전골",
+            "price": "35,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20231208_67%2F1702019161456nQQVf_PNG%2F%25BB%25C0%25B4%25D9%25B1%25CD%25C0%25FC%25B0%25F1.png",
+            "menu_name": "뼈다귀전골",
+            "price": "35,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20231208_79%2F1702019142557C9l8B_PNG%2F%25B8%25C5%25C4%25DE%25B0%25F6%25C3%25A2%25BA%25BA%25C0%25BD.png",
+            "menu_name": "매콤곱창볶음",
+            "price": "15,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20231208_149%2F1702019119008QnUfn_PNG%2F%25C6%25ED%25C0%25B0.png",
+            "menu_name": "편육",
+            "price": "9,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20231208_7%2F1702019123276xSlQd_PNG%2F%25BE%25E7%25C6%25F2%25B7%25CE%25B0%25ED.png",
+            "menu_name": "맛보기편육",
+            "price": "5,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20231208_15%2F1702019095214wTvzR_PNG%2F%25B2%25BF%25B9%25B0%25C0%25CC%25B8%25B8%25B5%25CE.png",
+            "menu_name": "꼬물이만두",
+            "price": "5,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20231208_286%2F1702019081312mbugl_PNG%2F%25BE%25E7%25C6%25F2%25B7%25CE%25B0%25ED.png",
+            "menu_name": "뼈추가",
+            "price": "10,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20231208_207%2F1702019070063tx1mp_PNG%2F%25BE%25E7%25C6%25F2%25B7%25CE%25B0%25ED.png",
+            "menu_name": "내장추가",
+            "price": "15,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20231208_243%2F1702019059860Qespm_PNG%2F%25BE%25E7%25C6%25F2%25B7%25CE%25B0%25ED.png",
+            "menu_name": "곱창추가",
+            "price": "15,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20231208_147%2F1702019042013JiNel_PNG%2F%25BE%25E7%25C6%25F2%25B7%25CE%25B0%25ED.png",
+            "menu_name": "사리",
+            "price": "2,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20231208_131%2F1702019031782DRe34_PNG%2F%25BE%25E7%25C6%25F2%25B7%25CE%25B0%25ED.png",
+            "menu_name": "볶음밥",
+            "price": "2,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20231208_136%2F1702018992829cyzcx_PNG%2F%25BE%25E7%25C6%25F2%25B7%25CE%25B0%25ED.png",
+            "menu_name": "소주",
+            "price": "5,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20231208_289%2F1702018985712OXYig_PNG%2F%25BE%25E7%25C6%25F2%25B7%25CE%25B0%25ED.png",
+            "menu_name": "맥주",
+            "price": "5,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20231208_156%2F1702018928375cQe4r_PNG%2F%25BE%25E7%25C6%25F2%25B7%25CE%25B0%25ED.png",
+            "menu_name": "청하",
+            "price": "6,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20231208_213%2F1702018918557uTSn8_PNG%2F%25BE%25E7%25C6%25F2%25B7%25CE%25B0%25ED.png",
+            "menu_name": "음료수",
+            "price": "2,000원"
+        }
+    ]
+}

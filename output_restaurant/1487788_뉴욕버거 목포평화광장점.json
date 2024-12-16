@@ -1,0 +1,524 @@
+{
+    "store_name": "뉴욕버거 목포평화광장점",
+    "store_location": "전남 목포시 평화로83번길 16 1층 106호, 에메랄드퀸",
+    "loc_x": "148102.331118015",
+    "loc_y": "144520.011441016",
+    "menu": [
+        {
+            "category": "대표메뉴",
+            "img_src": "",
+            "menu_name": "(수제버거맛집)싱글세트",
+            "price": "15,300원"
+        },
+        {
+            "category": "대표메뉴",
+            "img_src": "",
+            "menu_name": "연인콤보",
+            "price": "20,800원"
+        },
+        {
+            "category": "대표메뉴",
+            "img_src": "",
+            "menu_name": "갓성비팩",
+            "price": "12,900원"
+        },
+        {
+            "category": "대표메뉴",
+            "img_src": "",
+            "menu_name": "더블치킨팩",
+            "price": "20,600원"
+        },
+        {
+            "category": "대표메뉴",
+            "img_src": "",
+            "menu_name": "듬뿍순살박스",
+            "price": "19,900원"
+        },
+        {
+            "category": "버거세트",
+            "img_src": "",
+            "menu_name": "뉴욕버거세트(세트)",
+            "price": "8,900원"
+        },
+        {
+            "category": "버거세트",
+            "img_src": "",
+            "menu_name": "리얼딥치즈버거세트(세트)",
+            "price": "8,900원"
+        },
+        {
+            "category": "버거세트",
+            "img_src": "",
+            "menu_name": "오찡버거세트(세트)",
+            "price": "8,500원"
+        },
+        {
+            "category": "버거세트",
+            "img_src": "",
+            "menu_name": "페퍼로니버거세트(세트)",
+            "price": "8,200원"
+        },
+        {
+            "category": "버거세트",
+            "img_src": "",
+            "menu_name": "갈릭치킹버거세트(세트)",
+            "price": "8,900원"
+        },
+        {
+            "category": "버거세트",
+            "img_src": "",
+            "menu_name": "칠리치킹버거세트(세트)",
+            "price": "8,900원"
+        },
+        {
+            "category": "버거세트",
+            "img_src": "",
+            "menu_name": "통새우버거세트(세트)",
+            "price": "8,900원"
+        },
+        {
+            "category": "버거세트",
+            "img_src": "",
+            "menu_name": "비프불고기버거세트(세트)",
+            "price": "7,900원"
+        },
+        {
+            "category": "버거세트",
+            "img_src": "",
+            "menu_name": "(NEW)아메리칸데미원버거세트(세트)",
+            "price": "8,700원"
+        },
+        {
+            "category": "버거세트",
+            "img_src": "",
+            "menu_name": "바베큐버거세트(세트)",
+            "price": "8,300원"
+        },
+        {
+            "category": "버거세트",
+            "img_src": "",
+            "menu_name": "더블스테이크버거세트(세트)",
+            "price": "10,900원"
+        },
+        {
+            "category": "버거세트",
+            "img_src": "",
+            "menu_name": "에그포테이토버거세트(세트)",
+            "price": "7,300원"
+        },
+        {
+            "category": "버거세트",
+            "img_src": "",
+            "menu_name": "웰빙머쉬룸버거세트(세트)",
+            "price": "9,200원"
+        },
+        {
+            "category": "버거세트",
+            "img_src": "",
+            "menu_name": "스위트핫도그세트(세트)",
+            "price": "9,100원"
+        },
+        {
+            "category": "버거세트",
+            "img_src": "",
+            "menu_name": "빈스미트핫도그세트(세트)",
+            "price": "9,900원"
+        },
+        {
+            "category": "버거단품",
+            "img_src": "",
+            "menu_name": "(주문율1위버거)뉴욕버거",
+            "price": "5,400원"
+        },
+        {
+            "category": "버거단품",
+            "img_src": "",
+            "menu_name": "( 비교불가 ) 리얼딥치즈버거",
+            "price": "5,400원"
+        },
+        {
+            "category": "버거단품",
+            "img_src": "",
+            "menu_name": "오찡버거",
+            "price": "5,000원"
+        },
+        {
+            "category": "버거단품",
+            "img_src": "",
+            "menu_name": "페퍼로니버거",
+            "price": "4,700원"
+        },
+        {
+            "category": "버거단품",
+            "img_src": "",
+            "menu_name": "( 알바생강추) 갈릭치킹버거",
+            "price": "5,400원"
+        },
+        {
+            "category": "버거단품",
+            "img_src": "",
+            "menu_name": "칠리치킹버거",
+            "price": "5,400원"
+        },
+        {
+            "category": "버거단품",
+            "img_src": "",
+            "menu_name": "( 자타인정~) 통새우버거",
+            "price": "5,400원"
+        },
+        {
+            "category": "버거단품",
+            "img_src": "",
+            "menu_name": "(비교불가) 비프불고기버거",
+            "price": "4,400원"
+        },
+        {
+            "category": "버거단품",
+            "img_src": "",
+            "menu_name": "(NEW)아메리칸데미원버거",
+            "price": "5,200원"
+        },
+        {
+            "category": "버거단품",
+            "img_src": "",
+            "menu_name": "바베큐버거",
+            "price": "4,800원"
+        },
+        {
+            "category": "버거단품",
+            "img_src": "",
+            "menu_name": "더블스테이크버거",
+            "price": "7,400원"
+        },
+        {
+            "category": "버거단품",
+            "img_src": "",
+            "menu_name": "에그포테이토버거",
+            "price": "3,800원"
+        },
+        {
+            "category": "버거단품",
+            "img_src": "",
+            "menu_name": "웰빙머쉬룸버거",
+            "price": "5,700원"
+        },
+        {
+            "category": "버거단품",
+            "img_src": "",
+            "menu_name": "스위트핫도그",
+            "price": "5,600원"
+        },
+        {
+            "category": "버거단품",
+            "img_src": "",
+            "menu_name": "빈스미트핫도그",
+            "price": "6,400원"
+        },
+        {
+            "category": "팩류",
+            "img_src": "",
+            "menu_name": "(수제버거맛집)싱글세트",
+            "price": "15,300원"
+        },
+        {
+            "category": "팩류",
+            "img_src": "",
+            "menu_name": "연인콤보",
+            "price": "20,800원"
+        },
+        {
+            "category": "팩류",
+            "img_src": "",
+            "menu_name": "갓성비팩",
+            "price": "12,900원"
+        },
+        {
+            "category": "팩류",
+            "img_src": "",
+            "menu_name": "더블치킨팩",
+            "price": "20,600원"
+        },
+        {
+            "category": "팩류",
+            "img_src": "",
+            "menu_name": "듬뿍순살박스",
+            "price": "19,900원"
+        },
+        {
+            "category": "사이드메뉴",
+            "img_src": "",
+            "menu_name": "빅후렌치후라이(M)",
+            "price": "3,100원"
+        },
+        {
+            "category": "사이드메뉴",
+            "img_src": "",
+            "menu_name": "빅후렌치후라이(L)",
+            "price": "3,900원"
+        },
+        {
+            "category": "사이드메뉴",
+            "img_src": "",
+            "menu_name": "케이준후렌치후라이(M)",
+            "price": "3,100원"
+        },
+        {
+            "category": "사이드메뉴",
+            "img_src": "",
+            "menu_name": "케이준후렌치후라이(L)",
+            "price": "3,900원"
+        },
+        {
+            "category": "사이드메뉴",
+            "img_src": "",
+            "menu_name": "고구마튀김(M)",
+            "price": "3,200원"
+        },
+        {
+            "category": "사이드메뉴",
+            "img_src": "",
+            "menu_name": "플레인스콘",
+            "price": "2,400원"
+        },
+        {
+            "category": "사이드메뉴",
+            "img_src": "",
+            "menu_name": "모짜렐라치즈볼 8조각(8조각)",
+            "price": "3,700원"
+        },
+        {
+            "category": "사이드메뉴",
+            "img_src": "",
+            "menu_name": "새우볼5조각",
+            "price": "3,700원"
+        },
+        {
+            "category": "사이드메뉴",
+            "img_src": "",
+            "menu_name": "빈스미트볼4조각",
+            "price": "3,700원"
+        },
+        {
+            "category": "사이드메뉴",
+            "img_src": "",
+            "menu_name": "(NEW)갈릭프라이즈",
+            "price": "4,700원"
+        },
+        {
+            "category": "사이드메뉴",
+            "img_src": "",
+            "menu_name": "라구치즈프라이즈",
+            "price": "4,700원"
+        },
+        {
+            "category": "사이드메뉴",
+            "img_src": "",
+            "menu_name": "더블치즈 프라이즈",
+            "price": "4,700원"
+        },
+        {
+            "category": "사이드메뉴",
+            "img_src": "",
+            "menu_name": "대왕오징어스틱",
+            "price": "4,100원"
+        },
+        {
+            "category": "사이드메뉴",
+            "img_src": "",
+            "menu_name": "뉴욕치즈스틱(1조각)",
+            "price": "2,600원"
+        },
+        {
+            "category": "사이드메뉴",
+            "img_src": "",
+            "menu_name": "뉴욕치즈스틱(2조각)",
+            "price": "4,800원"
+        },
+        {
+            "category": "사이드메뉴",
+            "img_src": "",
+            "menu_name": "제로미트너겟(4조각)",
+            "price": "3,200원"
+        },
+        {
+            "category": "사이드메뉴",
+            "img_src": "",
+            "menu_name": "치킨텐더(마일드)(4조각)",
+            "price": "4,800원"
+        },
+        {
+            "category": "사이드메뉴",
+            "img_src": "",
+            "menu_name": "치킨텐더(마일드)(6조각)",
+            "price": "7,100원"
+        },
+        {
+            "category": "사이드메뉴",
+            "img_src": "",
+            "menu_name": "어니언링(10PC)",
+            "price": "3,200원"
+        },
+        {
+            "category": "사이드메뉴",
+            "img_src": "",
+            "menu_name": "프라이팩",
+            "price": "6,000원"
+        },
+        {
+            "category": "치킨",
+            "img_src": "",
+            "menu_name": "순살치킨R",
+            "price": "5,400원"
+        },
+        {
+            "category": "치킨",
+            "img_src": "",
+            "menu_name": "순살치킨L",
+            "price": "10,100원"
+        },
+        {
+            "category": "치킨",
+            "img_src": "",
+            "menu_name": "크리스피 윙&봉(2조각)",
+            "price": "3,100원"
+        },
+        {
+            "category": "치킨",
+            "img_src": "",
+            "menu_name": "크리스피 윙&봉(4조각)",
+            "price": "5,800원"
+        },
+        {
+            "category": "치킨",
+            "img_src": "",
+            "menu_name": "크리스피 윙&봉(10조각)",
+            "price": "14,000원"
+        },
+        {
+            "category": "프리미엄콤보",
+            "img_src": "",
+            "menu_name": "더블스테이크버거콤보(버거+콜라)",
+            "price": "8,100원"
+        },
+        {
+            "category": "프리미엄콤보",
+            "img_src": "",
+            "menu_name": "웰빙머쉬룸콤보(버거+콜라)",
+            "price": "7,200원"
+        },
+        {
+            "category": "음료메뉴",
+            "img_src": "",
+            "menu_name": "콜라 355ml(355ml)",
+            "price": "2,300원"
+        },
+        {
+            "category": "음료메뉴",
+            "img_src": "",
+            "menu_name": "제로콜라 355ml(355ml)",
+            "price": "2,300원"
+        },
+        {
+            "category": "음료메뉴",
+            "img_src": "",
+            "menu_name": "콜라 500ml(500ml)",
+            "price": "2,600원"
+        },
+        {
+            "category": "음료메뉴",
+            "img_src": "",
+            "menu_name": "콜라1.25L(1.25L)",
+            "price": "3,200원"
+        },
+        {
+            "category": "음료메뉴",
+            "img_src": "",
+            "menu_name": "레몬에이드(473ml(only ice))",
+            "price": "3,700원"
+        },
+        {
+            "category": "음료메뉴",
+            "img_src": "",
+            "menu_name": "블루레몬에이드(473ml(only ice))",
+            "price": "3,700원"
+        },
+        {
+            "category": "음료메뉴",
+            "img_src": "",
+            "menu_name": "아메리카노(only ice)(ICE)",
+            "price": "2,700원"
+        },
+        {
+            "category": "음료메뉴",
+            "img_src": "",
+            "menu_name": "사이다355ml(355ml)",
+            "price": "2,300원"
+        },
+        {
+            "category": "음료메뉴",
+            "img_src": "",
+            "menu_name": "트레비 라임(300ml)",
+            "price": "1,700원"
+        },
+        {
+            "category": "음료메뉴",
+            "img_src": "",
+            "menu_name": "트레비 자몽(300ml)",
+            "price": "1,700원"
+        },
+        {
+            "category": "음료메뉴",
+            "img_src": "",
+            "menu_name": "포켓몬 오렌지망고(235ml)",
+            "price": "1,800원"
+        },
+        {
+            "category": "음료메뉴",
+            "img_src": "",
+            "menu_name": "포켓몬 포도사과(235ml)",
+            "price": "1,800원"
+        },
+        {
+            "category": "음료메뉴",
+            "img_src": "",
+            "menu_name": "아이시스(500ml)",
+            "price": "1,000원"
+        },
+        {
+            "category": "소스 추가",
+            "img_src": "",
+            "menu_name": "체다치즈소스",
+            "price": "500원"
+        },
+        {
+            "category": "소스 추가",
+            "img_src": "",
+            "menu_name": "머스터드소스",
+            "price": "500원"
+        },
+        {
+            "category": "소스 추가",
+            "img_src": "",
+            "menu_name": "사우전소스",
+            "price": "500원"
+        },
+        {
+            "category": "소스 추가",
+            "img_src": "",
+            "menu_name": "달콤양념소스",
+            "price": "500원"
+        },
+        {
+            "category": "소스 추가",
+            "img_src": "",
+            "menu_name": "스위트칠리소스",
+            "price": "500원"
+        },
+        {
+            "category": "소스 추가",
+            "img_src": "",
+            "menu_name": "스파이스소스",
+            "price": "500원"
+        }
+    ]
+}

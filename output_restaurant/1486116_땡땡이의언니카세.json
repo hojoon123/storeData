@@ -1,0 +1,26 @@
+{
+    "store_name": "땡땡이의언니카세",
+    "store_location": "경기 남양주시 경춘로1256번길 10 평내프라자 113호 땡땡이의언니카세",
+    "loc_x": "220644.413037441",
+    "loc_y": "460390.863030082",
+    "menu": [
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241207_277%2F1733523553750jea7b_JPEG%2F1000013503.jpg",
+            "menu_name": "슈바인학센",
+            "price": "42,900원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241209_135%2F1733710251791D6bIP_JPEG%2F1000013565.jpg",
+            "menu_name": "소머리수육",
+            "price": "34,900원"
+        },
+        {
+            "category": "",
+            "img_src": "",
+            "menu_name": "카나페",
+            "price": "34,900원"
+        }
+    ]
+}

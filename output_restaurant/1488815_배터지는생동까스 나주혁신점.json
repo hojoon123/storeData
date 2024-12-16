@@ -1,0 +1,368 @@
+{
+    "store_name": "배터지는생동까스 나주혁신점",
+    "store_location": "전남 나주시 상야2길 22 116호",
+    "loc_x": "180569.4858884",
+    "loc_y": "169202.786638134",
+    "menu": [
+        {
+            "category": "대표메뉴",
+            "img_src": "",
+            "menu_name": "배터지는 생돈까스",
+            "price": "12,500원"
+        },
+        {
+            "category": "대표메뉴",
+            "img_src": "",
+            "menu_name": "나이스짱 모듬정식",
+            "price": "12,500원"
+        },
+        {
+            "category": "대표메뉴",
+            "img_src": "",
+            "menu_name": "고구마 치즈돈까스",
+            "price": "12,500원"
+        },
+        {
+            "category": "대표메뉴",
+            "img_src": "",
+            "menu_name": "스페셜 패밀리 돈까스 도시락 A",
+            "price": "24,000원"
+        },
+        {
+            "category": "대표메뉴",
+            "img_src": "",
+            "menu_name": "스페셜 패밀리 돈까스도시락B",
+            "price": "33,000원"
+        },
+        {
+            "category": "돈까스류",
+            "img_src": "",
+            "menu_name": "배터지는 생돈까스",
+            "price": "12,500원"
+        },
+        {
+            "category": "돈까스류",
+            "img_src": "",
+            "menu_name": "나이스짱 모듬정식",
+            "price": "12,500원"
+        },
+        {
+            "category": "돈까스류",
+            "img_src": "",
+            "menu_name": "고구마 치즈돈까스",
+            "price": "12,500원"
+        },
+        {
+            "category": "돈까스류",
+            "img_src": "",
+            "menu_name": "게살통통게살돈가스",
+            "price": "12,500원"
+        },
+        {
+            "category": "돈까스류",
+            "img_src": "",
+            "menu_name": "돌아온 피자돈까스(잘라드시면맛있어요)",
+            "price": "12,500원"
+        },
+        {
+            "category": "돈까스류",
+            "img_src": "",
+            "menu_name": "바다탈출 생선까스",
+            "price": "12,000원"
+        },
+        {
+            "category": "돈까스류",
+            "img_src": "",
+            "menu_name": "치킨쫒던생돈가스",
+            "price": "12,500원"
+        },
+        {
+            "category": "돈까스류",
+            "img_src": "",
+            "menu_name": "돈생생 돈까스",
+            "price": "12,000원"
+        },
+        {
+            "category": "돈까스류",
+            "img_src": "",
+            "menu_name": "용궁정식",
+            "price": "12,500원"
+        },
+        {
+            "category": "돈까스류",
+            "img_src": "",
+            "menu_name": "매콤돈까스(돈가스도메콤)",
+            "price": "12,500원"
+        },
+        {
+            "category": "돈까스류",
+            "img_src": "",
+            "menu_name": "대왕돈까스",
+            "price": "12,500원"
+        },
+        {
+            "category": "돈까스류",
+            "img_src": "",
+            "menu_name": "하늘정식",
+            "price": "12,500원"
+        },
+        {
+            "category": "돈까스류",
+            "img_src": "",
+            "menu_name": "산골 고구마돈까스",
+            "price": "12,500원"
+        },
+        {
+            "category": "돈까스류",
+            "img_src": "",
+            "menu_name": "형제돈까스",
+            "price": "12,000원"
+        },
+        {
+            "category": "돈까스류",
+            "img_src": "",
+            "menu_name": "감자튀김만난 돈까스",
+            "price": "13,500원"
+        },
+        {
+            "category": "돈까스류",
+            "img_src": "",
+            "menu_name": "생선매니아",
+            "price": "13,000원"
+        },
+        {
+            "category": "돈까스류",
+            "img_src": "",
+            "menu_name": "리얼통치즈",
+            "price": "14,000원"
+        },
+        {
+            "category": "돈까스류",
+            "img_src": "",
+            "menu_name": "치즈돈까스",
+            "price": "12,500원"
+        },
+        {
+            "category": "세트메뉴",
+            "img_src": "",
+            "menu_name": "스페셜 패밀리 돈까스 도시락 A",
+            "price": "24,000원"
+        },
+        {
+            "category": "세트메뉴",
+            "img_src": "",
+            "menu_name": "스페셜 패밀리 돈까스도시락B",
+            "price": "33,000원"
+        },
+        {
+            "category": "알뜰 미니 세트메뉴",
+            "img_src": "",
+            "menu_name": "치킨까스 2장",
+            "price": "14,000원"
+        },
+        {
+            "category": "알뜰 미니 세트메뉴",
+            "img_src": "",
+            "menu_name": "치킨만난 돈까스",
+            "price": "16,000원"
+        },
+        {
+            "category": "알뜰 미니 세트메뉴",
+            "img_src": "",
+            "menu_name": "치즈만난 돈까스",
+            "price": "16,000원"
+        },
+        {
+            "category": "알뜰 미니 세트메뉴",
+            "img_src": "",
+            "menu_name": "고구마치즈 만난 돈까스",
+            "price": "16,000원"
+        },
+        {
+            "category": "알뜰 미니 세트메뉴",
+            "img_src": "",
+            "menu_name": "돼지삼형제 돈까스",
+            "price": "16,000원"
+        },
+        {
+            "category": "알뜰 미니 세트메뉴",
+            "img_src": "",
+            "menu_name": "피자만난 돈까스",
+            "price": "16,000원"
+        },
+        {
+            "category": "알뜰 미니 세트메뉴",
+            "img_src": "",
+            "menu_name": "산골고구마만난 돈까스",
+            "price": "16,000원"
+        },
+        {
+            "category": "라이스류메뉴",
+            "img_src": "",
+            "menu_name": "김치볶음밥",
+            "price": "7,000원"
+        },
+        {
+            "category": "라이스류메뉴",
+            "img_src": "",
+            "menu_name": "햄야채볶음밥(공기밥사이즈)",
+            "price": "3,500원"
+        },
+        {
+            "category": "사이드메뉴",
+            "img_src": "",
+            "menu_name": "쫄면",
+            "price": "6,500원"
+        },
+        {
+            "category": "사이드메뉴",
+            "img_src": "",
+            "menu_name": "미니쫄면(공기밥사이즈)",
+            "price": "3,500원"
+        },
+        {
+            "category": "사이드메뉴",
+            "img_src": "",
+            "menu_name": "샐러드 추가",
+            "price": "2,000원"
+        },
+        {
+            "category": "사이드메뉴",
+            "img_src": "",
+            "menu_name": "공기밥",
+            "price": "1,500원"
+        },
+        {
+            "category": "사이드메뉴",
+            "img_src": "",
+            "menu_name": "감자튀김(200g)",
+            "price": "5,000원"
+        },
+        {
+            "category": "사이드메뉴",
+            "img_src": "",
+            "menu_name": "국물떡볶이",
+            "price": "5,000원"
+        },
+        {
+            "category": "사이드메뉴",
+            "img_src": "",
+            "menu_name": "소떡소떡",
+            "price": "3,500원"
+        },
+        {
+            "category": "사이드메뉴",
+            "img_src": "",
+            "menu_name": "고추튀김(1개)",
+            "price": "1,500원"
+        },
+        {
+            "category": "사이드메뉴",
+            "img_src": "",
+            "menu_name": "고추튀김(2개)",
+            "price": "2,800원"
+        },
+        {
+            "category": "사이드메뉴",
+            "img_src": "",
+            "menu_name": "감자고로케(1개)",
+            "price": "1,500원"
+        },
+        {
+            "category": "사이드메뉴",
+            "img_src": "",
+            "menu_name": "감자고로케(2개)",
+            "price": "2,500원"
+        },
+        {
+            "category": "사이드메뉴",
+            "img_src": "",
+            "menu_name": "치즈스틱(1개)",
+            "price": "1,200원"
+        },
+        {
+            "category": "사이드메뉴",
+            "img_src": "",
+            "menu_name": "치즈스틱(2개)",
+            "price": "2,200원"
+        },
+        {
+            "category": "사이드메뉴",
+            "img_src": "",
+            "menu_name": "고구마튀김(1개)",
+            "price": "1,000원"
+        },
+        {
+            "category": "사이드메뉴",
+            "img_src": "",
+            "menu_name": "고구마튀김(2개)",
+            "price": "1,800원"
+        },
+        {
+            "category": "사이드메뉴",
+            "img_src": "",
+            "menu_name": "김말이튀김(1개)",
+            "price": "1,000원"
+        },
+        {
+            "category": "사이드메뉴",
+            "img_src": "",
+            "menu_name": "김말이튀김(2개)",
+            "price": "1,800원"
+        },
+        {
+            "category": "사이드메뉴",
+            "img_src": "",
+            "menu_name": "오징어튀김(1개)",
+            "price": "1,500원"
+        },
+        {
+            "category": "사이드메뉴",
+            "img_src": "",
+            "menu_name": "오징어튀김(2개)",
+            "price": "2,800원"
+        },
+        {
+            "category": "소스 추가",
+            "img_src": "",
+            "menu_name": "타르타르 소스( 작은통)",
+            "price": "1,000원"
+        },
+        {
+            "category": "소스 추가",
+            "img_src": "",
+            "menu_name": "돈까스소스",
+            "price": "1,500원"
+        },
+        {
+            "category": "소스 추가",
+            "img_src": "",
+            "menu_name": "타르타르 소스(큰통)",
+            "price": "2,000원"
+        },
+        {
+            "category": "소스 추가",
+            "img_src": "",
+            "menu_name": "매콤소스",
+            "price": "2,000원"
+        },
+        {
+            "category": "음료메뉴",
+            "img_src": "",
+            "menu_name": "코카콜라(355ml)",
+            "price": "2,000원"
+        },
+        {
+            "category": "음료메뉴",
+            "img_src": "",
+            "menu_name": "스프라이트(355ml)",
+            "price": "2,000원"
+        },
+        {
+            "category": "음료메뉴",
+            "img_src": "",
+            "menu_name": "쿨피스 (복숭아)(캔 350ml)",
+            "price": "2,000원"
+        }
+    ]
+}

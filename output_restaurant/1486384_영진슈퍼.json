@@ -1,0 +1,14 @@
+{
+    "store_name": "영진슈퍼",
+    "store_location": "광주 서구 상무대로868번길 7-1 1층",
+    "loc_x": "186933.371222518",
+    "loc_y": "183369.014445292",
+    "menu": [
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241206_151%2F1733463115265IiHsn_JPEG%2F%25B4%25D9%25BF%25EE%25B7%25CE%25B5%25E5_%25281%2529.jpg",
+            "menu_name": "떡볶이",
+            "price": "8,000원"
+        }
+    ]
+}

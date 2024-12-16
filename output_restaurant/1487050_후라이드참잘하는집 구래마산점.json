@@ -1,0 +1,446 @@
+{
+    "store_name": "후라이드참잘하는집 구래마산점",
+    "store_location": "경기 김포시 김포한강8로 398 1층 102호(구래동)",
+    "loc_x": "166808.189992443",
+    "loc_y": "460158.456504123",
+    "menu": [
+        {
+            "category": "대표메뉴",
+            "img_src": "",
+            "menu_name": "[신메뉴]킹트리플 양념치킨",
+            "price": "18,000원"
+        },
+        {
+            "category": "대표메뉴",
+            "img_src": "",
+            "menu_name": "후라이드치킨",
+            "price": "16,000원"
+        },
+        {
+            "category": "대표메뉴",
+            "img_src": "",
+            "menu_name": "Set 4 (후라이드 + 양념치킨)",
+            "price": "29,000원"
+        },
+        {
+            "category": "대표메뉴",
+            "img_src": "",
+            "menu_name": "양념치킨",
+            "price": "17,000원"
+        },
+        {
+            "category": "대표메뉴",
+            "img_src": "",
+            "menu_name": "눈꽃치즈치킨",
+            "price": "17,000원"
+        },
+        {
+            "category": "대표메뉴",
+            "img_src": "",
+            "menu_name": "set4) 후라이드 순살 + 양념 순살",
+            "price": "31,000원"
+        },
+        {
+            "category": "뼈 치킨메뉴",
+            "img_src": "",
+            "menu_name": "[신메뉴]킹트리플 양념치킨",
+            "price": "18,000원"
+        },
+        {
+            "category": "뼈 치킨메뉴",
+            "img_src": "",
+            "menu_name": "후라이드치킨",
+            "price": "16,000원"
+        },
+        {
+            "category": "뼈 치킨메뉴",
+            "img_src": "",
+            "menu_name": "양념치킨",
+            "price": "17,000원"
+        },
+        {
+            "category": "뼈 치킨메뉴",
+            "img_src": "",
+            "menu_name": "핫토스치킨",
+            "price": "17,000원"
+        },
+        {
+            "category": "뼈 치킨메뉴",
+            "img_src": "",
+            "menu_name": "눈꽃치즈치킨",
+            "price": "17,000원"
+        },
+        {
+            "category": "뼈 치킨메뉴",
+            "img_src": "",
+            "menu_name": "허니버터치킨",
+            "price": "17,000원"
+        },
+        {
+            "category": "뼈 치킨메뉴",
+            "img_src": "",
+            "menu_name": "간장치킨",
+            "price": "17,000원"
+        },
+        {
+            "category": "뼈 치킨메뉴",
+            "img_src": "",
+            "menu_name": "매운양념치킨",
+            "price": "17,000원"
+        },
+        {
+            "category": "뼈 치킨메뉴",
+            "img_src": "",
+            "menu_name": "핫간장치킨",
+            "price": "17,000원"
+        },
+        {
+            "category": "뼈 치킨메뉴",
+            "img_src": "",
+            "menu_name": "디진다핫치킨",
+            "price": "18,000원"
+        },
+        {
+            "category": "뼈 치킨메뉴",
+            "img_src": "",
+            "menu_name": "[NEW]맵달킹",
+            "price": "18,000원"
+        },
+        {
+            "category": "순살 치킨메뉴",
+            "img_src": "",
+            "menu_name": "[신메뉴]순살 킹트리플 양념치킨",
+            "price": "19,000원"
+        },
+        {
+            "category": "순살 치킨메뉴",
+            "img_src": "",
+            "menu_name": "순살 후라이드",
+            "price": "17,000원"
+        },
+        {
+            "category": "순살 치킨메뉴",
+            "img_src": "",
+            "menu_name": "순살 양념치킨",
+            "price": "18,000원"
+        },
+        {
+            "category": "순살 치킨메뉴",
+            "img_src": "",
+            "menu_name": "순살매운양념치킨",
+            "price": "18,000원"
+        },
+        {
+            "category": "순살 치킨메뉴",
+            "img_src": "",
+            "menu_name": "순살간장치킨",
+            "price": "18,000원"
+        },
+        {
+            "category": "순살 치킨메뉴",
+            "img_src": "",
+            "menu_name": "순살핫간장치킨",
+            "price": "18,000원"
+        },
+        {
+            "category": "순살 치킨메뉴",
+            "img_src": "",
+            "menu_name": "순살눈꽃치즈치킨",
+            "price": "18,000원"
+        },
+        {
+            "category": "순살 치킨메뉴",
+            "img_src": "",
+            "menu_name": "순살허니버터치킨",
+            "price": "18,000원"
+        },
+        {
+            "category": "순살 치킨메뉴",
+            "img_src": "",
+            "menu_name": "순살핫토스치킨",
+            "price": "18,000원"
+        },
+        {
+            "category": "순살 치킨메뉴",
+            "img_src": "",
+            "menu_name": "순살디진다핫치킨",
+            "price": "19,000원"
+        },
+        {
+            "category": "순살 치킨메뉴",
+            "img_src": "",
+            "menu_name": "[NEW]맵달킹순살",
+            "price": "19,000원"
+        },
+        {
+            "category": "반반메뉴",
+            "img_src": "",
+            "menu_name": "반반치킨(뼈)",
+            "price": "16,000원"
+        },
+        {
+            "category": "반반메뉴",
+            "img_src": "",
+            "menu_name": "순살 반반치킨",
+            "price": "17,000원"
+        },
+        {
+            "category": "세트메뉴",
+            "img_src": "",
+            "menu_name": "Set 1 (후라이드 + 감자튀김)",
+            "price": "22,000원"
+        },
+        {
+            "category": "세트메뉴",
+            "img_src": "",
+            "menu_name": "Set 2 (후라이드 + 눈꽃치즈감자)",
+            "price": "23,000원"
+        },
+        {
+            "category": "세트메뉴",
+            "img_src": "",
+            "menu_name": "Set 3 (후라이드 + 후라이드)",
+            "price": "28,000원"
+        },
+        {
+            "category": "세트메뉴",
+            "img_src": "",
+            "menu_name": "Set 4 (후라이드 + 양념치킨)",
+            "price": "29,000원"
+        },
+        {
+            "category": "세트메뉴",
+            "img_src": "",
+            "menu_name": "Set 5 (후라이드 + 간장치킨)",
+            "price": "29,000원"
+        },
+        {
+            "category": "세트메뉴",
+            "img_src": "",
+            "menu_name": "Set 6 (후라이드 + 눈꽃치즈치킨)",
+            "price": "29,000원"
+        },
+        {
+            "category": "세트메뉴",
+            "img_src": "",
+            "menu_name": "Set 7 (양념치킨 + 간장치킨)",
+            "price": "30,000원"
+        },
+        {
+            "category": "순살 세트메뉴",
+            "img_src": "",
+            "menu_name": "set1) 후라이드 순살 + 감자튀김",
+            "price": "23,000원"
+        },
+        {
+            "category": "순살 세트메뉴",
+            "img_src": "",
+            "menu_name": "set2) 후라이드 순살 + 눈꽃치즈감자",
+            "price": "24,000원"
+        },
+        {
+            "category": "순살 세트메뉴",
+            "img_src": "",
+            "menu_name": "set3) 후라이드 순살 + 후라이드 순살",
+            "price": "30,000원"
+        },
+        {
+            "category": "순살 세트메뉴",
+            "img_src": "",
+            "menu_name": "set4) 후라이드 순살 + 양념 순살",
+            "price": "31,000원"
+        },
+        {
+            "category": "순살 세트메뉴",
+            "img_src": "",
+            "menu_name": "set5) 후라이드 순살 + 간장 순살",
+            "price": "31,000원"
+        },
+        {
+            "category": "순살 세트메뉴",
+            "img_src": "",
+            "menu_name": "set6) 후라이드 순살 + 눈꽃치즈 순살",
+            "price": "31,000원"
+        },
+        {
+            "category": "순살 세트메뉴",
+            "img_src": "",
+            "menu_name": "set7) 양념 순살 + 간장 순살",
+            "price": "32,000원"
+        },
+        {
+            "category": "사이드메뉴",
+            "img_src": "",
+            "menu_name": "볼볼셋트(치즈2,콘2,피자2,고구마2)(8개)",
+            "price": "5,000원"
+        },
+        {
+            "category": "사이드메뉴",
+            "img_src": "",
+            "menu_name": "감자튀김",
+            "price": "6,000원"
+        },
+        {
+            "category": "사이드메뉴",
+            "img_src": "",
+            "menu_name": "눈꽃치즈감자튀김",
+            "price": "7,000원"
+        },
+        {
+            "category": "사이드메뉴",
+            "img_src": "",
+            "menu_name": "허니버터감자튀김",
+            "price": "7,000원"
+        },
+        {
+            "category": "사이드메뉴",
+            "img_src": "",
+            "menu_name": "핫토스 감자튀김",
+            "price": "7,000원"
+        },
+        {
+            "category": "사이드메뉴",
+            "img_src": "",
+            "menu_name": "붕어빵반반(팥3슈3)(팥3슈3)",
+            "price": "3,500원"
+        },
+        {
+            "category": "사이드메뉴",
+            "img_src": "",
+            "menu_name": "팥 붕어빵(5개)",
+            "price": "3,000원"
+        },
+        {
+            "category": "사이드메뉴",
+            "img_src": "",
+            "menu_name": "슈크림붕어빵(5개)",
+            "price": "3,000원"
+        },
+        {
+            "category": "사이드메뉴",
+            "img_src": "",
+            "menu_name": "치즈볼(4개)",
+            "price": "3,000원"
+        },
+        {
+            "category": "사이드메뉴",
+            "img_src": "",
+            "menu_name": "피자맛치즈볼(4개)",
+            "price": "3,000원"
+        },
+        {
+            "category": "사이드메뉴",
+            "img_src": "",
+            "menu_name": "콘치즈볼(4개)",
+            "price": "3,000원"
+        },
+        {
+            "category": "사이드메뉴",
+            "img_src": "",
+            "menu_name": "고구마치즈볼(4개)",
+            "price": "3,000원"
+        },
+        {
+            "category": "사이드메뉴",
+            "img_src": "",
+            "menu_name": "눈꽃치즈 핫도그(4개)",
+            "price": "4,000원"
+        },
+        {
+            "category": "사이드메뉴",
+            "img_src": "",
+            "menu_name": "허니버터 핫도그(4개)",
+            "price": "4,000원"
+        },
+        {
+            "category": "소스 추가",
+            "img_src": "",
+            "menu_name": "[신메뉴]크리미킹 소스",
+            "price": "500원"
+        },
+        {
+            "category": "소스 추가",
+            "img_src": "",
+            "menu_name": "[신메뉴]치즈킹 소스",
+            "price": "500원"
+        },
+        {
+            "category": "소스 추가",
+            "img_src": "",
+            "menu_name": "양념소스(1개)",
+            "price": "500원"
+        },
+        {
+            "category": "소스 추가",
+            "img_src": "",
+            "menu_name": "매운양념소스(1개)",
+            "price": "500원"
+        },
+        {
+            "category": "소스 추가",
+            "img_src": "",
+            "menu_name": "마늘간장(1)",
+            "price": "500원"
+        },
+        {
+            "category": "소스 추가",
+            "img_src": "",
+            "menu_name": "갈릭디핑(1)",
+            "price": "500원"
+        },
+        {
+            "category": "소스 추가",
+            "img_src": "",
+            "menu_name": "치즈머스터드 소스(1개)",
+            "price": "500원"
+        },
+        {
+            "category": "소스 추가",
+            "img_src": "",
+            "menu_name": "디진다핫소스(1개)",
+            "price": "1,000원"
+        },
+        {
+            "category": "소스 추가",
+            "img_src": "",
+            "menu_name": "눈꽃치즈시즈닝(1개)",
+            "price": "1,000원"
+        },
+        {
+            "category": "소스 추가",
+            "img_src": "",
+            "menu_name": "허니버터시즈닝(1개)",
+            "price": "1,000원"
+        },
+        {
+            "category": "소스 추가",
+            "img_src": "",
+            "menu_name": "핫토스시즈닝(1개)",
+            "price": "1,000원"
+        },
+        {
+            "category": "소스 추가",
+            "img_src": "",
+            "menu_name": "무 추가",
+            "price": "500원"
+        },
+        {
+            "category": "소스 추가",
+            "img_src": "",
+            "menu_name": "불닭마요킹",
+            "price": "1,000원"
+        },
+        {
+            "category": "음료추가선택",
+            "img_src": "",
+            "menu_name": "콜라 500ml 추가",
+            "price": "1,500원"
+        },
+        {
+            "category": "음료추가선택",
+            "img_src": "",
+            "menu_name": "콜라 1.25 추가",
+            "price": "2,500원"
+        }
+    ]
+}

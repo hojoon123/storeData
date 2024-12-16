@@ -1,0 +1,38 @@
+{
+    "store_name": "하마호떡",
+    "store_location": "광주 광산구 첨단중앙로124번길 54 1층 101호 하마호떡",
+    "loc_x": "185837.12804298",
+    "loc_y": "190795.406238248",
+    "menu": [
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20231206_211%2F1701858125430Oaat0_JPEG%2FIMG_0597.jpeg",
+            "menu_name": "오리지널 호떡",
+            "price": "1,500원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20231206_21%2F1701858409273EaLJ6_JPEG%2FIMG_0596.jpeg",
+            "menu_name": "맥스넛 호떡",
+            "price": "2,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20231220_121%2F1703038805767NS01E_JPEG%2F%25C4%25A1%25C1%25EE%25C8%25A3%25B6%25B1.jpg",
+            "menu_name": "더블치즈 호떡",
+            "price": "2,500원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20231206_88%2F17018586187530Gedu_JPEG%2FIMG_0595.jpeg",
+            "menu_name": "페퍼피넛 호떡",
+            "price": "2,500원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240415_250%2F1713143875732Cbbuy_JPEG%2FIMG_0593.jpeg",
+            "menu_name": "오레오 호떡",
+            "price": "2,500원"
+        }
+    ]
+}

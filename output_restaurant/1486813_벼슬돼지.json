@@ -1,0 +1,80 @@
+{
+    "store_name": "벼슬돼지",
+    "store_location": "충남 보령시 주공로 101 1층",
+    "loc_x": "164813.029749321",
+    "loc_y": "315461.999863195",
+    "menu": [
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241215_186%2F1734251445107M5acm_JPEG%2FKakaoTalk_20241215_173006125.jpg",
+            "menu_name": "전 꿀벌입니다 (2~3인 / 600g",
+            "price": "48,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241215_23%2F1734269517241yDIhL_JPEG%2F%25BA%25AD%25BD%25BD%25C0%25D4%25B4%25CF%25B4%25D9.jpg",
+            "menu_name": "전 벼슬입니다 (3~4인 /900g)",
+            "price": "72,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241215_70%2F1734243104018b9mV3_JPEG%2FKakaoTalk_20241215_150052068.jpg",
+            "menu_name": "벌집삼겹살 (180g)",
+            "price": "15,000원"
+        },
+        {
+            "category": "",
+            "img_src": "",
+            "menu_name": "돼지숄더랙 (180g)",
+            "price": "14,000원"
+        },
+        {
+            "category": "",
+            "img_src": "",
+            "menu_name": "꽃목살 (180g)",
+            "price": "15,000원"
+        },
+        {
+            "category": "",
+            "img_src": "",
+            "menu_name": "3mm껍데기 (200g)",
+            "price": "10,000원"
+        },
+        {
+            "category": "",
+            "img_src": "",
+            "menu_name": "육사시미(150g)",
+            "price": "30,000원"
+        },
+        {
+            "category": "",
+            "img_src": "",
+            "menu_name": "라면",
+            "price": "4,000원"
+        },
+        {
+            "category": "",
+            "img_src": "",
+            "menu_name": "비빔냉면",
+            "price": "7,000원"
+        },
+        {
+            "category": "",
+            "img_src": "",
+            "menu_name": "물냉면",
+            "price": "7,000원"
+        },
+        {
+            "category": "",
+            "img_src": "",
+            "menu_name": "김치찌개",
+            "price": "5,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241212_56%2F1733971791928CwWNq_JPEG%2Fshop.jpg",
+            "menu_name": "청국장",
+            "price": "5,000원"
+        }
+    ]
+}

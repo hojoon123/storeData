@@ -1,0 +1,26 @@
+{
+    "store_name": "장가네족발",
+    "store_location": "울산 남구 월평로37번길 7-1 1층",
+    "loc_x": "409354.506728433",
+    "loc_y": "229377.780365863",
+    "menu": [
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241203_6%2F1733218430004Dgcka_JPEG%2FIMG_8123.jpeg",
+            "menu_name": "족발3~4인분",
+            "price": "20,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241203_283%2F1733218401719JJ6dl_JPEG%2FIMG_8125.jpeg",
+            "menu_name": "족발1인분",
+            "price": "10,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241203_185%2F1733218376278l86cf_JPEG%2FIMG_8124.jpeg",
+            "menu_name": "오돌이족발",
+            "price": "15,000원"
+        }
+    ]
+}

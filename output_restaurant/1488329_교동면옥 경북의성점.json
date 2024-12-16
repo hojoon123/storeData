@@ -1,0 +1,74 @@
+{
+    "store_name": "교동면옥 경북의성점",
+    "store_location": "경북 의성군 의성읍 구봉길 303 1층 교동면옥",
+    "loc_x": "351999.25984097",
+    "loc_y": "318148.963344409",
+    "menu": [
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20231127_87%2F1701065057292cRK7o_JPEG%2F%25B1%25B3%25B5%25BF_%25C6%25AF%25B3%25C3%25B8%25E9.jpg",
+            "menu_name": "교동 특냉면",
+            "price": "13,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20231127_244%2F1701065474132pfd7U_JPEG%2F%25B9%25B0%25BA%25F1%25BA%25F6%25B8%25E9.jpg",
+            "menu_name": "육전 물비빔면",
+            "price": "11,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240723_15%2F1721693547108qVqo8_JPEG%2F%25B0%25A5%25BA%25F1%25C5%25C1.jpg",
+            "menu_name": "갈비탕",
+            "price": "13,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20231124_15%2F1700783925510z6IR4_JPEG%2F%25B0%25A5%25BA%25F1%25C5%25C1.jpg",
+            "menu_name": "가마솥 갈비탕(특)",
+            "price": "15,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20231127_43%2F1701065589772L22As_JPEG%2F%25BF%25BE%25B3%25AF_%25BA%25D2%25B0%25ED%25B1%25E2.jpg",
+            "menu_name": "옛날 불고기",
+            "price": "15,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20231127_258%2F1701065566663jHFIh_JPEG%2F%25B0%25A5%25BA%25F1%25C2%25F2.jpg",
+            "menu_name": "가마솥 갈비찜",
+            "price": "40,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20231127_288%2F1701065500833OPHRh_JPEG%2F%25B9%25B0%25B3%25C3%25B8%25E9.jpg",
+            "menu_name": "육전 물냉면",
+            "price": "10,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20231127_201%2F1701065526775N7iJd_JPEG%2F%25C0%25B0%25C0%25FC_%25BA%25F1%25BA%25F6%25B3%25C3%25B8%25E9.jpg",
+            "menu_name": "육전 비빔냉면",
+            "price": "11,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20231127_75%2F1701065542463rml3I_JPEG%2F%25B0%25A5%25B8%25B8%25C5%25C12.jpg",
+            "menu_name": "갈만탕",
+            "price": "12,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20231127_220%2F1701065624975HoNn5_JPEG%2F%25BC%25D2%25B0%25ED%25B1%25E2_%25C0%25B0%25C0%25FC.jpg",
+            "menu_name": "소고기 육전",
+            "price": "8,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20231127_188%2F1701065645057qhmEd_JPEG%2F%25B1%25B3%25B5%25BF_%25BC%25D5%25B8%25B8%25B5%25CE.jpg",
+            "menu_name": "교동 손만두",
+            "price": "6,000원"
+        }
+    ]
+}

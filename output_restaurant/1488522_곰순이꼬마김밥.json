@@ -1,0 +1,80 @@
+{
+    "store_name": "곰순이꼬마김밥",
+    "store_location": "대전 서구 둔산로74번길 31 1층",
+    "loc_x": "234235.539948899",
+    "loc_y": "316618.680022121",
+    "menu": [
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20231214_9%2F1702536524836cbOnH_JPEG%2FIMG_1423.jpeg",
+            "menu_name": "꼬마김밥 5줄",
+            "price": "4,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20231214_293%2F1702536611574J3YBd_JPEG%2FIMG_1426.jpeg",
+            "menu_name": "참치마요꼬마김밥 5줄",
+            "price": "5,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20231214_62%2F1702536693452RyrWN_JPEG%2FIMG_1429.jpeg",
+            "menu_name": "곰순이 떡볶이",
+            "price": "7,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20231214_82%2F1702536718529iXbLI_JPEG%2FIMG_1430.jpeg",
+            "menu_name": "쫄면",
+            "price": "7,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20231214_225%2F1702536558757aHgtg_JPEG%2FIMG_1424.jpeg",
+            "menu_name": "꼬마김밥 10줄",
+            "price": "7,500원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20231214_259%2F1702536664727gt6n7_JPEG%2FIMG_1425.jpeg",
+            "menu_name": "참치마요꼬마김밥 10줄",
+            "price": "9,500원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20231215_274%2F1702618536412DbkI0_JPEG%2FIMG_1468.jpeg",
+            "menu_name": "우동",
+            "price": "5,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20231220_162%2F1703029285197XoslX_JPEG%2FIMG_1566.jpeg",
+            "menu_name": "라면",
+            "price": "4,500원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20231215_258%2F1702618546167P8FrS_JPEG%2FIMG_1469.jpeg",
+            "menu_name": "어묵탕",
+            "price": "6,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20231214_94%2F1702536752825yJ9AW_JPEG%2FIMG_1431.jpeg",
+            "menu_name": "어묵우동",
+            "price": "7,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20231214_212%2F1702537244921NeSBg_PNG%2FIMG_1444.png",
+            "menu_name": "음료수",
+            "price": "2,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20231214_297%2F1702537251841nfHPN_JPEG%2FIMG_1445.jpeg",
+            "menu_name": "물",
+            "price": "1,000원"
+        }
+    ]
+}

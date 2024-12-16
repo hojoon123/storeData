@@ -1,0 +1,242 @@
+{
+    "store_name": "미트미트",
+    "store_location": "경북 김천시 혁신6로 10",
+    "loc_x": "306362.039649097",
+    "loc_y": "292126.161181664",
+    "menu": [
+        {
+            "category": "대표메뉴",
+            "img_src": "",
+            "menu_name": "1. 오리지널버거(original burger)",
+            "price": "9,500원"
+        },
+        {
+            "category": "대표메뉴",
+            "img_src": "",
+            "menu_name": "3. 스모크 치즈버거(smoked cheese burg",
+            "price": "9,900원"
+        },
+        {
+            "category": "대표메뉴",
+            "img_src": "",
+            "menu_name": "4. 그릴드 치킨버거(grilled chicken bu",
+            "price": "8,900원"
+        },
+        {
+            "category": "대표메뉴",
+            "img_src": "",
+            "menu_name": "1. 감자튀김(french fries)(소)",
+            "price": "3,000원"
+        },
+        {
+            "category": "대표메뉴",
+            "img_src": "",
+            "menu_name": "1. 감자튀김(french fries)(대)",
+            "price": "5,000원"
+        },
+        {
+            "category": "대표메뉴",
+            "img_src": "",
+            "menu_name": "2. 버팔로 치킨봉(chicken wing stick)(소(3혹은.4개)제품크기변경)",
+            "price": "4,000원"
+        },
+        {
+            "category": "대표메뉴",
+            "img_src": "",
+            "menu_name": "2. 버팔로 치킨봉(chicken wing stick)(대(6개혹은.8개)제품크기)",
+            "price": "7,000원"
+        },
+        {
+            "category": "단품",
+            "img_src": "",
+            "menu_name": "1. 오리지널버거(original burger)",
+            "price": "9,500원"
+        },
+        {
+            "category": "단품",
+            "img_src": "",
+            "menu_name": "2. 싱글버거(single burger)",
+            "price": "7,900원"
+        },
+        {
+            "category": "단품",
+            "img_src": "",
+            "menu_name": "3. 스모크 치즈버거(smoked cheese burg",
+            "price": "9,900원"
+        },
+        {
+            "category": "단품",
+            "img_src": "",
+            "menu_name": "4. 그릴드 치킨버거(grilled chicken bu",
+            "price": "8,900원"
+        },
+        {
+            "category": "단품",
+            "img_src": "",
+            "menu_name": "5. 필리치즈스테이크(phillycheesesteak)",
+            "price": "8,900원"
+        },
+        {
+            "category": "단품",
+            "img_src": "",
+            "menu_name": "플래인버거(plain burger)",
+            "price": "8,900원"
+        },
+        {
+            "category": "단품",
+            "img_src": "",
+            "menu_name": "더블버거(double burger)추가품",
+            "price": "3,000원"
+        },
+        {
+            "category": "사이드",
+            "img_src": "",
+            "menu_name": "1. 감자튀김(french fries)(소)",
+            "price": "3,000원"
+        },
+        {
+            "category": "사이드",
+            "img_src": "",
+            "menu_name": "1. 감자튀김(french fries)(대)",
+            "price": "5,000원"
+        },
+        {
+            "category": "사이드",
+            "img_src": "",
+            "menu_name": "2. 버팔로 치킨봉(chicken wing stick)(소(3혹은.4개)제품크기변경)",
+            "price": "4,000원"
+        },
+        {
+            "category": "사이드",
+            "img_src": "",
+            "menu_name": "2. 버팔로 치킨봉(chicken wing stick)(대(6개혹은.8개)제품크기)",
+            "price": "7,000원"
+        },
+        {
+            "category": "사이드",
+            "img_src": "",
+            "menu_name": "3. 떡복이(매운 hot)",
+            "price": "5,000원"
+        },
+        {
+            "category": "사이드",
+            "img_src": "",
+            "menu_name": "콤보(combo)(감자프라이 + 음료)",
+            "price": "4,000원"
+        },
+        {
+            "category": "사이드",
+            "img_src": "",
+            "menu_name": "콤보(combo)(해시브라운 2개 + 음료)",
+            "price": "4,000원"
+        },
+        {
+            "category": "사이드",
+            "img_src": "",
+            "menu_name": "콤보(combo)(감자프라이+윙봉3개혹4개+음료)",
+            "price": "7,000원"
+        },
+        {
+            "category": "사이드",
+            "img_src": "",
+            "menu_name": "콤보(combo)(해시브라운2개+윙봉3개혹4개+음료)",
+            "price": "7,000원"
+        },
+        {
+            "category": "사이드",
+            "img_src": "",
+            "menu_name": "hash brown potatoes(해시브라운)",
+            "price": "3,000원"
+        },
+        {
+            "category": "사이드",
+            "img_src": "",
+            "menu_name": "떡복이(보통)",
+            "price": "5,000원"
+        },
+        {
+            "category": "음료",
+            "img_src": "",
+            "menu_name": "코카콜라",
+            "price": "2,000원"
+        },
+        {
+            "category": "음료",
+            "img_src": "",
+            "menu_name": "코카콜라 제로슈가",
+            "price": "2,000원"
+        },
+        {
+            "category": "음료",
+            "img_src": "",
+            "menu_name": "닥터페퍼",
+            "price": "2,000원"
+        },
+        {
+            "category": "음료",
+            "img_src": "",
+            "menu_name": "닥터페퍼 제로슈가",
+            "price": "2,000원"
+        },
+        {
+            "category": "음료",
+            "img_src": "",
+            "menu_name": "스프라이트 오리지널",
+            "price": "2,000원"
+        },
+        {
+            "category": "음료",
+            "img_src": "",
+            "menu_name": "스프라이트 제로슈가",
+            "price": "2,000원"
+        },
+        {
+            "category": "음료",
+            "img_src": "",
+            "menu_name": "환타 오렌지",
+            "price": "2,000원"
+        },
+        {
+            "category": "음료",
+            "img_src": "",
+            "menu_name": "환타 파인애플",
+            "price": "2,000원"
+        },
+        {
+            "category": "음료",
+            "img_src": "",
+            "menu_name": "웰치스(포도)",
+            "price": "2,000원"
+        },
+        {
+            "category": "음료",
+            "img_src": "",
+            "menu_name": "쿨피스",
+            "price": "2,000원"
+        },
+        {
+            "category": "과일쥬스",
+            "img_src": "",
+            "menu_name": "에플쥬스(martinellis apple juice)",
+            "price": "4,000원"
+        },
+        {
+            "category": "과일쥬스",
+            "img_src": "",
+            "menu_name": "분다버그(bundaberg)포도.망고",
+            "price": "4,000원"
+        },
+        {
+            "category": "과일쥬스",
+            "img_src": "",
+            "menu_name": "레몬에이드(lemon ade)",
+            "price": "4,000원"
+        },
+        {
+            "category": "과일쥬스",
+            "img_src": "",
+            "menu_name": "자몽에이드(grapefruit ade)",
+            "price": "4,000원"
+        }
+    ]
+}

@@ -1,0 +1,140 @@
+{
+    "store_name": "신열날개",
+    "store_location": "제주 제주시 신성로 114 1층",
+    "loc_x": "156330.25268157",
+    "loc_y": "201.387058156968",
+    "menu": [
+        {
+            "category": "대표메뉴",
+            "img_src": "",
+            "menu_name": "열날개",
+            "price": "10,000원"
+        },
+        {
+            "category": "대표메뉴",
+            "img_src": "",
+            "menu_name": "무뼈닭발",
+            "price": "18,000원"
+        },
+        {
+            "category": "메인메뉴",
+            "img_src": "",
+            "menu_name": "열날개",
+            "price": "10,000원"
+        },
+        {
+            "category": "메인메뉴",
+            "img_src": "",
+            "menu_name": "열닭발",
+            "price": "10,000원"
+        },
+        {
+            "category": "메인메뉴",
+            "img_src": "",
+            "menu_name": "국물닭발",
+            "price": "18,000원"
+        },
+        {
+            "category": "메인메뉴",
+            "img_src": "",
+            "menu_name": "순살불닭",
+            "price": "18,000원"
+        },
+        {
+            "category": "메인메뉴",
+            "img_src": "",
+            "menu_name": "무뼈닭발",
+            "price": "18,000원"
+        },
+        {
+            "category": "메인메뉴",
+            "img_src": "",
+            "menu_name": "닭목살구이",
+            "price": "15,000원"
+        },
+        {
+            "category": "메인메뉴",
+            "img_src": "",
+            "menu_name": "영계통구이",
+            "price": "12,000원"
+        },
+        {
+            "category": "메인메뉴",
+            "img_src": "",
+            "menu_name": "옛날닭똥집",
+            "price": "15,000원"
+        },
+        {
+            "category": "메인메뉴",
+            "img_src": "",
+            "menu_name": "오돌뼈",
+            "price": "15,000원"
+        },
+        {
+            "category": "사이드",
+            "img_src": "",
+            "menu_name": "계란찜",
+            "price": "5,000원"
+        },
+        {
+            "category": "사이드",
+            "img_src": "",
+            "menu_name": "김가루주먹밥",
+            "price": "2,000원"
+        },
+        {
+            "category": "사이드",
+            "img_src": "",
+            "menu_name": "날치알주먹밥",
+            "price": "4,000원"
+        },
+        {
+            "category": "음료",
+            "img_src": "",
+            "menu_name": "펩시(355ml)",
+            "price": "2,000원"
+        },
+        {
+            "category": "음료",
+            "img_src": "",
+            "menu_name": "펩시제로(355ml)",
+            "price": "2,000원"
+        },
+        {
+            "category": "음료",
+            "img_src": "",
+            "menu_name": "칠성사이다(355ml)",
+            "price": "2,000원"
+        },
+        {
+            "category": "음료",
+            "img_src": "",
+            "menu_name": "칠성사이다제로(355ml)",
+            "price": "2,000원"
+        },
+        {
+            "category": "음료",
+            "img_src": "",
+            "menu_name": "탐스파인애플(355ml)",
+            "price": "2,000원"
+        },
+        {
+            "category": "음료",
+            "img_src": "",
+            "menu_name": "탐스오렌지제로(355ml)",
+            "price": "2,000원"
+        },
+        {
+            "category": "음료",
+            "img_src": "",
+            "menu_name": "밀키스(355ml)",
+            "price": "2,000원"
+        },
+        {
+            "category": "음료",
+            "img_src": "",
+            "menu_name": "쿨피스(450ml)",
+            "price": "2,000원"
+        }
+    ]
+}

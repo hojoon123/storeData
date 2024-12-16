@@ -1,0 +1,62 @@
+{
+    "store_name": "미인계옛날통닭 수원고등점",
+    "store_location": "경기 수원시 팔달구 팔달로 63 208, 209호",
+    "loc_x": "200111.247343846",
+    "loc_y": "419156.173051222",
+    "menu": [
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241202_26%2F1733100620037LTYtz_JPEG%2F1000027876.jpg",
+            "menu_name": "미인계옛날통닭",
+            "price": "12,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241211_229%2F1733928326081Vqqsf_JPEG%2F1000027865.jpg",
+            "menu_name": "미인계옛날통닭+닭다리5pcs",
+            "price": "19,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241202_261%2F1733100682115YTuSW_JPEG%2F1000027869.jpg",
+            "menu_name": "미인계콤보(날개5pc+다리5pc)",
+            "price": "17,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241211_278%2F1733928411278YilxJ_JPEG%2F1000027867.jpg",
+            "menu_name": "미인계옛날통닭+똥집후라이드",
+            "price": "17,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241211_88%2F17339284635702iFDN_JPEG%2F1000027864.jpg",
+            "menu_name": "미인계옛날통닭+떡볶이",
+            "price": "17,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241211_65%2F1733928659100QNu55_JPEG%2F1000027872.jpg",
+            "menu_name": "순살후라이드",
+            "price": "13,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241211_123%2F1733928692666jwKiF_JPEG%2F1000027871.jpg",
+            "menu_name": "순상치킨강정",
+            "price": "14,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241211_227%2F1733928573581vsiwS_JPEG%2F1000027868.jpg",
+            "menu_name": "똥집후라이드",
+            "price": "12,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241211_294%2F1733928503394SBxnp_JPEG%2F1000027863.jpg",
+            "menu_name": "미인계떡볶이",
+            "price": "6,000원"
+        }
+    ]
+}

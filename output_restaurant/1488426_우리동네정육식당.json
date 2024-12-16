@@ -1,0 +1,32 @@
+{
+    "store_name": "우리동네정육식당",
+    "store_location": "강원 원주시 무실본동길 56 101호 우리동네정육마켓",
+    "loc_x": "282578.681716574",
+    "loc_y": "426555.179254314",
+    "menu": [
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240306_21%2F1709721507947C6tX5_JPEG%2FKakaoTalk_20240306_193606195.jpg",
+            "menu_name": "상차림비 1인",
+            "price": "5,900원"
+        },
+        {
+            "category": "",
+            "img_src": "",
+            "menu_name": "상차림비 군장병 1인",
+            "price": "4,900원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240306_299%2F1709721556107RSO1G_JPEG%2FKakaoTalk_20240306_193606195.jpg",
+            "menu_name": "한우육회,사시미",
+            "price": "18,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240306_9%2F17097215938836CzHt_JPEG%2FKakaoTalk_20240306_193606195.jpg",
+            "menu_name": "물냉면,비빔냉면",
+            "price": "6,000원"
+        }
+    ]
+}

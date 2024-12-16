@@ -1,0 +1,98 @@
+{
+    "store_name": "김숙성 하남미사점",
+    "store_location": "경기 하남시 미사강변중앙로 190 1층 126호",
+    "loc_x": "216761.941800542",
+    "loc_y": "451297.294003452",
+    "menu": [
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241206_219%2F1733475083685uOMKB_JPEG%2F%25B1%25E8%25BC%25F7%25BC%25BA%25BD%25BA%25C6%25E4%25BC%25C82.jpg",
+            "menu_name": "김숙성 스페셜2",
+            "price": "54,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241206_117%2F1733475057445PLKfO_JPEG%2F%25BD%25BA%25C6%25E4%25BC%25C8_1.jpg",
+            "menu_name": "김숙성 스페셜1",
+            "price": "79,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241206_68%2F1733475036560hU2rf_JPEG%2F%25B1%25E8%25BC%25F7%25BC%25BA_%25BB%25EF%25B0%25E3.jpg",
+            "menu_name": "김숙성 삼겹살",
+            "price": "16,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241206_296%2F1733475019249mP3hv_PNG%2F%25B8%25F1%25BB%25EC.png",
+            "menu_name": "김숙성 특목살",
+            "price": "16,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241206_161%2F1733474997466vX3u7_JPEG%2F%25B0%25A1%25BA%25EA%25B8%25AE%25BB%25EC.jpg",
+            "menu_name": "김숙성 가브리살 1인분",
+            "price": "18,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241206_66%2F1733474968004BVxU9_JPEG%2F%25BE%25E7%25B3%25E4%25B0%25D4%25C0%25E5%25B9%25E4.jpg",
+            "menu_name": "양념게장밥",
+            "price": "9,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241206_268%2F1733474950681Xdy3X_JPEG%2F%25B9%25CC%25B3%25AA%25B8%25AE_%25BA%25F1%25BA%25F6%25B1%25B9%25BC%25F6.jpg",
+            "menu_name": "미나리 비빔국수",
+            "price": "7,000원"
+        },
+        {
+            "category": "",
+            "img_src": "",
+            "menu_name": "냉국수",
+            "price": "7,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241206_65%2F1733474883417wUoKG_PNG%2F%25B5%25C8%25C0%25E5%25C2%25EE%25B0%25B3.png",
+            "menu_name": "된장찌개",
+            "price": "7,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241206_98%2F17334748660221vo7R_JPEG%2F%25C7%25D1%25B5%25B7%25B1%25E8%25C4%25A1%25C2%25EE%25B0%25B3.jpg",
+            "menu_name": "한돈 김치찌개",
+            "price": "7,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241206_271%2F1733474850786ERX2H_JPEG%2F%25B2%25C9%25B0%25D4%25B6%25F3%25B8%25E9.jpg",
+            "menu_name": "꽃게 라면",
+            "price": "6,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241206_215%2F1733474831411wpH4A_JPEG%2F%25BE%25E7%25B3%25E4%25B0%25D4%25C0%25E5%25C3%25DF%25B0%25A1.jpg",
+            "menu_name": "양념게장 추가",
+            "price": "6,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241206_160%2F1733474815002khcv7_JPEG%2F%25BF%25CD_%25C1%25F8%25C2%25A5_%25B0%25ED%25BC%25D2%25C7%25D1_%25C4%25DC%25C4%25A1%25C1%25EE.jpg",
+            "menu_name": "와 진짜 고소한 콘치즈",
+            "price": "5,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241206_159%2F1733474784412WdSBF_JPEG%2F%25BC%25BF%25C7%25C1%25BA%25BA%25C0%25BD%25B9%25E4.jpg",
+            "menu_name": "셀프볶음밥",
+            "price": "3,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241206_118%2F1733474760245UuoAo_PNG%2F%25B9%25CC%25B3%25AA%25B8%25AE%25C3%25DF%25B0%25A1.png",
+            "menu_name": "미나리 추가",
+            "price": "3,000원"
+        }
+    ]
+}

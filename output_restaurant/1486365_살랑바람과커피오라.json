@@ -1,0 +1,32 @@
+{
+    "store_name": "살랑바람과커피오라",
+    "store_location": "전북 군산시 회현면 대위로 441",
+    "loc_x": "177799.360729044",
+    "loc_y": "267934.385135467",
+    "menu": [
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241205_25%2F17333661216045ULcq_JPEG%2F1000018835.jpg",
+            "menu_name": "머쉬룸베이컨피자",
+            "price": "18,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241205_40%2F17333660711779aBwL_JPEG%2F1000018860.jpg",
+            "menu_name": "마르게리타피자",
+            "price": "17,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241130_171%2F1732932782104MTbPB_JPEG%2FKakaoTalk_20241130_104604794_03.jpg",
+            "menu_name": "바질페스토피자",
+            "price": "18,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241130_77%2F1732932754523nqopA_JPEG%2FKakaoTalk_20241130_104604794_04.jpg",
+            "menu_name": "계절피자",
+            "price": "19,000원"
+        }
+    ]
+}

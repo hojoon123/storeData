@@ -1,0 +1,56 @@
+{
+    "store_name": "곤국",
+    "store_location": "부산 수영구 수영로 506 광안더샵상가동 3호",
+    "loc_x": "392365.028510852",
+    "loc_y": "185539.89486833",
+    "menu": [
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20200821_71%2F1597998216114gyKQR_JPEG%2FT7D5BNfRQhCUibRr-wtCdjNQ.jpeg.jpg",
+            "menu_name": "한우곰탕보통",
+            "price": "15,000원"
+        },
+        {
+            "category": "",
+            "img_src": "",
+            "menu_name": "한우곰탕 특",
+            "price": "20,000원"
+        },
+        {
+            "category": "",
+            "img_src": "",
+            "menu_name": "맛보기스지",
+            "price": "17,000원"
+        },
+        {
+            "category": "",
+            "img_src": "",
+            "menu_name": "맛보기수육",
+            "price": "18,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240308_260%2F1709905978786ftAzy_JPEG%2F3A13425D-8CB9-4A47-93EC-CC0413A1F0FE.jpeg",
+            "menu_name": "한우스지수육",
+            "price": "33,000원"
+        },
+        {
+            "category": "",
+            "img_src": "",
+            "menu_name": "한우수육(中)",
+            "price": "52,000원"
+        },
+        {
+            "category": "",
+            "img_src": "",
+            "menu_name": "한우수육(大)",
+            "price": "70,000원"
+        },
+        {
+            "category": "",
+            "img_src": "",
+            "menu_name": "찰솥밥",
+            "price": "1,000원"
+        }
+    ]
+}

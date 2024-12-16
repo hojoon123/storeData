@@ -1,0 +1,74 @@
+{
+    "store_name": "핑크고래커피",
+    "store_location": "경남 창원시 마산회원구 구암남2길 7 1층",
+    "loc_x": "344722.129635747",
+    "loc_y": "194954.590915247",
+    "menu": [
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240124_174%2F1706078996132TMeu0_JPEG%2F%25BF%25C0%25B6%25DF%25B6%25F3%25B6%25BC.jpg",
+            "menu_name": "오뜨라떼",
+            "price": "4,500원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240124_177%2F1706079003445w7dDd_JPEG%2F%25BE%25C6%25B8%25F3%25B5%25E5%25B6%25F3%25B6%25BC.jpg",
+            "menu_name": "아몬드라떼",
+            "price": "4,500원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240124_159%2F1706079012295elxlH_JPEG%2F%25C3%25BB%25C6%25F7%25B5%25B5%25C4%25C9%25C0%25CF.jpg",
+            "menu_name": "청포도케일주스",
+            "price": "5,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240124_54%2F1706079021688luEO5_JPEG%2F%25C6%25C4%25C0%25CE%25BE%25D6%25C7%25C3%25C4%25C9%25C0%25CF.jpg",
+            "menu_name": "파인애플케일주스",
+            "price": "5,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240124_79%2F1706079030289CQgMw_JPEG%2F%25B5%25FE%25B1%25E2%25C1%25D6%25BD%25BA.jpg",
+            "menu_name": "딸기주스",
+            "price": "3,500원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240124_232%2F1706079036474b7DQ9_JPEG%2F%25B8%25C1%25B0%25ED%25C1%25D6%25BD%25BA.jpg",
+            "menu_name": "망고주스",
+            "price": "3,700원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240124_300%2F1706079043072t9QM8_JPEG%2F%25BA%25B9%25BC%25FE%25BE%25C6%25C1%25D6%25BD%25BA.jpg",
+            "menu_name": "복숭아주스",
+            "price": "4,200원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240124_151%2F1706079542303FJ7Gk_JPEG%2F%25C6%25C4%25C0%25CE%25BE%25D6%25C7%25C3%25C1%25D6%25BD%25BA.jpg",
+            "menu_name": "파인애플주스",
+            "price": "4,200원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240124_111%2F1706079080854NAenW_JPEG%2F%25BA%25ED%25B7%25E7%25BA%25A3%25B8%25AE%25C1%25D6%25BD%25BA.jpg",
+            "menu_name": "블루베리주스",
+            "price": "4,300원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240124_34%2F17060790870984OLsN_JPEG%2F%25BE%25C6%25B8%25DE%25B8%25AE%25C4%25AB%25B3%25EB2.jpg",
+            "menu_name": "아메리카노",
+            "price": "1,500원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240124_235%2F1706079094502bVv5W_JPEG%2F%25B9%25D9%25B4%25D2%25B6%25F3%25B6%25F3%25B6%25BC.jpg",
+            "menu_name": "바닐라라떼",
+            "price": "3,500원"
+        }
+    ]
+}

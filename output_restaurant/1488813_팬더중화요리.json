@@ -1,0 +1,68 @@
+{
+    "store_name": "팬더중화요리",
+    "store_location": "전남 장성군 장성읍 문화로 44",
+    "loc_x": "179433.995616137",
+    "loc_y": "200113.763637118",
+    "menu": [
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240413_251%2F1712979009279v3bOy_JPEG%2F1000009216.jpg",
+            "menu_name": "등심탕수육 미니",
+            "price": "12,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240413_243%2F1712979112344e1mcy_JPEG%2F1000009214.jpg",
+            "menu_name": "짜장면",
+            "price": "6,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240413_238%2F1712979091964lScSR_JPEG%2F1000009213.jpg",
+            "menu_name": "짬뽕",
+            "price": "9,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240413_263%2F1712979025756i6xVb_JPEG%2F1000009208.jpg",
+            "menu_name": "레드매콤짜장",
+            "price": "9,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240413_294%2F1712986652139V3PL3_JPEG%2F1000009260.jpg",
+            "menu_name": "사천등심탕수육 미니",
+            "price": "13,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240413_60%2F1712986680526f6iB5_JPEG%2F1000009253.jpg",
+            "menu_name": "간짜장",
+            "price": "8,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240413_91%2F17129866673269Gduy_JPEG%2F1000009251.jpg",
+            "menu_name": "볶음밥",
+            "price": "8,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240413_35%2F1712979072786BFYr5_JPEG%2F1000009227.jpg",
+            "menu_name": "잡채밥",
+            "price": "9,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240413_78%2F1712979058437womk9_JPEG%2F1000009022.jpg",
+            "menu_name": "해물덮밥",
+            "price": "12,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240423_86%2F1713847384661JAnOV_JPEG%2F1000009331.jpg",
+            "menu_name": "우동",
+            "price": "9,000원"
+        }
+    ]
+}

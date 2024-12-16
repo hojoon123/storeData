@@ -1,0 +1,50 @@
+{
+    "store_name": "미정이네",
+    "store_location": "강원 화천군 간동면 간척월명로 312",
+    "loc_x": "271691.880628018",
+    "loc_y": "506126.885560525",
+    "menu": [
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241209_108%2F1733730696346Ckk3D_JPEG%2FKakaoTalk_20241209_162759427.jpg",
+            "menu_name": "김밥",
+            "price": "4,000원"
+        },
+        {
+            "category": "",
+            "img_src": "",
+            "menu_name": "매운어묵김밥",
+            "price": "4,500원"
+        },
+        {
+            "category": "",
+            "img_src": "",
+            "menu_name": "라면",
+            "price": "5,000원"
+        },
+        {
+            "category": "",
+            "img_src": "",
+            "menu_name": "순대",
+            "price": "5,000원"
+        },
+        {
+            "category": "",
+            "img_src": "",
+            "menu_name": "돈까스",
+            "price": "9,000원"
+        },
+        {
+            "category": "",
+            "img_src": "",
+            "menu_name": "치즈돈까스",
+            "price": "11,000원"
+        },
+        {
+            "category": "",
+            "img_src": "",
+            "menu_name": "음료수",
+            "price": "2,000원"
+        }
+    ]
+}

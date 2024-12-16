@@ -1,0 +1,98 @@
+{
+    "store_name": "진가네쭈꾸미코다리 하남본점",
+    "store_location": "경기 하남시 감초로 16 2층",
+    "loc_x": "213869.657393668",
+    "loc_y": "445943.228938746",
+    "menu": [
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241206_145%2F1733474121738w8Gp4_JPEG%2FKakaoTalk_20241206_171542053.jpg",
+            "menu_name": "쭈꾸미직화볶음",
+            "price": "15,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241206_4%2F17334743900898ILJQ_JPEG%2FKakaoTalk_20241206_171209171_05.jpg",
+            "menu_name": "코다리조림(중)",
+            "price": "56,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241206_34%2F1733474133475t97oB_JPEG%2FKakaoTalk_20241206_171209171_01.jpg",
+            "menu_name": "쭈삼직화볶음",
+            "price": "17,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241206_79%2F1733474370937W15jt_JPEG%2FKakaoTalk_20241206_171209171_07.jpg",
+            "menu_name": "능이활쭈꾸미샤브",
+            "price": "변동"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241206_160%2F1733474187803C1ORy_JPEG%2FKakaoTalk_20241206_171209171_05.jpg",
+            "menu_name": "코다리조림(소)",
+            "price": "42,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241206_236%2F1733474516135I2P9Y_JPEG%2FKakaoTalk_20241206_171209171_05.jpg",
+            "menu_name": "코다리조림(대)",
+            "price": "70,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241211_163%2F1733883707915UeEnb_JPEG%2FKakaoTalk_20241206_171209171_05.jpg",
+            "menu_name": "쭈꾸미파전",
+            "price": "19,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241206_91%2F1733474241617ygKv5_JPEG%2FKakaoTalk_20241206_171209171.jpg",
+            "menu_name": "수제등심돈까스",
+            "price": "9,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241206_72%2F1733474260544sQL7i_JPEG%2FKakaoTalk_20241206_171209171_09.jpg",
+            "menu_name": "왕새우튀김(소)",
+            "price": "10,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241206_87%2F1733474449364GAaRG_JPEG%2FKakaoTalk_20241206_171209171_06.jpg",
+            "menu_name": "도토리묵사발",
+            "price": "5,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241206_128%2F1733474276498Jje41_JPEG%2FKakaoTalk_20241206_171209171_02.jpg",
+            "menu_name": "군만두",
+            "price": "8,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241206_165%2F1733474290452U13DY_JPEG%2FKakaoTalk_20241206_171209171_10.jpg",
+            "menu_name": "김치만두",
+            "price": "7,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241206_256%2F1733474471474gAzgU_JPEG%2FKakaoTalk_20241206_171209171_08.jpg",
+            "menu_name": "메밀전",
+            "price": "3,000원"
+        },
+        {
+            "category": "",
+            "img_src": "",
+            "menu_name": "수제치즈돈까스",
+            "price": "10,000원"
+        },
+        {
+            "category": "",
+            "img_src": "",
+            "menu_name": "고기만두",
+            "price": "7,000원"
+        }
+    ]
+}

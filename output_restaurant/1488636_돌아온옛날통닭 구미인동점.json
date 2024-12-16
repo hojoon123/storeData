@@ -1,0 +1,80 @@
+{
+    "store_name": "돌아온옛날통닭 구미인동점",
+    "store_location": "경북 구미시 인동중앙로 33-3 1층",
+    "loc_x": "327983.379933085",
+    "loc_y": "290670.151965681",
+    "menu": [
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20231205_71%2F1701785196351M9bkM_JPEG%2F20230222_174450.jpg",
+            "menu_name": "옛날통닭",
+            "price": "9,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20231205_67%2F1701785136889Mhs5F_JPEG%2F20230222_174437.jpg",
+            "menu_name": "똥집야채튀김",
+            "price": "13,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20231205_12%2F1701785180958JspzE_JPEG%2F%25B4%25D9%25BF%25EE%25B7%25CE%25B5%25E5.jpeg-4-1.jpg",
+            "menu_name": "조각후라이드",
+            "price": "13,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20231205_112%2F1701785238351yQq10_JPEG%2F%25B4%25D9%25BF%25EE%25B7%25CE%25B5%25E5.jpeg-1-1.jpg",
+            "menu_name": "조각 양념통닭",
+            "price": "14,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20231205_262%2F1701785295859JK9ab_JPEG%2F%25B4%25D9%25BF%25EE%25B7%25CE%25B5%25E5.jpeg-2-1.jpg",
+            "menu_name": "불고기양념통닭",
+            "price": "14,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20231205_115%2F1701785277309D6YiM_JPEG%2F%25B4%25D9%25BF%25EE%25B7%25CE%25B5%25E5.jpeg-3-1.jpg",
+            "menu_name": "마늘간장통닭",
+            "price": "14,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20231205_115%2F1701785075507KGiAI_JPEG%2F%25B4%25D9%25BF%25EE%25B7%25CE%25B5%25E5.jpeg-5.jpg",
+            "menu_name": "무뼈닭발튀김",
+            "price": "16,000원"
+        },
+        {
+            "category": "",
+            "img_src": "",
+            "menu_name": "닭발떡볶이",
+            "price": "18,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20231205_95%2F1701785115121TmSkq_JPEG%2F20230222_174412.jpg",
+            "menu_name": "닭다리",
+            "price": "9,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20231205_6%2F1701785096209iOJ7i_JPEG%2F20230222_174424.jpg",
+            "menu_name": "윙봉",
+            "price": "9,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20231205_18%2F17017851581794kXbp_JPEG%2F20230222_174358.jpg",
+            "menu_name": "국물떡볶이",
+            "price": "9,000원"
+        },
+        {
+            "category": "",
+            "img_src": "",
+            "menu_name": "감자튀김",
+            "price": "9,000원"
+        }
+    ]
+}

@@ -1,0 +1,68 @@
+{
+    "store_name": "동남집 송도커넬워크점",
+    "store_location": "인천 연수구 아트센터대로 107 302동 1층 140~145호",
+    "loc_x": "167943.997626164",
+    "loc_y": "433254.961110999",
+    "menu": [
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241206_263%2F1733413307530tQMzI_JPEG%2F1000032018.jpg",
+            "menu_name": "뚝배기불고기",
+            "price": "11,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241206_222%2F1733413192429MAphs_JPEG%2F1000032360.jpg",
+            "menu_name": "얼큰양지곰탕",
+            "price": "12,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241206_243%2F17334130293655quHU_JPEG%2F1000032030.jpg",
+            "menu_name": "양지곰탕",
+            "price": "11,000원"
+        },
+        {
+            "category": "",
+            "img_src": "",
+            "menu_name": "도가니수육",
+            "price": "50,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241206_129%2F1733413922470mcato_JPEG%2F1000032028.jpg",
+            "menu_name": "옛날불고기",
+            "price": "18,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241206_158%2F1733413828832CgjaW_JPEG%2F1000032026.jpg",
+            "menu_name": "돌판모듬수육",
+            "price": "48,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241206_189%2F1733413737913AOlJg_JPEG%2F1000032351.jpg",
+            "menu_name": "매운갈비찜",
+            "price": "52,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241206_150%2F1733413642300ABibL_JPEG%2F1000032020.jpg",
+            "menu_name": "만두곰탕",
+            "price": "12,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241206_288%2F17334135663052r2X2_JPEG%2F1000032344.jpg",
+            "menu_name": "도가니탕",
+            "price": "17,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241206_44%2F1733413496795frg9t_JPEG%2F1000032036.jpg",
+            "menu_name": "왕갈비탕",
+            "price": "16,000원"
+        }
+    ]
+}

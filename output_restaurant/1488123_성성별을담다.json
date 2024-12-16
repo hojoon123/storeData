@@ -1,0 +1,98 @@
+{
+    "store_name": "성성별을담다",
+    "store_location": "충남 천안시 서북구 성성6로 21 상가동 1층 106호,108호",
+    "loc_x": "210829.918086031",
+    "loc_y": "371228.281425083",
+    "menu": [
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241008_128%2F1728316397433oK1NX_JPEG%2FKakaoTalk_20240728_001135547.jpg",
+            "menu_name": "오리 황제세트",
+            "price": "55,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241008_201%2F1728316674640OdBsn_PNG%2F%25B9%25AC%25C0%25BA%25C1%25F6_%25B1%25E8%25C4%25A1%25C2%25F2.PNG",
+            "menu_name": "묵은지 김치찜",
+            "price": "26,900원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20231227_225%2F1703663421517b7C11_JPEG%2F%25B8%25F0%25B5%25EB%25B1%25B9%25B9%25E4_9000.jpg",
+            "menu_name": "모듬국밥",
+            "price": "10,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20231227_253%2F1703663575208d3neG_PNG%2F%25BA%25D2%25B7%25CE_%25C8%25AE_%25B9%25AB%25BB%25C0%25B4%25DF%25B9%25DF_14%252C900.png",
+            "menu_name": "불로 확~! 무뼈닭발",
+            "price": "15,900원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241008_73%2F1728316340198m5st2_JPEG%2FKakaoTalk_20240728_001135547_01.jpg",
+            "menu_name": "투게더 오븐구이(오리500삼겹300)",
+            "price": "45,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241008_114%2F1728316227190Afa0q_JPEG%2FKakaoTalk_20240728_001135547_02.jpg",
+            "menu_name": "온리 오리 오븐구이(오리800g)",
+            "price": "43,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241008_181%2F1728316747740dyReN_PNG%2F%25B6%25CB%25C1%25FD%25BA%25BA%25C0%25BD.PNG",
+            "menu_name": "마늘듬뿍 똥집볶음",
+            "price": "15,900원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20231227_23%2F1703663544202uqE7z_JPEG%2F%25B2%25C9%25B9%25CC%25B3%25E0_%25C1%25F7%25C8%25AD_%25C6%25AB%25B8%25B3%25B4%25DF%25B9%25DF_14%252C900.jpg",
+            "menu_name": "꽃미녀 직화 튤립 닭발",
+            "price": "16,900원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20231227_44%2F1703663591085uvUbN_JPEG%2F%25BF%25C0%25B5%25B6%25BF%25C0%25B5%25B6_%25C1%25F7%25C8%25AD%25BF%25C0%25B5%25B9%25BB%25C0_14%252C900.jpg",
+            "menu_name": "오독오독 직화오돌뼈",
+            "price": "15,900원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20231227_187%2F1703663646619LBOuB_JPEG%2F%25C5%25A9%25B1%25E2%25BA%25AF%25C8%25AF%25C7%25D1_%25B8%25B6%25B8%25AE%25BF%25A1_%25B4%25DC_%25C7%25D1%25C1%25A1_%25C1%25F7%25C8%25AD_%25B8%25F1%25BB%25EC_15.900.JPG",
+            "menu_name": "한 마리에 단 한 점 직화 목살",
+            "price": "15,900원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20231227_155%2F1703663519554gzuPm_JPEG%2F%25C5%25A9%25B1%25E2%25BA%25AF%25C8%25AF%25BC%25F8%25C1%25A4%25C0%25C7_%25B8%25C0_%25C1%25F7%25C8%25AD_%25BC%25D2%25B1%25DD%25B1%25B8%25C0%25CC_17%252C900.jpg",
+            "menu_name": "[닭바베큐] 순정의 맛 직화 소금구이",
+            "price": "17,900원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20231227_132%2F1703663494600tiEpf_JPEG%2F%25C5%25A9%25B1%25E2%25BA%25AF%25C8%25AF%25B8%25C5%25C4%25DE%25B4%25DE%25C4%25DE_%25C1%25F7%25C8%25AD_%25BE%25E7%25B3%25E4%25B1%25B8%25C0%25CC_18%252C900.jpg",
+            "menu_name": "[닭바베큐] 매콤달콤 직화 양념구이",
+            "price": "18,900원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20231227_143%2F1703663387786C4gJH_JPEG%2F%25B5%25C5%25C1%25F6%25B1%25B9%25B9%25E4_8000.jpg",
+            "menu_name": "돼지국밥",
+            "price": "9,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20231227_110%2F1703663399926p875y_JPEG%2F%25B3%25BB%25C0%25E5%25B1%25B9%25B9%25E4_8000.jpg",
+            "menu_name": "내장국밥",
+            "price": "9,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20231227_166%2F1703663432626EXhPI_JPEG%2F%25BC%25F8%25B4%25EB%25B1%25B9%25B9%25E4_9000.jpg",
+            "menu_name": "순대국밥",
+            "price": "10,000원"
+        }
+    ]
+}

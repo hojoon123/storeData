@@ -1,0 +1,44 @@
+{
+    "store_name": "마장동고기집 초읍점",
+    "store_location": "부산 부산진구 새싹로 256 1층 102호",
+    "loc_x": "386494.090661035",
+    "loc_y": "188559.621692112",
+    "menu": [
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240906_9%2F1725587229860ij9OH_JPEG%2F9.%25C4%25DC%25BC%25D2%25C7%25D1%25B8%25B6%25B8%25AEA_04.jpg",
+            "menu_name": "큰소 양념갈비살",
+            "price": "59,900원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240906_236%2F1725587169084cdSbs_JPEG%2F2.%25C5%25AB%25BC%25D2%25C7%25D1%25B8%25B6%25B8%25AEB_04.jpg",
+            "menu_name": "큰소 우대갈비",
+            "price": "59,900원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240906_277%2F17255871872311b71q_JPEG%2F1.%25C0%25DB%25C0%25BA%25BC%25D2%25C7%25D1%25B8%25B6%25B8%25AE_03.jpg",
+            "menu_name": "작은소",
+            "price": "39,900원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240906_100%2F1725587100369C2qS6_JPEG%2F13.%25C0%25DB%25C0%25BA%25B5%25C5%25C1%25F6%25C7%25D1%25B8%25B6%25B8%25AE_03.jpg",
+            "menu_name": "작은돼지",
+            "price": "29,900원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240906_45%2F1725587033268Yy2MO_JPEG%2F14.%25C5%25AB%25B5%25C5%25C1%25F6%25C7%25D1%25B8%25B6%25B8%25AE_04.jpg",
+            "menu_name": "큰돼지",
+            "price": "39,900원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240906_24%2F1725587066800WkNCV_JPEG%2F12.%25BE%25E7%25B3%25E4%25B5%25C5%25C1%25F6%25B0%25A5%25BA%25F1%25BC%25BC%25C6%25AE_03.jpg",
+            "menu_name": "양념돼지 셋트",
+            "price": "29,900원"
+        }
+    ]
+}

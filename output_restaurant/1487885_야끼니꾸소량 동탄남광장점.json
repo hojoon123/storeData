@@ -1,0 +1,140 @@
+{
+    "store_name": "야끼니꾸소량 동탄남광장점",
+    "store_location": "경기 화성시 동탄중심상가1길 33 113호",
+    "loc_x": "206311.413504044",
+    "loc_y": "411029.392864931",
+    "menu": [
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20231219_226%2F17029299946390FYv5_JPEG%2F%25B4%25EB%25B7%25AE%25C4%25AB%25BC%25BC_%25281%2529.jpg",
+            "menu_name": "대량카세(550g)",
+            "price": "59,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20231219_243%2F1702930050714bOmTi_JPEG%2F%25BC%25D2%25B7%25AE%25C4%25AB%25BC%25BC_%25281%2529.jpg",
+            "menu_name": "소량카세(350g)",
+            "price": "39,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20231219_111%2F1702930085079xor4i_JPEG%2F%25BD%25BA%25C1%25F6%25C2%25F7%25B5%25B9%25C7%25D8%25C0%25E5%25C0%25FC%25B0%25F1.jpg",
+            "menu_name": "스지차돌해장전골",
+            "price": "27,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20231219_262%2F1702930119360wDOY4_JPEG%2F%25C8%25A3%25B8%25A3%25B8%25F33%25C1%25BE_%25281%2529.jpg",
+            "menu_name": "호르몬3종셋트(특양,염통,스지)",
+            "price": "29,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20231219_103%2F1702930141762MqKel_JPEG%2F%25BC%25D2%25B7%25AE_%25BF%25C0%25B8%25AE%25C1%25F6%25B3%25AF_%25C7%25CF%25C0%25CC%25BA%25BC.jpg",
+            "menu_name": "소량 오리지날 하이볼",
+            "price": "3,900원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20231219_253%2F1702930177031NvaJH_JPEG%2F%25C7%25CF%25C0%25CC%25BA%25BC_%25281%2529.jpg",
+            "menu_name": "하이볼(자몽/유자/홍초/펀치)",
+            "price": "5,900원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20231219_57%2F1702930208778g1Uan_JPEG%2F%25B1%25E2%25B8%25B0%25BB%25FD%25B8%25C6.jpg",
+            "menu_name": "기린生맥주",
+            "price": "6,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20231219_212%2F17029302337229BLsB_JPEG%2F%25C1%25FC%25BA%25F6_%25BF%25C0%25B8%25AE%25C1%25F6%25B3%25AF_%25C7%25CF%25C0%25CC%25BA%25BC.jpg",
+            "menu_name": "짐빔 오리지날 하이볼",
+            "price": "8,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20231219_264%2F1702930252692ixB5R_JPEG%2F%25C0%25B0%25C8%25B8%25C4%25DC.jpg",
+            "menu_name": "육회콘",
+            "price": "9,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20231219_213%2F1702930275400WWajM_JPEG%2FKakaoTalk_20231219_050337751_09.jpg",
+            "menu_name": "소량명란",
+            "price": "6,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20231219_282%2F17029302891293sLEp_JPEG%2FKakaoTalk_20231219_050337751_10.jpg",
+            "menu_name": "우육탕",
+            "price": "6,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20231219_20%2F1702930312978zMJ7J_JPEG%2FKakaoTalk_20231219_050337751_11.jpg",
+            "menu_name": "명란우동",
+            "price": "6,500원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20231219_281%2F17029303427637dPLn_JPEG%2FKakaoTalk_20231219_050337751_12.jpg",
+            "menu_name": "뚝배기 카레우동",
+            "price": "6,500원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20231219_132%2F1702930360598uUNF2_JPEG%2FKakaoTalk_20231219_050337751_13.jpg",
+            "menu_name": "냉우동",
+            "price": "6,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20231219_150%2F17029303722956VyVA_JPEG%2FKakaoTalk_20231219_050337751_14.jpg",
+            "menu_name": "니꾸우동",
+            "price": "6,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20231219_79%2F1702930388336AETsp_JPEG%2FKakaoTalk_20231219_050337751_15.jpg",
+            "menu_name": "명란덮밥",
+            "price": "4,500원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20231219_182%2F1702930410317JwyW6_JPEG%2FKakaoTalk_20231219_050337751_16.jpg",
+            "menu_name": "온센타마고밥",
+            "price": "3,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20231219_12%2F1702930426624qpOtO_JPEG%2FKakaoTalk_20231219_050337751_17.jpg",
+            "menu_name": "뚝배기 카레밥",
+            "price": "6,500원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20231219_48%2F1702930440051jL3IV_JPEG%2FKakaoTalk_20231219_050337751_18.jpg",
+            "menu_name": "돼지목살",
+            "price": "6,100원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20231219_73%2F1702930453469blfG3_JPEG%2FKakaoTalk_20231219_050337751_19.jpg",
+            "menu_name": "우설",
+            "price": "9,800원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20231219_162%2F1702930472823mBpVk_JPEG%2FKakaoTalk_20231219_050337751_20.jpg",
+            "menu_name": "네기시오 우설(한정)",
+            "price": "9,800원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20231219_173%2F1702930489697weEXR_JPEG%2FKakaoTalk_20231219_050337751_21.jpg",
+            "menu_name": "특상우설(한정)",
+            "price": "13,800원"
+        }
+    ]
+}

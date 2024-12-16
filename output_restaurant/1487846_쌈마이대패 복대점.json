@@ -1,0 +1,224 @@
+{
+    "store_name": "쌈마이대패 복대점",
+    "store_location": "충북 청주시 흥덕구 죽천로 96-2 청주새마을금고 1층",
+    "loc_x": "238684.300673683",
+    "loc_y": "348582.206729893",
+    "menu": [
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240311_212%2F1710144371178nKYvT_JPEG%2F%25C1%25A1%25BD%25C9%25C6%25AF%25BC%25B1.JPG",
+            "menu_name": "⭐점심특선⭐우렁쌈밥대패정식",
+            "price": "12,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240311_41%2F1710149095504R239j_JPEG%2FKakaoTalk_20240311_181937042_03.jpg",
+            "menu_name": "⭐무제한⭐셀프바",
+            "price": "무료"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240311_237%2F1710147545444YSkxl_JPEG%2FKakaoTalk_20240311_175734205.jpg",
+            "menu_name": "일품 대패삼겹살 200g",
+            "price": "11,800원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240311_209%2F17101443791691DfYg_JPEG%2F%25B2%25C9%25B4%25EB%25C6%25D0.JPG",
+            "menu_name": "꽃대패삼겹살 200g",
+            "price": "13,800원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240620_148%2F1718868361516S9sAu_JPEG%2FKakaoTalk_20240620_151813325.jpg",
+            "menu_name": "생대패삼겹살 200g",
+            "price": "13,800원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240311_7%2F1710144387064GzPwg_JPEG%2F%25B5%25B7%25C2%25F7%25B5%25B9.JPG",
+            "menu_name": "국내산 돈차돌 200g",
+            "price": "13,800원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240416_59%2F1713225761616KlwaM_JPEG%2FKakaoTalk_20240415_213724644.jpg",
+            "menu_name": "국산 고급냉삼 200g",
+            "price": "13,800원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240416_197%2F1713225805096kGbNp_JPEG%2FKakaoTalk_20240415_213724644_03.jpg",
+            "menu_name": "항정살",
+            "price": "14,800원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241107_181%2F1730961439904tSQ1O_JPEG%2F1730088515672.jpg",
+            "menu_name": "모듬대패(600g)",
+            "price": "41,800원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241107_242%2F1730961499278L2gqm_JPEG%2F1730086586203.jpg",
+            "menu_name": "모듬생고기 (600g)",
+            "price": "44,800원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240311_272%2F17101473216916CAQI_JPEG%2FKakaoTalk_20240311_175421712.jpg",
+            "menu_name": "보성녹차 생삼겹살 150g",
+            "price": "12,900원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240311_110%2F17101473958855Gwmx_JPEG%2FKakaoTalk_20240311_175421712_06.jpg",
+            "menu_name": "보성녹차생목살(국내산140g)",
+            "price": "9,900원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240905_10%2F1725497248199fhkMX_JPEG%2FKakaoTalk_20240905_094031635.jpg",
+            "menu_name": "2인 대패볶음밥 세트",
+            "price": "32,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240905_109%2F1725508181463nN47H_JPEG%2FKakaoTalk_20240905_124848366.jpg",
+            "menu_name": "2인 대패껍데기세트",
+            "price": "32,100원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240905_250%2F1725497343806lNKcY_JPEG%2FKakaoTalk_20240905_094748704.jpg",
+            "menu_name": "2인 대패치즈세트",
+            "price": "32,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240311_98%2F17101475345843erzM_JPEG%2FKakaoTalk_20240311_175421712_02.jpg",
+            "menu_name": "정통 차돌박이 200g",
+            "price": "15,600원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240311_202%2F1710147479367TRvup_JPEG%2FKakaoTalk_20240311_175421712_02.jpg",
+            "menu_name": "우삼겹 대패 200g",
+            "price": "13,800원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240905_205%2F1725497419899LHiJi_JPEG%2FKakaoTalk_20240905_094748704_04.jpg",
+            "menu_name": "제육대패 200g",
+            "price": "14,800원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240905_104%2F1725497411554XclmQ_JPEG%2FKakaoTalk_20240905_094748704_05.jpg",
+            "menu_name": "소불고기 200g",
+            "price": "16,800원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241107_264%2F1730961555605EWGeA_JPEG%2F1727238506016.jpg",
+            "menu_name": "돼지감자찌개(2인이상)",
+            "price": "12,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241107_51%2F1730961821521L3X3N_JPEG%2F1729151864924.jpg",
+            "menu_name": "통영직판생굴 (200g)",
+            "price": "10,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240618_252%2F1718698382942FS7QF_JPEG%2F%25B2%25AE%25B5%25A5%25B1%25E2.jpg",
+            "menu_name": "껍데기",
+            "price": "6,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240311_72%2F17101473797083dqPQ_JPEG%2FKakaoTalk_20240311_175421712_07.jpg",
+            "menu_name": "씨앗우렁쌈장",
+            "price": "2,900원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240311_75%2F1710147373401dyjax_JPEG%2FKakaoTalk_20240311_175421712_05.jpg",
+            "menu_name": "된장찌개",
+            "price": "2,500원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240311_104%2F1710139330525SXCfq_JPEG%2F13._%25BB%25F5%25BF%25EC%25B0%25E8%25B6%25F5%25C2%25F2_3%252C900%25BF%25F8.jpg",
+            "menu_name": "새우계란찜",
+            "price": "3,900원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241107_21%2F173096161641141N1v_JPEG%2F1729152306910.jpg",
+            "menu_name": "바지락해물칼국수",
+            "price": "6,900원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241107_10%2F1730961761279Ea4XU_JPEG%2F1729151894379.jpg",
+            "menu_name": "해물순두부찌개",
+            "price": "7,900원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241107_13%2F17309622031115OFmr_JPEG%2F1729152308369.jpg",
+            "menu_name": "비빔국수",
+            "price": "7,900원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240618_142%2F1718698339437Njhvb_JPEG%2F%25B8%25B6%25BE%25E0%25BA%25BA%25C0%25BD%25B9%25E4.jpg",
+            "menu_name": "마약볶음밥",
+            "price": "5,900원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240311_103%2F1710147386909eeUHW_JPEG%2FKakaoTalk_20240311_175421712_08.jpg",
+            "menu_name": "구워먹는치즈",
+            "price": "5,900원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240618_26%2F171869835380396ARr_JPEG%2F%25B5%25C8%25C0%25E5%25BC%25FA%25B9%25E4.jpg",
+            "menu_name": "된장술밥",
+            "price": "4,900원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240618_117%2F1718698394547Ed8D0_JPEG%2F%25C2%25A5%25B0%25E8%25C4%25A1.jpg",
+            "menu_name": "짜계치",
+            "price": "4,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240311_143%2F1710139319823lIFHo_JPEG%2F14._%25C2%25F7%25B5%25B9%25B6%25F3%25B8%25E9_4%252C500%25BF%25F8.jpg",
+            "menu_name": "차돌라면",
+            "price": "4,500원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240311_194%2F1710147360696hbWwh_JPEG%2FKakaoTalk_20240311_175421712_04.jpg",
+            "menu_name": "물냉면",
+            "price": "5,500원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240311_169%2F1710144519859z4P4h_PNG%2FKakaoTalk_20240311_170027061_02.png",
+            "menu_name": "비빔냉면",
+            "price": "6,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240618_241%2F1718700715616Iqrjr_JPEG%2F%25C3%25DF%25BE%25EF%25C0%25C7%25B8%25DE%25B9%25D0%25C0%25FC%25BA%25B4.jpg",
+            "menu_name": "추억의메밀전병2ea",
+            "price": "5,000원"
+        }
+    ]
+}

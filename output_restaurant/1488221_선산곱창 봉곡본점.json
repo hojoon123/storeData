@@ -1,0 +1,38 @@
+{
+    "store_name": "선산곱창 봉곡본점",
+    "store_location": "경북 구미시 봉곡남로 86 이인영선산곱창 본점",
+    "loc_x": "317989.585991874",
+    "loc_y": "295058.263200668",
+    "menu": [
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20231128_30%2F1701181603931Tmv9U_PNG%2FIMG_1611.png",
+            "menu_name": "선산곱창",
+            "price": "9,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20231128_151%2F1701181587840hDg9B_JPEG%2FIMG_1596.jpeg",
+            "menu_name": "마늘철판곱창",
+            "price": "10,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240122_1%2F1705889000069LgSNi_JPEG%2FIMG_2267.jpeg",
+            "menu_name": "감돈",
+            "price": "12,900원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240122_236%2F17058890306496H6G9_JPEG%2FIMG_2268.jpeg",
+            "menu_name": "치즈감자",
+            "price": "7,900원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240122_266%2F1705889045673WXEtU_JPEG%2FIMG_2269.jpeg",
+            "menu_name": "후르츠황도",
+            "price": "5,900원"
+        }
+    ]
+}

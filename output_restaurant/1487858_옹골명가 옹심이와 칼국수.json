@@ -1,0 +1,92 @@
+{
+    "store_name": "옹골명가 옹심이와 칼국수",
+    "store_location": "충북 충주시 중원대로 3498 1층",
+    "loc_x": "281443.354031877",
+    "loc_y": "385782.18366908",
+    "menu": [
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240103_277%2F1704267503448ftNuR_PNG%2F%25BF%25CB%25BD%25C9%25C0%25CC_%25C4%25AE%25B1%25B9%25BC%25F6.png",
+            "menu_name": "옹심이 메밀 칼국수",
+            "price": "10,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240103_252%2F1704267450836lxYiA_PNG%2F%25BF%25CB%25BD%25C9%25C0%25CC%25B8%25B8.png",
+            "menu_name": "순옹심이(옹심이만)",
+            "price": "11,500원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240103_97%2F1704267549301sFdpN_PNG%2F%25B9%25D9%25C1%25F6%25B6%25F4.png",
+            "menu_name": "바지락 칼국수",
+            "price": "10,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240103_288%2F1704267632005K1TuH_PNG%2F%25B9%25D9%25C1%25F6%25B6%25F4_%25BF%25CB%25BD%25C9%25C0%25CC.png",
+            "menu_name": "옹심이 바지락 칼국수",
+            "price": "11,500원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240103_52%2F17042676970106IQc9_PNG%2F%25C2%25DE%25B2%25D9%25B9%25CC_%25BA%25BA%25C0%25BD.png",
+            "menu_name": "쭈꾸미 볶음(보통/매운맛)",
+            "price": "12,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240501_108%2F1714548752320QEAo6_JPEG%2FKakaoTalk_20240501_162757431.jpg",
+            "menu_name": "물,비빔 막국수(계절메뉴 6-10월",
+            "price": "9,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240501_154%2F1714548779523ifafq_JPEG%2FKakaoTalk_20240501_162757431.jpg",
+            "menu_name": "명태회 비빔 막국수",
+            "price": "11,000원"
+        },
+        {
+            "category": "",
+            "img_src": "",
+            "menu_name": "막국수 곱배기",
+            "price": "1,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240103_232%2F1704267734772TGSpN_PNG%2F%25B8%25DE%25B9%25D0_%25BF%25D5%25B8%25B8%25B5%25CE.png",
+            "menu_name": "메밀 왕만두",
+            "price": "8,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240103_24%2F1704267749884wgmK6_PNG%2F%25B8%25DE%25B9%25D0%25C0%25FC%25BA%25B4.png",
+            "menu_name": "메밀 전병 2개",
+            "price": "6,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240103_130%2F1704267763476Mv5VU_PNG%2F%25B9%25CC%25B4%25CF%25C1%25B7%25B9%25DF.png",
+            "menu_name": "미니 족발",
+            "price": "12,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240103_297%2F1704267799802Q3zHU_PNG%2F%25BD%25BA%25C5%25A9%25B8%25B0%25BC%25A6_2024-01-03_163520.png",
+            "menu_name": "후라이드 치킨 반마리",
+            "price": "10,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240103_277%2F1704267824061AaCVo_PNG%2F%25C8%25C4%25B6%25F3%25C0%25CC%25B5%25E5_%25C4%25A1%25C5%25B2.png",
+            "menu_name": "후라이드 치킨 한마리",
+            "price": "18,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240103_262%2F17042678484224dBvz_PNG%2F%25BE%25EE%25B8%25B0%25C0%25CC_%25B5%25B7%25B1%25EE%25BB%25E7%25A4%25D1.png",
+            "menu_name": "어린이 돈까스",
+            "price": "5,000원"
+        }
+    ]
+}

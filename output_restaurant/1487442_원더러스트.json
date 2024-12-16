@@ -1,0 +1,164 @@
+{
+    "store_name": "원더러스트",
+    "store_location": "충북 청주시 청원구 직지대로890번길 37 1층 101호",
+    "loc_x": "243610.850968196",
+    "loc_y": "349929.715249664",
+    "menu": [
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241214_255%2F1734139698663gaize_JPEG%2FKakaoTalk_20241214_101553735.jpg",
+            "menu_name": "콘마요빵",
+            "price": "3,500원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241213_223%2F1734081132796od7Jf_JPEG%2FKakaoTalk_20241213_180931453.jpg",
+            "menu_name": "갈릭 바게트",
+            "price": "4,500원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241213_221%2F173407847194011sUI_JPEG%2FKakaoTalk_20241213_170820238_01.jpg",
+            "menu_name": "검은 대추 생강차",
+            "price": "5,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241213_107%2F1734078521184pol7h_JPEG%2FKakaoTalk_20241213_095522737_01.jpg",
+            "menu_name": "논알콜 레드 뱅쇼",
+            "price": "5,500원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241213_272%2F1734078532480sc0FD_JPEG%2FKakaoTalk_20241213_095522737.jpg",
+            "menu_name": "레드 에이드",
+            "price": "5,500원"
+        },
+        {
+            "category": "",
+            "img_src": "",
+            "menu_name": "캐모마일",
+            "price": "4,500원"
+        },
+        {
+            "category": "",
+            "img_src": "",
+            "menu_name": "복숭아 아이스티",
+            "price": "4,000원"
+        },
+        {
+            "category": "",
+            "img_src": "",
+            "menu_name": "아샷추",
+            "price": "4,500원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241213_50%2F1734078555089SfB3r_JPEG%2F_MG_7340.jpg",
+            "menu_name": "아마레티",
+            "price": "1,500원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241213_268%2F1734078568110dWalx_JPEG%2F_MG_7336.jpg",
+            "menu_name": "갈레트브루통",
+            "price": "2,500원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241213_68%2F1734078578097m4S0k_JPEG%2F_MG_7313.jpg",
+            "menu_name": "피스타치오 휘낭시에",
+            "price": "2,800원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241213_211%2F173407860674361tm8_JPEG%2F_MG_7325.jpg",
+            "menu_name": "얼그레이 휘낭시에",
+            "price": "2,800원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241213_273%2F17340786170527FVDG_JPEG%2F_MG_7307.jpg",
+            "menu_name": "플레인 휘낭시에",
+            "price": "2,500원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241213_194%2F1734078641860Wbw9K_JPEG%2F_MG_7182.jpg",
+            "menu_name": "블랙 라떼",
+            "price": "6,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241213_215%2F1734078671939xsmmB_JPEG%2F_MG_7278.jpg",
+            "menu_name": "페퍼민트",
+            "price": "4,500원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241213_196%2F1734078701022rCvbm_JPEG%2F_MG_7303.jpg",
+            "menu_name": "자몽허니블랙티",
+            "price": "5,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241213_137%2F1734078717861tqQYM_JPEG%2F_MG_7286.jpg",
+            "menu_name": "허니얼그레이레몬티",
+            "price": "5,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241213_266%2F1734078726150bdF9N_JPEG%2F_MG_7260.jpg",
+            "menu_name": "청포도 에이드",
+            "price": "5,500원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241213_8%2F1734078740185PtjFV_JPEG%2F_MG_7248.jpg",
+            "menu_name": "레몬에이드",
+            "price": "5,500원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241213_243%2F1734078752880SfA8x_JPEG%2F_MG_7227.jpg",
+            "menu_name": "자몽에이드",
+            "price": "5,500원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241213_33%2F1734078785591JkcsC_JPEG%2F_MG_7207.jpg",
+            "menu_name": "말차크림라떼",
+            "price": "5,500원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241213_104%2F1734078804688Mw0iX_JPEG%2F_MG_7170.jpg",
+            "menu_name": "아인슈페너",
+            "price": "5,500원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241213_80%2F1734078813327YLfvs_JPEG%2F_MG_7131.jpg",
+            "menu_name": "헤이즐넛 라떼",
+            "price": "5,500원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241213_111%2F1734078822260udpX2_JPEG%2F_MG_7131.jpg",
+            "menu_name": "카페 라떼",
+            "price": "5,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241213_290%2F1734078842988NtOjw_JPEG%2F_MG_7153.jpg",
+            "menu_name": "콜드브루",
+            "price": "5,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241213_236%2F1734078855169NrmNU_JPEG%2F_MG_7149.jpg",
+            "menu_name": "아메리카노",
+            "price": "4,500원"
+        }
+    ]
+}

@@ -1,0 +1,14 @@
+{
+    "store_name": "그리드인그릭 호매실점",
+    "store_location": "경기 수원시 권선구 금곡로118번길 24 리치빌딩 1층 112호",
+    "loc_x": "194867.00339976",
+    "loc_y": "419022.124744148",
+    "menu": [
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241202_287%2F17331323028439q0lV_JPEG%2FIMG_0035.jpeg",
+            "menu_name": "그릭요거트볼",
+            "price": "변동"
+        }
+    ]
+}

@@ -1,0 +1,14 @@
+{
+    "store_name": "우람한족발",
+    "store_location": "경기 김포시 김포한강9로75번길 142 태림더끌리움1차 115호",
+    "loc_x": "166610.484966631",
+    "loc_y": "460320.724466408",
+    "menu": [
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241008_11%2F1728370544683mMOe0_JPEG%2F1728370529450.jpg",
+            "menu_name": "족발소",
+            "price": "36,000원"
+        }
+    ]
+}

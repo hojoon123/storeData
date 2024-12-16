@@ -1,0 +1,98 @@
+{
+    "store_name": "평화로운집 광주용봉점",
+    "store_location": "광주 북구 용봉택지로 86 1층",
+    "loc_x": "190452.103966406",
+    "loc_y": "186558.117910968",
+    "menu": [
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241209_48%2F1733711342447L1Ygw_JPEG%2F1_%25B9%25E6%25BE%25EE%25C8%25B8.jpg",
+            "menu_name": "방어회",
+            "price": "45,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241209_176%2F1733711319743732WG_JPEG%2F2_%25BC%25AE%25C8%25AD%25C8%25B8%252C%25BC%25AE%25C8%25AD%25C2%25F2.jpg",
+            "menu_name": "석화회·석화찜",
+            "price": "28,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241209_251%2F1733711381526TJ8aY_JPEG%2F5_%25B1%25BC_%25C6%25A2%25B1%25E8.jpg",
+            "menu_name": "굴튀김",
+            "price": "16,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241209_107%2F1733711287727QVXxT_JPEG%2F6_%25C7%25D8%25BB%25EA%25B9%25B0_%25B8%25F0%25B5%25D2.JPG",
+            "menu_name": "해산물모듬",
+            "price": "37,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241209_205%2F1733711269003xMwtd_JPEG%2F3_1%25C0%25CE_%25B9%25E6%25BE%25EE%25C8%25B8.jpg",
+            "menu_name": "1인 방어회",
+            "price": "25,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241209_266%2F17337112514311Gptw_JPEG%2F4_1%25C0%25CE_%25BC%25AE%25C8%25AD%25C8%25B8%252C%25BC%25AE%25C8%25AD%25C2%25F2.jpg",
+            "menu_name": "1인 석화회·석화찜",
+            "price": "15,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241209_39%2F1733711224948uEQEi_JPEG%2F7_%25BF%25AC%25BE%25EE_%252B_1%25C0%25CE%25B1%25A4%25BE%25EE_SET.JPG",
+            "menu_name": "연어 + 1인광어 SET",
+            "price": "35,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241209_244%2F173371120832916T7z_JPEG%2F8_1%25C0%25CE%25B1%25A4%25BE%25EE%25C8%25B8.JPG",
+            "menu_name": "1인 광어회",
+            "price": "14,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241209_122%2F1733711192142FegYS_JPEG%2F9_%25B0%25A1%25B8%25AE%25BA%25F1%25B0%25FC%25C0%25DA%25B9%25F6%25C5%25CD%25B1%25B8%25C0%25CC.jpg",
+            "menu_name": "가리비 관자 버터구이",
+            "price": "28,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241209_50%2F1733711175405mgP6B_JPEG%2F10_%25C5%25B0%25C1%25B6%25B0%25B3%25B0%25FC%25C0%25DA%25B9%25F6%25C5%25CD%25B1%25B8%25C0%25CC.JPG",
+            "menu_name": "키조개 관자 버터구이",
+            "price": "28,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241209_128%2F17337111577736KBlg_JPEG%2F11_%25B3%25AB%25C1%25F6_%25BF%25AC%25C6%25F7%25C5%25C1.jpg",
+            "menu_name": "낙지 연포탕",
+            "price": "28,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241209_29%2F1733711143301s33dw_JPEG%2F12_%25B2%25C9%25B0%25D4_%25BE%25CB%25C5%25C1.JPG",
+            "menu_name": "꽃게알탕",
+            "price": "24,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241209_14%2F1733711119595PDKV7_JPEG%2F13_%25BC%25D2%25B0%25ED%25B1%25E2%25BD%25BA%25C5%25B0%25BE%25DF%25B3%25A2.JPG",
+            "menu_name": "소고기 스키야끼",
+            "price": "22,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241209_216%2F17337111001726f9jd_JPEG%2F14_%25B2%25C9%25B0%25D4_%25BE%25EE%25B9%25AC%25C5%25C1.jpeg",
+            "menu_name": "꽃게어묵탕",
+            "price": "24,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241209_172%2F1733711081790dOlcT_JPEG%2F15_%25B4%25DC%25BB%25F5%25BF%25EC%25C8%25B8.JPG",
+            "menu_name": "단새우회",
+            "price": "25,000원"
+        }
+    ]
+}

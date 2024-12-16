@@ -1,0 +1,122 @@
+{
+    "store_name": "오마카세 오사이초밥 부평점",
+    "store_location": "인천 부평구 부평문화로 69-1 2층",
+    "loc_x": "175522.300183236",
+    "loc_y": "443592.510902918",
+    "menu": [
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241213_232%2F17340563240929MyfI_JPEG%2F1000046996.jpg",
+            "menu_name": "◀LUNCH▶오마카세",
+            "price": "19,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241211_277%2F1733909913785cPlUE_JPEG%2FDSC00593.jpg",
+            "menu_name": "◀DINNER▶오마카세",
+            "price": "29,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241211_103%2F1733910863745uGTXH_JPEG%2FDSC00374.jpg",
+            "menu_name": "도미 머리구이",
+            "price": "9,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241211_41%2F1733910869907LrHhU_JPEG%2FDSC00371.jpg",
+            "menu_name": "연어 머리구이",
+            "price": "7,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241211_91%2F1733911049656nWKMH_JPEG%2FDSC00341.jpg",
+            "menu_name": "우니(성게알)",
+            "price": "6,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241211_230%2F17339113707323Yx0r_JPEG%2FDSC00377.jpg",
+            "menu_name": "새위튀김 (2PCS)",
+            "price": "3,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241211_88%2F173391127270618WjV_JPEG%2FDSC00344.jpg",
+            "menu_name": "오도로(참치 대뱃살)",
+            "price": "6,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241211_143%2F17339112522561Qk0w_JPEG%2FDSC00881.jpg",
+            "menu_name": "엔가와(광어지느러미)",
+            "price": "3,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241211_80%2F1733911077902PQPzy_JPEG%2FDSC00340.jpg",
+            "menu_name": "민물장어",
+            "price": "3,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241211_210%2F1733911296302iqgi3_JPEG%2FDSC00346.jpg",
+            "menu_name": "농어초밥",
+            "price": "2,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241211_180%2F1733911001909RAucr_JPEG%2FDSC00335.jpg",
+            "menu_name": "타코와사비 군함",
+            "price": "2,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241211_200%2F1733910965960tYPes_JPEG%2FDSC00330.jpg",
+            "menu_name": "고등어초밥",
+            "price": "2,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241211_242%2F1733910953439whYdw_JPEG%2FDSC00327.jpg",
+            "menu_name": "가지초밥",
+            "price": "2,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241211_132%2F1733910940964cG5Cp_JPEG%2FDSC00324.jpg",
+            "menu_name": "참치스테이크",
+            "price": "2,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241211_190%2F1733910927502RUvoK_JPEG%2FDSC00323.jpg",
+            "menu_name": "간장새우",
+            "price": "2,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241211_23%2F1733910915478ljGSG_JPEG%2FDSC00321.jpg",
+            "menu_name": "구운 한치",
+            "price": "2,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241211_165%2F1733910900039t4K14_JPEG%2FDSC00319.jpg",
+            "menu_name": "눈다랑어 속살",
+            "price": "2,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241211_63%2F1733910884519FaJGs_JPEG%2FDSC00317.jpg",
+            "menu_name": "연어",
+            "price": "2,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241211_180%2F1733910839636Dyi52_JPEG%2FDSC00315.jpg",
+            "menu_name": "광어",
+            "price": "2,000원"
+        }
+    ]
+}

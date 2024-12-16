@@ -1,0 +1,62 @@
+{
+    "store_name": "양평교자칼국수",
+    "store_location": "경기 양평군 양평읍 마유산로 126-1 1층",
+    "loc_x": "243703.299513049",
+    "loc_y": "444643.815718729",
+    "menu": [
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241010_111%2F1728548451246NFla5_JPEG%2FIMG_7837.jpeg",
+            "menu_name": "닭칼국수",
+            "price": "8,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240213_192%2F17077990035987lePD_JPEG%2FIMG_5448.jpeg",
+            "menu_name": "멸치칼국수",
+            "price": "8,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240427_198%2F1714186551463Dj7wn_JPEG%2FIMG_9548.jpeg",
+            "menu_name": "닭칼만두",
+            "price": "10,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240213_118%2F1707799054174ejKaR_JPEG%2FIMG_5441.jpeg",
+            "menu_name": "멸치칼만두",
+            "price": "10,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240309_74%2F1709939070585nEQFR_JPEG%2FIMG_7030.jpeg",
+            "menu_name": "비빔칼국수",
+            "price": "10,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240429_76%2F1714316510860o9a2Q_JPEG%2FIMG_9562.jpeg",
+            "menu_name": "냉모밀",
+            "price": "10,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240814_93%2F1723637510628HovvJ_JPEG%2FIMG_5573.jpeg",
+            "menu_name": "수제돈까스",
+            "price": "11,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240224_78%2F17087680735500qJMo_JPEG%2FIMG_6007.jpeg",
+            "menu_name": "수육 미니",
+            "price": "13,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240224_26%2F1708768107641Wduvy_JPEG%2FIMG_5984.jpeg",
+            "menu_name": "수육 중",
+            "price": "28,000원"
+        }
+    ]
+}

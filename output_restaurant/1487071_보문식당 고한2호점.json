@@ -1,0 +1,32 @@
+{
+    "store_name": "보문식당 고한2호점",
+    "store_location": "강원 정선군 고한읍 함백산로 1673 1층",
+    "loc_x": "365800.837765207",
+    "loc_y": "411881.050083291",
+    "menu": [
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241204_267%2F1733291349812K7kp0_JPEG%2F%25BC%25F8%25B4%25EB%25B1%25B9%25B9%25E4%252B%25BF%25EC%25B0%25C5%25C1%25F6%25B1%25B9%25B9%25E4_%25286%2529.JPG",
+            "menu_name": "순대국밥[국내산]",
+            "price": "11,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241204_195%2F1733291303471vrQxq_JPEG%2F%25BC%25D2%25B8%25D3%25B8%25AE.JPG",
+            "menu_name": "소머리국밥[국내산]",
+            "price": "13,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241204_201%2F17332913315998MYmo_JPEG%2F%25BC%25F8%25B4%25EB%25B1%25B9%25B9%25E4%252B%25BF%25EC%25B0%25C5%25C1%25F6%25B1%25B9%25B9%25E4_%252842%2529.JPG",
+            "menu_name": "우거지국밥[국내산 한우]",
+            "price": "13,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241204_143%2F1733291287578vhxCR_JPEG%2F%25B6%25D2%25B9%25E8%25B1%25E2%25BA%25D2%25B0%25ED%25B1%25E2.JPG",
+            "menu_name": "뚝배기불고기",
+            "price": "15,000원"
+        }
+    ]
+}

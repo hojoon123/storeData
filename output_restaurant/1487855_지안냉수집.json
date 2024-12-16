@@ -1,0 +1,44 @@
+{
+    "store_name": "지안냉수집",
+    "store_location": "충남 아산시 번영로224번길 35 1층 지안냉수집",
+    "loc_x": "201255.472270869",
+    "loc_y": "364418.567330127",
+    "menu": [
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20231214_161%2F1702533416847HWN02_JPEG%2F1702533358617.jpg",
+            "menu_name": "냉동삼겹살",
+            "price": "10,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240708_221%2F1720411855671WIfKd_JPEG%2F1000007326.jpg",
+            "menu_name": "노가리",
+            "price": "15,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240708_180%2F17204119482781MCK6_JPEG%2F1000007260.jpg",
+            "menu_name": "물ㆍ비냉",
+            "price": "8,000원"
+        },
+        {
+            "category": "",
+            "img_src": "",
+            "menu_name": "라면",
+            "price": "4,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20231208_197%2F1702043256343y5NrC_JPEG%2F1000001854.jpg",
+            "menu_name": "계란찜",
+            "price": "4,000원"
+        },
+        {
+            "category": "",
+            "img_src": "",
+            "menu_name": "밥",
+            "price": "1,000원"
+        }
+    ]
+}

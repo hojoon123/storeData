@@ -1,0 +1,14 @@
+{
+    "store_name": "봄봄애케이크",
+    "store_location": "인천 계양구 임학서로27번길 9 101호",
+    "loc_x": "176205.177083425",
+    "loc_y": "449247.064489938",
+    "menu": [
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20231222_221%2F17032274395615673L_JPEG%2F20231222_154320.jpg",
+            "menu_name": "커피",
+            "price": "변동"
+        }
+    ]
+}

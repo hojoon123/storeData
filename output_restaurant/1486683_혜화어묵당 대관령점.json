@@ -1,0 +1,176 @@
+{
+    "store_name": "혜화어묵당 대관령점",
+    "store_location": "강원 평창군 대관령면 눈마을길 39 2층",
+    "loc_x": "350766.668321255",
+    "loc_y": "464633.352524967",
+    "menu": [
+        {
+            "category": "대표메뉴",
+            "img_src": "",
+            "menu_name": "매일 손질하는 국내산 육회(200g)",
+            "price": "20,900원"
+        },
+        {
+            "category": "대표메뉴",
+            "img_src": "",
+            "menu_name": "문어숙회",
+            "price": "20,900원"
+        },
+        {
+            "category": "대표메뉴",
+            "img_src": "",
+            "menu_name": "육사시미",
+            "price": "30,900원"
+        },
+        {
+            "category": "배달비 추가지역",
+            "img_src": "",
+            "menu_name": "배달비 추가지역(용평)",
+            "price": "3,000원"
+        },
+        {
+            "category": "배달비 추가지역",
+            "img_src": "",
+            "menu_name": "배달비 추가지역(알펜시아)",
+            "price": "3,000원"
+        },
+        {
+            "category": "배달비 추가지역",
+            "img_src": "",
+            "menu_name": "배달비 추가지역(아이원)",
+            "price": "3,000원"
+        },
+        {
+            "category": "배달비 추가지역",
+            "img_src": "",
+            "menu_name": "배달비 추가지역(데이즈힐)",
+            "price": "3,000원"
+        },
+        {
+            "category": "배달비 추가지역",
+            "img_src": "",
+            "menu_name": "배달비 추가지역(현대엘리엇)",
+            "price": "3,000원"
+        },
+        {
+            "category": "배달비 추가지역",
+            "img_src": "",
+            "menu_name": "배달비 추가지역(차항리)",
+            "price": "2,000원"
+        },
+        {
+            "category": "배달비 추가지역",
+            "img_src": "",
+            "menu_name": "배달비 추가지역(유덕아파트)",
+            "price": "2,000원"
+        },
+        {
+            "category": "세트메뉴",
+            "img_src": "",
+            "menu_name": "스페셜세트(오뎅비조리)",
+            "price": "43,800원"
+        },
+        {
+            "category": "세트메뉴",
+            "img_src": "",
+            "menu_name": "베스트세트(오뎅비조리)",
+            "price": "36,800원"
+        },
+        {
+            "category": "세트메뉴",
+            "img_src": "",
+            "menu_name": "어묵당세트(오뎅비조리)",
+            "price": "36,800원"
+        },
+        {
+            "category": "세트메뉴",
+            "img_src": "",
+            "menu_name": "수제어묵 꼬치세트+육수(비조리)",
+            "price": "19,900원"
+        },
+        {
+            "category": "세트메뉴",
+            "img_src": "",
+            "menu_name": "육회단품+꼬막비빔밥",
+            "price": "30,900원"
+        },
+        {
+            "category": "식사&비빔밥",
+            "img_src": "",
+            "menu_name": "벌교 새꼬막비빔밥",
+            "price": "11,000원"
+        },
+        {
+            "category": "식사&비빔밥",
+            "img_src": "",
+            "menu_name": "육회비빔밥",
+            "price": "11,000원"
+        },
+        {
+            "category": "단일메뉴",
+            "img_src": "",
+            "menu_name": "매일 손질하는 국내산 육회(200g)",
+            "price": "20,900원"
+        },
+        {
+            "category": "단일메뉴",
+            "img_src": "",
+            "menu_name": "육회(1+1)(400g)",
+            "price": "40,800원"
+        },
+        {
+            "category": "단일메뉴",
+            "img_src": "",
+            "menu_name": "육사시미",
+            "price": "30,900원"
+        },
+        {
+            "category": "단일메뉴",
+            "img_src": "",
+            "menu_name": "문어숙회",
+            "price": "20,900원"
+        },
+        {
+            "category": "단일메뉴",
+            "img_src": "",
+            "menu_name": "꼬막무침",
+            "price": "21,000원"
+        },
+        {
+            "category": "단일메뉴",
+            "img_src": "",
+            "menu_name": "떡갈비",
+            "price": "11,000원"
+        },
+        {
+            "category": "음료수",
+            "img_src": "",
+            "menu_name": "코카콜라(뚱캔)",
+            "price": "2,000원"
+        },
+        {
+            "category": "음료수",
+            "img_src": "",
+            "menu_name": "칠성사이다(뚱캔)",
+            "price": "2,000원"
+        },
+        {
+            "category": "음료수",
+            "img_src": "",
+            "menu_name": "갈아만든 배(뚱캔)",
+            "price": "2,000원"
+        },
+        {
+            "category": "음료수",
+            "img_src": "",
+            "menu_name": "토닉워터(300ml)",
+            "price": "2,000원"
+        },
+        {
+            "category": "음료수",
+            "img_src": "",
+            "menu_name": "제로코카콜라 뚱캔",
+            "price": "2,000원"
+        }
+    ]
+}

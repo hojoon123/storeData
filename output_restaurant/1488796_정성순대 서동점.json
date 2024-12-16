@@ -1,0 +1,128 @@
+{
+    "store_name": "정성순대 서동점",
+    "store_location": "울산 중구 북부순환도로 850 1층",
+    "loc_x": "412363.546254935",
+    "loc_y": "233654.606210394",
+    "menu": [
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20231213_176%2F1702433139210zyVUV_JPEG%2F02_%25C7%25D1%25BF%25EC%25B0%25F6%25C3%25A2%25BC%25F8%25B4%25EB%25C0%25FC%25B0%25F1.jpg",
+            "menu_name": "한우곱창순대전골",
+            "price": "18,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20231213_88%2F1702433112017Mzn0u_JPEG%2F03_%25B8%25F0%25B5%25EB%25B9%25F6%25BC%25B8%25BC%25F8%25B4%25EB%25C0%25FC%25B0%25F1.jpg",
+            "menu_name": "모듬버섯순대전골",
+            "price": "16,500원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20231213_12%2F1702433063436m3HDD_JPEG%2F05_%25BE%25F3%25C5%25AB%25BB%25E7%25B0%25F1%25BC%25F8%25B4%25EB%25B1%25B9.jpg",
+            "menu_name": "얼큰사골순대국(특)",
+            "price": "12,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20231213_195%2F1702433096374PFVOu_JPEG%2F04_%25BC%25D2%25B0%25ED%25B1%25E2%25BC%25F8%25B4%25EB%25C0%25FC%25B0%25F1.jpg",
+            "menu_name": "소고기순대전골",
+            "price": "14,500원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20231213_263%2F1702433081041U9XIK_JPEG%2F05_%25BE%25F3%25C5%25AB%25BB%25E7%25B0%25F1%25BC%25F8%25B4%25EB%25B1%25B9.jpg",
+            "menu_name": "얼큰사골순대국",
+            "price": "10,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20231213_50%2F1702433049274sjjrT_JPEG%2F06_%25C1%25F8%25BB%25E7%25B0%25F1%25BC%25F8%25B4%25EB%25B1%25B9.jpg",
+            "menu_name": "진사골순대국",
+            "price": "9,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20231213_95%2F1702433035070XMQti_JPEG%2F06_%25C1%25F8%25BB%25E7%25B0%25F1%25BC%25F8%25B4%25EB%25B1%25B9.jpg",
+            "menu_name": "진사골순대국(특)",
+            "price": "11,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20231213_185%2F1702433021523JOQUv_JPEG%2F05_%25BE%25F3%25C5%25AB%25BB%25E7%25B0%25F1%25BC%25F8%25B4%25EB%25B1%25B9.jpg",
+            "menu_name": "매운사골수제순대국",
+            "price": "11,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20231213_199%2F17024330083447EKsB_JPEG%2F05_%25BE%25F3%25C5%25AB%25BB%25E7%25B0%25F1%25BC%25F8%25B4%25EB%25B1%25B9.jpg",
+            "menu_name": "매운사골수제순대국(특)",
+            "price": "13,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20231213_262%2F1702432856672b9ofO_JPEG%2F07_%25BB%25EF%25B0%25E3%25B5%25C5%25C1%25F6%25B1%25B9%25B9%25E4.jpg",
+            "menu_name": "삼겹돼지국밥",
+            "price": "9,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20231213_253%2F1702432834065Ayqtl_JPEG%2F07_%25BB%25EF%25B0%25E3%25B5%25C5%25C1%25F6%25B1%25B9%25B9%25E4.jpg",
+            "menu_name": "얼큰삼겹돼지국밥",
+            "price": "10,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20231213_60%2F1702432814405g2Gke_JPEG%2F09_%25B8%25F0%25B5%25EB%25BC%25F8%25B4%25EB.jpg",
+            "menu_name": "모듬순대(소)",
+            "price": "9,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20231213_4%2F1702432783099l0DD0_JPEG%2F09_%25B8%25F0%25B5%25EB%25BC%25F8%25B4%25EB.jpg",
+            "menu_name": "모듬순대(대)",
+            "price": "16,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20231213_264%2F17024327395315Ylt9_JPEG%2F08_%25BC%25F6%25C1%25A6%25C6%25ED%25C0%25B0.jpg",
+            "menu_name": "전통수제편육(소)",
+            "price": "9,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20231213_116%2F1702432726508KRLom_JPEG%2F08_%25BC%25F6%25C1%25A6%25C6%25ED%25C0%25B0.jpg",
+            "menu_name": "전통수제편육(대)",
+            "price": "16,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20231213_76%2F17024327082437CXSh_JPEG%2F10_%25B4%25EB%25B3%25AA%25B9%25AB%25C5%25EB%25BC%25F6%25C0%25B0.jpg",
+            "menu_name": "대나무통수육(소)",
+            "price": "10,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20231213_219%2F1702432683015w3Fmq_JPEG%2F10_%25B4%25EB%25B3%25AA%25B9%25AB%25C5%25EB%25BC%25F6%25C0%25B0.jpg",
+            "menu_name": "대나무통수육(대)",
+            "price": "23,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20231213_114%2F1702432668157c7C4e_JPEG%2F11_%25C1%25D6%25B8%25D4%25B9%25E4.jpg",
+            "menu_name": "소고기주먹밥",
+            "price": "6,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20231213_119%2F1702432652045AIxyM_JPEG%2F11_%25C1%25D6%25B8%25D4%25B9%25E4.jpg",
+            "menu_name": "날치알주먹밥",
+            "price": "6,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20231213_30%2F17024326374256mTG6_JPEG%2F%25BB%25E7%25B8%25AE_%25BE%25DF%25C3%25A4%25C1%25A6%25B0%25C5.jpg",
+            "menu_name": "각종사리",
+            "price": "2,000원"
+        }
+    ]
+}

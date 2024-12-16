@@ -1,0 +1,92 @@
+{
+    "store_name": "카나우타코야끼",
+    "store_location": "충북 충주시 갱고개로 140 1층 카나우타코야끼",
+    "loc_x": "283609.153753741",
+    "loc_y": "387276.517044373",
+    "menu": [
+        {
+            "category": "대표메뉴",
+            "img_src": "",
+            "menu_name": "떡볶이",
+            "price": "4,000원"
+        },
+        {
+            "category": "대표메뉴",
+            "img_src": "",
+            "menu_name": "타코야끼(10알)",
+            "price": "6,000원"
+        },
+        {
+            "category": "대표메뉴",
+            "img_src": "",
+            "menu_name": "타코야끼(20알)",
+            "price": "12,000원"
+        },
+        {
+            "category": "대표메뉴",
+            "img_src": "",
+            "menu_name": "어묵(4개)",
+            "price": "3,000원"
+        },
+        {
+            "category": "대표메뉴",
+            "img_src": "",
+            "menu_name": "붕어빵(8개)",
+            "price": "6,000원"
+        },
+        {
+            "category": "메뉴",
+            "img_src": "",
+            "menu_name": "타코야끼(10알)",
+            "price": "6,000원"
+        },
+        {
+            "category": "메뉴",
+            "img_src": "",
+            "menu_name": "타코야끼(20알)",
+            "price": "12,000원"
+        },
+        {
+            "category": "메뉴",
+            "img_src": "",
+            "menu_name": "붕어빵(8개)",
+            "price": "6,000원"
+        },
+        {
+            "category": "메뉴",
+            "img_src": "",
+            "menu_name": "어묵(4개)",
+            "price": "3,000원"
+        },
+        {
+            "category": "메뉴",
+            "img_src": "",
+            "menu_name": "떡볶이",
+            "price": "4,000원"
+        },
+        {
+            "category": "음료",
+            "img_src": "",
+            "menu_name": "코카콜라(355ml)",
+            "price": "2,000원"
+        },
+        {
+            "category": "음료",
+            "img_src": "",
+            "menu_name": "코카콜라제로(355ml)",
+            "price": "2,000원"
+        },
+        {
+            "category": "음료",
+            "img_src": "",
+            "menu_name": "환타파인(355ml)",
+            "price": "2,000원"
+        },
+        {
+            "category": "음료",
+            "img_src": "",
+            "menu_name": "스프라이트(355ml)",
+            "price": "2,000원"
+        }
+    ]
+}

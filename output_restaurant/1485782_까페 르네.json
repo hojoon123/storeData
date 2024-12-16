@@ -1,0 +1,14 @@
+{
+    "store_name": "까페 르네",
+    "store_location": "경기 의정부시 오목로 196 제일풍경채 센텀 1층111호",
+    "loc_x": "208627.776413231",
+    "loc_y": "471251.468626339",
+    "menu": [
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241130_130%2F1732954936833R6YsU_JPEG%2F1732954918340.jpg",
+            "menu_name": "핸드드립",
+            "price": "변동"
+        }
+    ]
+}

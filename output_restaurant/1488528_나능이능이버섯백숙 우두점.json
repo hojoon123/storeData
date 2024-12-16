@@ -1,0 +1,38 @@
+{
+    "store_name": "나능이능이버섯백숙 우두점",
+    "store_location": "강원 춘천시 우두로 147 1층",
+    "loc_x": "264907.66113194",
+    "loc_y": "490314.077015574",
+    "menu": [
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20231208_140%2F1702017087967PGjYk_JPEG%2F1000008797.jpg",
+            "menu_name": "능이 오리백숙",
+            "price": "70,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20231208_119%2F1702017120712VmHq5_JPEG%2F1000008797.jpg",
+            "menu_name": "능이 닭백숙",
+            "price": "70,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20231208_50%2F1702017254105hQ47e_JPEG%2F1000008796.jpg",
+            "menu_name": "능이 닭 볶음탕",
+            "price": "60,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20231208_122%2F1702017220649IXox0_JPEG%2F1000008803.jpg",
+            "menu_name": "능이 삼계탕",
+            "price": "15,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20231208_52%2F17020172903782n48p_JPEG%2F1000008795.jpg",
+            "menu_name": "오리 떡갈비",
+            "price": "20,000원"
+        }
+    ]
+}

@@ -1,0 +1,80 @@
+{
+    "store_name": "오니네 닭,꼬치,막창",
+    "store_location": "부산 기장군 정관읍 구연4로 20 104호",
+    "loc_x": "398200.010858164",
+    "loc_y": "204671.95943725",
+    "menu": [
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241215_48%2F1734191095962Bl9TQ_JPEG%2FKakaoTalk_20241214_120616619.jpg",
+            "menu_name": "섞어 (막창+닭) 양념/소금/반반",
+            "price": "29,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241215_111%2F1734191123276jE8R9_JPEG%2FKakaoTalk_20241213_202554225_02.jpg",
+            "menu_name": "닭 구이 양념/소금/반반",
+            "price": "24,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241202_191%2F1733139983086iN211_JPEG%2F%25B4%25D9%25BF%25EE%25B7%25CE%25B5%25E5.jpg",
+            "menu_name": "막창 구이 양념/소금/반반",
+            "price": "32,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241215_168%2F1734191449012EcwQm_JPEG%2F%25B4%25D9%25BF%25EE%25B7%25CE%25B5%25E5_%25282%2529.jpg",
+            "menu_name": "닭 똥집구이",
+            "price": "12,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241215_23%2F1734191363906KGf0p_JPEG%2FKakaoTalk_20241214_120616619_03.jpg",
+            "menu_name": "닭 목살구이 (소금/양념)",
+            "price": "12,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241215_38%2F17341913061278IM6L_JPEG%2F20231015%25A3%25DF174736.jpg",
+            "menu_name": "닭 껍데기 (양념)",
+            "price": "12,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241215_10%2F1734191335021Jnref_JPEG%2FKakaoTalk_20241214_120616619_04.jpg",
+            "menu_name": "닭 날개 구이 (매콤양념)",
+            "price": "13,000원"
+        },
+        {
+            "category": "",
+            "img_src": "",
+            "menu_name": "연골/껍질꼬치 (5개)",
+            "price": "10,000원"
+        },
+        {
+            "category": "",
+            "img_src": "",
+            "menu_name": "수제닭꼬치",
+            "price": "4,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241215_230%2F1734191730486Hc0Iu_JPEG%2F%25B4%25D9%25BF%25EE%25B7%25CE%25B5%25E5_%25284%2529.jpg",
+            "menu_name": "조개탕",
+            "price": "15,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241215_48%2F1734191581755QI4Vi_JPEG%2F%25B4%25D9%25BF%25EE%25B7%25CE%25B5%25E5_%25283%2529.jpg",
+            "menu_name": "계란탕",
+            "price": "12,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241215_11%2F1734191474115KfnOi_JPEG%2FKakaoTalk_20241214_120616619_11.jpg",
+            "menu_name": "도리짜글이",
+            "price": "13,000원"
+        }
+    ]
+}

@@ -1,0 +1,182 @@
+{
+    "store_name": "북극당 상인동본점",
+    "store_location": "대구 달서구 월배로48길 46 1~2층",
+    "loc_x": "338954.948826273",
+    "loc_y": "258546.421195503",
+    "menu": [
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241130_279%2F1732909942383gIMlz_JPEG%2F1000008714.jpg",
+            "menu_name": "한우 대창 순두부전골",
+            "price": "14,900원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240424_219%2F1713948266741F19Uf_JPEG%2F1000006888.jpg",
+            "menu_name": "반고개 무침육회",
+            "price": "14,900원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240424_32%2F1713945961253NveqN_JPEG%2F%25C7%25C3%25B7%25B9%25C0%25CC%25BD%25BA_%252823%2529.jpg",
+            "menu_name": "빙하 인절미 바닐라 아이스크림",
+            "price": "14,900원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241127_82%2F1732714290053onOy3_PNG%2FHY_04317-removebg-preview.png",
+            "menu_name": "빙하 초코듬뿍 아이스크림",
+            "price": "16,900원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240424_44%2F1713945911097w9qXc_JPEG%2F%25C7%25C3%25B7%25B9%25C0%25CC%25BD%25BA_%252814%2529.jpg",
+            "menu_name": "명품 떡갈비 납작쟁반 쫄면",
+            "price": "14,900원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240424_214%2F1713945870974UnmjO_JPEG%2F%25C7%25C3%25B7%25B9%25C0%25CC%25BD%25BA_%25282%2529.jpg",
+            "menu_name": "북극당JMT치킨",
+            "price": "14,900원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241127_255%2F1732714368344s39yn_PNG%2FHY_04186-removebg-preview.png",
+            "menu_name": "뿌링클 순살치킨과 감튀",
+            "price": "17,900원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240424_99%2F17139458848139Kbqn_JPEG%2F%25C7%25C3%25B7%25B9%25C0%25CC%25BD%25BA_%25283%2529.jpg",
+            "menu_name": "모둠소세지와 감자튀김",
+            "price": "14,900원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240424_193%2F17139483793635RTmW_JPEG%2F1000006735.jpg",
+            "menu_name": "제육볶음",
+            "price": "17,900원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240424_114%2F1713946002496588GX_JPEG%2F%25C7%25C3%25B7%25B9%25C0%25CC%25BD%25BA_%252813%2529.jpg",
+            "menu_name": "스페셜떡볶이에 빠진 JMT치킨",
+            "price": "17,900원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240424_144%2F1713945839338k1yC9_JPEG%2F%25C7%25C3%25B7%25B9%25C0%25CC%25BD%25BA_%252812%2529.jpg",
+            "menu_name": "북극당 스페셜떡볶이",
+            "price": "13,900원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240424_261%2F1713946299784RFX04_JPEG%2F%25C7%25C3%25B7%25B9%25C0%25CC%25BD%25BA_%252817%2529.jpg",
+            "menu_name": "나카사키짬뽕",
+            "price": "21,900원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240424_131%2F1713946384928xEISw_JPEG%2F%25C7%25C3%25B7%25B9%25C0%25CC%25BD%25BA_%252818%2529.jpg",
+            "menu_name": "햄 듬뿍 순두부대찌개",
+            "price": "18,900원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240424_6%2F1713946415815RER7u_JPEG%2F%25C7%25C3%25B7%25B9%25C0%25CC%25BD%25BA_%252819%2529.jpg",
+            "menu_name": "오사카 모둠 어묵탕",
+            "price": "18,900원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240424_194%2F1713946039381hqB8l_JPEG%2F%25C7%25C3%25B7%25B9%25C0%25CC%25BD%25BA_%25281%2529.jpg",
+            "menu_name": "한입 모둠전",
+            "price": "12,900원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240424_112%2F17139461743343gaYO_JPEG%2F%25C7%25C3%25B7%25B9%25C0%25CC%25BD%25BA_%25288%2529.jpg",
+            "menu_name": "저염명란구이",
+            "price": "12,900원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240424_173%2F1713946142626qPjG2_JPEG%2F%25C7%25C3%25B7%25B9%25C0%25CC%25BD%25BA_%25289%2529.jpg",
+            "menu_name": "닭껍질 교자",
+            "price": "12,900원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240424_171%2F1713946113159AxXGC_JPEG%2F%25C7%25C3%25B7%25B9%25C0%25CC%25BD%25BA_%25284%2529.jpg",
+            "menu_name": "오코노미야끼",
+            "price": "12,900원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240424_150%2F1713946539956Ok1aE_JPEG%2F%25C7%25C3%25B7%25B9%25C0%25CC%25BD%25BA_%252822%2529.jpg",
+            "menu_name": "반건조 오징어",
+            "price": "14,900원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240424_125%2F1713946509605sCuyr_JPEG%2F%25C7%25C3%25B7%25B9%25C0%25CC%25BD%25BA_%252820%2529.jpg",
+            "menu_name": "먹태",
+            "price": "14,900원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240424_55%2F1713948351389qarqQ_JPEG%2F1000006814.jpg",
+            "menu_name": "대전두부두루치기",
+            "price": "17,900원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240507_70%2F1715024671667FpGWs_JPEG%2F1000007030.jpg",
+            "menu_name": "닭한마리북극곰탕",
+            "price": "21,900원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240505_43%2F1714862506380AQiCf_JPEG%2F1000007008.jpg",
+            "menu_name": "매운 불닭발",
+            "price": "17,900원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240505_216%2F1714862455787gdYYd_JPEG%2F1000007010.jpg",
+            "menu_name": "타코야키(출시전)",
+            "price": "5,900원"
+        },
+        {
+            "category": "",
+            "img_src": "",
+            "menu_name": "모둠소세지와 JMT치킨",
+            "price": "21,900원"
+        },
+        {
+            "category": "",
+            "img_src": "",
+            "menu_name": "미니인절미초코아이스크림",
+            "price": "9,900원"
+        },
+        {
+            "category": "",
+            "img_src": "",
+            "menu_name": "대구 납작비빔만두",
+            "price": "8,900원"
+        },
+        {
+            "category": "",
+            "img_src": "",
+            "menu_name": "튀김쥐포",
+            "price": "8,900원"
+        },
+        {
+            "category": "",
+            "img_src": "",
+            "menu_name": "버터갈릭 감자튀김",
+            "price": "7,900원"
+        }
+    ]
+}

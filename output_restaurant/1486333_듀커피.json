@@ -1,0 +1,134 @@
+{
+    "store_name": "듀커피",
+    "store_location": "전북 군산시 월명로 477-1 듀커피",
+    "loc_x": "173636.708000651",
+    "loc_y": "275992.721788995",
+    "menu": [
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20230519_63%2F1684479633419z5lnU_JPEG%2F19D28033-D017-4FCF-9B87-27498E8FD76F.jpeg",
+            "menu_name": "영국식 스콘샌드",
+            "price": "5,800원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20220616_151%2F1655375503226fj6K2_JPEG%2FF9E6B9DF-8833-493C-869C-DCCFF6803715.jpeg",
+            "menu_name": "듀라떼",
+            "price": "5,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20220616_159%2F1655375936539F0U30_JPEG%2FA06EFCCB-0CCC-457D-9725-F5AE972B7F46.jpeg",
+            "menu_name": "듀아이스티",
+            "price": "4,000원"
+        },
+        {
+            "category": "",
+            "img_src": "",
+            "menu_name": "라떼",
+            "price": "4,000원"
+        },
+        {
+            "category": "",
+            "img_src": "",
+            "menu_name": "휘낭시에",
+            "price": "2,500원"
+        },
+        {
+            "category": "",
+            "img_src": "",
+            "menu_name": "캐모마일",
+            "price": "4,000원"
+        },
+        {
+            "category": "",
+            "img_src": "",
+            "menu_name": "스콘러스크",
+            "price": "3,000원"
+        },
+        {
+            "category": "",
+            "img_src": "",
+            "menu_name": "아몬드튀일",
+            "price": "3,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20220616_283%2F1655375401590AxE2P_JPEG%2F870A4E6F-A687-44F4-AA72-DFA05FEE5A73.jpeg",
+            "menu_name": "영국식 스콘",
+            "price": "3,300원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240119_160%2F1705665771119eI6mo_JPEG%2F576C0D9B-0177-4448-A7EC-32112330DFA8.jpeg",
+            "menu_name": "디저트박스(예약문의)",
+            "price": "변동"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240119_14%2F17056657494585MIDO_JPEG%2F64717F66-5364-459F-8BD3-218CC6B120E5.jpeg",
+            "menu_name": "소보로 딸기잼 쿠키",
+            "price": "2,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240119_158%2F1705665661719tflfG_JPEG%2F82E08BEB-B8D5-4278-A4B0-A9990CEC492E.jpeg",
+            "menu_name": "사브레쿠키",
+            "price": "3,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20230525_22%2F16849834574918SFEu_JPEG%2FIMG_8636.jpeg",
+            "menu_name": "크림소다",
+            "price": "5,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20230525_254%2F1684983442128rYfar_JPEG%2F499BC694-9581-44D0-8CFB-3007A8E1C1B1.jpeg",
+            "menu_name": "메론소다",
+            "price": "5,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20230519_55%2F1684479820982wt09o_JPEG%2FIMG_4365.jpeg",
+            "menu_name": "바닐라라떼",
+            "price": "4,500원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20220616_237%2F1655375461646rDiIc_JPEG%2FC17CD9C2-123D-4C4F-B7DF-00790D2315BC.jpeg",
+            "menu_name": "아메리카노",
+            "price": "3,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20220628_249%2F1656420703023iejY5_JPEG%2FKakaoTalk_20220628_214447395.jpg",
+            "menu_name": "자두에이드",
+            "price": "5,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20220628_46%2F1656420647051bk7mf_JPEG%2FKakaoTalk_20220628_214446297.jpg",
+            "menu_name": "청자몽에이드",
+            "price": "5,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20220628_256%2F1656420549511PYoMS_JPEG%2FKakaoTalk_20220628_214446789.jpg",
+            "menu_name": "레몬에이드",
+            "price": "5,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20220616_161%2F165537572814176vpd_JPEG%2F59A2CF5B-CDD7-4A25-91E9-98833AF5AE58.jpeg",
+            "menu_name": "에그타르트",
+            "price": "2,500원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20220616_154%2F1655375666786DXuPG_JPEG%2FFFE9EBA4-4C80-4D38-BA29-1600732927C5.jpeg",
+            "menu_name": "바스크치즈케이크",
+            "price": "3,900원"
+        }
+    ]
+}

@@ -1,0 +1,146 @@
+{
+    "store_name": "분분 광명역어반브릭스점",
+    "store_location": "경기 광명시 양지로 17 제어반브릭스 B동 1층 119호, 120호",
+    "loc_x": "189541.850018502",
+    "loc_y": "435187.738812827",
+    "menu": [
+        {
+            "category": "새로 나온 메뉴",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20240204_266/1707005208689Ug8AT_JPEG/%B8%C5%BF%EE%BD%D2%B1%B9%BC%F6.jpg?type=f220_220_60_sharpen",
+            "menu_name": "매콤쌀국수매운맛2단계N",
+            "price": "13,000원"
+        },
+        {
+            "category": "새로 나온 메뉴",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20240204_155/1707005394785jA20Q_JPEG/%B8%C5%BF%EE%B0%F6%C3%A2%BD%D2%B1%B9%BC%F6.jpg?type=f220_220_60_sharpen",
+            "menu_name": "매운 곱창 쌀국수매운맛2단계N",
+            "price": "16,000원"
+        },
+        {
+            "category": "사장님 추천 메뉴",
+            "img_src": "",
+            "menu_name": "베트남쌀국수&반미반쪽 세트대표",
+            "price": "15,000원"
+        },
+        {
+            "category": "사장님 추천 메뉴",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20240115_262/1705244856651VMCNI_JPEG/KakaoTalk_20240114_235624008_20.jpg?type=f220_220_60_sharpen",
+            "menu_name": "분분반미샌드위치대표",
+            "price": "9,000원"
+        },
+        {
+            "category": "사장님 추천 메뉴",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20240115_224/1705245192859RYs37_JPEG/KakaoTalk_20240114_235624008_26.jpg?type=f220_220_60_sharpen",
+            "menu_name": "분분쌀국수대표",
+            "price": "12,000원"
+        },
+        {
+            "category": "세트메뉴",
+            "img_src": "",
+            "menu_name": "반미샌드위치&미니쌀국수 세트",
+            "price": "15,000원"
+        },
+        {
+            "category": "세트메뉴",
+            "img_src": "",
+            "menu_name": "분분덮밥&미니쌀국수 세트",
+            "price": "15,000원"
+        },
+        {
+            "category": "세트메뉴",
+            "img_src": "",
+            "menu_name": "베트남쌀국수&반미반쪽 세트대표",
+            "price": "15,000원"
+        },
+        {
+            "category": "샌드위치&롤",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20240115_262/1705244856651VMCNI_JPEG/KakaoTalk_20240114_235624008_20.jpg?type=f220_220_60_sharpen",
+            "menu_name": "분분반미샌드위치대표",
+            "price": "9,000원"
+        },
+        {
+            "category": "샌드위치&롤",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20240115_48/1705244991361erOlA_JPEG/KakaoTalk_20240114_235624008_27.jpg?type=f220_220_60_sharpen",
+            "menu_name": "돼지 스프링롤",
+            "price": "6,000원"
+        },
+        {
+            "category": "샌드위치&롤",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20240115_49/1705244962965sJtlW_JPEG/KakaoTalk_20240114_235624008_23.jpg?type=f220_220_60_sharpen",
+            "menu_name": "짜조",
+            "price": "5,000원"
+        },
+        {
+            "category": "누들&라이스",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20240115_192/1705245380977hxXq2_JPEG/KakaoTalk_20240114_235624008_15.jpg?type=f220_220_60_sharpen",
+            "menu_name": "분분덮밥",
+            "price": "12,000원"
+        },
+        {
+            "category": "누들&라이스",
+            "img_src": "",
+            "menu_name": "어린이쌀국수",
+            "price": "4,000원"
+        },
+        {
+            "category": "누들&라이스",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20240115_241/1705245291630nsqQp_JPEG/KakaoTalk_20240114_235624008_13.jpg?type=f220_220_60_sharpen",
+            "menu_name": "분짜",
+            "price": "12,000원"
+        },
+        {
+            "category": "누들&라이스",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20240115_224/1705245192859RYs37_JPEG/KakaoTalk_20240114_235624008_26.jpg?type=f220_220_60_sharpen",
+            "menu_name": "분분쌀국수대표",
+            "price": "12,000원"
+        },
+        {
+            "category": "누들&라이스",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20240204_266/1707005208689Ug8AT_JPEG/%B8%C5%BF%EE%BD%D2%B1%B9%BC%F6.jpg?type=f220_220_60_sharpen",
+            "menu_name": "매콤쌀국수매운맛2단계N",
+            "price": "13,000원"
+        },
+        {
+            "category": "누들&라이스",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20240204_155/1707005394785jA20Q_JPEG/%B8%C5%BF%EE%B0%F6%C3%A2%BD%D2%B1%B9%BC%F6.jpg?type=f220_220_60_sharpen",
+            "menu_name": "매운 곱창 쌀국수매운맛2단계N",
+            "price": "16,000원"
+        },
+        {
+            "category": "음료",
+            "img_src": "",
+            "menu_name": "망고비어",
+            "price": "6,000원"
+        },
+        {
+            "category": "음료",
+            "img_src": "",
+            "menu_name": "바바바333",
+            "price": "6,000원"
+        },
+        {
+            "category": "음료",
+            "img_src": "",
+            "menu_name": "스프라이트",
+            "price": "2,000원"
+        },
+        {
+            "category": "음료",
+            "img_src": "",
+            "menu_name": "비아사이공",
+            "price": "6,000원"
+        },
+        {
+            "category": "음료",
+            "img_src": "",
+            "menu_name": "콜라",
+            "price": "2,000원"
+        },
+        {
+            "category": "음료",
+            "img_src": "",
+            "menu_name": "제로콜라",
+            "price": "2,000원"
+        }
+    ]
+}

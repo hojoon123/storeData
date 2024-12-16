@@ -1,0 +1,86 @@
+{
+    "store_name": "미우돈 다산점",
+    "store_location": "경기 남양주시 다산중앙로82번길 72-49 1층",
+    "loc_x": "214377.085812296",
+    "loc_y": "457387.09511486",
+    "menu": [
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240716_235%2F1721118384774famgr_JPEG%2F%25B8%25B6%25B4%25C3%25C8%25B2%25C1%25A6%25B0%25A5%25BA%25F1.jpg",
+            "menu_name": "\"소\" 마늘 황제갈비살(500g)",
+            "price": "39,900원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20231215_271%2F1702609729971zwMF9_JPEG%2FIMG_6061.jpg",
+            "menu_name": "\"소\" 생갈비 한판(500g)",
+            "price": "39,900원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20231215_245%2F1702609801033HoOM1_JPEG%2FIMG_6032.jpg",
+            "menu_name": "\"소\" 갈비살 한판(500g)",
+            "price": "39,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20231215_101%2F1702609704909CDqeG_JPEG%2Fd21.jpg",
+            "menu_name": "\"소\" 양념 포천이동갈비(500g)",
+            "price": "39,900원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20231215_58%2F1702609851570S7DXe_JPEG%2FIMG_6144.jpg",
+            "menu_name": "한돈 돼지한마리 (600g)",
+            "price": "38,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20231215_37%2F1702609978889JIiSt_PNG%2F111213.png",
+            "menu_name": "한돈 생 목살 (200g)",
+            "price": "13,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20231215_276%2F1702609931019cIpYt_PNG%2F%25BB%25EF%25B0%25E3%25BB%25EC.png",
+            "menu_name": "한돈 생 삼겹살(200g)",
+            "price": "13,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20231215_111%2F1702609908108nhmfr_PNG%2F%25B5%25C5%25B0%25A5.png",
+            "menu_name": "미돈 돼지양념 왕갈비(250g)",
+            "price": "13,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20231215_227%2F1702609883033Mk8Md_PNG%2F%25C7%25D7%25C1%25A4.png",
+            "menu_name": "한돈 항정살(180g)",
+            "price": "14,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20231215_79%2F17026100271931ntSY_PNG%2F%25BA%25F1%25BA%25F6.png",
+            "menu_name": "🥢열무 물냉면🥢",
+            "price": "5,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20231215_210%2F1702609998943j06Dl_PNG%2F%25BA%25F1%25BA%25F6.png",
+            "menu_name": "🥢\"열무\" 비빔냉면🥢",
+            "price": "5,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20231215_161%2F1702610068748hM1W8_PNG%2F%25B0%25F8%25B1%25E2%25B9%25E4.png",
+            "menu_name": "🍚공기밥🍚",
+            "price": "1,500원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20231215_18%2F1702610053401aFEh7_PNG%2F%25B0%25E8%25B6%25F5.png",
+            "menu_name": "🥚계란찜폭탄",
+            "price": "4,000원"
+        }
+    ]
+}

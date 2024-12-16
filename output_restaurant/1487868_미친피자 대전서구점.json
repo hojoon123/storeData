@@ -1,0 +1,452 @@
+{
+    "store_name": "미친피자 대전서구점",
+    "store_location": "대전 서구 가장로 20 102호, 103호",
+    "loc_x": "233931.059584728",
+    "loc_y": "315461.077897778",
+    "menu": [
+        {
+            "category": "사장님 추천 메뉴",
+            "img_src": "",
+            "menu_name": "미친피자 시그니처대표",
+            "price": "22,500원"
+        },
+        {
+            "category": "사장님 추천 메뉴",
+            "img_src": "",
+            "menu_name": "치즈치즈치즈 버거피자대표",
+            "price": "26,500원"
+        },
+        {
+            "category": "사장님 추천 메뉴",
+            "img_src": "",
+            "menu_name": "미친피자 메가미트 핫 페페로니대표",
+            "price": "20,500원"
+        },
+        {
+            "category": "사장님 추천 메뉴",
+            "img_src": "",
+            "menu_name": "더블치즈 2X대표",
+            "price": "16,500원"
+        },
+        {
+            "category": "사장님 추천 메뉴",
+            "img_src": "",
+            "menu_name": "페페로니 2X대표",
+            "price": "17,500원"
+        },
+        {
+            "category": "사장님 추천 메뉴",
+            "img_src": "",
+            "menu_name": "보니다니 하와이안대표",
+            "price": "17,500원"
+        },
+        {
+            "category": "사장님 추천 메뉴",
+            "img_src": "",
+            "menu_name": "베이컨 체다치즈대표",
+            "price": "18,500원"
+        },
+        {
+            "category": "사장님 추천 메뉴",
+            "img_src": "",
+            "menu_name": "고르곤졸라맛있다+꿀대표",
+            "price": "17,500원"
+        },
+        {
+            "category": "사장님 추천 메뉴",
+            "img_src": "",
+            "menu_name": "쏘세지.베이컨.페페로니대표",
+            "price": "20,500원"
+        },
+        {
+            "category": "사장님 추천 메뉴",
+            "img_src": "",
+            "menu_name": "올리브.버섯.페페로니대표",
+            "price": "19,500원"
+        },
+        {
+            "category": "사장님 추천 메뉴",
+            "img_src": "",
+            "menu_name": "울트라 콤비네이션 2X대표",
+            "price": "20,500원"
+        },
+        {
+            "category": "사장님 추천 메뉴",
+            "img_src": "",
+            "menu_name": "슈퍼 콤비네이션 2X대표",
+            "price": "18,500원"
+        },
+        {
+            "category": "사장님 추천 메뉴",
+            "img_src": "",
+            "menu_name": "스파이시 콤비네이션대표",
+            "price": "19,500원"
+        },
+        {
+            "category": "사장님 추천 메뉴",
+            "img_src": "",
+            "menu_name": "슈퍼슈프림(파인애플)대표",
+            "price": "18,500원"
+        },
+        {
+            "category": "사장님 추천 메뉴",
+            "img_src": "",
+            "menu_name": "포테이토 베이컨대표",
+            "price": "18,500원"
+        },
+        {
+            "category": "사장님 추천 메뉴",
+            "img_src": "",
+            "menu_name": "더블 포테이토 베이컨대표",
+            "price": "20,500원"
+        },
+        {
+            "category": "사장님 추천 메뉴",
+            "img_src": "",
+            "menu_name": "더블 치즈 스테이크대표",
+            "price": "23,500원"
+        },
+        {
+            "category": "사장님 추천 메뉴",
+            "img_src": "",
+            "menu_name": "호구마스위트대표",
+            "price": "19,500원"
+        },
+        {
+            "category": "사장님 추천 메뉴",
+            "img_src": "",
+            "menu_name": "화이트 고구마 무스+베이컨대표",
+            "price": "19,500원"
+        },
+        {
+            "category": "사장님 추천 메뉴",
+            "img_src": "",
+            "menu_name": "야채피자대표",
+            "price": "16,500원"
+        },
+        {
+            "category": "사장님 추천 메뉴",
+            "img_src": "",
+            "menu_name": "맥앤치즈대표",
+            "price": "21,500원"
+        },
+        {
+            "category": "사장님 추천 메뉴",
+            "img_src": "",
+            "menu_name": "베이컨 치즈 후라이대표",
+            "price": "21,500원"
+        },
+        {
+            "category": "사장님 추천 메뉴",
+            "img_src": "",
+            "menu_name": "핫치킨&쉬림프대표",
+            "price": "23,500원"
+        },
+        {
+            "category": "사장님 추천 메뉴",
+            "img_src": "",
+            "menu_name": "쉬림프 디럭스대표",
+            "price": "22,500원"
+        },
+        {
+            "category": "사장님 추천 메뉴",
+            "img_src": "",
+            "menu_name": "핫치킨대표",
+            "price": "20,500원"
+        },
+        {
+            "category": "사장님 추천 메뉴",
+            "img_src": "",
+            "menu_name": "치킨바베큐대표",
+            "price": "18,500원"
+        },
+        {
+            "category": "사장님 추천 메뉴",
+            "img_src": "",
+            "menu_name": "불고기대표",
+            "price": "18,500원"
+        },
+        {
+            "category": "피자",
+            "img_src": "",
+            "menu_name": "불고기대표",
+            "price": "18,500원"
+        },
+        {
+            "category": "피자",
+            "img_src": "",
+            "menu_name": "미친피자 시그니처대표",
+            "price": "22,500원"
+        },
+        {
+            "category": "피자",
+            "img_src": "",
+            "menu_name": "치킨바베큐대표",
+            "price": "18,500원"
+        },
+        {
+            "category": "피자",
+            "img_src": "",
+            "menu_name": "호구마스위트대표",
+            "price": "19,500원"
+        },
+        {
+            "category": "피자",
+            "img_src": "",
+            "menu_name": "보니다니 하와이안대표",
+            "price": "17,500원"
+        },
+        {
+            "category": "피자",
+            "img_src": "",
+            "menu_name": "베이컨 체다치즈대표",
+            "price": "18,500원"
+        },
+        {
+            "category": "피자",
+            "img_src": "",
+            "menu_name": "쉬림프 디럭스대표",
+            "price": "22,500원"
+        },
+        {
+            "category": "피자",
+            "img_src": "",
+            "menu_name": "치즈치즈치즈 버거피자대표",
+            "price": "26,500원"
+        },
+        {
+            "category": "피자",
+            "img_src": "",
+            "menu_name": "미친피자 메가미트 핫 페페로니대표",
+            "price": "20,500원"
+        },
+        {
+            "category": "피자",
+            "img_src": "",
+            "menu_name": "더블치즈 2X대표",
+            "price": "16,500원"
+        },
+        {
+            "category": "피자",
+            "img_src": "",
+            "menu_name": "페페로니 2X대표",
+            "price": "17,500원"
+        },
+        {
+            "category": "피자",
+            "img_src": "",
+            "menu_name": "핫치킨대표",
+            "price": "20,500원"
+        },
+        {
+            "category": "피자",
+            "img_src": "",
+            "menu_name": "핫치킨&쉬림프대표",
+            "price": "23,500원"
+        },
+        {
+            "category": "피자",
+            "img_src": "",
+            "menu_name": "슈퍼슈프림(파인애플)대표",
+            "price": "18,500원"
+        },
+        {
+            "category": "피자",
+            "img_src": "",
+            "menu_name": "더블 치즈 스테이크대표",
+            "price": "23,500원"
+        },
+        {
+            "category": "피자",
+            "img_src": "",
+            "menu_name": "포테이토 베이컨대표",
+            "price": "18,500원"
+        },
+        {
+            "category": "피자",
+            "img_src": "",
+            "menu_name": "올리브.버섯.페페로니대표",
+            "price": "19,500원"
+        },
+        {
+            "category": "피자",
+            "img_src": "",
+            "menu_name": "울트라 콤비네이션 2X대표",
+            "price": "20,500원"
+        },
+        {
+            "category": "피자",
+            "img_src": "",
+            "menu_name": "더블 포테이토 베이컨대표",
+            "price": "20,500원"
+        },
+        {
+            "category": "피자",
+            "img_src": "",
+            "menu_name": "슈퍼 콤비네이션 2X대표",
+            "price": "18,500원"
+        },
+        {
+            "category": "피자",
+            "img_src": "",
+            "menu_name": "스파이시 콤비네이션대표",
+            "price": "19,500원"
+        },
+        {
+            "category": "피자",
+            "img_src": "",
+            "menu_name": "화이트 고구마 무스+베이컨대표",
+            "price": "19,500원"
+        },
+        {
+            "category": "피자",
+            "img_src": "",
+            "menu_name": "야채피자대표",
+            "price": "16,500원"
+        },
+        {
+            "category": "피자",
+            "img_src": "",
+            "menu_name": "맥앤치즈대표",
+            "price": "21,500원"
+        },
+        {
+            "category": "피자",
+            "img_src": "",
+            "menu_name": "고르곤졸라맛있다+꿀대표",
+            "price": "17,500원"
+        },
+        {
+            "category": "피자",
+            "img_src": "",
+            "menu_name": "베이컨 치즈 후라이대표",
+            "price": "21,500원"
+        },
+        {
+            "category": "피자",
+            "img_src": "",
+            "menu_name": "쏘세지.베이컨.페페로니대표",
+            "price": "20,500원"
+        },
+        {
+            "category": "스파게티",
+            "img_src": "",
+            "menu_name": "치즈 오븐 스파게티",
+            "price": "6,000원"
+        },
+        {
+            "category": "스파게티",
+            "img_src": "",
+            "menu_name": "베이컨 까르보나라",
+            "price": "7,000원"
+        },
+        {
+            "category": "스파게티",
+            "img_src": "",
+            "menu_name": "매운 베이컨 까르보나라",
+            "price": "8,000원"
+        },
+        {
+            "category": "스파게티",
+            "img_src": "",
+            "menu_name": "매콤 로제 파스타",
+            "price": "8,000원"
+        },
+        {
+            "category": "치킨",
+            "img_src": "",
+            "menu_name": "치킨텐더",
+            "price": "5,000원"
+        },
+        {
+            "category": "치킨",
+            "img_src": "",
+            "menu_name": "순살치킨 가라아게",
+            "price": "6,000원"
+        },
+        {
+            "category": "치킨",
+            "img_src": "",
+            "menu_name": "핫윙",
+            "price": "5,000원"
+        },
+        {
+            "category": "치킨",
+            "img_src": "",
+            "menu_name": "핫봉",
+            "price": "5,000원"
+        },
+        {
+            "category": "치킨",
+            "img_src": "",
+            "menu_name": "바삭 점보 닭다리",
+            "price": "3,000원"
+        },
+        {
+            "category": "치킨",
+            "img_src": "",
+            "menu_name": "훈제치킨",
+            "price": "7,000원"
+        },
+        {
+            "category": "치킨",
+            "img_src": "",
+            "menu_name": "매콤 점보 닭다리",
+            "price": "3,000원"
+        },
+        {
+            "category": "기타",
+            "img_src": "",
+            "menu_name": "갈릭디핑소스",
+            "price": "200원"
+        },
+        {
+            "category": "기타",
+            "img_src": "",
+            "menu_name": "수제랜치소스(FULL)",
+            "price": "1,500원"
+        },
+        {
+            "category": "기타",
+            "img_src": "",
+            "menu_name": "호구마샐러드",
+            "price": "5,000원"
+        },
+        {
+            "category": "기타",
+            "img_src": "",
+            "menu_name": "파마산치즈",
+            "price": "200원"
+        },
+        {
+            "category": "기타",
+            "img_src": "",
+            "menu_name": "피클",
+            "price": "400원"
+        },
+        {
+            "category": "기타",
+            "img_src": "",
+            "menu_name": "핫소스",
+            "price": "100원"
+        },
+        {
+            "category": "기타",
+            "img_src": "",
+            "menu_name": "꿀",
+            "price": "500원"
+        },
+        {
+            "category": "음료",
+            "img_src": "",
+            "menu_name": "스프라이트",
+            "price": "1,700원"
+        },
+        {
+            "category": "음료",
+            "img_src": "",
+            "menu_name": "코카콜라",
+            "price": "1,700원"
+        }
+    ]
+}

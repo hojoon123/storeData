@@ -1,0 +1,80 @@
+{
+    "store_name": "정각 전주점",
+    "store_location": "전북 완주군 이서면 기지로 54 106호, 107호, 108호",
+    "loc_x": "205150.18697058",
+    "loc_y": "259773.428085121",
+    "menu": [
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241125_137%2F1732487775628DEFsK_JPEG%2F1000015445.jpg",
+            "menu_name": "정각한판",
+            "price": "49,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241125_165%2F17324881824464QKlI_JPEG%2F1000015443.jpg",
+            "menu_name": "광어뭉티기반반",
+            "price": "49,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241128_51%2F1732798750759wzpty_JPEG%2F1000015449.jpg",
+            "menu_name": "한우 뭉티기",
+            "price": "30,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241128_11%2F1732805913635Pq0KW_JPEG%2F1000015442.jpg",
+            "menu_name": "방어광어반반",
+            "price": "49,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241128_297%2F1732805867989NGjw9_JPEG%2F1000015447.jpg",
+            "menu_name": "우삼겹순두부짬뽕",
+            "price": "20,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241128_155%2F1732805800770yBMSI_JPEG%2F1000015444.jpg",
+            "menu_name": "광어연어반반",
+            "price": "49,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241128_72%2F1732805838678x4Oob_JPEG%2F1000015446.jpg",
+            "menu_name": "연어단품",
+            "price": "28,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241128_251%2F1732805533707FYo6v_JPEG%2F1000015441.jpg",
+            "menu_name": "방어숙성회",
+            "price": "29,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241128_73%2F1732805755763pCiWM_JPEG%2F1000015452.jpg",
+            "menu_name": "한우육회고추장",
+            "price": "27,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241125_172%2F1732487917540KQzdj_JPEG%2F1000015440.jpg",
+            "menu_name": "한우사태수육전골",
+            "price": "28,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241128_279%2F1732805610269k596S_JPEG%2F1000015450.jpg",
+            "menu_name": "순살곱도리탕",
+            "price": "27,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241128_82%2F1732805710141Yxd30_JPEG%2F1000015451.jpg",
+            "menu_name": "목살까제비",
+            "price": "20,000원"
+        }
+    ]
+}

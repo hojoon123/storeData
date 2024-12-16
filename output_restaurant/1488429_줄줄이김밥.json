@@ -1,0 +1,56 @@
+{
+    "store_name": "줄줄이김밥",
+    "store_location": "경기 안양시 만안구 장내로 85 1층",
+    "loc_x": "",
+    "loc_y": "",
+    "menu": [
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20231221_275%2F1703119479730DYlv5_JPEG%2FKakaoTalk_20231220_185211024_01.jpg",
+            "menu_name": "줄줄이김밥",
+            "price": "3,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20231221_102%2F1703119809730Cp7ct_JPEG%2FKakaoTalk_20231220_185211024_22.jpg",
+            "menu_name": "키토김밥",
+            "price": "5,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20231221_47%2F1703119779852brm8O_JPEG%2FKakaoTalk_20231220_185223815_18.jpg",
+            "menu_name": "라면",
+            "price": "4,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20231221_35%2F1703119730736Mbtyd_JPEG%2FKakaoTalk_20231220_185223815.jpg",
+            "menu_name": "매콤어묵김밥",
+            "price": "4,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20231221_218%2F1703119702968xJfKK_JPEG%2FKakaoTalk_20231220_185211024_18.jpg",
+            "menu_name": "왕소세지김밥",
+            "price": "5,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20231221_296%2F1703119675028xFnNY_JPEG%2FKakaoTalk_20231220_185223815_29.jpg",
+            "menu_name": "수제돈까스",
+            "price": "10,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20231221_136%2F1703119634181Nu9p8_JPEG%2FKakaoTalk_20231220_185211024_07.jpg",
+            "menu_name": "치킨텐더김밥",
+            "price": "4,500원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20231221_217%2F1703119512573vpVv2_JPEG%2FKakaoTalk_20231220_185211024_14.jpg",
+            "menu_name": "계란말이김밥",
+            "price": "4,500원"
+        }
+    ]
+}

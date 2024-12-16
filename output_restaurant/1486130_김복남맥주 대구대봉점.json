@@ -1,0 +1,128 @@
+{
+    "store_name": "김복남맥주 대구대봉점",
+    "store_location": "대구 중구 대봉로43길 21 401동 102호",
+    "loc_x": "344542.070984409",
+    "loc_y": "263009.697325904",
+    "menu": [
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241210_183%2F1733793315326T448l_PNG%2F%25B4%25AB%25B2%25C9%25BB%25FD%25B8%25C6%25C1%25D6.png",
+            "menu_name": "김복남生맥주",
+            "price": "4,500원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241210_217%2F1733793296931nfb13_PNG%2F%25B1%25E2%25B8%25B0%25BB%25FD%25B8%25C6%25C1%25D6%2528%25B7%25CE%25B0%25ED%25C6%25F7%25C7%25D4%2529.png",
+            "menu_name": "기린生맥주",
+            "price": "5,900원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241210_60%2F1733793278679bvQxn_PNG%2F%25B1%25E8%25BA%25B9%25B3%25B2%25BC%25F6%25C1%25A6%25B8%25C6%25C1%25D6%2528%25B4%25EB%25C7%25A5%2529.png",
+            "menu_name": "김복남수제맥주(대표생)",
+            "price": "5,900원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241210_241%2F17337932233224h43w_PNG%2F%25B8%25F0%25C8%25F7%25B6%25C7_%25C7%25CF%25C0%25CC%25BA%25BC.png",
+            "menu_name": "모이또하이볼",
+            "price": "5,500원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241210_97%2F1733793203480zmFUz_PNG%2F%25B8%25F0%25B5%25EB%25BC%25D2%25BD%25C3%25C1%25F6%25C7%25C3%25B7%25A1%25C5%25CD.png",
+            "menu_name": "모둠소시지플래터",
+            "price": "21,900원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241210_202%2F17337931863837zTij_PNG%2F%25C1%25F7%25C8%25AD%25BF%25EC%25BB%25EF%25B0%25E3%25B6%25B1%25BA%25BA%25C0%25CC.png",
+            "menu_name": "직화우삼겹떡볶이",
+            "price": "12,900원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241210_185%2F1733793168775J6BqO_PNG%2F%25B4%25AB%25B2%25C9%25BE%25EE%25B4%25CF%25BE%25F0%25C4%25A1%25C5%25B2%252824%25B3%25E2_%25BA%25BD%25B8%25AE%25B4%25BA%25BE%25F3%2529.png",
+            "menu_name": "눈꽃어니언치킨",
+            "price": "12,900원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241210_170%2F1733793153463aB5PH_PNG%2F%25C3%25CB%25C3%25CB%25B9%25AE%25BE%25EE%25C6%25A2%25B1%25E8.png",
+            "menu_name": "촉촉문어튀김",
+            "price": "13,900원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241210_21%2F1733793132130xwHoW_PNG%2F%25B4%25DF%25B8%25F1%25BB%25EC%25C6%25A2%25B1%25E8%25B0%25FA_%25C3%25A4%25BC%25D2%25B9%25FC%25B9%25F7.png",
+            "menu_name": "닭목살튀김과 채소범벅",
+            "price": "12,900원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241210_77%2F1733792974366sSMTO_PNG%2F%25BF%25EC%25BB%25EF%25B0%25E3%25BC%25F7%25C1%25D6%25BA%25BA%25C0%25BD.png",
+            "menu_name": "우삼겹숙주볶음",
+            "price": "11,900원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241210_99%2F1733792939208abqXT_PNG%2F%25BA%25D2%25B4%25DF%25BE%25DF%25B3%25A2%25BF%25EC%25B5%25BF.png",
+            "menu_name": "불닭야끼우동",
+            "price": "10,900원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241210_49%2F1733792906570n4720_PNG%2F%25BA%25D2%25C7%25E2%25B0%25A1%25B5%25E6_%25B0%25ED%25B1%25E2%25C2%25AB%25BB%25CD.png",
+            "menu_name": "불향가득 고기짬뽕",
+            "price": "16,900원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241210_68%2F1733792863681ptcw0_PNG%2F%25C7%25D8%25B9%25B0%25B4%25A9%25B7%25EE%25C1%25F6%25C5%25C1.png",
+            "menu_name": "해물누룽지탕",
+            "price": "13,900원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241210_176%2F1733792837546o80Bx_PNG%2F%25B8%25C5%25C4%25DE%25C0%25BB%25C1%25F6%25B7%25CE%25B0%25F1%25B9%25F0%25C0%25CC%25BF%25CD%25BA%25F1%25BA%25F6%25B8%25E9%252824%25B3%25E2_%25BA%25BD%25B8%25AE%25B4%25BA%25BE%25F3%2529.png",
+            "menu_name": "매콤을지로골뱅이와비빔면",
+            "price": "19,900원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241210_14%2F1733792800959maBx4_PNG%2F%25C5%25AC%25B7%25A1%25BD%25C4%25C1%25B7%25B9%25DF2.png",
+            "menu_name": "클래식 족발",
+            "price": "19,900원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241210_87%2F1733792783865HtQEx_PNG%2F%25BF%25EF%25C6%25AE%25B6%25F3%25C4%25A1%25C1%25EE%25B0%25E8%25B6%25F5%25B8%25BB%25C0%25CC.png",
+            "menu_name": "울트라치즈계란말이",
+            "price": "12,900원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241210_81%2F17337927645981Vazm_PNG%2F%25B2%25DC%25C5%25E4%25B8%25B6%25C5%25E42.png",
+            "menu_name": "꿀토마토",
+            "price": "8,900원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241210_100%2F1733792746773Lwopn_PNG%2F%25BD%25C3%25C1%25AE%25C4%25A1%25C5%25B2%25BB%25F8%25B7%25AF%25B5%25E5.png",
+            "menu_name": "치킨시저 샐러드",
+            "price": "12,900원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241210_67%2F17337927312392haeF_PNG%2F%25C6%25C4%25C0%25CE%25BE%25D6%25C7%25C3_%25BB%25FE%25BA%25A3%25C6%25AE.png",
+            "menu_name": "파인애플 샤베트",
+            "price": "6,900원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241210_113%2F1733792612754YAyxP_PNG%2F%25C0%25CE%25BB%25FD%25B8%25D4%25C5%25C2.png",
+            "menu_name": "인생먹태",
+            "price": "14,900원"
+        }
+    ]
+}

@@ -1,0 +1,98 @@
+{
+    "store_name": "2피자1치킨상회 영양점",
+    "store_location": "경북 영양군 영양읍 중앙로 122-1",
+    "loc_x": "388931.660435033",
+    "loc_y": "353512.680318286",
+    "menu": [
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241205_264%2F1733376343835m7aBc_JPEG%2F1733202327594-17.jpg",
+            "menu_name": "사장남는거 없는메뉴 피자+피자+치킨",
+            "price": "34,900원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241205_190%2F17333764702429fTep_JPEG%2F1733202327594-8.jpg",
+            "menu_name": "갓성비1위 피자+치킨",
+            "price": "25,900원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241205_160%2F1733376630059UemsY_JPEG%2F1733202327594-18.jpg",
+            "menu_name": "피자+치킨+치킨",
+            "price": "35,900원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241205_138%2F17333769177801u4Hk_JPEG%2F1733202327594-22.jpg",
+            "menu_name": "피자+피자+피자",
+            "price": "33,900원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241205_50%2F1733377031196VX1nv_JPEG%2F1733202327594-28.jpg",
+            "menu_name": "치킨+치킨+치킨",
+            "price": "36,900원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241205_103%2F1733376722108gQMVb_JPEG%2F1733202327594-0.jpg",
+            "menu_name": "피자+피자",
+            "price": "24,900원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241205_179%2F1733376840665KX9qh_JPEG%2F1733202327594-27.jpg",
+            "menu_name": "치킨+치킨",
+            "price": "26,900원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241205_282%2F1733378003058gBtr5_JPEG%2F1733202327594-8.jpg",
+            "menu_name": "메가톤콤비네이션피자+치킨",
+            "price": "25,900원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241205_164%2F1733378300806jp0TH_JPEG%2F1733202327594-4.jpg",
+            "menu_name": "투머치치즈피자+치킨",
+            "price": "25,900원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241205_184%2F1733378243782RAt7A_JPEG%2F1733202327594-10.jpg",
+            "menu_name": "킬링페퍼로니피자+치킨",
+            "price": "25,900원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241205_91%2F17333781434580CuWE_JPEG%2F1733202327594-15.jpg",
+            "menu_name": "러셋베이컨포테이토피자+치킨",
+            "price": "27,900원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241205_284%2F1733378094744PQzmS_JPEG%2F1733202327594-12.jpg",
+            "menu_name": "스윗가이고구마피자+치킨",
+            "price": "27,900원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241205_199%2F1733378050109JI0D1_JPEG%2F1733202327594-13.jpg",
+            "menu_name": "멜버른불고기피자+치킨",
+            "price": "27,900원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241205_294%2F1733377896676J9jaj_JPEG%2F1733202327594-16.jpg",
+            "menu_name": "New)드랍더 살라미 피자+치킨",
+            "price": "27,900원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241205_236%2F1733377951857lfRAp_JPEG%2F1733202327594-19.jpg",
+            "menu_name": "하와이언쥬시 피자+치킨",
+            "price": "27,900원"
+        }
+    ]
+}

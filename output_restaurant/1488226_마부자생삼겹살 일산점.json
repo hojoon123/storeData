@@ -1,0 +1,38 @@
+{
+    "store_name": "마부자생삼겹살 일산점",
+    "store_location": "경기 고양시 일산동구 중앙로1261번길 55 108, 109호",
+    "loc_x": "179711.636871521",
+    "loc_y": "461713.267362608",
+    "menu": [
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241022_128%2F1729598520041NEMWG_JPEG%2F1000056002.jpg",
+            "menu_name": "생삼겹살",
+            "price": "15,000원"
+        },
+        {
+            "category": "",
+            "img_src": "",
+            "menu_name": "목살",
+            "price": "15,000원"
+        },
+        {
+            "category": "",
+            "img_src": "",
+            "menu_name": "물냉면",
+            "price": "6,000원"
+        },
+        {
+            "category": "",
+            "img_src": "",
+            "menu_name": "볶음밥",
+            "price": "3,000원"
+        },
+        {
+            "category": "",
+            "img_src": "",
+            "menu_name": "김치찌개 (점심특선 11시~3시)",
+            "price": "10,000원"
+        }
+    ]
+}

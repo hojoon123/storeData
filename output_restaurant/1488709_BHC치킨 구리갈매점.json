@@ -1,0 +1,620 @@
+{
+    "store_name": "BHC치킨 구리갈매점",
+    "store_location": "경기 구리시 갈매중앙로55번길 96-5",
+    "loc_x": "210164.666164061",
+    "loc_y": "458731.946316681",
+    "menu": [
+        {
+            "category": "신메뉴",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20241121_290/17321490220955bar9_PNG/image.png?type=f220_220_60_sharpen",
+            "menu_name": "내슈빌 퐈이어킹 콤보",
+            "price": "25,000원"
+        },
+        {
+            "category": "신메뉴",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20241121_209/1732149022408RrtCO_PNG/image.png?type=f220_220_60_sharpen",
+            "menu_name": "(반반치킨)후라이드/퐈이어킹",
+            "price": "24,000원"
+        },
+        {
+            "category": "신메뉴",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20241121_207/1732149025186lEDxl_PNG/image.png?type=f220_220_60_sharpen",
+            "menu_name": "내슈빌 퐈이어킹 윙",
+            "price": "25,000원"
+        },
+        {
+            "category": "신메뉴",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20241121_38/1732149022750Cos4B_PNG/image.png?type=f220_220_60_sharpen",
+            "menu_name": "내슈빌 퐈이어킹 스틱",
+            "price": "25,000원"
+        },
+        {
+            "category": "BHC세트",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20241121_176/17321490248626bGFn_PNG/image.png?type=f220_220_60_sharpen",
+            "menu_name": "내슈빌 퐈이어킹 콤보+치즈볼",
+            "price": "30,500원"
+        },
+        {
+            "category": "BHC세트",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20241121_256/1732149023104c8dmm_PNG/image.png?type=f220_220_60_sharpen",
+            "menu_name": "내슈빌 퐈이어킹 콤보+뿌링클라이스",
+            "price": "29,000원"
+        },
+        {
+            "category": "BHC세트",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20241121_279/1732149023557KY6Fb_PNG/image.png?type=f220_220_60_sharpen",
+            "menu_name": "내슈빌 퐈이어킹 콤보+뿌링클나쵸",
+            "price": "27,000원"
+        },
+        {
+            "category": "BHC세트",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20241121_53/1732149025506FXMz6_PNG/image.png?type=f220_220_60_sharpen",
+            "menu_name": "(반반치킨)후라이드/퐈이어킹+치즈볼",
+            "price": "29,500원"
+        },
+        {
+            "category": "BHC세트",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20241121_16/1732149023862NkXYT_PNG/image.png?type=f220_220_60_sharpen",
+            "menu_name": "(반반치킨)후라이드/퐈이어킹+뿌링클라이스",
+            "price": "28,000원"
+        },
+        {
+            "category": "BHC세트",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20241121_172/17321490241679lMsq_PNG/image.png?type=f220_220_60_sharpen",
+            "menu_name": "(반반치킨)후라이드/퐈이어킹+뿌링클나쵸",
+            "price": "26,000원"
+        },
+        {
+            "category": "BHC세트",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20240422_245/1713754626760MJxRB_JPEG/image.jpg?type=f220_220_60_sharpen",
+            "menu_name": "뿌링클 콤보+치즈볼",
+            "price": "28,500원"
+        },
+        {
+            "category": "BHC세트",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20240422_118/1713754627058FMyHC_JPEG/image.jpg?type=f220_220_60_sharpen",
+            "menu_name": "뿌링클+치즈볼",
+            "price": "26,500원"
+        },
+        {
+            "category": "BHC세트",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20230512_118/1683893100837q3hmQ_JPEG/image.jpg?type=f220_220_60_sharpen",
+            "menu_name": "HOT후라이드 콤보+치즈볼",
+            "price": "28,500원"
+        },
+        {
+            "category": "BHC세트",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20240912_280/1726101020628g2ChN_PNG/image.png?type=f220_220_60_sharpen",
+            "menu_name": "HOT골드킹+치즈볼",
+            "price": "26,500원"
+        },
+        {
+            "category": "BHC세트",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20240912_262/1726101020920vYPK8_PNG/image.png?type=f220_220_60_sharpen",
+            "menu_name": "HOT골드킹 콤보+치즈볼",
+            "price": "29,500원"
+        },
+        {
+            "category": "BHC세트",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20240912_88/1726101019261RQ1xj_PNG/image.png?type=f220_220_60_sharpen",
+            "menu_name": "양념치킨 콤보+치즈볼",
+            "price": "29,500원"
+        },
+        {
+            "category": "BHC세트",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20240417_223/1713313802866NawYe_PNG/image.png?type=f220_220_60_sharpen",
+            "menu_name": "쏘마치 콤보+치즈볼",
+            "price": "28,500원"
+        },
+        {
+            "category": "BHC세트",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20240422_97/1713754627364sefz7_JPEG/image.jpg?type=f220_220_60_sharpen",
+            "menu_name": "맛초킹 콤보+치즈볼",
+            "price": "28,500원"
+        },
+        {
+            "category": "BHC세트",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20240422_227/1713754627703pTtKy_JPEG/image.jpg?type=f220_220_60_sharpen",
+            "menu_name": "골드킹 콤보+치즈볼",
+            "price": "28,500원"
+        },
+        {
+            "category": "BHC세트",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20241121_164/1732149019404Eobhl_JPEG/image.jpg?type=f220_220_60_sharpen",
+            "menu_name": "후라이드 콤보+치즈볼",
+            "price": "28,500원"
+        },
+        {
+            "category": "BHC세트",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20230725_229/1690245033884eRbWq_PNG/image.png?type=f220_220_60_sharpen",
+            "menu_name": "마법클 콤보+치즈볼",
+            "price": "28,500원"
+        },
+        {
+            "category": "뿌링클",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20230512_218/1683893082154aOX5r_PNG/image.png?type=f220_220_60_sharpen",
+            "menu_name": "뿌링클 콤보",
+            "price": "23,000원"
+        },
+        {
+            "category": "뿌링클",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20230512_236/1683893108050Ppq83_PNG/image.png?type=f220_220_60_sharpen",
+            "menu_name": "뿌링클",
+            "price": "21,000원"
+        },
+        {
+            "category": "뿌링클",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20230512_270/168389310768074xll_PNG/image.png?type=f220_220_60_sharpen",
+            "menu_name": "뿌링클순살",
+            "price": "23,000원"
+        },
+        {
+            "category": "뿌링클",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20230512_127/1683893076746LXSwk_PNG/image.png?type=f220_220_60_sharpen",
+            "menu_name": "뿌링클 스틱",
+            "price": "23,000원"
+        },
+        {
+            "category": "뿌링클",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20230512_173/1683893083144aNbbY_PNG/image.png?type=f220_220_60_sharpen",
+            "menu_name": "뿌링클 윙",
+            "price": "23,000원"
+        },
+        {
+            "category": "뿌링클",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20230512_262/16838930755200QPsi_PNG/image.png?type=f220_220_60_sharpen",
+            "menu_name": "HOT뿌링클",
+            "price": "22,000원"
+        },
+        {
+            "category": "뿌링클",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20230512_122/1683893107334lodHC_PNG/image.png?type=f220_220_60_sharpen",
+            "menu_name": "HOT뿌링클 순살",
+            "price": "23,000원"
+        },
+        {
+            "category": "후라이드&양념",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20230512_236/1683893081540KmaPa_PNG/image.png?type=f220_220_60_sharpen",
+            "menu_name": "후라이드 콤보",
+            "price": "23,000원"
+        },
+        {
+            "category": "후라이드&양념",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20230512_134/1683893067845CurQv_PNG/image.png?type=f220_220_60_sharpen",
+            "menu_name": "후라이드",
+            "price": "20,000원"
+        },
+        {
+            "category": "후라이드&양념",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20230512_32/16838931148459CRyl_PNG/image.png?type=f220_220_60_sharpen",
+            "menu_name": "후라이드 스틱",
+            "price": "23,000원"
+        },
+        {
+            "category": "후라이드&양념",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20230512_63/1683893081303mOFH6_PNG/image.png?type=f220_220_60_sharpen",
+            "menu_name": "후라이드 윙",
+            "price": "23,000원"
+        },
+        {
+            "category": "후라이드&양념",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20230725_185/1690264936120WxtiD_PNG/image.png?type=f220_220_60_sharpen",
+            "menu_name": "HOT후라이드 콤보",
+            "price": "23,000원"
+        },
+        {
+            "category": "후라이드&양념",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20230512_213/1683893017510du1bc_PNG/image.png?type=f220_220_60_sharpen",
+            "menu_name": "HOT후라이드",
+            "price": "21,000원"
+        },
+        {
+            "category": "후라이드&양념",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20230512_7/1683893116955SkcB2_JPEG/image.jpg?type=f220_220_60_sharpen",
+            "menu_name": "HOT후라이드 스틱",
+            "price": "23,000원"
+        },
+        {
+            "category": "후라이드&양념",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20230512_60/16838930993737s8se_JPEG/image.jpg?type=f220_220_60_sharpen",
+            "menu_name": "HOT후라이드 윙",
+            "price": "23,000원"
+        },
+        {
+            "category": "후라이드&양념",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20230512_140/1683893067505a4Tl3_PNG/image.png?type=f220_220_60_sharpen",
+            "menu_name": "(반반치킨)후라이드/양념",
+            "price": "21,000원"
+        },
+        {
+            "category": "후라이드&양념",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20230512_215/1683893068115NkNIS_PNG/image.png?type=f220_220_60_sharpen",
+            "menu_name": "양념치킨",
+            "price": "21,000원"
+        },
+        {
+            "category": "후라이드&양념",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20240912_54/1726101019915mVjRM_PNG/image.png?type=f220_220_60_sharpen",
+            "menu_name": "양념치킨 콤보",
+            "price": "24,000원"
+        },
+        {
+            "category": "후라이드&양념",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20240912_209/1726101021209Hm7th_PNG/image.png?type=f220_220_60_sharpen",
+            "menu_name": "양념치킨 스틱",
+            "price": "24,000원"
+        },
+        {
+            "category": "후라이드&양념",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20240912_98/1726101020270oOl4X_PNG/image.png?type=f220_220_60_sharpen",
+            "menu_name": "양념치킨 윙",
+            "price": "24,000원"
+        },
+        {
+            "category": "후라이드&양념",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20230512_176/1683893068431PKfJg_PNG/image.png?type=f220_220_60_sharpen",
+            "menu_name": "바삭클",
+            "price": "18,000원"
+        },
+        {
+            "category": "후라이드&양념",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20230512_37/1683893021770cCp9n_PNG/image.png?type=f220_220_60_sharpen",
+            "menu_name": "바삭클순살",
+            "price": "22,000원"
+        },
+        {
+            "category": "맛초킹",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20230512_279/1683893081840NchDM_PNG/image.png?type=f220_220_60_sharpen",
+            "menu_name": "맛초킹 콤보",
+            "price": "23,000원"
+        },
+        {
+            "category": "맛초킹",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20230512_157/1683893074850jgcJF_PNG/image.png?type=f220_220_60_sharpen",
+            "menu_name": "맛초킹",
+            "price": "21,000원"
+        },
+        {
+            "category": "맛초킹",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20230512_62/1683893106583y0jPo_PNG/image.png?type=f220_220_60_sharpen",
+            "menu_name": "맛초킹순살",
+            "price": "23,000원"
+        },
+        {
+            "category": "맛초킹",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20230512_8/16838930803864mQfk_PNG/image.png?type=f220_220_60_sharpen",
+            "menu_name": "맛초킹 스틱",
+            "price": "23,000원"
+        },
+        {
+            "category": "맛초킹",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20230512_75/1683893091142K4M9l_PNG/image.png?type=f220_220_60_sharpen",
+            "menu_name": "맛초킹 윙",
+            "price": "23,000원"
+        },
+        {
+            "category": "쏘마치",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20240417_209/1713313801476CSKVV_PNG/image.png?type=f220_220_60_sharpen",
+            "menu_name": "쏘마치 콤보",
+            "price": "23,000원"
+        },
+        {
+            "category": "쏘마치",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20240417_294/1713313800602d9QaK_PNG/image.png?type=f220_220_60_sharpen",
+            "menu_name": "쏘마치",
+            "price": "21,000원"
+        },
+        {
+            "category": "쏘마치",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20240417_160/1713313800994rTEWK_PNG/image.png?type=f220_220_60_sharpen",
+            "menu_name": "쏘마치 순살",
+            "price": "23,000원"
+        },
+        {
+            "category": "쏘마치",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20240417_229/1713313802143l6Tzg_PNG/image.png?type=f220_220_60_sharpen",
+            "menu_name": "쏘마치 스틱",
+            "price": "23,000원"
+        },
+        {
+            "category": "쏘마치",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20240417_144/17133138025606OlDV_PNG/image.png?type=f220_220_60_sharpen",
+            "menu_name": "쏘마치 윙",
+            "price": "23,000원"
+        },
+        {
+            "category": "골드킹",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20230512_98/1683893082847ALyOD_PNG/image.png?type=f220_220_60_sharpen",
+            "menu_name": "골드킹 콤보",
+            "price": "23,000원"
+        },
+        {
+            "category": "골드킹",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20230512_51/1683893075196HrlPt_PNG/image.png?type=f220_220_60_sharpen",
+            "menu_name": "골드킹",
+            "price": "20,000원"
+        },
+        {
+            "category": "골드킹",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20230512_182/1683893107028mJKBQ_PNG/image.png?type=f220_220_60_sharpen",
+            "menu_name": "골드킹 순살",
+            "price": "23,000원"
+        },
+        {
+            "category": "골드킹",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20230512_34/1683893081017UyBTy_PNG/image.png?type=f220_220_60_sharpen",
+            "menu_name": "골드킹 스틱",
+            "price": "23,000원"
+        },
+        {
+            "category": "골드킹",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20230512_286/1683893093992LI9OB_PNG/image.png?type=f220_220_60_sharpen",
+            "menu_name": "골드킹 윙",
+            "price": "23,000원"
+        },
+        {
+            "category": "골드킹",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20240912_213/1726101021792vkinG_PNG/image.png?type=f220_220_60_sharpen",
+            "menu_name": "HOT골드킹 콤보",
+            "price": "24,000원"
+        },
+        {
+            "category": "골드킹",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20240912_163/1726101021424oTH2p_PNG/image.png?type=f220_220_60_sharpen",
+            "menu_name": "HOT골드킹",
+            "price": "21,000원"
+        },
+        {
+            "category": "골드킹",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20240912_180/1726101019651Q2Mux_PNG/image.png?type=f220_220_60_sharpen",
+            "menu_name": "HOT골드킹 스틱",
+            "price": "24,000원"
+        },
+        {
+            "category": "골드킹",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20240912_108/1726101022136iyzkd_PNG/image.png?type=f220_220_60_sharpen",
+            "menu_name": "HOT골드킹 윙",
+            "price": "24,000원"
+        },
+        {
+            "category": "마법클",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20230725_196/169024503265590ytd_PNG/image.png?type=f220_220_60_sharpen",
+            "menu_name": "마법클 콤보",
+            "price": "23,000원"
+        },
+        {
+            "category": "마법클",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20230725_114/1690245032240hVk0I_PNG/image.png?type=f220_220_60_sharpen",
+            "menu_name": "마법클",
+            "price": "22,000원"
+        },
+        {
+            "category": "마법클",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20230725_164/1690245033294wt7RO_PNG/image.png?type=f220_220_60_sharpen",
+            "menu_name": "마법클 순살",
+            "price": "23,500원"
+        },
+        {
+            "category": "마법클",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20230725_216/1690245032997ohgxg_PNG/image.png?type=f220_220_60_sharpen",
+            "menu_name": "마법클 스틱",
+            "price": "23,000원"
+        },
+        {
+            "category": "마법클",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20230725_161/1690245034505S17AY_PNG/image.png?type=f220_220_60_sharpen",
+            "menu_name": "마법클 윙",
+            "price": "23,000원"
+        },
+        {
+            "category": "더블팝순살",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20230512_122/1683893100011Dyg8q_JPEG/image.jpg?type=f220_220_60_sharpen",
+            "menu_name": "더블팝순살 양념",
+            "price": "23,500원"
+        },
+        {
+            "category": "더블팝순살",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20230512_239/1683893117750lc5fT_JPEG/image.jpg?type=f220_220_60_sharpen",
+            "menu_name": "더블팝순살 후라이드",
+            "price": "23,000원"
+        },
+        {
+            "category": "폭립",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20240926_133/1727316891269srfnm_PNG/image.png?type=f220_220_60_sharpen",
+            "menu_name": "스윗킹 폭립",
+            "price": "28,000원"
+        },
+        {
+            "category": "폭립",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20240926_211/1727316891005hCz0H_PNG/image.png?type=f220_220_60_sharpen",
+            "menu_name": "레드킹 폭립",
+            "price": "28,000원"
+        },
+        {
+            "category": "레드킹",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20230512_114/1683893082435DtHox_PNG/image.png?type=f220_220_60_sharpen",
+            "menu_name": "레드킹 콤보",
+            "price": "23,000원"
+        },
+        {
+            "category": "레드킹",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20230512_172/1683893074466lWtVq_PNG/image.png?type=f220_220_60_sharpen",
+            "menu_name": "레드킹",
+            "price": "21,000원"
+        },
+        {
+            "category": "레드킹",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20230512_129/1683893074133tEq3C_PNG/image.png?type=f220_220_60_sharpen",
+            "menu_name": "레드킹순살",
+            "price": "23,000원"
+        },
+        {
+            "category": "레드킹",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20230512_119/16838930807388EaXv_PNG/image.png?type=f220_220_60_sharpen",
+            "menu_name": "레드킹 스틱",
+            "price": "23,000원"
+        },
+        {
+            "category": "레드킹",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20230512_293/1683893091526pwnys_PNG/image.png?type=f220_220_60_sharpen",
+            "menu_name": "레드킹 윙",
+            "price": "23,000원"
+        },
+        {
+            "category": "직화구이",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20230512_241/1683893105935OXinb_PNG/image.png?type=f220_220_60_sharpen",
+            "menu_name": "고추장 직화구이",
+            "price": "16,000원"
+        },
+        {
+            "category": "사이드&소스",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20241206_140/1733445060728DeNE6_PNG/image.png?type=f220_220_60_sharpen",
+            "menu_name": "(NEW) 뿌링클나쵸",
+            "price": "2,000원"
+        },
+        {
+            "category": "사이드&소스",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20241031_204/1730334600605vWX9A_PNG/image.png?type=f220_220_60_sharpen",
+            "menu_name": "(NEW) 뿌링클라이스",
+            "price": "4,000원"
+        },
+        {
+            "category": "사이드&소스",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20241031_256/1730334600915ObLTp_PNG/image.png?type=f220_220_60_sharpen",
+            "menu_name": "(NEW) 맛초킹라이스",
+            "price": "4,000원"
+        },
+        {
+            "category": "사이드&소스",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20240801_13/1722472231048754nP_PNG/image.png?type=f220_220_60_sharpen",
+            "menu_name": "맛초타코야키",
+            "price": "5,000원"
+        },
+        {
+            "category": "사이드&소스",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20240315_61/1710462600404EardV_PNG/image.png?type=f220_220_60_sharpen",
+            "menu_name": "뿌링진미채튀김",
+            "price": "6,000원"
+        },
+        {
+            "category": "사이드&소스",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20240305_155/1709598601196DjGmI_JPEG/image.jpg?type=f220_220_60_sharpen",
+            "menu_name": "치로스",
+            "price": "6,000원"
+        },
+        {
+            "category": "사이드&소스",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20230512_38/1683893056331ejWEN_PNG/image.png?type=f220_220_60_sharpen",
+            "menu_name": "달콤바삭치즈볼",
+            "price": "5,500원"
+        },
+        {
+            "category": "사이드&소스",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20230512_156/1683893055436itqnd_PNG/image.png?type=f220_220_60_sharpen",
+            "menu_name": "뿌링치즈볼",
+            "price": "6,500원"
+        },
+        {
+            "category": "사이드&소스",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20230512_263/1683893002792tOoWP_PNG/image.png?type=f220_220_60_sharpen",
+            "menu_name": "분모자 로제 떡볶이",
+            "price": "6,000원"
+        },
+        {
+            "category": "사이드&소스",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20230512_81/1683892996660oSrOO_PNG/image.png?type=f220_220_60_sharpen",
+            "menu_name": "뿌링감자",
+            "price": "5,000원"
+        },
+        {
+            "category": "사이드&소스",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20230512_90/16838930005182NdiQ_PNG/image.png?type=f220_220_60_sharpen",
+            "menu_name": "빨간소떡",
+            "price": "3,500원"
+        },
+        {
+            "category": "사이드&소스",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20230512_95/1683893000792DbSBV_PNG/image.png?type=f220_220_60_sharpen",
+            "menu_name": "뿌링소떡",
+            "price": "4,000원"
+        },
+        {
+            "category": "사이드&소스",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20240226_223/1708913990859WycBh_PNG/image.png?type=f220_220_60_sharpen",
+            "menu_name": "뿌링핫도그",
+            "price": "6,000원"
+        },
+        {
+            "category": "사이드&소스",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20230512_284/1683893010338Nd4F9_PNG/image.png?type=f220_220_60_sharpen",
+            "menu_name": "웨지감자",
+            "price": "6,000원"
+        },
+        {
+            "category": "사이드&소스",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20230512_80/168389305607583ttd_PNG/image.png?type=f220_220_60_sharpen",
+            "menu_name": "뿌링치즈스틱",
+            "price": "5,000원"
+        },
+        {
+            "category": "사이드&소스",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20230512_146/1683893002391D7eBn_PNG/image.png?type=f220_220_60_sharpen",
+            "menu_name": "케이준프라이",
+            "price": "4,000원"
+        },
+        {
+            "category": "사이드&소스",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20230512_213/1683893009830CLtO0_PNG/image.png?type=f220_220_60_sharpen",
+            "menu_name": "치킨스넥",
+            "price": "11,000원"
+        },
+        {
+            "category": "사이드&소스",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20241031_89/1730334601325TkTC3_PNG/image.png?type=f220_220_60_sharpen",
+            "menu_name": "단팥꽈배기",
+            "price": "3,000원"
+        },
+        {
+            "category": "사이드&소스",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20241031_222/1730334601538iyB0W_PNG/image.png?type=f220_220_60_sharpen",
+            "menu_name": "크림치즈꽈배기",
+            "price": "3,000원"
+        },
+        {
+            "category": "사이드&소스",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20230512_294/1683893001543gIGcG_PNG/image.png?type=f220_220_60_sharpen",
+            "menu_name": "뿌링뿌링소스",
+            "price": "2,500원"
+        },
+        {
+            "category": "사이드&소스",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20230512_213/1683892995488JXKsM_PNG/image.png?type=f220_220_60_sharpen",
+            "menu_name": "맵소사소스",
+            "price": "2,500원"
+        },
+        {
+            "category": "사이드&소스",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20230512_84/1683892995229T14Lq_PNG/image.png?type=f220_220_60_sharpen",
+            "menu_name": "스윗하바네로소스",
+            "price": "2,500원"
+        },
+        {
+            "category": "사이드&소스",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20230512_227/1683893001235jYoap_PNG/image.png?type=f220_220_60_sharpen",
+            "menu_name": "양념소스",
+            "price": "500원"
+        },
+        {
+            "category": "사이드&소스",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20231117_79/1700181000644hi1Sf_JPEG/image.jpg?type=f220_220_60_sharpen",
+            "menu_name": "머스타드소스",
+            "price": "500원"
+        },
+        {
+            "category": "사이드&소스",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20231229_264/1703830096386zkOdj_PNG/image.png?type=f220_220_60_sharpen",
+            "menu_name": "치킨무",
+            "price": "1,000원"
+        }
+    ]
+}

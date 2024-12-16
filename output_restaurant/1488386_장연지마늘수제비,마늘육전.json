@@ -1,0 +1,20 @@
+{
+    "store_name": "장연지마늘수제비,마늘육전",
+    "store_location": "전남 순천시 자경1길 10-73 1층",
+    "loc_x": "245591.282411314",
+    "loc_y": "161342.927844004",
+    "menu": [
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20231220_194%2F17030443261733uYiy_JPEG%2F1703044282171.jpg",
+            "menu_name": "마늘들깨수제비",
+            "price": "9,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20231220_207%2F1703044833250AHMaf_JPEG%2F1703044740736.jpg",
+            "menu_name": "마늘등심육전",
+            "price": "9,000원"
+        }
+    ]
+}

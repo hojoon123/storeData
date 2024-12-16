@@ -1,0 +1,14 @@
+{
+    "store_name": "만석정",
+    "store_location": "경북 김천시 농소면 용시길 221",
+    "loc_x": "305429.957672332",
+    "loc_y": "291593.924383173",
+    "menu": [
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241213_65%2F1734080102216ntxLo_JPEG%2F1000012345.jpg",
+            "menu_name": "돼지찜갈비",
+            "price": "12,000원"
+        }
+    ]
+}

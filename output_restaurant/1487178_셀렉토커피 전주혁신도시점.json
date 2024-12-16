@@ -1,0 +1,476 @@
+{
+    "store_name": "셀렉토커피 전주혁신도시점",
+    "store_location": "전북 전주시 덕진구 월방3길 6",
+    "loc_x": "206288.543950633",
+    "loc_y": "259381.242943086",
+    "menu": [
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241212_220%2F1733993732261bYi1f_JPEG%2FIMG_1464.jpeg",
+            "menu_name": "치즈샌딩 플랫 크로글",
+            "price": "4,500원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241212_187%2F1733993726621FLPbj_JPEG%2FIMG_1463.jpeg",
+            "menu_name": "바닐라빈크림 크로글",
+            "price": "4,300원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241212_82%2F1733993719177t8QCW_JPEG%2FIMG_1462.jpeg",
+            "menu_name": "곡물크림 크로글",
+            "price": "4,300원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241212_277%2F1733993712961cVqow_JPEG%2FIMG_1461.jpeg",
+            "menu_name": "딥초코 크로글",
+            "price": "4,500원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241212_254%2F1733993534367CTley_JPEG%2FIMG_1460.jpeg",
+            "menu_name": "AOP버터크로글",
+            "price": "3,500원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241212_76%2F1733992734600OsY6Q_JPEG%2FIMG_1449.jpeg",
+            "menu_name": "(시즌)쌍화차",
+            "price": "5,500원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241212_292%2F1733992700642uX7Ag_JPEG%2FIMG_1447.jpeg",
+            "menu_name": "(시즌)배생강차",
+            "price": "4,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241212_296%2F17339926651464sIIY_JPEG%2FIMG_1446.jpeg",
+            "menu_name": "(시즌)딸기밀크티라떼",
+            "price": "5,200원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241212_172%2F1733992586758xCg8f_JPEG%2FIMG_1439.jpeg",
+            "menu_name": "(시즌)딸기뱅쇼",
+            "price": "4,800원"
+        },
+        {
+            "category": "",
+            "img_src": "",
+            "menu_name": "생강차",
+            "price": "4,500원"
+        },
+        {
+            "category": "",
+            "img_src": "",
+            "menu_name": "곡물라떼",
+            "price": "4,500원"
+        },
+        {
+            "category": "",
+            "img_src": "",
+            "menu_name": "오미자차",
+            "price": "4,500원"
+        },
+        {
+            "category": "",
+            "img_src": "",
+            "menu_name": "유자차",
+            "price": "4,500원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241212_31%2F1733992833185QxnuN_JPEG%2FIMG_1457.jpeg",
+            "menu_name": "크림치즈",
+            "price": "1,000원"
+        },
+        {
+            "category": "",
+            "img_src": "",
+            "menu_name": "초코브레드",
+            "price": "5,500원"
+        },
+        {
+            "category": "",
+            "img_src": "",
+            "menu_name": "카라멜 시나몬브레드",
+            "price": "5,500원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241212_123%2F1733992342581Q33SC_JPEG%2FIMG_1451.jpeg",
+            "menu_name": "불고기 그릴드 샌드위치",
+            "price": "5,400원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241212_69%2F1733992305734KPivH_PNG%2FIMG_1356.png",
+            "menu_name": "크로크무슈",
+            "price": "4,300원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241212_114%2F1733992271246lScIw_JPEG%2FIMG_1361.jpeg",
+            "menu_name": "쫄깃 베이글(블루베리)",
+            "price": "3,200원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241212_31%2F1733992205198xl4xw_JPEG%2FIMG_1410.jpeg",
+            "menu_name": "쫄깃쫄깃베이글(플레인)",
+            "price": "2,900원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241212_110%2F1733992145722jsIwD_PNG%2FIMG_1352.png",
+            "menu_name": "햄치즈에그토스트",
+            "price": "5,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241212_19%2F1733992109643OlHqc_PNG%2FIMG_1351.png",
+            "menu_name": "치즈에그토스트",
+            "price": "4,700원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241212_45%2F1733992025574CeKup_PNG%2FIMG_1353.png",
+            "menu_name": "에그토스트",
+            "price": "4,300원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241212_82%2F1733991944517F5n5S_JPEG%2FIMG_1407.jpeg",
+            "menu_name": "아이스크림 크로플",
+            "price": "5,300원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241212_36%2F1733991911364AuwPx_JPEG%2FIMG_1456.jpeg",
+            "menu_name": "인절미 크로플",
+            "price": "4,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241212_206%2F17339918831890pilp_JPEG%2FIMG_1409.jpeg",
+            "menu_name": "티라미수 크로플",
+            "price": "4,300원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241212_27%2F1733991815504QeBTD_JPEG%2FIMG_1453.jpeg",
+            "menu_name": "쿠키크럼블 크로플",
+            "price": "4,300원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241212_195%2F1733991713830No6Jx_JPEG%2FIMG_1408.jpeg",
+            "menu_name": "플레인크로플",
+            "price": "3,800원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241212_97%2F1733989714627yGGVa_JPEG%2FIMG_1404.jpeg",
+            "menu_name": "벤자빈 주스",
+            "price": "4,700원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241212_65%2F1733989686808CYBAM_JPEG%2FIMG_1406.jpeg",
+            "menu_name": "그린-톡스",
+            "price": "4,700원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241212_53%2F1733989662845hfP1j_JPEG%2FIMG_1405.jpeg",
+            "menu_name": "비타부스터",
+            "price": "4,700원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241212_246%2F1733989615305IufUP_JPEG%2FIMG_1402.jpeg",
+            "menu_name": "레몬 스파클링 에이드",
+            "price": "4,500원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241212_262%2F1733989589406y8YMu_JPEG%2FIMG_1403.jpeg",
+            "menu_name": "자몽 스파클링 에이드",
+            "price": "4,500원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241212_264%2F1733989533614wUc7R_JPEG%2FIMG_1443.jpeg",
+            "menu_name": "레몬차",
+            "price": "4,500원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241212_141%2F1733989508944EBlJi_JPEG%2FIMG_1444.jpeg",
+            "menu_name": "자몽차",
+            "price": "4,500원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241212_219%2F1733989321072Ua2YX_JPEG%2FIMG_1390.jpeg",
+            "menu_name": "오리지널 아이스티",
+            "price": "4,200원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241212_255%2F1733989285348gCoHw_JPEG%2FIMG_1442.jpeg",
+            "menu_name": "미드나잇 릴렉서",
+            "price": "4,700원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241212_251%2F1733989058703DLRuM_JPEG%2FIMG_1438.jpeg",
+            "menu_name": "작설차(어린잎 녹차)",
+            "price": "3,500원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241212_182%2F17339882265505IIC8_JPEG%2FIMG_1436.jpeg",
+            "menu_name": "얼그레이",
+            "price": "3,500원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241212_38%2F17339881596971bDbM_JPEG%2FIMG_1435.jpeg",
+            "menu_name": "잉글리쉬 브렉퍼스트(홍차)",
+            "price": "3,500원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241212_82%2F1733988081008UC3Qi_JPEG%2FIMG_1433.jpeg",
+            "menu_name": "루이보스",
+            "price": "3,500원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241212_210%2F1733988025629fWOXg_JPEG%2FIMG_1432.jpeg",
+            "menu_name": "페퍼민트",
+            "price": "3,500원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241212_157%2F1733987968341GabF1_JPEG%2FIMG_1431.jpeg",
+            "menu_name": "캐모마일",
+            "price": "3,500원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241212_112%2F1733987809250o1N4L_JPEG%2FIMG_1393.jpeg",
+            "menu_name": "더 진한 스무디 망고",
+            "price": "5,300원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241212_5%2F1733987776828MNas8_JPEG%2FIMG_1395.jpeg",
+            "menu_name": "더 진한 스무디 홍시",
+            "price": "5,300원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241212_104%2F1733987743022Qjo1H_JPEG%2FIMG_1394.jpeg",
+            "menu_name": "더 진한 스무디 딸기",
+            "price": "5,300원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241212_300%2F1733987702893RD892_JPEG%2FIMG_1396.jpeg",
+            "menu_name": "애플 요거 비안코 F",
+            "price": "5,300원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241212_91%2F1733987653733e5yxI_JPEG%2FIMG_1397.jpeg",
+            "menu_name": "스트로베리요거 프라페",
+            "price": "5,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241212_72%2F17339876139932HWGD_JPEG%2FIMG_1398.jpeg",
+            "menu_name": "플레인요거프라페",
+            "price": "5,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241212_20%2F1733987580175wgilt_JPEG%2FIMG_1399.jpeg",
+            "menu_name": "달고나 크런치 프라페",
+            "price": "5,300원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241212_221%2F1733987480329cAfUY_JPEG%2FIMG_1400.jpeg",
+            "menu_name": "오트 그린티 프라페",
+            "price": "5,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241212_22%2F1733987220799yTBCH_JPEG%2FIMG_1401.jpeg",
+            "menu_name": "바닐라초코 프라페",
+            "price": "5,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241212_30%2F1733987172797Q6Aqt_JPEG%2FIMG_1381.jpeg",
+            "menu_name": "버블 로얄 밀크티",
+            "price": "5,500원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241212_145%2F1733987138946N9891_JPEG%2FIMG_1380.jpeg",
+            "menu_name": "흑당 버블티",
+            "price": "5,200원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241212_299%2F1733987051890nIEKO_JPEG%2FIMG_1382.jpeg",
+            "menu_name": "달고나크림 버블티",
+            "price": "5,300원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241212_23%2F1733987021946qxXJv_JPEG%2FIMG_1385.jpeg",
+            "menu_name": "흑임자오트라떼",
+            "price": "4,700원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241212_159%2F173398709918534Wt0_JPEG%2FIMG_1383.jpeg",
+            "menu_name": "고구마라떼",
+            "price": "4,500원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241212_185%2F17339873317175J9Ca_JPEG%2FIMG_1389.jpeg",
+            "menu_name": "로얄밀크티",
+            "price": "4,500원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241212_131%2F1733986985756qzDQ1_JPEG%2FIMG_1384.jpeg",
+            "menu_name": "딸기라떼",
+            "price": "5,200원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241212_51%2F1733986933543pVubP_JPEG%2FIMG_1375.jpeg",
+            "menu_name": "초콜릿라떼",
+            "price": "4,200원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241212_112%2F17339868517268F5bx_JPEG%2FIMG_1388.jpeg",
+            "menu_name": "그린티라떼",
+            "price": "4,200원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241212_235%2F1733986822902igx6W_JPEG%2FIMG_1379.jpeg",
+            "menu_name": "뉴트로그램",
+            "price": "3,500원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241212_260%2F1733986794891HCYME_JPEG%2FIMG_1378.jpeg",
+            "menu_name": "OK'수수",
+            "price": "3,500원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241212_117%2F1733986697896ktUo6_JPEG%2FIMG_1378.jpeg",
+            "menu_name": "콘파나",
+            "price": "3,500원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241212_9%2F17339864088099tS18_JPEG%2FIMG_1377.jpeg",
+            "menu_name": "에소프레소",
+            "price": "3,200원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241212_74%2F1733986380280t7248_JPEG%2FIMG_1368.jpeg",
+            "menu_name": "더블샷 숏라떼",
+            "price": "3,500원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241212_275%2F1733986184723g8QI1_JPEG%2FIMG_1369.jpeg",
+            "menu_name": "롱블랙",
+            "price": "3,200원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241212_95%2F1733986090931Gsztv_JPEG%2FIMG_1347.jpeg",
+            "menu_name": "셀렉토라떼(크림선택)",
+            "price": "4,200원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241212_159%2F17339860321445XgYA_JPEG%2FIMG_1374.jpeg",
+            "menu_name": "카라멜마끼아또",
+            "price": "4,800원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241212_9%2F1733985989923d6cJi_JPEG%2FIMG_1375.jpeg",
+            "menu_name": "카페모카",
+            "price": "4,800원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241212_58%2F1733985951963jeSBd_JPEG%2FIMG_1427.jpeg",
+            "menu_name": "시그니처 흑당라떼",
+            "price": "4,200원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241212_241%2F1733985675775P83DL_JPEG%2FIMG_1376.jpeg",
+            "menu_name": "돌체라떼",
+            "price": "4,500원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241212_93%2F1733985493181Igczf_JPEG%2FIMG_1373.jpeg",
+            "menu_name": "바닐라빈라떼",
+            "price": "4,500원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241212_139%2F1733985399547m2jwH_JPEG%2FIMG_1372.jpeg",
+            "menu_name": "카푸치노",
+            "price": "3,900원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241212_119%2F1733985220814c1IxN_JPEG%2FIMG_1370.jpeg",
+            "menu_name": "카페라떼",
+            "price": "3,900원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241212_227%2F17339869175676McMj_JPEG%2FIMG_1428.jpeg",
+            "menu_name": "디카페인 아메리카노",
+            "price": "3,500원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241212_122%2F1733986906238GewjB_JPEG%2FIMG_1429.jpeg",
+            "menu_name": "하모니가든 아메리카노(화사)",
+            "price": "3,200원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241212_282%2F1733986898487DN7mb_JPEG%2FIMG_1430.jpeg",
+            "menu_name": "선라이즈무드 아메리카노(다크)",
+            "price": "3,200원"
+        }
+    ]
+}

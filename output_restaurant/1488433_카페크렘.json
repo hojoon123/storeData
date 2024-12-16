@@ -1,0 +1,122 @@
+{
+    "store_name": "카페크렘",
+    "store_location": "경기 수원시 영통구 광교호수공원로 155 광교에일린의뜰 B118호",
+    "loc_x": "205189.37153269",
+    "loc_y": "419528.584974652",
+    "menu": [
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240221_20%2F1708517251228yjr9l_JPEG%2F1708517237288.jpg",
+            "menu_name": "아메리카노",
+            "price": "3,500원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240221_211%2F1708517461534KEfFq_JPEG%2F1708517234716.jpg",
+            "menu_name": "카페라떼",
+            "price": "4,700원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240221_245%2F1708517524609a5cxs_JPEG%2F1708517234716.jpg",
+            "menu_name": "수제바닐라라떼",
+            "price": "5,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240221_13%2F1708517549032Mc6PB_JPEG%2F1708517234716.jpg",
+            "menu_name": "돌체라떼",
+            "price": "5,000원"
+        },
+        {
+            "category": "",
+            "img_src": "",
+            "menu_name": "카라멜마끼아또",
+            "price": "5,200원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240221_271%2F1708517585417AXyoU_JPEG%2F1708517239927.jpg",
+            "menu_name": "카페모카",
+            "price": "5,500원"
+        },
+        {
+            "category": "",
+            "img_src": "",
+            "menu_name": "복숭아아이스티",
+            "price": "4,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240303_184%2F17094064805123khTT_JPEG%2F1708517241342.jpg",
+            "menu_name": "제주녹차라떼",
+            "price": "5,500원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240303_70%2F1709406433274xXwMq_JPEG%2F1708517239927.jpg",
+            "menu_name": "딥초코라떼",
+            "price": "5,500원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240303_128%2F1709406413763WrC4s_JPEG%2F1708517236039.jpg",
+            "menu_name": "곡물라떼",
+            "price": "5,700원"
+        },
+        {
+            "category": "",
+            "img_src": "",
+            "menu_name": "오트쑥라떼",
+            "price": "5,700원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240221_166%2F1708518072939hfY4r_JPEG%2F1708517975330.jpg",
+            "menu_name": "레몬에이드",
+            "price": "5,500원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240221_299%2F1708518056050rxFeR_JPEG%2F1708517988449.jpg",
+            "menu_name": "자몽에이드",
+            "price": "5,300원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240221_137%2F1708518027926M2V5t_JPEG%2F1708517977043.jpg",
+            "menu_name": "청포도에이드",
+            "price": "5,300원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240221_8%2F1708518007979yid3K_JPEG%2F1708517980104.jpg",
+            "menu_name": "패션후르츠에이드",
+            "price": "5,300원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240303_250%2F1709406352225KiT43_JPEG%2F1708517233449.jpg",
+            "menu_name": "플레인요거트스무디",
+            "price": "6,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240303_273%2F1709406325853vlULT_JPEG%2F1708517230065.jpg",
+            "menu_name": "딸기요거트스무디",
+            "price": "6,000원"
+        },
+        {
+            "category": "",
+            "img_src": "",
+            "menu_name": "햄에그 통밀샌드위치",
+            "price": "7,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240303_257%2F1709406757178lQIlW_JPEG%2FResized_1708163803819.jpg",
+            "menu_name": "치킨 통밀샌드위치",
+            "price": "7,700원"
+        }
+    ]
+}

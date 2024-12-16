@@ -1,0 +1,32 @@
+{
+    "store_name": "안주상회",
+    "store_location": "경기 김포시 김포한강4로 487 판매시설동 2054호",
+    "loc_x": "167285.39175785",
+    "loc_y": "460502.685587242",
+    "menu": [
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241206_276%2F1733491962182DDz7l_JPEG%2FIMG_0253.jpeg",
+            "menu_name": "곱도리탕",
+            "price": "28,500원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241208_126%2F1733594030287x0AzR_JPEG%2FIMG_0304.jpeg",
+            "menu_name": "도토리묵",
+            "price": "12,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241207_275%2F1733536994374cM9Aj_JPEG%2FIMG_0251.jpeg",
+            "menu_name": "맑은조개탕",
+            "price": "18,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241207_225%2F1733536685939YMDzL_JPEG%2FIMG_0142.jpeg",
+            "menu_name": "낙곱새",
+            "price": "22,500원"
+        }
+    ]
+}

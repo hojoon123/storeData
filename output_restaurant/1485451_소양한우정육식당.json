@@ -1,0 +1,92 @@
+{
+    "store_name": "소양한우정육식당",
+    "store_location": "전북 완주군 소양면 상관소양로 1110",
+    "loc_x": "224644.339115232",
+    "loc_y": "260202.398259173",
+    "menu": [
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241211_166%2F1733919881868QbQOy_JPEG%2FIMG_0015.jpeg",
+            "menu_name": "한우갈비탕",
+            "price": "16,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241211_277%2F17339200907939W3q7_JPEG%2FIMG_0024.jpeg",
+            "menu_name": "한우육회비빔밥(특)",
+            "price": "16,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241211_234%2F1733920072158uYBRU_JPEG%2FIMG_0035.jpeg",
+            "menu_name": "한우탕",
+            "price": "13,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241211_77%2F1733920123633TSuEd_JPEG%2FIMG_0023.jpeg",
+            "menu_name": "한우육회비빔밥",
+            "price": "13,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241211_56%2F1733920136231zoJjm_JPEG%2FIMG_0024.jpeg",
+            "menu_name": "한우육회비빔밥(특/익힘)",
+            "price": "16,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241211_274%2F1733920184822uNzrr_JPEG%2FIMG_0023.jpeg",
+            "menu_name": "한우육회비빔밥(익힘)",
+            "price": "13,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241211_72%2F17339201995677koii_JPEG%2FIMG_0018.jpeg",
+            "menu_name": "애호박찌개",
+            "price": "11,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241211_264%2F1733920219038Bccob_JPEG%2FIMG_0021.jpeg",
+            "menu_name": "한우양념육회(200g)",
+            "price": "24,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241211_89%2F1733920232857u03eB_JPEG%2FIMG_0029.jpeg",
+            "menu_name": "상차림",
+            "price": "5,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241211_259%2F17339202712840u3eP_JPEG%2FIMG_0020.jpeg",
+            "menu_name": "누룽지",
+            "price": "4,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241211_10%2F17339202825414vt8S_JPEG%2FIMG_0025.jpeg",
+            "menu_name": "비빔국수",
+            "price": "5,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241211_85%2F1733920292207PCQYG_JPEG%2FIMG_0028.jpeg",
+            "menu_name": "잔치국수",
+            "price": "4,000원"
+        },
+        {
+            "category": "",
+            "img_src": "",
+            "menu_name": "물냉면",
+            "price": "4,000원"
+        },
+        {
+            "category": "",
+            "img_src": "",
+            "menu_name": "비빔냉면",
+            "price": "4,000원"
+        }
+    ]
+}

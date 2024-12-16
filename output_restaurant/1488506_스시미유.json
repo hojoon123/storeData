@@ -1,0 +1,26 @@
+{
+    "store_name": "스시미유",
+    "store_location": "인천 계양구 효서로 154 1층 109호",
+    "loc_x": "174555.737910819",
+    "loc_y": "447319.1187112",
+    "menu": [
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20231209_204%2F1702116042999aD6ia_JPEG%2FKakaoTalk_20231209_185904643.jpg",
+            "menu_name": "모둠 특 지라시스시",
+            "price": "14,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20231209_280%2F1702116134346JmG5j_JPEG%2FKakaoTalk_20231209_185946265.jpg",
+            "menu_name": "모둠 스시 10ps",
+            "price": "13,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20231209_235%2F17021161152824aSol_JPEG%2FKakaoTalk_20231209_185929283.jpg",
+            "menu_name": "생연어지라시스시",
+            "price": "14,000원"
+        }
+    ]
+}

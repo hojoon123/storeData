@@ -1,0 +1,128 @@
+{
+    "store_name": "가마치통닭 하동전도점",
+    "store_location": "경남 하동군 금남면 섬진강대로 973-13 1층(장터국밥)",
+    "loc_x": "273791.679973695",
+    "loc_y": "166704.437980366",
+    "menu": [
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20230607_209%2F1686126148163AWTPo_PNG%2F%25B5%25CE%25B8%25B6%25B8%25AE%25C5%25EB%25B4%25DF.png",
+            "menu_name": "한마리통닭",
+            "price": "9,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20230607_154%2F1686126164421gygeS_PNG%2F%25B5%25CE%25B8%25B6%25B8%25AE%25C5%25EB%25B4%25DF.png",
+            "menu_name": "두마리통닭",
+            "price": "17,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20230801_185%2F1690875322506XGHab_PNG%2F%25B9%25E8%25B9%25CE_%25C7%25E3%25B4%25CF%25B8%25B6%25B4%25C3%25C6%25C4%25B4%25DF%25BC%25F8%25BB%25EC.png",
+            "menu_name": "허니마늘순살파닭",
+            "price": "18,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20230801_111%2F1690875293283koAmw_PNG%2F%25B9%25E8%25B9%25CE_%25C7%25E3%25B4%25CF%25B8%25B6%25B4%25C3%25C6%25C4%25B4%25DF%25C4%25DE%25BA%25B8.png",
+            "menu_name": "허니마늘파닭콤보",
+            "price": "22,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20230801_207%2F1690875264592eoaLe_PNG%2F%25B9%25E8%25B9%25CE_%25C7%25E3%25B4%25CF%25B8%25B6%25B4%25C3%25C6%25C4%25B4%25DF%25C4%25A1%25C5%25B2.png",
+            "menu_name": "허니마늘파닭",
+            "price": "20,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20230801_297%2F1690875370883WgWr1_PNG%2F%25B9%25E8%25B9%25CE_%25C3%25BB%25BE%25E7%25B8%25CA%25B0%25A3%25C0%25E5%25C4%25A1%25C5%25B2.png",
+            "menu_name": "청양맵간장치킨",
+            "price": "17,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20230801_137%2F16908753953251So3w_PNG%2F%25B9%25E8%25B9%25CE_%25C3%25BB%25BE%25E7%25B8%25CA%25B0%25A3%25C0%25E5%25C4%25DE%25BA%25B8.png",
+            "menu_name": "청양맵간장콤보",
+            "price": "19,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20230801_163%2F1690875418642HQ8WW_PNG%2F%25B9%25E8%25B9%25CE_%25C3%25BB%25BE%25E7%25B8%25CA%25B0%25A3%25C0%25E5%25BC%25F8%25BB%25EC.png",
+            "menu_name": "청양맵간장순살",
+            "price": "15,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20230607_211%2F1686126387191BijVY_JPEG%2F10_%25C8%25C4%25B6%25F3%25C0%25CC%25B5%25E5%25C4%25DE%25BA%25B8.jpg",
+            "menu_name": "후라이드콤보",
+            "price": "17,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20230607_32%2F1686126401210CxICj_JPEG%2F11_%25BE%25E7%25B3%25E4%25C4%25DE%25BA%25B8.jpg",
+            "menu_name": "양념콤보",
+            "price": "18,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20230607_246%2F1686126414618N09V9_JPEG%2F12_%25B8%25B6%25B4%25C3%25B0%25A3%25C0%25E5%25C4%25DE%25BA%25B8.jpg",
+            "menu_name": "마늘간장콤보",
+            "price": "18,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20230607_151%2F1686126433068RBHtw_JPEG%2F12_%25B0%25A1%25B8%25B6%25C4%25A1%25C1%25EE%25C4%25DE%25BA%25B8.jpg",
+            "menu_name": "가마치즈콤보",
+            "price": "18,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20230607_268%2F1686126193776vdrA1_JPEG%2F2_%25C8%25C4%25B6%25F3%25C0%25CC%25B5%25E5%25C4%25A1%25C5%25B2.jpg",
+            "menu_name": "후라이드치킨",
+            "price": "15,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20230607_243%2F16861262079571ojJm_JPEG%2F3_%25BE%25E7%25B3%25E4%25C4%25A1%25C5%25B2.jpg",
+            "menu_name": "양념치킨",
+            "price": "16,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20230607_255%2F1686126224373dxJdv_JPEG%2F4_%25B0%25A3%25C0%25E5%25C4%25A1%25C5%25B2.jpg",
+            "menu_name": "마늘간장치킨",
+            "price": "16,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20230607_278%2F1686126244481nd64y_JPEG%2F6_%25C4%25A1%25C1%25EE%25C4%25A1%25C5%25B2.jpg",
+            "menu_name": "가마치즈치킨",
+            "price": "16,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20230607_2%2F1686126282563JbpkV_JPEG%2F7_%25BC%25F8%25BB%25EC%25C8%25C4%25B6%25F3%25C0%25CC%25B5%25E5.jpg",
+            "menu_name": "후라이드순살",
+            "price": "13,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20230607_281%2F1686126298633nebPC_JPEG%2F8_%25BC%25F8%25BB%25EC%25BE%25E7%25B3%25E4.jpg",
+            "menu_name": "양념순살",
+            "price": "14,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20230607_167%2F1686126324662kHrYe_JPEG%2F8_%25BC%25F8%25BB%25EC%25B0%25A3%25C0%25E5.jpg",
+            "menu_name": "마늘간장순살",
+            "price": "14,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20230607_273%2F1686126349383of03t_JPEG%2F9_%25BC%25F8%25BB%25EC%25C4%25A1%25C1%25EE.jpg",
+            "menu_name": "가마치즈순살",
+            "price": "14,000원"
+        }
+    ]
+}

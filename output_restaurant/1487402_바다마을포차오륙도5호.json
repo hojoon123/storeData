@@ -1,0 +1,26 @@
+{
+    "store_name": "바다마을포차오륙도5호",
+    "store_location": "부산 해운대구 달맞이길62번길 38 1층 84, 85, 86호",
+    "loc_x": "397764.36636716",
+    "loc_y": "186527.157168576",
+    "menu": [
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241201_147%2F1733051488498lUYrY_JPEG%2F1733051390937.jpg",
+            "menu_name": "랍스타코스2인세트",
+            "price": "변동"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241201_221%2F1733051695203aezD2_JPEG%2F1733051678427.jpg",
+            "menu_name": "랍스타라면",
+            "price": "변동"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241201_227%2F1733051607430hKql0_JPEG%2F1733051585077.jpg",
+            "menu_name": "해산물모듬",
+            "price": "변동"
+        }
+    ]
+}

@@ -1,0 +1,392 @@
+{
+    "store_name": "카페알로",
+    "store_location": "경기 하남시 미사강변한강로 165 AC01-25호 카페알로",
+    "loc_x": "217048.285804714",
+    "loc_y": "452536.634089556",
+    "menu": [
+        {
+            "category": "새로 나온 메뉴",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20240909_91/1725878217508kkIwH_JPEG/KakaoTalk_20240907_111651731.jpg?type=f220_220_60_sharpen",
+            "menu_name": "명란크림파스타N",
+            "price": "11,800원"
+        },
+        {
+            "category": "새로 나온 메뉴",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20240909_168/1725878822077MqbUH_JPEG/KakaoTalk_20240907_111651731_01.jpg?type=f220_220_60_sharpen",
+            "menu_name": "버튼토마토파스타N",
+            "price": "11,800원"
+        },
+        {
+            "category": "인기 메뉴",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20240313_143/1710307371519uaJ41_JPEG/KakaoTalk_20240313_134128770.jpg?type=f220_220_60_sharpen",
+            "menu_name": "불고기포케보울인기대표",
+            "price": "10,000원"
+        },
+        {
+            "category": "인기 메뉴",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20240313_60/1710307746879Tv43q_JPEG/KakaoTalk_20240311_092653739.jpg?type=f220_220_60_sharpen",
+            "menu_name": "새우버섯포케보울매운맛1단계인기대표",
+            "price": "10,000원"
+        },
+        {
+            "category": "인기 메뉴",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20240122_295/1705889786094ewG8F_JPEG/KakaoTalk_20240116_133204704_01.jpg?type=f220_220_60_sharpen",
+            "menu_name": "불고기 파니니(호주산)인기대표",
+            "price": "9,500원"
+        },
+        {
+            "category": "인기 메뉴",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20240119_169/1705647311389NIMJr_JPEG/image_%2821%29.jpg?type=f220_220_60_sharpen",
+            "menu_name": "아메리카노인기대표",
+            "price": "2,800원"
+        },
+        {
+            "category": "인기 메뉴",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20240207_254/1707282924308AhiOM_JPEG/KakaoTalk_20240204_182138392.jpg?type=f220_220_60_sharpen",
+            "menu_name": "바질치킨크림파스타인기",
+            "price": "9,800원"
+        },
+        {
+            "category": "사장님 추천 메뉴",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20240119_169/1705647311389NIMJr_JPEG/image_%2821%29.jpg?type=f220_220_60_sharpen",
+            "menu_name": "아메리카노인기대표",
+            "price": "2,800원"
+        },
+        {
+            "category": "사장님 추천 메뉴",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20240122_295/1705889786094ewG8F_JPEG/KakaoTalk_20240116_133204704_01.jpg?type=f220_220_60_sharpen",
+            "menu_name": "불고기 파니니(호주산)인기대표",
+            "price": "9,500원"
+        },
+        {
+            "category": "사장님 추천 메뉴",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20240122_60/1705889809892eyEHX_JPEG/KakaoTalk_20240116_133204704_03.jpg?type=f220_220_60_sharpen",
+            "menu_name": "치킨 파니니(국내산)대표",
+            "price": "9,500원"
+        },
+        {
+            "category": "사장님 추천 메뉴",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20240122_58/1705889832491PxiRe_JPEG/KakaoTalk_20240116_133204704_02.jpg?type=f220_220_60_sharpen",
+            "menu_name": "새우버섯 파니니대표",
+            "price": "9,500원"
+        },
+        {
+            "category": "사장님 추천 메뉴",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20240313_143/1710307371519uaJ41_JPEG/KakaoTalk_20240313_134128770.jpg?type=f220_220_60_sharpen",
+            "menu_name": "불고기포케보울인기대표",
+            "price": "10,000원"
+        },
+        {
+            "category": "사장님 추천 메뉴",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20240313_60/1710307746879Tv43q_JPEG/KakaoTalk_20240311_092653739.jpg?type=f220_220_60_sharpen",
+            "menu_name": "새우버섯포케보울매운맛1단계인기대표",
+            "price": "10,000원"
+        },
+        {
+            "category": "사장님 추천 메뉴",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20240313_175/17103074806407HUhJ_JPEG/KakaoTalk_20240313_134128770_01.jpg?type=f220_220_60_sharpen",
+            "menu_name": "바질치킨포케보울대표",
+            "price": "10,000원"
+        },
+        {
+            "category": "사장님 추천 메뉴",
+            "img_src": "",
+            "menu_name": "바닐라라떼대표",
+            "price": "4,300원"
+        },
+        {
+            "category": "브런치 세트",
+            "img_src": "",
+            "menu_name": "치킨파니니+아메리카노",
+            "price": "11,500원"
+        },
+        {
+            "category": "브런치 세트",
+            "img_src": "",
+            "menu_name": "새우버섯파니니+아메리카노",
+            "price": "11,500원"
+        },
+        {
+            "category": "브런치 세트",
+            "img_src": "",
+            "menu_name": "불고기파니니+아메리카노",
+            "price": "11,500원"
+        },
+        {
+            "category": "브런치 세트",
+            "img_src": "",
+            "menu_name": "토마토스튜+아메리카노",
+            "price": "11,000원"
+        },
+        {
+            "category": "브런치 세트",
+            "img_src": "",
+            "menu_name": "쉬림프파스타커피세트",
+            "price": "12,000원"
+        },
+        {
+            "category": "브런치 세트",
+            "img_src": "",
+            "menu_name": "바질치킨파스타커피세트",
+            "price": "12,000원"
+        },
+        {
+            "category": "브런치 세트",
+            "img_src": "",
+            "menu_name": "바싹불고기파스타커피세트",
+            "price": "12,000원"
+        },
+        {
+            "category": "브런치 세트",
+            "img_src": "",
+            "menu_name": "베이컨파스타커피세트",
+            "price": "12,000원"
+        },
+        {
+            "category": "브런치 세트",
+            "img_src": "",
+            "menu_name": "명란파스타커피세트",
+            "price": "14,000원"
+        },
+        {
+            "category": "브런치 세트",
+            "img_src": "",
+            "menu_name": "토마토파스타커피세트",
+            "price": "14,000원"
+        },
+        {
+            "category": "PANINI",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20240122_60/1705889809892eyEHX_JPEG/KakaoTalk_20240116_133204704_03.jpg?type=f220_220_60_sharpen",
+            "menu_name": "치킨 파니니(국내산)대표",
+            "price": "9,500원"
+        },
+        {
+            "category": "PANINI",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20240122_58/1705889832491PxiRe_JPEG/KakaoTalk_20240116_133204704_02.jpg?type=f220_220_60_sharpen",
+            "menu_name": "새우버섯 파니니대표",
+            "price": "9,500원"
+        },
+        {
+            "category": "PANINI",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20240122_295/1705889786094ewG8F_JPEG/KakaoTalk_20240116_133204704_01.jpg?type=f220_220_60_sharpen",
+            "menu_name": "불고기 파니니(호주산)인기대표",
+            "price": "9,500원"
+        },
+        {
+            "category": "pasta",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20240207_31/1707283126217y9PzV_JPEG/KakaoTalk_20240204_182228114.jpg?type=f220_220_60_sharpen",
+            "menu_name": "베이컨알리오올리오",
+            "price": "9,800원"
+        },
+        {
+            "category": "pasta",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20240207_51/17072831066592B7Ll_JPEG/KakaoTalk_20240204_182228211.jpg?type=f220_220_60_sharpen",
+            "menu_name": "쉬림프알리오올리오",
+            "price": "9,800원"
+        },
+        {
+            "category": "pasta",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20240207_17/1707283003152ovoK7_JPEG/KakaoTalk_20240204_182228018.jpg?type=f220_220_60_sharpen",
+            "menu_name": "바싹불고기파스타",
+            "price": "9,800원"
+        },
+        {
+            "category": "pasta",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20240207_254/1707282924308AhiOM_JPEG/KakaoTalk_20240204_182138392.jpg?type=f220_220_60_sharpen",
+            "menu_name": "바질치킨크림파스타인기",
+            "price": "9,800원"
+        },
+        {
+            "category": "pasta",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20240909_91/1725878217508kkIwH_JPEG/KakaoTalk_20240907_111651731.jpg?type=f220_220_60_sharpen",
+            "menu_name": "명란크림파스타N",
+            "price": "11,800원"
+        },
+        {
+            "category": "pasta",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20240909_168/1725878822077MqbUH_JPEG/KakaoTalk_20240907_111651731_01.jpg?type=f220_220_60_sharpen",
+            "menu_name": "버튼토마토파스타N",
+            "price": "11,800원"
+        },
+        {
+            "category": "포케보울",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20240313_175/17103074806407HUhJ_JPEG/KakaoTalk_20240313_134128770_01.jpg?type=f220_220_60_sharpen",
+            "menu_name": "바질치킨포케보울대표",
+            "price": "10,000원"
+        },
+        {
+            "category": "포케보울",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20240313_60/1710307746879Tv43q_JPEG/KakaoTalk_20240311_092653739.jpg?type=f220_220_60_sharpen",
+            "menu_name": "새우버섯포케보울매운맛1단계인기대표",
+            "price": "10,000원"
+        },
+        {
+            "category": "포케보울",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20240313_143/1710307371519uaJ41_JPEG/KakaoTalk_20240313_134128770.jpg?type=f220_220_60_sharpen",
+            "menu_name": "불고기포케보울인기대표",
+            "price": "10,000원"
+        },
+        {
+            "category": "SALAD",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20240119_171/1705647729465Th8kW_JPEG/image_%2811%29.jpg?type=f220_220_60_sharpen",
+            "menu_name": "알로 시그니처 샐러드",
+            "price": "10,500원"
+        },
+        {
+            "category": "STEW",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20240119_66/1705647640540H9In3_JPEG/image_%2815%29.jpg?type=f220_220_60_sharpen",
+            "menu_name": "토마토스튜+또띠아",
+            "price": "9,000원"
+        },
+        {
+            "category": "COFFEE",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20240119_240/170564731868183atA_JPEG/image_%2820%29.jpg?type=f220_220_60_sharpen",
+            "menu_name": "카페라떼",
+            "price": "3,500원"
+        },
+        {
+            "category": "COFFEE",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20240119_110/1705647439426R7zmH_JPEG/image_%2816%29.jpg?type=f220_220_60_sharpen",
+            "menu_name": "아인슈페너",
+            "price": "4,500원"
+        },
+        {
+            "category": "COFFEE",
+            "img_src": "",
+            "menu_name": "바닐라라떼대표",
+            "price": "4,300원"
+        },
+        {
+            "category": "COFFEE",
+            "img_src": "",
+            "menu_name": "모카라떼",
+            "price": "4,300원"
+        },
+        {
+            "category": "COFFEE",
+            "img_src": "",
+            "menu_name": "캬라멜 마끼아또",
+            "price": "4,300원"
+        },
+        {
+            "category": "COFFEE",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20240119_203/1705647331024vsdaD_JPEG/image_%2829%29.jpg?type=f220_220_60_sharpen",
+            "menu_name": "알로 시그니처",
+            "price": "4,500원"
+        },
+        {
+            "category": "COFFEE",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20240119_169/1705647311389NIMJr_JPEG/image_%2821%29.jpg?type=f220_220_60_sharpen",
+            "menu_name": "아메리카노인기대표",
+            "price": "2,800원"
+        },
+        {
+            "category": "NON COFFEE",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20240119_251/17056473890850aQsl_JPEG/image_%2818%29.jpg?type=f220_220_60_sharpen",
+            "menu_name": "그린티라떼",
+            "price": "4,000원"
+        },
+        {
+            "category": "NON COFFEE",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20240119_125/1705647401375mx0On_JPEG/image_%2819%29.jpg?type=f220_220_60_sharpen",
+            "menu_name": "핫초코",
+            "price": "4,000원"
+        },
+        {
+            "category": "NON COFFEE",
+            "img_src": "",
+            "menu_name": "토피넛라떼",
+            "price": "4,000원"
+        },
+        {
+            "category": "NON COFFEE",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20240119_261/1705647374621OXMYa_JPEG/image_%2825%29.jpg?type=f220_220_60_sharpen",
+            "menu_name": "복숭아 아이스티",
+            "price": "3,100원"
+        },
+        {
+            "category": "TEE",
+            "img_src": "",
+            "menu_name": "민트",
+            "price": "3,500원"
+        },
+        {
+            "category": "TEE",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20240119_12/1705647486735EqVnM_JPEG/image_%2826%29.jpg?type=f220_220_60_sharpen",
+            "menu_name": "루이보스 바닐라",
+            "price": "3,500원"
+        },
+        {
+            "category": "TEE",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20240119_298/1705647496618A8AL4_JPEG/image_%2822%29.jpg?type=f220_220_60_sharpen",
+            "menu_name": "얼그레이",
+            "price": "3,500원"
+        },
+        {
+            "category": "TEE",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20240119_227/17056474811025JvtA_JPEG/image_%2827%29.jpg?type=f220_220_60_sharpen",
+            "menu_name": "모르겐타우",
+            "price": "3,500원"
+        },
+        {
+            "category": "TEE",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20240119_240/17056475029773aMan_JPEG/image_%2828%29.jpg?type=f220_220_60_sharpen",
+            "menu_name": "카모마일",
+            "price": "3,500원"
+        },
+        {
+            "category": "FRUIT TEA",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20240119_243/1705647538187kM6wk_JPEG/image_%2824%29.jpg?type=f220_220_60_sharpen",
+            "menu_name": "레몬티",
+            "price": "3,800원"
+        },
+        {
+            "category": "FRUIT TEA",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20240119_24/1705647548932rTDiQ_JPEG/image_%2817%29.jpg?type=f220_220_60_sharpen",
+            "menu_name": "자몽티",
+            "price": "3,800원"
+        },
+        {
+            "category": "FRUIT TEA",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20240119_162/1705647530729vRvcY_JPEG/image_%2823%29.jpg?type=f220_220_60_sharpen",
+            "menu_name": "유자티",
+            "price": "3,800원"
+        },
+        {
+            "category": "ADE",
+            "img_src": "",
+            "menu_name": "자몽에이드",
+            "price": "4,000원"
+        },
+        {
+            "category": "ADE",
+            "img_src": "",
+            "menu_name": "레몬에이드",
+            "price": "4,000원"
+        },
+        {
+            "category": "ADE",
+            "img_src": "",
+            "menu_name": "유자에이드",
+            "price": "4,000원"
+        },
+        {
+            "category": "DESSERT",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20240119_274/17056477119958XshW_JPEG/image_%2813%29.jpg?type=f220_220_60_sharpen",
+            "menu_name": "크림브륄레",
+            "price": "4,900원"
+        },
+        {
+            "category": "DESSERT",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20240119_235/1705647673115BS5ls_JPEG/image_%2810%29.jpg?type=f220_220_60_sharpen",
+            "menu_name": "마들렌",
+            "price": "2,300원"
+        },
+        {
+            "category": "DESSERT",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20240119_97/1705647660881lgUqL_JPEG/image_%2814%29.jpg?type=f220_220_60_sharpen",
+            "menu_name": "휘낭시에",
+            "price": "2,300원"
+        }
+    ]
+}

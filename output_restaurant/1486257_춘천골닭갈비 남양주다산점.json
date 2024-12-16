@@ -1,0 +1,98 @@
+{
+    "store_name": "춘천골닭갈비 남양주다산점",
+    "store_location": "경기 남양주시 다산중앙로123번길 7-14 2층 1호",
+    "loc_x": "213393.912637113",
+    "loc_y": "457863.181535387",
+    "menu": [
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241120_141%2F17321095527569hy0w_JPEG%2FIMG_2024-10-07-213429.jpeg",
+            "menu_name": "뼈없는닭갈비",
+            "price": "15,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241124_161%2F1732439439465dzvba_JPEG%2F%25C4%25A1%25C1%25EE%25B4%25DF%25B0%25A5%25BA%25F1%25BB%25E7%25C1%25F8.jpg",
+            "menu_name": "치즈닭갈비",
+            "price": "16,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241124_123%2F1732439467422px4xm_JPEG%2F%25B9%25B0%25B8%25B7%25B1%25B9%25BC%25F6.jpg",
+            "menu_name": "물막국수",
+            "price": "8,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241124_195%2F1732439486566eo9hn_JPEG%2F%25BA%25F1%25BA%25F6%25B8%25B7%25B1%25B9%25BC%25F6.jpg",
+            "menu_name": "비빔막국수",
+            "price": "8,000원"
+        },
+        {
+            "category": "",
+            "img_src": "",
+            "menu_name": "어린이볶음밥",
+            "price": "7,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241124_127%2F1732439523710LmpPP_JPEG%2F%25C1%25D6%25B8%25D4%25B9%25E4.jpg",
+            "menu_name": "주먹밥",
+            "price": "3,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241124_211%2F1732439731856SOs7P_JPEG%2F%25C4%25A1%25C1%25EE%25B6%25B1%25BB%25E7%25B8%25AE.jpg",
+            "menu_name": "치즈떡사리",
+            "price": "3,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241124_40%2F1732439712532HmlhF_JPEG%2F%25B6%25B1%25BB%25E7%25B8%25AE.jpg",
+            "menu_name": "떡사리",
+            "price": "3,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241124_29%2F1732439695046zwiFK_JPEG%2F%25B0%25ED%25B1%25B8%25B8%25B6%25BB%25E7%25B8%25AE.jpg",
+            "menu_name": "고구마사리",
+            "price": "4,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241124_282%2F17324396780750LubC_JPEG%2F%25C2%25CC%25B8%25E9%25BB%25E7%25B8%25AE.jpg",
+            "menu_name": "쫄면사리",
+            "price": "3,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241124_189%2F17324396038772OCe7_JPEG%2F%25B6%25F3%25B8%25E9%25BB%25E7%25B8%25AE.jpg",
+            "menu_name": "라면사리",
+            "price": "3,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241124_43%2F173243958444366jK4_JPEG%2F%25BF%25EC%25B5%25BF%25BB%25E7%25B8%25AE.jpg",
+            "menu_name": "우동사리",
+            "price": "3,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241124_42%2F1732439561793YaqxV_JPEG%2F%25B0%25F8%25B1%25E2%25B9%25E4.jpg",
+            "menu_name": "공기밥",
+            "price": "1,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241124_62%2F1732439550075c0uBg_JPEG%2F%25BA%25F1%25BA%25F6%25B0%25F8%25B1%25E2.jpg",
+            "menu_name": "비빔공기(셀프)",
+            "price": "2,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241124_23%2F17324397460459ilQg_JPEG%2F%25C4%25A1%25C1%25EE%25BB%25E7%25B8%25AE.jpg",
+            "menu_name": "치즈사리",
+            "price": "5,000원"
+        }
+    ]
+}

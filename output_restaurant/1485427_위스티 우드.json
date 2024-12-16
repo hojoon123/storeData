@@ -1,0 +1,14 @@
+{
+    "store_name": "위스티 우드",
+    "store_location": "경기 이천시 이섭대천로 1199-1 5층",
+    "loc_x": "239529.244319596",
+    "loc_y": "419580.583603914",
+    "menu": [
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241212_136%2F1733996776476M33GQ_PNG%2F%25B4%25F5%25C6%25BC%25BF%25EC%25B5%25E5_%25B7%25CE%25B0%25ED.png",
+            "menu_name": "위스티우드",
+            "price": "변동"
+        }
+    ]
+}

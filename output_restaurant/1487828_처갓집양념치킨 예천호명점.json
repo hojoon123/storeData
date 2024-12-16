@@ -1,0 +1,422 @@
+{
+    "store_name": "처갓집양념치킨 예천호명점",
+    "store_location": "경북 예천군 행복로 177 803동 101호",
+    "loc_x": "332645.754979633",
+    "loc_y": "343060.939056219",
+    "menu": [
+        {
+            "category": "대표메뉴",
+            "img_src": "",
+            "menu_name": "XO양념치킨",
+            "price": "22,000원"
+        },
+        {
+            "category": "대표메뉴",
+            "img_src": "",
+            "menu_name": "슈프림양념치킨",
+            "price": "22,000원"
+        },
+        {
+            "category": "대표메뉴",
+            "img_src": "",
+            "menu_name": "100%청양산고추치킨",
+            "price": "22,000원"
+        },
+        {
+            "category": "한마리치킨",
+            "img_src": "",
+            "menu_name": "꼬꼬뱅슈프림양념치킨",
+            "price": "23,000원"
+        },
+        {
+            "category": "한마리치킨",
+            "img_src": "",
+            "menu_name": "후라이드치킨",
+            "price": "19,000원"
+        },
+        {
+            "category": "한마리치킨",
+            "img_src": "",
+            "menu_name": "허니올리고당야채양념치킨",
+            "price": "20,000원"
+        },
+        {
+            "category": "한마리치킨",
+            "img_src": "",
+            "menu_name": "슈프림양념치킨",
+            "price": "22,000원"
+        },
+        {
+            "category": "한마리치킨",
+            "img_src": "",
+            "menu_name": "XO양념치킨",
+            "price": "22,000원"
+        },
+        {
+            "category": "한마리치킨",
+            "img_src": "",
+            "menu_name": "치즈슈프림양념치킨",
+            "price": "22,000원"
+        },
+        {
+            "category": "한마리치킨",
+            "img_src": "",
+            "menu_name": "핫슈프림양념치킨",
+            "price": "22,000원"
+        },
+        {
+            "category": "한마리치킨",
+            "img_src": "",
+            "menu_name": "매운불양념치킨",
+            "price": "21,000원"
+        },
+        {
+            "category": "한마리치킨",
+            "img_src": "",
+            "menu_name": "슈프림골드양념치킨",
+            "price": "23,000원"
+        },
+        {
+            "category": "한마리치킨",
+            "img_src": "",
+            "menu_name": "트러플슈프림양념치킨",
+            "price": "23,000원"
+        },
+        {
+            "category": "한마리치킨",
+            "img_src": "",
+            "menu_name": "100%청양산고추치킨",
+            "price": "22,000원"
+        },
+        {
+            "category": "한마리치킨",
+            "img_src": "",
+            "menu_name": "와락(간장)치킨",
+            "price": "21,000원"
+        },
+        {
+            "category": "한마리치킨",
+            "img_src": "",
+            "menu_name": "훈제치킨",
+            "price": "19,000원"
+        },
+        {
+            "category": "한마리치킨",
+            "img_src": "",
+            "menu_name": "핫불훈제치킨",
+            "price": "21,000원"
+        },
+        {
+            "category": "한마리치킨",
+            "img_src": "",
+            "menu_name": "꼬꼬뱅 양념치킨",
+            "price": "23,000원"
+        },
+        {
+            "category": "순살한마리치킨",
+            "img_src": "",
+            "menu_name": "순살 XO양념치킨",
+            "price": "23,000원"
+        },
+        {
+            "category": "순살한마리치킨",
+            "img_src": "",
+            "menu_name": "순살 후라이드치킨",
+            "price": "20,000원"
+        },
+        {
+            "category": "순살한마리치킨",
+            "img_src": "",
+            "menu_name": "순살 허니올리고당야채양념치킨",
+            "price": "21,000원"
+        },
+        {
+            "category": "순살한마리치킨",
+            "img_src": "",
+            "menu_name": "순살 매운불양념치킨",
+            "price": "22,000원"
+        },
+        {
+            "category": "순살한마리치킨",
+            "img_src": "",
+            "menu_name": "순살 슈프림양념치킨",
+            "price": "23,000원"
+        },
+        {
+            "category": "순살한마리치킨",
+            "img_src": "",
+            "menu_name": "순살 핫슈프림양념치킨",
+            "price": "23,000원"
+        },
+        {
+            "category": "순살한마리치킨",
+            "img_src": "",
+            "menu_name": "순살 치즈슈프림양념치킨",
+            "price": "23,000원"
+        },
+        {
+            "category": "순살한마리치킨",
+            "img_src": "",
+            "menu_name": "순살 슈프림골드양념치킨",
+            "price": "23,000원"
+        },
+        {
+            "category": "순살한마리치킨",
+            "img_src": "",
+            "menu_name": "순살 트러플슈프림양념치킨",
+            "price": "23,000원"
+        },
+        {
+            "category": "순살한마리치킨",
+            "img_src": "",
+            "menu_name": "순살 100%청양산고추치킨",
+            "price": "23,000원"
+        },
+        {
+            "category": "순살한마리치킨",
+            "img_src": "",
+            "menu_name": "순살 와락(간장)치킨",
+            "price": "22,000원"
+        },
+        {
+            "category": "순살한마리치킨",
+            "img_src": "",
+            "menu_name": "닭강정",
+            "price": "22,000원"
+        },
+        {
+            "category": "순살한마리치킨",
+            "img_src": "",
+            "menu_name": "순살 꼬꼬뱅 슈프림 치킨",
+            "price": "24,000원"
+        },
+        {
+            "category": "반반치킨",
+            "img_src": "",
+            "menu_name": "반반치킨(반반 두 종류 선택)",
+            "price": "19,000원"
+        },
+        {
+            "category": "순살반반치킨",
+            "img_src": "",
+            "menu_name": "순살반반치킨(반반 두 종류 선택)",
+            "price": "20,000원"
+        },
+        {
+            "category": "두마리세트",
+            "img_src": "",
+            "menu_name": "두마리세트(치킨 두 종류 선택)",
+            "price": "25,000원"
+        },
+        {
+            "category": "순살두마리세트",
+            "img_src": "",
+            "menu_name": "순살두마리세트(치킨 두 종류 선택)",
+            "price": "27,000원"
+        },
+        {
+            "category": "부위별치킨",
+            "img_src": "",
+            "menu_name": "부위별 치킨(치킨 및 부위 선택)",
+            "price": "20,000원"
+        },
+        {
+            "category": "부위별치킨",
+            "img_src": "",
+            "menu_name": "부위별 반반(치킨 및 부위 선택)",
+            "price": "20,000원"
+        },
+        {
+            "category": "부위별치킨",
+            "img_src": "",
+            "menu_name": "와락(간장)윙",
+            "price": "22,000원"
+        },
+        {
+            "category": "치킨치즈볼",
+            "img_src": "",
+            "menu_name": "치킨치즈볼 골드(9개)",
+            "price": "17,000원"
+        },
+        {
+            "category": "치킨치즈볼",
+            "img_src": "",
+            "menu_name": "치킨치즈볼 레드(9개)",
+            "price": "17,000원"
+        },
+        {
+            "category": "치킨치즈볼",
+            "img_src": "",
+            "menu_name": "치킨치즈볼(9개)",
+            "price": "17,000원"
+        },
+        {
+            "category": "치킨치즈볼 세트",
+            "img_src": "",
+            "menu_name": "슈프림양념치킨 + 치킨치즈볼(3개)",
+            "price": "27,000원"
+        },
+        {
+            "category": "치킨치즈볼 세트",
+            "img_src": "",
+            "menu_name": "트러플슈프림양념치킨 + 치킨치즈볼(3개)",
+            "price": "28,000원"
+        },
+        {
+            "category": "치킨치즈볼 세트",
+            "img_src": "",
+            "menu_name": "100% 청양산고추치킨 + 치킨치즈볼(3개)",
+            "price": "27,000원"
+        },
+        {
+            "category": "사이드메뉴",
+            "img_src": "",
+            "menu_name": "치킨치즈볼 골드(1개)",
+            "price": "2,500원"
+        },
+        {
+            "category": "사이드메뉴",
+            "img_src": "",
+            "menu_name": "치킨치즈볼 골드(3개)",
+            "price": "6,000원"
+        },
+        {
+            "category": "사이드메뉴",
+            "img_src": "",
+            "menu_name": "치킨치즈볼 레드(1개)",
+            "price": "2,500원"
+        },
+        {
+            "category": "사이드메뉴",
+            "img_src": "",
+            "menu_name": "치킨치즈볼 레드(3개)",
+            "price": "6,000원"
+        },
+        {
+            "category": "사이드메뉴",
+            "img_src": "",
+            "menu_name": "치킨치즈볼(1개)",
+            "price": "2,500원"
+        },
+        {
+            "category": "사이드메뉴",
+            "img_src": "",
+            "menu_name": "치킨치즈볼(3개)",
+            "price": "6,000원"
+        },
+        {
+            "category": "사이드메뉴",
+            "img_src": "",
+            "menu_name": "슈프림골드치즈볼(5개)",
+            "price": "4,000원"
+        },
+        {
+            "category": "사이드메뉴",
+            "img_src": "",
+            "menu_name": "라이스치즈볼(5개)",
+            "price": "3,500원"
+        },
+        {
+            "category": "사이드메뉴",
+            "img_src": "",
+            "menu_name": "처갓집라이스 슈프림",
+            "price": "2,000원"
+        },
+        {
+            "category": "사이드메뉴",
+            "img_src": "",
+            "menu_name": "처갓집라이스 핫슈프림",
+            "price": "2,000원"
+        },
+        {
+            "category": "사이드메뉴",
+            "img_src": "",
+            "menu_name": "처갓집라이스 와락",
+            "price": "2,000원"
+        },
+        {
+            "category": "사이드메뉴",
+            "img_src": "",
+            "menu_name": "후렌치후라이",
+            "price": "8,000원"
+        },
+        {
+            "category": "사이드메뉴",
+            "img_src": "",
+            "menu_name": "근위후라이드",
+            "price": "13,000원"
+        },
+        {
+            "category": "사이드메뉴",
+            "img_src": "",
+            "menu_name": "떡사리",
+            "price": "1,000원"
+        },
+        {
+            "category": "사이드메뉴",
+            "img_src": "",
+            "menu_name": "양배추 샐러드",
+            "price": "1,500원"
+        },
+        {
+            "category": "사이드메뉴",
+            "img_src": "",
+            "menu_name": "무 추가",
+            "price": "500원"
+        },
+        {
+            "category": "사이드메뉴",
+            "img_src": "",
+            "menu_name": "양념소스 추가",
+            "price": "500원"
+        },
+        {
+            "category": "사이드메뉴",
+            "img_src": "",
+            "menu_name": "청양고추양념 추가",
+            "price": "500원"
+        },
+        {
+            "category": "사이드메뉴",
+            "img_src": "",
+            "menu_name": "겨자소스 추가",
+            "price": "500원"
+        },
+        {
+            "category": "사이드메뉴",
+            "img_src": "",
+            "menu_name": "콜라 1.25L 변경",
+            "price": "2,000원"
+        },
+        {
+            "category": "사이드메뉴",
+            "img_src": "",
+            "menu_name": "사이다 1.25L 변경",
+            "price": "2,000원"
+        },
+        {
+            "category": "사이드메뉴",
+            "img_src": "",
+            "menu_name": "콜라 500ml 추가",
+            "price": "2,000원"
+        },
+        {
+            "category": "사이드메뉴",
+            "img_src": "",
+            "menu_name": "콜라 1.25L 추가",
+            "price": "3,000원"
+        },
+        {
+            "category": "사이드메뉴",
+            "img_src": "",
+            "menu_name": "사이다 500ml 추가",
+            "price": "2,000원"
+        },
+        {
+            "category": "사이드메뉴",
+            "img_src": "",
+            "menu_name": "사이다 1.25L 추가",
+            "price": "3,000원"
+        }
+    ]
+}

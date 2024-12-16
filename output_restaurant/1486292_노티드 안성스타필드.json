@@ -1,0 +1,14 @@
+{
+    "store_name": "노티드 안성스타필드",
+    "store_location": "경기 안성시 공도읍 서동대로 3930-39 1층",
+    "loc_x": "213062.918998049",
+    "loc_y": "388093.036705258",
+    "menu": [
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241125_140%2F1732499956038837nh_PNG%2F%25BF%25EC%25C0%25AF%25BB%25FD%25C5%25A9%25B8%25B2_%25B5%25B5%25B3%25D3.png",
+            "menu_name": "우유 생크림 도넛",
+            "price": "3,900원"
+        }
+    ]
+}

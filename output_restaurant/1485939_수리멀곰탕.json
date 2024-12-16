@@ -1,0 +1,14 @@
+{
+    "store_name": "수리멀곰탕",
+    "store_location": "충남 태안군 태안읍 반곡길 272",
+    "loc_x": "140116.925833158",
+    "loc_y": "359442.462175234",
+    "menu": [
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241205_260%2F1733405261455uXDvl_JPEG%2F1000004208.jpg",
+            "menu_name": "소머리사골곰탕",
+            "price": "12,000원"
+        }
+    ]
+}

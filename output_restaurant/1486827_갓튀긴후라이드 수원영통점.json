@@ -1,0 +1,14 @@
+{
+    "store_name": "갓튀긴후라이드 수원영통점",
+    "store_location": "경기 수원시 영통구 봉영로 1623 1층 112호",
+    "loc_x": "206556.351819145",
+    "loc_y": "417113.766621288",
+    "menu": [
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241210_145%2F1733818406915YchGN_JPEG%2FKakaoTalk_20241210_171306714.jpg",
+            "menu_name": "갓튀긴후라이드",
+            "price": "18,000원"
+        }
+    ]
+}

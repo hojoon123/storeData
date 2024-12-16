@@ -1,0 +1,74 @@
+{
+    "store_name": "샤브마니아 포천점",
+    "store_location": "경기 포천시 군내면 청군로 3381 1층",
+    "loc_x": "218204.18668818",
+    "loc_y": "487615.798403386",
+    "menu": [
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20231203_10%2F1701588628115O7NSM_JPEG%2FScreenshot_20231203_162714_Gallery.jpg",
+            "menu_name": "평일 점심특선 소고기1인",
+            "price": "12,900원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20231218_294%2F1702886706333y9yIN_PNG%2F%25A4%25B1.PNG",
+            "menu_name": "소고기 샤브",
+            "price": "15,900원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20231218_47%2F17028867165616zymy_PNG%2F%25A4%25B1.PNG",
+            "menu_name": "한우샤브",
+            "price": "20,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20231218_42%2F170288672669599t90_PNG%2F%25A4%25A4.PNG",
+            "menu_name": "해물+피쉬볼+소고기샤브",
+            "price": "21,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20231218_222%2F1702886837073qKQUw_PNG%2F%25A4%25B1%25A4%25A7%25A4%25BE%25A4%25B1%25A4%25BD%25A4%25B5%25A4%25B2.PNG",
+            "menu_name": "해물+피쉬볼+한우샤브",
+            "price": "26,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20231218_31%2F17028867914743We5Q_PNG%2F%25A4%25A7.PNG",
+            "menu_name": "명품버섯+소고기샤브",
+            "price": "21,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20231218_234%2F1702886802071YGqIy_PNG%2F%25A4%25B1%25A4%25BD%25A4%25B4.PNG",
+            "menu_name": "명품버섯+한우샤브",
+            "price": "26,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20231218_13%2F1702886857295Ftau4_PNG%2F%25A4%25B5%25A4%25A1%25A4%25A1.PNG",
+            "menu_name": "추가메뉴-소고기",
+            "price": "10,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20231218_152%2F1702885825906HCd2W_PNG%2F%25A4%25BE%25A4%25B7.PNG",
+            "menu_name": "추가메뉴-한우",
+            "price": "16,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20231218_160%2F17028869023489YOsi_PNG%2F%25A4%25B1%25A4%25B1%25A4%25A7%25A4%25BE%25A4%25B1.PNG",
+            "menu_name": "추가메뉴-모둠해물피쉬볼(2인분)",
+            "price": "13,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20231218_58%2F1702886896058nyupT_PNG%2F%25A4%25B1%25A4%25BD%25A4%25B4.PNG",
+            "menu_name": "추가메뉴-모듬명품버섯(2인분)",
+            "price": "13,000원"
+        }
+    ]
+}

@@ -1,0 +1,20 @@
+{
+    "store_name": "돈나비",
+    "store_location": "부산 수영구 민락로34번길 51 1층",
+    "loc_x": "393480.7025712",
+    "loc_y": "186434.632974478",
+    "menu": [
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241124_221%2F17324317644901uM7s_PNG%2FIMG_1064.png",
+            "menu_name": "삼겹살",
+            "price": "10,000원"
+        },
+        {
+            "category": "",
+            "img_src": "",
+            "menu_name": "뼈해장국",
+            "price": "9,500원"
+        }
+    ]
+}

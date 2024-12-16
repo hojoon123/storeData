@@ -1,0 +1,332 @@
+{
+    "store_name": "굽네치킨 부산우동점",
+    "store_location": "부산 해운대구 해운대로 663 106호",
+    "loc_x": "396926.429507061",
+    "loc_y": "187332.777072866",
+    "menu": [
+        {
+            "category": "인기메뉴",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20241016_291/1729038600465KW13d_JPEG/image.jpg?type=f220_220_60_sharpen",
+            "menu_name": "(NEW) 갈비천왕 플러스 피자(M)",
+            "price": "14,900원"
+        },
+        {
+            "category": "인기메뉴",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20240117_291/1705451408147a6R3k_PNG/image.png?type=f220_220_60_sharpen",
+            "menu_name": "맵단짠 칩킨",
+            "price": "19,900원"
+        },
+        {
+            "category": "인기메뉴",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20231123_231/1700722184184XkcSy_PNG/image.png?type=f220_220_60_sharpen",
+            "menu_name": "고추바사삭",
+            "price": "19,900원"
+        },
+        {
+            "category": "인기메뉴",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20240911_295/1726037918004ufaOs_PNG/image.png?type=f220_220_60_sharpen",
+            "menu_name": "콰트로 미트 피자",
+            "price": "14,900원"
+        },
+        {
+            "category": "인기메뉴",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20240911_11/17260379173776aTR6_PNG/image.png?type=f220_220_60_sharpen",
+            "menu_name": "트리플 포테이토 피자",
+            "price": "14,900원"
+        },
+        {
+            "category": "굽네치킨 시리즈",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20230512_239/16838929285468dqG3_PNG/image.png?type=f220_220_60_sharpen",
+            "menu_name": "남해마늘 바사삭",
+            "price": "20,900원"
+        },
+        {
+            "category": "굽네치킨 시리즈",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20230512_29/1683892880549DWwEi_PNG/image.png?type=f220_220_60_sharpen",
+            "menu_name": "오븐바사삭",
+            "price": "18,900원"
+        },
+        {
+            "category": "굽네치킨 시리즈",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20230512_233/1683892926582uI02x_PNG/image.png?type=f220_220_60_sharpen",
+            "menu_name": "불금치킨",
+            "price": "19,900원"
+        },
+        {
+            "category": "굽네치킨 시리즈",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20230512_245/1683892925948rtuBg_PNG/image.png?type=f220_220_60_sharpen",
+            "menu_name": "볼케이노",
+            "price": "19,900원"
+        },
+        {
+            "category": "굽네치킨 시리즈",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20230512_218/16838929254406RFxw_PNG/image.png?type=f220_220_60_sharpen",
+            "menu_name": "갈비천왕",
+            "price": "19,900원"
+        },
+        {
+            "category": "굽네치킨 시리즈",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20230512_10/1683892880156uksjE_PNG/image.png?type=f220_220_60_sharpen",
+            "menu_name": "오리지널",
+            "price": "17,900원"
+        },
+        {
+            "category": "굽네치킨 시리즈",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20230512_77/16838929181640wv73_PNG/image.png?type=f220_220_60_sharpen",
+            "menu_name": "치즈바사삭",
+            "price": "19,900원"
+        },
+        {
+            "category": "굽네치킨 시리즈",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20230512_204/1683892879739uqHK6_PNG/image.png?type=f220_220_60_sharpen",
+            "menu_name": "양념 히어로",
+            "price": "19,900원"
+        },
+        {
+            "category": "굽네반반&색다른 시리즈",
+            "img_src": "",
+            "menu_name": "양념 반반",
+            "price": "19,900원"
+        },
+        {
+            "category": "굽네피자 시리즈",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20231123_210/17007221914792SKnY_PNG/image.png?type=f220_220_60_sharpen",
+            "menu_name": "허니멜로 스윗포테이토 피자(L)",
+            "price": "17,000원"
+        },
+        {
+            "category": "굽네피자 시리즈",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20230512_20/1683892927056L8WrV_PNG/image.png?type=f220_220_60_sharpen",
+            "menu_name": "갈비천왕 그릴드비프 피자(L)",
+            "price": "17,000원"
+        },
+        {
+            "category": "굽네피자 시리즈",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20230512_269/1683892927605ycrIE_PNG/image.png?type=f220_220_60_sharpen",
+            "menu_name": "시카고 딥디쉬 피자",
+            "price": "17,500원"
+        },
+        {
+            "category": "굽네피자 시리즈",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20230512_264/16838929149054Cgw9_PNG/image.png?type=f220_220_60_sharpen",
+            "menu_name": "바비큐 시카고 피자",
+            "price": "18,900원"
+        },
+        {
+            "category": "굽네피자 시리즈",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20230512_102/1683892915723dl3sd_PNG/image.png?type=f220_220_60_sharpen",
+            "menu_name": "페퍼로니 시카고 피자",
+            "price": "18,900원"
+        },
+        {
+            "category": "굽네피자 시리즈",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20231030_229/1698647454664LxKFR_PNG/image.png?type=f220_220_60_sharpen",
+            "menu_name": "바질&토마토피자",
+            "price": "9,000원"
+        },
+        {
+            "category": "굽네피자 시리즈",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20231030_168/1698647453951mB4kc_PNG/image.png?type=f220_220_60_sharpen",
+            "menu_name": "스윗콘치즈피자",
+            "price": "9,000원"
+        },
+        {
+            "category": "사이드 메뉴",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20240816_75/17237682097220b4hP_JPEG/image.jpg?type=f220_220_60_sharpen",
+            "menu_name": "웨지감자 (국내산)",
+            "price": "4,000원"
+        },
+        {
+            "category": "사이드 메뉴",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20240117_72/1705451408449FEpql_PNG/image.png?type=f220_220_60_sharpen",
+            "menu_name": "갈릭버터웨지감자",
+            "price": "5,000원"
+        },
+        {
+            "category": "사이드 메뉴",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20240926_67/1727310620160LJ30i_JPEG/image.jpg?type=f220_220_60_sharpen",
+            "menu_name": "콰트로 치즈 웨지감자(국내산)",
+            "price": "5,000원"
+        },
+        {
+            "category": "사이드 메뉴",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20240816_126/1723768202242gSO6g_JPEG/image.jpg?type=f220_220_60_sharpen",
+            "menu_name": "케이준감자",
+            "price": "4,000원"
+        },
+        {
+            "category": "사이드 메뉴",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20240926_146/1727310620436VRz1J_JPEG/image.jpg?type=f220_220_60_sharpen",
+            "menu_name": "갈릭버터 케이준 감자",
+            "price": "5,000원"
+        },
+        {
+            "category": "사이드 메뉴",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20240926_256/17273106207290bjME_JPEG/image.jpg?type=f220_220_60_sharpen",
+            "menu_name": "콰트로 치즈 케이준감자",
+            "price": "5,000원"
+        },
+        {
+            "category": "사이드 메뉴",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20240816_206/1723768205572GJnQx_JPEG/image.jpg?type=f220_220_60_sharpen",
+            "menu_name": "모짜치즈볼",
+            "price": "5,000원"
+        },
+        {
+            "category": "사이드 메뉴",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20240816_241/1723768205820rLSd0_JPEG/image.jpg?type=f220_220_60_sharpen",
+            "menu_name": "콰트로모짜치즈볼",
+            "price": "6,000원"
+        },
+        {
+            "category": "사이드 메뉴",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20231030_142/1698647455057khXfH_PNG/image.png?type=f220_220_60_sharpen",
+            "menu_name": "볼로네제파스타",
+            "price": "6,500원"
+        },
+        {
+            "category": "사이드 메뉴",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20231030_283/1698647455440K7Uj2_PNG/image.png?type=f220_220_60_sharpen",
+            "menu_name": "까르보나라파스타",
+            "price": "7,000원"
+        },
+        {
+            "category": "사이드 메뉴",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20240816_119/1723768206592rBmhp_JPEG/image.jpg?type=f220_220_60_sharpen",
+            "menu_name": "굽네 에그타르트(2개)",
+            "price": "4,500원"
+        },
+        {
+            "category": "사이드 메뉴",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20240816_45/1723768207124SKMrA_JPEG/image.jpg?type=f220_220_60_sharpen",
+            "menu_name": "바게트볼(갈릭크림)1개",
+            "price": "3,300원"
+        },
+        {
+            "category": "사이드 메뉴",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20240816_198/1723768214286zbVpF_JPEG/image.jpg?type=f220_220_60_sharpen",
+            "menu_name": "바게트볼(갈릭크림)2개",
+            "price": "6,000원"
+        },
+        {
+            "category": "사이드 메뉴",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20240816_255/1723768209944SxTQP_JPEG/image.jpg?type=f220_220_60_sharpen",
+            "menu_name": "매콤치즈 K웨지감자",
+            "price": "5,000원"
+        },
+        {
+            "category": "사이드 메뉴",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20240816_197/1723768202449I98Sn_JPEG/image.jpg?type=f220_220_60_sharpen",
+            "menu_name": "콘스프 K웨지감자",
+            "price": "5,000원"
+        },
+        {
+            "category": "사이드 메뉴",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20240816_49/1723768210140TWeKT_JPEG/image.jpg?type=f220_220_60_sharpen",
+            "menu_name": "매콤치즈 케이준감자",
+            "price": "5,000원"
+        },
+        {
+            "category": "사이드 메뉴",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20240816_85/1723768210395WMN5S_JPEG/image.jpg?type=f220_220_60_sharpen",
+            "menu_name": "콘스프 케이준감자",
+            "price": "5,000원"
+        },
+        {
+            "category": "사이드 메뉴",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20240816_211/1723768209470yLQkb_JPEG/image.jpg?type=f220_220_60_sharpen",
+            "menu_name": "맵달떡볶이",
+            "price": "8,500원"
+        },
+        {
+            "category": "사이드 메뉴",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20240816_273/1723768202686TYej3_JPEG/image.jpg?type=f220_220_60_sharpen",
+            "menu_name": "볼케이노 치즈치밥",
+            "price": "6,300원"
+        },
+        {
+            "category": "사이드 메뉴",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20240816_123/1723768207334RJz0F_JPEG/image.jpg?type=f220_220_60_sharpen",
+            "menu_name": "갈비천왕 치즈치밥",
+            "price": "6,300원"
+        },
+        {
+            "category": "사이드 메뉴",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20240816_115/1723768202901c7oUz_JPEG/image.jpg?type=f220_220_60_sharpen",
+            "menu_name": "매콤치즈소떡소떡",
+            "price": "2,800원"
+        },
+        {
+            "category": "사이드 메뉴",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20240816_88/1723768206214Cz6dm_JPEG/image.jpg?type=f220_220_60_sharpen",
+            "menu_name": "찍먹커리(티카마살라)",
+            "price": "2,900원"
+        },
+        {
+            "category": "사이드 메뉴",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20240816_237/1723768206431J73ao_JPEG/image.jpg?type=f220_220_60_sharpen",
+            "menu_name": "찍먹커리(치킨마크니)",
+            "price": "2,900원"
+        },
+        {
+            "category": "사이드 메뉴",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20240816_222/1723768203184gCsMh_JPEG/image.jpg?type=f220_220_60_sharpen",
+            "menu_name": "고블링소스",
+            "price": "900원"
+        },
+        {
+            "category": "사이드 메뉴",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20240816_7/1723768209194Pu6zf_JPEG/image.jpg?type=f220_220_60_sharpen",
+            "menu_name": "마블링소스",
+            "price": "900원"
+        },
+        {
+            "category": "사이드 메뉴",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20240816_189/17237682108383tbss_JPEG/image.jpg?type=f220_220_60_sharpen",
+            "menu_name": "러블링소스",
+            "price": "900원"
+        },
+        {
+            "category": "사이드 메뉴",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20240816_211/1723768203447hjNv2_JPEG/image.jpg?type=f220_220_60_sharpen",
+            "menu_name": "알블링소스",
+            "price": "900원"
+        },
+        {
+            "category": "사이드 메뉴",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20240117_264/1705451408987CzeU1_PNG/image.png?type=f220_220_60_sharpen",
+            "menu_name": "요블링소스",
+            "price": "900원"
+        },
+        {
+            "category": "사이드 메뉴",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20240816_284/1723768210631D3A5J_JPEG/image.jpg?type=f220_220_60_sharpen",
+            "menu_name": "마그마소스",
+            "price": "700원"
+        },
+        {
+            "category": "사이드 메뉴",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20240816_238/1723768203660iQRMz_JPEG/image.jpg?type=f220_220_60_sharpen",
+            "menu_name": "달콤소스",
+            "price": "700원"
+        },
+        {
+            "category": "사이드 메뉴",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20240117_66/1705451408764L6d15_PNG/image.png?type=f220_220_60_sharpen",
+            "menu_name": "맵단짠칩",
+            "price": "1,500원"
+        },
+        {
+            "category": "사이드 메뉴",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20240816_141/1723768207530c2kc0_JPEG/image.jpg?type=f220_220_60_sharpen",
+            "menu_name": "즉석밥",
+            "price": "2,100원"
+        },
+        {
+            "category": "사이드 메뉴",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20240911_73/1726037917625k0Ujk_JPEG/image.jpg?type=f220_220_60_sharpen",
+            "menu_name": "(추가) 떡사리",
+            "price": "2,000원"
+        }
+    ]
+}

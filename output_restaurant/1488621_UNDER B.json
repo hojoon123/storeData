@@ -1,0 +1,98 @@
+{
+    "store_name": "UNDER B",
+    "store_location": "광주 동구 동명로14번길 1 (동명동) 지하1층",
+    "loc_x": "192938.62974094",
+    "loc_y": "183470.691366218",
+    "menu": [
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240712_214%2F1720712773390V4gCY_JPEG%2F1720712738319.jpg",
+            "menu_name": "곱대창전골",
+            "price": "28,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240712_187%2F1720712998367fVgty_JPEG%2F1719379922896.jpg",
+            "menu_name": "채끝 타다끼",
+            "price": "32,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240712_206%2F1720712972220uStcw_JPEG%2F1718968865310.jpg",
+            "menu_name": "연어 광어 채끝",
+            "price": "38,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240712_85%2F1720712486120L4WkJ_JPEG%2F1718968813902.jpg",
+            "menu_name": "백합술국",
+            "price": "22,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240712_202%2F1720712501143SJ2SO_JPEG%2F1719379919240.jpg",
+            "menu_name": "열무 수육 오일파스타",
+            "price": "20,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240712_204%2F17207125201453aOa8_JPEG%2F1719379917548.jpg",
+            "menu_name": "불닭 크림 파스타",
+            "price": "18,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240712_223%2F1720712539479ffboj_JPEG%2F1718968827671.jpg",
+            "menu_name": "로제 파스타",
+            "price": "18,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240712_272%2F1720712930840Fq5EH_JPEG%2F1689151927044.jpg",
+            "menu_name": "유린기",
+            "price": "20,000원"
+        },
+        {
+            "category": "",
+            "img_src": "",
+            "menu_name": "언더비 피자",
+            "price": "18,000원"
+        },
+        {
+            "category": "",
+            "img_src": "",
+            "menu_name": "고르곤졸라 피자",
+            "price": "18,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240712_181%2F1720712695763r4JM2_JPEG%2F1716848715143.jpg",
+            "menu_name": "연어 광어 사시미",
+            "price": "36,000원"
+        },
+        {
+            "category": "",
+            "img_src": "",
+            "menu_name": "크림치즈 비스킷",
+            "price": "8,000원"
+        },
+        {
+            "category": "",
+            "img_src": "",
+            "menu_name": "나쵸치즈칩",
+            "price": "8,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240712_186%2F1720714261463aVyB0_PNG%2FClipped_image_20240712_011013.png",
+            "menu_name": "명란감자",
+            "price": "6,000원"
+        },
+        {
+            "category": "",
+            "img_src": "",
+            "menu_name": "mini 야쿠르트 샤베트",
+            "price": "1,500원"
+        }
+    ]
+}

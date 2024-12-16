@@ -1,0 +1,44 @@
+{
+    "store_name": "고창면옥 담양점",
+    "store_location": "전남 담양군 담양읍 태왕2로 24 고창면옥 담양점",
+    "loc_x": "195525.423266724",
+    "loc_y": "201368.751411034",
+    "menu": [
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241104_252%2F17306917072421lgfE_JPEG%2F1_%25BC%25D2%25B0%25A5%25BA%25F1%25C2%25AB%25BB%25CD.jpg",
+            "menu_name": "소갈비짬뽕",
+            "price": "15,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241122_105%2F1732254841256LVnkC_JPEG%2FKakaoTalk_Photo_2024-11-22-14-52-57_001.jpeg",
+            "menu_name": "굴짬뽕",
+            "price": "13,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241104_4%2F1730691746964lhq0I_JPEG%2F2_%25B9%25B0%25B3%25C3%25B8%25E9.jpg",
+            "menu_name": "불고기물냉면",
+            "price": "11,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241104_237%2F1730691818537vdF2d_JPEG%2F3_%25BA%25F1%25BA%25F6%25B3%25C3%25B8%25E9.jpg",
+            "menu_name": "불고기비빔냉면",
+            "price": "11,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241104_60%2F1730691923849UJo70_JPEG%2F5_%25BA%25D2%25B0%25ED%25B1%25E2%25BA%25F1%25BA%25F6%25B9%25E4.jpg",
+            "menu_name": "불고기비빔밥",
+            "price": "10,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241104_163%2F1730691863466hQgQo_JPEG%2F4_%25B0%25A5%25BA%25F1%25C5%25C1.jpg",
+            "menu_name": "갈비탕",
+            "price": "13,000원"
+        }
+    ]
+}

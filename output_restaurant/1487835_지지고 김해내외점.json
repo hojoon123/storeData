@@ -1,0 +1,260 @@
+{
+    "store_name": "지지고 김해내외점",
+    "store_location": "경남 김해시 내외로77번길 26 104호",
+    "loc_x": "369819.492455171",
+    "loc_y": "194662.042022509",
+    "menu": [
+        {
+            "category": "대표메뉴",
+            "img_src": "",
+            "menu_name": "나이스 라이스",
+            "price": "5,500원"
+        },
+        {
+            "category": "대표메뉴",
+            "img_src": "",
+            "menu_name": "누들두들",
+            "price": "5,500원"
+        },
+        {
+            "category": "대표메뉴",
+            "img_src": "",
+            "menu_name": "참치김치마요덮밥",
+            "price": "5,500원"
+        },
+        {
+            "category": "대표메뉴",
+            "img_src": "",
+            "menu_name": "제육볶음마요덮밥",
+            "price": "5,500원"
+        },
+        {
+            "category": "대표메뉴",
+            "img_src": "",
+            "menu_name": "오돌뼈마요덮밥",
+            "price": "5,500원"
+        },
+        {
+            "category": "NICE RICE & NOODLE DOODLE",
+            "img_src": "",
+            "menu_name": "나이스 라이스",
+            "price": "5,500원"
+        },
+        {
+            "category": "NICE RICE & NOODLE DOODLE",
+            "img_src": "",
+            "menu_name": "누들두들",
+            "price": "5,500원"
+        },
+        {
+            "category": "DOVEY RICE",
+            "img_src": "",
+            "menu_name": "참치마요덮밥",
+            "price": "5,500원"
+        },
+        {
+            "category": "DOVEY RICE",
+            "img_src": "",
+            "menu_name": "참치김치마요덮밥",
+            "price": "5,500원"
+        },
+        {
+            "category": "DOVEY RICE",
+            "img_src": "",
+            "menu_name": "제육볶음마요덮밥",
+            "price": "5,500원"
+        },
+        {
+            "category": "DOVEY RICE",
+            "img_src": "",
+            "menu_name": "고기마요덮밥",
+            "price": "5,500원"
+        },
+        {
+            "category": "DOVEY RICE",
+            "img_src": "",
+            "menu_name": "떡갈비마요덮밥",
+            "price": "5,500원"
+        },
+        {
+            "category": "DOVEY RICE",
+            "img_src": "",
+            "menu_name": "오돌뼈마요덮밥",
+            "price": "5,500원"
+        },
+        {
+            "category": "DOVEY RICE",
+            "img_src": "",
+            "menu_name": "핫치킨마요덮밥",
+            "price": "5,500원"
+        },
+        {
+            "category": "DOVEY RICE",
+            "img_src": "",
+            "menu_name": "치킨마요덮밥",
+            "price": "5,500원"
+        },
+        {
+            "category": "SET MENU",
+            "img_src": "",
+            "menu_name": "지지고 세트",
+            "price": "16,500원"
+        },
+        {
+            "category": "SET MENU",
+            "img_src": "",
+            "menu_name": "시그니처 A",
+            "price": "9,000원"
+        },
+        {
+            "category": "SET MENU",
+            "img_src": "",
+            "menu_name": "시그니처 B",
+            "price": "9,000원"
+        },
+        {
+            "category": "SET MENU",
+            "img_src": "",
+            "menu_name": "시그니처 C",
+            "price": "10,000원"
+        },
+        {
+            "category": "SET MENU",
+            "img_src": "",
+            "menu_name": "시그니처 D",
+            "price": "10,000원"
+        },
+        {
+            "category": "SET MENU",
+            "img_src": "",
+            "menu_name": "떡참마요세트",
+            "price": "9,000원"
+        },
+        {
+            "category": "SET MENU",
+            "img_src": "",
+            "menu_name": "떡튀세트",
+            "price": "7,500원"
+        },
+        {
+            "category": "SIDE MENU",
+            "img_src": "",
+            "menu_name": "치즈범벅 해쉬 포테이토",
+            "price": "5,500원"
+        },
+        {
+            "category": "SIDE MENU",
+            "img_src": "",
+            "menu_name": "스윗마요 해쉬 포테이토",
+            "price": "5,500원"
+        },
+        {
+            "category": "SIDE MENU",
+            "img_src": "",
+            "menu_name": "레드마요 해쉬 포테이토",
+            "price": "5,500원"
+        },
+        {
+            "category": "SIDE MENU",
+            "img_src": "",
+            "menu_name": "청양마요 해쉬 포테이토",
+            "price": "5,500원"
+        },
+        {
+            "category": "SIDE MENU",
+            "img_src": "",
+            "menu_name": "명란마요 해쉬 포테이토",
+            "price": "5,500원"
+        },
+        {
+            "category": "SIDE MENU",
+            "img_src": "",
+            "menu_name": "갈릭마요 해쉬 포테이토",
+            "price": "5,500원"
+        },
+        {
+            "category": "FRIED",
+            "img_src": "",
+            "menu_name": "모둠 튀김",
+            "price": "4,000원"
+        },
+        {
+            "category": "FRIED",
+            "img_src": "",
+            "menu_name": "고기 만두 (4개)",
+            "price": "3,500원"
+        },
+        {
+            "category": "FRIED",
+            "img_src": "",
+            "menu_name": "김치 만두(4개)",
+            "price": "3,500원"
+        },
+        {
+            "category": "FRIED",
+            "img_src": "",
+            "menu_name": "꼬마김말이 (6개)",
+            "price": "2,000원"
+        },
+        {
+            "category": "FRIED",
+            "img_src": "",
+            "menu_name": "해쉬브라운(1개)",
+            "price": "1,500원"
+        },
+        {
+            "category": "FRIED",
+            "img_src": "",
+            "menu_name": "미니 돈까스(5개)",
+            "price": "1,500원"
+        },
+        {
+            "category": "FRIED",
+            "img_src": "",
+            "menu_name": "오징어 튀김",
+            "price": "2,500원"
+        },
+        {
+            "category": "DRINK",
+            "img_src": "",
+            "menu_name": "펩시 콜라(355ml)",
+            "price": "2,000원"
+        },
+        {
+            "category": "DRINK",
+            "img_src": "",
+            "menu_name": "사이다(355ml)",
+            "price": "2,000원"
+        },
+        {
+            "category": "DRINK",
+            "img_src": "",
+            "menu_name": "밀키스(355ml)",
+            "price": "2,000원"
+        },
+        {
+            "category": "DRINK",
+            "img_src": "",
+            "menu_name": "제로 펩시(355ml)",
+            "price": "2,000원"
+        },
+        {
+            "category": "DRINK",
+            "img_src": "",
+            "menu_name": "제로 사이다(355ml)",
+            "price": "2,000원"
+        },
+        {
+            "category": "DRINK",
+            "img_src": "",
+            "menu_name": "탐스 제로 오렌지",
+            "price": "2,000원"
+        },
+        {
+            "category": "DRINK",
+            "img_src": "",
+            "menu_name": "탐스 제로 파인애플",
+            "price": "2,000원"
+        }
+    ]
+}

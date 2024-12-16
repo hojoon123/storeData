@@ -1,0 +1,104 @@
+{
+    "store_name": "두가지떡볶이 청주동남점",
+    "store_location": "충북 청주시 상당구 중고개로142번길 20 상가 3동 1층 103호",
+    "loc_x": "246528.442235271",
+    "loc_y": "346414.780236007",
+    "menu": [
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241129_243%2F1732863747924seTrO_JPEG%2FIMG_1548.jpeg",
+            "menu_name": "울엄마 쌀떡볶이",
+            "price": "6,900원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241204_270%2F1733288070851gGX5A_JPEG%2F%25BF%25EF%25BE%25C6%25BA%25FC%25B9%25D0%25B6%25B1%25BA%25BA%25C0%25CC.jpg",
+            "menu_name": "[추억의 떡볶이] 울아빠 밀떡볶이",
+            "price": "6,900원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241204_86%2F1733288146854bPx5y_JPEG%2F%25C6%25A2%25B1%25E8%25B9%25FC%25B9%25F7%25B6%25B1%25BA%25BA%25C0%25CC.jpg",
+            "menu_name": "[포차에서 먹던 그맛]튀김범벅 떡볶이",
+            "price": "10,400원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241204_239%2F1733288172145t4oiI_JPEG%2F%25C2%25CC%25BA%25BA%25C0%25CC.jpg",
+            "menu_name": "[쫄면사리 듬뿍] 쫄볶이",
+            "price": "7,900원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241204_238%2F1733288093128rvbet_JPEG%2F%25BE%25EE%25B9%25AC%25BA%25BA%25C0%25CC.jpg",
+            "menu_name": "[오뎅러버 모여라] 어묵볶이",
+            "price": "6,900원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241204_146%2F17332884284151eTyO_JPEG%2F%25BC%25F8%25B4%25EB%25B9%25FC%25B9%25F7%25B6%25B1%25BA%25BA%25C0%25CC.jpg",
+            "menu_name": "순대범벅 떡볶이",
+            "price": "10,400원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241204_85%2F1733288191395s4If4_JPEG%2F%25B6%25F3%25BA%25BA%25C0%25CC.jpg",
+            "menu_name": "[라면은 못참지] 라볶이",
+            "price": "7,500원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241204_143%2F17332882164939wxEK_JPEG%2F%25C4%25A1%25C1%25EE%25B6%25B1%25BA%25BA%25C0%25CC.jpg",
+            "menu_name": "모짜렐라 치즈듬뿍~ 치즈떡볶이",
+            "price": "8,500원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241204_52%2F1733288396910TjyLL_JPEG%2F%25B5%25CE%25B6%25B1%25B7%25CE%25C1%25A6%25B6%25B1%25BA%25BA%25C0%25CC.jpg",
+            "menu_name": "두떡 로제떡볶이",
+            "price": "10,400원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241204_274%2F1733288261040wwtYs_JPEG%2F%25B5%25CE%25B6%25B1%25B8%25B6%25B6%25F3%25B6%25B1%25BA%25BA%25C0%25CC.jpg",
+            "menu_name": "두떡 마라떡볶이",
+            "price": "11,500원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241204_211%2F1733288374262h3LXK_JPEG%2F%25B8%25B6%25B6%25F3%25B7%25CE%25C1%25A6%25B6%25B1%25BA%25BA%25C0%25CC.jpg",
+            "menu_name": "마라로제떡볶이",
+            "price": "12,500원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241204_25%2F17332884687549ikaQ_JPEG%2F%25B1%25F2%25B2%25FB%25C7%25D1%25B1%25B9%25B9%25B0%25B6%25B1%25BA%25BA%25C0%25CC.jpg",
+            "menu_name": "깔끔한 국물 떡볶이",
+            "price": "8,500원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241204_238%2F1733288523343TdO9B_JPEG%2F%25C5%25A9%25B8%25B2%25B6%25B1%25BA%25BA%25C0%25CC.jpg",
+            "menu_name": "진~한 크림 떡볶이",
+            "price": "10,400원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241204_166%2F1733288506217JQqld_JPEG%2F%25C2%25A5%25C6%25C4%25B1%25B8%25B6%25B1.jpg",
+            "menu_name": "짜파구리 보단 '짜파구떡' 이지",
+            "price": "9,500원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241204_231%2F1733288488056ofsC3_JPEG%2F%25C2%25A5%25C0%25E5%25B6%25B1%25BA%25BA%25C0%25CC.jpg",
+            "menu_name": "짜라짜라짜라~~짜장떡볶이",
+            "price": "8,500원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241204_56%2F1733288451890uSpjQ_JPEG%2F%25C6%25F7%25C2%25F7%25B9%25B0%25B6%25B1.jpg",
+            "menu_name": "포차 물떡",
+            "price": "7,900원"
+        }
+    ]
+}

@@ -1,0 +1,14 @@
+{
+    "store_name": "동네술집",
+    "store_location": "전남 해남군 해남읍 북부순환로 172 106호",
+    "loc_x": "162649.999624022",
+    "loc_y": "119862.000471555",
+    "menu": [
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240227_99%2F1709011582503XJLub_JPEG%2F1000002768.jpg",
+            "menu_name": "포차음식",
+            "price": "변동"
+        }
+    ]
+}

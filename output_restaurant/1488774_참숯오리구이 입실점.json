@@ -1,0 +1,14 @@
+{
+    "store_name": "참숯오리구이 입실점",
+    "store_location": "경북 경주시 외동읍 입실시장길 14-7",
+    "loc_x": "410452.263480793",
+    "loc_y": "248533.709062866",
+    "menu": [
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20220719_69%2F1658208541795J1Wxb_JPEG%2FADA47AC5-5ED7-4B33-B369-293F51790FFA.jpeg",
+            "menu_name": "참숯오리구이",
+            "price": "42,000원"
+        }
+    ]
+}

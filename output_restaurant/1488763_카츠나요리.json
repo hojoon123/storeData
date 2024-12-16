@@ -1,0 +1,14 @@
+{
+    "store_name": "카츠나요리",
+    "store_location": "경기 구리시 산마루로 6 1층 121호",
+    "loc_x": "210080.612828392",
+    "loc_y": "458828.141831747",
+    "menu": [
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240205_35%2F170710948102606XaH_JPEG%2FIMG_9751.jpeg",
+            "menu_name": "등심카츠",
+            "price": "13,000원"
+        }
+    ]
+}

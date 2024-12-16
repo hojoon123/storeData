@@ -1,0 +1,68 @@
+{
+    "store_name": "식송한우마을",
+    "store_location": "경기 남양주시 식송1로 101-2 1층 일부호",
+    "loc_x": "210096.623685924",
+    "loc_y": "461744.744158012",
+    "menu": [
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241211_41%2F1733896850808i4LGe_JPEG%2FIMG_3585.jpeg",
+            "menu_name": "꽃등심(100g)",
+            "price": "22,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241211_231%2F1733900724897C6RxS_JPEG%2FIMG_3606.jpeg",
+            "menu_name": "차돌박이(100g)",
+            "price": "10,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241211_155%2F1733899462448HwUMe_JPEG%2FIMG_3602.jpeg",
+            "menu_name": "항정살(100g)",
+            "price": "7,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241211_119%2F1733897430159zrqnX_JPEG%2FIMG_3595.jpeg",
+            "menu_name": "꽃갈비살(100g)",
+            "price": "28,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241211_38%2F1733897288107uPdnl_JPEG%2FIMG_3600.jpeg",
+            "menu_name": "갈비살(100g)",
+            "price": "19,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241211_244%2F1733897262329xN9Sx_JPEG%2FIMG_3598.jpeg",
+            "menu_name": "부채살(100g)",
+            "price": "19,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241211_61%2F1733897195331eqOTo_JPEG%2FIMG_3594.jpeg",
+            "menu_name": "제비추리(100g)",
+            "price": "22,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241211_204%2F1733897139360Owb5a_JPEG%2FIMG_3591.jpeg",
+            "menu_name": "업진살(100g)",
+            "price": "19,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241211_36%2F1733897080090fe7Mu_JPEG%2FIMG_3588.jpeg",
+            "menu_name": "살치살(100g)",
+            "price": "25,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241211_265%2F1733896902762vYl2D_JPEG%2FIMG_3587.jpeg",
+            "menu_name": "채끝등심(100g)",
+            "price": "19,000원"
+        }
+    ]
+}

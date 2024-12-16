@@ -1,0 +1,20 @@
+{
+    "store_name": "풍일로 두루치기",
+    "store_location": "경북 안동시 풍천면 풍일로 1346 어담리 832",
+    "loc_x": "339986.143628858",
+    "loc_y": "333689.665241863",
+    "menu": [
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241203_153%2F1733224573439R2DLM_JPEG%2FIMG_5639.jpeg",
+            "menu_name": "두루치기",
+            "price": "10,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241203_193%2F1733224651960Gbsi3_JPEG%2FIMG_5638.jpeg",
+            "menu_name": "고기 김치찌개",
+            "price": "8,000원"
+        }
+    ]
+}

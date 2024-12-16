@@ -1,0 +1,38 @@
+{
+    "store_name": "춘식이네 인생장어",
+    "store_location": "경기 파주시 한마음2길 34 1층 춘식이네 인생장어",
+    "loc_x": "179893.48823708",
+    "loc_y": "472728.371030311",
+    "menu": [
+        {
+            "category": "",
+            "img_src": "",
+            "menu_name": "인삼 장어탕",
+            "price": "8,000원"
+        },
+        {
+            "category": "",
+            "img_src": "",
+            "menu_name": "장어 0.5Kg",
+            "price": "36,000원"
+        },
+        {
+            "category": "",
+            "img_src": "",
+            "menu_name": "장어 양념구이 1Kg",
+            "price": "79,000원"
+        },
+        {
+            "category": "",
+            "img_src": "",
+            "menu_name": "장어 소금구이 1kg",
+            "price": "69,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241005_300%2F1728077143063NpgES_JPEG%2F1000002695.jpg",
+            "menu_name": "장어덥밥",
+            "price": "28,000원"
+        }
+    ]
+}

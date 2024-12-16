@@ -1,0 +1,32 @@
+{
+    "store_name": "프레고커피 구리점",
+    "store_location": "경기 구리시 동구릉로136번길 47 롯데아울렛 구리점 6층",
+    "loc_x": "212338.516597728",
+    "loc_y": "456623.179059563",
+    "menu": [
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20231116_84%2F1700112954847kR34Y_JPEG%2F%25B8%25DE%25B4%25BA2.jpg",
+            "menu_name": "에스프레소",
+            "price": "4,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20231116_78%2F1700112969035X3IIw_JPEG%2F%25B8%25DE%25B4%25BA2.jpg",
+            "menu_name": "아메리카노",
+            "price": "4,500원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20231116_55%2F1700112980275VTvFf_JPEG%2F%25B8%25DE%25B4%25BA2.jpg",
+            "menu_name": "카페라떼",
+            "price": "5,200원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20231116_196%2F17001130049169iflb_JPEG%2F%25B8%25DE%25B4%25BA2.jpg",
+            "menu_name": "프레고 라떼",
+            "price": "5,800원"
+        }
+    ]
+}

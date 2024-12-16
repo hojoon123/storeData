@@ -1,0 +1,98 @@
+{
+    "store_name": "안주일체 교동점",
+    "store_location": "대구 중구 동성로12길 43 107, 108호",
+    "loc_x": "344272.942760954",
+    "loc_y": "264647.507162429",
+    "menu": [
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241210_183%2F1733813252737rAkav_JPEG%2F%25BF%25C0%25C2%25A1%25BE%25EE%25B1%25E8%25C4%25A1%25C0%25FC.jpg",
+            "menu_name": "오징어 김치전",
+            "price": "15,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241210_271%2F1733813232873hNF1j_JPEG%2F%25B6%25AF%25C3%25CA%25BA%25CE%25C3%25DF%25C0%25FC.jpg",
+            "menu_name": "땡초 부추전",
+            "price": "15,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241210_64%2F1733813210089fJuWv_JPEG%2F%25B0%25A8%25C0%25DA%25C0%25FC.jpg",
+            "menu_name": "추억의 감자전",
+            "price": "17,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241210_61%2F1733813188317Qglt6_JPEG%2F%25C5%25EB%25C5%25EB%25BB%25F5%25BF%25EC%25C0%25FC.jpg",
+            "menu_name": "통통 새우전",
+            "price": "22,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241210_6%2F173381317110470BtH_JPEG%2F%25C2%25FD%25BD%25D2%25C0%25B0%25C0%25FC.jpg",
+            "menu_name": "찹쌀 육전",
+            "price": "23,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241210_154%2F17338131405102HM1J_JPEG%2F%25C1%25A6%25B8%25F1_%25BE%25F8%25C0%25BD-3.jpg",
+            "menu_name": "모둠전",
+            "price": "29,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241210_97%2F1733813109625wFA3X_JPEG%2F%25BB%25EF%25B0%25E3%25BA%25F1%25BA%25F6%25B1%25B9%25BC%25F6.jpg",
+            "menu_name": "삼겹 비빔국수",
+            "price": "22,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241210_114%2F17338130922174lXp0_JPEG%2F%25BF%25C0%25C2%25A1%25BE%25EE%25B0%25F1%25B9%25F0%25C0%25CC%25B9%25AB%25C4%25A7.jpg",
+            "menu_name": "오징어 골뱅이 무침",
+            "price": "26,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241210_235%2F1733813076976ym7Ge_JPEG%2F%25B3%25B3%25C0%25DB%25BA%25F1%25BA%25F6%25B1%25BA%25B8%25B8%25B5%25CE.jpg",
+            "menu_name": "납작 비빔 군만두",
+            "price": "18,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241210_83%2F1733813036916Kbtqm_JPEG%2F%25B0%25F6%25C3%25A2%25C0%25FC%25B0%25F1.jpg",
+            "menu_name": "대창전골",
+            "price": "28,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241210_62%2F1733813021058mz2eg_JPEG%2F%25B2%25C9%25B0%25D4%25C5%25C1.jpg",
+            "menu_name": "꽃게탕",
+            "price": "27,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241210_228%2F17338130030102I7mk_JPEG%2F%25B8%25ED%25B6%25F5%25BE%25CB%25C5%25C1.jpg",
+            "menu_name": "알탕",
+            "price": "25,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241210_93%2F17338129814222UCci_JPEG%2F%25B5%25C5%25C1%25F6%25B1%25E8%25C4%25A1%25C2%25EE%25B0%25B3.jpg",
+            "menu_name": "돼지 김치찌개",
+            "price": "24,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241210_53%2F17338129631762A4D2_JPEG%2F%25B9%25E9%25C2%25AB%25BB%25CD%25C5%25C1.jpg",
+            "menu_name": "백 짬뽕탕",
+            "price": "24,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241210_155%2F1733812945922KmDXP_JPEG%2F%25BC%25F8%25B5%25CE%25BA%25CE%25B0%25E8%25B6%25F5%25C5%25C1.jpg",
+            "menu_name": "순두부 계란탕",
+            "price": "21,000원"
+        }
+    ]
+}

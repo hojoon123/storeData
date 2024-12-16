@@ -1,0 +1,644 @@
+{
+    "store_name": "푸라닭 대구구지점",
+    "store_location": "대구 달성군 구지면 국가산단대로65길 22-1 1층",
+    "loc_x": "327985.018557989",
+    "loc_y": "241080.208222192",
+    "menu": [
+        {
+            "category": "[특별가]타코볼(4구)",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20241202_58/1733099463672NES5z_JPEG/image.jpg?type=f220_220_60_sharpen",
+            "menu_name": "[특별가] 타코볼 4구",
+            "price": "1,500원"
+        },
+        {
+            "category": "치킨",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20240502_200/1714632356357lgYRW_JPEG/image.jpg?type=f220_220_60_sharpen",
+            "menu_name": "씬 후라이드",
+            "price": "18,900원"
+        },
+        {
+            "category": "치킨",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20230502_299/1683001375270QU8OI_JPEG/image.jpg?type=f220_220_60_sharpen",
+            "menu_name": "달콤양념 치킨",
+            "price": "20,900원"
+        },
+        {
+            "category": "치킨",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20230502_13/16830012796241wuwM_JPEG/image.jpg?type=f220_220_60_sharpen",
+            "menu_name": "고추마요 치킨",
+            "price": "20,900원"
+        },
+        {
+            "category": "치킨",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20230502_114/1683001376920wASXT_JPEG/image.jpg?type=f220_220_60_sharpen",
+            "menu_name": "콘소메이징",
+            "price": "20,900원"
+        },
+        {
+            "category": "치킨",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20230502_213/1683001365044UsN89_JPEG/image.jpg?type=f220_220_60_sharpen",
+            "menu_name": "블랙알리오",
+            "price": "20,900원"
+        },
+        {
+            "category": "치킨",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20240502_16/17146323580698jYM1_JPEG/image.jpg?type=f220_220_60_sharpen",
+            "menu_name": "김미바삭",
+            "price": "20,900원"
+        },
+        {
+            "category": "치킨",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20240502_57/1714632355479grSVM_JPEG/image.jpg?type=f220_220_60_sharpen",
+            "menu_name": "마불로 악마",
+            "price": "21,900원"
+        },
+        {
+            "category": "치킨",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20230502_123/1683001348915D6Wan_JPEG/image.jpg?type=f220_220_60_sharpen",
+            "menu_name": "바질페스타",
+            "price": "21,900원"
+        },
+        {
+            "category": "치킨",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20230502_53/1683001348648IKCjT_JPEG/image.jpg?type=f220_220_60_sharpen",
+            "menu_name": "매드갈릭 치킨",
+            "price": "20,900원"
+        },
+        {
+            "category": "치킨",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20230502_88/1683001348112KnM6I_JPEG/image.jpg?type=f220_220_60_sharpen",
+            "menu_name": "파불로 치킨",
+            "price": "20,900원"
+        },
+        {
+            "category": "치킨",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20230502_131/1683001347775raFVx_JPEG/image.jpg?type=f220_220_60_sharpen",
+            "menu_name": "투움바 치킨",
+            "price": "21,900원"
+        },
+        {
+            "category": "치킨",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20240531_76/1717115406901edrL4_JPEG/image.jpg?type=f220_220_60_sharpen",
+            "menu_name": "띱띱 크런치",
+            "price": "21,900원"
+        },
+        {
+            "category": "치킨",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20240502_2/17146323568406HfQo_JPEG/image.jpg?type=f220_220_60_sharpen",
+            "menu_name": "제너럴 핫 치킨",
+            "price": "20,900원"
+        },
+        {
+            "category": "순살",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20240502_268/1714632357058Gbhc3_JPEG/image.jpg?type=f220_220_60_sharpen",
+            "menu_name": "순살 씬 후라이드",
+            "price": "21,900원"
+        },
+        {
+            "category": "순살",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20230502_245/16830013459579DHC7_JPEG/image.jpg?type=f220_220_60_sharpen",
+            "menu_name": "순살 고추마요",
+            "price": "23,900원"
+        },
+        {
+            "category": "순살",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20230502_47/1683001364756OOKkk_JPEG/image.jpg?type=f220_220_60_sharpen",
+            "menu_name": "순살 콘소메이징",
+            "price": "23,900원"
+        },
+        {
+            "category": "순살",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20230502_95/1683001278824Em8H1_JPEG/image.jpg?type=f220_220_60_sharpen",
+            "menu_name": "순살 블랙알리오",
+            "price": "23,900원"
+        },
+        {
+            "category": "순살",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20240502_195/1714632357753VQ8ul_JPEG/image.jpg?type=f220_220_60_sharpen",
+            "menu_name": "순살 김미바삭",
+            "price": "23,900원"
+        },
+        {
+            "category": "순살",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20240502_81/1714632355856U8TfU_JPEG/image.jpg?type=f220_220_60_sharpen",
+            "menu_name": "순살 마불로 악마",
+            "price": "24,900원"
+        },
+        {
+            "category": "순살",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20230502_195/1683001364476xf1bk_JPEG/image.jpg?type=f220_220_60_sharpen",
+            "menu_name": "순살 바질페스타",
+            "price": "24,900원"
+        },
+        {
+            "category": "순살",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20230502_38/1683001277629Xp84Q_JPEG/image.jpg?type=f220_220_60_sharpen",
+            "menu_name": "순살 매드갈릭",
+            "price": "23,900원"
+        },
+        {
+            "category": "순살",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20230502_232/1683001364161JkDTP_JPEG/image.jpg?type=f220_220_60_sharpen",
+            "menu_name": "순살 달콤양념",
+            "price": "23,900원"
+        },
+        {
+            "category": "순살",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20230502_264/1683001277328zqHhk_JPEG/image.jpg?type=f220_220_60_sharpen",
+            "menu_name": "순살 파불로",
+            "price": "23,900원"
+        },
+        {
+            "category": "순살",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20230502_121/1683001363870Bo0nC_JPEG/image.jpg?type=f220_220_60_sharpen",
+            "menu_name": "순살 투움바",
+            "price": "24,900원"
+        },
+        {
+            "category": "순살",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20240531_60/1717115406386mrKRP_JPEG/image.jpg?type=f220_220_60_sharpen",
+            "menu_name": "순살 띱띱 크런치",
+            "price": "24,900원"
+        },
+        {
+            "category": "순살",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20240502_30/1714632357274nihiC_JPEG/image.jpg?type=f220_220_60_sharpen",
+            "menu_name": "순살 제너럴 핫",
+            "price": "23,900원"
+        },
+        {
+            "category": "윙콤보",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20240502_39/17146340889870Q4OA_JPEG/image.jpg?type=f220_220_60_sharpen",
+            "menu_name": "씬 후라이드 윙콤보",
+            "price": "21,900원"
+        },
+        {
+            "category": "윙콤보",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20230502_185/1683001362501Gkktr_JPEG/image.jpg?type=f220_220_60_sharpen",
+            "menu_name": "콘소메이징 윙콤보",
+            "price": "23,900원"
+        },
+        {
+            "category": "윙콤보",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20230502_100/1683001266267agPt9_JPEG/image.jpg?type=f220_220_60_sharpen",
+            "menu_name": "블랙 윙콤보",
+            "price": "23,900원"
+        },
+        {
+            "category": "윙콤보",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20240502_177/1714632357495jBj9h_JPEG/image.jpg?type=f220_220_60_sharpen",
+            "menu_name": "김미바삭 윙콤보",
+            "price": "23,900원"
+        },
+        {
+            "category": "윙콤보",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20240502_108/1714632382278jOCs7_JPEG/image.jpg?type=f220_220_60_sharpen",
+            "menu_name": "마불로 악마 윙콤보",
+            "price": "24,900원"
+        },
+        {
+            "category": "윙콤보",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20230502_227/1683001362144ekNPc_JPEG/image.jpg?type=f220_220_60_sharpen",
+            "menu_name": "바질페스타 윙콤보",
+            "price": "24,900원"
+        },
+        {
+            "category": "윙콤보",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20230502_28/16830013351188WJDc_JPEG/image.jpg?type=f220_220_60_sharpen",
+            "menu_name": "고추마요 윙콤보",
+            "price": "23,900원"
+        },
+        {
+            "category": "윙콤보",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20230502_24/1683001334713y14K9_JPEG/image.jpg?type=f220_220_60_sharpen",
+            "menu_name": "투움바 윙콤보",
+            "price": "24,900원"
+        },
+        {
+            "category": "윙콤보",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20240502_255/17146323828393B2yx_JPEG/image.jpg?type=f220_220_60_sharpen",
+            "menu_name": "제너럴 핫 윙콤보",
+            "price": "23,900원"
+        },
+        {
+            "category": "윙콤보",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20240502_273/1714632383102zv4CU_JPEG/image.jpg?type=f220_220_60_sharpen",
+            "menu_name": "달콤양념 윙콤보",
+            "price": "23,900원"
+        },
+        {
+            "category": "윙콤보",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20240502_261/1714632383330mdKrl_JPEG/image.jpg?type=f220_220_60_sharpen",
+            "menu_name": "매드갈릭 윙콤보",
+            "price": "23,900원"
+        },
+        {
+            "category": "윙콤보",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20240502_61/1714632383631P0AfD_JPEG/image.jpg?type=f220_220_60_sharpen",
+            "menu_name": "파불로 윙콤보",
+            "price": "23,900원"
+        },
+        {
+            "category": "반반",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20240502_102/17146323561035ViV7_JPEG/image.jpg?type=f220_220_60_sharpen",
+            "menu_name": "블랙마요",
+            "price": "22,900원"
+        },
+        {
+            "category": "반반",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20240502_40/1714632382574SDvre_JPEG/image.jpg?type=f220_220_60_sharpen",
+            "menu_name": "블랙투움바",
+            "price": "23,900원"
+        },
+        {
+            "category": "반반",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20230502_187/16830013760741Y6Xy_JPEG/image.jpg?type=f220_220_60_sharpen",
+            "menu_name": "블랙마불로",
+            "price": "23,900원"
+        },
+        {
+            "category": "반반",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20240502_191/1714632381015l3b2b_JPEG/image.jpg?type=f220_220_60_sharpen",
+            "menu_name": "푸라마불로",
+            "price": "21,900원"
+        },
+        {
+            "category": "반반",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20240502_108/1714632381309pUfgV_JPEG/image.jpg?type=f220_220_60_sharpen",
+            "menu_name": "순살 블랙마요",
+            "price": "24,900원"
+        },
+        {
+            "category": "반반",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20240502_30/1714632381529Yh2Tu_JPEG/image.jpg?type=f220_220_60_sharpen",
+            "menu_name": "순살 블랙투움바",
+            "price": "25,900원"
+        },
+        {
+            "category": "반반",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20230502_104/16830012792893T8Qq_JPEG/image.jpg?type=f220_220_60_sharpen",
+            "menu_name": "순살 블랙마불로",
+            "price": "25,900원"
+        },
+        {
+            "category": "반반",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20240502_70/1714632388714QfDoP_JPEG/image.jpg?type=f220_220_60_sharpen",
+            "menu_name": "순살 푸라마불로",
+            "price": "24,900원"
+        },
+        {
+            "category": "반반",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20240502_287/17146323889844mgS7_JPEG/image.jpg?type=f220_220_60_sharpen",
+            "menu_name": "블랙마요 윙콤보",
+            "price": "24,900원"
+        },
+        {
+            "category": "반반",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20240502_74/1714632387558Y3vEp_JPEG/image.jpg?type=f220_220_60_sharpen",
+            "menu_name": "블랙투움바 윙콤보",
+            "price": "25,900원"
+        },
+        {
+            "category": "반반",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20240502_118/1714632387796het0Q_JPEG/image.jpg?type=f220_220_60_sharpen",
+            "menu_name": "블랙마불로 윙콤보",
+            "price": "25,900원"
+        },
+        {
+            "category": "반반",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20240502_208/17146323892555zNHi_JPEG/image.jpg?type=f220_220_60_sharpen",
+            "menu_name": "푸라마불로 윙콤보",
+            "price": "24,900원"
+        },
+        {
+            "category": "푸레스트",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20230502_146/1683001318415cWAlN_JPEG/image.jpg?type=f220_220_60_sharpen",
+            "menu_name": "텐더 치바로우 (매드갈릭)",
+            "price": "9,900원"
+        },
+        {
+            "category": "푸레스트",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20230502_38/16830013181543s3uW_JPEG/image.jpg?type=f220_220_60_sharpen",
+            "menu_name": "텐더 치바로우 (달콤양념)",
+            "price": "9,900원"
+        },
+        {
+            "category": "푸레스트",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20230502_194/1683001317844hSNw9_JPEG/image.jpg?type=f220_220_60_sharpen",
+            "menu_name": "텐더 치바로우 (악마)",
+            "price": "9,900원"
+        },
+        {
+            "category": "푸레스트",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20230502_233/1683001317541ewOLP_JPEG/image.jpg?type=f220_220_60_sharpen",
+            "menu_name": "지파이",
+            "price": "4,900원"
+        },
+        {
+            "category": "푸레스트",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20230502_145/1683001317318OA9nB_JPEG/image.jpg?type=f220_220_60_sharpen",
+            "menu_name": "콘소메 지파이",
+            "price": "5,900원"
+        },
+        {
+            "category": "세트",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20240502_276/1714632400561eOhMP_JPEG/image.jpg?type=f220_220_60_sharpen",
+            "menu_name": "마불로 악마에 반하다",
+            "price": "31,300원"
+        },
+        {
+            "category": "세트",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20230502_241/1683001264120rRP1v_JPEG/image.jpg?type=f220_220_60_sharpen",
+            "menu_name": "블랙알리오에 반하다",
+            "price": "30,300원"
+        },
+        {
+            "category": "세트",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20230502_215/1683001297506XXlQU_JPEG/image.jpg?type=f220_220_60_sharpen",
+            "menu_name": "파불로에 반하다",
+            "price": "30,300원"
+        },
+        {
+            "category": "세트",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20240502_132/1714632400026z2kqY_JPEG/image.jpg?type=f220_220_60_sharpen",
+            "menu_name": "푸라닭에 반하다",
+            "price": "29,300원"
+        },
+        {
+            "category": "P 피자",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20230502_189/16830012969315yfAe_JPEG/image.jpg?type=f220_220_60_sharpen",
+            "menu_name": "P 피자 (치킨콘마요)",
+            "price": "15,900원"
+        },
+        {
+            "category": "P 피자",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20230502_263/16830012274883U2uI_JPEG/image.jpg?type=f220_220_60_sharpen",
+            "menu_name": "P 피자 (파불고기)",
+            "price": "15,900원"
+        },
+        {
+            "category": "P 피자",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20230502_269/1683001227098OOH72_JPEG/image.jpg?type=f220_220_60_sharpen",
+            "menu_name": "P 피자 (쉬림프베이컨)",
+            "price": "15,900원"
+        },
+        {
+            "category": "사이드메뉴",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20230502_133/16830012253824STgx_JPEG/image.jpg?type=f220_220_60_sharpen",
+            "menu_name": "블랙치즈볼 (5구)",
+            "price": "4,900원"
+        },
+        {
+            "category": "사이드메뉴",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20230502_111/1683001226828VDYeo_JPEG/image.jpg?type=f220_220_60_sharpen",
+            "menu_name": "콘소메 치즈볼",
+            "price": "5,900원"
+        },
+        {
+            "category": "사이드메뉴",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20230831_222/16934713731193GHOp_JPEG/image.jpg?type=f220_220_60_sharpen",
+            "menu_name": "크림치즈볼 (5구)",
+            "price": "4,900원"
+        },
+        {
+            "category": "사이드메뉴",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20230831_108/1693471373416YcNzi_JPEG/image.jpg?type=f220_220_60_sharpen",
+            "menu_name": "베이컨 감자볼 (5구)",
+            "price": "4,900원"
+        },
+        {
+            "category": "사이드메뉴",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20240307_55/1709771421878aU4YI_JPEG/image.jpg?type=f220_220_60_sharpen",
+            "menu_name": "[사이드] 후라잉 닭발",
+            "price": "14,900원"
+        },
+        {
+            "category": "사이드메뉴",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20231221_220/1703118602052XdMtK_JPEG/image.jpg?type=f220_220_60_sharpen",
+            "menu_name": "[비조리]유미네 (국물)떡볶이 (오리지널)",
+            "price": "5,500원"
+        },
+        {
+            "category": "사이드메뉴",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20231221_11/1703118601761c1W7t_JPEG/image.jpg?type=f220_220_60_sharpen",
+            "menu_name": "[비조리]유미네 (국물)떡볶이 (우삼겹)",
+            "price": "6,500원"
+        },
+        {
+            "category": "사이드메뉴",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20230901_66/1693528272809HyAlV_JPEG/image.jpg?type=f220_220_60_sharpen",
+            "menu_name": "3색볼 3구 (배달)",
+            "price": "3,400원"
+        },
+        {
+            "category": "사이드메뉴",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20230901_66/1693528272809HyAlV_JPEG/image.jpg?type=f220_220_60_sharpen",
+            "menu_name": "3색볼 6구 (배달)",
+            "price": "5,800원"
+        },
+        {
+            "category": "사이드메뉴",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20230901_66/1693528272809HyAlV_JPEG/image.jpg?type=f220_220_60_sharpen",
+            "menu_name": "3색볼 9구 (배달)",
+            "price": "8,500원"
+        },
+        {
+            "category": "사이드메뉴",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20230502_194/1683001225044LV47P_JPEG/image.jpg?type=f220_220_60_sharpen",
+            "menu_name": "기름떡볶이 (투움바)",
+            "price": "5,500원"
+        },
+        {
+            "category": "사이드메뉴",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20230502_122/1683001186707NRQVY_JPEG/image.jpg?type=f220_220_60_sharpen",
+            "menu_name": "기름떡볶이 (달콤)",
+            "price": "4,500원"
+        },
+        {
+            "category": "사이드메뉴",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20230502_251/1683001186366lT5mG_JPEG/image.jpg?type=f220_220_60_sharpen",
+            "menu_name": "기름떡볶이 (블랙)",
+            "price": "4,500원"
+        },
+        {
+            "category": "사이드메뉴",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20230502_217/1683001186036Q6w1R_JPEG/image.jpg?type=f220_220_60_sharpen",
+            "menu_name": "기름떡볶이 (레드)",
+            "price": "4,500원"
+        },
+        {
+            "category": "사이드메뉴",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20230502_203/1683001185695R4F72_JPEG/image.jpg?type=f220_220_60_sharpen",
+            "menu_name": "빅치즈스틱",
+            "price": "3,000원"
+        },
+        {
+            "category": "사이드메뉴",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20230502_101/1683001226261rB3Y7_JPEG/image.jpg?type=f220_220_60_sharpen",
+            "menu_name": "콘소메 빅치즈스틱",
+            "price": "4,000원"
+        },
+        {
+            "category": "사이드메뉴",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20230502_286/1683001185407ypi5s_JPEG/image.jpg?type=f220_220_60_sharpen",
+            "menu_name": "빅치즈스틱2개",
+            "price": "5,000원"
+        },
+        {
+            "category": "사이드메뉴",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20230502_141/1683001225904AjJKz_JPEG/image.jpg?type=f220_220_60_sharpen",
+            "menu_name": "콘소메 빅치즈스틱 2개",
+            "price": "7,000원"
+        },
+        {
+            "category": "사이드메뉴",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20231221_130/1703118601186q3nGt_JPEG/image.jpg?type=f220_220_60_sharpen",
+            "menu_name": "블랙치즈스틱 (4개)",
+            "price": "3,900원"
+        },
+        {
+            "category": "사이드메뉴",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20231221_30/1703118601444SojnF_JPEG/image.jpg?type=f220_220_60_sharpen",
+            "menu_name": "코울슬로",
+            "price": "2,500원"
+        },
+        {
+            "category": "사이드메뉴",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20230502_239/1683001185138scas3_JPEG/image.jpg?type=f220_220_60_sharpen",
+            "menu_name": "레귤러컷",
+            "price": "5,900원"
+        },
+        {
+            "category": "사이드메뉴",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20230502_14/16830012265801aadV_JPEG/image.jpg?type=f220_220_60_sharpen",
+            "menu_name": "콘소메 레귤러컷",
+            "price": "6,900원"
+        },
+        {
+            "category": "사이드메뉴",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20230502_6/1683001184838IFG62_JPEG/image.jpg?type=f220_220_60_sharpen",
+            "menu_name": "꼬친 새우",
+            "price": "3,500원"
+        },
+        {
+            "category": "사이드메뉴",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20230502_181/1683001183837Ukqdn_JPEG/image.jpg?type=f220_220_60_sharpen",
+            "menu_name": "모둠감자",
+            "price": "13,000원"
+        },
+        {
+            "category": "선택옵션",
+            "img_src": "",
+            "menu_name": "떡 추가",
+            "price": "2,000원"
+        },
+        {
+            "category": "선택옵션",
+            "img_src": "",
+            "menu_name": "웨지감자 추가",
+            "price": "2,500원"
+        },
+        {
+            "category": "선택옵션",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20230502_243/1683001110828khfrC_JPEG/image.jpg?type=f220_220_60_sharpen",
+            "menu_name": "치자치킨무 추가",
+            "price": "800원"
+        },
+        {
+            "category": "선택옵션",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20230502_33/1683001110545fd3re_JPEG/image.jpg?type=f220_220_60_sharpen",
+            "menu_name": "고추마요소스 추가",
+            "price": "800원"
+        },
+        {
+            "category": "선택옵션",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20230502_209/1683001110212pkDOB_JPEG/image.jpg?type=f220_220_60_sharpen",
+            "menu_name": "달콤양념소스 추가",
+            "price": "800원"
+        },
+        {
+            "category": "선택옵션",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20230502_299/1683001038071e9Yxq_JPEG/image.jpg?type=f220_220_60_sharpen",
+            "menu_name": "악마소스 추가",
+            "price": "800원"
+        },
+        {
+            "category": "선택옵션",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20230502_45/16830011099118o1g9_JPEG/image.jpg?type=f220_220_60_sharpen",
+            "menu_name": "고추마요소스 보틀(240g)",
+            "price": "2,900원"
+        },
+        {
+            "category": "선택옵션",
+            "img_src": "",
+            "menu_name": "즉석밥 (비조리)",
+            "price": "2,000원"
+        },
+        {
+            "category": "음료추가",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20240403_90/1712104200554gd3ik_JPEG/image.jpg?type=f220_220_60_sharpen",
+            "menu_name": "제로한류 355ML (추가) (한정)",
+            "price": "2,000원"
+        },
+        {
+            "category": "음료추가",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20230502_45/1683001109542harqU_JPEG/image.jpg?type=f220_220_60_sharpen",
+            "menu_name": "코카콜라 245ml(추가)",
+            "price": "1,500원"
+        },
+        {
+            "category": "음료추가",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20230502_53/1683001296689ofEVj_JPEG/image.jpg?type=f220_220_60_sharpen",
+            "menu_name": "코카콜라 355ml(추가)",
+            "price": "2,000원"
+        },
+        {
+            "category": "음료추가",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20230502_195/1683001296388Wf1su_JPEG/image.jpg?type=f220_220_60_sharpen",
+            "menu_name": "코카콜라 500ml(추가)",
+            "price": "2,000원"
+        },
+        {
+            "category": "음료추가",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20230502_22/1683001296127a20XH_JPEG/image.jpg?type=f220_220_60_sharpen",
+            "menu_name": "코카콜라 1.25L(추가)",
+            "price": "3,000원"
+        },
+        {
+            "category": "음료추가",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20230502_254/1683001109227L4eaU_JPEG/image.jpg?type=f220_220_60_sharpen",
+            "menu_name": "제로콜라 1.25L(추가)",
+            "price": "3,000원"
+        },
+        {
+            "category": "음료추가",
+            "img_src": "",
+            "menu_name": "제로콜라 500ml(추가)",
+            "price": "2,000원"
+        },
+        {
+            "category": "음료추가",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20230502_112/1683001295593GdJF6_JPEG/image.jpg?type=f220_220_60_sharpen",
+            "menu_name": "스프라이트 245ml(추가)",
+            "price": "1,500원"
+        },
+        {
+            "category": "음료추가",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20230502_78/1683001295294Qv586_JPEG/image.jpg?type=f220_220_60_sharpen",
+            "menu_name": "스프라이트 355ml(추가)",
+            "price": "2,000원"
+        },
+        {
+            "category": "음료추가",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20230502_109/1683001294976Sn1z1_JPEG/image.jpg?type=f220_220_60_sharpen",
+            "menu_name": "스프라이트 500ml(추가)",
+            "price": "2,000원"
+        },
+        {
+            "category": "음료추가",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20230502_91/1683001142001fXdeH_JPEG/image.jpg?type=f220_220_60_sharpen",
+            "menu_name": "스프라이트 1.5L(추가)",
+            "price": "3,000원"
+        }
+    ]
+}

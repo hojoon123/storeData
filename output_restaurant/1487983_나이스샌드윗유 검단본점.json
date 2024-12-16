@@ -1,0 +1,332 @@
+{
+    "store_name": "나이스샌드윗유 검단본점",
+    "store_location": "인천 서구 완정로 126 상가동 2층 206호 나이스샌드윗유 검단본점",
+    "loc_x": "170122.723593332",
+    "loc_y": "455480.184191958",
+    "menu": [
+        {
+            "category": "사장님 추천 메뉴",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20240925_157/1727228724322gbJ2O_JPEG/KakaoTalk_20240925_104412268_03.jpg?type=f220_220_60_sharpen",
+            "menu_name": "샌드위치 하프 A SET [단체주문용]대표",
+            "price": "4,500원"
+        },
+        {
+            "category": "사장님 추천 메뉴",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20231230_295/1703902178242Jiz0D_JPEG/KakaoTalk_20231219_175035862_04.jpg?type=f220_220_60_sharpen",
+            "menu_name": "스윗펌킨[단호박] 샌드위치대표",
+            "price": "7,000원"
+        },
+        {
+            "category": "단체주문",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20240925_157/1727228724322gbJ2O_JPEG/KakaoTalk_20240925_104412268_03.jpg?type=f220_220_60_sharpen",
+            "menu_name": "샌드위치 하프 A SET [단체주문용]대표",
+            "price": "4,500원"
+        },
+        {
+            "category": "단체주문",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20240925_136/1727229079456W0qXo_JPEG/KakaoTalk_20240925_105057743.jpg?type=f220_220_60_sharpen",
+            "menu_name": "샌드위치 하프 B SET [단체주문용]",
+            "price": "5,500원"
+        },
+        {
+            "category": "단체주문",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20240925_26/17272255865532Qzs9_JPEG/KakaoTalk_20240925_095120617_01.jpg?type=f220_220_60_sharpen",
+            "menu_name": "샌드위치 하프 C SET [단체주문용]",
+            "price": "7,500원"
+        },
+        {
+            "category": "단체주문",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20240925_110/1727225901437jiSiu_JPEG/KakaoTalk_20240925_095120617_03.jpg?type=f220_220_60_sharpen",
+            "menu_name": "샌드위치 하프 D SET [단체주문용]",
+            "price": "9,000원"
+        },
+        {
+            "category": "단체주문",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20240925_289/1727228748576fKC8D_JPEG/KakaoTalk_20240925_104412268.jpg?type=f220_220_60_sharpen",
+            "menu_name": "샌드위치 풀 A SET [단체주문용]",
+            "price": "8,000원"
+        },
+        {
+            "category": "단체주문",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20240925_199/1727228770290p0iho_JPEG/KakaoTalk_20240925_104412268_01.jpg?type=f220_220_60_sharpen",
+            "menu_name": "샌드위치 풀 B SET [단체주문용]",
+            "price": "10,500원"
+        },
+        {
+            "category": "단체주문",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20240925_232/1727225719773pbrL2_JPEG/KakaoTalk_20240925_095120617_02.jpg?type=f220_220_60_sharpen",
+            "menu_name": "샌드위치 풀 C SET [단체주문용]",
+            "price": "12,000원"
+        },
+        {
+            "category": "단체주문",
+            "img_src": "",
+            "menu_name": "샌드위치 풀 D SET [단체주문용]",
+            "price": "14,000원"
+        },
+        {
+            "category": "단체주문",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20240926_139/1727318100795hxHcr_JPEG/KakaoTalk_20240925_123020496.jpg?type=f220_220_60_sharpen",
+            "menu_name": "샌드위치 2단 세트 [단체주문용]",
+            "price": "22,000원"
+        },
+        {
+            "category": "단체주문",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20240925_191/1727235646769utfJp_JPEG/KakaoTalk_20240404_131138277.jpg?type=f220_220_60_sharpen",
+            "menu_name": "변동)프리미엄 2단 도시락 [단체주문용]",
+            "price": "0원"
+        },
+        {
+            "category": "단체주문",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20240902_133/1725258142799uBXzf_JPEG/KakaoTalk_20240131_094159628_%281%29.jpg?type=f220_220_60_sharpen",
+            "menu_name": "컵과일 9oz[단체주문용]",
+            "price": "4,500원"
+        },
+        {
+            "category": "단체주문",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20240902_225/1725278096369bAdFs_JPEG/IMG_0103_2.JPG?type=f220_220_60_sharpen",
+            "menu_name": "미니컵 리코타 샐러드 [단체주문용]",
+            "price": "4,000원"
+        },
+        {
+            "category": "단체주문",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20240925_274/17272398963955EcHH_JPEG/KakaoTalk_20240925_134936104.jpg?type=f220_220_60_sharpen",
+            "menu_name": "구움과자 답례품A SET [단체주문용]",
+            "price": "3,500원"
+        },
+        {
+            "category": "단체주문",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20240925_192/172724003344029ADJ_JPEG/KakaoTalk_20240925_134936104_02.jpg?type=f220_220_60_sharpen",
+            "menu_name": "구움과자 답례품B SET [단체주문전용]",
+            "price": "5,500원"
+        },
+        {
+            "category": "단체주문",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20240925_49/1727240222752eVw3s_JPEG/KakaoTalk_20240925_134936104_04.jpg?type=f220_220_60_sharpen",
+            "menu_name": "구움과자 답례품 C SET [단체주문전용]",
+            "price": "6,500원"
+        },
+        {
+            "category": "SOUP & GREEK",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20240109_14/1704777040965vwYhi_JPEG/%BE%E7%BC%DB.jpg?type=f220_220_60_sharpen",
+            "menu_name": "[이달의 수프]",
+            "price": "6,000원"
+        },
+        {
+            "category": "SOUP & GREEK",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20231230_79/1703903262826YKX1F_JPEG/KakaoTalk_20231220_130756751.jpg?type=f220_220_60_sharpen",
+            "menu_name": "허니 그릭요거트",
+            "price": "5,800원"
+        },
+        {
+            "category": "SOUP & GREEK",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20231230_25/17039033807430Tbk7_JPEG/KakaoTalk_20231222_180711694.jpg?type=f220_220_60_sharpen",
+            "menu_name": "그릭요거트 후르츠",
+            "price": "6,800원"
+        },
+        {
+            "category": "SANDWICH",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20231230_284/1703901989328Ml0Fo_JPEG/KakaoTalk_20231219_175035862_08.jpg?type=f220_220_60_sharpen",
+            "menu_name": "나이스 샌드위치",
+            "price": "6,000원"
+        },
+        {
+            "category": "SANDWICH",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20231230_300/1703902124073ADbV9_JPEG/KakaoTalk_20231219_175035862_06.jpg?type=f220_220_60_sharpen",
+            "menu_name": "에햄치 샌드위치",
+            "price": "6,500원"
+        },
+        {
+            "category": "SANDWICH",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20231230_295/1703902178242Jiz0D_JPEG/KakaoTalk_20231219_175035862_04.jpg?type=f220_220_60_sharpen",
+            "menu_name": "스윗펌킨[단호박] 샌드위치대표",
+            "price": "7,000원"
+        },
+        {
+            "category": "SANDWICH",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20231230_117/1703902285455oAFih_JPEG/KakaoTalk_20231219_175035862_03.jpg?type=f220_220_60_sharpen",
+            "menu_name": "애플 루꼴라 샌드위치",
+            "price": "8,600원"
+        },
+        {
+            "category": "SANDWICH",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20231230_175/1703902381397v75Oc_JPEG/KakaoTalk_20231219_175035862_02.jpg?type=f220_220_60_sharpen",
+            "menu_name": "연어 & 크림치즈 치아바타",
+            "price": "8,800원"
+        },
+        {
+            "category": "SANDWICH",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20231230_211/1703902211183yoQmg_JPEG/KakaoTalk_20231219_175035862_05.jpg?type=f220_220_60_sharpen",
+            "menu_name": "크랜베리치킨 샌드위치매운맛1단계",
+            "price": "7,500원"
+        },
+        {
+            "category": "SANDWICH",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20240109_195/17047770811541VCEv_JPEG/%B8%D3%BD%C3%B7%EB.jpg?type=f220_220_60_sharpen",
+            "menu_name": "트리플치즈 머쉬룸 파니니",
+            "price": "8,300원"
+        },
+        {
+            "category": "SANDWICH",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20240109_182/1704777266162UMWvX_JPEG/%B0%A1%A4%D3.jpg?type=f220_220_60_sharpen",
+            "menu_name": "트리플치즈 가지 파니니매운맛1단계",
+            "price": "8,800원"
+        },
+        {
+            "category": "SANDWICH",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20241009_181/17284500596847sLbB_JPEG/KakaoTalk_20240422_093948532_03.jpg?type=f220_220_60_sharpen",
+            "menu_name": "트리플 치즈 불고기 파니니",
+            "price": "8,800원"
+        },
+        {
+            "category": "COFFEE",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20231230_227/1703902469155VrkG6_JPEG/%C4%BF%C7%C7.jpg?type=f220_220_60_sharpen",
+            "menu_name": "아메리카노",
+            "price": "3,500원"
+        },
+        {
+            "category": "COFFEE",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20231230_254/1703902505656Ck5r1_JPEG/%C4%AB%B6%F3.jpg?type=f220_220_60_sharpen",
+            "menu_name": "카페라떼",
+            "price": "4,500원"
+        },
+        {
+            "category": "COFFEE",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20231230_275/1703902516703BzW2S_JPEG/%B9%D9%B6%F3.jpg?type=f220_220_60_sharpen",
+            "menu_name": "바닐라라떼",
+            "price": "5,000원"
+        },
+        {
+            "category": "COFFEE",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20231230_16/1703902563265oGydK_JPEG/%B9%CC%B3%A2.jpg?type=f220_220_60_sharpen",
+            "menu_name": "카라멜마끼아또",
+            "price": "5,000원"
+        },
+        {
+            "category": "COFFEE",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20231230_200/1703902543383LNml1_JPEG/%B8%F0%C4%AB.jpg?type=f220_220_60_sharpen",
+            "menu_name": "카페모카",
+            "price": "5,000원"
+        },
+        {
+            "category": "NON-COFFEE",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20231230_221/1703902984080IFnDU_JPEG/KakaoTalk_20231230_111751273.jpg?type=f220_220_60_sharpen",
+            "menu_name": "아이스티",
+            "price": "2,500원"
+        },
+        {
+            "category": "NON-COFFEE",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20231230_58/1703903004944JTz4p_JPEG/%B8%E1%B7%D0.jpg?type=f220_220_60_sharpen",
+            "menu_name": "멜론소다",
+            "price": "6,000원"
+        },
+        {
+            "category": "NON-COFFEE",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20231230_40/1703903020905HsPNG_JPEG/%B3%EC%C2%F7.jpg?type=f220_220_60_sharpen",
+            "menu_name": "말차라떼",
+            "price": "5,000원"
+        },
+        {
+            "category": "NON-COFFEE",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20231230_200/1703903042206UXzWD_JPEG/%C3%CA%C4%DA.jpg?type=f220_220_60_sharpen",
+            "menu_name": "초코라떼",
+            "price": "5,000원"
+        },
+        {
+            "category": "NON-COFFEE",
+            "img_src": "",
+            "menu_name": "쑥라떼",
+            "price": "5,500원"
+        },
+        {
+            "category": "NON-COFFEE",
+            "img_src": "",
+            "menu_name": "흑임자라떼",
+            "price": "5,500원"
+        },
+        {
+            "category": "ADE & TEA",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20231230_287/1703903095570gdQH7_JPEG/%BF%C0%B7%BB%C1%F62.jpg?type=f220_220_60_sharpen",
+            "menu_name": "오렌지에이드",
+            "price": "5,000원"
+        },
+        {
+            "category": "ADE & TEA",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20231230_288/1703903119601zl8V2_JPEG/%BE%D6%C7%C3%B8%C1%B0%ED.jpg?type=f220_220_60_sharpen",
+            "menu_name": "애플망고에이드",
+            "price": "5,000원"
+        },
+        {
+            "category": "ADE & TEA",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20231230_144/1703903107319nUGcu_JPEG/%C0%DA%B8%F9.jpg?type=f220_220_60_sharpen",
+            "menu_name": "자몽에이드",
+            "price": "5,000원"
+        },
+        {
+            "category": "ADE & TEA",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20231230_197/1703903159279JX42p_JPEG/%C0%AF%C0%DA.jpg?type=f220_220_60_sharpen",
+            "menu_name": "유자에이드",
+            "price": "5,000원"
+        },
+        {
+            "category": "ADE & TEA",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20231230_292/1703903134313t2dum_JPEG/%C3%BB%C6%F7%B5%B5.jpg?type=f220_220_60_sharpen",
+            "menu_name": "청포도에이드",
+            "price": "5,000원"
+        },
+        {
+            "category": "ADE & TEA",
+            "img_src": "",
+            "menu_name": "애플 피치우롱",
+            "price": "4,000원"
+        },
+        {
+            "category": "ADE & TEA",
+            "img_src": "",
+            "menu_name": "라임 파인애플",
+            "price": "4,000원"
+        },
+        {
+            "category": "ADE & TEA",
+            "img_src": "",
+            "menu_name": "애플 시나몬 루이보스",
+            "price": "4,000원"
+        },
+        {
+            "category": "ADE & TEA",
+            "img_src": "",
+            "menu_name": "베리 히비스커스",
+            "price": "4,000원"
+        },
+        {
+            "category": "ADE & TEA",
+            "img_src": "",
+            "menu_name": "블루베리 요거트스무디",
+            "price": "6,500원"
+        },
+        {
+            "category": "ADE & TEA",
+            "img_src": "",
+            "menu_name": "청귤 캐모마일",
+            "price": "4,000원"
+        },
+        {
+            "category": "ADE & TEA",
+            "img_src": "",
+            "menu_name": "오렌지 자몽 블랙",
+            "price": "4,000원"
+        },
+        {
+            "category": "ADE & TEA",
+            "img_src": "",
+            "menu_name": "망고 요거트스무디",
+            "price": "6,500원"
+        },
+        {
+            "category": "ADE & TEA",
+            "img_src": "",
+            "menu_name": "레몬 얼그레이",
+            "price": "4,000원"
+        }
+    ]
+}

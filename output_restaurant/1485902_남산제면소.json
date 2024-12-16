@@ -1,0 +1,104 @@
+{
+    "store_name": "남산제면소",
+    "store_location": "충북 충주시 안림로 232 나동 102호",
+    "loc_x": "286291.396942768",
+    "loc_y": "386378.510246223",
+    "menu": [
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241211_214%2F1733890518139DMCEW_JPEG%2F%25C0%25DA%25B7%25E7%25BC%25D2%25B9%25D9.jpg",
+            "menu_name": "[단품메뉴]자루소바",
+            "price": "9,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241211_218%2F1733890504325uaj8Y_JPEG%2F%25C0%25DA%25B7%25E7%25BF%25EC%25B5%25BF.jpg",
+            "menu_name": "[단품메뉴]자루우동",
+            "price": "9,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241211_292%2F1733890489493qdYkN_JPEG%2F%25C0%25AF%25BA%25CE%25BF%25EC%25B5%25BF.jpg",
+            "menu_name": "[단품메뉴]유부우동",
+            "price": "9,500원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241211_70%2F173389046010921tRc_JPEG%2F%25B3%25C3%25BC%25D2%25B9%25D9.jpg",
+            "menu_name": "[계절메뉴]냉소바",
+            "price": "9,500원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241211_137%2F1733890438155usDR7_JPEG%2F%25BF%25C2%25BC%25D2%25B9%25D9.jpg",
+            "menu_name": "[계절메뉴]온소바",
+            "price": "9,500원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241211_156%2F1733890415455BDDml_JPEG%2F%25B8%25ED%25C5%25C2%25C8%25B8%25BC%25F6%25C0%25B0%25BC%25BC%25C6%25AE.jpg",
+            "menu_name": "[세트메뉴]명태회수육세트",
+            "price": "14,900원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241211_265%2F1733890397330oV53H_JPEG%2F%25C4%25DA%25B4%25D9%25B8%25AE%25B0%25AD%25C1%25A4%25BC%25BC%25C6%25AE.jpg",
+            "menu_name": "[세트메뉴]코다리강정세트",
+            "price": "13,900원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241211_79%2F1733890350484RDLo7_JPEG%2F%25C2%25DE%25B2%25D9%25B9%25CC%25BA%25F1%25BA%25F6%25BC%25D2%25B9%25D9.jpg",
+            "menu_name": "[특별메뉴]쭈꾸미비빔소바",
+            "price": "11,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241211_89%2F1733890335302U2V4X_JPEG%2F%25BF%25BE%25B3%25AF%25B5%25B7%25B1%25EE%25BD%25BA.jpg",
+            "menu_name": "[특별메뉴]남산옛날돈까스",
+            "price": "13,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241211_35%2F1733890312236HrJyo_JPEG%2F%25C0%25E5%25BE%25EE%25B5%25A4%25B9%25E4.jpg",
+            "menu_name": "[특별메뉴]장어덮밥",
+            "price": "18,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241211_27%2F17338902868795IGSB_JPEG%2F%25B8%25ED%25C5%25C2%25C8%25B8%25BC%25F6%25C0%25B0.jpg",
+            "menu_name": "[추가메뉴]명태회수육",
+            "price": "15,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241211_7%2F1733890270840bTOpe_JPEG%2F%25C4%25DA%25B4%25D9%25B8%25AE%25B0%25AD%25C1%25A4.jpg",
+            "menu_name": "[추가메뉴]코다리강정",
+            "price": "13,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241211_163%2F1733890236103Y7zgd_JPEG%2F%25B0%25A8%25C0%25DA%25B0%25ED%25B7%25CE%25C4%25C9.jpg",
+            "menu_name": "[추가메뉴]감자고로케",
+            "price": "4,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241211_170%2F1733890216526G15YX_JPEG%2F%25B0%25E8%25B6%25F5%25C3%25CA%25B9%25E4.jpg",
+            "menu_name": "[추가메뉴]계란초밥",
+            "price": "4,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241211_41%2F1733890198198fkb5G_JPEG%2F%25C0%25AF%25BA%25CE%25C3%25CA%25B9%25E4.jpg",
+            "menu_name": "[추가메뉴]유부초밥",
+            "price": "3,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241211_62%2F1733890175120SnTkb_JPEG%2F%25BC%25D2%25B9%25D9%25B8%25E9.jpg",
+            "menu_name": "[추가메뉴]면추가",
+            "price": "2,000원"
+        }
+    ]
+}

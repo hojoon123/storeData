@@ -1,0 +1,50 @@
+{
+    "store_name": "봉가네 교동짬뽕",
+    "store_location": "경기 안성시 공단로 11 1층",
+    "loc_x": "222160.836836246",
+    "loc_y": "390261.2003358",
+    "menu": [
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240312_223%2F1710246920657EcAzx_PNG%2F%25C2%25A5%25C0%25E5.png",
+            "menu_name": "짜장면",
+            "price": "7,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240312_102%2F1710239285079mtPMI_JPEG%2F%25C2%25AB%25BB%25CD.jpg",
+            "menu_name": "짬뽕",
+            "price": "9,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240311_105%2F1710158481625s29RQ_PNG%2F%25C5%25C1%25BC%25F6%25C0%25B0.png",
+            "menu_name": "탕수육(소)",
+            "price": "18,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240312_211%2F1710247049253TelyM_JPEG%2F%25B9%25E9%25C2%25AB%25BB%25CD.jpg",
+            "menu_name": "백짬뽕",
+            "price": "10,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240312_157%2F1710239704866GR2qm_JPEG%2F%25BE%25E7%25C0%25E5%25C7%25C7.jpg",
+            "menu_name": "양장피",
+            "price": "35,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240312_250%2F1710239516476iKLrI_JPEG%2F%25B1%25BA%25B8%25B8%25B5%25CE.jpg",
+            "menu_name": "군만두",
+            "price": "7,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240312_170%2F1710239494431W8nmH_JPEG%2F%25BA%25BA%25C0%25BD%25B9%25E4.jpg",
+            "menu_name": "새우볶음밥",
+            "price": "9,000원"
+        }
+    ]
+}

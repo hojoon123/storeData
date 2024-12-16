@@ -1,0 +1,44 @@
+{
+    "store_name": "점프 대전관저점",
+    "store_location": "대전 서구 관저중로96번길 12 1층",
+    "loc_x": "230076.987761761",
+    "loc_y": "311132.457095727",
+    "menu": [
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20231227_225%2F1703674203015yh6rF_JPEG%2F01E57274-D9F5-4B82-929A-B2C5CD414B10.jpeg",
+            "menu_name": "아메리카노",
+            "price": "3,900원"
+        },
+        {
+            "category": "",
+            "img_src": "",
+            "menu_name": "브런치와플세트",
+            "price": "8,900원"
+        },
+        {
+            "category": "",
+            "img_src": "",
+            "menu_name": "사회적거리두기와플",
+            "price": "3,500원"
+        },
+        {
+            "category": "",
+            "img_src": "",
+            "menu_name": "사과잼시나몬와플",
+            "price": "3,500원"
+        },
+        {
+            "category": "",
+            "img_src": "",
+            "menu_name": "와플",
+            "price": "3,900원"
+        },
+        {
+            "category": "",
+            "img_src": "",
+            "menu_name": "과일잼와플",
+            "price": "3,900원"
+        }
+    ]
+}

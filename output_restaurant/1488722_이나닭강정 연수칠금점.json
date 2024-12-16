@@ -1,0 +1,206 @@
+{
+    "store_name": "이나닭강정 연수칠금점",
+    "store_location": "충북 충주시 칠금5길 17 1층 이나닭강정",
+    "loc_x": "282028.592011275",
+    "loc_y": "387353.1934799",
+    "menu": [
+        {
+            "category": "대표메뉴",
+            "img_src": "",
+            "menu_name": "이나닭강정2박스(순살3~4인분)",
+            "price": "29,000원"
+        },
+        {
+            "category": "대표메뉴",
+            "img_src": "",
+            "menu_name": "양파)닭강정(간장맛)1박스(순살1~2인분)",
+            "price": "18,500원"
+        },
+        {
+            "category": "이나)닭강정1박스",
+            "img_src": "",
+            "menu_name": "이나닭강정1박스(순살1~2인분)",
+            "price": "17,000원"
+        },
+        {
+            "category": "이나)닭강정2박스",
+            "img_src": "",
+            "menu_name": "이나닭강정2박스(순살3~4인분)",
+            "price": "29,000원"
+        },
+        {
+            "category": "이나)닭강정1박스(메뉴사진)",
+            "img_src": "",
+            "menu_name": "NEW이나깐풍)닭강정1박스",
+            "price": "19,000원"
+        },
+        {
+            "category": "이나)닭강정1박스(메뉴사진)",
+            "img_src": "",
+            "menu_name": "순한맛1박스(순살1~2인분)",
+            "price": "17,000원"
+        },
+        {
+            "category": "이나)닭강정1박스(메뉴사진)",
+            "img_src": "",
+            "menu_name": "매운맛1박스(순살1~2인분)",
+            "price": "17,500원"
+        },
+        {
+            "category": "이나)닭강정1박스(메뉴사진)",
+            "img_src": "",
+            "menu_name": "간장맛1박스(순살1~2인분)",
+            "price": "17,500원"
+        },
+        {
+            "category": "이나)닭강정1박스(메뉴사진)",
+            "img_src": "",
+            "menu_name": "후라이드치킨1박스(소스&소금)(순살1~2인분)",
+            "price": "17,000원"
+        },
+        {
+            "category": "이나)닭강정1박스(메뉴사진)",
+            "img_src": "",
+            "menu_name": "쉑쉑)후라이드치킨1박스(시즈닝)(순살1~2인분)",
+            "price": "18,000원"
+        },
+        {
+            "category": "이나)닭강정1박스(메뉴사진)",
+            "img_src": "",
+            "menu_name": "양파)닭강정(순한맛)1박스(순살1~2인분)",
+            "price": "18,000원"
+        },
+        {
+            "category": "이나)닭강정1박스(메뉴사진)",
+            "img_src": "",
+            "menu_name": "양파)닭강정(매운맛)1박스(순살1~2인분)",
+            "price": "18,500원"
+        },
+        {
+            "category": "이나)닭강정1박스(메뉴사진)",
+            "img_src": "",
+            "menu_name": "양파)닭강정(간장맛)1박스(순살1~2인분)",
+            "price": "18,500원"
+        },
+        {
+            "category": "카페 메뉴",
+            "img_src": "",
+            "menu_name": "망고 에이드",
+            "price": "4,300원"
+        },
+        {
+            "category": "카페 메뉴",
+            "img_src": "",
+            "menu_name": "청포도 에이드",
+            "price": "4,300원"
+        },
+        {
+            "category": "카페 메뉴",
+            "img_src": "",
+            "menu_name": "화이트 피치에이드",
+            "price": "4,500원"
+        },
+        {
+            "category": "카페 메뉴",
+            "img_src": "",
+            "menu_name": "레몬 에이드",
+            "price": "4,300원"
+        },
+        {
+            "category": "카페 메뉴",
+            "img_src": "",
+            "menu_name": "블루베리 에이드",
+            "price": "4,500원"
+        },
+        {
+            "category": "카페 메뉴",
+            "img_src": "",
+            "menu_name": "자몽 에이드",
+            "price": "4,500원"
+        },
+        {
+            "category": "카페 메뉴",
+            "img_src": "",
+            "menu_name": "딸기 에이드",
+            "price": "4,500원"
+        },
+        {
+            "category": "카페 메뉴",
+            "img_src": "",
+            "menu_name": "유자 에이드",
+            "price": "4,500원"
+        },
+        {
+            "category": "카페 메뉴",
+            "img_src": "",
+            "menu_name": "배 에이드",
+            "price": "4,500원"
+        },
+        {
+            "category": "이나)사이드메뉴",
+            "img_src": "",
+            "menu_name": "소스3종(선택",
+            "price": "2,000원"
+        },
+        {
+            "category": "이나)사이드메뉴",
+            "img_src": "",
+            "menu_name": "갈릭디핑소스",
+            "price": "700원"
+        },
+        {
+            "category": "이나)사이드메뉴",
+            "img_src": "",
+            "menu_name": "양파크리미소스",
+            "price": "700원"
+        },
+        {
+            "category": "이나)사이드메뉴",
+            "img_src": "",
+            "menu_name": "핫칠리소스",
+            "price": "700원"
+        },
+        {
+            "category": "이나)사이드메뉴",
+            "img_src": "",
+            "menu_name": "후라이드양념소스",
+            "price": "700원"
+        },
+        {
+            "category": "이나)사이드메뉴",
+            "img_src": "",
+            "menu_name": "무추가",
+            "price": "700원"
+        },
+        {
+            "category": "음료",
+            "img_src": "",
+            "menu_name": "콜라1.25L PET(펩시)",
+            "price": "2,500원"
+        },
+        {
+            "category": "음료",
+            "img_src": "",
+            "menu_name": "콜라500ml PET(펩시)",
+            "price": "1,500원"
+        },
+        {
+            "category": "음료",
+            "img_src": "",
+            "menu_name": "사이다500ml PET(칠성)",
+            "price": "1,500원"
+        },
+        {
+            "category": "음료",
+            "img_src": "",
+            "menu_name": "제로콜라500ml PET(펩시)",
+            "price": "2,000원"
+        },
+        {
+            "category": "음료",
+            "img_src": "",
+            "menu_name": "제로사이다500ml PET(칠성)",
+            "price": "2,000원"
+        }
+    ]
+}

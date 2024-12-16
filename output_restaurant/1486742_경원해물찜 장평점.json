@@ -1,0 +1,146 @@
+{
+    "store_name": "경원해물찜 장평점",
+    "store_location": "경남 거제시 장평로 59-1 1층 경원해물찜 장평점",
+    "loc_x": "347172.652558673",
+    "loc_y": "155875.33335622",
+    "menu": [
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241124_14%2F1732385102564vdz0g_JPEG%2FIMG_7059.jpeg",
+            "menu_name": "볶음밥(대)",
+            "price": "12,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241124_55%2F1732385075470p8wWQ_JPEG%2FIMG_7059.jpeg",
+            "menu_name": "볶음밥(소)",
+            "price": "6,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241124_239%2F1732384352571NDJWS_JPEG%2FIMG_7052.jpeg",
+            "menu_name": "순살아구찜(대(4~5인))",
+            "price": "58,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241124_283%2F17323843026227migf_JPEG%2FIMG_7052.jpeg",
+            "menu_name": "순살아구찜(중(3~4인))",
+            "price": "48,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241124_15%2F1732384248511Lkt0p_JPEG%2FIMG_7052.jpeg",
+            "menu_name": "순살아구찜(소(2~3인))",
+            "price": "38,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241124_146%2F1732384178680slhfe_JPEG%2FIMG_7052.jpeg",
+            "menu_name": "순살아구찜(특소(1~2인))",
+            "price": "28,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241124_274%2F1732384002989ciMoI_JPEG%2FIMG_7051.jpeg",
+            "menu_name": "순살섞어찜(대(4~5인))",
+            "price": "64,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241124_148%2F1732383321683TAaf8_JPEG%2FIMG_7051.jpeg",
+            "menu_name": "순살섞어찜(중(3~4인))",
+            "price": "52,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241124_5%2F1732383291480eRVHv_JPEG%2FIMG_7051.jpeg",
+            "menu_name": "순살섞어찜(소(2~3인))",
+            "price": "40,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241124_197%2F1732382941840RXPaN_JPEG%2FIMG_7051.jpeg",
+            "menu_name": "순살섞어찜(특소(1~2인))",
+            "price": "30,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241124_14%2F1732382875044uQVkx_JPEG%2FIMG_7048.jpeg",
+            "menu_name": "해물찜(특소(1~2인))",
+            "price": "30,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241124_274%2F17323828233263LddL_JPEG%2FIMG_7048.jpeg",
+            "menu_name": "해물찜(소(2~3인))",
+            "price": "42,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241124_53%2F17323827778919j472_JPEG%2FIMG_7048.jpeg",
+            "menu_name": "해물찜(중(3~4인))",
+            "price": "54,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241124_118%2F1732382665761hE3TR_JPEG%2FIMG_7048.jpeg",
+            "menu_name": "해물찜(대(4~5인))",
+            "price": "66,000원"
+        },
+        {
+            "category": "",
+            "img_src": "",
+            "menu_name": "참치마요셀프주먹밥",
+            "price": "3,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241124_192%2F1732384913218IM5XM_JPEG%2FIMG_7050.jpeg",
+            "menu_name": "아구찜(대(4~5인))",
+            "price": "58,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241124_299%2F1732384880802MnOGG_JPEG%2FIMG_7050.jpeg",
+            "menu_name": "아구찜(중(3~4인))",
+            "price": "48,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241124_23%2F1732384848449xTiL7_JPEG%2FIMG_7050.jpeg",
+            "menu_name": "아구찜(소(2~3인))",
+            "price": "38,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241124_113%2F1732384774689fNhFu_JPEG%2FIMG_7050.jpeg",
+            "menu_name": "아구찜(특소(1~2인))",
+            "price": "28,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241124_247%2F1732384718190Bm61I_JPEG%2FIMG_7070.jpeg",
+            "menu_name": "섞어찜(대(4~5인))",
+            "price": "64,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241124_255%2F1732384688332DDtj9_JPEG%2FIMG_7070.jpeg",
+            "menu_name": "섞어찜(중(3~4인))",
+            "price": "52,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241124_122%2F1732384614276XW4CG_JPEG%2FIMG_7070.jpeg",
+            "menu_name": "섞어찜(소(2~3인))",
+            "price": "40,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241124_213%2F1732384501674pBc3T_JPEG%2FIMG_7070.jpeg",
+            "menu_name": "섞어찜(특소(1~2인))",
+            "price": "30,000원"
+        }
+    ]
+}

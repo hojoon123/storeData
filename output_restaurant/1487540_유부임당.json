@@ -1,0 +1,98 @@
+{
+    "store_name": "유부임당",
+    "store_location": "제주 제주시 화삼로 11 . 1층",
+    "loc_x": "160370.791383178",
+    "loc_y": "2081.8900130976",
+    "menu": [
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241213_289%2F1734074226417L11dj_JPEG%2FKakaoTalk_20241213_154835656_01.jpg",
+            "menu_name": "인기만점 4P",
+            "price": "11,100원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241213_251%2F17340742072904g8kp_JPEG%2FKakaoTalk_20241213_154835656.jpg",
+            "menu_name": "담백고소 4P",
+            "price": "10,800원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241213_129%2F1734074187815dtx9G_JPEG%2FKakaoTalk_20241213_154756038.jpg",
+            "menu_name": "고기만 4P",
+            "price": "10,800원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241213_199%2F1734074166282d8ySM_JPEG%2FKakaoTalk_20241213_154735723.jpg",
+            "menu_name": "미니유부 6P 세트",
+            "price": "7,500원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241213_296%2F1734074105386jfQfV_JPEG%2FKakaoTalk_20241213_154649742.jpg",
+            "menu_name": "차돌치즈우동볶이",
+            "price": "9,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241213_204%2F1734074089237tQDmc_JPEG%2FKakaoTalk_20241213_154642772.jpg",
+            "menu_name": "고기우동",
+            "price": "8,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241213_278%2F1734074075166QBnt9_JPEG%2FKakaoTalk_20241213_154620625.jpg",
+            "menu_name": "치즈우동볶이",
+            "price": "7,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241213_81%2F1734074063541efwCX_JPEG%2FKakaoTalk_20241213_154609310.jpg",
+            "menu_name": "꽃게새우라면우동",
+            "price": "7,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241213_283%2F1734074043399P72Ku_JPEG%2FKakaoTalk_20241213_154602079.jpg",
+            "menu_name": "어묵우동",
+            "price": "6,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241213_201%2F1734074022300AjhmH_JPEG%2FKakaoTalk_20241213_154553479.jpg",
+            "menu_name": "유부우동",
+            "price": "5,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241213_207%2F17340739307384TSfe_JPEG%2F014.jpg",
+            "menu_name": "살짝구운연어 유부",
+            "price": "3,900원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241213_214%2F1734073913534gSTK3_JPEG%2F007.jpg",
+            "menu_name": "노르웨이연어 유부",
+            "price": "3,900원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241213_258%2F17340738998039bjm1_JPEG%2F011.jpg",
+            "menu_name": "단짠우삼겹 유부",
+            "price": "3,500원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241213_91%2F1734073885613uvJar_JPEG%2F012.jpg",
+            "menu_name": "소고기육회 유부",
+            "price": "3,300원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241213_63%2F1734073873841zYKw0_JPEG%2F004.jpg",
+            "menu_name": "리얼스팸 유부",
+            "price": "3,200원"
+        }
+    ]
+}

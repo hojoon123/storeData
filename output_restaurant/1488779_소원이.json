@@ -1,0 +1,32 @@
+{
+    "store_name": "소원이",
+    "store_location": "제주 제주시 아연로 306 1층",
+    "loc_x": "155337.580787122",
+    "loc_y": "-3197.85062831654",
+    "menu": [
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20210422_66%2F1619056844078PEnfY_JPEG%2FukVJYbA1poGd0toqjIERFmfT.jpg",
+            "menu_name": "몸국",
+            "price": "7,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20210422_245%2F1619056872596DxdEn_JPEG%2Foq6Zn_BrgtMzmxp85Djyz5Jr.jpg",
+            "menu_name": "돼지두루치기",
+            "price": "8,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20210422_4%2F16190571186541wiU3_JPEG%2FFQ5wn2Imr8yoCVT5tJPOxnb8.jpg",
+            "menu_name": "김치찌게",
+            "price": "7,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20210422_132%2F1619057299294D2gq9_JPEG%2F07EIkNw9VCgxtkeOHY7YwhSs.jpg",
+            "menu_name": "김밥",
+            "price": "2,000원"
+        }
+    ]
+}

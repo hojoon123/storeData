@@ -1,0 +1,128 @@
+{
+    "store_name": "인쌩맥주 경북영양점",
+    "store_location": "경북 영양군 영양읍 영양창수로 17 가동",
+    "loc_x": "389116.63414972",
+    "loc_y": "353626.491344833",
+    "menu": [
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241129_205%2F1732869990219L0rDJ_JPEG%2F%25C1%25F7%25C8%25AD%25BA%25D2%25B3%25AB%25C1%25F6%25BA%25BA%25C0%25BD%252B%25C1%25D6%25B8%25D4%25B9%25E4.jpg",
+            "menu_name": "직화불낙지볶음+주먹밥",
+            "price": "18,900원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241129_81%2F1732869934797TXMet_JPEG%2F%25BA%25D0%25B8%25F0%25C0%25DA%25C1%25F6%25C4%25DA%25B4%25DF.jpg",
+            "menu_name": "분모자폭탄지코닭",
+            "price": "15,900원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241129_18%2F1732870004591PWeGS_JPEG%2F%25B8%25C5%25C4%25DE%25C4%25A1%25C1%25EE%25C2%25F2%25B4%25DF.jpg",
+            "menu_name": "매콤치즈찜닭",
+            "price": "12,900원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241129_199%2F1732870026178RIq9B_JPEG%2F%25B0%25ED%25B8%25A3%25B0%25EF%25C1%25B9%25B6%25F3_%25C6%25E4%25BD%25BA%25C3%25F2%25B8%25AE%25C7%25C7%25C0%25DA.jpg",
+            "menu_name": "고르곤졸라 페스츄리피자",
+            "price": "12,900원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241129_247%2F1732870069260ONnWM_JPEG%2F%25C6%25E4%25C6%25DB%25B7%25CE%25B4%25CF_%25C6%25E4%25BD%25BA%25C3%25F2%25B8%25AE%25C7%25C7%25C0%25DA.jpg",
+            "menu_name": "페퍼로니 페스츄리피자",
+            "price": "12,900원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241129_32%2F1732870451856PbaWn_JPEG%2F%25C0%25CE%25BB%25FD%25BB%25FE%25BA%25EA%25C4%25AE%25B1%25B9%25BC%25F6.jpg",
+            "menu_name": "인생샤브칼국수",
+            "price": "13,900원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241129_26%2F1732870480063tNbp8_JPEG%2F%25BF%25BE%25B3%25AF%25B1%25E8%25C4%25A1%25BF%25EC%25B5%25BF.jpg",
+            "menu_name": "옛날김치우동",
+            "price": "9,900원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241129_122%2F17328704669669av9K_JPEG%2F%25B6%25D2%25B9%25E8%25B1%25E2%25B4%25DF%25C4%25AE%25B1%25B9%25BC%25F6.jpg",
+            "menu_name": "뚝배기 닭칼국수",
+            "price": "9,900원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241129_107%2F1732870128354C6dM0_PNG%2F%25B9%25D9%25BB%25E8%25B1%25E8%25C4%25A1%25C0%25FC.png",
+            "menu_name": "바삭김치전",
+            "price": "9,900원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241129_196%2F1732870159232xQrAR_PNG%2F%25B9%25D9%25BB%25E8%25B0%25A8%25C0%25DA%25C0%25FC.png",
+            "menu_name": "바삭감자전",
+            "price": "10,900원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241129_220%2F1732870177771CYGdX_JPEG%2F%25BD%25BA%25C0%25A7%25C6%25AE%25BF%25C1%25BC%25F6%25BC%25F6%25C0%25FC.jpg",
+            "menu_name": "스위트 옥수수전",
+            "price": "11,900원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241129_97%2F1732870366660PFPyC_JPEG%2F%25B9%25F6%25C5%25CD%25B0%25A5%25B8%25AF%25C6%25F7%25C5%25D7%25C0%25CC%25C5%25E4.jpg",
+            "menu_name": "버터갈릭 포테이토",
+            "price": "7,900원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241129_197%2F1732870351673sq4yA_JPEG%2F%25B4%25DF%25B2%25AE%25C1%25FA%25C6%25A2%25B1%25E8.jpg",
+            "menu_name": "닭껍질튀김",
+            "price": "7,900원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241129_119%2F173287034011747Hko_JPEG%2F%25B5%25C5%25C1%25F6%25B0%25A5%25BA%25F1%25C6%25A2%25B1%25E8.jpg",
+            "menu_name": "돼지갈비튀김",
+            "price": "9,900원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241129_158%2F173287032396055zTx_JPEG%2F%25C0%25CE%25BB%25FD%25BE%25E7%25B3%25E4%25C4%25A1%25C5%25B2.jpg",
+            "menu_name": "인생양념치킨",
+            "price": "14,900원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241129_31%2F1732870312369MJ0EY_JPEG%2F%25C0%25CE%25BB%25FD%25C4%25A1%25C5%25B2.jpg",
+            "menu_name": "인생치킨",
+            "price": "13,900원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241129_123%2F1732870264305RwdSh_JPEG%2F%25C0%25E5%25C1%25E3%25C6%25F7.jpg",
+            "menu_name": "장쥐포",
+            "price": "6,900원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241129_92%2F17328702540287mYYA_JPEG%2F%25B9%25F6%25C5%25CD%25B1%25B8%25C0%25CC%25BF%25C0%25C2%25A1%25BE%25EE.jpg",
+            "menu_name": "버터구이 오징어",
+            "price": "9,900원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241129_162%2F1732870241301BSYi4_JPEG%2F%25B9%25DD%25B0%25C7%25C1%25B6%25BF%25C0%25C2%25A1%25BE%25EE.jpg",
+            "menu_name": "반건조 오징어",
+            "price": "9,900원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241129_52%2F1732870218052qhhPO_JPEG%2F%25C7%25CF%25C5%25C2%25B8%25D4%25C5%25C2.jpg",
+            "menu_name": "바사삭먹태",
+            "price": "13,900원"
+        }
+    ]
+}

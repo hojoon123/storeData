@@ -1,0 +1,32 @@
+{
+    "store_name": "고래맥주창고 주안간석점",
+    "store_location": "인천 남동구 주안로 233 105호 고래맥주창고 주안간석점",
+    "loc_x": "173031.704121854",
+    "loc_y": "440193.083988968",
+    "menu": [
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20231214_148%2F1702557010117nELyM_JPEG%2F1000004708.jpg",
+            "menu_name": "맥주",
+            "price": "6,900원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20231214_215%2F17025494273324IngY_JPEG%2F1000004714.jpg",
+            "menu_name": "위스키",
+            "price": "45,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20231214_173%2F1702549454667wDdCj_JPEG%2F1000004711.jpg",
+            "menu_name": "와인",
+            "price": "25,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20231214_44%2F1702549474254BQTn9_JPEG%2F1000004712.jpg",
+            "menu_name": "사케, 중국술, 한국술",
+            "price": "15,000원"
+        }
+    ]
+}

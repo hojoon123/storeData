@@ -1,0 +1,32 @@
+{
+    "store_name": "강남맛돈",
+    "store_location": "경남 밀양시 백민로9길 10 1층",
+    "loc_x": "358396.809594207",
+    "loc_y": "223844.382589231",
+    "menu": [
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241124_285%2F1732424139717O7W9q_JPEG%2F1000003939.jpg",
+            "menu_name": "홍탁삼합",
+            "price": "40,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241207_224%2F1733547471238vjU9C_JPEG%2F1000004011.jpg",
+            "menu_name": "수육",
+            "price": "30,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241126_14%2F1732602956636SNwHD_JPEG%2F1000003979.jpg",
+            "menu_name": "홍어",
+            "price": "30,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241126_95%2F1732602918951ER0C1_JPEG%2F1000003978.jpg",
+            "menu_name": "삼겹살",
+            "price": "8,000원"
+        }
+    ]
+}

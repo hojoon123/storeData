@@ -1,0 +1,74 @@
+{
+    "store_name": "달콤한삼겹살 온의점",
+    "store_location": "강원 춘천시 스포츠타운길 496 B101, 102호",
+    "loc_x": "262557.972169502",
+    "loc_y": "485122.950724986",
+    "menu": [
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20231123_92%2F1700722404872vlUH6_JPEG%2FKakaoTalk_20231123_155258603.jpg",
+            "menu_name": "두부짜박이",
+            "price": "6,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20231123_277%2F17007220929417qnKY_JPEG%2FKakaoTalk_20231123_154545205.jpg",
+            "menu_name": "생오겹살",
+            "price": "16,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20231123_54%2F1700722060479RyUEN_JPEG%2FKakaoTalk_20231123_154545205.jpg",
+            "menu_name": "생삼겹살",
+            "price": "16,000원"
+        },
+        {
+            "category": "",
+            "img_src": "",
+            "menu_name": "공기밥",
+            "price": "1,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20231123_90%2F1700723869166KYLF9_JPEG%2FKakaoTalk_20231123_161353910.jpg",
+            "menu_name": "볶음밥",
+            "price": "3,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20231123_109%2F1700723544861UkUcN_JPEG%2FKakaoTalk_20231123_161103129.jpg",
+            "menu_name": "얼큰라면",
+            "price": "4,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20231123_95%2F17007235251548Y953_JPEG%2FKakaoTalk_20231123_161018817.jpg",
+            "menu_name": "된장찌개",
+            "price": "3,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20231123_200%2F17007224796505LnTR_JPEG%2FKakaoTalk_20231123_155413885.jpg",
+            "menu_name": "차돌박이된장찌개",
+            "price": "8,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20231123_238%2F170072233252249pFu_JPEG%2FKakaoTalk_20231123_155200391.jpg",
+            "menu_name": "김치찌개",
+            "price": "6,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20231123_27%2F1700722256077LOOyt_JPEG%2FKakaoTalk_20231123_155029300.jpg",
+            "menu_name": "물냉면",
+            "price": "6,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20231123_221%2F1700722181773TL2RY_JPEG%2FKakaoTalk_20231123_154912782.jpg",
+            "menu_name": "된장소면",
+            "price": "4,000원"
+        }
+    ]
+}

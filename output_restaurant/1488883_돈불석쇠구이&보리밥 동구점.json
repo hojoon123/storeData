@@ -1,0 +1,50 @@
+{
+    "store_name": "돈불석쇠구이&보리밥 동구점",
+    "store_location": "울산 동구 대학길 123",
+    "loc_x": "419927.285163561",
+    "loc_y": "224757.930859727",
+    "menu": [
+        {
+            "category": "대표메뉴",
+            "img_src": "",
+            "menu_name": "참숯불고기(순한맛)(3인분)",
+            "price": "18,000원"
+        },
+        {
+            "category": "메뉴소개",
+            "img_src": "",
+            "menu_name": "참숯불고기(순한맛)(3인분)",
+            "price": "18,000원"
+        },
+        {
+            "category": "메뉴소개",
+            "img_src": "",
+            "menu_name": "참숯불고기(매운맛)(3인분)",
+            "price": "19,500원"
+        },
+        {
+            "category": "메뉴소개",
+            "img_src": "",
+            "menu_name": "참숯불고기(순한맛+매운맛)(순한맛2인분+매운맛2인분(총4인분))",
+            "price": "25,000원"
+        },
+        {
+            "category": "사이드메뉴",
+            "img_src": "",
+            "menu_name": "된장찌개(비조리)",
+            "price": "2,000원"
+        },
+        {
+            "category": "음료",
+            "img_src": "",
+            "menu_name": "코카콜라(500ml)",
+            "price": "2,000원"
+        },
+        {
+            "category": "음료",
+            "img_src": "",
+            "menu_name": "칠성사이다(500ml)",
+            "price": "2,000원"
+        }
+    ]
+}

@@ -1,0 +1,50 @@
+{
+    "store_name": "여남닭칼국수",
+    "store_location": "경북 포항시 북구 여남포길21번길 15-2 1층",
+    "loc_x": "416708.051759896",
+    "loc_y": "288598.198243018",
+    "menu": [
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241212_255%2F1734010858237QPRa8_JPEG%2FIMG_1160.jpeg",
+            "menu_name": "해물닭짬뽕칼국수",
+            "price": "12,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241201_165%2F1733062223532zGSU2_JPEG%2FIMG_1078.jpeg",
+            "menu_name": "닭짬뽕칼국수",
+            "price": "8,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241201_86%2F1733062171304Rgti9_JPEG%2FIMG_1076.jpeg",
+            "menu_name": "닭칼국수",
+            "price": "7,000원"
+        },
+        {
+            "category": "",
+            "img_src": "",
+            "menu_name": "닭수육(소)",
+            "price": "8,000원"
+        },
+        {
+            "category": "",
+            "img_src": "",
+            "menu_name": "닭수육(중)",
+            "price": "12,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241201_85%2F1733062247755oPVQX_JPEG%2FIMG_1082.jpeg",
+            "menu_name": "만두",
+            "price": "5,000원"
+        },
+        {
+            "category": "",
+            "img_src": "",
+            "menu_name": "부추전",
+            "price": "6,000원"
+        }
+    ]
+}

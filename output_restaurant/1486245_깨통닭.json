@@ -1,0 +1,14 @@
+{
+    "store_name": "깨통닭",
+    "store_location": "울산 울주군 청량읍 상남1길 120 1층",
+    "loc_x": "408698.242646437",
+    "loc_y": "223250.43958884",
+    "menu": [
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241207_121%2F17335820495660Ukwj_JPEG%2F17335820375384689915074464178867.jpg",
+            "menu_name": "순살후라이드",
+            "price": "5,700원"
+        }
+    ]
+}

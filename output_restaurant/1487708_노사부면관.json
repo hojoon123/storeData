@@ -1,0 +1,50 @@
+{
+    "store_name": "노사부면관",
+    "store_location": "대전 동구 동대전로 149 1층 102호",
+    "loc_x": "240007.892438444",
+    "loc_y": "315048.041723468",
+    "menu": [
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241205_221%2F1733397799339nCdGl_JPEG%2F1000035058.jpg",
+            "menu_name": "맑은 우육면",
+            "price": "7,900원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241205_149%2F17333980544500Jozb_JPEG%2F1000035065.jpg",
+            "menu_name": "향라 우육면",
+            "price": "10,900원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241205_201%2F17333979155201QggE_JPEG%2F1000035059.jpg",
+            "menu_name": "대만 우육면",
+            "price": "9,900원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241205_264%2F1733398242058oDudk_JPEG%2F1000035042.jpg",
+            "menu_name": "본토 짜장면",
+            "price": "9,900원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241205_139%2F17333982092883ISDW_JPEG%2F1000035037.jpg",
+            "menu_name": "오이무침",
+            "price": "6,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241205_268%2F1733398133520h25q5_JPEG%2F1000035034.jpg",
+            "menu_name": "동파육 덮밥",
+            "price": "11,900원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241205_223%2F1733398182748oXFBC_JPEG%2F1000035030.jpg",
+            "menu_name": "유린기",
+            "price": "11,900원"
+        }
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "store_name": "대춘해장국 중문점",
+    "store_location": "제주 서귀포시 일주서로 982 1층",
+    "loc_x": "144571.340065658",
+    "loc_y": "-26231.2952143834",
+    "menu": [
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240103_112%2F1704232311406cI9dY_JPEG%2FIMG_5176.jpeg",
+            "menu_name": "소머리수육",
+            "price": "25,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240103_104%2F1704232247806NCh9S_JPEG%2FIMG_5211.jpeg",
+            "menu_name": "내장탕",
+            "price": "11,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240103_7%2F17042322647025Fwwn_JPEG%2FIMG_5210.jpeg",
+            "menu_name": "해장국",
+            "price": "11,000원"
+        }
+    ]
+}

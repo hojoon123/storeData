@@ -1,0 +1,50 @@
+{
+    "store_name": "공익곰탕",
+    "store_location": "경기 용인시 처인구 이동읍 이원로 9 1층",
+    "loc_x": "218391.91837718",
+    "loc_y": "409842.356644951",
+    "menu": [
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241204_151%2F1733306607820prVey_JPEG%2F1________.jpg",
+            "menu_name": "한우배추곰탕",
+            "price": "11,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241204_89%2F1733306725200CTXOU_JPEG%2F3________.jpg",
+            "menu_name": "한우진곰탕",
+            "price": "12,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241204_144%2F1733306905768XIP2K_JPEG%2F5________.jpg",
+            "menu_name": "한우꼬리곰탕",
+            "price": "18,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241204_124%2F17333069744389hilp_JPEG%2F4________.jpg",
+            "menu_name": "소곱창전골 (중)",
+            "price": "36,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241204_17%2F1733307058518rm2qV_JPEG%2F4________.jpg",
+            "menu_name": "소곱창전골 (대)",
+            "price": "45,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241204_29%2F1733307239394bNkSc_JPEG%2F6________.jpg",
+            "menu_name": "부채살육전",
+            "price": "15,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241204_138%2F173330708563933zE8_JPEG%2F7_______0.jpg",
+            "menu_name": "수육",
+            "price": "16,000원"
+        }
+    ]
+}

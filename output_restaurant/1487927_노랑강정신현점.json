@@ -1,0 +1,254 @@
+{
+    "store_name": "노랑강정신현점",
+    "store_location": "인천 서구 율도로 76 1층 일부호",
+    "loc_x": "170796.276356284",
+    "loc_y": "445733.691565798",
+    "menu": [
+        {
+            "category": "대표메뉴",
+            "img_src": "",
+            "menu_name": "강정&떡(중)+국물떡볶이+치즈볼+캔음료",
+            "price": "19,000원"
+        },
+        {
+            "category": "대표메뉴",
+            "img_src": "",
+            "menu_name": "쌀로만 강정&떡 (대) /2가지맛",
+            "price": "19,500원"
+        },
+        {
+            "category": "대표메뉴",
+            "img_src": "",
+            "menu_name": "쌀로만 강정&떡(트리플) /3가지맛",
+            "price": "29,000원"
+        },
+        {
+            "category": "대표메뉴",
+            "img_src": "",
+            "menu_name": "로제떡볶이",
+            "price": "6,000원"
+        },
+        {
+            "category": "메인메뉴",
+            "img_src": "",
+            "menu_name": "쌀로만 강정&떡(중) 1가지맛",
+            "price": "9,900원"
+        },
+        {
+            "category": "메인메뉴",
+            "img_src": "",
+            "menu_name": "쌀로만 강정&떡 (대) /2가지맛",
+            "price": "19,500원"
+        },
+        {
+            "category": "메인메뉴",
+            "img_src": "",
+            "menu_name": "쌀로만 강정&떡(트리플) /3가지맛",
+            "price": "29,000원"
+        },
+        {
+            "category": "메인메뉴",
+            "img_src": "",
+            "menu_name": "새우&닭강정",
+            "price": "15,500원"
+        },
+        {
+            "category": "메인메뉴",
+            "img_src": "",
+            "menu_name": "새우강정(중)",
+            "price": "12,000원"
+        },
+        {
+            "category": "메인메뉴",
+            "img_src": "",
+            "menu_name": "새우강정(소)",
+            "price": "6,600원"
+        },
+        {
+            "category": "강탉이 치킨",
+            "img_src": "",
+            "menu_name": "쌀로만 후라이드",
+            "price": "17,900원"
+        },
+        {
+            "category": "강탉이 치킨",
+            "img_src": "",
+            "menu_name": "쌀로만 반반치킨",
+            "price": "19,000원"
+        },
+        {
+            "category": "강탉이 치킨",
+            "img_src": "",
+            "menu_name": "쌀로만 치킨(1가지맛)",
+            "price": "21,000원"
+        },
+        {
+            "category": "강탉이 치킨",
+            "img_src": "",
+            "menu_name": "쌀로만 치킨(2가지맛)",
+            "price": "22,000원"
+        },
+        {
+            "category": "세트 메뉴(강정+사이드 메뉴)",
+            "img_src": "",
+            "menu_name": "강정&떡(중)+국물떡볶이+치즈볼+캔음료",
+            "price": "19,000원"
+        },
+        {
+            "category": "세트 메뉴(강정+사이드 메뉴)",
+            "img_src": "",
+            "menu_name": "시그니쳐세트(강정&새우강정)",
+            "price": "23,500원"
+        },
+        {
+            "category": "세트 메뉴(강정+사이드 메뉴)",
+            "img_src": "",
+            "menu_name": "크림치즈볼세트",
+            "price": "14,400원"
+        },
+        {
+            "category": "세트 메뉴(강정+사이드 메뉴)",
+            "img_src": "",
+            "menu_name": "닭껍질튀김세트",
+            "price": "15,900원"
+        },
+        {
+            "category": "세트 메뉴(강정+사이드 메뉴)",
+            "img_src": "",
+            "menu_name": "빨간어묵세트",
+            "price": "15,300원"
+        },
+        {
+            "category": "세트 메뉴(강정+사이드 메뉴)",
+            "img_src": "",
+            "menu_name": "닭똥집강정세트",
+            "price": "15,900원"
+        },
+        {
+            "category": "사이드메뉴",
+            "img_src": "",
+            "menu_name": "닭똥집강정(소)",
+            "price": "5,000원"
+        },
+        {
+            "category": "사이드메뉴",
+            "img_src": "",
+            "menu_name": "닭똥집강정(대)",
+            "price": "9,900원"
+        },
+        {
+            "category": "사이드메뉴",
+            "img_src": "",
+            "menu_name": "닭껍질튀김(소)",
+            "price": "5,000원"
+        },
+        {
+            "category": "사이드메뉴",
+            "img_src": "",
+            "menu_name": "닭껍질튀김(대)",
+            "price": "9,900원"
+        },
+        {
+            "category": "사이드메뉴",
+            "img_src": "",
+            "menu_name": "국물떡볶이",
+            "price": "4,500원"
+        },
+        {
+            "category": "사이드메뉴",
+            "img_src": "",
+            "menu_name": "로제떡볶이",
+            "price": "6,000원"
+        },
+        {
+            "category": "사이드메뉴",
+            "img_src": "",
+            "menu_name": "소떡소떡",
+            "price": "3,500원"
+        },
+        {
+            "category": "사이드메뉴",
+            "img_src": "",
+            "menu_name": "탉이잡채만두",
+            "price": "3,500원"
+        },
+        {
+            "category": "사이드메뉴",
+            "img_src": "",
+            "menu_name": "탉이붕어빵",
+            "price": "3,500원"
+        },
+        {
+            "category": "사이드메뉴",
+            "img_src": "",
+            "menu_name": "크림치즈볼(4ea)",
+            "price": "3,500원"
+        },
+        {
+            "category": "사이드메뉴",
+            "img_src": "",
+            "menu_name": "부산어묵팩 (5ea)",
+            "price": "4,400원"
+        },
+        {
+            "category": "사이드메뉴",
+            "img_src": "",
+            "menu_name": "빨간어묵팩 (4ea)",
+            "price": "4,400원"
+        },
+        {
+            "category": "음료",
+            "img_src": "",
+            "menu_name": "펩시 콜라 캔(245ml)",
+            "price": "1,500원"
+        },
+        {
+            "category": "음료",
+            "img_src": "",
+            "menu_name": "사이다 캔(245ml)",
+            "price": "1,500원"
+        },
+        {
+            "category": "음료",
+            "img_src": "",
+            "menu_name": "제로 콜라 500ml(500ml)",
+            "price": "2,200원"
+        },
+        {
+            "category": "음료",
+            "img_src": "",
+            "menu_name": "콜라 1.25L",
+            "price": "3,000원"
+        },
+        {
+            "category": "음료",
+            "img_src": "",
+            "menu_name": "사이다 1.25L",
+            "price": "3,000원"
+        },
+        {
+            "category": "음료",
+            "img_src": "",
+            "menu_name": "콜라(500ml)",
+            "price": "2,200원"
+        },
+        {
+            "category": "음료",
+            "img_src": "",
+            "menu_name": "사이다(500ml)",
+            "price": "2,200원"
+        },
+        {
+            "category": "음료",
+            "img_src": "",
+            "menu_name": "제로 콜라 캔(345ml)",
+            "price": "1,800원"
+        },
+        {
+            "category": "소스 추가",
+            "img_src": "",
+            "menu_name": "소스추가",
+            "price": "500원"
+        }
+    ]
+}

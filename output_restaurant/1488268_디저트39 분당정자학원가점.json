@@ -1,0 +1,98 @@
+{
+    "store_name": "디저트39 분당정자학원가점",
+    "store_location": "경기 성남시 분당구 성남대로 381 폴라리스빌딩 1층",
+    "loc_x": "209451.339569873",
+    "loc_y": "429807.421293179",
+    "menu": [
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20211116_269%2F1637023132432Ofw74_JPEG%2F%25BF%25C0%25B8%25AE%25C1%25F6%25B3%25CE%25B5%25B5%25C4%25EC%25B7%25D1_copy.jpg",
+            "menu_name": "오리지널 /녹차 도쿄롤",
+            "price": "5,600원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20211116_205%2F1637023190372Ceppe_JPEG%2F%25C4%25BF%25BD%25BA%25C5%25CD%25B5%25E5_%25C5%25A9%25B7%25CE%25C4%25AD%25BD%25B4.jpg",
+            "menu_name": "커스타드 / 크림치즈 크로칸슈",
+            "price": "4,900원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240528_79%2F1716855296666RmTnk_PNG%2FICE_%25C1%25A6%25B7%25CE_%25BA%25B9%25BC%25FE%25BE%25C6_%25BE%25C6%25C0%25CC%25BD%25BA%25C6%25BC_%25B4%25EB%25BF%25EB%25B7%25AE_%25B9%25E8%25B9%25CE.png",
+            "menu_name": "제로칼로리 복숭아 아이스티",
+            "price": "2,900원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240528_234%2F17168554742526FoyT_PNG%2FKakaoTalk_20240319_160737167_02.png",
+            "menu_name": "제로칼로리 청사과 캐모마일티",
+            "price": "2,900원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20211018_78%2F16345376405077W2mh_JPEG%2FWOVqAqdQ2Ngy1DjN1yU2TRZ8.jpg",
+            "menu_name": "딸기 / 망고 라떼(대용량)",
+            "price": "6,100원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240528_286%2F1716855266403YM35j_PNG%2F%25B8%25C1%25B0%25ED_%25C6%25DE_%25BA%25ED%25B7%25A3%25B5%25F9_%2528%25C0%25E7%25BE%25F7%25B7%25CE%25B5%25E5%2529.png",
+            "menu_name": "망고 사고 펄 블랜딩",
+            "price": "4,900원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240528_73%2F1716855387698G6qJ2_PNG%2F%25B8%25C1%25B0%25ED_%25C3%25BB%25BB%25E7%25B0%25FA_%25C6%25DE%25BA%25ED%25B7%25A3%25B5%25F9.png",
+            "menu_name": "망고 청사과 사고 펄 블랜딩",
+            "price": "3,900원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240528_213%2F1716855356135kNJFC_JPEG%2F%25BD%25BD%25B8%25B2%25B5%25FE%25B1%25E2%25B6%25F3%25B6%25BC.jpg",
+            "menu_name": "슬림 딸기라떼",
+            "price": "6,900원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240528_24%2F1716855495649lQyJ2_PNG%2FKakaoTalk_20240319_160737167_04.png",
+            "menu_name": "제로칼로리 청사과 피치아이스티",
+            "price": "4,800원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240528_35%2F1716855456552mEYIQ_PNG%2FKakaoTalk_20240319_160737167.png",
+            "menu_name": "저칼로리 청사과 스무디",
+            "price": "4,900원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20211018_185%2F1634537248797F9G4G_JPEG%2F7re1FG4xFws7gG-wI_mq8sP1.jpg",
+            "menu_name": "아메리카노(2샷)",
+            "price": "2,900원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20211018_155%2F1634537414783O3s0E_JPEG%2FZByeP8SjqHVS_psbswPm1T1d.jpg",
+            "menu_name": "복숭아 아이스티 코코넛 젤리(대용량)",
+            "price": "3,800원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20211018_46%2F1634537274365x9Rdb_JPEG%2FNc6L1CUGcebP6FbMWA39rsro.jpg",
+            "menu_name": "바나나 라떼(대용량)",
+            "price": "3,200원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20211018_253%2F1634537428042ELnVC_JPEG%2Fuv_4E9TAXO4kWrYPJ3uo_HWL.jpg",
+            "menu_name": "피치 오렌지 / 자몽 아이스티",
+            "price": "3,800원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20211018_92%2F1634533292662utD0S_JPEG%2FahL96CwWNcVIEFH1V1glLz5c.jpg",
+            "menu_name": "화이트 초코 도쿄롤",
+            "price": "5,600원"
+        }
+    ]
+}

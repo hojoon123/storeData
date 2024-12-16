@@ -1,0 +1,110 @@
+{
+    "store_name": "오로라즉석떡볶이",
+    "store_location": "경기 평택시 세교8길 4-18 세교타워 1층",
+    "loc_x": "207966.0286843",
+    "loc_y": "389584.130267332",
+    "menu": [
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240517_214%2F1715916189961Osond_JPEG%2F1000019936.jpg",
+            "menu_name": "즉석떡볶이",
+            "price": "14,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240609_45%2F1717866323219jStbi_JPEG%2F1000019997.jpg",
+            "menu_name": "참치마요비빔밥",
+            "price": "4,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240606_55%2F17176693799219WbD5_JPEG%2F1000020912.jpg",
+            "menu_name": "새우튀김2개",
+            "price": "2,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240606_35%2F1717669315664HueU2_JPEG%2F1000020919.jpg",
+            "menu_name": "모듬튀김",
+            "price": "7,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240606_130%2F17176692803283lV6b_JPEG%2F1000020913.jpg",
+            "menu_name": "야채튀김2",
+            "price": "2,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240606_213%2F1717669240951dT5QN_JPEG%2F1000019929.jpg",
+            "menu_name": "오징어튀김",
+            "price": "2,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240606_38%2F1717669200361iTHqO_JPEG%2F1000019928.jpg",
+            "menu_name": "고구마튀김2",
+            "price": "2,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240606_19%2F1717669087780jVO5e_JPEG%2F1000020907.jpg",
+            "menu_name": "카레떡볶이",
+            "price": "15,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240606_29%2F1717669015495g8kxw_JPEG%2F1000020909.jpg",
+            "menu_name": "짜장떡볶이",
+            "price": "15,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240606_92%2F1717668904863ThPd0_JPEG%2F1000020917.jpg",
+            "menu_name": "간장계란밥",
+            "price": "4,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240615_9%2F1718437342169cgQes_JPEG%2F1000021184.jpg",
+            "menu_name": "차돌세트",
+            "price": "23,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240517_109%2F1715916494144hpWD3_JPEG%2F1000019934.jpg",
+            "menu_name": "즉석세트",
+            "price": "18,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240517_230%2F1715916437776wclX5_JPEG%2F1000019928.jpg",
+            "menu_name": "고구마튀김2개",
+            "price": "2,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240517_197%2F1715916394191yAwwr_JPEG%2F1000019931.jpg",
+            "menu_name": "치즈스틱 2개",
+            "price": "2,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240517_116%2F1715916360452wHINn_JPEG%2F1000019933.jpg",
+            "menu_name": "김말이튀김 2개",
+            "price": "2,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240517_78%2F17159162159369OEOy_JPEG%2F1000019937.jpg",
+            "menu_name": "차돌떡볶이",
+            "price": "19,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240517_41%2F1715916323441A9DDj_JPEG%2F1000019935.jpg",
+            "menu_name": "순대떡볶이",
+            "price": "18,000원"
+        }
+    ]
+}

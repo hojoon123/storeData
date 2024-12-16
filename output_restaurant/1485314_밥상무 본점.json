@@ -1,0 +1,230 @@
+{
+    "store_name": "밥상무 본점",
+    "store_location": "전북 전주시 완산구 효자로 161 2층 204호 A-8",
+    "loc_x": "209195.023353546",
+    "loc_y": "257707.516966723",
+    "menu": [
+        {
+            "category": "대표메뉴",
+            "img_src": "",
+            "menu_name": "[오픈무료배달:D]마장동 생 육회비빔밥",
+            "price": "12,900원"
+        },
+        {
+            "category": "대표메뉴",
+            "img_src": "",
+            "menu_name": "[G.O.A.T]삼겹살 볶음밥",
+            "price": "11,500원"
+        },
+        {
+            "category": "대표메뉴",
+            "img_src": "",
+            "menu_name": "[꼬소한~]삼겹살 비빔밥",
+            "price": "11,900원"
+        },
+        {
+            "category": "대표메뉴",
+            "img_src": "",
+            "menu_name": "[사이드와 음료 함께~]1인세트",
+            "price": "15,900원"
+        },
+        {
+            "category": "대표메뉴",
+            "img_src": "",
+            "menu_name": "[수제]무생채 비빔밥",
+            "price": "9,900원"
+        },
+        {
+            "category": "대표메뉴",
+            "img_src": "",
+            "menu_name": "[1인 최고]삼겹도시락",
+            "price": "11,900원"
+        },
+        {
+            "category": "세트메뉴",
+            "img_src": "",
+            "menu_name": "[사이드와 음료 함께~]1인세트",
+            "price": "15,900원"
+        },
+        {
+            "category": "세트메뉴",
+            "img_src": "",
+            "menu_name": "[둘이서 푸짐하게]2인세트",
+            "price": "26,900원"
+        },
+        {
+            "category": "비빔밥",
+            "img_src": "",
+            "menu_name": "[오픈무료배달:D]마장동 생 육회비빔밥",
+            "price": "12,900원"
+        },
+        {
+            "category": "비빔밥",
+            "img_src": "",
+            "menu_name": "[꼬소한~]삼겹살 비빔밥",
+            "price": "11,900원"
+        },
+        {
+            "category": "비빔밥",
+            "img_src": "",
+            "menu_name": "[꼬소함 최강]우삼겹 비빔밥",
+            "price": "12,500원"
+        },
+        {
+            "category": "비빔밥",
+            "img_src": "",
+            "menu_name": "[수제]무생채 비빔밥",
+            "price": "9,900원"
+        },
+        {
+            "category": "비빔밥",
+            "img_src": "",
+            "menu_name": "[JMT]참치 비빔밥",
+            "price": "10,900원"
+        },
+        {
+            "category": "볶음밥",
+            "img_src": "",
+            "menu_name": "[G.O.A.T]삼겹살 볶음밥",
+            "price": "11,500원"
+        },
+        {
+            "category": "볶음밥",
+            "img_src": "",
+            "menu_name": "[꼬소~한]우삼겹볶음밥",
+            "price": "11,900원"
+        },
+        {
+            "category": "볶음밥",
+            "img_src": "",
+            "menu_name": "[통통한]통새우볶음밥",
+            "price": "11,500원"
+        },
+        {
+            "category": "볶음밥",
+            "img_src": "",
+            "menu_name": "[훈연]베이컨볶음밥",
+            "price": "11,500원"
+        },
+        {
+            "category": "도시락",
+            "img_src": "",
+            "menu_name": "[혼밥 1위]우삼겹 도시락",
+            "price": "11,900원"
+        },
+        {
+            "category": "도시락",
+            "img_src": "",
+            "menu_name": "[기사식당]돼지 불백 도시락",
+            "price": "11,900원"
+        },
+        {
+            "category": "도시락",
+            "img_src": "",
+            "menu_name": "[1인 최고]삼겹도시락",
+            "price": "11,900원"
+        },
+        {
+            "category": "사이드메뉴(메인미포함시 주문취소)",
+            "img_src": "",
+            "menu_name": "맛보기 육회100g(100g)",
+            "price": "7,900원"
+        },
+        {
+            "category": "사이드메뉴(메인미포함시 주문취소)",
+            "img_src": "",
+            "menu_name": "[하림]용가리치킨(5개)",
+            "price": "3,900원"
+        },
+        {
+            "category": "사이드메뉴(메인미포함시 주문취소)",
+            "img_src": "",
+            "menu_name": "해쉬브라운(2개)",
+            "price": "3,500원"
+        },
+        {
+            "category": "사이드메뉴(메인미포함시 주문취소)",
+            "img_src": "",
+            "menu_name": "피카츄 돈가스(2개)",
+            "price": "3,500원"
+        },
+        {
+            "category": "사이드메뉴(메인미포함시 주문취소)",
+            "img_src": "",
+            "menu_name": "떡갈비(2개)",
+            "price": "3,500원"
+        },
+        {
+            "category": "사이드메뉴(메인미포함시 주문취소)",
+            "img_src": "",
+            "menu_name": "[++++계란후라이++++]",
+            "price": "900원"
+        },
+        {
+            "category": "사이드메뉴(메인미포함시 주문취소)",
+            "img_src": "",
+            "menu_name": "(++++수제 비빔장++++)",
+            "price": "900원"
+        },
+        {
+            "category": "사이드메뉴(메인미포함시 주문취소)",
+            "img_src": "",
+            "menu_name": "[++++수제 무생채++++]",
+            "price": "900원"
+        },
+        {
+            "category": "사이드메뉴(메인미포함시 주문취소)",
+            "img_src": "",
+            "menu_name": "순살 후라이드 치킨(6개)",
+            "price": "4,900원"
+        },
+        {
+            "category": "사이드메뉴(메인미포함시 주문취소)",
+            "img_src": "",
+            "menu_name": "순살 후라이드 치킨(12개)",
+            "price": "9,500원"
+        },
+        {
+            "category": "사이드메뉴(메인미포함시 주문취소)",
+            "img_src": "",
+            "menu_name": "새우 튀김(2개)",
+            "price": "3,500원"
+        },
+        {
+            "category": "사이드메뉴(메인미포함시 주문취소)",
+            "img_src": "",
+            "menu_name": "공기밥",
+            "price": "1,000원"
+        },
+        {
+            "category": "사이드메뉴(메인미포함시 주문취소)",
+            "img_src": "",
+            "menu_name": "케찹(1p)",
+            "price": "300원"
+        },
+        {
+            "category": "음료",
+            "img_src": "",
+            "menu_name": "코카콜라(355ml)",
+            "price": "2,000원"
+        },
+        {
+            "category": "음료",
+            "img_src": "",
+            "menu_name": "스프라이트(355ml)",
+            "price": "2,000원"
+        },
+        {
+            "category": "음료",
+            "img_src": "",
+            "menu_name": "코카제로콜라(355ml)",
+            "price": "2,000원"
+        },
+        {
+            "category": "음료",
+            "img_src": "",
+            "menu_name": "환타 파인(355ml)",
+            "price": "2,000원"
+        }
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "store_name": "낭만원샷포차",
+    "store_location": "대전 중구 목중로 6-1 2층",
+    "loc_x": "236993.560274108",
+    "loc_y": "315004.97652663",
+    "menu": [
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240428_156%2F1714242889027wB6Rz_JPEG%2F%25B0%25F1%25B9%25F0%25C0%25CC.jpg",
+            "menu_name": "골뱅이무침소면",
+            "price": "14,900원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240428_39%2F1714243470030Pikrj_JPEG%2F%25C1%25B6%25B0%25B3%25C5%25C1.jpg",
+            "menu_name": "조개탕",
+            "price": "11,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240428_101%2F1714242972808Wvc4w_JPEG%2F%25BE%25CB%25C5%25C1.jpg",
+            "menu_name": "알탕",
+            "price": "13,900원"
+        }
+    ]
+}

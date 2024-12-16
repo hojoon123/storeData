@@ -1,0 +1,62 @@
+{
+    "store_name": "대세박목살 통영죽림점",
+    "store_location": "경남 통영시 광도면 죽림2로 76-7 1층 106호",
+    "loc_x": "329858.710903937",
+    "loc_y": "154328.25866944",
+    "menu": [
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241120_289%2F1732100761577PWFgG_JPEG%2FKakaoTalk_20241120_200236742_06.jpg",
+            "menu_name": "등심 생 껍데기(150g)",
+            "price": "8,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241120_237%2F1732100743309qqzs5_JPEG%2FKakaoTalk_20241120_200236742.jpg",
+            "menu_name": "숙성삼겹살 한판(450g)",
+            "price": "43,900원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241120_234%2F1732100720129E2R5s_JPEG%2FKakaoTalk_20241120_200236742_02.jpg",
+            "menu_name": "숙성 박목살 대(600g)",
+            "price": "49,900원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241120_10%2F173210068430174Fzc_JPEG%2FKakaoTalk_20241120_200236742_01.jpg",
+            "menu_name": "숙성 박목살 소(450g)",
+            "price": "38,900원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241120_47%2F1732100839240eojJP_JPEG%2FKakaoTalk_20241120_200236742_03.jpg",
+            "menu_name": "지단비빔국수",
+            "price": "6,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241120_292%2F1732100829867NRMTF_JPEG%2FKakaoTalk_20241120_200236742_04.jpg",
+            "menu_name": "김치말이냉국수",
+            "price": "6,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241120_11%2F1732100814934V2QWd_JPEG%2FKakaoTalk_20241120_200236742_07.jpg",
+            "menu_name": "민물새우 촌된장찌개",
+            "price": "4,500원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241120_38%2F1732100802392nSTmQ_JPEG%2FKakaoTalk_20241120_200236742_05.jpg",
+            "menu_name": "숙주채소볶음",
+            "price": "5,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241120_281%2F1732100784741kpxvp_JPEG%2FKakaoTalk_20241120_200236742_08.jpg",
+            "menu_name": "곤드레밥 2인",
+            "price": "5,000원"
+        }
+    ]
+}

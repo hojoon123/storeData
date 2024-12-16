@@ -1,0 +1,14 @@
+{
+    "store_name": "인쌩맥주 대전보건대점",
+    "store_location": "대전 동구 우암로 324 1층",
+    "loc_x": "240413.834654945",
+    "loc_y": "316434.32811542",
+    "menu": [
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241212_241%2F1733968742064w5wQg_PNG%2FIMG_0222.png",
+            "menu_name": "살얼음맥주",
+            "price": "4,500원"
+        }
+    ]
+}

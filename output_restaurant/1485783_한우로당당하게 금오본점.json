@@ -1,0 +1,122 @@
+{
+    "store_name": "한우로당당하게 금오본점",
+    "store_location": "경기 의정부시 금오로 26-1 한우로당당하게",
+    "loc_x": "206015.202381515",
+    "loc_y": "472390.26554145",
+    "menu": [
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241212_166%2F17339769847572Ai9i_JPEG%2FKIM06068.jpg",
+            "menu_name": "1++등심(100g)",
+            "price": "12,900원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241212_166%2F1733994633454SoRIx_JPEG%2FKIM06086.jpg",
+            "menu_name": "1++꽃등심 (100g)",
+            "price": "21,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241212_243%2F1733985039616QRquz_JPEG%2FKIM06386.jpg",
+            "menu_name": "1++안심 (100g)",
+            "price": "22,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241212_121%2F1733984997637g4awL_JPEG%2FKIM06340.jpg",
+            "menu_name": "1++안창살 (100g)",
+            "price": "33,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241212_165%2F1733984936806NplPS_JPEG%2FKIM06292.jpg",
+            "menu_name": "1++갈비살(100g)",
+            "price": "22,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241212_111%2F1733984890573fNovi_JPEG%2FKIM06260.jpg",
+            "menu_name": "1++치마살 (100g)",
+            "price": "33,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241212_154%2F17339848256269VI24_JPEG%2FKIM06198.jpg",
+            "menu_name": "1++업진살(100g)",
+            "price": "23,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241212_208%2F1733984632016cMWaN_JPEG%2FKIM06843.jpg",
+            "menu_name": "명란밥",
+            "price": "5,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241212_121%2F1733984558474jOnqd_JPEG%2FKIM06818.jpg",
+            "menu_name": "한우육회비빔밥",
+            "price": "11,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241212_221%2F1733983972963dKEPs_JPEG%2FKIM06742.jpg",
+            "menu_name": "냉면 (물,비빔)",
+            "price": "5,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241212_88%2F17339839151801rU9P_JPEG%2FKIM06684.jpg",
+            "menu_name": "점심특선 뚝배기제육볶음",
+            "price": "10,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241212_231%2F1733983817248nY44l_JPEG%2FKIM06624.jpg",
+            "menu_name": "점심특선 양푼이김치찌개",
+            "price": "10,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241212_258%2F1733983728438cvtph_JPEG%2FKIM06456.jpg",
+            "menu_name": "한돈 생삼겹살 (100g)",
+            "price": "6,900원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241212_251%2F1733983697350bXUX6_JPEG%2FKIM06551.jpg",
+            "menu_name": "한돈 항정살 (100g)",
+            "price": "12,900원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241212_131%2F1733983622900BXSUV_JPEG%2FKIM06526.jpg",
+            "menu_name": "한돈 등심덧살(100g)",
+            "price": "9,900원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241212_263%2F1733983543012NLcss_JPEG%2FKIM06494.jpg",
+            "menu_name": "한돈 목살 (100g)",
+            "price": "6,900원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241212_87%2F1733983434078BGHgW_JPEG%2FKIM06162.jpg",
+            "menu_name": "1++살치살 (100g)",
+            "price": "29,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241212_158%2F1733983269967enbPy_JPEG%2FKIM06108.jpg",
+            "menu_name": "1++ 부채살 (100g)",
+            "price": "19,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241212_243%2F1733983097257Nr6t7_JPEG%2FKIM06032.jpg",
+            "menu_name": "한우모둠세트 (500g)",
+            "price": "64,500원"
+        }
+    ]
+}

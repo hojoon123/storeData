@@ -1,0 +1,248 @@
+{
+    "store_name": "브뤼셀프라이 제주연동점",
+    "store_location": "제주 제주시 삼무로 38 1층",
+    "loc_x": "152590.517412389",
+    "loc_y": "-630.822320151347",
+    "menu": [
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241129_8%2F1732864315361LYAUk_PNG%2F%25BD%25BA%25C6%25AE%25B7%25B9%25C0%25CC%25C6%25AE%25C4%25C6.png",
+            "menu_name": "스트레이트 컷",
+            "price": "8,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241129_100%2F1732864281658AulEv_PNG%2F%25C1%25A1%25BA%25B8%25C7%25C1%25B6%25F3%25C0%25CC.png",
+            "menu_name": "점보 프라이",
+            "price": "8,900원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241129_212%2F1732860868754032kr_PNG%2F%25B9%25D0%25C5%25A9%25BD%25A6%25C0%25CC%25C5%25A9.png",
+            "menu_name": "밀크쉐이크",
+            "price": "4,500원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241129_36%2F1732864264604Uagxq_PNG%2F%25C4%25A5%25B8%25AE%25C6%25C4%25BF%25EC%25B4%25F5.png",
+            "menu_name": "칠리시즈닝",
+            "price": "변동"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241129_257%2F1732864249277FrtNL_PNG%2F%25C7%25E3%25B4%25CF%25B9%25F6%25C5%25CD%25BD%25C3%25C1%25EE%25B4%25D7.png",
+            "menu_name": "허니버터시즈닝",
+            "price": "변동"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241129_121%2F1732864235198HxdW0_PNG%2F%25B9%25F6%25C5%25CD%25B0%25A5%25B8%25AF%25C3%25D6%25C1%25BE.png",
+            "menu_name": "버터갈릭시즈닝",
+            "price": "변동"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241129_171%2F1732864199795kN4th_PNG%2F%25BA%25D2%25B0%25A5%25BA%25F1_%25BD%25C3%25C1%25EE%25B4%25D7%2528%25C7%25D5%2529.png",
+            "menu_name": "불갈비시즈닝",
+            "price": "변동"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241129_181%2F1732864168295ALs1O_PNG%2F%25BB%25E7%25BF%25F6%25C5%25A9%25B8%25B2%25BE%25D8%25BE%25EE%25B4%25CF%25BE%25F0.png",
+            "menu_name": "사워크림어니언시즈닝",
+            "price": "변동"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241129_88%2F173286411445634gqJ_PNG%2F%25B0%25A5%25B8%25AF%25B5%25F0%25C7%25CE.png",
+            "menu_name": "갈릭디핑",
+            "price": "변동"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241129_51%2F1732864091024umHYF_PNG%2F%25C7%25D2%25B6%25F3%25C7%25C7%25B4%25A2%25C5%25B8%25B8%25A3%25C5%25B8%25B8%25A3.png",
+            "menu_name": "할라피뇨 타르타르",
+            "price": "변동"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241129_225%2F1732864077033WCHtM_PNG%2F%25C6%25AE%25B7%25AF%25C7%25C3%25B8%25B6%25BF%25E4.png",
+            "menu_name": "트러플마요",
+            "price": "변동"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241129_130%2F1732862746697BzmEt_PNG%2F%25BB%25E7%25BF%25EC%25C0%25FC%25B5%25E5%25BE%25C6%25C0%25CF%25B7%25A3%25B5%25E5.png",
+            "menu_name": "사우전드아일랜드",
+            "price": "변동"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241129_33%2F1732862628059Nb5ha_PNG%2F%25C4%25C9y.png",
+            "menu_name": "토마토 케찹",
+            "price": "변동"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241129_36%2F1732862105838cyJdu_PNG%2F%25BF%25CD%25BB%25E7%25BA%25F1%25B8%25B6%25BF%25E4.png",
+            "menu_name": "와사비마요",
+            "price": "변동"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241129_80%2F1732862093265DRVj4_PNG%2F%25C4%25DC%25B8%25B6%25BF%25E4.png",
+            "menu_name": "콘마요",
+            "price": "변동"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241129_26%2F1732862082626ji6IM_PNG%2F%25B8%25D3%25BD%25BA%25C5%25B8%25B5%25E5.png",
+            "menu_name": "머스타드",
+            "price": "변동"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241129_70%2F1732862071005qXlnp_PNG%2F%25B3%25AA%25C3%25DD%25C4%25A1%25C1%25EE.png",
+            "menu_name": "나쵸치즈",
+            "price": "변동"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241129_230%2F1732861980855XlPqz_PNG%2F%25BD%25BA%25C0%25AD%25C4%25A5%25B8%25AE.png",
+            "menu_name": "스윗칠리",
+            "price": "변동"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241129_201%2F1732861356387NeqFt_PNG%2F%25BD%25BA%25B8%25AE%25B6%25F3%25C2%25F7%25B8%25B6%25BF%25E4.png",
+            "menu_name": "스리라차 마요",
+            "price": "변동"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241129_160%2F1732861342043n5Idv_PNG%2F%25BB%25E7%25BF%25F6%25C5%25A9%25B8%25B2.png",
+            "menu_name": "사워크림",
+            "price": "변동"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241129_237%2F1732861306667QsuGw_PNG%2F%25BA%25D2%25B4%25DF%25B8%25B6%25BF%25E4.png",
+            "menu_name": "불닭마요",
+            "price": "변동"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241129_191%2F1732861291742MmPWE_PNG%2F%25C4%25A1%25C6%25FA%25B7%25B9.png",
+            "menu_name": "치폴레",
+            "price": "변동"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241129_191%2F1732861251618sivvP_PNG%2F%25BF%25E4%25C7%25C7.png",
+            "menu_name": "요피",
+            "price": "변동"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241129_12%2F1732861221461rq4DO_PNG%2F%25C5%25E4%25B8%25B6%25C5%25E4.png",
+            "menu_name": "토마토",
+            "price": "900원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241129_207%2F1732861207517sg2FY_PNG%2F%25C2%25CA%25C6%25C4.png",
+            "menu_name": "대파",
+            "price": "900원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241129_6%2F1732861183428e5YNT_PNG%2F%25BF%25A3%25C1%25A9%25C7%25EC%25BE%25EE%25C4%25A1%25C1%25EE.png",
+            "menu_name": "엔젤헤어치즈",
+            "price": "900원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241129_52%2F1732861096005nV1bG_PNG%2F%25C7%25D2%25B6%25F3%25C7%25C7%25B4%25A2.png",
+            "menu_name": "할라피뇨",
+            "price": "900원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241129_289%2F1732861086693NpDyf_PNG%2F%25C7%25C7%25C5%25AC.png",
+            "menu_name": "피클",
+            "price": "900원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241129_6%2F173286107519816gj5_PNG%2F%25BD%25BA%25C0%25A7%25C6%25AE%25C4%25DC.png",
+            "menu_name": "콘샐러드",
+            "price": "900원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241129_5%2F1732861035087WclPU_PNG%2F%25B3%25AA%25C3%25DD.png",
+            "menu_name": "나쵸",
+            "price": "900원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241129_251%2F1732861025492zoHTq_PNG%2F%25BE%25E7%25C6%25C4.png",
+            "menu_name": "양파",
+            "price": "900원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241129_23%2F1732861002478kLJFK_PNG%2F%25B6%25A5%25C4%25E1%25BA%25D0%25C5%25C2.png",
+            "menu_name": "땅콩분태",
+            "price": "900원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241129_265%2F1732860991732Ln1gw_PNG%2F%25BA%25A3%25C0%25CC%25C4%25C1%25C4%25A8.png",
+            "menu_name": "베이컨칩",
+            "price": "1,900원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241129_42%2F1732860960626FR20P_PNG%2F%25B0%25FA%25C4%25AB%25B8%25F4%25B8%25AE.png",
+            "menu_name": "과카몰리",
+            "price": "1,900원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241129_24%2F1732860934210I5LEk_PNG%2F%25B8%25C6%25BE%25D8%25C4%25A1%25C1%25EE.png",
+            "menu_name": "맥앤치즈",
+            "price": "1,900원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241129_85%2F1732860910883S5Hs8_PNG%2F%25C4%25A5%25B8%25AE%25C4%25DC%25C4%25AB%25B8%25A3%25B3%25D7.png",
+            "menu_name": "칠리라구",
+            "price": "1,900원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241129_69%2F1732860890924LOof2_PNG%2F%25C6%25FA%25B5%25E5%25C6%25F7%25C5%25A9.png",
+            "menu_name": "폴드포크",
+            "price": "1,900원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241129_233%2F1732860848983FY3o5_PNG%2F%25B5%25FE%25B1%25E2%25B9%25D0%25C5%25A9%25BD%25A6%25C0%25CC%25C5%25A9.png",
+            "menu_name": "스트로베리 밀크쉐이크",
+            "price": "4,500원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241129_88%2F1732860825834Qdfsv_PNG%2F%25C3%25CA%25C4%25DA%25B9%25D0%25C5%25A9%25BD%25A6%25C0%25CC%25C5%25A9.png",
+            "menu_name": "초코 밀크 쉐이크",
+            "price": "4,500원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241129_61%2F1732860805836e80Lo_PNG%2F%25C7%25C7%25B3%25D3%25B9%25F6%25C5%25CD%25B9%25D0%25C5%25A9%25BD%25A6%25C0%25CC%25C5%25A9.png",
+            "menu_name": "시그니처 카라멜 피넛",
+            "price": "5,000원"
+        }
+    ]
+}

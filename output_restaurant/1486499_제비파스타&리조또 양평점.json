@@ -1,0 +1,104 @@
+{
+    "store_name": "제비파스타&리조또 양평점",
+    "store_location": "경기 양평군 양평읍 시민로78번길 9-4 1층 102호",
+    "loc_x": "244208.144103251",
+    "loc_y": "443184.370087053",
+    "menu": [
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241128_205%2F1732720135765TI18W_JPEG%2F1000036977.jpg",
+            "menu_name": "바질 크림 파스타",
+            "price": "11,900원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241128_47%2F1732720061938Msmtb_JPEG%2F1000036976.jpg",
+            "menu_name": "우삼겹 버섯 알리오 파스타",
+            "price": "12,809원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241128_250%2F17327200068684JnVe_JPEG%2F1000036975.jpg",
+            "menu_name": "해물 알리오 파스타",
+            "price": "10,900원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241128_146%2F1732719943882Uj6Pu_JPEG%2F1000036974.jpg",
+            "menu_name": "바질 알리오 파스타",
+            "price": "10,900원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241128_32%2F1732719841067p34BU_JPEG%2F1000036973.jpg",
+            "menu_name": "해물 매콤 로제 파스타",
+            "price": "11,900원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241128_254%2F1732719788540VXgcT_JPEG%2F1000036972.jpg",
+            "menu_name": "해물 크림 파스타",
+            "price": "11,900원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241128_271%2F1732719676104qGzSL_JPEG%2F1000036971.jpg",
+            "menu_name": "쉬림프 매콤 토마토 파스타",
+            "price": "10,900원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241127_167%2F1732719592790wMag9_JPEG%2F1000036970.jpg",
+            "menu_name": "얼큰 해물 해장 파스타 (매워요)",
+            "price": "11,900원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241127_34%2F17327194956908gbvm_JPEG%2F1000036969.jpg",
+            "menu_name": "그릴 소갈비살 스테이크 매콤로제파스타",
+            "price": "15,800원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241127_94%2F1732719326432XKTsM_JPEG%2F1000036968.jpg",
+            "menu_name": "그릴 소갈비살 스테이크 크림 파스타",
+            "price": "15,800원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241127_163%2F1732719232365XsEx1_JPEG%2F1000036967.jpg",
+            "menu_name": "남도 떡갈비 매콤 로제 파스타",
+            "price": "13,800원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241127_242%2F1732719123568q9Fxv_JPEG%2F1000036966.jpg",
+            "menu_name": "남도 떡갈비 크림 파스타",
+            "price": "13,800원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241127_190%2F1732718930569eovpH_JPEG%2F1000036965.jpg",
+            "menu_name": "베이컨 버섯 알리오 파스타",
+            "price": "9,900원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241119_221%2F17319969778252kAJW_JPEG%2FKakaoTalk_20241119_151600420.jpg",
+            "menu_name": "베이컨 매콤 로제 파스타",
+            "price": "10,900원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241119_192%2F17319969065386WeIA_JPEG%2FKakaoTalk_20241119_151448752.jpg",
+            "menu_name": "얼큰 해물 해장 파스타",
+            "price": "11,900원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241119_106%2F1731996817150fMh4w_JPEG%2FKakaoTalk_20241119_151319798.jpg",
+            "menu_name": "베이컨 버섯 크림 파스타",
+            "price": "10,900원"
+        }
+    ]
+}

@@ -1,0 +1,56 @@
+{
+    "store_name": "명서쿠 여주대점",
+    "store_location": "경기 여주시 세종로 350-4 지하1층 101호",
+    "loc_x": "256494.314699021",
+    "loc_y": "418528.611376964",
+    "menu": [
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241124_209%2F1732422413754okGEP_JPEG%2F%25B6%25F3%25B8%25E0.jpg",
+            "menu_name": "명서쿠라멘",
+            "price": "12,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241124_126%2F17324224206755Ohpb_JPEG%2F%25B5%25B7%25C4%25DA%25C3%25F7%25B6%25F3%25B8%25E01.jpg",
+            "menu_name": "돈코츠라멘",
+            "price": "12,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241124_231%2F1732422426255Xt2dA_JPEG%2F%253D%25B1%25D4%25B5%25BF.jpg",
+            "menu_name": "규동",
+            "price": "11,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241124_188%2F1732422488778zuStB_JPEG%2F1000012505.jpg",
+            "menu_name": "가츠동",
+            "price": "11,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241124_263%2F1732422625696tKrDJ_JPEG%2F%25B5%25B7%25B1%25EE%25BD%25BA%25C4%25AB%25B7%25B9.jpg",
+            "menu_name": "카츠카레",
+            "price": "13,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241124_52%2F1732421849128tthSf_JPEG%2F%25BE%25C8%25BD%25C9%25B5%25B7%25C4%25AB%25C3%25F7.jpg",
+            "menu_name": "히레카츠(안심)",
+            "price": "13,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241124_221%2F17324227816488FidX_JPEG%2F%25BC%25D2%25B0%25ED%25B1%25E2%25C5%25B8%25B4%25D9%25B3%25A2.jpg",
+            "menu_name": "명품 한우 타다끼",
+            "price": "21,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241124_284%2F1732423030564aSVfL_JPEG%2F%25B8%25F0%25C3%25F7%25B3%25AA%25BA%25A3.jpg",
+            "menu_name": "모츠나베",
+            "price": "26,000원"
+        }
+    ]
+}

@@ -1,0 +1,14 @@
+{
+    "store_name": "더 라운지 송도",
+    "store_location": "인천 연수구 아트센터대로 149 102동 1층 121호",
+    "loc_x": "167679.679013071",
+    "loc_y": "432949.982755782",
+    "menu": [
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241211_289%2F1733920098830ItRTX_JPEG%2F%25B8%25DE%25B4%25BA%25C6%25C7.jpg",
+            "menu_name": "새우튀김",
+            "price": "20,000원"
+        }
+    ]
+}

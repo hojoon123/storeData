@@ -1,0 +1,290 @@
+{
+    "store_name": "노상치킨앤포차 와동점",
+    "store_location": "대전 대덕구 신탄진로218번길 25 . 1층",
+    "loc_x": "237970.15943825",
+    "loc_y": "322242.102745953",
+    "menu": [
+        {
+            "category": "대표메뉴",
+            "img_src": "",
+            "menu_name": "오메이징 치킨(격)",
+            "price": "21,000원"
+        },
+        {
+            "category": "대표메뉴",
+            "img_src": "",
+            "menu_name": "단짠킹 치킨",
+            "price": "20,000원"
+        },
+        {
+            "category": "대표메뉴",
+            "img_src": "",
+            "menu_name": "순살 3종",
+            "price": "20,900원"
+        },
+        {
+            "category": "대표메뉴",
+            "img_src": "",
+            "menu_name": "빠삭 후라이드(쌀 크런치)",
+            "price": "18,000원"
+        },
+        {
+            "category": "NEW 신메뉴",
+            "img_src": "",
+            "menu_name": "초가성비 세트",
+            "price": "17,000원"
+        },
+        {
+            "category": "NEW 신메뉴",
+            "img_src": "",
+            "menu_name": "극가성비 세트",
+            "price": "24,000원"
+        },
+        {
+            "category": "NEW 신메뉴",
+            "img_src": "",
+            "menu_name": "오메이징 치킨(격)",
+            "price": "21,000원"
+        },
+        {
+            "category": "NEW 신메뉴",
+            "img_src": "",
+            "menu_name": "단짠킹 치킨",
+            "price": "20,000원"
+        },
+        {
+            "category": "NEW 신메뉴",
+            "img_src": "",
+            "menu_name": "크리스피치킨",
+            "price": "19,000원"
+        },
+        {
+            "category": "노상 set 메뉴",
+            "img_src": "",
+            "menu_name": "핵가성비 세트",
+            "price": "32,000원"
+        },
+        {
+            "category": "노상 set 메뉴",
+            "img_src": "",
+            "menu_name": "왕가성비 세트",
+            "price": "27,000원"
+        },
+        {
+            "category": "리얼 50마리 후라이드 시리즈",
+            "img_src": "",
+            "menu_name": "리얼코코넛 치킨",
+            "price": "19,500원"
+        },
+        {
+            "category": "리얼 50마리 후라이드 시리즈",
+            "img_src": "",
+            "menu_name": "빠삭 후라이드(쌀 크런치)",
+            "price": "18,000원"
+        },
+        {
+            "category": "리얼 50마리 후라이드 시리즈",
+            "img_src": "",
+            "menu_name": "후라이드반/양념반",
+            "price": "18,900원"
+        },
+        {
+            "category": "리얼 50마리 후라이드 시리즈",
+            "img_src": "",
+            "menu_name": "양반파닭",
+            "price": "19,000원"
+        },
+        {
+            "category": "리얼 50마리 후라이드 시리즈",
+            "img_src": "",
+            "menu_name": "순살 3종",
+            "price": "20,900원"
+        },
+        {
+            "category": "리얼 50마리 후라이드 시리즈",
+            "img_src": "",
+            "menu_name": "꿀바른간장",
+            "price": "19,500원"
+        },
+        {
+            "category": "리얼 50마리 후라이드 시리즈",
+            "img_src": "",
+            "menu_name": "숯불 쏘핫 간장",
+            "price": "19,500원"
+        },
+        {
+            "category": "리얼 50마리 후라이드 시리즈",
+            "img_src": "",
+            "menu_name": "똥집튀김",
+            "price": "14,900원"
+        },
+        {
+            "category": "리얼 50마리 후라이드 시리즈",
+            "img_src": "",
+            "menu_name": "베베튀발",
+            "price": "15,900원"
+        },
+        {
+            "category": "윙봉 콤보 시리즈",
+            "img_src": "",
+            "menu_name": "쌀크런치 윙봉콤보",
+            "price": "20,500원"
+        },
+        {
+            "category": "날개다리 콤보 시리즈",
+            "img_src": "",
+            "menu_name": "쌀크런치 날개 다리 콤보",
+            "price": "20,500원"
+        },
+        {
+            "category": "날개다리 콤보 시리즈",
+            "img_src": "",
+            "menu_name": "트리플 날개다리 콤보",
+            "price": "20,500원"
+        },
+        {
+            "category": "노상떡볶이 시리즈",
+            "img_src": "",
+            "menu_name": "노상 떡볶이",
+            "price": "6,000원"
+        },
+        {
+            "category": "안주 시리즈",
+            "img_src": "",
+            "menu_name": "김치 우동(김치우동)",
+            "price": "10,000원"
+        },
+        {
+            "category": "안주 시리즈",
+            "img_src": "",
+            "menu_name": "골뱅이 무침",
+            "price": "18,500원"
+        },
+        {
+            "category": "안주 시리즈",
+            "img_src": "",
+            "menu_name": "국물무뼈닭발",
+            "price": "16,900원"
+        },
+        {
+            "category": "안주 시리즈",
+            "img_src": "",
+            "menu_name": "오돌뼈",
+            "price": "14,900원"
+        },
+        {
+            "category": "안주 시리즈",
+            "img_src": "",
+            "menu_name": "순살간장찜닭",
+            "price": "30,000원"
+        },
+        {
+            "category": "사이드 패키지",
+            "img_src": "",
+            "menu_name": "목살 후라이드",
+            "price": "8,400원"
+        },
+        {
+            "category": "사이드 패키지",
+            "img_src": "",
+            "menu_name": "우유 튀김(10개)",
+            "price": "4,000원"
+        },
+        {
+            "category": "사이드 패키지",
+            "img_src": "",
+            "menu_name": "똥집튀김(300g)",
+            "price": "8,000원"
+        },
+        {
+            "category": "사이드 패키지",
+            "img_src": "",
+            "menu_name": "크림치즈 감자튀김",
+            "price": "6,000원"
+        },
+        {
+            "category": "사이드 패키지",
+            "img_src": "",
+            "menu_name": "밀크치즈볼6개(6개)",
+            "price": "5,000원"
+        },
+        {
+            "category": "사이드 패키지",
+            "img_src": "",
+            "menu_name": "떡 도그(떡도그(3개))",
+            "price": "5,000원"
+        },
+        {
+            "category": "사이드 패키지",
+            "img_src": "",
+            "menu_name": "타코야끼(타코야끼(10개))",
+            "price": "5,000원"
+        },
+        {
+            "category": "사이드 패키지",
+            "img_src": "",
+            "menu_name": "밀크치즈볼(1개)",
+            "price": "1,000원"
+        },
+        {
+            "category": "음료 및 추가선택",
+            "img_src": "",
+            "menu_name": "핫마요소스",
+            "price": "500원"
+        },
+        {
+            "category": "음료 및 추가선택",
+            "img_src": "",
+            "menu_name": "크림치즈",
+            "price": "500원"
+        },
+        {
+            "category": "음료 및 추가선택",
+            "img_src": "",
+            "menu_name": "블랙어니언",
+            "price": "500원"
+        },
+        {
+            "category": "음료 및 추가선택",
+            "img_src": "",
+            "menu_name": "양념",
+            "price": "500원"
+        },
+        {
+            "category": "음료 및 추가선택",
+            "img_src": "",
+            "menu_name": "무 추가",
+            "price": "1,000원"
+        },
+        {
+            "category": "음료 및 추가선택",
+            "img_src": "",
+            "menu_name": "떡 추가(8개)",
+            "price": "1,500원"
+        },
+        {
+            "category": "음료 및 추가선택",
+            "img_src": "",
+            "menu_name": "코카콜라(500ml)",
+            "price": "2,000원"
+        },
+        {
+            "category": "음료 및 추가선택",
+            "img_src": "",
+            "menu_name": "코카콜라(1.25L)",
+            "price": "3,000원"
+        },
+        {
+            "category": "음료 및 추가선택",
+            "img_src": "",
+            "menu_name": "칠성사이다(500ml)",
+            "price": "2,000원"
+        },
+        {
+            "category": "음료 및 추가선택",
+            "img_src": "",
+            "menu_name": "칠성사이다(1.5L)",
+            "price": "3,000원"
+        }
+    ]
+}

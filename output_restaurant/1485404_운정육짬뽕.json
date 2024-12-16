@@ -1,0 +1,14 @@
+{
+    "store_name": "운정육짬뽕",
+    "store_location": "경기 파주시 운정역길 130 1층",
+    "loc_x": "180124.140705818",
+    "loc_y": "470130.569563947",
+    "menu": [
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241127_106%2F1732692583197LUfxn_JPEG%2F1732692563913.jpg",
+            "menu_name": "고기짬뽕(면.밥)",
+            "price": "9,000원"
+        }
+    ]
+}

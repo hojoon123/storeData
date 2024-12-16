@@ -1,0 +1,26 @@
+{
+    "store_name": "우문 송도",
+    "store_location": "인천 연수구 센트럴로 160 센트럴파크푸르지오 판매시설동 1층 116호",
+    "loc_x": "168405.695874811",
+    "loc_y": "432336.114528429",
+    "menu": [
+        {
+            "category": "",
+            "img_src": "",
+            "menu_name": "우문 한우오마카세 + 페어링B",
+            "price": "195,000원"
+        },
+        {
+            "category": "",
+            "img_src": "",
+            "menu_name": "우문 한우오마카세 + 와인페어링 A",
+            "price": "175,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241119_163%2F1731997771609GRQHN_JPEG%2F20241008_194949.jpg",
+            "menu_name": "우문 오마카세",
+            "price": "130,000원"
+        }
+    ]
+}

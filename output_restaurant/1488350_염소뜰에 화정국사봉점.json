@@ -1,0 +1,104 @@
+{
+    "store_name": "염소뜰에 화정국사봉점",
+    "store_location": "경기 고양시 덕양구 충장로282번길 126 1층",
+    "loc_x": "186091.704109052",
+    "loc_y": "459843.985063675",
+    "menu": [
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20231210_170%2F1702191990289dxk6P_JPEG%2FKakaoTalk_20231210_105154679.jpg",
+            "menu_name": "전골(1人)",
+            "price": "29,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20231210_91%2F1702192009681OnwLl_JPEG%2FKakaoTalk_20231210_105349128.jpg",
+            "menu_name": "배받이수육(1人)",
+            "price": "35,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20231209_116%2F1702092628608aCMiE_JPEG%2FKakaoTalk_20231025_170856178_02.jpg",
+            "menu_name": "흑염소탕",
+            "price": "16,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20231209_162%2F1702092645150CSQLI_JPEG%2FKakaoTalk_20231025_170856178_02.jpg",
+            "menu_name": "흑염소 특탕",
+            "price": "21,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241118_151%2F1731898098498G93qR_PNG%2F%25C0%25CC%25B9%25CC%25C1%25F6_%25C1%25D8%25BA%25F1%25C1%25DF_%25BD%25C4%25B4%25E7.png",
+            "menu_name": "능이삼계탕",
+            "price": "17,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20231209_295%2F1702092779884X92Ck_JPEG%2FKakaoTalk_20231025_170856178_01.jpg",
+            "menu_name": "흑염소 대파무침(볶음)",
+            "price": "35,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20231209_285%2F1702092799904pKnVI_JPEG%2FKakaoTalk_20231029_173423305.jpg",
+            "menu_name": "흑염소 육회(200g)",
+            "price": "39,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20231209_50%2F1702092699053ISLzL_JPEG%2FKakaoTalk_20231025_170856178_03.jpg",
+            "menu_name": "능이녹두삼계탕",
+            "price": "19,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241118_69%2F17319059404643yGDg_PNG%2F%25C0%25CC%25B9%25CC%25C1%25F6_%25C1%25D8%25BA%25F1%25C1%25DF_%25BD%25C4%25B4%25E7.png",
+            "menu_name": "[2인세트] 1번",
+            "price": "64,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241118_164%2F173190595818141Jgw_PNG%2F%25C0%25CC%25B9%25CC%25C1%25F6_%25C1%25D8%25BA%25F1%25C1%25DF_%25BD%25C4%25B4%25E7.png",
+            "menu_name": "[2인세트] 2번",
+            "price": "67,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241118_222%2F1731905970715wrLoG_PNG%2F%25C0%25CC%25B9%25CC%25C1%25F6_%25C1%25D8%25BA%25F1%25C1%25DF_%25BD%25C4%25B4%25E7.png",
+            "menu_name": "[2인세트] 3번",
+            "price": "89,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241118_61%2F1731905995431kAq3k_PNG%2F%25C0%25CC%25B9%25CC%25C1%25F6_%25C1%25D8%25BA%25F1%25C1%25DF_%25BD%25C4%25B4%25E7.png",
+            "menu_name": "[2인세트] 4번",
+            "price": "93,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241118_80%2F1731906006777EnSvh_PNG%2F%25C0%25CC%25B9%25CC%25C1%25F6_%25C1%25D8%25BA%25F1%25C1%25DF_%25BD%25C4%25B4%25E7.png",
+            "menu_name": "[3~4인세트] 5번",
+            "price": "159,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241118_9%2F1731906029796NjDrA_PNG%2F%25C0%25CC%25B9%25CC%25C1%25F6_%25C1%25D8%25BA%25F1%25C1%25DF_%25BD%25C4%25B4%25E7.png",
+            "menu_name": "[3~4인세트] 6번",
+            "price": "163,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241118_250%2F1731906052161aBG5j_PNG%2F%25C0%25CC%25B9%25CC%25C1%25F6_%25C1%25D8%25BA%25F1%25C1%25DF_%25BD%25C4%25B4%25E7.png",
+            "menu_name": "[4~5인세트] 7번",
+            "price": "196,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241118_133%2F1731906236536uj7dG_PNG%2F%25C0%25CC%25B9%25CC%25C1%25F6_%25C1%25D8%25BA%25F1%25C1%25DF_%25BD%25C4%25B4%25E7.png",
+            "menu_name": "[4인~5인세트] 8번",
+            "price": "196,000원"
+        }
+    ]
+}

@@ -1,0 +1,14 @@
+{
+    "store_name": "행복한 지훈이네 생쌀국수",
+    "store_location": "부산 수영구 연수로416번길 28 .1층",
+    "loc_x": "392458.091862766",
+    "loc_y": "187353.385664881",
+    "menu": [
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240111_207%2F17049589372390Xxn6_JPEG%2FKakaoTalk_20240111_163406357.jpg",
+            "menu_name": "소고기생쌀국수",
+            "price": "8,000원"
+        }
+    ]
+}

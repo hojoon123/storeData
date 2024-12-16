@@ -1,0 +1,350 @@
+{
+    "store_name": "스텔라떡볶이 충남당진점",
+    "store_location": "충남 당진시 수청2로 48 101호",
+    "loc_x": "168964.508177392",
+    "loc_y": "376337.181499829",
+    "menu": [
+        {
+            "category": "인기 메뉴",
+            "img_src": "",
+            "menu_name": "[추천] 바삭 오징어튀김인기",
+            "price": "1,200원"
+        },
+        {
+            "category": "인기 메뉴",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20240619_136/1718761257685Fdesf_JPEG/image_%281%29.jpg?type=f220_220_60_sharpen",
+            "menu_name": "스텔라 떡볶이인기대표",
+            "price": "7,900원"
+        },
+        {
+            "category": "인기 메뉴",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20240619_90/1718761279366FMQnE_JPEG/image.jpg?type=f220_220_60_sharpen",
+            "menu_name": "[꿀조합] 떡볶이 세트 B인기대표",
+            "price": "16,800원"
+        },
+        {
+            "category": "사장님 추천 메뉴",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20240619_90/1718761279366FMQnE_JPEG/image.jpg?type=f220_220_60_sharpen",
+            "menu_name": "[꿀조합] 떡볶이 세트 B인기대표",
+            "price": "16,800원"
+        },
+        {
+            "category": "사장님 추천 메뉴",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20240619_10/17187612671504JbgC_JPEG/image.jpg?type=f220_220_60_sharpen",
+            "menu_name": "양념순대대표",
+            "price": "5,000원"
+        },
+        {
+            "category": "사장님 추천 메뉴",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20240619_136/1718761257685Fdesf_JPEG/image_%281%29.jpg?type=f220_220_60_sharpen",
+            "menu_name": "스텔라 떡볶이인기대표",
+            "price": "7,900원"
+        },
+        {
+            "category": "사장님 추천 메뉴",
+            "img_src": "",
+            "menu_name": "떡닭순 세트대표",
+            "price": "20,600원"
+        },
+        {
+            "category": "신메뉴 세트",
+            "img_src": "",
+            "menu_name": "떡닭순 세트대표",
+            "price": "20,600원"
+        },
+        {
+            "category": "신메뉴 세트",
+            "img_src": "",
+            "menu_name": "치즈가폭포처럼+닭강정",
+            "price": "21,300원"
+        },
+        {
+            "category": "신메뉴 세트",
+            "img_src": "",
+            "menu_name": "치즈가폭포처럼+양념순대",
+            "price": "19,900원"
+        },
+        {
+            "category": "신메뉴 세트",
+            "img_src": "",
+            "menu_name": "닭강정+떡볶이",
+            "price": "16,100원"
+        },
+        {
+            "category": "신메뉴 세트",
+            "img_src": "",
+            "menu_name": "닭강정+라볶이",
+            "price": "17,100원"
+        },
+        {
+            "category": "떡볶이 세트",
+            "img_src": "",
+            "menu_name": "[가성비 끝판왕] 떡볶이 세트 A",
+            "price": "12,400원"
+        },
+        {
+            "category": "떡볶이 세트",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20240619_90/1718761279366FMQnE_JPEG/image.jpg?type=f220_220_60_sharpen",
+            "menu_name": "[꿀조합] 떡볶이 세트 B인기대표",
+            "price": "16,800원"
+        },
+        {
+            "category": "떡볶이 세트",
+            "img_src": "",
+            "menu_name": "[주문폭주] 떡볶이 세트 C",
+            "price": "25,600원"
+        },
+        {
+            "category": "라볶이 세트",
+            "img_src": "",
+            "menu_name": "[호로록] 라볶이 세트 A",
+            "price": "13,400원"
+        },
+        {
+            "category": "라볶이 세트",
+            "img_src": "",
+            "menu_name": "[호로록] 라볶이 세트 B",
+            "price": "17,800원"
+        },
+        {
+            "category": "라볶이 세트",
+            "img_src": "",
+            "menu_name": "[호로록] 라볶이 세트 C",
+            "price": "26,600원"
+        },
+        {
+            "category": "떡볶이",
+            "img_src": "",
+            "menu_name": "[ 신메뉴 ] 치즈가폭포처럼",
+            "price": "13,100원"
+        },
+        {
+            "category": "떡볶이",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20240619_136/1718761257685Fdesf_JPEG/image_%281%29.jpg?type=f220_220_60_sharpen",
+            "menu_name": "스텔라 떡볶이인기대표",
+            "price": "7,900원"
+        },
+        {
+            "category": "떡볶이",
+            "img_src": "",
+            "menu_name": "[매콤고소] 치즈 떡볶이",
+            "price": "10,900원"
+        },
+        {
+            "category": "떡볶이",
+            "img_src": "",
+            "menu_name": "[인기메뉴] 로제 떡볶이",
+            "price": "10,900원"
+        },
+        {
+            "category": "떡볶이",
+            "img_src": "",
+            "menu_name": "[아이와함께] 까르보나라 떡볶이",
+            "price": "10,900원"
+        },
+        {
+            "category": "떡볶이",
+            "img_src": "",
+            "menu_name": "마라로제 떡볶이",
+            "price": "10,900원"
+        },
+        {
+            "category": "떡볶이",
+            "img_src": "",
+            "menu_name": "차돌마라 떡볶이",
+            "price": "15,300원"
+        },
+        {
+            "category": "떡볶이",
+            "img_src": "",
+            "menu_name": "[풍미가득] 차돌 떡볶이",
+            "price": "12,900원"
+        },
+        {
+            "category": "라볶이",
+            "img_src": "",
+            "menu_name": "[호로록] 치즈 라볶이",
+            "price": "11,900원"
+        },
+        {
+            "category": "라볶이",
+            "img_src": "",
+            "menu_name": "[호로록] 로제 라볶이",
+            "price": "11,900원"
+        },
+        {
+            "category": "라볶이",
+            "img_src": "",
+            "menu_name": "[호로록] 우주 라볶이 (기본)",
+            "price": "8,900원"
+        },
+        {
+            "category": "라볶이",
+            "img_src": "",
+            "menu_name": "[호로록] 차돌 라볶이",
+            "price": "13,900원"
+        },
+        {
+            "category": "튀김",
+            "img_src": "",
+            "menu_name": "[추가필수] 인기튀김 3종",
+            "price": "3,200원"
+        },
+        {
+            "category": "튀김",
+            "img_src": "",
+            "menu_name": "[신메뉴] 양념 닭강정",
+            "price": "6,500원"
+        },
+        {
+            "category": "튀김",
+            "img_src": "",
+            "menu_name": "[신메뉴] 후추 닭강정",
+            "price": "6,500원"
+        },
+        {
+            "category": "튀김",
+            "img_src": "",
+            "menu_name": "[신메뉴] 후라이드 닭강정",
+            "price": "6,500원"
+        },
+        {
+            "category": "튀김",
+            "img_src": "",
+            "menu_name": "[추천] 바삭 김말이",
+            "price": "1,000원"
+        },
+        {
+            "category": "튀김",
+            "img_src": "",
+            "menu_name": "[푸짐만족] 인기튀김 6종",
+            "price": "5,700원"
+        },
+        {
+            "category": "튀김",
+            "img_src": "",
+            "menu_name": "야채튀김",
+            "price": "1,100원"
+        },
+        {
+            "category": "튀김",
+            "img_src": "",
+            "menu_name": "[추천] 바삭 야끼만두",
+            "price": "1,000원"
+        },
+        {
+            "category": "튀김",
+            "img_src": "",
+            "menu_name": "[추천] 바삭 오징어튀김인기",
+            "price": "1,200원"
+        },
+        {
+            "category": "튀김",
+            "img_src": "",
+            "menu_name": "쉑쉑감자",
+            "price": "3,500원"
+        },
+        {
+            "category": "튀김",
+            "img_src": "",
+            "menu_name": "새우튀김",
+            "price": "1,000원"
+        },
+        {
+            "category": "튀김",
+            "img_src": "",
+            "menu_name": "치즈볼",
+            "price": "1,100원"
+        },
+        {
+            "category": "튀김",
+            "img_src": "",
+            "menu_name": "[탱글탱글] 통살 새우볼",
+            "price": "700원"
+        },
+        {
+            "category": "튀김",
+            "img_src": "",
+            "menu_name": "바삭 별가루튀김",
+            "price": "1,000원"
+        },
+        {
+            "category": "사이드",
+            "img_src": "",
+            "menu_name": "어묵탕",
+            "price": "4,000원"
+        },
+        {
+            "category": "사이드",
+            "img_src": "",
+            "menu_name": "[꿀조합] 쫄깃순대",
+            "price": "4,500원"
+        },
+        {
+            "category": "사이드",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20240619_10/17187612671504JbgC_JPEG/image.jpg?type=f220_220_60_sharpen",
+            "menu_name": "양념순대대표",
+            "price": "5,000원"
+        },
+        {
+            "category": "사이드",
+            "img_src": "",
+            "menu_name": "단무지",
+            "price": "500원"
+        },
+        {
+            "category": "음료",
+            "img_src": "",
+            "menu_name": "제로콜라 500ml",
+            "price": "2,000원"
+        },
+        {
+            "category": "음료",
+            "img_src": "",
+            "menu_name": "펩시콜라 500ml 추가",
+            "price": "2,000원"
+        },
+        {
+            "category": "음료",
+            "img_src": "",
+            "menu_name": "쥬시쿨 930ml 추가",
+            "price": "2,000원"
+        },
+        {
+            "category": "음료",
+            "img_src": "",
+            "menu_name": "쿨피스 450ml 추가",
+            "price": "1,500원"
+        },
+        {
+            "category": "음료",
+            "img_src": "",
+            "menu_name": "제로콜라1.25L",
+            "price": "3,000원"
+        },
+        {
+            "category": "음료",
+            "img_src": "",
+            "menu_name": "사이다 1.25",
+            "price": "3,000원"
+        },
+        {
+            "category": "음료",
+            "img_src": "",
+            "menu_name": "콜라1.25",
+            "price": "3,000원"
+        },
+        {
+            "category": "음료",
+            "img_src": "",
+            "menu_name": "제로사이다500ml",
+            "price": "2,000원"
+        },
+        {
+            "category": "음료",
+            "img_src": "",
+            "menu_name": "칠성사이다 500ml 추가",
+            "price": "2,000원"
+        }
+    ]
+}

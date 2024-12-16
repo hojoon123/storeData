@@ -1,0 +1,20 @@
+{
+    "store_name": "메가비어",
+    "store_location": "부산 동래구 중앙대로1367번길 69 A동 1층 101호",
+    "loc_x": "388797.953358985",
+    "loc_y": "192083.065048989",
+    "menu": [
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20231213_129%2F1702401166406yY6RB_JPEG%2F1000003748.jpg",
+            "menu_name": "단짠 윙봉",
+            "price": "14,500원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20231217_4%2F1702789571483ae8aS_JPEG%2F1000003806.jpg",
+            "menu_name": "버터먹태구이",
+            "price": "15,000원"
+        }
+    ]
+}

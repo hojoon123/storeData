@@ -1,0 +1,86 @@
+{
+    "store_name": "하오하오마라탕 명덕직영점",
+    "store_location": "대구 중구 명덕로 169-1 1층",
+    "loc_x": "343440.575055792",
+    "loc_y": "263039.817889621",
+    "menu": [
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20231206_280%2F1701863969311XVOod_JPEG%2FIMG_5879.jpeg",
+            "menu_name": "마라롱샤",
+            "price": "35,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20231206_152%2F1701853501329viYHe_JPEG%2FIMG_5878.jpeg",
+            "menu_name": "마라전골",
+            "price": "변동"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20231206_89%2F1701852595154atvL4_JPEG%2FIMG_5874.jpeg",
+            "menu_name": "크림새우(소)",
+            "price": "15,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20231206_226%2F1701852446040CXoHy_JPEG%2FIMG_5877.jpeg",
+            "menu_name": "꿔바로우(소)",
+            "price": "12,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20231206_278%2F1701852402076WByvT_JPEG%2FIMG_5875.jpeg",
+            "menu_name": "마라샹궈",
+            "price": "변동"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20231206_187%2F1701852414922JfGVv_JPEG%2FIMG_5876.jpeg",
+            "menu_name": "마라탕",
+            "price": "변동"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20231206_70%2F1701863830424P9QlT_JPEG%2FIMG_5880.jpeg",
+            "menu_name": "양고기쯔란볶음",
+            "price": "17,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20231206_89%2F1701863790762oPyWz_JPEG%2FIMG_5881.jpeg",
+            "menu_name": "우삼겹숙주볶음",
+            "price": "15,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20231206_101%2F1701863744618uTIkt_JPEG%2FIMG_5885.jpeg",
+            "menu_name": "계란볶음밥",
+            "price": "6,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20231206_15%2F1701863705777hGK1y_JPEG%2FIMG_5884.jpeg",
+            "menu_name": "닭껍질교자",
+            "price": "8,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20231206_291%2F1701863667983wVa0b_JPEG%2FIMG_5883.jpeg",
+            "menu_name": "황금꽃빵",
+            "price": "5,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20231206_269%2F1701863590552wwU8P_JPEG%2FIMG_5882.jpeg",
+            "menu_name": "멘바오샤",
+            "price": "8,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20231206_45%2F1701852551297L0dv7_JPEG%2FIMG_5877.jpeg",
+            "menu_name": "꿔바로우(대)",
+            "price": "20,000원"
+        }
+    ]
+}

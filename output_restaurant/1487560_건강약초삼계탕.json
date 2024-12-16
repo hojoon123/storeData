@@ -1,0 +1,38 @@
+{
+    "store_name": "건강약초삼계탕",
+    "store_location": "인천 서구 청라에메랄드로41번길 8-4 1층",
+    "loc_x": "169507.5",
+    "loc_y": "447482.064999999",
+    "menu": [
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241211_88%2F17339027400184o3h8_JPEG%2F%25BB%25EF%25B0%25E8%25C5%25C1_%25C0%25CC%25B9%25CC%25C1%25F64.jpg",
+            "menu_name": "장뇌능이 삼계탕",
+            "price": "30,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241211_10%2F1733902719926Lf3uM_JPEG%2F%25BB%25EF%25B0%25E8%25C5%25C1_%25C0%25CC%25B9%25CC%25C1%25F64.jpg",
+            "menu_name": "장뇌전복 삼계탕",
+            "price": "27,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241211_270%2F1733902662769zOqAC_JPEG%2F%25BB%25EF%25B0%25E8%25C5%25C1_%25C0%25CC%25B9%25CC%25C1%25F64.jpg",
+            "menu_name": "옻 삼계탕",
+            "price": "22,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241211_26%2F1733902649260mbrQa_JPEG%2F%25BB%25EF%25B0%25E8%25C5%25C1_%25C0%25CC%25B9%25CC%25C1%25F64.jpg",
+            "menu_name": "장뇌 삼계탕",
+            "price": "22,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241211_236%2F1733902633020VKYz6_JPEG%2F%25BB%25EF%25B0%25E8%25C5%25C1_%25C0%25CC%25B9%25CC%25C1%25F64.jpg",
+            "menu_name": "약초 삼계탕",
+            "price": "18,000원"
+        }
+    ]
+}

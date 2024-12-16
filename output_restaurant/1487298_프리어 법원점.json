@@ -1,0 +1,20 @@
+{
+    "store_name": "프리어 법원점",
+    "store_location": "경기 평택시 비전2로 31 1층 102호",
+    "loc_x": "208544.049417606",
+    "loc_y": "389492.738577706",
+    "menu": [
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241208_13%2F1733627187499fUn6t_JPEG%2F1733627178093.jpg",
+            "menu_name": "프렌치토스트",
+            "price": "11,500원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241208_12%2F1733627093009Ky5lq_JPEG%2F1733627081720.jpg",
+            "menu_name": "아메리카노",
+            "price": "4,500원"
+        }
+    ]
+}

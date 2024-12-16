@@ -1,0 +1,20 @@
+{
+    "store_name": "유리네 돌판생삼겹",
+    "store_location": "강원 춘천시 충혼길8번길 5 1층",
+    "loc_x": "263509.463584214",
+    "loc_y": "484777.881456672",
+    "menu": [
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241213_236%2F1734071885547RR7j9_JPEG%2F17340700971181.jpg",
+            "menu_name": "생오겹살",
+            "price": "15,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241213_54%2F1734071483102SKBWx_JPEG%2F17340700971181.jpg",
+            "menu_name": "한우등심",
+            "price": "39,000원"
+        }
+    ]
+}

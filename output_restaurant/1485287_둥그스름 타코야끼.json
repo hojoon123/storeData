@@ -1,0 +1,200 @@
+{
+    "store_name": "둥그스름 타코야끼",
+    "store_location": "경기 용인시 기흥구 죽현로 8-22 110호 둥그스름 타코야끼 전문점 (도로방향)",
+    "loc_x": "209589.782299188",
+    "loc_y": "424202.641898263",
+    "menu": [
+        {
+            "category": "사장님 추천 메뉴",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20241129_183/1732888119654RLGNW_JPEG/%BF%C0%B8%AE%C1%F6%B3%CE.jpg?type=f220_220_60_sharpen",
+            "menu_name": "8알 오리지널 타코야끼대표",
+            "price": "4,900원"
+        },
+        {
+            "category": "8알 타코야끼",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20241129_183/1732888119654RLGNW_JPEG/%BF%C0%B8%AE%C1%F6%B3%CE.jpg?type=f220_220_60_sharpen",
+            "menu_name": "8알 오리지널 타코야끼대표",
+            "price": "4,900원"
+        },
+        {
+            "category": "8알 타코야끼",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20241130_124/1732898805215nMHJi_JPEG/%C3%BC%B4%D9%C4%A1%C1%EE_%C5%B8%C4%DA%BE%DF%B3%A2.jpg?type=f220_220_60_sharpen",
+            "menu_name": "8알 체다치즈 타코야끼",
+            "price": "5,300원"
+        },
+        {
+            "category": "8알 타코야끼",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20241130_17/17328989231096QbLN_JPEG/%B0%A5%B8%AF_%C5%B8%C4%DA%BE%DF%B3%A2.jpg?type=f220_220_60_sharpen",
+            "menu_name": "8알 갈릭 타코야끼",
+            "price": "5,300원"
+        },
+        {
+            "category": "8알 타코야끼",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20241130_298/1732899036638dd1eH_JPEG/%BE%EE%B4%CF%BE%F0_%C5%B8%C4%DA%BE%DF%B3%A2.jpg?type=f220_220_60_sharpen",
+            "menu_name": "8알 어니언 타코야끼",
+            "price": "5,300원"
+        },
+        {
+            "category": "8알 타코야끼",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20241130_69/1732899108977UAF2g_JPEG/%B4%EB%C6%C4_%C5%B8%C4%DA%BE%DF%B3%A2.jpg?type=f220_220_60_sharpen",
+            "menu_name": "8알 대파 타코야끼",
+            "price": "5,500원"
+        },
+        {
+            "category": "8알 타코야끼",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20241130_239/17328993136479EvHj_JPEG/%BF%CD%BB%E7%BA%F1_%C5%B8%C4%DA%BE%DF%B3%A2.jpg?type=f220_220_60_sharpen",
+            "menu_name": "8알 와사비 타코야끼매운맛1단계",
+            "price": "5,700원"
+        },
+        {
+            "category": "8알 타코야끼",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20241130_46/1732899341440DTTDc_JPEG/%B8%ED%B6%F5_%C5%B8%C4%DA%BE%DF%B3%A2.jpg?type=f220_220_60_sharpen",
+            "menu_name": "8알 명란마요 타코야끼",
+            "price": "5,700원"
+        },
+        {
+            "category": "8알 타코야끼",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20241130_101/1732899367046GxaS2_JPEG/%B7%CE%C1%A6%B6%B1%BA%BA%C0%CC_%C5%B8%C4%DA%BE%DF%B3%A2.jpg?type=f220_220_60_sharpen",
+            "menu_name": "8알 로제떡복이 타코야끼",
+            "price": "5,700원"
+        },
+        {
+            "category": "8알 타코야끼",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20241130_124/17328994061232nmfi_JPEG/%C7%C7%C0%DA%C4%A1%C1%EE_%C5%B8%C4%DA%BE%DF%B3%A2.jpg?type=f220_220_60_sharpen",
+            "menu_name": "8알 피자치즈 타코야끼",
+            "price": "5,700원"
+        },
+        {
+            "category": "8알 타코야끼",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20241130_10/1732899432912iYHOD_JPEG/%B7%B9%B5%E5%C6%E4%C6%DB_%C5%B8%C4%DA%BE%DF%B3%A2.jpg?type=f220_220_60_sharpen",
+            "menu_name": "8알 레드페퍼 타코야끼매운맛2단계",
+            "price": "5,700원"
+        },
+        {
+            "category": "8알 타코야끼",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20241130_19/1732899460011pWw5r_JPEG/%B8%C5%C4%DE_%C5%B8%C4%DA%BE%DF%B3%A2.jpg?type=f220_220_60_sharpen",
+            "menu_name": "8알 매콤 타코야끼매운맛1단계",
+            "price": "5,200원"
+        },
+        {
+            "category": "8알 타코야끼",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20241130_217/1732899473703fv0OL_JPEG/%B8%C5%C4%DE%B0%A5%B8%AF_%C5%B8%C4%DA%BE%DF%B3%A2.jpg?type=f220_220_60_sharpen",
+            "menu_name": "8알 매콤갈릭 타코야끼매운맛1단계",
+            "price": "5,700원"
+        },
+        {
+            "category": "8알 타코야끼",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20241130_233/1732899486165j7ePw_JPEG/%B8%C5%C4%DE%C3%BC%B4%D9%C4%A1%C1%EE_%C5%B8%C4%DA%BE%DF%B3%A2.jpg?type=f220_220_60_sharpen",
+            "menu_name": "8알 매콤체다치즈 타코야끼매운맛1단계",
+            "price": "5,700원"
+        },
+        {
+            "category": "14알 타코야끼",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20241130_124/1732898805215nMHJi_JPEG/%C3%BC%B4%D9%C4%A1%C1%EE_%C5%B8%C4%DA%BE%DF%B3%A2.jpg?type=f220_220_60_sharpen",
+            "menu_name": "14알 체다치즈 타코야끼",
+            "price": "8,300원"
+        },
+        {
+            "category": "14알 타코야끼",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20241130_17/17328989231096QbLN_JPEG/%B0%A5%B8%AF_%C5%B8%C4%DA%BE%DF%B3%A2.jpg?type=f220_220_60_sharpen",
+            "menu_name": "14알 갈릭 타코야끼",
+            "price": "8,300원"
+        },
+        {
+            "category": "14알 타코야끼",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20241130_298/1732899036638dd1eH_JPEG/%BE%EE%B4%CF%BE%F0_%C5%B8%C4%DA%BE%DF%B3%A2.jpg?type=f220_220_60_sharpen",
+            "menu_name": "14알 어니언 타코야끼",
+            "price": "8,300원"
+        },
+        {
+            "category": "14알 타코야끼",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20241130_69/1732899108977UAF2g_JPEG/%B4%EB%C6%C4_%C5%B8%C4%DA%BE%DF%B3%A2.jpg?type=f220_220_60_sharpen",
+            "menu_name": "14알 대파 타코야끼",
+            "price": "8,500원"
+        },
+        {
+            "category": "14알 타코야끼",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20241129_183/1732888119654RLGNW_JPEG/%BF%C0%B8%AE%C1%F6%B3%CE.jpg?type=f220_220_60_sharpen",
+            "menu_name": "14알 오리지널 타코야끼",
+            "price": "7,900원"
+        },
+        {
+            "category": "14알 타코야끼",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20241130_239/17328993136479EvHj_JPEG/%BF%CD%BB%E7%BA%F1_%C5%B8%C4%DA%BE%DF%B3%A2.jpg?type=f220_220_60_sharpen",
+            "menu_name": "14알 와사비 타코야끼매운맛1단계",
+            "price": "8,700원"
+        },
+        {
+            "category": "14알 타코야끼",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20241130_46/1732899341440DTTDc_JPEG/%B8%ED%B6%F5_%C5%B8%C4%DA%BE%DF%B3%A2.jpg?type=f220_220_60_sharpen",
+            "menu_name": "14알 명란마요 타코야끼",
+            "price": "8,700원"
+        },
+        {
+            "category": "14알 타코야끼",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20241130_101/1732899367046GxaS2_JPEG/%B7%CE%C1%A6%B6%B1%BA%BA%C0%CC_%C5%B8%C4%DA%BE%DF%B3%A2.jpg?type=f220_220_60_sharpen",
+            "menu_name": "14알 로제떡복이 타코야끼",
+            "price": "8,700원"
+        },
+        {
+            "category": "14알 타코야끼",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20241130_124/17328994061232nmfi_JPEG/%C7%C7%C0%DA%C4%A1%C1%EE_%C5%B8%C4%DA%BE%DF%B3%A2.jpg?type=f220_220_60_sharpen",
+            "menu_name": "14알 피자치즈 타코야끼",
+            "price": "8,700원"
+        },
+        {
+            "category": "14알 타코야끼",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20241130_10/1732899432912iYHOD_JPEG/%B7%B9%B5%E5%C6%E4%C6%DB_%C5%B8%C4%DA%BE%DF%B3%A2.jpg?type=f220_220_60_sharpen",
+            "menu_name": "14알 레드페퍼 타코야끼매운맛2단계",
+            "price": "8,700원"
+        },
+        {
+            "category": "14알 타코야끼",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20241130_19/1732899460011pWw5r_JPEG/%B8%C5%C4%DE_%C5%B8%C4%DA%BE%DF%B3%A2.jpg?type=f220_220_60_sharpen",
+            "menu_name": "14알 매콤 타코야끼매운맛1단계",
+            "price": "8,200원"
+        },
+        {
+            "category": "14알 타코야끼",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20241130_217/1732899473703fv0OL_JPEG/%B8%C5%C4%DE%B0%A5%B8%AF_%C5%B8%C4%DA%BE%DF%B3%A2.jpg?type=f220_220_60_sharpen",
+            "menu_name": "14알 매콤갈릭 타코야끼매운맛1단계",
+            "price": "8,700원"
+        },
+        {
+            "category": "14알 타코야끼",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20241130_233/1732899486165j7ePw_JPEG/%B8%C5%C4%DE%C3%BC%B4%D9%C4%A1%C1%EE_%C5%B8%C4%DA%BE%DF%B3%A2.jpg?type=f220_220_60_sharpen",
+            "menu_name": "14알 매콤체다치즈 타코야끼매운맛1단계",
+            "price": "8,700원"
+        },
+        {
+            "category": "두가지 맛 타코야끼",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20241130_170/1732901023055ckLxY_JPEG/%BF%C0%B8%AE%C1%F6%B3%CE_%C5%B8%C4%DA%BE%DF%B3%A2.jpg?type=f220_220_60_sharpen",
+            "menu_name": "두가지 맛 타코야끼",
+            "price": "7,000원"
+        },
+        {
+            "category": "음료",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20241130_79/1732900629103t8XSw_JPEG/%C4%DA%C4%AB%C4%DD%B6%F3.jpg?type=f220_220_60_sharpen",
+            "menu_name": "코카콜라",
+            "price": "2,000원"
+        },
+        {
+            "category": "음료",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20241130_199/17329006499930R8fK_JPEG/%C4%DA%C4%AB%C4%DD%B6%F3_%C1%A6%B7%CE.jpg?type=f220_220_60_sharpen",
+            "menu_name": "코카콜라 제로",
+            "price": "2,000원"
+        },
+        {
+            "category": "음료",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20241130_289/1732900671161ggBWM_JPEG/%BD%BA%C7%C1%B6%F3%C0%CC%C6%AE%2C%BD%BA%C7%C1%B6%F3%C0%CC%C6%AE_%C1%A6%B7%CE.jpg?type=f220_220_60_sharpen",
+            "menu_name": "스프라이트",
+            "price": "2,000원"
+        },
+        {
+            "category": "음료",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20241130_48/1732900689481C27JG_JPEG/%BD%BA%C7%C1%B6%F3%C0%CC%C6%AE%2C%BD%BA%C7%C1%B6%F3%C0%CC%C6%AE_%C1%A6%B7%CE.jpg?type=f220_220_60_sharpen",
+            "menu_name": "스프라이트 제로",
+            "price": "2,000원"
+        }
+    ]
+}

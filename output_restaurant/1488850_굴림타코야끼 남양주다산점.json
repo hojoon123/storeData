@@ -1,0 +1,62 @@
+{
+    "store_name": "굴림타코야끼 남양주다산점",
+    "store_location": "경기 남양주시 다산순환로 350 kb골든타워 1층 104호",
+    "loc_x": "213646.133935776",
+    "loc_y": "458169.71770629",
+    "menu": [
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20231207_52%2F1701925283831lvisF_JPEG%2F1000004658.jpg",
+            "menu_name": "리얼콘치즈(8알)",
+            "price": "6,500원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20231207_249%2F1701925472874iAqlC_JPEG%2F1000004659.jpg",
+            "menu_name": "리얼마늘(8알)",
+            "price": "6,500원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20231207_211%2F1701925570387AgVi0_JPEG%2F1000004660.jpg",
+            "menu_name": "8알",
+            "price": "5,000~6,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20231207_134%2F1701926102036EH16C_JPEG%2F1000004660.jpg",
+            "menu_name": "14알",
+            "price": "8,500~9,500원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20231207_257%2F17019261363638DCLY_JPEG%2F1000004660.jpg",
+            "menu_name": "22알",
+            "price": "13,500~14,500원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20231207_241%2F1701926174099AtdbS_JPEG%2F1000004660.jpg",
+            "menu_name": "28알",
+            "price": "16,500~17,500원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20231207_140%2F1701926225562uyMYH_JPEG%2F1000004661.jpg",
+            "menu_name": "22알+에이드",
+            "price": "16,500~18,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20231207_277%2F1701926316568CaNOU_JPEG%2F1000004661.jpg",
+            "menu_name": "28알+에이드",
+            "price": "19,000~21,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20231209_226%2F1702127868132AiCSK_PNG%2F1000004722.png",
+            "menu_name": "프리미엄 붕어빵",
+            "price": "1,000원"
+        }
+    ]
+}

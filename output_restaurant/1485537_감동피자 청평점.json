@@ -1,0 +1,440 @@
+{
+    "store_name": "감동피자 청평점",
+    "store_location": "경기 가평군 청평면 잠곡로 7 1층 감동피자",
+    "loc_x": "236905.87936703",
+    "loc_y": "470603.473280318",
+    "menu": [
+        {
+            "category": "대표메뉴",
+            "img_src": "",
+            "menu_name": "콤비네이션피자 L(L 사이즈)",
+            "price": "20,900원"
+        },
+        {
+            "category": "대표메뉴",
+            "img_src": "",
+            "menu_name": "갈릭직화스테이크피자 L(L 사이즈)",
+            "price": "25,900원"
+        },
+        {
+            "category": "대표메뉴",
+            "img_src": "",
+            "menu_name": "베이컨크림스파게티",
+            "price": "7,000원"
+        },
+        {
+            "category": "세트메뉴",
+            "img_src": "",
+            "menu_name": "스파게티세트 L사이즈",
+            "price": "27,900원"
+        },
+        {
+            "category": "세트메뉴",
+            "img_src": "",
+            "menu_name": "스파게티세트 M사이즈",
+            "price": "24,900원"
+        },
+        {
+            "category": "세트메뉴",
+            "img_src": "",
+            "menu_name": "피자훈제치킨세트 L사이즈",
+            "price": "35,900원"
+        },
+        {
+            "category": "세트메뉴",
+            "img_src": "",
+            "menu_name": "피자훈제치킨세트 M사이즈",
+            "price": "32,900원"
+        },
+        {
+            "category": "세트메뉴",
+            "img_src": "",
+            "menu_name": "피자떡볶이세트 L사이즈",
+            "price": "27,900원"
+        },
+        {
+            "category": "세트메뉴",
+            "img_src": "",
+            "menu_name": "피자떡볶이세트 M사이즈",
+            "price": "24,900원"
+        },
+        {
+            "category": "마음대로반반피자",
+            "img_src": "",
+            "menu_name": "마음대로 반반피자 L",
+            "price": "22,900원"
+        },
+        {
+            "category": "마음대로반반피자",
+            "img_src": "",
+            "menu_name": "마음대로 반반피자 M",
+            "price": "19,900원"
+        },
+        {
+            "category": "감동프리미엄피자",
+            "img_src": "",
+            "menu_name": "갈릭직화스테이크피자 L(L 사이즈)",
+            "price": "25,900원"
+        },
+        {
+            "category": "감동프리미엄피자",
+            "img_src": "",
+            "menu_name": "새우감잡았어피자 L(L 사이즈)",
+            "price": "25,900원"
+        },
+        {
+            "category": "감동프리미엄피자",
+            "img_src": "",
+            "menu_name": "JMT햄벅피자 L(L 사이즈)",
+            "price": "25,900원"
+        },
+        {
+            "category": "감동프리미엄피자",
+            "img_src": "",
+            "menu_name": "타코야키피자 L(L 사이즈)",
+            "price": "25,900원"
+        },
+        {
+            "category": "감동프리미엄피자",
+            "img_src": "",
+            "menu_name": "갈릭직화스테이크피자 M(M사이즈)",
+            "price": "22,900원"
+        },
+        {
+            "category": "감동프리미엄피자",
+            "img_src": "",
+            "menu_name": "새우감잡았어피자 M(M사이즈)",
+            "price": "22,900원"
+        },
+        {
+            "category": "감동프리미엄피자",
+            "img_src": "",
+            "menu_name": "JMT햄벅피자 M(M 사이즈)",
+            "price": "22,900원"
+        },
+        {
+            "category": "감동프리미엄피자",
+            "img_src": "",
+            "menu_name": "타코야키피자 M(M 사이즈)",
+            "price": "22,900원"
+        },
+        {
+            "category": "감동베스트피자",
+            "img_src": "",
+            "menu_name": "핫치킨쉬림프피자 L(L 사이즈)",
+            "price": "24,900원"
+        },
+        {
+            "category": "감동베스트피자",
+            "img_src": "",
+            "menu_name": "베이컨쉬림프피자 L(L 사이즈)",
+            "price": "24,900원"
+        },
+        {
+            "category": "감동베스트피자",
+            "img_src": "",
+            "menu_name": "쉬림프피자 L(L 사이즈)",
+            "price": "24,900원"
+        },
+        {
+            "category": "감동베스트피자",
+            "img_src": "",
+            "menu_name": "핫치킨쉬림프피자 M(M 사이즈)",
+            "price": "21,900원"
+        },
+        {
+            "category": "감동베스트피자",
+            "img_src": "",
+            "menu_name": "베이컨쉬림프피자 M(M 사이즈)",
+            "price": "21,900원"
+        },
+        {
+            "category": "감동베스트피자",
+            "img_src": "",
+            "menu_name": "쉬림프피자 M(M 사이즈)",
+            "price": "21,900원"
+        },
+        {
+            "category": "감동클래식피자",
+            "img_src": "",
+            "menu_name": "할라피뇨불고기피자 L(L 사이즈)",
+            "price": "23,900원"
+        },
+        {
+            "category": "감동클래식피자",
+            "img_src": "",
+            "menu_name": "베이컨체다치즈피자 L(L 사이즈)",
+            "price": "23,900원"
+        },
+        {
+            "category": "감동클래식피자",
+            "img_src": "",
+            "menu_name": "고구마무스피자 L(L 사이즈)",
+            "price": "23,900원"
+        },
+        {
+            "category": "감동클래식피자",
+            "img_src": "",
+            "menu_name": "불고기피자 L",
+            "price": "23,900원"
+        },
+        {
+            "category": "감동클래식피자",
+            "img_src": "",
+            "menu_name": "포테이토피자 L",
+            "price": "23,900원"
+        },
+        {
+            "category": "감동클래식피자",
+            "img_src": "",
+            "menu_name": "할라피뇨불고기피자 M(M 사이즈)",
+            "price": "20,900원"
+        },
+        {
+            "category": "감동클래식피자",
+            "img_src": "",
+            "menu_name": "베이컨체다지즈피자 M(M 사이즈)",
+            "price": "20,900원"
+        },
+        {
+            "category": "감동클래식피자",
+            "img_src": "",
+            "menu_name": "고구마무스피자 M",
+            "price": "20,900원"
+        },
+        {
+            "category": "감동클래식피자",
+            "img_src": "",
+            "menu_name": "불고기피자 M",
+            "price": "20,900원"
+        },
+        {
+            "category": "감동클래식피자",
+            "img_src": "",
+            "menu_name": "포테이토피자 M",
+            "price": "20,900원"
+        },
+        {
+            "category": "감동오리지널피자",
+            "img_src": "",
+            "menu_name": "페퍼로니피자 L(L 사이즈)",
+            "price": "20,900원"
+        },
+        {
+            "category": "감동오리지널피자",
+            "img_src": "",
+            "menu_name": "치즈피자 L(L 사이즈)",
+            "price": "20,900원"
+        },
+        {
+            "category": "감동오리지널피자",
+            "img_src": "",
+            "menu_name": "콤비네이션피자 L(L 사이즈)",
+            "price": "20,900원"
+        },
+        {
+            "category": "감동오리지널피자",
+            "img_src": "",
+            "menu_name": "고르곤졸라피자 L(L 사이즈)",
+            "price": "20,900원"
+        },
+        {
+            "category": "감동오리지널피자",
+            "img_src": "",
+            "menu_name": "하와이안피자 L(L 사이즈)",
+            "price": "20,900원"
+        },
+        {
+            "category": "감동오리지널피자",
+            "img_src": "",
+            "menu_name": "페페로니피자 M(M 사이즈)",
+            "price": "17,900원"
+        },
+        {
+            "category": "감동오리지널피자",
+            "img_src": "",
+            "menu_name": "치즈피자 M(M 사이즈)",
+            "price": "17,900원"
+        },
+        {
+            "category": "감동오리지널피자",
+            "img_src": "",
+            "menu_name": "콤비네이션피자 M(M 사이즈)",
+            "price": "17,900원"
+        },
+        {
+            "category": "감동오리지널피자",
+            "img_src": "",
+            "menu_name": "고르곤졸라피자 M(M 사이즈)",
+            "price": "17,900원"
+        },
+        {
+            "category": "감동오리지널피자",
+            "img_src": "",
+            "menu_name": "하와이안피자 M(M 사이즈)",
+            "price": "17,900원"
+        },
+        {
+            "category": "감동치킨메뉴",
+            "img_src": "",
+            "menu_name": "버팔로치킨(버팔로핫윙5p)",
+            "price": "6,000원"
+        },
+        {
+            "category": "감동치킨메뉴",
+            "img_src": "",
+            "menu_name": "버팔로치킨(버팔로핫봉5p)",
+            "price": "6,000원"
+        },
+        {
+            "category": "감동치킨메뉴",
+            "img_src": "",
+            "menu_name": "버팔로치킨(버팔로(윙11p+봉11p))",
+            "price": "21,000원"
+        },
+        {
+            "category": "감동치킨메뉴",
+            "img_src": "",
+            "menu_name": "훈제치킨",
+            "price": "14,000원"
+        },
+        {
+            "category": "감동치킨메뉴",
+            "img_src": "",
+            "menu_name": "치킨텐더 5p(5p)",
+            "price": "6,000원"
+        },
+        {
+            "category": "사이드메뉴",
+            "img_src": "",
+            "menu_name": "감동떡볶이",
+            "price": "6,000원"
+        },
+        {
+            "category": "사이드메뉴",
+            "img_src": "",
+            "menu_name": "쫀득듬뿍치즈볼(6pcs)",
+            "price": "5,000원"
+        },
+        {
+            "category": "사이드메뉴",
+            "img_src": "",
+            "menu_name": "고구마치즈볼(6pcs)",
+            "price": "5,000원"
+        },
+        {
+            "category": "사이드메뉴",
+            "img_src": "",
+            "menu_name": "치즈오븐스파게티",
+            "price": "6,000원"
+        },
+        {
+            "category": "사이드메뉴",
+            "img_src": "",
+            "menu_name": "베이컨크림스파게티",
+            "price": "7,000원"
+        },
+        {
+            "category": "사이드메뉴",
+            "img_src": "",
+            "menu_name": "까르보불닭스파게티",
+            "price": "7,000원"
+        },
+        {
+            "category": "사이드메뉴",
+            "img_src": "",
+            "menu_name": "타코야키(6개)",
+            "price": "3,500원"
+        },
+        {
+            "category": "사이드메뉴",
+            "img_src": "",
+            "menu_name": "타코야키(12개)",
+            "price": "6,000원"
+        },
+        {
+            "category": "음료",
+            "img_src": "",
+            "menu_name": "코카콜라(500ml)",
+            "price": "2,000원"
+        },
+        {
+            "category": "음료",
+            "img_src": "",
+            "menu_name": "코카콜라(1.25L)",
+            "price": "3,000원"
+        },
+        {
+            "category": "음료",
+            "img_src": "",
+            "menu_name": "칠성사이다(500ml)",
+            "price": "2,000원"
+        },
+        {
+            "category": "음료",
+            "img_src": "",
+            "menu_name": "칠성사이다(1.25L)",
+            "price": "3,000원"
+        },
+        {
+            "category": "음료",
+            "img_src": "",
+            "menu_name": "펩시콜라(500ml)",
+            "price": "2,000원"
+        },
+        {
+            "category": "음료",
+            "img_src": "",
+            "menu_name": "펩시콜라(1.25L)",
+            "price": "3,000원"
+        },
+        {
+            "category": "음료",
+            "img_src": "",
+            "menu_name": "코카콜라제로 1.25L(1.25.L)",
+            "price": "3,000원"
+        },
+        {
+            "category": "추가옵션",
+            "img_src": "",
+            "menu_name": "피클",
+            "price": "500원"
+        },
+        {
+            "category": "추가옵션",
+            "img_src": "",
+            "menu_name": "요거트소스",
+            "price": "500원"
+        },
+        {
+            "category": "추가옵션",
+            "img_src": "",
+            "menu_name": "허니머스타드",
+            "price": "500원"
+        },
+        {
+            "category": "추가옵션",
+            "img_src": "",
+            "menu_name": "갈릭치즈소스",
+            "price": "500원"
+        },
+        {
+            "category": "추가옵션",
+            "img_src": "",
+            "menu_name": "핫소스(5pcs)",
+            "price": "500원"
+        },
+        {
+            "category": "추가옵션",
+            "img_src": "",
+            "menu_name": "파마산치즈(2pcs)",
+            "price": "500원"
+        },
+        {
+            "category": "추가옵션",
+            "img_src": "",
+            "menu_name": "허니 꿀(60g)",
+            "price": "500원"
+        }
+    ]
+}

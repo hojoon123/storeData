@@ -1,0 +1,56 @@
+{
+    "store_name": "펀비어킹 오산 더테라스퀘어점",
+    "store_location": "경기 오산시 동부대로 332-13 나동 118호",
+    "loc_x": "206980.535244214",
+    "loc_y": "403378.747494224",
+    "menu": [
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241125_133%2F1732510789567EpJjH_JPEG%2F8%25B0%25F6%25B5%25B5%25B8%25AE%25C5%25C1.jpg",
+            "menu_name": "곱도리탕",
+            "price": "변동"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241125_3%2F1732510765894iQllY_JPEG%2F7%25C5%25EB%25BF%25C0%25C2%25A1%25BE%25EE%25C7%25D1%25C6%25C7%25B6%25B1%25BA%25BA%25C5%25B7.jpg",
+            "menu_name": "통오징어한판떡볶킹",
+            "price": "변동"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241125_165%2F1732510748562S9A6m_JPEG%2F6%25B9%25DD%25B9%25DD%25C4%25A1%25C5%25B2.jpg",
+            "menu_name": "반반치킨",
+            "price": "변동"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241125_266%2F1732510739643o0ixK_JPEG%2F5%25BE%25C6%25C0%25CC%25BD%25BA%25B0%25FA%25C0%25CF%25C6%25DD%25C4%25A1.jpg",
+            "menu_name": "아이스과일펀치",
+            "price": "변동"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241125_193%2F17325107192492Ijp3_JPEG%2F4%25C4%25A1%25C1%25EE%25BA%25BC%25B8%25AE%25C4%25DA%25C5%25B8%25BB%25F8%25B7%25AF%25B5%25E5.jpg",
+            "menu_name": "치즈볼&리코타샐러드",
+            "price": "변동"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241125_145%2F173251069404065Wm7_JPEG%2F3%25C6%25E4%25C6%25DB%25B7%25CE%25B4%25CF%25C6%25E4%25BD%25BA%25C3%25F2%25B8%25AE%25C7%25C7%25C0%25DA.jpg",
+            "menu_name": "페퍼로니페스츄리피자",
+            "price": "변동"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241125_221%2F1732510680174Y9K6f_JPEG%2F2%25BB%25F5%25BF%25EC%25BB%25EC%25C5%25B8%25BF%25F6%25B8%25B5.jpg",
+            "menu_name": "새우살타워링",
+            "price": "변동"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241125_237%2F1732510664191A1XRs_JPEG%2F1%25B8%25D4%25C5%25C2%25C5%25B7.jpg",
+            "menu_name": "먹태킹",
+            "price": "변동"
+        }
+    ]
+}

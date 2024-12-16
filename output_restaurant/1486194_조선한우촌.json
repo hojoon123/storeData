@@ -1,0 +1,14 @@
+{
+    "store_name": "조선한우촌",
+    "store_location": "경기 화성시 남양읍 역골동로 91 1층",
+    "loc_x": "184933.484011157",
+    "loc_y": "411819.052396881",
+    "menu": [
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241130_48%2F1732949290008HfGgi_JPEG%2F17329492820672090333658884063279.jpg",
+            "menu_name": "특등심",
+            "price": "75,000원"
+        }
+    ]
+}

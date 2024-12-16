@@ -1,0 +1,14 @@
+{
+    "store_name": "항그",
+    "store_location": "부산 연제구 안연로 8 1층 항그",
+    "loc_x": "391315.715534247",
+    "loc_y": "189684.352549469",
+    "menu": [
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241211_204%2F1733915542197NQlC4_JPEG%2F%25BC%25F6%25C1%25A4%25BA%25BB1.jpg",
+            "menu_name": "이모카세 항그한상 1인",
+            "price": "25,000원"
+        }
+    ]
+}

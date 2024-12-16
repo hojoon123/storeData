@@ -1,0 +1,62 @@
+{
+    "store_name": "신깡통뒷고기 부천로데오점",
+    "store_location": "경기 부천시 원미구 부일로 453 가온팰리스 1층 104호",
+    "loc_x": "180528.221814898",
+    "loc_y": "442727.399188101",
+    "menu": [
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241203_29%2F1733219159203YDx3w_JPEG%2F%25B1%25F8%25C5%25EB%25B8%25F0%25B5%25D2.jpg",
+            "menu_name": "깡통모둠(600g)",
+            "price": "39,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241203_1%2F1733219182345mXSMj_JPEG%2F%25B1%25F8%25C5%25EB%25B8%25F0%25B5%25D2.jpg",
+            "menu_name": "깡통모둠(400g)",
+            "price": "27,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241203_248%2F1733219349878HuzHF_JPEG%2F%25BB%25CA%25BB%25EC%25C5%25CE%25BB%25EC.jpg",
+            "menu_name": "뽈살/턱살(100g)",
+            "price": "6,900원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241203_211%2F17332193745151VMqx_JPEG%2F%25B5%25DE%25C5%25EB%25B1%25B8%25C0%25CC.jpg",
+            "menu_name": "뒷통(뒷덜미) 100g",
+            "price": "7,900원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241203_99%2F1733219398776w4mHH_JPEG%2F%25C7%25D7%25C1%25A4%25BB%25EC.jpg",
+            "menu_name": "목항정살(100g)",
+            "price": "7,900원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241209_33%2F173372768841336AO6_JPEG%2FIMG_2707.jpeg",
+            "menu_name": "통갈매기살(100g)",
+            "price": "7,900원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241209_269%2F1733727702749iqmov_JPEG%2FIMG_2706.jpeg",
+            "menu_name": "돼지막창(100g)",
+            "price": "6,900원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241209_164%2F17337277139290npyP_JPEG%2FIMG_2708.jpeg",
+            "menu_name": "냉동삼겹살(100g)",
+            "price": "5,900원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241209_120%2F1733727727056XSE9s_JPEG%2FIMG_2709.jpeg",
+            "menu_name": "양념벌집껍데기(100g)",
+            "price": "5,900원"
+        }
+    ]
+}

@@ -1,0 +1,92 @@
+{
+    "store_name": "메종조이초이",
+    "store_location": "광주 동구 구성로194번길 15-4 1층",
+    "loc_x": "192229.542692935",
+    "loc_y": "183667.317187193",
+    "menu": [
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240507_173%2F1715051159071yrLcN_JPEG%2F%25BE%25E7%25C6%25C4%25BD%25BA%25C7%25C1.jpg",
+            "menu_name": "양파 스프",
+            "price": "15,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240507_265%2F1715051467877GcyBY_JPEG%2F%25B4%25DE%25C6%25D8%25C0%25CCL.jpg",
+            "menu_name": "달팽이 요리",
+            "price": "17,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240507_269%2F1715051738685i1mmS_JPEG%2F%25C6%25C4%25C5%25D7L.jpg",
+            "menu_name": "파테 엉 크루트",
+            "price": "18,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240507_291%2F1715052456373buxeW_JPEG%2F%25B6%25F3%25C0%25DA%25B3%25C4.jpg",
+            "menu_name": "조이초이 라자냐",
+            "price": "20,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240507_88%2F1715052572538Wt3eJ_JPEG%2F%25C4%25DA%25B8%25A3%25B5%25BF%25BA%25ED%25B7%25E7.jpg",
+            "menu_name": "꼬르동 블루",
+            "price": "28,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240507_108%2F1715052598799bUHrC_JPEG%2F%25BE%25E7%25B0%25ED%25B1%25E2.jpg",
+            "menu_name": "양고기 스테이크",
+            "price": "40,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240507_149%2F1715052624965wVxhz_JPEG%2F%25BD%25BA%25C5%25D7%25C0%25CC%25C5%25A9jpg.jpg",
+            "menu_name": "비프 찹 스테이크",
+            "price": "40,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240507_118%2F1715052665470N1xLx_JPEG%2F%25C5%25A9%25B7%25BD%25BA%25EA%25B7%25F5%25B7%25B9L.jpg",
+            "menu_name": "크렘 브륄레",
+            "price": "6,500원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240507_232%2F1715051794669qxEjW_JPEG%2F%25BB%25EC%25B6%25F3%25B5%25E5%25B8%25AE%25BF%25C0%25B3%25D7%25C1%25EEL.jpg",
+            "menu_name": "샐러드 리오네즈",
+            "price": "16,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240507_216%2F1715052491305hLTx8_JPEG%2F%25B1%25EE%25B8%25A3%25BA%25B8%25B3%25AA%25B6%25F3.jpg",
+            "menu_name": "까르보나라 파스타",
+            "price": "20,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240408_101%2F1712565984979TKBN2_JPEG%2FIMG_2543.jpeg",
+            "menu_name": "볼로네즈 파스타",
+            "price": "20,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240507_188%2F1715052522582YWLEy_JPEG%2F%25BB%25F5%25BF%25EC.jpg",
+            "menu_name": "새우, 토마토 라구 파스타",
+            "price": "20,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240408_179%2F17125663459226oKjO_JPEG%2FIMG_2544.jpeg",
+            "menu_name": "플랑 파리지엥",
+            "price": "5,500원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240507_37%2F1715052760261d61RG_JPEG%2F%25C6%25BC%25B6%25F3%25B9%25CC%25BC%25F6.jpg",
+            "menu_name": "티라미수",
+            "price": "8,000원"
+        }
+    ]
+}

@@ -1,0 +1,272 @@
+{
+    "store_name": "수진이네꼬마김밥",
+    "store_location": "부산 사하구 다송로 16",
+    "loc_x": "380622.360187233",
+    "loc_y": "175774.357552091",
+    "menu": [
+        {
+            "category": "대표메뉴",
+            "img_src": "",
+            "menu_name": "꼬마김밥(4줄)",
+            "price": "3,000원"
+        },
+        {
+            "category": "대표메뉴",
+            "img_src": "",
+            "menu_name": "꼬마김밥(6줄)",
+            "price": "4,500원"
+        },
+        {
+            "category": "대표메뉴",
+            "img_src": "",
+            "menu_name": "꼬마김밥(10줄)",
+            "price": "7,000원"
+        },
+        {
+            "category": "대표메뉴",
+            "img_src": "",
+            "menu_name": "매콤어묵 꼬마김밥(6줄)",
+            "price": "5,000원"
+        },
+        {
+            "category": "대표메뉴",
+            "img_src": "",
+            "menu_name": "매콤어묵 꼬마김밥(10줄)",
+            "price": "8,000원"
+        },
+        {
+            "category": "대표메뉴",
+            "img_src": "",
+            "menu_name": "날치알 꼬마김밥(6줄)",
+            "price": "7,000원"
+        },
+        {
+            "category": "대표메뉴",
+            "img_src": "",
+            "menu_name": "날치알 꼬마김밥(10줄)",
+            "price": "11,000원"
+        },
+        {
+            "category": "대표메뉴",
+            "img_src": "",
+            "menu_name": "떡볶이+순대+튀김당면만두4개+탄산음료1개",
+            "price": "13,000원"
+        },
+        {
+            "category": "대표메뉴",
+            "img_src": "",
+            "menu_name": "치즈떡볶이",
+            "price": "7,000원"
+        },
+        {
+            "category": "대표메뉴",
+            "img_src": "",
+            "menu_name": "미도유부어묵탕",
+            "price": "7,000원"
+        },
+        {
+            "category": "세트",
+            "img_src": "",
+            "menu_name": "떡볶이+순대+튀김당면만두4개+탄산음료1개",
+            "price": "13,000원"
+        },
+        {
+            "category": "세트",
+            "img_src": "",
+            "menu_name": "쫄면+순대+튀김당면만두4개+탄산음료1개",
+            "price": "13,000원"
+        },
+        {
+            "category": "세트",
+            "img_src": "",
+            "menu_name": "우동+순대+튀김당면만두4개+탄산음료1개",
+            "price": "13,000원"
+        },
+        {
+            "category": "김밥류",
+            "img_src": "",
+            "menu_name": "꼬마김밥(4줄)",
+            "price": "3,000원"
+        },
+        {
+            "category": "김밥류",
+            "img_src": "",
+            "menu_name": "꼬마김밥(6줄)",
+            "price": "4,500원"
+        },
+        {
+            "category": "김밥류",
+            "img_src": "",
+            "menu_name": "꼬마김밥(10줄)",
+            "price": "7,000원"
+        },
+        {
+            "category": "김밥류",
+            "img_src": "",
+            "menu_name": "매콤어묵 꼬마김밥(6줄)",
+            "price": "5,000원"
+        },
+        {
+            "category": "김밥류",
+            "img_src": "",
+            "menu_name": "매콤어묵 꼬마김밥(10줄)",
+            "price": "8,000원"
+        },
+        {
+            "category": "김밥류",
+            "img_src": "",
+            "menu_name": "날치알 꼬마김밥(6줄)",
+            "price": "7,000원"
+        },
+        {
+            "category": "김밥류",
+            "img_src": "",
+            "menu_name": "날치알 꼬마김밥(10줄)",
+            "price": "11,000원"
+        },
+        {
+            "category": "김밥류",
+            "img_src": "",
+            "menu_name": "스페셜 3가지맛 선택 꼬마김밥(6줄)",
+            "price": "6,000원"
+        },
+        {
+            "category": "김밥류",
+            "img_src": "",
+            "menu_name": "스페셜 3가지맛 선택 꼬마김밥(10줄)",
+            "price": "10,000원"
+        },
+        {
+            "category": "떡볶이",
+            "img_src": "",
+            "menu_name": "떡볶이",
+            "price": "6,000원"
+        },
+        {
+            "category": "떡볶이",
+            "img_src": "",
+            "menu_name": "라볶이",
+            "price": "7,000원"
+        },
+        {
+            "category": "떡볶이",
+            "img_src": "",
+            "menu_name": "치즈떡볶이",
+            "price": "7,000원"
+        },
+        {
+            "category": "떡볶이",
+            "img_src": "",
+            "menu_name": "치즈라볶이",
+            "price": "8,000원"
+        },
+        {
+            "category": "면류",
+            "img_src": "",
+            "menu_name": "우동",
+            "price": "6,000원"
+        },
+        {
+            "category": "면류",
+            "img_src": "",
+            "menu_name": "신라면",
+            "price": "4,000원"
+        },
+        {
+            "category": "면류",
+            "img_src": "",
+            "menu_name": "치즈라면",
+            "price": "5,000원"
+        },
+        {
+            "category": "면류",
+            "img_src": "",
+            "menu_name": "짜파게티",
+            "price": "4,000원"
+        },
+        {
+            "category": "면류",
+            "img_src": "",
+            "menu_name": "쫄면",
+            "price": "6,000원"
+        },
+        {
+            "category": "면류",
+            "img_src": "",
+            "menu_name": "메밀 비빔국수",
+            "price": "6,000원"
+        },
+        {
+            "category": "면류",
+            "img_src": "",
+            "menu_name": "만두라면",
+            "price": "5,000원"
+        },
+        {
+            "category": "면류",
+            "img_src": "",
+            "menu_name": "떡라면",
+            "price": "5,000원"
+        },
+        {
+            "category": "면류",
+            "img_src": "",
+            "menu_name": "얼큰 해장라면",
+            "price": "6,000원"
+        },
+        {
+            "category": "면류",
+            "img_src": "",
+            "menu_name": "유부우동",
+            "price": "7,500원"
+        },
+        {
+            "category": "오뎅탕",
+            "img_src": "",
+            "menu_name": "미도유부어묵탕",
+            "price": "7,000원"
+        },
+        {
+            "category": "음료수",
+            "img_src": "",
+            "menu_name": "콜라(355ml)",
+            "price": "2,000원"
+        },
+        {
+            "category": "음료수",
+            "img_src": "",
+            "menu_name": "환타(355ml)",
+            "price": "2,000원"
+        },
+        {
+            "category": "음료수",
+            "img_src": "",
+            "menu_name": "사이다(355ml)",
+            "price": "2,000원"
+        },
+        {
+            "category": "순대 & 만두",
+            "img_src": "",
+            "menu_name": "순대(순대만)",
+            "price": "6,000원"
+        },
+        {
+            "category": "순대 & 만두",
+            "img_src": "",
+            "menu_name": "튀김당면만두 6개",
+            "price": "3,000원"
+        },
+        {
+            "category": "순대 & 만두",
+            "img_src": "",
+            "menu_name": "순대(내장포함)",
+            "price": "6,000원"
+        },
+        {
+            "category": "순대 & 만두",
+            "img_src": "",
+            "menu_name": "하림 팝콘치킨 200g 양념치킨소스",
+            "price": "6,000원"
+        }
+    ]
+}

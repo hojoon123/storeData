@@ -1,0 +1,98 @@
+{
+    "store_name": "정수돈",
+    "store_location": "경기 의정부시 오목로205번길 62 1층 107호",
+    "loc_x": "208375.334732489",
+    "loc_y": "471551.026725996",
+    "menu": [
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240318_283%2F1710764642481v02ze_JPEG%2F20240104_125958.jpg",
+            "menu_name": "삼겹살+단짠목살Set",
+            "price": "25,900원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240104_298%2F17043474650743UbCv_JPEG%2F1000003762.jpg",
+            "menu_name": "쫄깃삼겹살",
+            "price": "8,900원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240318_121%2F1710752391801Rhe8B_JPEG%2F1000004436.jpg",
+            "menu_name": "단짠목살",
+            "price": "8,900원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240119_73%2F1705597608255bESiH_JPEG%2F1000003872.jpg",
+            "menu_name": "Kid Set",
+            "price": "6,900원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240415_142%2F1713163236059Bj3SD_JPEG%2F20240410_211750.jpg",
+            "menu_name": "무생채 비빔밥 + 씨래기 된장찌개",
+            "price": "5,900원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240324_216%2F1711277785082mJ3fK_JPEG%2F1000004513.jpg",
+            "menu_name": "쫀득항정살",
+            "price": "11,900원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240324_46%2F1711277852669LYY0N_JPEG%2F1000004522.jpg",
+            "menu_name": "벌집껍데기(200g)",
+            "price": "6,900원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240324_260%2F1711277811165AE7Qy_JPEG%2F1000004511.jpg",
+            "menu_name": "담백갈매기살",
+            "price": "8,900원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240104_223%2F1704334515039UsvOb_JPEG%2F1000003755.jpg",
+            "menu_name": "디포리김치전골",
+            "price": "6,900원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240318_169%2F1710764491078Eq8Hx_JPEG%2F1000004447.jpg",
+            "menu_name": "심쿵된장라면",
+            "price": "5,900원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240104_221%2F1704334542584BvlJr_JPEG%2F1000003759.jpg",
+            "menu_name": "물(냉)메밀면",
+            "price": "4,900원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240104_67%2F1704334552424IpQww_JPEG%2F1000003761.jpg",
+            "menu_name": "비빔메밀면",
+            "price": "4,900원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240318_81%2F1710764541981NpU8C_JPEG%2F1000004276.jpg",
+            "menu_name": "칼칼된장찌개",
+            "price": "4,900원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240325_26%2F1711359737005yhoSz_JPEG%2F1000004543.jpg",
+            "menu_name": "하이볼(위스키with소닉)",
+            "price": "5,500원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240127_105%2F1706355883913hiNLX_JPEG%2F1000003932.jpg",
+            "menu_name": "하우스와인(Glass)",
+            "price": "3,500원"
+        }
+    ]
+}

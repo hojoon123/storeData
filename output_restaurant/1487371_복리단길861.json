@@ -1,0 +1,74 @@
+{
+    "store_name": "복리단길861",
+    "store_location": "대전 서구 복수동로87번길 5-23 1층",
+    "loc_x": "233937.092317231",
+    "loc_y": "310808.15186669",
+    "menu": [
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241209_80%2F1733738110745SMcY2_JPEG%2F1000068819.jpg",
+            "menu_name": "토마토 파스타 치즈범벅 오븐그라탕",
+            "price": "15,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241211_254%2F17339000837054RHjg_JPEG%2FKakaoTalk_20241211_151701770_02.jpg",
+            "menu_name": "버번 콰트로",
+            "price": "50,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241211_221%2F1733899938282YmH6K_JPEG%2FKakaoTalk_20241211_151701770_01.jpg",
+            "menu_name": "싱글몰트 12yrs 콰트로",
+            "price": "70,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241209_233%2F17337382345706hmW5_JPEG%2F1000068821.jpg",
+            "menu_name": "토마토 파스타",
+            "price": "12,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241209_273%2F1733737838316LXtDP_JPEG%2F1000068817.jpg",
+            "menu_name": "케이쥰 샐러드",
+            "price": "15,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241209_223%2F17337227213070wIds_JPEG%2FKakaoTalk_20241209_143737491_02.jpg",
+            "menu_name": "크림 파스타",
+            "price": "12,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241129_76%2F1732864421953ABNji_JPEG%2FKakaoTalk_20241129_161027291_04.jpg",
+            "menu_name": "등심돈카츠",
+            "price": "12,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241211_212%2F1733897993529nM4gc_JPEG%2FKakaoTalk_20241211_151701770_03.jpg",
+            "menu_name": "짜파구리",
+            "price": "12,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241210_215%2F1733812574999gpKQm_JPEG%2FKakaoTalk_20241210_153120064_02.jpg",
+            "menu_name": "낙지볶음밥과 클램차우더스프",
+            "price": "12,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241211_11%2F1733899456334JsrwY_JPEG%2FKakaoTalk_20241211_114501924.jpg",
+            "menu_name": "도리로코스",
+            "price": "6,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241204_253%2F1733291777039BRDr2_JPEG%2FKakaoTalk_20241202_110713939_04.jpg",
+            "menu_name": "먹태 버터구이",
+            "price": "15,000원"
+        }
+    ]
+}

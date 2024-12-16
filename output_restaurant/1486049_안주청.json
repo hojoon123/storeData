@@ -1,0 +1,98 @@
+{
+    "store_name": "안주청",
+    "store_location": "경기 오산시 운천로 59 1층 102호",
+    "loc_x": "206524.275843798",
+    "loc_y": "405139.892952492",
+    "menu": [
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241209_279%2F1733727518209BNkFH_JPEG%2F1000012333.jpg",
+            "menu_name": "모듬회 대",
+            "price": "65,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241209_250%2F1733727615463eoKEM_JPEG%2F1000012334.jpg",
+            "menu_name": "모듬 회 소",
+            "price": "45,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241209_180%2F1733728534456SKyo8_JPEG%2F1000012336.jpg",
+            "menu_name": "돼지막창구이",
+            "price": "18,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241209_85%2F1733727644122QhYjz_JPEG%2F1000012335.jpg",
+            "menu_name": "우럭 깻잎쌈",
+            "price": "42,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241209_299%2F173372821424475fmn_JPEG%2F1000012337.jpg",
+            "menu_name": "치킨토마토 스튜",
+            "price": "19,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241209_1%2F1733728296522BbriV_JPEG%2F1000012345.jpg",
+            "menu_name": "연어 로메인 샐러드",
+            "price": "23,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241209_48%2F173372816413817fql_JPEG%2F1000012343.jpg",
+            "menu_name": "낙지볶음",
+            "price": "29,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241209_98%2F1733728179812DMvxh_JPEG%2F1000012344.jpg",
+            "menu_name": "개불",
+            "price": "20,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241209_63%2F1733728743669f8kYq_JPEG%2F1000012026.jpg",
+            "menu_name": "누룽지",
+            "price": "8,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241209_233%2F1733728701771KeIAS_JPEG%2F1000012346.jpg",
+            "menu_name": "모찌리도후",
+            "price": "9,000원"
+        },
+        {
+            "category": "",
+            "img_src": "",
+            "menu_name": "해삼",
+            "price": "20,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241210_174%2F1733826272576nMnq9_JPEG%2F1000012360.jpg",
+            "menu_name": "멍개",
+            "price": "16,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241210_66%2F1733826441799kYYNq_JPEG%2F1000012446.jpg",
+            "menu_name": "산낙지",
+            "price": "20,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241209_269%2F1733727855410o4xo9_JPEG%2F1000011959.jpg",
+            "menu_name": "전복찜",
+            "price": "23,000원"
+        },
+        {
+            "category": "",
+            "img_src": "",
+            "menu_name": "시사모 구이",
+            "price": "15,000원"
+        }
+    ]
+}

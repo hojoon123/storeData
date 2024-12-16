@@ -1,0 +1,98 @@
+{
+    "store_name": "채육식당 다산점",
+    "store_location": "경기 남양주시 다산순환로 20 A동 1층 10호(다산동,다산현대프리미어캠퍼스)",
+    "loc_x": "213352.638752231",
+    "loc_y": "456784.268068925",
+    "menu": [
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241014_50%2F1728894731570lISLt_JPEG%2F%25C7%25D1%25B5%25B7_%25C1%25A6%25C0%25B0_%25C1%25A4%25BD%25C4-min.jpg",
+            "menu_name": "한돈 제육 정식",
+            "price": "13,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241014_89%2F1728894864765BIPW5_JPEG%2F%25B0%25A5%25BA%25F1_%25C1%25A6%25C0%25B0_%25C1%25A4%25BD%25C4-min.jpg",
+            "menu_name": "갈비 제육 정식",
+            "price": "13,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241014_74%2F1728895308571d8YrA_JPEG%2F%25C2%25F7%25B5%25B9%25B9%25E9_%25BC%25F8%25B5%25CE%25BA%25CE%25C2%25EE%25B0%25B3_%25B9%25E9%25B9%25DD-min.jpg",
+            "menu_name": "차돌백 순두부찌개 백반",
+            "price": "11,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241014_39%2F1728895409185XEmJh_JPEG%2F%25BF%25C0%25B0%25E3%25BB%25EC_%25B1%25E8%25C4%25A1%25C2%25EE%25B0%25B3_%25B9%25E9%25B9%25DD-min.jpg",
+            "menu_name": "오겹살 김치찌개 백반",
+            "price": "11,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241014_300%2F1728895469693pgqpP_JPEG%2F%25C2%25F7%25B5%25B9%25B9%25E9_%25B5%25C8%25C0%25E5%25C2%25EE%25B0%25B3_%25B9%25E9%25B9%25DD-min.jpg",
+            "menu_name": "차돌백 된장찌개 백반",
+            "price": "11,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241014_288%2F17288948924008NTR7_JPEG%2F%25B8%25C5%25BF%25EE%25B0%25A5%25BA%25F1_%25C1%25A6%25C0%25B0_%25C1%25A4%25BD%25C4-min.jpg",
+            "menu_name": "매운갈비 제육 정식",
+            "price": "13,500원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241014_93%2F1728895011538X8TcC_JPEG%2F%25BA%25D2%25B8%25C0_%25BF%25C0%25B0%25E3_%25C1%25A4%25BD%25C4-min.jpg",
+            "menu_name": "불맛 오겹 정식",
+            "price": "13,500원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241014_34%2F1728895101288i6cCo_JPEG%2F%25C7%25D1%25B5%25B7_%25C1%25A6%25B2%25AE_%25C1%25A4%25BD%25C4-min.jpg",
+            "menu_name": "한돈 제껍 정식",
+            "price": "12,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241014_238%2F1728895153852IgfSo_JPEG%2F%25C4%25E1%25B0%25ED%25B1%25E2_%25C1%25A6%25C0%25B0_%25C1%25A4%25BD%25C4-min.jpg",
+            "menu_name": "콩고기 제육 정식",
+            "price": "13,500원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241014_70%2F1728895193120suC8O_JPEG%2F%25C4%25E1%25B0%25ED%25B1%25E2_%25B0%25A5%25BA%25F1%25C1%25A6%25C0%25B0_%25C1%25A4%25BD%25C4-min.jpg",
+            "menu_name": "콩고기 갈비 제육 정식",
+            "price": "13,500원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241014_239%2F1728895223116Q0Av7_JPEG%2F%25C4%25E1%25B0%25ED%25B1%25E2_%25BC%25F8%25B5%25CE%25BA%25CE%25C2%25EE%25B0%25B3_%252B_%25B0%25EF%25B5%25E5%25B7%25B9%25B9%25E4-min.jpg",
+            "menu_name": "콩고기 순두부찌개 백반",
+            "price": "11,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241014_300%2F1728895243710ivCzK_JPEG%2F%25C4%25E1%25B0%25ED%25B1%25E2_%25B5%25C8%25C0%25E5%25C2%25EE%25B0%25B3_%252B_%25B0%25EF%25B5%25E5%25B7%25B9%25B9%25E4-min.jpg",
+            "menu_name": "콩고기 된장찌개 백반",
+            "price": "11,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241014_177%2F1728895351954OpqAf_JPEG%2F%25BB%25EF%25BC%25B1_%25BC%25F8%25B5%25CE%25BA%25CE%25C2%25EE%25B0%25B3_%25B9%25E9%25B9%25DD-min.jpg",
+            "menu_name": "삼선 순두부찌개 백반",
+            "price": "11,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241014_157%2F1728895386510Ftno4_JPEG%2F%25C7%25DC%25C4%25A1%25C1%25EE_%25BC%25F8%25B5%25CE%25BA%25CE%25C2%25EE%25B0%25B3_%25B9%25E9%25B9%25DD-min.jpg",
+            "menu_name": "햄치즈 순두부찌개 백반",
+            "price": "11,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241014_58%2F1728895441100sW6Wa_JPEG%2F%25C2%25F7%25B5%25B9%25B9%25E9_%25B1%25E8%25C4%25A1%25C2%25EE%25B0%25B3_%25B9%25E9%25B9%25DD-min.jpg",
+            "menu_name": "차돌백 김치찌개 백반",
+            "price": "11,000원"
+        }
+    ]
+}

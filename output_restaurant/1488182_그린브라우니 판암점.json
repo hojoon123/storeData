@@ -1,0 +1,14 @@
+{
+    "store_name": "그린브라우니 판암점",
+    "store_location": "대전 동구 옥천로 195",
+    "loc_x": "241376.699243349",
+    "loc_y": "313173.42042589",
+    "menu": [
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241129_139%2F1732867837426vbQrm_PNG%2F%25C4%25B8%25C3%25B3.PNG",
+            "menu_name": "아메리카노",
+            "price": "4,300원"
+        }
+    ]
+}

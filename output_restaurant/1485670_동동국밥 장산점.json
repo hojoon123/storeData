@@ -1,0 +1,32 @@
+{
+    "store_name": "동동국밥 장산점",
+    "store_location": "부산 해운대구 양운로80번길 10 1층",
+    "loc_x": "398165.74444955",
+    "loc_y": "187903.168438432",
+    "menu": [
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241127_195%2F1732676006625UP77x_JPEG%2FKakaoTalk_20240909_155128717.jpg",
+            "menu_name": "우동돼지국밥",
+            "price": "9,500원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241127_212%2F1732675998626mcfM7_JPEG%2FKakaoTalk_20240909_155128717_01.jpg",
+            "menu_name": "우동순대국밥",
+            "price": "10,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241127_104%2F1732676141968UBalw_JPEG%2FKakaoTalk_20240909_155649121_01.jpg",
+            "menu_name": "순대",
+            "price": "8,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241127_66%2F17326761296120MJEY_JPEG%2FKakaoTalk_20240909_155649121.jpg",
+            "menu_name": "수육",
+            "price": "9,000원"
+        }
+    ]
+}

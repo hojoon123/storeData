@@ -1,0 +1,44 @@
+{
+    "store_name": "양궈푸마라탕 송도점",
+    "store_location": "인천 연수구 송도과학로28번길 8 송도트리플타워 158호",
+    "loc_x": "169878.944752148",
+    "loc_y": "431209.813032693",
+    "menu": [
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20231201_51%2F1701423761054enUTc_JPEG%2F%25E2%25CF4.jpg",
+            "menu_name": "마라탕",
+            "price": "변동"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20231201_38%2F1701424057543lUxbL_JPEG%2F%25E2%25CF1.jpg",
+            "menu_name": "마라샹궈",
+            "price": "변동"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20231201_169%2F1701424112770yhKjm_JPEG%2F%25E2%25CF2.jpg",
+            "menu_name": "꿔바로우(대)",
+            "price": "18,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20231201_290%2F1701424153169DpBnD_JPEG%2F%25E2%25CF2.jpg",
+            "menu_name": "꿔바로우(소)",
+            "price": "13,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20231201_129%2F1701424174556HNpuB_JPEG%2F%25E2%25CF2.jpg",
+            "menu_name": "꿔바로우(미니)",
+            "price": "9,900원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20231201_214%2F1701424206244P6Ofi_JPEG%2F%25E2%25CF3.jpg",
+            "menu_name": "계란볶음밥",
+            "price": "8,000원"
+        }
+    ]
+}

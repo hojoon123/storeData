@@ -1,0 +1,68 @@
+{
+    "store_name": "목구멍 부여점",
+    "store_location": "충남 부여군 부여읍 중앙로5번길 7-1",
+    "loc_x": "191932.731170473",
+    "loc_y": "308955.112877753",
+    "menu": [
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241120_123%2F1732068769471m3ni9_JPEG%2F17.jpg",
+            "menu_name": "미박삼겹살 (180g)",
+            "price": "14,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241120_294%2F1732068800802rgjFf_JPEG%2F16.jpg",
+            "menu_name": "특목살 (180g)",
+            "price": "14,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241120_227%2F1732068828270EpbxS_JPEG%2F15.jpg",
+            "menu_name": "갈비본살 (150g)",
+            "price": "20,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241122_152%2F1732257288084iLEkU_JPEG%2F5.jpg",
+            "menu_name": "청도 한재로 미나리",
+            "price": "5,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241122_288%2F1732257331645qhYMp_JPEG%2F10.jpg",
+            "menu_name": "회냉면",
+            "price": "7,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241122_260%2F1732257347007w6kUX_JPEG%2F9.jpg",
+            "menu_name": "물냉면",
+            "price": "6,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241122_241%2F1732257364357nE2CS_PNG%2FKakaoTalk_20231211_190211453_031.png",
+            "menu_name": "도가니된장",
+            "price": "4,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241122_13%2F1732257511233dCb5Y_PNG%2F%25B4%25D9%25BF%25EE%25B7%25CE%25B5%25E5.png",
+            "menu_name": "김치찌개",
+            "price": "6,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241122_115%2F1732257379987OMW2W_JPEG%2F8.jpg",
+            "menu_name": "비빔면",
+            "price": "4,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241122_149%2F1732257396931E2qhb_JPEG%2F6.jpg",
+            "menu_name": "라면",
+            "price": "4,000원"
+        }
+    ]
+}

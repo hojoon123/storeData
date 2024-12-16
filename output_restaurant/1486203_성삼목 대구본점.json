@@ -1,0 +1,104 @@
+{
+    "store_name": "성삼목 대구본점",
+    "store_location": "대구 북구 원대로 42-1 1층",
+    "loc_x": "342716.765213329",
+    "loc_y": "265685.728756775",
+    "menu": [
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241206_267%2F1733454386301Odq55_JPEG%2FIMG_7188.jpeg",
+            "menu_name": "성삼목 11첩 반상",
+            "price": "무료"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241202_224%2F1733120874250EwRy2_JPEG%2FIMG_7076.jpeg",
+            "menu_name": "(시그니쳐)짚불 구이 한판(520g)",
+            "price": "48,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241206_7%2F1733454523307vAoxt_JPEG%2FIMG_7189.jpeg",
+            "menu_name": "(시그니쳐) 들깨날치알비빔면",
+            "price": "6,500원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241206_104%2F1733454212403YibJz_JPEG%2FIMG_7190.jpeg",
+            "menu_name": "(시그니쳐) 숙성김치찌개",
+            "price": "5,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241206_104%2F1733494360636gHYGY_JPEG%2FIMG_7209.jpeg",
+            "menu_name": "교차숙성 특목살 (130g)",
+            "price": "12,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241203_194%2F1733190756841yPRjh_JPEG%2FIMG_7113.jpeg",
+            "menu_name": "교차숙성 특삼겹 (130g)",
+            "price": "12,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241212_163%2F1734012824961O9Rt9_JPEG%2FIMG_7339.jpeg",
+            "menu_name": "치즈김치볶음밥",
+            "price": "6,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241211_55%2F1733847870026UXNKn_JPEG%2FIMG_7330.jpeg",
+            "menu_name": "골부리된장찌개",
+            "price": "5,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241206_184%2F1733454161327l2m1C_JPEG%2FIMG_7191.jpeg",
+            "menu_name": "치즈듬뿍계란찜",
+            "price": "4,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241206_241%2F1733494863796A1GIW_JPEG%2FIMG_7202.jpeg",
+            "menu_name": "냉김치말이국수",
+            "price": "6,500원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241212_117%2F1734012938941Y7bKy_JPEG%2FIMG_7321.jpeg",
+            "menu_name": "꿀치즈",
+            "price": "2,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241212_226%2F1734012881751jv3MH_JPEG%2FIMG_7331.jpeg",
+            "menu_name": "갸쿠빈 하이볼",
+            "price": "7,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241206_262%2F1733494695654VzGiu_JPEG%2FIMG_7212.jpeg",
+            "menu_name": "일품진로",
+            "price": "25,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241206_150%2F1733494512996Dmd7d_JPEG%2FIMG_7210.jpeg",
+            "menu_name": "복분자주",
+            "price": "15,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241206_254%2F1733495175774gsmyT_JPEG%2FIMG_7213.jpeg",
+            "menu_name": "국순당 막걸리",
+            "price": "6,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241211_125%2F1733847879461CPCwr_JPEG%2FIMG_7283.jpeg",
+            "menu_name": "모듬 야채 구이 추가",
+            "price": "1,500원"
+        }
+    ]
+}

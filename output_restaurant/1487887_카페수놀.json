@@ -1,0 +1,488 @@
+{
+    "store_name": "카페수놀",
+    "store_location": "경기 화성시 꽃내음2길 3-8 1층",
+    "loc_x": "183459.144451707",
+    "loc_y": "420308.281671226",
+    "menu": [
+        {
+            "category": "새로 나온 메뉴",
+            "img_src": "",
+            "menu_name": "흑임자크림라떼(Only Ice)N",
+            "price": "6,000원"
+        },
+        {
+            "category": "새로 나온 메뉴",
+            "img_src": "",
+            "menu_name": "제주미숫가루라떼(Only Ice)N",
+            "price": "5,800원"
+        },
+        {
+            "category": "새로 나온 메뉴",
+            "img_src": "",
+            "menu_name": "망고에이드N",
+            "price": "6,000원"
+        },
+        {
+            "category": "새로 나온 메뉴",
+            "img_src": "",
+            "menu_name": "루이보스N",
+            "price": "5,000원"
+        },
+        {
+            "category": "사장님 추천 메뉴",
+            "img_src": "",
+            "menu_name": "개성주악(플레인)대표",
+            "price": "2,500원"
+        },
+        {
+            "category": "사장님 추천 메뉴",
+            "img_src": "",
+            "menu_name": "개성주악(밤약과)대표",
+            "price": "3,000원"
+        },
+        {
+            "category": "사장님 추천 메뉴",
+            "img_src": "",
+            "menu_name": "개성주악(앙버터)대표",
+            "price": "3,200원"
+        },
+        {
+            "category": "사장님 추천 메뉴",
+            "img_src": "",
+            "menu_name": "개성주악(크림치즈딸기)대표",
+            "price": "3,000원"
+        },
+        {
+            "category": "사장님 추천 메뉴",
+            "img_src": "",
+            "menu_name": "개성주악(라즈베리)대표",
+            "price": "2,800원"
+        },
+        {
+            "category": "사장님 추천 메뉴",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20240102_191/170419302484643fXC_JPEG/%BE%C6%B8%DE%B8%AE%C4%AB%B3%EB.jpg?type=f220_220_60_sharpen",
+            "menu_name": "아메리카노대표",
+            "price": "4,500원"
+        },
+        {
+            "category": "사장님 추천 메뉴",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20240102_257/17041930168068aO8x_JPEG/%C4%AB%C6%E4%B6%F3%B6%BC.jpg?type=f220_220_60_sharpen",
+            "menu_name": "카페라떼대표",
+            "price": "5,000원"
+        },
+        {
+            "category": "사장님 추천 메뉴",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20240102_279/1704193008052CnSD7_JPEG/%C4%AB%C7%AA%C4%A1%B3%EB.jpg?type=f220_220_60_sharpen",
+            "menu_name": "카푸치노대표",
+            "price": "5,000원"
+        },
+        {
+            "category": "사장님 추천 메뉴",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20240102_186/1704193054069pSmVy_JPEG/%B9%D9%B4%D2%B6%F3%B6%F3%B6%BC.jpg?type=f220_220_60_sharpen",
+            "menu_name": "바닐라라떼대표",
+            "price": "5,500원"
+        },
+        {
+            "category": "사장님 추천 메뉴",
+            "img_src": "",
+            "menu_name": "수놀라떼(Only Ice)대표",
+            "price": "5,000원"
+        },
+        {
+            "category": "사장님 추천 메뉴",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20240102_257/1704192997799SSzEy_JPEG/%C5%A9%B8%B2%B8%F0%C4%AB.jpg?type=f220_220_60_sharpen",
+            "menu_name": "크림모카대표",
+            "price": "5,800원"
+        },
+        {
+            "category": "사장님 추천 메뉴",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20240102_234/1704193045423fFH7K_JPEG/%B9%F6%C5%CD%C5%A9%B8%B2%B6%F3%B6%BC.jpg?type=f220_220_60_sharpen",
+            "menu_name": "버터크림라떼대표",
+            "price": "6,000원"
+        },
+        {
+            "category": "사장님 추천 메뉴",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20240102_231/17041930350958f6Jt_JPEG/%BE%C6%B8%F3%B5%E5%B6%F3%B6%BC.jpg?type=f220_220_60_sharpen",
+            "menu_name": "아몬드라떼(Only Ice)대표",
+            "price": "6,000원"
+        },
+        {
+            "category": "사장님 추천 메뉴",
+            "img_src": "",
+            "menu_name": "아인슈페너(Only Ice)대표",
+            "price": "5,800원"
+        },
+        {
+            "category": "사장님 추천 메뉴",
+            "img_src": "",
+            "menu_name": "리얼초코라떼대표",
+            "price": "5,500원"
+        },
+        {
+            "category": "사장님 추천 메뉴",
+            "img_src": "",
+            "menu_name": "말차라떼대표",
+            "price": "5,500원"
+        },
+        {
+            "category": "사장님 추천 메뉴",
+            "img_src": "",
+            "menu_name": "얼그레이밀크티대표",
+            "price": "5,800원"
+        },
+        {
+            "category": "사장님 추천 메뉴",
+            "img_src": "",
+            "menu_name": "자몽에이드대표",
+            "price": "5,800원"
+        },
+        {
+            "category": "사장님 추천 메뉴",
+            "img_src": "",
+            "menu_name": "레몬에이드대표",
+            "price": "5,800원"
+        },
+        {
+            "category": "사장님 추천 메뉴",
+            "img_src": "",
+            "menu_name": "얼그레이 레몬티대표",
+            "price": "5,300원"
+        },
+        {
+            "category": "사장님 추천 메뉴",
+            "img_src": "",
+            "menu_name": "페퍼민트대표",
+            "price": "5,000원"
+        },
+        {
+            "category": "사장님 추천 메뉴",
+            "img_src": "",
+            "menu_name": "캐모마일대표",
+            "price": "5,000원"
+        },
+        {
+            "category": "사장님 추천 메뉴",
+            "img_src": "",
+            "menu_name": "복숭아아이스티대표",
+            "price": "4,500원"
+        },
+        {
+            "category": "사장님 추천 메뉴",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20240102_241/1704193067906C9ogi_JPEG/%C0%AF%C0%DA%C2%F7.jpg?type=f220_220_60_sharpen",
+            "menu_name": "유자대표",
+            "price": "5,500원"
+        },
+        {
+            "category": "사장님 추천 메뉴",
+            "img_src": "",
+            "menu_name": "자몽대표",
+            "price": "5,500원"
+        },
+        {
+            "category": "사장님 추천 메뉴",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20240102_23/1704193076337Q3voe_JPEG/%BB%FD%B0%AD%C2%F7.jpg?type=f220_220_60_sharpen",
+            "menu_name": "생강대표",
+            "price": "6,800원"
+        },
+        {
+            "category": "사장님 추천 메뉴",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20240102_298/17041930855157RdKd_JPEG/%B4%EB%C3%DF%C2%F7.jpg?type=f220_220_60_sharpen",
+            "menu_name": "대추대표",
+            "price": "6,800원"
+        },
+        {
+            "category": "사장님 추천 메뉴",
+            "img_src": "",
+            "menu_name": "플레인요거트대표",
+            "price": "6,000원"
+        },
+        {
+            "category": "사장님 추천 메뉴",
+            "img_src": "",
+            "menu_name": "딸기요거트대표",
+            "price": "6,500원"
+        },
+        {
+            "category": "사장님 추천 메뉴",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20240102_82/1704192788755t3QeX_JPEG/%BB%C7%B6%C7%C4%A1%C1%EE%C4%C9%C0%CC%C5%A9.jpg?type=f220_220_60_sharpen",
+            "menu_name": "뽀또 치즈케이크대표",
+            "price": "6,800원"
+        },
+        {
+            "category": "사장님 추천 메뉴",
+            "img_src": "",
+            "menu_name": "돼지바케이크대표",
+            "price": "6,800원"
+        },
+        {
+            "category": "사장님 추천 메뉴",
+            "img_src": "",
+            "menu_name": "바스크치즈케이크대표",
+            "price": "6,500원"
+        },
+        {
+            "category": "사장님 추천 메뉴",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20240102_200/1704192751521u5QuS_JPEG/%C7%EC%C0%CC%C1%F1%B3%D3%C3%CA%C4%DA%C4%C9%C0%CC%C5%A9.jpg?type=f220_220_60_sharpen",
+            "menu_name": "페레레로쉐 초코케이크대표",
+            "price": "6,800원"
+        },
+        {
+            "category": "사장님 추천 메뉴",
+            "img_src": "",
+            "menu_name": "초코칩쿠키대표",
+            "price": "2,800원"
+        },
+        {
+            "category": "사장님 추천 메뉴",
+            "img_src": "",
+            "menu_name": "오트밀 레이즌쿠키대표",
+            "price": "2,800원"
+        },
+        {
+            "category": "사장님 추천 메뉴",
+            "img_src": "",
+            "menu_name": "아메리카노(테이크아웃)대표",
+            "price": "3,000원"
+        },
+        {
+            "category": "커피",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20240102_191/170419302484643fXC_JPEG/%BE%C6%B8%DE%B8%AE%C4%AB%B3%EB.jpg?type=f220_220_60_sharpen",
+            "menu_name": "아메리카노대표",
+            "price": "4,500원"
+        },
+        {
+            "category": "커피",
+            "img_src": "",
+            "menu_name": "아메리카노(테이크아웃)대표",
+            "price": "3,000원"
+        },
+        {
+            "category": "커피",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20240102_257/17041930168068aO8x_JPEG/%C4%AB%C6%E4%B6%F3%B6%BC.jpg?type=f220_220_60_sharpen",
+            "menu_name": "카페라떼대표",
+            "price": "5,000원"
+        },
+        {
+            "category": "커피",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20240102_186/1704193054069pSmVy_JPEG/%B9%D9%B4%D2%B6%F3%B6%F3%B6%BC.jpg?type=f220_220_60_sharpen",
+            "menu_name": "바닐라라떼대표",
+            "price": "5,500원"
+        },
+        {
+            "category": "커피",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20240102_279/1704193008052CnSD7_JPEG/%C4%AB%C7%AA%C4%A1%B3%EB.jpg?type=f220_220_60_sharpen",
+            "menu_name": "카푸치노대표",
+            "price": "5,000원"
+        },
+        {
+            "category": "커피",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20240102_257/1704192997799SSzEy_JPEG/%C5%A9%B8%B2%B8%F0%C4%AB.jpg?type=f220_220_60_sharpen",
+            "menu_name": "크림모카대표",
+            "price": "5,800원"
+        },
+        {
+            "category": "커피",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20240102_234/1704193045423fFH7K_JPEG/%B9%F6%C5%CD%C5%A9%B8%B2%B6%F3%B6%BC.jpg?type=f220_220_60_sharpen",
+            "menu_name": "버터크림라떼대표",
+            "price": "6,000원"
+        },
+        {
+            "category": "커피",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20240102_231/17041930350958f6Jt_JPEG/%BE%C6%B8%F3%B5%E5%B6%F3%B6%BC.jpg?type=f220_220_60_sharpen",
+            "menu_name": "아몬드라떼(Only Ice)대표",
+            "price": "6,000원"
+        },
+        {
+            "category": "커피",
+            "img_src": "",
+            "menu_name": "아인슈페너(Only Ice)대표",
+            "price": "5,800원"
+        },
+        {
+            "category": "커피",
+            "img_src": "",
+            "menu_name": "수놀라떼(Only Ice)대표",
+            "price": "5,000원"
+        },
+        {
+            "category": "커피",
+            "img_src": "",
+            "menu_name": "흑임자크림라떼(Only Ice)N",
+            "price": "6,000원"
+        },
+        {
+            "category": "프리미엄 차",
+            "img_src": "",
+            "menu_name": "얼그레이 레몬티대표",
+            "price": "5,300원"
+        },
+        {
+            "category": "프리미엄 차",
+            "img_src": "",
+            "menu_name": "캐모마일대표",
+            "price": "5,000원"
+        },
+        {
+            "category": "프리미엄 차",
+            "img_src": "",
+            "menu_name": "페퍼민트대표",
+            "price": "5,000원"
+        },
+        {
+            "category": "프리미엄 차",
+            "img_src": "",
+            "menu_name": "자몽대표",
+            "price": "5,500원"
+        },
+        {
+            "category": "프리미엄 차",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20240102_241/1704193067906C9ogi_JPEG/%C0%AF%C0%DA%C2%F7.jpg?type=f220_220_60_sharpen",
+            "menu_name": "유자대표",
+            "price": "5,500원"
+        },
+        {
+            "category": "프리미엄 차",
+            "img_src": "",
+            "menu_name": "복숭아아이스티대표",
+            "price": "4,500원"
+        },
+        {
+            "category": "프리미엄 차",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20240102_23/1704193076337Q3voe_JPEG/%BB%FD%B0%AD%C2%F7.jpg?type=f220_220_60_sharpen",
+            "menu_name": "생강대표",
+            "price": "6,800원"
+        },
+        {
+            "category": "프리미엄 차",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20240102_298/17041930855157RdKd_JPEG/%B4%EB%C3%DF%C2%F7.jpg?type=f220_220_60_sharpen",
+            "menu_name": "대추대표",
+            "price": "6,800원"
+        },
+        {
+            "category": "프리미엄 차",
+            "img_src": "",
+            "menu_name": "루이보스N",
+            "price": "5,000원"
+        },
+        {
+            "category": "라떼",
+            "img_src": "",
+            "menu_name": "제주미숫가루라떼(Only Ice)N",
+            "price": "5,800원"
+        },
+        {
+            "category": "라떼",
+            "img_src": "",
+            "menu_name": "말차라떼대표",
+            "price": "5,500원"
+        },
+        {
+            "category": "라떼",
+            "img_src": "",
+            "menu_name": "얼그레이밀크티대표",
+            "price": "5,800원"
+        },
+        {
+            "category": "라떼",
+            "img_src": "",
+            "menu_name": "리얼초코라떼대표",
+            "price": "5,500원"
+        },
+        {
+            "category": "에이드/스무디",
+            "img_src": "",
+            "menu_name": "레몬에이드대표",
+            "price": "5,800원"
+        },
+        {
+            "category": "에이드/스무디",
+            "img_src": "",
+            "menu_name": "자몽에이드대표",
+            "price": "5,800원"
+        },
+        {
+            "category": "에이드/스무디",
+            "img_src": "",
+            "menu_name": "플레인요거트대표",
+            "price": "6,000원"
+        },
+        {
+            "category": "에이드/스무디",
+            "img_src": "",
+            "menu_name": "딸기요거트대표",
+            "price": "6,500원"
+        },
+        {
+            "category": "에이드/스무디",
+            "img_src": "",
+            "menu_name": "망고에이드N",
+            "price": "6,000원"
+        },
+        {
+            "category": "디저트",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20240102_82/1704192788755t3QeX_JPEG/%BB%C7%B6%C7%C4%A1%C1%EE%C4%C9%C0%CC%C5%A9.jpg?type=f220_220_60_sharpen",
+            "menu_name": "뽀또 치즈케이크대표",
+            "price": "6,800원"
+        },
+        {
+            "category": "디저트",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20240102_200/1704192751521u5QuS_JPEG/%C7%EC%C0%CC%C1%F1%B3%D3%C3%CA%C4%DA%C4%C9%C0%CC%C5%A9.jpg?type=f220_220_60_sharpen",
+            "menu_name": "페레레로쉐 초코케이크대표",
+            "price": "6,800원"
+        },
+        {
+            "category": "디저트",
+            "img_src": "",
+            "menu_name": "돼지바케이크대표",
+            "price": "6,800원"
+        },
+        {
+            "category": "디저트",
+            "img_src": "",
+            "menu_name": "오트밀 레이즌쿠키대표",
+            "price": "2,800원"
+        },
+        {
+            "category": "디저트",
+            "img_src": "",
+            "menu_name": "초코칩쿠키대표",
+            "price": "2,800원"
+        },
+        {
+            "category": "디저트",
+            "img_src": "",
+            "menu_name": "바스크치즈케이크대표",
+            "price": "6,500원"
+        },
+        {
+            "category": "개성주악",
+            "img_src": "",
+            "menu_name": "개성주악(크림치즈딸기)대표",
+            "price": "3,000원"
+        },
+        {
+            "category": "개성주악",
+            "img_src": "",
+            "menu_name": "개성주악(플레인)대표",
+            "price": "2,500원"
+        },
+        {
+            "category": "개성주악",
+            "img_src": "",
+            "menu_name": "개성주악(밤약과)대표",
+            "price": "3,000원"
+        },
+        {
+            "category": "개성주악",
+            "img_src": "",
+            "menu_name": "개성주악(앙버터)대표",
+            "price": "3,200원"
+        },
+        {
+            "category": "개성주악",
+            "img_src": "",
+            "menu_name": "개성주악(라즈베리)대표",
+            "price": "2,800원"
+        }
+    ]
+}

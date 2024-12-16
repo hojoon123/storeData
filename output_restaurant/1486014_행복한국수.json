@@ -1,0 +1,32 @@
+{
+    "store_name": "행복한국수",
+    "store_location": "경기 안양시 동안구 평촌대로396번길 8 1층 103호",
+    "loc_x": "195545.456923461",
+    "loc_y": "433752.425898821",
+    "menu": [
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241215_48%2F1734247221845Wm27m_JPEG%2FIMG_1794.jpeg",
+            "menu_name": "칼국수",
+            "price": "7,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241215_27%2F17342471909872qX6b_JPEG%2FIMG_1793_%25281%2529.jpeg",
+            "menu_name": "떡만두국",
+            "price": "7,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241215_242%2F1734247161670Vk3cf_JPEG%2FIMG_1787_%25281%2529.jpeg",
+            "menu_name": "비빔국수",
+            "price": "7,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241215_90%2F1734247132443COsLu_JPEG%2FIMG_1799_%25282%2529.jpeg",
+            "menu_name": "멸치국수",
+            "price": "6,000원"
+        }
+    ]
+}

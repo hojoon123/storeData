@@ -1,0 +1,74 @@
+{
+    "store_name": "킹오브떡볶이 당진수청점",
+    "store_location": "충남 당진시 수청2로 77 지엔하임 제상가2동 제지하1층",
+    "loc_x": "169316.421033405",
+    "loc_y": "376454.990640132",
+    "menu": [
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20231219_119%2F1702952766796EDOE6_JPEG%2F%25C1%25A4%25C5%25EB%25B6%25B1%25BA%25BA%25C0%25CC.JPG",
+            "menu_name": "정통떡볶이",
+            "price": "4,500원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20231219_56%2F1702952783052fEOeC_JPEG%2F%25B4%25AB%25B2%25C9%25C4%25A1%25C1%25EE%25B6%25B1%25BA%25BA%25C0%25CC.JPG",
+            "menu_name": "눈꽃치즈떡볶이",
+            "price": "5,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20231219_297%2F1702952853084PBG6q_JPEG%2F%25B1%25B9%25B9%25B0%25B6%25B1%25BA%25BA%25C0%25CC.JPG",
+            "menu_name": "국물떡볶이",
+            "price": "5,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20231219_235%2F1702952798502suAUm_JPEG%2F%25C6%25C4%25B4%25DF.JPG",
+            "menu_name": "파닭떡볶이",
+            "price": "11,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20231219_172%2F1702952993640mQRBu_JPEG%2F%25BF%25C0%25C2%25A1%25BE%25EE%25C6%25A2%25B1%25E8_%25B6%25B1%25BA%25BA%25C0%25CC.JPG",
+            "menu_name": "엄청 큰 오징어튀김 떡볶이",
+            "price": "19,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20231219_196%2F17029529621171mnpd_JPEG%2F%25B4%25DF%25B9%25DF%25B6%25B1%25BA%25BA%25C0%25CC.JPG",
+            "menu_name": "닭발 한 입, 떡볶이 한 입",
+            "price": "23,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20231219_246%2F17029529305178vflv_PNG%2F%25B5%25B7%25B1%25EE%25BD%25BA%25B6%25B1%25BA%25BA%25C0%25CC.png",
+            "menu_name": "떡볶이 만난 돈까스",
+            "price": "24,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20231219_21%2F1702952914098ACnI6_JPEG%2F%25BA%25D2%25B0%25ED%25B1%25E2%25B6%25B1%25BA%25BA%25C0%25CC.JPG",
+            "menu_name": "연탄 불고기 떡볶이",
+            "price": "21,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20231219_207%2F1702952886693yTrTi_PNG%2F%25B6%25B1%25BA%25BA%25C0%25CC.png",
+            "menu_name": "크림토마토 떡볶이",
+            "price": "12,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20231219_102%2F1702952835218JxBuX_JPEG%2F%25BE%25EE%25B9%25AC.JPG",
+            "menu_name": "어육 듬뿍 어묵",
+            "price": "3,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20231219_231%2F1702952818324DuHiI_JPEG%2F%25C2%25FB%25B6%25B1%25BC%25F8%25B4%25EB.JPG",
+            "menu_name": "찰진순대",
+            "price": "4,500원"
+        }
+    ]
+}

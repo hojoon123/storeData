@@ -1,0 +1,236 @@
+{
+    "store_name": "쌍둥이네 분식",
+    "store_location": "대전 유성구 원신흥남로12번길 41-2 101호",
+    "loc_x": "230515.708854209",
+    "loc_y": "314812.540974794",
+    "menu": [
+        {
+            "category": "대표메뉴",
+            "img_src": "",
+            "menu_name": "꼬마김밥(5줄)",
+            "price": "4,000원"
+        },
+        {
+            "category": "대표메뉴",
+            "img_src": "",
+            "menu_name": "꼬마김밥(10줄)",
+            "price": "8,000원"
+        },
+        {
+            "category": "대표메뉴",
+            "img_src": "",
+            "menu_name": "떡볶이(순한맛)",
+            "price": "4,500원"
+        },
+        {
+            "category": "세트 메뉴",
+            "img_src": "",
+            "menu_name": "떡볶이 세트",
+            "price": "18,900원"
+        },
+        {
+            "category": "세트 메뉴",
+            "img_src": "",
+            "menu_name": "쌍둥이떡볶이 세트",
+            "price": "19,300원"
+        },
+        {
+            "category": "세트 메뉴",
+            "img_src": "",
+            "menu_name": "치킨마요컵밥 세트",
+            "price": "18,500원"
+        },
+        {
+            "category": "세트 메뉴",
+            "img_src": "",
+            "menu_name": "스팸에그컵밥 세트",
+            "price": "16,700원"
+        },
+        {
+            "category": "메인류",
+            "img_src": "",
+            "menu_name": "꼬마김밥(5줄)",
+            "price": "4,000원"
+        },
+        {
+            "category": "메인류",
+            "img_src": "",
+            "menu_name": "꼬마김밥(10줄)",
+            "price": "8,000원"
+        },
+        {
+            "category": "메인류",
+            "img_src": "",
+            "menu_name": "쌍둥이떡볶이(카레맛,매운맛)",
+            "price": "5,000원"
+        },
+        {
+            "category": "메인류",
+            "img_src": "",
+            "menu_name": "쌍둥이떡볶이(카레맛,순한맛)",
+            "price": "5,000원"
+        },
+        {
+            "category": "메인류",
+            "img_src": "",
+            "menu_name": "떡볶이(매운맛)",
+            "price": "4,500원"
+        },
+        {
+            "category": "메인류",
+            "img_src": "",
+            "menu_name": "떡볶이(순한맛)",
+            "price": "4,500원"
+        },
+        {
+            "category": "메인류",
+            "img_src": "",
+            "menu_name": "짜장떡볶이",
+            "price": "5,500원"
+        },
+        {
+            "category": "메인류",
+            "img_src": "",
+            "menu_name": "찰순대",
+            "price": "4,500원"
+        },
+        {
+            "category": "메인류",
+            "img_src": "",
+            "menu_name": "어묵탕",
+            "price": "4,500원"
+        },
+        {
+            "category": "메인류",
+            "img_src": "",
+            "menu_name": "우동",
+            "price": "5,000원"
+        },
+        {
+            "category": "메인류",
+            "img_src": "",
+            "menu_name": "쫄면",
+            "price": "6,500원"
+        },
+        {
+            "category": "밥류",
+            "img_src": "",
+            "menu_name": "치킨마요컵밥",
+            "price": "5,000원"
+        },
+        {
+            "category": "밥류",
+            "img_src": "",
+            "menu_name": "스팸에그컵밥",
+            "price": "5,000원"
+        },
+        {
+            "category": "튀김류",
+            "img_src": "",
+            "menu_name": "김말이(2개)",
+            "price": "1,400원"
+        },
+        {
+            "category": "튀김류",
+            "img_src": "",
+            "menu_name": "야채튀김(2개)",
+            "price": "2,500원"
+        },
+        {
+            "category": "튀김류",
+            "img_src": "",
+            "menu_name": "맛감자(15개)",
+            "price": "2,000원"
+        },
+        {
+            "category": "튀김류",
+            "img_src": "",
+            "menu_name": "오징어(2개)",
+            "price": "2,500원"
+        },
+        {
+            "category": "튀김류",
+            "img_src": "",
+            "menu_name": "치즈스틱(2개)",
+            "price": "1,800원"
+        },
+        {
+            "category": "튀김류",
+            "img_src": "",
+            "menu_name": "고구마(2개)",
+            "price": "2,000원"
+        },
+        {
+            "category": "튀김류",
+            "img_src": "",
+            "menu_name": "소떡소떡",
+            "price": "3,000원"
+        },
+        {
+            "category": "토핑류",
+            "img_src": "",
+            "menu_name": "삶은계란(2개)",
+            "price": "1,000원"
+        },
+        {
+            "category": "토핑류",
+            "img_src": "",
+            "menu_name": "라면사리(1개)",
+            "price": "1,500원"
+        },
+        {
+            "category": "토핑류",
+            "img_src": "",
+            "menu_name": "어묵(15개)",
+            "price": "1,000원"
+        },
+        {
+            "category": "토핑류",
+            "img_src": "",
+            "menu_name": "눈꽃치즈",
+            "price": "1,500원"
+        },
+        {
+            "category": "토핑류",
+            "img_src": "",
+            "menu_name": "슬라이스 치즈(1장)",
+            "price": "500원"
+        },
+        {
+            "category": "음료류",
+            "img_src": "",
+            "menu_name": "칠성사이다(355ml)",
+            "price": "2,000원"
+        },
+        {
+            "category": "음료류",
+            "img_src": "",
+            "menu_name": "코카콜라(355ml)",
+            "price": "2,000원"
+        },
+        {
+            "category": "음료류",
+            "img_src": "",
+            "menu_name": "환타 파인애플(355ml)",
+            "price": "2,000원"
+        },
+        {
+            "category": "음료류",
+            "img_src": "",
+            "menu_name": "환타 포도(355ml)",
+            "price": "2,000원"
+        },
+        {
+            "category": "음료류",
+            "img_src": "",
+            "menu_name": "피크닉 청포도(200ml)",
+            "price": "1,000원"
+        },
+        {
+            "category": "음료류",
+            "img_src": "",
+            "menu_name": "피크닉 사과(200ml)",
+            "price": "1,000원"
+        }
+    ]
+}

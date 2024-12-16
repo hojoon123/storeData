@@ -1,0 +1,56 @@
+{
+    "store_name": "속초초당순두부",
+    "store_location": "강원 속초시 설악산로 242 속초초당순두부",
+    "loc_x": "338494.822311566",
+    "loc_y": "519086.714946845",
+    "menu": [
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241125_294%2F1732522496046h8fPB_JPEG%2FIMG_1641.jpeg",
+            "menu_name": "초당순두부",
+            "price": "11,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241125_210%2F1732524182810APLeD_JPEG%2FIMG_1654.jpeg",
+            "menu_name": "얼큰 순두부",
+            "price": "12,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241128_106%2F1732797168185306iI_JPEG%2FIMG_1770.jpeg",
+            "menu_name": "청국장",
+            "price": "12,000원"
+        },
+        {
+            "category": "",
+            "img_src": "",
+            "menu_name": "도토리묵",
+            "price": "13,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241125_288%2F17325242907983FN6J_JPEG%2FIMG_1658.jpeg",
+            "menu_name": "모두부",
+            "price": "15,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241125_6%2F1732520831162tWLeH_JPEG%2FIMG_1626.jpeg",
+            "menu_name": "황태구이",
+            "price": "28,000원"
+        },
+        {
+            "category": "",
+            "img_src": "",
+            "menu_name": "공깃밥",
+            "price": "1,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241125_138%2F1732524347571cTjJb_JPEG%2FIMG_1656.jpeg",
+            "menu_name": "비지찌개(초당순두부 주문시,서비스)",
+            "price": "무료"
+        }
+    ]
+}

@@ -1,0 +1,14 @@
+{
+    "store_name": "고기굽스",
+    "store_location": "대구 남구 대봉로 54 1층, 2층",
+    "loc_x": "344858.462725105",
+    "loc_y": "261557.932162804",
+    "menu": [
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241208_75%2F1733664401900AtTdm_JPEG%2F1728643004709.jpg",
+            "menu_name": "육회비빔밥, 한우,한돈",
+            "price": "변동"
+        }
+    ]
+}

@@ -1,0 +1,38 @@
+{
+    "store_name": "경성술집 다산점",
+    "store_location": "경북 고령군 다산면 상곡길 40 1층",
+    "loc_x": "330800.515586094",
+    "loc_y": "259397.134032842",
+    "menu": [
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241203_178%2F17332230761919gmlq_JPEG%2FKakaoTalk_20241203_193926643_04.jpg",
+            "menu_name": "경성소곱창전골",
+            "price": "26,900원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241203_60%2F173322323749375Axs_JPEG%2FKakaoTalk_20241203_193926643_03.jpg",
+            "menu_name": "숙주국물닭발",
+            "price": "19,900원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241203_253%2F1733223196540VUlRq_JPEG%2FKakaoTalk_20241203_193926643_02.jpg",
+            "menu_name": "무뼈닭발",
+            "price": "18,900원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241203_164%2F17332231464342501x_JPEG%2FKakaoTalk_20241203_193926643_01.jpg",
+            "menu_name": "소고기육전",
+            "price": "16,900원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241203_204%2F1733223114086K2z6J_JPEG%2FKakaoTalk_20241203_193926643.jpg",
+            "menu_name": "경성감자전",
+            "price": "12,900원"
+        }
+    ]
+}

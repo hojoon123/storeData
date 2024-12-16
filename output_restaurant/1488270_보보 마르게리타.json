@@ -1,0 +1,98 @@
+{
+    "store_name": "보보 마르게리타",
+    "store_location": "경기 성남시 수정구 위례서일로3길 27-6 102호",
+    "loc_x": "212219.979500061",
+    "loc_y": "440619.626187391",
+    "menu": [
+        {
+            "category": "사장님 추천 메뉴",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20241128_207/1732772848645PnPdR_JPEG/KakaoTalk_20241128_144555189.jpg?type=f220_220_60_sharpen",
+            "menu_name": "마르게리타대표",
+            "price": "15,000원"
+        },
+        {
+            "category": "사장님 추천 메뉴",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20241119_36/1731991251857sMXDt_JPEG/KakaoTalk_20241119_133421191_01.jpg?type=f220_220_60_sharpen",
+            "menu_name": "보보 피자대표",
+            "price": "18,000원"
+        },
+        {
+            "category": "핏짜",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20241128_207/1732772848645PnPdR_JPEG/KakaoTalk_20241128_144555189.jpg?type=f220_220_60_sharpen",
+            "menu_name": "마르게리타대표",
+            "price": "15,000원"
+        },
+        {
+            "category": "핏짜",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20241119_187/1731991125165ENXVi_JPEG/KakaoTalk_20241119_133421191.jpg?type=f220_220_60_sharpen",
+            "menu_name": "페퍼로니",
+            "price": "15,000원"
+        },
+        {
+            "category": "핏짜",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20241119_82/173199105479534L53_JPEG/KakaoTalk_20241119_133421191_03.jpg?type=f220_220_60_sharpen",
+            "menu_name": "치즈(5가지) +꿀",
+            "price": "16,000원"
+        },
+        {
+            "category": "핏짜",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20241128_70/1732772988958GFq37_JPEG/KakaoTalk_20241128_144909333.jpg?type=f220_220_60_sharpen",
+            "menu_name": "버섯 비스마르크",
+            "price": "17,000원"
+        },
+        {
+            "category": "핏짜",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20241119_36/1731991251857sMXDt_JPEG/KakaoTalk_20241119_133421191_01.jpg?type=f220_220_60_sharpen",
+            "menu_name": "보보 피자대표",
+            "price": "18,000원"
+        },
+        {
+            "category": "주류",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20241119_20/1731991549829A5m12_JPEG/%C6%E4%B7%CE%B4%CF.jpg?type=f220_220_60_sharpen",
+            "menu_name": "페로니",
+            "price": "7,000원"
+        },
+        {
+            "category": "주류",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20241119_52/1731991501143kC9eo_JPEG/%BA%F1%B6%F3%B8%F0%B7%B9%C6%BC.jpg?type=f220_220_60_sharpen",
+            "menu_name": "비라모레티",
+            "price": "7,000원"
+        },
+        {
+            "category": "주류",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20241209_180/1733739141837gm5jD_JPEG/%BA%B8%BA%B8%B0%A3%C6%C7.jpg?type=f220_220_60_sharpen",
+            "menu_name": "카스",
+            "price": "4,000원"
+        },
+        {
+            "category": "주류",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20241208_76/1733662460122FcxF3_JPEG/KakaoTalk_20241126_131154596.jpg?type=f220_220_60_sharpen",
+            "menu_name": "화이트와인(보틀)",
+            "price": "40,000원"
+        },
+        {
+            "category": "주류",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20241208_153/1733662560697QenoA_JPEG/KakaoTalk_20241129_194612874.jpg?type=f220_220_60_sharpen",
+            "menu_name": "레드와인(보틀)",
+            "price": "40,000원"
+        },
+        {
+            "category": "파스타",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20241119_277/1731991378031oWxlX_JPEG/KakaoTalk_20241119_133421191_06.jpg?type=f220_220_60_sharpen",
+            "menu_name": "토마토베이컨파스타매운맛1단계",
+            "price": "14,000원"
+        },
+        {
+            "category": "파스타",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20241119_100/17319914231352mtFu_JPEG/KakaoTalk_20241119_133421191_05.jpg?type=f220_220_60_sharpen",
+            "menu_name": "까르보나라",
+            "price": "14,000원"
+        },
+        {
+            "category": "etc.",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20241209_116/1733739227608mIysS_JPEG/%C4%A5%B6%B1.jpg?type=f220_220_60_sharpen",
+            "menu_name": "칠리떡볶이",
+            "price": "14,000원"
+        }
+    ]
+}

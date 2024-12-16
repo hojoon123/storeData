@@ -1,0 +1,38 @@
+{
+    "store_name": "명륜진사갈비 남양주화도점",
+    "store_location": "경기 남양주시 화도읍 묵현로 40 2층",
+    "loc_x": "225613.487279295",
+    "loc_y": "461935.741373015",
+    "menu": [
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20231127_13%2F1701072521355o2BY7_PNG%2FSET1.png",
+            "menu_name": "명륜진사갈비 자유이용(성인)",
+            "price": "19,900원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20231127_122%2F1701072478037KFp9i_PNG%2F%25BC%25D2%25B0%25A5%25BA%25F1%25BB%25EC.png",
+            "menu_name": "소갈비살(150g)",
+            "price": "9,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20231127_6%2F1701072434020TRAHz_PNG%2F%25B9%25B0_%25BA%25F1%25BA%25F6%25B3%25C3%25B8%25E9_new.png",
+            "menu_name": "냉면(물/비빔)",
+            "price": "5,900원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20231127_90%2F1701072391229Jh7Gy_PNG%2F%25B0%25E8%25B6%25F5%25C2%25F2_new.png",
+            "menu_name": "계란찜",
+            "price": "3,500원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20231127_162%2F1701072365557MrB26_JPEG%2F%25B5%25C8%25C0%25E5%25C2%25EE%25B0%25B3_2.jpg",
+            "menu_name": "된장찌개",
+            "price": "3,000원"
+        }
+    ]
+}

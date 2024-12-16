@@ -1,0 +1,14 @@
+{
+    "store_name": "단미김밥떡볶이",
+    "store_location": "경기 화성시 비봉면 새비봉서로 96 상가동 101, 102호",
+    "loc_x": "",
+    "loc_y": "",
+    "menu": [
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241212_216%2F1734000705543CSQ1v_PNG%2F%25BB%25E7%25C0%25CC%25B4%25D9%25C1%25A6%25B7%25CE.png",
+            "menu_name": "사이다제로",
+            "price": "2,000원"
+        }
+    ]
+}

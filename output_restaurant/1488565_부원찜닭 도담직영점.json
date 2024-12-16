@@ -1,0 +1,68 @@
+{
+    "store_name": "부원찜닭 도담직영점",
+    "store_location": "세종 보듬1로 12 상가101호 부원찜닭 도담직영점",
+    "loc_x": "223170.071308461",
+    "loc_y": "334404.580001494",
+    "menu": [
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20170822_71%2F15033858295031qnyf_JPEG%2FSYVpce0inElaAy4Y5ZKvJ46a.jpg",
+            "menu_name": "중자 식사",
+            "price": "27,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20170822_259%2F1503385946956M6qaX_JPEG%2Fqx5z80fwyklXxBFSPy3kR4GZ.jpg",
+            "menu_name": "대짜 식사",
+            "price": "37,000원"
+        },
+        {
+            "category": "",
+            "img_src": "",
+            "menu_name": "포장 단품",
+            "price": "25,000원"
+        },
+        {
+            "category": "",
+            "img_src": "",
+            "menu_name": "포장 세트",
+            "price": "45,000원"
+        },
+        {
+            "category": "",
+            "img_src": "",
+            "menu_name": "떡사리",
+            "price": "2,000원"
+        },
+        {
+            "category": "",
+            "img_src": "",
+            "menu_name": "당면사리",
+            "price": "2,000원"
+        },
+        {
+            "category": "",
+            "img_src": "",
+            "menu_name": "감자사리",
+            "price": "3,000원"
+        },
+        {
+            "category": "",
+            "img_src": "",
+            "menu_name": "추가 당면사리",
+            "price": "2,000원"
+        },
+        {
+            "category": "",
+            "img_src": "",
+            "menu_name": "추가 라면사리",
+            "price": "2,000원"
+        },
+        {
+            "category": "",
+            "img_src": "",
+            "menu_name": "음료 500ml",
+            "price": "2,000원"
+        }
+    ]
+}

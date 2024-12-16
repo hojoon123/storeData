@@ -1,0 +1,194 @@
+{
+    "store_name": "바다맛집",
+    "store_location": "제주 서귀포시 천제연로232번길 20",
+    "loc_x": "146829.473740242",
+    "loc_y": "-27199.1013524036",
+    "menu": [
+        {
+            "category": "",
+            "img_src": "",
+            "menu_name": "모듬구이 (대)",
+            "price": "55,000원"
+        },
+        {
+            "category": "",
+            "img_src": "",
+            "menu_name": "모듬구이 (중)",
+            "price": "35,000원"
+        },
+        {
+            "category": "",
+            "img_src": "",
+            "menu_name": "갈치구이 (대)",
+            "price": "55,000원"
+        },
+        {
+            "category": "",
+            "img_src": "",
+            "menu_name": "갈치구이 (중)",
+            "price": "35,000원"
+        },
+        {
+            "category": "",
+            "img_src": "",
+            "menu_name": "고등어구이 (1인)",
+            "price": "12,000원"
+        },
+        {
+            "category": "",
+            "img_src": "",
+            "menu_name": "갈치구이 (1인)",
+            "price": "15,000원"
+        },
+        {
+            "category": "",
+            "img_src": "",
+            "menu_name": "한치튀김",
+            "price": "20,000원"
+        },
+        {
+            "category": "",
+            "img_src": "",
+            "menu_name": "가오리찜 (중)",
+            "price": "30,000원"
+        },
+        {
+            "category": "",
+            "img_src": "",
+            "menu_name": "가오리찜(대)",
+            "price": "50,000원"
+        },
+        {
+            "category": "",
+            "img_src": "",
+            "menu_name": "대구뽈찜 (중)",
+            "price": "35,000원"
+        },
+        {
+            "category": "",
+            "img_src": "",
+            "menu_name": "대구뽈찜 (대)",
+            "price": "55,000원"
+        },
+        {
+            "category": "",
+            "img_src": "",
+            "menu_name": "객주리회",
+            "price": "60,000원"
+        },
+        {
+            "category": "",
+            "img_src": "",
+            "menu_name": "객주리매운탕(중)",
+            "price": "35,000원"
+        },
+        {
+            "category": "",
+            "img_src": "",
+            "menu_name": "객주리매운탕 (대)",
+            "price": "55,000원"
+        },
+        {
+            "category": "",
+            "img_src": "",
+            "menu_name": "대구매운탕 (중)",
+            "price": "35,000원"
+        },
+        {
+            "category": "",
+            "img_src": "",
+            "menu_name": "대구매운탕 (대)",
+            "price": "55,000원"
+        },
+        {
+            "category": "",
+            "img_src": "",
+            "menu_name": "대구매운탕 (1인)",
+            "price": "13,000원"
+        },
+        {
+            "category": "",
+            "img_src": "",
+            "menu_name": "대구지리탕 (1인)",
+            "price": "13,000원"
+        },
+        {
+            "category": "",
+            "img_src": "",
+            "menu_name": "대구조림 (중)",
+            "price": "35,000원"
+        },
+        {
+            "category": "",
+            "img_src": "",
+            "menu_name": "대구조림 (대)",
+            "price": "55,000원"
+        },
+        {
+            "category": "",
+            "img_src": "",
+            "menu_name": "객주리조림 (중)",
+            "price": "35,000원"
+        },
+        {
+            "category": "",
+            "img_src": "",
+            "menu_name": "객주리조림(대)",
+            "price": "55,000원"
+        },
+        {
+            "category": "",
+            "img_src": "",
+            "menu_name": "갈치조림(중)",
+            "price": "35,000원"
+        },
+        {
+            "category": "",
+            "img_src": "",
+            "menu_name": "갈치조림 (대)",
+            "price": "55,000원"
+        },
+        {
+            "category": "",
+            "img_src": "",
+            "menu_name": "객주리물회",
+            "price": "18,000원"
+        },
+        {
+            "category": "",
+            "img_src": "",
+            "menu_name": "한치물회",
+            "price": "15,000원"
+        },
+        {
+            "category": "",
+            "img_src": "",
+            "menu_name": "자리물회",
+            "price": "12,000원"
+        },
+        {
+            "category": "",
+            "img_src": "",
+            "menu_name": "소주",
+            "price": "5,000원"
+        },
+        {
+            "category": "",
+            "img_src": "",
+            "menu_name": "맥주",
+            "price": "5,000원"
+        },
+        {
+            "category": "",
+            "img_src": "",
+            "menu_name": "막걸리",
+            "price": "3,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241120_210%2F1732080327066FRKzJ_JPEG%2F1000007410.jpg",
+            "menu_name": "음료",
+            "price": "2,000원"
+        }
+    ]
+}

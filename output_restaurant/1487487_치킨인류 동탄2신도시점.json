@@ -1,0 +1,332 @@
+{
+    "store_name": "치킨인류 동탄2신도시점",
+    "store_location": "경기 화성시 동탄대로시범길 134 1층 1087호, 1088호(청계동)",
+    "loc_x": "210075.319585403",
+    "loc_y": "410817.645865226",
+    "menu": [
+        {
+            "category": "대표메뉴",
+            "img_src": "",
+            "menu_name": "썬그릴드 양념바베큐 통다리",
+            "price": "23,900원"
+        },
+        {
+            "category": "대표메뉴",
+            "img_src": "",
+            "menu_name": "반마리 치킨 + 썬그릴드 양념바베큐 통다리",
+            "price": "22,900원"
+        },
+        {
+            "category": "대표메뉴",
+            "img_src": "",
+            "menu_name": "[육즙작렬크리스피1등]골드바삭",
+            "price": "18,900원"
+        },
+        {
+            "category": "대표메뉴",
+            "img_src": "",
+            "menu_name": "골드양념 반반",
+            "price": "20,900원"
+        },
+        {
+            "category": "대표메뉴",
+            "img_src": "",
+            "menu_name": "갈릭바삭",
+            "price": "20,900원"
+        },
+        {
+            "category": "대표메뉴",
+            "img_src": "",
+            "menu_name": "트리플골드 세트",
+            "price": "30,900원"
+        },
+        {
+            "category": "신메뉴",
+            "img_src": "",
+            "menu_name": "썬그릴드 양념바베큐 통다리",
+            "price": "23,900원"
+        },
+        {
+            "category": "신메뉴",
+            "img_src": "",
+            "menu_name": "썬그릴드 소금구이 통다리",
+            "price": "21,900원"
+        },
+        {
+            "category": "신메뉴",
+            "img_src": "",
+            "menu_name": "썬그릴드 반반 통다리",
+            "price": "22,900원"
+        },
+        {
+            "category": "신메뉴",
+            "img_src": "",
+            "menu_name": "반마리 치킨 + 썬그릴드 양념바베큐 통다리",
+            "price": "22,900원"
+        },
+        {
+            "category": "신메뉴",
+            "img_src": "",
+            "menu_name": "반마리 치킨 + 썬그릴드 소금구이 통다리",
+            "price": "21,900원"
+        },
+        {
+            "category": "반마리 메뉴",
+            "img_src": "",
+            "menu_name": "반마리 치킨",
+            "price": "13,900원"
+        },
+        {
+            "category": "치킨 메뉴",
+            "img_src": "",
+            "menu_name": "[육즙작렬크리스피1등]골드바삭",
+            "price": "18,900원"
+        },
+        {
+            "category": "치킨 메뉴",
+            "img_src": "",
+            "menu_name": "레드바삭",
+            "price": "19,900원"
+        },
+        {
+            "category": "치킨 메뉴",
+            "img_src": "",
+            "menu_name": "갈릭바삭",
+            "price": "20,900원"
+        },
+        {
+            "category": "치킨 메뉴",
+            "img_src": "",
+            "menu_name": "레드갈릭바삭",
+            "price": "20,900원"
+        },
+        {
+            "category": "치킨 메뉴",
+            "img_src": "",
+            "menu_name": "K양념치킨",
+            "price": "20,900원"
+        },
+        {
+            "category": "치킨 메뉴",
+            "img_src": "",
+            "menu_name": "핫K양념치킨",
+            "price": "20,900원"
+        },
+        {
+            "category": "치킨 메뉴",
+            "img_src": "",
+            "menu_name": "갈릭슈양념치킨",
+            "price": "21,900원"
+        },
+        {
+            "category": "치킨 메뉴",
+            "img_src": "",
+            "menu_name": "옹기간장치킨",
+            "price": "20,900원"
+        },
+        {
+            "category": "치킨 메뉴",
+            "img_src": "",
+            "menu_name": "옹기매운간장치킨",
+            "price": "20,900원"
+        },
+        {
+            "category": "치킨 메뉴",
+            "img_src": "",
+            "menu_name": "치즈바삭",
+            "price": "20,900원"
+        },
+        {
+            "category": "반반 메뉴",
+            "img_src": "",
+            "menu_name": "골드양념 반반",
+            "price": "20,900원"
+        },
+        {
+            "category": "반반 메뉴",
+            "img_src": "",
+            "menu_name": "갈릭레드갈릭 반반",
+            "price": "21,900원"
+        },
+        {
+            "category": "반반 메뉴",
+            "img_src": "",
+            "menu_name": "양념갈릭 반반",
+            "price": "21,900원"
+        },
+        {
+            "category": "반반 메뉴",
+            "img_src": "",
+            "menu_name": "골드갈릭 반반",
+            "price": "20,900원"
+        },
+        {
+            "category": "반반 메뉴",
+            "img_src": "",
+            "menu_name": "골드레드갈릭 반반",
+            "price": "20,900원"
+        },
+        {
+            "category": "반반 메뉴",
+            "img_src": "",
+            "menu_name": "레드양념 반반",
+            "price": "21,900원"
+        },
+        {
+            "category": "반반 메뉴",
+            "img_src": "",
+            "menu_name": "골드치즈 반반",
+            "price": "20,900원"
+        },
+        {
+            "category": "치킨세트",
+            "img_src": "",
+            "menu_name": "치킨 세트",
+            "price": "23,500원"
+        },
+        {
+            "category": "반반 치킨세트",
+            "img_src": "",
+            "menu_name": "반반 치킨 세트",
+            "price": "25,500원"
+        },
+        {
+            "category": "두마리 치킨세트",
+            "img_src": "",
+            "menu_name": "두마리 세트",
+            "price": "36,900원"
+        },
+        {
+            "category": "순살 3종세트",
+            "img_src": "",
+            "menu_name": "트리플골드 세트",
+            "price": "30,900원"
+        },
+        {
+            "category": "사이드메뉴",
+            "img_src": "",
+            "menu_name": "옛날닭똥집튀김",
+            "price": "10,900원"
+        },
+        {
+            "category": "사이드메뉴",
+            "img_src": "",
+            "menu_name": "마라교자(4개)",
+            "price": "4,900원"
+        },
+        {
+            "category": "사이드메뉴",
+            "img_src": "",
+            "menu_name": "국물떡볶이",
+            "price": "5,900원"
+        },
+        {
+            "category": "사이드메뉴",
+            "img_src": "",
+            "menu_name": "리얼로제떡볶이",
+            "price": "6,900원"
+        },
+        {
+            "category": "사이드메뉴",
+            "img_src": "",
+            "menu_name": "모짜치즈볼(6개)",
+            "price": "4,900원"
+        },
+        {
+            "category": "사이드메뉴",
+            "img_src": "",
+            "menu_name": "새우링(5개)",
+            "price": "4,900원"
+        },
+        {
+            "category": "사이드메뉴",
+            "img_src": "",
+            "menu_name": "폭탄맛감자",
+            "price": "5,900원"
+        },
+        {
+            "category": "사이드메뉴",
+            "img_src": "",
+            "menu_name": "나초치즈감자튀김",
+            "price": "5,900원"
+        },
+        {
+            "category": "사이드메뉴",
+            "img_src": "",
+            "menu_name": "모둠감자튀김",
+            "price": "8,900원"
+        },
+        {
+            "category": "사이드메뉴",
+            "img_src": "",
+            "menu_name": "파인샤베트",
+            "price": "6,000원"
+        },
+        {
+            "category": "사이드메뉴",
+            "img_src": "",
+            "menu_name": "바삭먹태",
+            "price": "14,900원"
+        },
+        {
+            "category": "토핑&소스",
+            "img_src": "",
+            "menu_name": "꽈리고추튀김(6개) 토핑추가",
+            "price": "2,000원"
+        },
+        {
+            "category": "토핑&소스",
+            "img_src": "",
+            "menu_name": "치킨무 추가",
+            "price": "500원"
+        },
+        {
+            "category": "토핑&소스",
+            "img_src": "",
+            "menu_name": "양념소스 추가",
+            "price": "500원"
+        },
+        {
+            "category": "토핑&소스",
+            "img_src": "",
+            "menu_name": "플레인요거소스 추가",
+            "price": "700원"
+        },
+        {
+            "category": "음료",
+            "img_src": "",
+            "menu_name": "콜라 500ML",
+            "price": "2,000원"
+        },
+        {
+            "category": "음료",
+            "img_src": "",
+            "menu_name": "사이다 500ML",
+            "price": "2,000원"
+        },
+        {
+            "category": "음료",
+            "img_src": "",
+            "menu_name": "제로콜라(라임) 500ML",
+            "price": "2,000원"
+        },
+        {
+            "category": "음료",
+            "img_src": "",
+            "menu_name": "콜라 1.25L",
+            "price": "2,500원"
+        },
+        {
+            "category": "음료",
+            "img_src": "",
+            "menu_name": "사이다 1.25L",
+            "price": "2,500원"
+        },
+        {
+            "category": "음료",
+            "img_src": "",
+            "menu_name": "제로콜라(라임) 1.25L",
+            "price": "2,500원"
+        }
+    ]
+}

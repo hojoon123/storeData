@@ -1,0 +1,74 @@
+{
+    "store_name": "유록장어 광주 상무본점",
+    "store_location": "광주 서구 마륵벽진길 5",
+    "loc_x": "185799.645207251",
+    "loc_y": "182806.178578503",
+    "menu": [
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241125_187%2F1732518357642PREXt_JPEG%2F%25C5%25A9%25B1%25E2%25BA%25AF%25C8%25AFA4_07277.JPG",
+            "menu_name": "저온숙성 민물장어 소금구이",
+            "price": "변동"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241125_276%2F1732518616235ERDFS_JPEG%2F%25C5%25A9%25B1%25E2%25BA%25AF%25C8%25AFA4_07781.JPG",
+            "menu_name": "레드카네요 장어덮밥(일일 20개한정)",
+            "price": "25,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241125_172%2F1732518904060GCckN_JPEG%2F%25C5%25A9%25B1%25E2%25BA%25AF%25C8%25AFA4_07769.JPG",
+            "menu_name": "(2층룸전용) 장어한상차림 A코스",
+            "price": "55,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241126_295%2F1732602994612QX3kn_JPEG%2FA4_07797.JPG",
+            "menu_name": "[점심특가]바다장어탕+솥밥",
+            "price": "16,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241126_228%2F1732601260867ySFvu_JPEG%2FA4_07797.JPG",
+            "menu_name": "[점심특가]풍천민물장어탕+솥밥",
+            "price": "11,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241126_15%2F1732601279783m5J1I_JPEG%2FA4_07791.JPG",
+            "menu_name": "[점심특가]특 바다장어탕+솥밥",
+            "price": "18,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241125_94%2F1732518399533cFxX8_JPEG%2F%25C5%25A9%25B1%25E2%25BA%25AF%25C8%25AFA4_07880.JPG",
+            "menu_name": "[점심특가]히츠마부시or카네요덮밥",
+            "price": "20,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241125_210%2F1732518465835a3mUB_JPEG%2FA4_07844.JPG",
+            "menu_name": "[점심특가]히츠마부시or카네요 덮밥",
+            "price": "33,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241126_108%2F17326013193764ba2p_JPEG%2FA4_07789.JPG",
+            "menu_name": "[점심특가]바다장어김치찌개+솥밥",
+            "price": "13,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241126_181%2F1732603083180tChuW_JPEG%2FA4_07877.JPG",
+            "menu_name": "히츠마부시or카네요 덮밥-반마리",
+            "price": "25,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241126_102%2F1732603176007RfAaf_JPEG%2FA4_07844.JPG",
+            "menu_name": "히츠마부시or카네요 덮밥-한마리",
+            "price": "38,000원"
+        }
+    ]
+}

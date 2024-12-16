@@ -1,0 +1,56 @@
+{
+    "store_name": "쿠우쿠우 경주점",
+    "store_location": "경북 경주시 유림로 107 두산위브트레지움 상가동 1층",
+    "loc_x": "400694.573649346",
+    "loc_y": "265526.321448761",
+    "menu": [
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241213_195%2F1734049083609nxP3p_JPEG%2FKakaoTalk_20241210_200108438_24.jpg",
+            "menu_name": "평일런치(오후5시 이전)",
+            "price": "24,900원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241213_221%2F1734049094374CT9LD_JPEG%2FKakaoTalk_20241210_200108438_26.jpg",
+            "menu_name": "평일디너(오후5시 이후)",
+            "price": "29,900원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241213_132%2F1734049107191Eggeb_JPEG%2FKakaoTalk_20241210_200108438_11.jpg",
+            "menu_name": "주말 및 공휴일",
+            "price": "32,900원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241213_64%2F1734049118407ybQan_JPEG%2FKakaoTalk_20241210_200108438_18.jpg",
+            "menu_name": "초등학생 (평일)",
+            "price": "15,900원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241213_157%2F1734049152657KvkF6_JPEG%2FKakaoTalk_20241210_200108438_03.jpg",
+            "menu_name": "초등학생 (주말 및 공휴일)",
+            "price": "16,900원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241213_119%2F1734049167699VeOHL_JPEG%2FKakaoTalk_20241210_200108438_01.jpg",
+            "menu_name": "미취학아동(만36개월 이상)",
+            "price": "8,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241129_179%2F1732858753338LR5Fz_JPEG%2F%25B0%25A1%25B8%25CD%25C1%25A1_%25C1%25D6%25B7%25F9%25C6%25C7%25B8%25C5_%25C0%25CC%25B9%25CC%25C1%25F6.jpg",
+            "menu_name": "소주",
+            "price": "5,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241129_290%2F1732858768928yc7Qo_JPEG%2F%25B0%25A1%25B8%25CD%25C1%25A1_%25C1%25D6%25B7%25F9%25C6%25C7%25B8%25C5_%25C0%25CC%25B9%25CC%25C1%25F6.jpg",
+            "menu_name": "맥주",
+            "price": "5,000원"
+        }
+    ]
+}

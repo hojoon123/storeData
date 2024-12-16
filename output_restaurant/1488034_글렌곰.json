@@ -1,0 +1,14 @@
+{
+    "store_name": "글렌곰",
+    "store_location": "대전 유성구 온천동로65번길 30 2층",
+    "loc_x": "231461.791390849",
+    "loc_y": "317444.008970134",
+    "menu": [
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240225_57%2F1708865639597h9x2B_JPEG%2FIMG_20240225_215350_806.jpg",
+            "menu_name": "칵테일",
+            "price": "변동"
+        }
+    ]
+}

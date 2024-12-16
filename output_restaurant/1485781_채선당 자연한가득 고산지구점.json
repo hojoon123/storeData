@@ -1,0 +1,62 @@
+{
+    "store_name": "채선당 자연한가득 고산지구점",
+    "store_location": "경기 의정부시 수암로 4 204,205호",
+    "loc_x": "209694.327496561",
+    "loc_y": "469572.764078062",
+    "menu": [
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241122_146%2F1732252162520hMOix_JPEG%2F%25B8%25DE%25B4%25BA_%25B1%25E2%25BA%25BB%25C0%25B0%25BC%25F6.jpg",
+            "menu_name": "월남쌈&샤브(평일점심)",
+            "price": "14,900원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241122_162%2F1732252277081C9cDW_JPEG%2F%25B8%25DE%25B4%25BA_%25BE%25F3%25C5%25AB%25C0%25B0%25BC%25F6.jpg",
+            "menu_name": "얼큰 월남쌈&샤브(평일점심)",
+            "price": "15,900원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241122_58%2F17322523288244D9XF_JPEG%2F%25B8%25DE%25B4%25BA_%25B8%25B6%25B6%25F3%25BB%25FE%25BA%25EA.jpg",
+            "menu_name": "마라 월남쌈&샤브(평일점심)",
+            "price": "15,900원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241122_299%2F1732252417454quRf9_JPEG%2F%25B8%25DE%25B4%25BA_%25BD%25BA%25C5%25B0%25BE%25DF%25B3%25A2.jpg",
+            "menu_name": "월남쌈&스키야끼(평일점심)",
+            "price": "16,900원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241122_70%2F1732252256288juwvM_JPEG%2F%25B8%25DE%25B4%25BA_%25B1%25E2%25BA%25BB%25C0%25B0%25BC%25F6.jpg",
+            "menu_name": "월남쌈&샤브 (저녁/주말/공휴일)",
+            "price": "17,900원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241122_255%2F1732252297928Tk6Wo_JPEG%2F%25B8%25DE%25B4%25BA_%25BE%25F3%25C5%25AB%25C0%25B0%25BC%25F6.jpg",
+            "menu_name": "얼큰 월남쌈&샤브(저녁/주말/공휴일)",
+            "price": "18,900원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241122_108%2F1732252357442CYTDd_JPEG%2F%25B8%25DE%25B4%25BA_%25B8%25B6%25B6%25F3%25BB%25FE%25BA%25EA.jpg",
+            "menu_name": "마라 월남쌈&샤브(저녁/주말/공휴일)",
+            "price": "18,900원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241122_168%2F1732252437274pc5vL_JPEG%2F%25B8%25DE%25B4%25BA_%25BD%25BA%25C5%25B0%25BE%25DF%25B3%25A2.jpg",
+            "menu_name": "월남쌈&스키야끼 (저녁/주말/공휴일)",
+            "price": "19,900원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241122_127%2F1732252392956waXrV_JPEG%2F20241122_141306.jpg",
+            "menu_name": "스페셜 모듬 샤브",
+            "price": "26,000원"
+        }
+    ]
+}

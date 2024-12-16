@@ -1,0 +1,86 @@
+{
+    "store_name": "노렌",
+    "store_location": "강원 속초시 중앙시장로 110-5 1~2층",
+    "loc_x": "339296.431627395",
+    "loc_y": "523563.858111254",
+    "menu": [
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240723_126%2F17216679975791KY7A_JPEG%2FIMG_0360.jpeg",
+            "menu_name": "초당옥수수 빙수",
+            "price": "11,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240723_170%2F1721668151925jJAtC_JPEG%2FIMG_0361.jpeg",
+            "menu_name": "토마토 빙수",
+            "price": "11,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241114_224%2F1731557922266oCuxa_JPEG%2FIMG_3894.jpeg",
+            "menu_name": "시즌 빙수 - 딸기 빙수",
+            "price": "12,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241001_191%2F1727712208795LwPsc_JPEG%2FIMG_2469.jpeg",
+            "menu_name": "백호은침",
+            "price": "7,500원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240414_150%2F17130826650241x3zj_JPEG%2FIMG_7347.jpeg",
+            "menu_name": "겐마이차",
+            "price": "7,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240414_184%2F17130828131813gB6j_JPEG%2FIMG_7202.jpeg",
+            "menu_name": "프리 블렌딩 티",
+            "price": "8,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241001_256%2F1727712763888rApt3_JPEG%2FIMG_2471.jpeg",
+            "menu_name": "냉침 밀크티",
+            "price": "6,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240723_237%2F1721668450011mpJ4W_JPEG%2FIMG_0342.jpeg",
+            "menu_name": "레몬 말차 아이스티",
+            "price": "6,500원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241001_19%2F17277127306951fHky_JPEG%2FIMG_2472.jpeg",
+            "menu_name": "복숭아 우롱차",
+            "price": "6,500원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241001_76%2F1727712833782YT6cT_JPEG%2FIMG_2473.jpeg",
+            "menu_name": "드립커피",
+            "price": "6,500원"
+        },
+        {
+            "category": "",
+            "img_src": "",
+            "menu_name": "말차 (ice/hot)",
+            "price": "7,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241001_276%2F1727712701384VtpQN_JPEG%2FIMG_2474.jpeg",
+            "menu_name": "호지차 (ice/hot)",
+            "price": "7,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240414_64%2F1713082725123DBFQ9_JPEG%2FIMG_7207.jpeg",
+            "menu_name": "밤조림",
+            "price": "4,500원"
+        }
+    ]
+}

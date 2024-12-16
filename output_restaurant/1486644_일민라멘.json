@@ -1,0 +1,38 @@
+{
+    "store_name": "일민라멘",
+    "store_location": "경남 거제시 거제중앙로 1911-1 104호",
+    "loc_x": "348266.004361006",
+    "loc_y": "155638.644602622",
+    "menu": [
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241214_159%2F1734137766599kJpIi_JPEG%2FIMG_4943.jpeg",
+            "menu_name": "돈코츠라멘(포장배달X)",
+            "price": "9,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241214_179%2F1734166879421JzxpM_JPEG%2FIMG_4889.jpeg",
+            "menu_name": "야끼교자(4P)",
+            "price": "5,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241214_243%2F17341666750064iWuS_JPEG%2FIMG_5394.jpeg",
+            "menu_name": "카라미소라멘(포장배달X)",
+            "price": "9,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241214_204%2F1734137795642nglFw_JPEG%2FIMG_5319.jpeg",
+            "menu_name": "미소라멘(포장배달X)",
+            "price": "9,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241214_282%2F1734137731795FD5K9_JPEG%2FIMG_4966.jpeg",
+            "menu_name": "매운돈코츠라멘(포장배달X)",
+            "price": "9,000원"
+        }
+    ]
+}

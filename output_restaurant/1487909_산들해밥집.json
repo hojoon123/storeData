@@ -1,0 +1,176 @@
+{
+    "store_name": "산들해밥집",
+    "store_location": "인천 중구 흰바위로 258 109호",
+    "loc_x": "156060.201114978",
+    "loc_y": "441924.477249305",
+    "menu": [
+        {
+            "category": "대표메뉴",
+            "img_src": "",
+            "menu_name": "갈치조림(2인분) (공기밥 별도)",
+            "price": "32,000원"
+        },
+        {
+            "category": "대표메뉴",
+            "img_src": "",
+            "menu_name": "제육볶음 (공기밥 별도)",
+            "price": "13,000원"
+        },
+        {
+            "category": "2인이상주문 메뉴",
+            "img_src": "",
+            "menu_name": "갈치조림(2인분) (공기밥 별도)",
+            "price": "32,000원"
+        },
+        {
+            "category": "2인이상주문 메뉴",
+            "img_src": "",
+            "menu_name": "고등어김치찜(2인분) (공기밥 별도)",
+            "price": "30,000원"
+        },
+        {
+            "category": "2인이상주문 메뉴",
+            "img_src": "",
+            "menu_name": "김치전골(2인분) (공기밥 별도)",
+            "price": "26,000원"
+        },
+        {
+            "category": "2인이상주문 메뉴",
+            "img_src": "",
+            "menu_name": "동태탕 (공기밥 별도)(대)",
+            "price": "40,000원"
+        },
+        {
+            "category": "2인이상주문 메뉴",
+            "img_src": "",
+            "menu_name": "동태탕 (공기밥 별도)(중)",
+            "price": "30,000원"
+        },
+        {
+            "category": "2인이상주문 메뉴",
+            "img_src": "",
+            "menu_name": "제육볶음 (공기밥 별도)",
+            "price": "13,000원"
+        },
+        {
+            "category": "2인이상주문 메뉴",
+            "img_src": "",
+            "menu_name": "생선구이 (공기밥 별도)",
+            "price": "15,000원"
+        },
+        {
+            "category": "2인이상주문 메뉴",
+            "img_src": "",
+            "menu_name": "오징어볶음 1인 (공기밥 별도)",
+            "price": "15,000원"
+        },
+        {
+            "category": "1인메뉴",
+            "img_src": "",
+            "menu_name": "알탕",
+            "price": "12,000원"
+        },
+        {
+            "category": "1인메뉴",
+            "img_src": "",
+            "menu_name": "고등어조림",
+            "price": "13,000원"
+        },
+        {
+            "category": "1인메뉴",
+            "img_src": "",
+            "menu_name": "동태탕",
+            "price": "11,000원"
+        },
+        {
+            "category": "1인메뉴",
+            "img_src": "",
+            "menu_name": "뼈해장국",
+            "price": "11,000원"
+        },
+        {
+            "category": "1인메뉴",
+            "img_src": "",
+            "menu_name": "육개장",
+            "price": "11,000원"
+        },
+        {
+            "category": "안주류",
+            "img_src": "",
+            "menu_name": "해물파전",
+            "price": "18,000원"
+        },
+        {
+            "category": "안주류",
+            "img_src": "",
+            "menu_name": "감자전",
+            "price": "18,000원"
+        },
+        {
+            "category": "안주류",
+            "img_src": "",
+            "menu_name": "김치전",
+            "price": "18,000원"
+        },
+        {
+            "category": "안주류",
+            "img_src": "",
+            "menu_name": "닭발",
+            "price": "25,000원"
+        },
+        {
+            "category": "안주류",
+            "img_src": "",
+            "menu_name": "소라무침",
+            "price": "30,000원"
+        },
+        {
+            "category": "안주류",
+            "img_src": "",
+            "menu_name": "우럭매운탕(대)",
+            "price": "70,000원"
+        },
+        {
+            "category": "안주류",
+            "img_src": "",
+            "menu_name": "우럭매운탕(중)",
+            "price": "40,000원"
+        },
+        {
+            "category": "안주류",
+            "img_src": "",
+            "menu_name": "닭도리탕",
+            "price": "50,000원"
+        },
+        {
+            "category": "안주류",
+            "img_src": "",
+            "menu_name": "광어회(1KG)",
+            "price": "80,000원"
+        },
+        {
+            "category": "안주류",
+            "img_src": "",
+            "menu_name": "우럭회(1KG)",
+            "price": "80,000원"
+        },
+        {
+            "category": "신메뉴",
+            "img_src": "",
+            "menu_name": "양푼매운돼지갈비찜",
+            "price": "28,000원"
+        },
+        {
+            "category": "신메뉴",
+            "img_src": "",
+            "menu_name": "날치알주먹밥",
+            "price": "3,500원"
+        },
+        {
+            "category": "신메뉴",
+            "img_src": "",
+            "menu_name": "참치주먹밥",
+            "price": "3,500원"
+        }
+    ]
+}

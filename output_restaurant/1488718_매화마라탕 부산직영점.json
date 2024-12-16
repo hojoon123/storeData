@@ -1,0 +1,80 @@
+{
+    "store_name": "매화마라탕 부산직영점",
+    "store_location": "부산 남구 진남로 35 1층 매화마라탕 부산직영점",
+    "loc_x": "390517.302379092",
+    "loc_y": "184095.825015751",
+    "menu": [
+        {
+            "category": "인기 메뉴",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20240319_134/1710822099212mING7_JPEG/%B3%D7%C0%CC%B9%F6%BD%BA%B8%B6%C6%AE%C7%C3%B7%B9%C0%CC%BD%BA_%B8%B6%B6%F3%C5%C1.jpg?type=f220_220_60_sharpen",
+            "menu_name": "기본 매화마라탕 [복잡한거 싫으시면 강력추천]매운맛1단계인기대표",
+            "price": "9,000원"
+        },
+        {
+            "category": "사장님 추천 메뉴",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20240319_108/1710822160078mqDTp_JPEG/%B3%D7%C0%CC%B9%F6%BD%BA%B8%B6%C6%AE%C7%C3%B7%B9%C0%CC%BD%BA_%B8%B6%B6%F3%C5%C1.jpg?type=f220_220_60_sharpen",
+            "menu_name": "셀프 매화마라탕 [내맘대로 토핑 선택]매운맛1단계대표",
+            "price": "2,000원"
+        },
+        {
+            "category": "사장님 추천 메뉴",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20240319_134/1710822099212mING7_JPEG/%B3%D7%C0%CC%B9%F6%BD%BA%B8%B6%C6%AE%C7%C3%B7%B9%C0%CC%BD%BA_%B8%B6%B6%F3%C5%C1.jpg?type=f220_220_60_sharpen",
+            "menu_name": "기본 매화마라탕 [복잡한거 싫으시면 강력추천]매운맛1단계인기대표",
+            "price": "9,000원"
+        },
+        {
+            "category": "마라탕",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20240319_134/1710822099212mING7_JPEG/%B3%D7%C0%CC%B9%F6%BD%BA%B8%B6%C6%AE%C7%C3%B7%B9%C0%CC%BD%BA_%B8%B6%B6%F3%C5%C1.jpg?type=f220_220_60_sharpen",
+            "menu_name": "기본 매화마라탕 [복잡한거 싫으시면 강력추천]매운맛1단계인기대표",
+            "price": "9,000원"
+        },
+        {
+            "category": "마라탕",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20240319_108/1710822160078mqDTp_JPEG/%B3%D7%C0%CC%B9%F6%BD%BA%B8%B6%C6%AE%C7%C3%B7%B9%C0%CC%BD%BA_%B8%B6%B6%F3%C5%C1.jpg?type=f220_220_60_sharpen",
+            "menu_name": "셀프 매화마라탕 [내맘대로 토핑 선택]매운맛1단계대표",
+            "price": "2,000원"
+        },
+        {
+            "category": "간식류",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20241121_253/1732171345299yY5hn_JPEG/%B8%F1%C8%AD%BC%D8%C5%C1%BC%F6%C0%B0.jpg?type=f220_220_60_sharpen",
+            "menu_name": "동글 목화솜 탕수육 12알",
+            "price": "5,000원"
+        },
+        {
+            "category": "간식류",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20241121_65/173217096814863M8Y_JPEG/%B9%D9%BB%E8%B8%E0%BA%B8%BB%FE.jpg?type=f220_220_60_sharpen",
+            "menu_name": "바삭 통새우 멘보샤(새우토스트) [소스2종포함] 6조각",
+            "price": "5,000원"
+        },
+        {
+            "category": "간식류",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20241121_126/1732172219384zLODK_JPEG/%BC%D2%B7%E6%C6%F7_1.jpg?type=f220_220_60_sharpen",
+            "menu_name": "소룡포(샤오롱빠오) 6개",
+            "price": "6,500원"
+        },
+        {
+            "category": "간식류",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20241121_231/1732172278772zPBtJ_JPEG/%BC%EE%B8%B6%C0%CC_1.jpg?type=f220_220_60_sharpen",
+            "menu_name": "샤오마이(시우마이) 5개",
+            "price": "6,000원"
+        },
+        {
+            "category": "간식류",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20241121_17/17321722475166JjtY_JPEG/%BB%F5%BF%EC%B5%F5%BC%B6_1.jpg?type=f220_220_60_sharpen",
+            "menu_name": "새우딤섬(수정만두) 6개",
+            "price": "5,000원"
+        },
+        {
+            "category": "간식류",
+            "img_src": "",
+            "menu_name": "대만우유튀김 8알 [촉촉하고 달콤한]",
+            "price": "5,000원"
+        },
+        {
+            "category": "간식류",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20240319_48/1710822535138yFE72_JPEG/%B3%D7%C0%CC%B9%F6%BD%BA%B8%B6%C6%AE%C7%C3%B7%B9%C0%CC%BD%BA_%C2%CB%B5%E5%B1%E2.jpg?type=f220_220_60_sharpen",
+            "menu_name": "중국 매콤달콤짭짤 마라쫀드기 [100g]",
+            "price": "2,500원"
+        }
+    ]
+}

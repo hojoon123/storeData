@@ -1,0 +1,62 @@
+{
+    "store_name": "기장 일품곰탕",
+    "store_location": "부산 기장군 기장읍 차성동로 167 1층 기장일품곰탕",
+    "loc_x": "401705.135084225",
+    "loc_y": "197090.62136634",
+    "menu": [
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240728_227%2F1722161318786xX2ea_JPEG%2F1000018129.jpg",
+            "menu_name": "소머리곰탕",
+            "price": "10,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240728_271%2F172216145607190BJk_JPEG%2F1000018133.jpg",
+            "menu_name": "설렁탕",
+            "price": "12,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240728_246%2F1722161569148wf2CI_JPEG%2F1000018128.jpg",
+            "menu_name": "만두곰탕",
+            "price": "10,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240728_120%2F1722164119260JaTgh_JPEG%2F1000018592.jpg",
+            "menu_name": "모듬곰탕",
+            "price": "15,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240728_202%2F1722162147528DEiwT_JPEG%2F1000018130.jpg",
+            "menu_name": "도가니곰탕",
+            "price": "15,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240728_279%2F1722162262756qRqbq_JPEG%2F1000018127.jpg",
+            "menu_name": "양곰탕",
+            "price": "15,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240728_265%2F1722164001140Q64oD_JPEG%2F1000018589.jpg",
+            "menu_name": "맛보기만두",
+            "price": "6,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240728_21%2F1722163811590xRQIJ_JPEG%2F1000018582.jpg",
+            "menu_name": "수백",
+            "price": "15,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240728_285%2F1722162385329etUr2_JPEG%2F1000018131.jpg",
+            "menu_name": "수육",
+            "price": "35,000원"
+        }
+    ]
+}

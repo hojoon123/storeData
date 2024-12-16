@@ -1,0 +1,62 @@
+{
+    "store_name": "팟럭커리",
+    "store_location": "대구 달성군 다사읍 서재로 172 1층 팟럭커리",
+    "loc_x": "335156.672152352",
+    "loc_y": "265312.076196997",
+    "menu": [
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240125_174%2F1706159354882YOBvf_JPEG%2FIMG_4473.jpeg",
+            "menu_name": "팟럭커리",
+            "price": "16,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240125_215%2F1706159323839Ql3xB_JPEG%2FIMG_5563.jpeg",
+            "menu_name": "땐스커리 (새우 + 치킨)",
+            "price": "15,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240125_200%2F1706159223264RWVNi_JPEG%2FIMG_4466.jpeg",
+            "menu_name": "미트볼 커리",
+            "price": "13,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240125_172%2F170615914945456v4c_JPEG%2FIMG_4526.jpeg",
+            "menu_name": "기본커리",
+            "price": "9,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240117_199%2F1705466748694SVttE_JPEG%2FIMG_5671.jpeg",
+            "menu_name": "돈까스 커리",
+            "price": "13,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240125_6%2F1706159383812tEGPB_JPEG%2FIMG_4656.jpeg",
+            "menu_name": "특제 새우튀김",
+            "price": "7,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240125_136%2F1706159372298KIDyo_JPEG%2FIMG_4584.jpeg",
+            "menu_name": "특제새우커리",
+            "price": "13,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20231020_265%2F16977971664345AdiB_JPEG%2F74BA287D-B367-4F02-88AB-2C307458CA75.jpeg",
+            "menu_name": "치킨커리",
+            "price": "10,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20231020_202%2F16977970875223xHU9_JPEG%2F69F10EB3-DA69-40C0-80F4-5F8F0FA5FF9D.jpeg",
+            "menu_name": "소세지커리",
+            "price": "12,000원"
+        }
+    ]
+}

@@ -1,0 +1,32 @@
+{
+    "store_name": "맛있는집밥분이네",
+    "store_location": "강원 동해시 대동로 94 1층",
+    "loc_x": "388218.192752125",
+    "loc_y": "444191.281980197",
+    "menu": [
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241127_208%2F1732697018081N7VOp_JPEG%2F1000005461.jpg",
+            "menu_name": "산채비빔밥",
+            "price": "8,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241128_98%2F1732757498181uJvon_JPEG%2F1000002239.jpg",
+            "menu_name": "소고기비빔밥",
+            "price": "10,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241215_258%2F1734226211695u4aar_JPEG%2F1000002258.jpg",
+            "menu_name": "맑은한우국밥",
+            "price": "7,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241128_78%2F1732757506591asaXO_JPEG%2F1000002238.jpg",
+            "menu_name": "매운한우국밥",
+            "price": "9,000원"
+        }
+    ]
+}

@@ -1,0 +1,44 @@
+{
+    "store_name": "동두천족발",
+    "store_location": "경기 동두천시 지행로 96-16",
+    "loc_x": "205080.937803445",
+    "loc_y": "487721.598989795",
+    "menu": [
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241210_103%2F1733831912777cUXlS_JPEG%2F%25C1%25B7.jpg",
+            "menu_name": "족발(대)",
+            "price": "42,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241210_195%2F1733831940288nlgDH_JPEG%2F%25BA%25D2.jpg",
+            "menu_name": "불족발(대)",
+            "price": "44,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241210_81%2F1733831978042mxIOn_JPEG%2F%25B9%25DD%25B9%25DD.jpg",
+            "menu_name": "반반족발(대)",
+            "price": "43,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241213_26%2F1734045885996Anfpt_JPEG%2FKakaoTalk_20241212_203855626.jpg",
+            "menu_name": "매운등갈비",
+            "price": "22,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241213_230%2F1734045924332A7CxN_JPEG%2FKakaoTalk_20241213_082255318.jpg",
+            "menu_name": "몽땅이(미니족)",
+            "price": "18,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241213_102%2F1734046045381cdEfx_JPEG%2FKakaoTalk_20241213_082606629.jpg",
+            "menu_name": "쟁반국수",
+            "price": "18,000원"
+        }
+    ]
+}

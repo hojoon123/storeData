@@ -1,0 +1,104 @@
+{
+    "store_name": "데일리갈비 경산본점",
+    "store_location": "경북 경산시 압량읍 주들길 11 1층",
+    "loc_x": "359760.85927353",
+    "loc_y": "260959.843537539",
+    "menu": [
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20221125_68%2F16693490394662X7w3_JPEG%2F%25C6%25AF%25BB%25FD%25B0%25A5%25BA%25F1.jpg",
+            "menu_name": "한돈 특생갈비",
+            "price": "15,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20221125_237%2F1669349054689mMehs_JPEG%2F%25BE%25E7%25B3%25E4%25BF%25D5%25B0%25A5%25BA%25F1.jpg",
+            "menu_name": "한돈 수제 왕갈비",
+            "price": "16,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20221125_276%2F1669349071939YmCES_JPEG%2F%25B8%25C5%25BF%25EE%25BE%25E7%25B3%25E4%25BF%25D5%25B0%25A5%25BA%25F1.jpg",
+            "menu_name": "한돈 수제 매운왕갈비",
+            "price": "17,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20221125_117%2F1669349007809DWRp1_JPEG%2F%25BC%25D2%25BB%25FD%25B0%25A5%25BA%25F1.jpg",
+            "menu_name": "소 생갈비",
+            "price": "32,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20221125_275%2F16693490249450mp54_JPEG%2F%25BE%25E7%25B3%25E4%25BC%25D2%25B0%25A5%25BA%25F1.jpg",
+            "menu_name": "양념 소갈비",
+            "price": "30,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20221125_257%2F1669348974726TbAU7_JPEG%2FLA%25BE%25E7%25B3%25E4%25B0%25A5%25BA%25F1.jpg",
+            "menu_name": "LA갈비",
+            "price": "20,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20221125_142%2F1669348990606OSWP5_JPEG%2F%25B8%25C5%25BF%25EELA%25BE%25E7%25B3%25E4%25B0%25A5%25BA%25F1.jpg",
+            "menu_name": "매운LA갈비",
+            "price": "21,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20221125_294%2F1669349083404aSuBv_JPEG%2F%25B5%25C5%25C1%25F6%25B0%25A5%25BA%25F1.jpg",
+            "menu_name": "돼지갈비",
+            "price": "12,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20221125_83%2F1669349095631U0rsG_JPEG%2F%25B8%25C5%25BF%25EE%25B5%25C5%25C1%25F6%25B0%25A5%25BA%25F1.jpg",
+            "menu_name": "매운 돼지갈비",
+            "price": "13,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20221215_278%2F1671065827976B4cN7_JPEG%2F%25BE%25E7%25B3%25E4%25B8%25F1%25BB%25EC.jpg",
+            "menu_name": "양념목살",
+            "price": "12,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20221215_134%2F16710658467921p83y_JPEG%2F%25B8%25C5%25BF%25EE%25BE%25E7%25B3%25E4%25B8%25F1%25BB%25EC.jpg",
+            "menu_name": "매운양념목살",
+            "price": "13,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241211_276%2F17338661224610pzkN_JPEG%2F%25B0%25A5%25BA%25F1%25C5%25C1.JPG",
+            "menu_name": "왕갈비탕",
+            "price": "13,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241211_138%2F1733866243711EQEuv_JPEG%2F%25C7%25D1%25BF%25EC%25B1%25B9%25B9%25E4.JPG",
+            "menu_name": "한우스지국밥",
+            "price": "13,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241211_296%2F1733866204600EVnO3_JPEG%2F%25C7%25D1%25BF%25EC%25B1%25B9%25B9%25E4.JPG",
+            "menu_name": "한우국밥",
+            "price": "10,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241211_287%2F1733866311612G3EnC_JPEG%2F%25C7%25D1%25BF%25EC%25B0%25F5%25C5%25C1.JPG",
+            "menu_name": "한우곰탕(준비중)",
+            "price": "12,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241211_214%2F1733868123350doyRw_JPEG%2F%25C0%25B0%25C8%25B8%25BA%25F1%25BA%25F6%25B9%25E4.JPG",
+            "menu_name": "한우 육회비빔밥(준비중)",
+            "price": "12,000원"
+        }
+    ]
+}

@@ -1,0 +1,44 @@
+{
+    "store_name": "Chai797 롯데백화점 포항점",
+    "store_location": "경북 포항시 북구 학산로 62 롯데백화점 포항점 9층",
+    "loc_x": "413457.339843014",
+    "loc_y": "285842.648592678",
+    "menu": [
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240809_204%2F1723167590825NRaMO_PNG%2F1.%25BB%25EF%25BC%25B1%25C2%25A5%25C0%25E5%25B8%25E9.png",
+            "menu_name": "삼선짜장면",
+            "price": "10,900원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240809_176%2F1723167676472GhR9N_PNG%2F2.%25C1%25F7%25C8%25AD%25C1%25D6%25B2%25D9%25B9%25CC%25C0%25EF%25B9%25DD%25C2%25A5%25C0%25E5%25281%25C0%25CE%2529.png",
+            "menu_name": "직화주꾸미 쟁반 짜장",
+            "price": "16,500원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240809_97%2F1723167813853OSN5z_JPEG%2F3.%25B0%25ED%25B1%25E2%25C2%25AB%25BB%25CD.jpg",
+            "menu_name": "고기짬뽕",
+            "price": "12,500원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240809_40%2F17231678569478BeW2_PNG%2F4.%25C5%25C1%25BC%25F6%25C0%25B0.png",
+            "menu_name": "탕수육",
+            "price": "36,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240809_55%2F1723167959339JrnSS_PNG%2F5.%25BC%25D2%25B7%25D5%25C6%25F7.png",
+            "menu_name": "소롱포(4pcs)",
+            "price": "6,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240809_44%2F1723168015126br5NT_PNG%2F6.%25B8%25B6%25B4%25C3%25BA%25BA%25C0%25BD%25B9%25E4.png",
+            "menu_name": "토종마늘볶음밥",
+            "price": "13,500원"
+        }
+    ]
+}

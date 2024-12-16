@@ -1,0 +1,236 @@
+{
+    "store_name": "꼬미김밥",
+    "store_location": "경기 화성시 동탄대로 446 1층 1028호 꼬미김밥",
+    "loc_x": "208811.857475023",
+    "loc_y": "410176.861732223",
+    "menu": [
+        {
+            "category": "인기 메뉴",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20240201_137/1706777783707mdNeY_JPEG/image%285%29.jpg?type=f220_220_60_sharpen",
+            "menu_name": "참치김밥인기",
+            "price": "6,000원"
+        },
+        {
+            "category": "인기 메뉴",
+            "img_src": "",
+            "menu_name": "꼬미김밥(기본)인기",
+            "price": "5,000원"
+        },
+        {
+            "category": "인기 메뉴",
+            "img_src": "",
+            "menu_name": "스팸 김밥인기",
+            "price": "6,000원"
+        },
+        {
+            "category": "인기 메뉴",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20240201_69/17067777494607LwiR_JPEG/image.jpg?type=f220_220_60_sharpen",
+            "menu_name": "땡초고기 김밥매운맛2단계인기대표",
+            "price": "6,000원"
+        },
+        {
+            "category": "인기 메뉴",
+            "img_src": "",
+            "menu_name": "치즈김밥인기",
+            "price": "6,000원"
+        },
+        {
+            "category": "사장님 추천 메뉴",
+            "img_src": "",
+            "menu_name": "와사비참치김밥대표",
+            "price": "6,500원"
+        },
+        {
+            "category": "사장님 추천 메뉴",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20240201_69/17067777494607LwiR_JPEG/image.jpg?type=f220_220_60_sharpen",
+            "menu_name": "땡초고기 김밥매운맛2단계인기대표",
+            "price": "6,000원"
+        },
+        {
+            "category": "사장님 추천 메뉴",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20240201_136/1706777792519TRdV1_JPEG/image%286%29.jpg?type=f220_220_60_sharpen",
+            "menu_name": "떡볶이+꼬미 3줄대표",
+            "price": "9,000원"
+        },
+        {
+            "category": "사장님 추천 메뉴",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20240201_71/1706777756468rr8wU_JPEG/image%282%29.jpg?type=f220_220_60_sharpen",
+            "menu_name": "라볶이+꼬미 3줄대표",
+            "price": "10,000원"
+        },
+        {
+            "category": "사장님 추천 메뉴",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20240201_23/1706777771488ULzsH_JPEG/image%284%29.jpg?type=f220_220_60_sharpen",
+            "menu_name": "라면+꼬미 3줄대표",
+            "price": "7,500원"
+        },
+        {
+            "category": "김밥&분식류",
+            "img_src": "",
+            "menu_name": "라볶이",
+            "price": "7,000원"
+        },
+        {
+            "category": "김밥&분식류",
+            "img_src": "",
+            "menu_name": "옛날우동",
+            "price": "6,000원"
+        },
+        {
+            "category": "김밥&분식류",
+            "img_src": "",
+            "menu_name": "어묵탕",
+            "price": "5,500원"
+        },
+        {
+            "category": "김밥&분식류",
+            "img_src": "",
+            "menu_name": "라면",
+            "price": "4,500원"
+        },
+        {
+            "category": "김밥&분식류",
+            "img_src": "",
+            "menu_name": "떡라면",
+            "price": "5,000원"
+        },
+        {
+            "category": "김밥&분식류",
+            "img_src": "",
+            "menu_name": "치즈라면",
+            "price": "5,000원"
+        },
+        {
+            "category": "김밥&분식류",
+            "img_src": "",
+            "menu_name": "떡볶이",
+            "price": "6,000원"
+        },
+        {
+            "category": "김밥&분식류",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20240201_137/1706777783707mdNeY_JPEG/image%285%29.jpg?type=f220_220_60_sharpen",
+            "menu_name": "참치김밥인기",
+            "price": "6,000원"
+        },
+        {
+            "category": "김밥&분식류",
+            "img_src": "",
+            "menu_name": "와사비크래미김밥",
+            "price": "6,500원"
+        },
+        {
+            "category": "김밥&분식류",
+            "img_src": "",
+            "menu_name": "크래미김밥",
+            "price": "6,000원"
+        },
+        {
+            "category": "김밥&분식류",
+            "img_src": "",
+            "menu_name": "매운 어묵김밥매운맛1단계",
+            "price": "5,500원"
+        },
+        {
+            "category": "김밥&분식류",
+            "img_src": "",
+            "menu_name": "핫 진미채 김밥",
+            "price": "6,000원"
+        },
+        {
+            "category": "김밥&분식류",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20240201_69/17067777494607LwiR_JPEG/image.jpg?type=f220_220_60_sharpen",
+            "menu_name": "땡초고기 김밥매운맛2단계인기대표",
+            "price": "6,000원"
+        },
+        {
+            "category": "김밥&분식류",
+            "img_src": "",
+            "menu_name": "스팸 김밥인기",
+            "price": "6,000원"
+        },
+        {
+            "category": "김밥&분식류",
+            "img_src": "",
+            "menu_name": "와사비참치김밥대표",
+            "price": "6,500원"
+        },
+        {
+            "category": "김밥&분식류",
+            "img_src": "",
+            "menu_name": "꼬미김밥(기본)인기",
+            "price": "5,000원"
+        },
+        {
+            "category": "김밥&분식류",
+            "img_src": "",
+            "menu_name": "치즈김밥인기",
+            "price": "6,000원"
+        },
+        {
+            "category": "셋트메뉴",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20240201_23/1706777771488ULzsH_JPEG/image%284%29.jpg?type=f220_220_60_sharpen",
+            "menu_name": "라면+꼬미 3줄대표",
+            "price": "7,500원"
+        },
+        {
+            "category": "셋트메뉴",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20240201_136/1706777792519TRdV1_JPEG/image%286%29.jpg?type=f220_220_60_sharpen",
+            "menu_name": "떡볶이+꼬미 3줄대표",
+            "price": "9,000원"
+        },
+        {
+            "category": "셋트메뉴",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20240201_71/1706777756468rr8wU_JPEG/image%282%29.jpg?type=f220_220_60_sharpen",
+            "menu_name": "라볶이+꼬미 3줄대표",
+            "price": "10,000원"
+        },
+        {
+            "category": "음료",
+            "img_src": "",
+            "menu_name": "나랑드사이다",
+            "price": "2,000원"
+        },
+        {
+            "category": "음료",
+            "img_src": "",
+            "menu_name": "사이다",
+            "price": "2,000원"
+        },
+        {
+            "category": "음료",
+            "img_src": "",
+            "menu_name": "제로콜라",
+            "price": "2,000원"
+        },
+        {
+            "category": "음료",
+            "img_src": "",
+            "menu_name": "뽀로로",
+            "price": "2,000원"
+        },
+        {
+            "category": "음료",
+            "img_src": "",
+            "menu_name": "콜라",
+            "price": "2,000원"
+        },
+        {
+            "category": "음료",
+            "img_src": "",
+            "menu_name": "청포도 에이드",
+            "price": "5,000원"
+        },
+        {
+            "category": "음료",
+            "img_src": "",
+            "menu_name": "레몬 에이드",
+            "price": "5,000원"
+        },
+        {
+            "category": "음료",
+            "img_src": "",
+            "menu_name": "자몽 에이드",
+            "price": "5,000원"
+        }
+    ]
+}

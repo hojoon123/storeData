@@ -1,0 +1,14 @@
+{
+    "store_name": "마리뜨",
+    "store_location": "충북 충주시 금릉로 77 1층, 101호",
+    "loc_x": "282241.175574722",
+    "loc_y": "387424.522488184",
+    "menu": [
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241215_76%2F17341957505238gqwN_PNG%2FIMG_4216.png",
+            "menu_name": "생화 케이크",
+            "price": "변동"
+        }
+    ]
+}

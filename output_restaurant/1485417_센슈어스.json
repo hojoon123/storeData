@@ -1,0 +1,152 @@
+{
+    "store_name": "센슈어스",
+    "store_location": "제주 제주시 수덕5길 85-11 1층 센슈어스",
+    "loc_x": "150835.527189537",
+    "loc_y": "-1529.79721054025",
+    "menu": [
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241211_123%2F1733851791983WUuhg_JPEG%2FNO_00095.jpg",
+            "menu_name": "차콜드 치킨 시저 샐러드",
+            "price": "15,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241211_195%2F1733851831624pSI6j_JPEG%2FNO_00085.jpg",
+            "menu_name": "리코타치즈 체리토마토 샐러드",
+            "price": "13,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241211_246%2F1733851852941eJW1d_JPEG%2FNO_00041.jpg",
+            "menu_name": "관자구이 시즌샐러드",
+            "price": "19,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241211_193%2F1733851869075ABjxB_JPEG%2FNO_00112.jpg",
+            "menu_name": "[Dinner] 프렌치 비프타르타르",
+            "price": "25,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241211_71%2F1733851880909ikIb4_JPEG%2FNO_00106.jpg",
+            "menu_name": "[Dinner] 홍합과 프렌치프라이",
+            "price": "21,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241211_67%2F1733851894079yXJe7_JPEG%2FNO_00150.jpg",
+            "menu_name": "[Dinner] 깔라마리 & 라르도",
+            "price": "16,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241211_61%2F1733851923680PYJsA_JPEG%2FNO_00065.jpg",
+            "menu_name": "스트라치아텔라 체리토마토 스파게티",
+            "price": "16,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241211_48%2F1733851940937BsgGc_JPEG%2FNO_00055.jpg",
+            "menu_name": "바질 페스토 봉골레 링귀니",
+            "price": "18,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241211_71%2F1733851954326qmHsO_JPEG%2FNO_00072.jpg",
+            "menu_name": "화이트 한우 라구 링귀니",
+            "price": "19,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241211_168%2F1733851966276KrnCG_JPEG%2FNO_00082.jpg",
+            "menu_name": "초리조 크림 파케리",
+            "price": "17,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241211_253%2F1733851984742jsj04_JPEG%2FNO_00028.jpg",
+            "menu_name": "스파이시 해산물 토마토 라비올리 스프",
+            "price": "21,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241211_235%2F1733852004301gY2JU_JPEG%2FNO_00137.jpg",
+            "menu_name": "차콜드 닭다리살 버섯 리조또",
+            "price": "21,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241211_52%2F17338520371728VUXr_JPEG%2FNO_00045.jpg",
+            "menu_name": "나폴리 마르게리따 피자",
+            "price": "16,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241211_279%2F1733852254747h42Ct_JPEG%2FNO_00053.jpg",
+            "menu_name": "페퍼로니&살시차 피자",
+            "price": "17,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241211_225%2F1733852137091w6H5U_JPEG%2FNO_00064.jpg",
+            "menu_name": "바질 페스토 해산물 피자",
+            "price": "19,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241211_78%2F1733852149528Rkhlx_JPEG%2FNO_00044.jpg",
+            "menu_name": "머쉬룸과 오리라구 피자",
+            "price": "18,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241211_38%2F1733852284385ugDUX_JPEG%2FNO_00132.jpg",
+            "menu_name": "프렌치 치킨 프리카세",
+            "price": "22,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241211_83%2F17338523026682mWiq_JPEG%2FNO_00160.jpg",
+            "menu_name": "차콜드 제주 가브리살",
+            "price": "26,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241211_82%2F1733852323850DD50G_JPEG%2FNO_00078.jpg",
+            "menu_name": "오늘의 제철생선",
+            "price": "변동"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241211_138%2F1733852337102fyHdO_JPEG%2FNO_00088.jpg",
+            "menu_name": "드라이 에이징 오리가슴살 스테이크",
+            "price": "28,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241211_158%2F1733852347730exnUT_JPEG%2FNO_00143.jpg",
+            "menu_name": "한우 등심 스테이크 (사전예약)",
+            "price": "48,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241211_29%2F1733852365307oFsYv_JPEG%2FNO_00121.jpg",
+            "menu_name": "센슈어스 클래식 티라미수",
+            "price": "9,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241211_175%2F1733852377264rkGBd_JPEG%2FNO_00089.jpg",
+            "menu_name": "프렌치 얼그레이 판나코타",
+            "price": "8,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241210_13%2F1733769158397YYmzy_PNG%2F5.png",
+            "menu_name": "와인ㅣ이탈리아맥주ㅣ탄산음료ㅣ커피ㅣ티",
+            "price": "변동"
+        }
+    ]
+}

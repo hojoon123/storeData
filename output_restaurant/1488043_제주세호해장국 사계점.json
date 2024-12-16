@@ -1,0 +1,134 @@
+{
+    "store_name": "제주세호해장국 사계점",
+    "store_location": "제주 서귀포시 안덕면 사계남로153번길 2 1층",
+    "loc_x": "135281.750049026",
+    "loc_y": "-29459.2510366729",
+    "menu": [
+        {
+            "category": "사장님 추천 메뉴",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20231221_117/1703147468758FsuCF_JPEG/%C5%A9%B1%E2%BA%AF%C8%AF%BC%D2%B0%A5%BA%F1%C7%D8%C0%E5%B1%B92.jpg?type=f220_220_60_sharpen",
+            "menu_name": "소갈비해장국대표",
+            "price": "15,000원"
+        },
+        {
+            "category": "사장님 추천 메뉴",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20231221_25/17031475101410eOsR_JPEG/%C5%A9%B1%E2%BA%AF%C8%AF%B3%BB%C0%E5%C5%C1.jpg?type=f220_220_60_sharpen",
+            "menu_name": "내장탕대표",
+            "price": "12,000원"
+        },
+        {
+            "category": "해장국",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20231222_223/1703215434426zAAwo_JPEG/%C2%F7%B5%B9%C7%D8%C0%E5%B1%B9.jpg?type=f220_220_60_sharpen",
+            "menu_name": "차돌해장국",
+            "price": "11,000원"
+        },
+        {
+            "category": "해장국",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20231222_173/1703214972411bpLX3_JPEG/%B8%F1%BB%C0%B0%A5%BA%F1%C5%C1.jpg?type=f220_220_60_sharpen",
+            "menu_name": "목뼈갈비탕(소뼈해장국)",
+            "price": "11,000원"
+        },
+        {
+            "category": "해장국",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20231222_207/1703215450572X1CpO_JPEG/%C7%D1%BF%EC%BC%D2%B8%D3%B8%AE%C7%D8%C0%E5%B1%B9.jpg?type=f220_220_60_sharpen",
+            "menu_name": "한우소머리해장국",
+            "price": "11,000원"
+        },
+        {
+            "category": "해장국",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20231221_117/1703147468758FsuCF_JPEG/%C5%A9%B1%E2%BA%AF%C8%AF%BC%D2%B0%A5%BA%F1%C7%D8%C0%E5%B1%B92.jpg?type=f220_220_60_sharpen",
+            "menu_name": "소갈비해장국대표",
+            "price": "15,000원"
+        },
+        {
+            "category": "해장국",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20231222_42/1703215112420ibllM_JPEG/%BC%B1%C1%F6%C7%D8%C0%E5%B1%B9.jpg?type=f220_220_60_sharpen",
+            "menu_name": "선지해장국",
+            "price": "8,000원"
+        },
+        {
+            "category": "해장국",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20231221_25/17031475101410eOsR_JPEG/%C5%A9%B1%E2%BA%AF%C8%AF%B3%BB%C0%E5%C5%C1.jpg?type=f220_220_60_sharpen",
+            "menu_name": "내장탕대표",
+            "price": "12,000원"
+        },
+        {
+            "category": "전골",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20231222_236/1703215265667rshGE_JPEG/%C7%D8%C0%E5%C0%FC%B0%F1%C0%DB%C0%BA%B0%C5.jpg?type=f220_220_60_sharpen",
+            "menu_name": "해장전골(작은거)",
+            "price": "32,000원"
+        },
+        {
+            "category": "전골",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20231222_269/1703215417000JvGGM_JPEG/%C7%D8%C0%E5%C0%FC%B0%F1%C5%AB%B0%C5.jpg?type=f220_220_60_sharpen",
+            "menu_name": "모듬전골(큰거)",
+            "price": "44,000원"
+        },
+        {
+            "category": "전골",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20231222_206/1703215301819gX9mQ_JPEG/%C7%D8%C0%E5%C0%FC%B0%F1%C5%AB%B0%C5.jpg?type=f220_220_60_sharpen",
+            "menu_name": "해장전골(큰거)",
+            "price": "42,000원"
+        },
+        {
+            "category": "전골",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20231222_290/1703215332882l6JLt_JPEG/%B3%BB%C0%E5%C0%FC%B0%F1%C0%DB%C0%BA%B0%C5.jpg?type=f220_220_60_sharpen",
+            "menu_name": "내장전골(작은거)",
+            "price": "32,000원"
+        },
+        {
+            "category": "전골",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20231222_186/1703215396615KGRuQ_JPEG/%C7%D8%C0%E5%C0%FC%B0%F1%C5%AB%B0%C5.jpg?type=f220_220_60_sharpen",
+            "menu_name": "모듬전골(작은거)",
+            "price": "34,000원"
+        },
+        {
+            "category": "전골",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20231222_90/1703215357948w66Sl_JPEG/%C7%D8%C0%E5%C0%FC%B0%F1%C5%AB%B0%C5.jpg?type=f220_220_60_sharpen",
+            "menu_name": "내장전골(큰거)",
+            "price": "42,000원"
+        },
+        {
+            "category": "편육,뼈찜,수육",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20231222_21/1703215228621zdYgO_PNG/%C5%A9%B1%E2%BA%AF%C8%AF%C7%D1%BF%EC%C6%ED%C0%B0.png?type=f220_220_60_sharpen",
+            "menu_name": "한우편육",
+            "price": "20,000원"
+        },
+        {
+            "category": "편육,뼈찜,수육",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20231222_207/1703215142950GPavc_JPEG/%C7%D1%BF%EC%BC%F6%C0%B0.jpg?type=f220_220_60_sharpen",
+            "menu_name": "한우수육",
+            "price": "42,000원"
+        },
+        {
+            "category": "편육,뼈찜,수육",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20231222_171/17032152021210yALt_JPEG/%C5%A9%B1%E2%BA%AF%C8%AF%BF%D5%BC%D2%BB%C0%C2%F2.jpg?type=f220_220_60_sharpen",
+            "menu_name": "왕소뼈찜(매운거/안매운거)",
+            "price": "39,000원"
+        },
+        {
+            "category": "음료",
+            "img_src": "",
+            "menu_name": "막걸리",
+            "price": "3,000원"
+        },
+        {
+            "category": "음료",
+            "img_src": "",
+            "menu_name": "소주",
+            "price": "5,000원"
+        },
+        {
+            "category": "음료",
+            "img_src": "",
+            "menu_name": "맥주",
+            "price": "5,000원"
+        },
+        {
+            "category": "음료",
+            "img_src": "",
+            "menu_name": "음료수",
+            "price": "2,000원"
+        }
+    ]
+}

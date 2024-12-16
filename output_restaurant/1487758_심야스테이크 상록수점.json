@@ -1,0 +1,218 @@
+{
+    "store_name": "심야스테이크 상록수점",
+    "store_location": "경기 안산시 상록구 본삼로 51 104호",
+    "loc_x": "188039.338430128",
+    "loc_y": "422128.686118955",
+    "menu": [
+        {
+            "category": "대표메뉴",
+            "img_src": "",
+            "menu_name": "스테이크(200g)",
+            "price": "16,900원"
+        },
+        {
+            "category": "대표메뉴",
+            "img_src": "",
+            "menu_name": "스테이크(400g)",
+            "price": "33,000원"
+        },
+        {
+            "category": "대표메뉴",
+            "img_src": "",
+            "menu_name": "스테이크(600g)",
+            "price": "48,000원"
+        },
+        {
+            "category": "대표메뉴",
+            "img_src": "",
+            "menu_name": "스테이크덮밥",
+            "price": "19,900원"
+        },
+        {
+            "category": "대표메뉴",
+            "img_src": "",
+            "menu_name": "스테이크샐러드(200g)",
+            "price": "20,900원"
+        },
+        {
+            "category": "대표메뉴",
+            "img_src": "",
+            "menu_name": "스테이크샐러드(400g)",
+            "price": "40,000원"
+        },
+        {
+            "category": "대표메뉴",
+            "img_src": "",
+            "menu_name": "버섯크림파스타",
+            "price": "12,900원"
+        },
+        {
+            "category": "대표메뉴",
+            "img_src": "",
+            "menu_name": "불고기로제파스타",
+            "price": "12,900원"
+        },
+        {
+            "category": "대표메뉴",
+            "img_src": "",
+            "menu_name": "짬뽕해물파스타",
+            "price": "16,900원"
+        },
+        {
+            "category": "[스테이크메뉴]",
+            "img_src": "",
+            "menu_name": "스테이크(200g)",
+            "price": "16,900원"
+        },
+        {
+            "category": "[스테이크메뉴]",
+            "img_src": "",
+            "menu_name": "스테이크(400g)",
+            "price": "33,000원"
+        },
+        {
+            "category": "[스테이크메뉴]",
+            "img_src": "",
+            "menu_name": "스테이크(600g)",
+            "price": "48,000원"
+        },
+        {
+            "category": "[스테이크메뉴]",
+            "img_src": "",
+            "menu_name": "스테이크덮밥",
+            "price": "19,900원"
+        },
+        {
+            "category": "[스테이크메뉴]",
+            "img_src": "",
+            "menu_name": "스테이크샐러드(200g)",
+            "price": "20,900원"
+        },
+        {
+            "category": "[스테이크메뉴]",
+            "img_src": "",
+            "menu_name": "스테이크샐러드(400g)",
+            "price": "40,000원"
+        },
+        {
+            "category": "[스테이크메뉴]",
+            "img_src": "",
+            "menu_name": "찹스테이크(200g)",
+            "price": "20,900원"
+        },
+        {
+            "category": "[스테이크메뉴]",
+            "img_src": "",
+            "menu_name": "찹스테이크(400g)",
+            "price": "40,000원"
+        },
+        {
+            "category": "[파스타메뉴]",
+            "img_src": "",
+            "menu_name": "버섯크림파스타",
+            "price": "12,900원"
+        },
+        {
+            "category": "[파스타메뉴]",
+            "img_src": "",
+            "menu_name": "불고기로제파스타",
+            "price": "12,900원"
+        },
+        {
+            "category": "[파스타메뉴]",
+            "img_src": "",
+            "menu_name": "매콤해물로제파스타",
+            "price": "13,900원"
+        },
+        {
+            "category": "[파스타메뉴]",
+            "img_src": "",
+            "menu_name": "새우오일파스타",
+            "price": "13,900원"
+        },
+        {
+            "category": "[파스타메뉴]",
+            "img_src": "",
+            "menu_name": "짬뽕해물파스타",
+            "price": "16,900원"
+        },
+        {
+            "category": "[파스타메뉴]",
+            "img_src": "",
+            "menu_name": "봉골레파스타",
+            "price": "14,900원"
+        },
+        {
+            "category": "사이드메뉴",
+            "img_src": "",
+            "menu_name": "바지락술찜",
+            "price": "21,800원"
+        },
+        {
+            "category": "사이드메뉴",
+            "img_src": "",
+            "menu_name": "왕새우감바스",
+            "price": "21,800원"
+        },
+        {
+            "category": "사이드메뉴",
+            "img_src": "",
+            "menu_name": "빵추가",
+            "price": "3,000원"
+        },
+        {
+            "category": "사이드메뉴",
+            "img_src": "",
+            "menu_name": "국물떡볶이",
+            "price": "9,000원"
+        },
+        {
+            "category": "사이드메뉴",
+            "img_src": "",
+            "menu_name": "맥앤치즈",
+            "price": "9,000원"
+        },
+        {
+            "category": "사이드메뉴",
+            "img_src": "",
+            "menu_name": "명란마요감자",
+            "price": "9,000원"
+        },
+        {
+            "category": "탄산음료",
+            "img_src": "",
+            "menu_name": "펩시콜라 뚱캔",
+            "price": "2,000원"
+        },
+        {
+            "category": "탄산음료",
+            "img_src": "",
+            "menu_name": "환타 파인 뚱캔",
+            "price": "2,000원"
+        },
+        {
+            "category": "탄산음료",
+            "img_src": "",
+            "menu_name": "칠성사이다 뚱캔",
+            "price": "2,000원"
+        },
+        {
+            "category": "탄산음료",
+            "img_src": "",
+            "menu_name": "코카콜라 제로 뚱캔",
+            "price": "2,000원"
+        },
+        {
+            "category": "탄산음료",
+            "img_src": "",
+            "menu_name": "코카콜라 뚱캔",
+            "price": "2,000원"
+        },
+        {
+            "category": "탄산음료",
+            "img_src": "",
+            "menu_name": "환타 오렌지 뚱캔",
+            "price": "2,000원"
+        }
+    ]
+}

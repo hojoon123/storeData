@@ -1,0 +1,14 @@
+{
+    "store_name": "김기랑푸드",
+    "store_location": "울산 북구 매산로 92-15 지상1층",
+    "loc_x": "413484.763634405",
+    "loc_y": "240434.6332369",
+    "menu": [
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20230106_86%2F1672999196386YqfpA_JPEG%2F20221224_180822.jpg",
+            "menu_name": "참숯1인고급도시락세트",
+            "price": "17,900원"
+        }
+    ]
+}

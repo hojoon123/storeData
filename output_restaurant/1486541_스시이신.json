@@ -1,0 +1,26 @@
+{
+    "store_name": "스시이신",
+    "store_location": "대전 유성구 동서대로 693 지상3층",
+    "loc_x": "230455.159711269",
+    "loc_y": "314694.542627118",
+    "menu": [
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241123_199%2F1732343418544SA89P_JPEG%2F1000000034.jpg",
+            "menu_name": "런치오마카세 10p",
+            "price": "25,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241123_282%2F17323434701918kpbg_JPEG%2F1000000033.jpg",
+            "menu_name": "디너오마카세 10p",
+            "price": "35,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241123_229%2F1732343666388WLIOc_JPEG%2F1000000032.jpg",
+            "menu_name": "사시미1인(2인이상주문가능)",
+            "price": "50,000원"
+        }
+    ]
+}

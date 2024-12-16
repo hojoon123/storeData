@@ -1,0 +1,56 @@
+{
+    "store_name": "솥정옥",
+    "store_location": "대구 중구 국채보상로123길 3 1층",
+    "loc_x": "344175.739927691",
+    "loc_y": "264591.442495296",
+    "menu": [
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241212_300%2F1733978185716TmToR_JPEG%2FKakaoTalk_20241212_115318757_07.jpg",
+            "menu_name": "진한 돼지국밥",
+            "price": "9,500원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241212_263%2F1733978174269Uvtwu_JPEG%2FKakaoTalk_20241212_115318757_13.jpg",
+            "menu_name": "맑은 돼지곰탕",
+            "price": "10,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241212_219%2F1733978113495fwqwD_JPEG%2FKakaoTalk_20241212_115318757_10.jpg",
+            "menu_name": "맑은 돼지곰탕 국수",
+            "price": "11,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241212_108%2F1733978102116xBrCr_JPEG%2FKakaoTalk_20241212_115318757_08.jpg",
+            "menu_name": "고기국수(냉)",
+            "price": "10,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241212_181%2F1733978086736nQdsQ_JPEG%2FKakaoTalk_20241212_115318757_02.jpg",
+            "menu_name": "수육&보쌈김치",
+            "price": "26,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241212_145%2F1733978047224h9OV4_JPEG%2FKakaoTalk_20241212_115318757_04.jpg",
+            "menu_name": "냉채족발 샤브",
+            "price": "26,000원"
+        },
+        {
+            "category": "",
+            "img_src": "",
+            "menu_name": "맛보기 냉채족발 샤브",
+            "price": "12,000원"
+        },
+        {
+            "category": "",
+            "img_src": "",
+            "menu_name": "맛보기 수육",
+            "price": "12,000원"
+        }
+    ]
+}

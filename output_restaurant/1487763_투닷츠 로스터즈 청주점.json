@@ -1,0 +1,14 @@
+{
+    "store_name": "투닷츠 로스터즈 청주점",
+    "store_location": "충북 청주시 상당구 동남로 65",
+    "loc_x": "245784.593364729",
+    "loc_y": "344798.180414862",
+    "menu": [
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20231129_5%2F1701246191934jvvGt_JPEG%2FIMG_0845.jpeg",
+            "menu_name": "아메리카노",
+            "price": "5,000원"
+        }
+    ]
+}

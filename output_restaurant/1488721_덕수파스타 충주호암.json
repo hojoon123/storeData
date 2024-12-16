@@ -1,0 +1,170 @@
+{
+    "store_name": "덕수파스타 충주호암",
+    "store_location": "충북 충주시 호암토성5길 46 1층",
+    "loc_x": "282993.704591027",
+    "loc_y": "383894.086977557",
+    "menu": [
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240226_294%2F1708948998868MP7wF_JPEG%2F1._%25B6%25AF%25C3%25CA%25C5%25A9%25B8%25B2_%25C6%25C4%25BD%25BA%25C5%25B8.jpg",
+            "menu_name": "땡초 크림 파스타",
+            "price": "9,900원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240226_300%2F1708949003404s33wC_JPEG%2F2.%25B9%25F6%25C5%25CD%25BD%25BA%25C5%25D7%25C0%25CC%25C5%25A9.jpg",
+            "menu_name": "버터 스테이크",
+            "price": "38,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240226_269%2F1708949009355AN4xe_JPEG%2F3._%25C4%25A1%25C1%25EE%25BA%25D2%25B0%25ED%25B1%25E2_%25C7%25CA%25B6%25F3%25C7%25C1.jpg",
+            "menu_name": "치즈 불고기 필라프",
+            "price": "13,900원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240226_202%2F1708949014196ws7Tg_JPEG%2F4._%25B4%25EB%25C6%25D0_%25B1%25E8%25C4%25A1%25C7%25CA%25B6%25F3%25C7%25C1.jpg",
+            "menu_name": "대패 김치 필라프",
+            "price": "9,900원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240624_112%2F1719190670343Tu6aL_JPEG%2F12._%25BA%25D2%25B0%25ED%25B1%25E2%25B6%25AF%25C3%25CA%25C5%25A9%25B8%25B2%25C6%25C4%25BD%25BA%25C5%25B8.jpg",
+            "menu_name": "불고기 땡초 크림 파스타",
+            "price": "15,900원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240624_247%2F1719190643579NPQzj_JPEG%2F10._%25C6%25F7%25C5%25D7%25C0%25CC%25C5%25E4_%25B7%25CE%25C1%25A6%25B8%25AE%25C1%25B6%25B6%25C7.jpg",
+            "menu_name": "포테이토 로제 리조또",
+            "price": "15,900원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240226_166%2F1708949018910z45fp_JPEG%2F5._%25B4%25F6%25BC%25F6%25BB%25F8%25B7%25AF%25B5%25E5.jpg",
+            "menu_name": "덕수 샐러드",
+            "price": "9,900원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240226_133%2F1708949044516tbPCv_JPEG%2F8._%25B1%25A4%25BE%25E7%25BD%25C4%25BA%25D2%25B0%25ED%25B1%25E2_%25C4%25A1%25C1%25EE%25C6%25C4%25BD%25BA%25C5%25B8.jpg",
+            "menu_name": "광양식 불고기 치즈 파스타",
+            "price": "13,900원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240624_13%2F17191906336695v9QX_JPEG%2F6-1._%25BB%25EC%25C4%25A1%25BB%25EC%25C5%25A9%25B8%25B2%25C6%25C4%25BD%25BA%25C5%25B8_%2528%25B8%25AE%25B4%25BA%25BE%25F3%2529.jpg",
+            "menu_name": "살치살 크림 파스타",
+            "price": "17,900원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240226_197%2F1708949039973cJwx8_JPEG%2F7._%25B9%25D9%25C1%25FA%25C5%25A9%25B8%25B2%25C6%25C4%25BD%25BA%25C5%25B8.jpg",
+            "menu_name": "바질 크림 파스타",
+            "price": "14,900원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240624_20%2F1719190684164lUmq8_JPEG%2F13._%25BE%25DF%25B3%25A2%25B4%25CF%25B2%25D9%25C7%25CA%25B6%25F3%25C7%25C1.jpg",
+            "menu_name": "야끼니꾸 필라프",
+            "price": "15,900원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240624_130%2F1719190660572kKY26_JPEG%2F11._%25B8%25B6%25C3%25CA%25C6%25C4%25BD%25BA%25C5%25B8.jpg",
+            "menu_name": "마초 파스타",
+            "price": "12,900원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240226_19%2F17089490549731hbh2_JPEG%2F9._%25BF%25EC%25BB%25EF%25B0%25E3_%25B0%25A5%25B8%25AF%25BF%25C0%25C0%25CF_%25C6%25C4%25BD%25BA%25C5%25B8.jpg",
+            "menu_name": "우삼겹 갈릭 오일파스타",
+            "price": "10,900원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20231204_19%2F17016585611409SvrY_JPEG%2F%25BA%25A3%25C0%25CC%25C4%25C1%25C5%25A9%25B8%25B2%25B8%25AE%25C1%25B6%25B6%25C7%2528%25C8%25A6%25BF%25EB%2529.jpg",
+            "menu_name": "베이컨 크림 리조또",
+            "price": "13,900원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20231204_269%2F1701658535220yPrUq_JPEG%2F%25B8%25D3%25BD%25AC%25B7%25EB%25C5%25A9%25B8%25B2%25C6%25C4%25BD%25BA%25C5%25B8.jpg",
+            "menu_name": "머쉬룸 크림 파스타",
+            "price": "9,900원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20231204_113%2F1701658514453Bv5ri_JPEG%2F%25BA%25A3%25C0%25CC%25C4%25C1%25B7%25CE%25C1%25A6%25C6%25C4%25BD%25BA%25C5%25B8.jpg",
+            "menu_name": "베이컨 로제 파스타",
+            "price": "9,900원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20231204_151%2F1701658502673oINuv_JPEG%2F%25C5%25E4%25B8%25B6%25C5%25E4%25C6%25C4%25BD%25BA%25C5%25B8.jpg",
+            "menu_name": "토마토 파스타",
+            "price": "9,900원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20231204_295%2F1701658435412TjWal_JPEG%2F%25BE%25BE%25C7%25AA%25B5%25E5%25C4%25A5%25B8%25AE%25BF%25C0%25C0%25CF%25C6%25C4%25BD%25BA%25C5%25B8.jpg",
+            "menu_name": "씨푸드 칠리 오일파스타",
+            "price": "11,900원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240624_181%2F1719190622901kav1T_JPEG%2F19._%25C6%25E4%25C6%25E4%25B7%25CE%25B4%25CF_%25C4%25A1%25C1%25EE_%25C6%25C4%25BD%25BA%25C5%25B8_%2528%25B8%25AE%25B4%25BA%25BE%25F3%2529.jpg",
+            "menu_name": "페페로니 치즈 파스타",
+            "price": "12,900원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20231204_225%2F1701658387235RXqNn_JPEG%2F%25BF%25A1%25B1%25D7%25C7%25CA%25B6%25F3%25C7%25C1.jpg",
+            "menu_name": "에그 필라프",
+            "price": "12,900원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20231204_10%2F17016583637454MOkS_JPEG%2F%25B9%25D9%25C1%25FA_%25C5%25A9%25B8%25B2_%25B8%25AE%25C1%25B6%25B6%25C7.jpg",
+            "menu_name": "바질 크림 리조또",
+            "price": "14,900원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20231204_105%2F17016583409356xfSO_JPEG%2F%25B0%25A8%25B9%25D9%25BD%25BA.jpg",
+            "menu_name": "감바스",
+            "price": "13,900원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20231204_208%2F1701658255071W1FkM_JPEG%2F%25B9%25F6%25C6%25C8%25B7%25CE%25C0%25AE%25BA%25C010%25C1%25B6%25B0%25A2.jpg",
+            "menu_name": "버팔로 윙봉 10조각",
+            "price": "9,900원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20231204_276%2F1701658236173av7po_JPEG%2F3%25B1%25D7%25B8%25B0%25BB%25F8%25B7%25AF%25B5%25E5.jpg",
+            "menu_name": "그린 샐러드",
+            "price": "6,900원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240226_80%2F170894908097206crg_JPEG%2F%25B8%25C5%25BD%25C7%25C7%25CF%25C0%25CC%25BA%25BC.jpg",
+            "menu_name": "매실 하이볼",
+            "price": "5,900원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240226_256%2F1708949085334ixAeN_JPEG%2F%25BF%25C0%25B9%25CC%25C0%25DA_%25C7%25CF%25C0%25CC%25BA%25BC_%25282%2529.jpg",
+            "menu_name": "오미자 하이볼",
+            "price": "5,900원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240226_242%2F1708949089754P9bnj_JPEG%2F%25B8%25C5%25BD%25C7%25C7%25CF%25C0%25CC%25BA%25BC.jpg",
+            "menu_name": "덕수 하이볼",
+            "price": "5,900원"
+        }
+    ]
+}

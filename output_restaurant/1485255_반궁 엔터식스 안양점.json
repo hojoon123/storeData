@@ -1,0 +1,62 @@
+{
+    "store_name": "반궁 엔터식스 안양점",
+    "store_location": "경기 안양시 만안구 만안로 232 7층",
+    "loc_x": "",
+    "loc_y": "",
+    "menu": [
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241115_271%2F1731647634566jD83k_PNG%2F2.PNG",
+            "menu_name": "고등어된장찌개반상",
+            "price": "12,900원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241115_285%2F1731647593910JMThc_PNG%2F1.PNG",
+            "menu_name": "가자미구이 반상",
+            "price": "9,900원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241115_48%2F1731647680525o1YBC_PNG%2F4.PNG",
+            "menu_name": "고추장제육반상",
+            "price": "12,900원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241115_215%2F1731647657206jr7oF_PNG%2F3.PNG",
+            "menu_name": "갈치된장찌개반상",
+            "price": "15,900원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241115_84%2F1731647731693uq5ou_PNG%2F6.png",
+            "menu_name": "해물순두부찌개반상",
+            "price": "9,900원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241115_112%2F1731647810109H7GQx_JPEG%2F10.jpg",
+            "menu_name": "불맛쭈꾸미반상",
+            "price": "12,900원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241115_44%2F17316477790489q86w_PNG%2F8.png",
+            "menu_name": "미나리꼬막솥밥반상",
+            "price": "12,900원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241115_223%2F1731647754746KJIWK_PNG%2F7.png",
+            "menu_name": "삼색산나물솥밥반상",
+            "price": "9,900원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241115_189%2F17316477039206shDw_PNG%2F5.png",
+            "menu_name": "직화우삼겹구이반상",
+            "price": "12,900원"
+        }
+    ]
+}

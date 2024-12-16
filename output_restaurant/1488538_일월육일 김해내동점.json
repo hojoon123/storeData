@@ -1,0 +1,98 @@
+{
+    "store_name": "일월육일 김해내동점",
+    "store_location": "경남 김해시 경원로73번길 15 1층 116, 117호",
+    "loc_x": "369987.626342077",
+    "loc_y": "194864.15066153",
+    "menu": [
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20231207_248%2F1701918284889hClnq_JPEG%2F%25B4%25DC%25BB%25F5%25BF%25EC%252B%25C0%25CF%25BF%25F9%25C0%25B0%25C0%25CF_%25BF%25EC%25B4%25CF%25C7%25D1%25C6%25C7.JPEG",
+            "menu_name": "단새우+일월육일 우니 한판",
+            "price": "56,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20231207_249%2F1701918307940bfw0f_JPEG%2F%25BB%25FD%25BC%25B1%25B1%25B8%25C0%25CC%252B%25B9%25CC%25B4%25CF%25BB%25F5%25BF%25EC%25C0%25E5.JPEG",
+            "menu_name": "오늘의 생선구이+미니새우장",
+            "price": "변동"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20231207_286%2F1701918272810fyBlA_JPEG%2F%25C7%25D8%25BB%25EA%25B9%25B0%25C7%25D1%25C6%25C7.JPEG",
+            "menu_name": "해산물 한판",
+            "price": "49,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240312_82%2F171022059464109E4m_JPEG%2FKakaoTalk_20240312_141030734_16.jpg",
+            "menu_name": "백골뱅이 오뎅나베",
+            "price": "36,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240312_217%2F1710220448528dgmGS_JPEG%2FKakaoTalk_20240312_141030734_13.jpg",
+            "menu_name": "메로조림",
+            "price": "22,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20231207_24%2F1701918246966LkLku_JPEG%2F%25BB%25A1%25B0%25A3%25B8%25F0%25C3%25F7%25B3%25AA%25BA%25A3.JPEG",
+            "menu_name": "빨간모츠나베(한우대창)",
+            "price": "30,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240312_101%2F1710220700353CBXb6_JPEG%2FKakaoTalk_20240312_141030734_15.jpg",
+            "menu_name": "미소 모츠나베",
+            "price": "30,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20231207_101%2F1701918230673lGloF_JPEG%2F%25B2%25C9%25B0%25D4%25B3%25AA%25BA%25A3%25C7%25D1%25C6%25C7.JPEG",
+            "menu_name": "꽃게한판나베",
+            "price": "30,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20231207_84%2F1701918036096FjXWs_JPEG%2F%25C1%25B6%25B0%25B3%25BC%25FA%25C2%25F3.JPEG",
+            "menu_name": "감태조개술찜",
+            "price": "25,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20231207_151%2F1701918208470jfKpG_JPEG%2F%25B4%25DF%25B4%25D9%25B8%25AE%25BB%25EC%25B1%25B8%25C0%25CC.JPEG",
+            "menu_name": "닭다리살 직화구이(소금,양념,반반)",
+            "price": "21,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20231207_114%2F1701918154430CBdmb_JPEG%2F%25B8%25C5%25C4%25DE%25C7%25D1%25BF%25EC%25B4%25EB%25C3%25A2%25B1%25B8%25C0%25CC.JPEG",
+            "menu_name": "매콤 한우대창구이",
+            "price": "21,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240312_227%2F1710220561935hK44w_JPEG%2FKakaoTalk_20240312_141030734_27.jpg",
+            "menu_name": "조개소유라멘",
+            "price": "10,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240312_30%2F17102205328530F3Nz_JPEG%2FKakaoTalk_20240312_141030734_14.jpg",
+            "menu_name": "명란버터밥",
+            "price": "10,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240312_298%2F1710220502136B2ecz_JPEG%2FKakaoTalk_20240312_141030734_12.jpg",
+            "menu_name": "닭고기 대파우동",
+            "price": "10,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240312_1%2F17102208329413TaI5_JPEG%2FKakaoTalk_20240312_141030734_17.jpg",
+            "menu_name": "브리치즈 튀김",
+            "price": "15,000원"
+        }
+    ]
+}

@@ -1,0 +1,56 @@
+{
+    "store_name": "도깨비갈비찜",
+    "store_location": "제주 제주시 1100로 2933-20 제2동 지하1, 2층",
+    "loc_x": "152068.22467563",
+    "loc_y": "-5188.78734650821",
+    "menu": [
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241126_16%2F1732607822444xWNw6_JPEG%2F%25BC%25D2%25B0%25A5%25BA%25F1%25C2%25F2%25BB%25E7%25C1%25F8%25283%2529.jpg",
+            "menu_name": "소갈비찜(간장맛)",
+            "price": "30,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241126_160%2F1732607838127irE02_JPEG%2F%25B5%25C5%25C1%25F6%25B0%25A5%25BA%25F1%25C2%25F2%2528%25B8%25C5%25BF%25EE%25B8%25C0%2529%25BB%25E7%25C1%25F8.jpg",
+            "menu_name": "돼지갈비찜(매운맛)",
+            "price": "20,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241126_250%2F1732607922985ynnsL_JPEG%2F%25B0%25A5%25BA%25F1%25C5%25C1.jpg",
+            "menu_name": "소갈비탕",
+            "price": "15,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241126_26%2F1732607852530BOuK4_JPEG%2F%25B9%25B0%25B3%25C3%25B8%25E9.jpg",
+            "menu_name": "물냉면(평양식)",
+            "price": "12,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241126_203%2F1732607866753jwEFw_JPEG%2F%25BA%25F1%25BA%25F6%25B3%25C3%25B8%25E9.jpg",
+            "menu_name": "비빔냉면(평양식)",
+            "price": "12,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241126_268%2F1732607936784cXHJJ_JPEG%2F%25B0%25A5%25BA%25F1%25BB%25EC_%25B5%25C8%25C0%25E5%25C2%25EE%25B0%25B3.jpg",
+            "menu_name": "소갈비살 된장찌개",
+            "price": "10,000원"
+        },
+        {
+            "category": "",
+            "img_src": "",
+            "menu_name": "갈비탕 고기추가",
+            "price": "5,000원"
+        },
+        {
+            "category": "",
+            "img_src": "",
+            "menu_name": "냉면, 사리추가",
+            "price": "5,000원"
+        }
+    ]
+}

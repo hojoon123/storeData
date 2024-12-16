@@ -1,0 +1,80 @@
+{
+    "store_name": "빙화설지92만두",
+    "store_location": "경기 안양시 만안구 병목안로 15 BYC오피스텔 A동 1층 108호",
+    "loc_x": "",
+    "loc_y": "",
+    "menu": [
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241121_206%2F173216786348333yyq_JPEG%2F%25B1%25E8%25C4%25A1%25B0%25ED%25B1%25E2%252B%25C0%25B0%25C1%25F3%25B0%25ED%25B1%25E2.jpg",
+            "menu_name": "김치고기반+육즙고기반",
+            "price": "12,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241121_77%2F1732167107854eDiY6_JPEG%2F%25C8%25A3%25B9%25DA%25B0%25E8%25B6%25F5%252B%25C0%25B0%25C1%25F3%25B0%25ED%25B1%25E2.jpg",
+            "menu_name": "호박계란반+육즙고기반",
+            "price": "10,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241121_40%2F1732167015510vInC5_JPEG%2F%25C5%25EB%25BB%25F5%25BF%25EC%25B0%25ED%25B1%25E2%25B5%25F5%25BC%25B6.jpg",
+            "menu_name": "통새우고기딤섬",
+            "price": "14,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241121_20%2F1732166903286ld6Hl_JPEG%2F%25C8%25A3%25B9%25DA%25B0%25E8%25B6%25F592%25B8%25B8%25B5%25CE.jpg",
+            "menu_name": "호박계란92만두",
+            "price": "8,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241121_178%2F1732165309201PR9gS_JPEG%2F%25C7%25A5%25B0%25ED%25B9%25F6%25BC%25B8%25B0%25ED%25B1%25E292%25B8%25B8%25B5%25CE.jpg",
+            "menu_name": "표고버섯고기92만두",
+            "price": "12,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241121_238%2F1732165210158ebEPm_JPEG%2F%25B1%25E8%25C4%25A1%25B0%25ED%25B1%25E292%25B8%25B8%25B5%25CE.jpg",
+            "menu_name": "김치고기92만두",
+            "price": "10,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241121_43%2F1732165125667jppU6_JPEG%2F%25C5%25EB%25BB%25F5%25BF%25EC%25B0%25ED%25B1%25E292%25B8%25B8%25B5%25CE.jpg",
+            "menu_name": "통새우고기92만두",
+            "price": "14,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241121_208%2F1732164916843k7Rb1_JPEG%2F%25C0%25B0%25C1%25F392%25B8%25B8%25B5%25CE.jpg",
+            "menu_name": "육즙고기92만두",
+            "price": "12,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241121_238%2F1732167918556OG2Se_JPEG%2F%25C5%25EB%25BB%25F5%25BF%25EC%252B%25C0%25B0%25C1%25F3%25B0%25ED%25B1%25E2.jpg",
+            "menu_name": "통새우고기반+육즙고기반",
+            "price": "13,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241121_128%2F1732167748568oKfoe_JPEG%2F%25C7%25A5%25B0%25ED%25B9%25F6%25BC%25B8%252B%25C8%25A3%25B9%25DA%25B0%25E8%25B6%25F5.jpg",
+            "menu_name": "표고버섯고기반+호박계란반",
+            "price": "10,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241121_72%2F1732166962609XrfHU_JPEG%2F%25C0%25B0%25C1%25F3%25B0%25ED%25B1%25E2%25B5%25F5%25BC%25B6.jpg",
+            "menu_name": "육즙고기딤섬",
+            "price": "12,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241121_55%2F17321668388150cqWG_JPEG%2F%25C7%25D8%25B9%25B0%25B0%25ED%25B1%25E292%25B8%25B8%25B5%25CE.jpg",
+            "menu_name": "해물고기92만두",
+            "price": "12,000원"
+        }
+    ]
+}

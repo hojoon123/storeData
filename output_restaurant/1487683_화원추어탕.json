@@ -1,0 +1,62 @@
+{
+    "store_name": "화원추어탕",
+    "store_location": "대구 달성군 화원읍 화원로3길 17 1층",
+    "loc_x": "335435.822087702",
+    "loc_y": "257197.207816305",
+    "menu": [
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241129_188%2F1732865181867HKJCM_JPEG%2F1000004270.jpg",
+            "menu_name": "추어탕",
+            "price": "10,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241213_17%2F1734073061754EVcYH_JPEG%2F1000004993.jpg",
+            "menu_name": "닭볶음탕",
+            "price": "25,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241213_217%2F1734072932820ht2vm_JPEG%2F1000004991.jpg",
+            "menu_name": "돼지껍데기 볶음",
+            "price": "10,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241213_125%2F1734068829181subgM_JPEG%2F1000004984.jpg",
+            "menu_name": "해물부추전",
+            "price": "10,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241213_275%2F1734068857975qrwe4_JPEG%2F1000004984.jpg",
+            "menu_name": "땡초부추전",
+            "price": "8,000원"
+        },
+        {
+            "category": "",
+            "img_src": "",
+            "menu_name": "낚지볶음",
+            "price": "20,000원"
+        },
+        {
+            "category": "",
+            "img_src": "",
+            "menu_name": "생선모둠구이",
+            "price": "20,000원"
+        },
+        {
+            "category": "",
+            "img_src": "",
+            "menu_name": "돼지두루치기",
+            "price": "15,000원"
+        },
+        {
+            "category": "",
+            "img_src": "",
+            "menu_name": "두부김치",
+            "price": "12,000원"
+        }
+    ]
+}

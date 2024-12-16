@@ -1,0 +1,92 @@
+{
+    "store_name": "쿠시쿠시",
+    "store_location": "충북 청주시 청원구 율량로190번길 31 101호",
+    "loc_x": "244363.18443175",
+    "loc_y": "351722.437707225",
+    "menu": [
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20220723_134%2F1658572328012RMJNV_JPEG%2FB707A331-F44D-4898-9EB4-D22FB2D7C3F1.jpeg",
+            "menu_name": "닭모둠꼬치(11개)",
+            "price": "18,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20220723_169%2F1658571004477xQEaT_JPEG%2F08080A1F-08C6-4518-9DA2-F9B0B0C270B3.jpeg",
+            "menu_name": "모둠꼬치(23개)",
+            "price": "36,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20220723_92%2F1658572455821BAQOM_JPEG%2F08C9DE6C-29F9-44A7-879C-26C6EDF02C10.jpeg",
+            "menu_name": "기타 모둠꼬치(12P)",
+            "price": "18,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20220723_142%2F1658573687845AGad8_JPEG%2F10764FBD-2525-47B4-BD01-529C0FD1488F.jpeg",
+            "menu_name": "얼큰해물꼬치오뎅나베",
+            "price": "22,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20220723_186%2F16585737995391vl1g_JPEG%2F5CCC908A-EF96-4E60-BAEE-1F5D732EB37A.jpeg",
+            "menu_name": "얼큰해물짬뽕탕",
+            "price": "27,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240313_50%2F1710306154035By17z_JPEG%2FKakaoTalk_20240313_140033326_01.jpg",
+            "menu_name": "화평댁닭구이",
+            "price": "19,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240313_146%2F1710306251016ylXKA_JPEG%2FKakaoTalk_20240313_135749588_01.jpg",
+            "menu_name": "바삭닭똥집",
+            "price": "6,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20230428_298%2F1682679980480DDGgR_JPEG%2F90F65280-C120-463A-ACAA-3E5A9D195252.jpeg",
+            "menu_name": "어묵한사발",
+            "price": "8,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20230428_31%2F1682679993479pAGct_JPEG%2FB9B94B7E-588F-4B9E-98D0-81128E846F27.jpeg",
+            "menu_name": "해물라면",
+            "price": "8,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20220723_280%2F16585728590160Fuok_JPEG%2FE16D6907-B40E-4FDE-BE61-DE5C17EFEE7B.jpeg",
+            "menu_name": "파인애플 샤베트",
+            "price": "8,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20220723_255%2F1658573146988pQ6TS_JPEG%2F8C8E2FDA-11CC-4BE8-8596-7D5637E0949A.jpeg",
+            "menu_name": "가라아게",
+            "price": "10,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20220723_24%2F16585730023044zBNq_JPEG%2F5E9B15B8-3C40-4073-AFDB-CDEAD976B555.jpeg",
+            "menu_name": "꿀설탕토마토",
+            "price": "4,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20220723_196%2F1658573107183SRuRv_JPEG%2FBB93123C-B162-42B3-9862-4937C52683AF.jpeg",
+            "menu_name": "아이스 황도",
+            "price": "6,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20220723_281%2F1658573565760bfmzS_JPEG%2F19E82E9F-A644-4362-AEC9-46F5B30F62A0.jpeg",
+            "menu_name": "타코야끼",
+            "price": "5,000원"
+        }
+    ]
+}

@@ -1,0 +1,44 @@
+{
+    "store_name": "솔로투 분당점",
+    "store_location": "경기 용인시 처인구 모현읍 능원로132번길 4 1층",
+    "loc_x": "215241.605385278",
+    "loc_y": "425097.409566341",
+    "menu": [
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240822_212%2F17242869897811wv4a_JPEG%2FKakaoTalk_20240821_112925531_01.jpg",
+            "menu_name": "에스프레소 코스",
+            "price": "16,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240822_207%2F1724287008418RgqNN_JPEG%2FKakaoTalk_20240821_112925531.jpg",
+            "menu_name": "스페셜 코스",
+            "price": "30,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241111_172%2F1731286454098u9JP8_JPEG%2FIMG_3743.JPG",
+            "menu_name": "꼬레또 코스",
+            "price": "25,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241111_260%2F1731286623805Nzlfo_JPEG%2FKakaoTalk_20241111_095623135.jpg",
+            "menu_name": "샤커레또 코스",
+            "price": "25,000원"
+        },
+        {
+            "category": "",
+            "img_src": "",
+            "menu_name": "단품",
+            "price": "변동"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240822_142%2F1724293622272lGn7y_JPEG%2F%25C4%25B8%25C3%25B3.JPG",
+            "menu_name": "상하목장 주스",
+            "price": "2,000원"
+        }
+    ]
+}

@@ -1,0 +1,56 @@
+{
+    "store_name": "박가네 김치찜&김치찌개",
+    "store_location": "인천 동구 송림로 125 1층",
+    "loc_x": "168829.066522163",
+    "loc_y": "441724.43004193",
+    "menu": [
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240307_45%2F1709783797279IqVdq_JPEG%2FIMG_7206.jpeg",
+            "menu_name": "김치찜",
+            "price": "24,000~44,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20231219_14%2F1702969587826nfyIg_JPEG%2FIMG_2061.jpeg",
+            "menu_name": "김치찌개",
+            "price": "9,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20231219_205%2F1702969600604H68kK_JPEG%2FIMG_2060.jpeg",
+            "menu_name": "엄마손 된장찌개",
+            "price": "9,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20231219_232%2F1702969615377F8EWe_JPEG%2FIMG_2059.jpeg",
+            "menu_name": "우거지 청국장",
+            "price": "9,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240307_68%2F1709783812246ee2ve_JPEG%2FIMG_7208.jpeg",
+            "menu_name": "제육 두루치기",
+            "price": "10,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240131_181%2F1706667476993cmPJa_JPEG%2FIMG_4609.jpeg",
+            "menu_name": "수제 두부 떡갈비",
+            "price": "11,000원"
+        },
+        {
+            "category": "",
+            "img_src": "",
+            "menu_name": "떡만두국/ 만두국",
+            "price": "9,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240131_3%2F1706667487633lpSQ8_JPEG%2FIMG_4611.jpeg",
+            "menu_name": "감자피 만두",
+            "price": "5,000원"
+        }
+    ]
+}

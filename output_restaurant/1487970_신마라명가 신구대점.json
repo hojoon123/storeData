@@ -1,0 +1,134 @@
+{
+    "store_name": "신마라명가 신구대점",
+    "store_location": "경기 성남시 중원구 광명로 380 1층",
+    "loc_x": "214800.549103429",
+    "loc_y": "438281.410661145",
+    "menu": [
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240122_125%2F1705908731105zgQUW_JPEG%2F%25B8%25B6%25B6%25F3%25C5%25C1.jpg",
+            "menu_name": "[신]마라명가 마라탕 1인분",
+            "price": "10,500원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241207_145%2F1733501909137EAB7L_JPEG%2F%25B8%25B6%25B6%25F3%25C5%25C1.jpg",
+            "menu_name": "[신]마라명가 마라탕 1.5인분",
+            "price": "16,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241207_8%2F1733501969380BXr8q_JPEG%2F%25B8%25B6%25B6%25F3%25C5%25C1.jpg",
+            "menu_name": "[신]마라명가 마라탕 2인분",
+            "price": "20,500원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240122_68%2F1705908859791mnVT0_JPEG%2F%25B8%25B6%25B6%25F3%25BC%25A7%25B1%25C5.jpg",
+            "menu_name": "[신]마라명가 마라샹궈 1인분",
+            "price": "15,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241207_270%2F1733502274021cOkkv_JPEG%2F%25B8%25B6%25B6%25F3%25BC%25A7%25B1%25C5.jpg",
+            "menu_name": "[신]마라명가 마라샹궈 1.5인분",
+            "price": "22,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241207_237%2F17335023041722alqO_JPEG%2F%25B8%25B6%25B6%25F3%25BC%25A7%25B1%25C5.jpg",
+            "menu_name": "[신]마라명가 마라샹궈 2인분",
+            "price": "30,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240122_14%2F1705908795618tXi61_JPEG%2F%25B8%25B6%25B6%25F3%25C5%25C1.jpg",
+            "menu_name": "셀프 마라탕(최소12,000원)",
+            "price": "1,900원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240122_118%2F17059089323166JBbi_JPEG%2F%25B8%25B6%25B6%25F3%25BC%25A7%25B1%25C5.jpg",
+            "menu_name": "셀프 마라샹궈(최소15,000원)",
+            "price": "2,500원"
+        },
+        {
+            "category": "",
+            "img_src": "",
+            "menu_name": "A세트 마라탕+중화볶음밥",
+            "price": "16,000원"
+        },
+        {
+            "category": "",
+            "img_src": "",
+            "menu_name": "B세트 마라샹궈+중화볶음밥",
+            "price": "21,000원"
+        },
+        {
+            "category": "",
+            "img_src": "",
+            "menu_name": "C세트 마라탕+꿔바로우(소)",
+            "price": "20,000원"
+        },
+        {
+            "category": "",
+            "img_src": "",
+            "menu_name": "D세트 마라샹궈 + 꿔바로우(소)",
+            "price": "25,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240122_287%2F1705908988203uJ6bs_JPEG%2F%25B2%25E3%25B9%25D9%25B7%25CE%25BF%25EC.jpg",
+            "menu_name": "꿔바로우(소)",
+            "price": "11,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241207_27%2F1733502468867FdIgT_JPEG%2F%25B2%25E3%25B9%25D9%25B7%25CE%25BF%25EC.jpg",
+            "menu_name": "꿔바로우(중)",
+            "price": "16,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241207_164%2F1733502526739xVoPx_JPEG%2F%25B2%25E3%25B9%25D9%25B7%25CE%25BF%25EC.jpg",
+            "menu_name": "꿔바로우(대)",
+            "price": "21,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240122_21%2F1705908538259ANsBx_JPEG%2F%25BA%25BA%25C0%25BD%25B9%25E4_01.jpg",
+            "menu_name": "중화볶음밥",
+            "price": "7,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241207_145%2F1733502691130qyzQY_JPEG%2F%25BA%25BA%25C0%25BD%25B9%25E4_01.jpg",
+            "menu_name": "마라소고기볶음밥",
+            "price": "8,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240122_88%2F1705910085395Pqljx_JPEG%2FKakaoTalk_Photo_2024-01-22-15-55-56_006.jpeg",
+            "menu_name": "군만두(3p)",
+            "price": "3,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240122_78%2F1705910107403wILaw_JPEG%2FKakaoTalk_Photo_2024-01-22-15-55-56_007.jpeg",
+            "menu_name": "군만두(6p)",
+            "price": "6,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240122_126%2F1705909685817LSJmX_JPEG%2FKakaoTalk_Photo_2024-01-22-16-43-04_003.jpeg",
+            "menu_name": "칠리새우",
+            "price": "25,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240122_216%2F1705909752439OaDzu_JPEG%2FKakaoTalk_Photo_2024-01-22-16-43-04_002.jpeg",
+            "menu_name": "크림새우",
+            "price": "25,000원"
+        }
+    ]
+}

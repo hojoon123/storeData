@@ -1,0 +1,14 @@
+{
+    "store_name": "더곱이네 수영점",
+    "store_location": "부산 수영구 수영성로13번길 5-3 1층",
+    "loc_x": "392929.582657024",
+    "loc_y": "187678.657389168",
+    "menu": [
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20231223_270%2F1703298492471FqyE9_JPEG%2FIMG_9657.jpeg",
+            "menu_name": "순대곱창버섯전골",
+            "price": "32,000원"
+        }
+    ]
+}

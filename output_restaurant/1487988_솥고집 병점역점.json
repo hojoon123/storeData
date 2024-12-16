@@ -1,0 +1,128 @@
+{
+    "store_name": "솥고집 병점역점",
+    "store_location": "경기 화성시 병점노을7로 7 107호, 108호",
+    "loc_x": "202430.060689201",
+    "loc_y": "411665.446129421",
+    "menu": [
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20231219_118%2F1702972551141BRTat_JPEG%2F%25BC%25DC%25B6%25D1%25B2%25B1%25B1%25E8%25C4%25A1%25BB%25EF%25B0%25E3.jpg",
+            "menu_name": "솥뚜껑김치삼겹",
+            "price": "15,900원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20231219_282%2F1702972531969Iu3yI_JPEG%2F%25BC%25DC%25B6%25D1%25B2%25B1%25C2%25F7%25B5%25B9%25B1%25B8%25C0%25CC%2528%25BD%25C5%2529.jpg",
+            "menu_name": "솥뚜껑차돌박이",
+            "price": "18,900원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20231219_4%2F17029724783135876u_JPEG%2F%25BB%25EF%25B0%25E3%25BF%25A3%25B5%25C8%25C0%25E5.jpg",
+            "menu_name": "된장찌개전골 -단품메뉴",
+            "price": "15,900원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20231219_69%2F1702972422539hI9OL_JPEG%2F%25B5%25CE%25B7%25E7%25C4%25A1%25B1%25E2.jpg",
+            "menu_name": "생고기두루치기",
+            "price": "11,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20231219_118%2F1702972402285XvocL_JPEG%2F%25BC%25DC%25B6%25D1%25B2%25B1%25BA%25CE%25B4%25EB%25C2%25EE%25B0%25B3.jpg",
+            "menu_name": "솥뚜껑부대찌개",
+            "price": "10,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20231219_249%2F1702972382133eBUrH_JPEG%2F%25B1%25E8%25C4%25A1%25C2%25EE%25B0%25B3.jpg",
+            "menu_name": "솥뚜껑김치찌개",
+            "price": "10,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20231219_9%2F1702972341032AO32B_JPEG%2F%25B9%25B0%25B3%25C3%25B8%25E9.jpg",
+            "menu_name": "솥고집 물냉면",
+            "price": "7,900원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20231219_267%2F1702972331516LBoHp_JPEG%2F%25BA%25F1%25BA%25F6%25B3%25C3%25B8%25E9.jpg",
+            "menu_name": "솥고집 비빔냉면",
+            "price": "7,900원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20231219_278%2F1702972319328IbDsK_JPEG%2F%25C2%25CC%25B8%25E9_%25B1%25D7%25B8%25A9%25BA%25AF%25B0%25E6.jpg",
+            "menu_name": "쫄면",
+            "price": "5,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20231219_199%2F17029723089205kBR6_JPEG%2F%25BA%25F1%25BA%25F6%25B1%25B9%25BC%25F6.jpg",
+            "menu_name": "김치비빔국수",
+            "price": "5,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20231219_17%2F1702972299590Ha0Wm_JPEG%2F%25BF%25AD%25B9%25AB%25B1%25B9%25BC%25F6_%25B1%25D7%25B8%25A9%25BA%25AF%25B0%25E6.jpg",
+            "menu_name": "열무국수",
+            "price": "5,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240523_142%2F1716446095557Vvl60_JPEG%2FKakaoTalk_20240514_174330024_05.jpg",
+            "menu_name": "파인샤벳",
+            "price": "7,900원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20231219_146%2F17029722689031q89o_JPEG%2F%25C4%25A1%25C1%25EE%25B0%25A8%25C0%25DA%25C0%25FC.jpg",
+            "menu_name": "치즈감자전",
+            "price": "8,900원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20231219_37%2F1702972255135XWIuG_JPEG%2F%25B0%25ED%25B1%25E2%25B1%25E8%25C4%25A1%25C0%25FC.jpg",
+            "menu_name": "고기김치전",
+            "price": "9,900원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20231219_248%2F1702972245148fSqtR_JPEG%2F%25C0%25CE%25C0%25FD%25B9%25CC%25BE%25C6%25C0%25CC%25BD%25BA%25C5%25A9%25B8%25B2.jpg",
+            "menu_name": "인절미아이스크림",
+            "price": "5,900원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240523_230%2F1716446307330Qxh69_JPEG%2FKakaoTalk_20240404_141810990.jpg",
+            "menu_name": "살얼음생맥주",
+            "price": "4,500원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240523_24%2F17164465209146jbk8_JPEG%2FKakaoTalk_20240514_174330024_01.jpg",
+            "menu_name": "애플하이볼",
+            "price": "6,900원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240523_157%2F1716446473584dEeeI_JPEG%2FKakaoTalk_20240514_174330024.jpg",
+            "menu_name": "얼그레이하이볼",
+            "price": "6,900원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240523_82%2F1716446543030OTRlX_JPEG%2FKakaoTalk_20240514_174330024_02.jpg",
+            "menu_name": "블루베리하이볼",
+            "price": "6,900원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240523_258%2F1716446561119L9aTX_JPEG%2FKakaoTalk_20240514_174330024_03.jpg",
+            "menu_name": "라임하이볼",
+            "price": "6,900원"
+        }
+    ]
+}

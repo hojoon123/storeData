@@ -1,0 +1,86 @@
+{
+    "store_name": "더히포 경북대점",
+    "store_location": "대구 북구 경대로7길 2 2층",
+    "loc_x": "345660.456058839",
+    "loc_y": "266133.294509293",
+    "menu": [
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241215_96%2F1734222272459Um63t_JPEG%2F%25C0%25E1%25BA%25C0%25C5%25A9%25B8%25B2%25C6%25C4%25BD%25BA%25C5%25B8.jpg",
+            "menu_name": "잠봉크림파스타",
+            "price": "10,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241203_22%2F1733227836029CkX2N_JPEG%2F1732937452293-2.jpg",
+            "menu_name": "라구볼로네제",
+            "price": "11,900원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241208_85%2F1733665407303ciHhI_JPEG%2FKakaoTalk_20241208_224225904_01.jpg",
+            "menu_name": "버터새우파스타",
+            "price": "9,500원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241215_57%2F17342222105858VH3M_JPEG%2F%25B9%25D9%25C1%25FA%25C0%25E1%25BA%25C0%25C5%25A9%25B8%25B2%25C6%25C4%25BD%25BA%25C5%25B8.jpg",
+            "menu_name": "바질잠봉크림파스타",
+            "price": "10,500원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241215_120%2F1734222150066BRFEw_JPEG%2F%25C0%25E1%25BA%25C0%25C5%25A9%25B8%25B2%25B8%25AE%25C1%25B6%25C5%25E4.jpg",
+            "menu_name": "바질잠봉크림리조또",
+            "price": "10,500원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241208_67%2F1733665564009afa1m_JPEG%2F%25C0%25E1%25BA%25C0.jpg",
+            "menu_name": "잠봉크림리조또",
+            "price": "10,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241206_291%2F17334499046601etsc_JPEG%2F1733449793981-0.jpg",
+            "menu_name": "페퍼로니피자",
+            "price": "15,000원"
+        },
+        {
+            "category": "",
+            "img_src": "",
+            "menu_name": "콜라",
+            "price": "2,000원"
+        },
+        {
+            "category": "",
+            "img_src": "",
+            "menu_name": "사이다",
+            "price": "2,000원"
+        },
+        {
+            "category": "",
+            "img_src": "",
+            "menu_name": "제로콜라",
+            "price": "2,500원"
+        },
+        {
+            "category": "",
+            "img_src": "",
+            "menu_name": "테라",
+            "price": "4,500원"
+        },
+        {
+            "category": "",
+            "img_src": "",
+            "menu_name": "호가든로제",
+            "price": "6,500원"
+        },
+        {
+            "category": "",
+            "img_src": "",
+            "menu_name": "써머스비",
+            "price": "7,000원"
+        }
+    ]
+}

@@ -1,0 +1,68 @@
+{
+    "store_name": "일만족발 당하본점",
+    "store_location": "인천 서구 청마로167번길 4 청마빌딩 1층 일만족발 당하본점",
+    "loc_x": "171343.513468027",
+    "loc_y": "454515.586498209",
+    "menu": [
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240115_101%2F1705322899042tCpEz_JPEG%2F%25B9%25DD%25B9%25DDset-%25C1%25B7%25BA%25B8.jpg",
+            "menu_name": "족발+보쌈(200g)",
+            "price": "35,300원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240115_264%2F1705319428305Xf0yA_JPEG%2F%25B9%25DD%25B9%25DDset-%25C1%25B7%25BA%25D2.jpg",
+            "menu_name": "족발(2인)+불족(300g)",
+            "price": "35,300원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240115_274%2F1705319315099rFl3F_PNG%2F1000015553.png",
+            "menu_name": "족발",
+            "price": "25,400원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240115_73%2F1705322691089cTP0y_JPEG%2F%25B9%25D9%25BA%25A3%25C5%25A5%25C1%25B7%25B9%25DF.JPG",
+            "menu_name": "바베큐족발",
+            "price": "25,400원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240115_84%2F1705322546875Sm5K2_JPEG%2F%25B8%25C5%25C4%25DE%25BA%25D2%25C1%25B7%25B9%25DF-1.jpg",
+            "menu_name": "매콤불족발",
+            "price": "26,400원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240115_214%2F1705322624474ayWoo_JPEG%2F%25B8%25B6%25B4%25C3%25C1%25B7%25B9%25DF-1.jpg",
+            "menu_name": "마늘족발",
+            "price": "26,400원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240115_20%2F1705319111931H85n8_JPEG%2F%25B8%25B6%25B4%25C3%25BA%25B8%25BD%25D3.jpg",
+            "menu_name": "일만보쌈",
+            "price": "25,400원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240619_196%2F1718795638845cW3AL_JPEG%2F%25BA%25D2%25BA%25B8%25BD%25D3.jpg",
+            "menu_name": "매콤불보쌈",
+            "price": "26,400원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240619_49%2F17187958496870GYmA_JPEG%2F%25B8%25B6%25B4%25C3%25BA%25B8%25BD%25D3.jpg",
+            "menu_name": "마늘보쌈",
+            "price": "26,400원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240115_35%2F1705322819618E6vma_JPEG%2F%25BC%25BC%25B0%25A1%25C1%25F6%25B8%25C0-%25C1%25B7%25BA%25B8%25BA%25D2.jpg",
+            "menu_name": "족발+보쌈+불족",
+            "price": "44,200원"
+        }
+    ]
+}

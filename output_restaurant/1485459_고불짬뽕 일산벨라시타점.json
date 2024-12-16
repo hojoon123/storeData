@@ -1,0 +1,32 @@
+{
+    "store_name": "고불짬뽕 일산벨라시타점",
+    "store_location": "경기 고양시 일산동구 강송로 33 지하1층",
+    "loc_x": "181637.189249099",
+    "loc_y": "460029.013400211",
+    "menu": [
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241209_15%2F17337119224363rOl2_PNG%2F%25B0%25ED%25BA%25D2%25C2%25AB%25BB%25CD.png",
+            "menu_name": "짬뽕",
+            "price": "변동"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241209_239%2F1733711964620Ycw0v_PNG%2F%25B0%25ED%25BA%25D2%25C2%25A5%25C0%25E5%25B9%25E4.png",
+            "menu_name": "볶음밥",
+            "price": "변동"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241209_173%2F1733711952497kfjge_PNG%2F%25C2%25FD%25BD%25D2%25C5%25C1%25BC%25F6%25C0%25B0.png",
+            "menu_name": "탕수육",
+            "price": "변동"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241209_113%2F173371193951305TaB_PNG%2F%25B0%25ED%25BA%25D2%25C2%25A5%25C0%25E5%25B8%25E9.png",
+            "menu_name": "짜장면",
+            "price": "변동"
+        }
+    ]
+}

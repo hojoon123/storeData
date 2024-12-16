@@ -1,0 +1,98 @@
+{
+    "store_name": "덮밥장사장 동춘점",
+    "store_location": "인천 연수구 앵고개로 260 105호",
+    "loc_x": "170910.965450657",
+    "loc_y": "434008.814842807",
+    "menu": [
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240703_251%2F1719970033313CYhyO_PNG%2F%25BF%25EC%25B3%25AA%25B1%25E2%25B5%25BF_%25B4%25A9%25B3%25A2.png",
+            "menu_name": "[신메뉴]우나기동",
+            "price": "21,900원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240703_254%2F1719970019890lcD4t_PNG%2F%25C6%25AF%25BB%25F3_%25BF%25EC%25B3%25AA%25B1%25E2%25B5%25BF_%25B4%25A9%25B3%25A2.png",
+            "menu_name": "[신메뉴]특상 우나기동",
+            "price": "28,900원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240125_46%2F1706173360335sc4XU_JPEG%2F%25B3%25D7%25C0%25CC%25B9%25F6_%25BA%25CE%25C5%25B8%25B5%25BF%25C0%25DA%25BB%25EA_2-100.jpg",
+            "menu_name": "장사장 부타동",
+            "price": "9,400원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240125_221%2F17061733638826uDWF_JPEG%2F%25B3%25D7%25C0%25CC%25B9%25F6_%25B8%25C5%25C4%25DE%25BE%25DF%25B3%25A2%25B5%25B5%25B8%25AE%25B5%25BF%25C0%25DA%25BB%25EA_3-100.jpg",
+            "menu_name": "매콤 야끼도리동",
+            "price": "9,400원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240125_76%2F1706173371682GIGax_JPEG%2F%25B1%25D4%25B5%25BF.jpg",
+            "menu_name": "장사장 야끼규동",
+            "price": "10,400원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240125_13%2F1706173376370kRAD4_JPEG%2F%25B3%25D7%25C0%25CC%25B9%25F6_%25B8%25C5%25C4%25DE%25B5%25B7%25C5%25E4%25B7%25CE%25B5%25BF%25C0%25DA%25BB%25EA_4-100.jpg",
+            "menu_name": "매콤 돈토로동",
+            "price": "11,400원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240125_107%2F1706173380509YlfC5_JPEG%2F%25B3%25D7%25C0%25CC%25B9%25F6_%25BD%25BA%25C5%25B0%25BE%25DF%25C5%25B0%25C0%25DA%25BB%25EA_12-100.jpg",
+            "menu_name": "스키야키 나베정식",
+            "price": "10,900원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240125_202%2F1706173384473B6mfa_JPEG%2F%25B3%25D7%25C0%25CC%25B9%25F6_%25BE%25F3%25C5%25AB%25C5%25E4%25B8%25AE%25C0%25DA%25BB%25EA_11-100.jpg",
+            "menu_name": "얼큰 토리 나베정식",
+            "price": "10,900원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240125_198%2F1706173389788FnW69_JPEG%2F%25B3%25D7%25C0%25CC%25B9%25F6_%25C5%25E4%25B8%25AE%25C0%25DA%25BB%25EA_13-100.jpg",
+            "menu_name": "토리 나베정식",
+            "price": "10,900원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20231130_185%2F17013153992329C0Ox_PNG%2F%25BC%25D2%25BD%25C3%25C1%25F6%25C4%25AB%25B7%25B9.png",
+            "menu_name": "소시지 카레",
+            "price": "10,900원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20231130_77%2F1701315240569VSqvc_PNG%2F%25C4%25AB%25C5%25B0%25BE%25C6%25B0%25D4_%25C4%25AB%25B7%25B9.png",
+            "menu_name": "카키아게 카레",
+            "price": "10,400원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20231130_291%2F1701315255590x3sks_PNG%2F%25BF%25A1%25BA%25F1%25C8%25C4%25B6%25F3%25C0%25CC_%25C4%25AB%25B7%25B9.png",
+            "menu_name": "에비후라이 카레",
+            "price": "10,900원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240125_168%2F1706173393643YCv7S_JPEG%2F1%25C6%25C4%25BF%25EE%25B5%25E5_%25B8%25C5%25C4%25DE.jpg",
+            "menu_name": "1파운드 매콤 야끼도리동",
+            "price": "12,900원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240125_245%2F1706173397302IGdjp_JPEG%2F%25B3%25D7%25C0%25CC%25B9%25F6_%25BC%25D2%25C0%25AF%25BF%25A1%25BA%25F1%25B5%25BF%25C0%25DA%25BB%25EA_5-100.jpg",
+            "menu_name": "소유에비동",
+            "price": "11,400원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240125_187%2F1706173400914tEWdo_JPEG%2F%25B3%25D7%25C0%25CC%25B9%25F6_%25BB%25E7%25BF%25CD%25B6%25F3%25B5%25BF%25C0%25DA%25BB%25EA_3-100.jpg",
+            "menu_name": "사와라동",
+            "price": "11,900원"
+        }
+    ]
+}

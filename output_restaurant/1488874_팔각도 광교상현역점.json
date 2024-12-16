@@ -1,0 +1,98 @@
+{
+    "store_name": "팔각도 광교상현역점",
+    "store_location": "경기 용인시 수지구 광교중앙로 304 1층 107호, 108호",
+    "loc_x": "206100.323819545",
+    "loc_y": "421679.062727974",
+    "menu": [
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241212_239%2F1733968322414L2qCE_JPEG%2F001_%25BD%25A1%25BA%25D2%25B4%25DF%25B0%25A5%25BA%25F1.jpg",
+            "menu_name": "숯불 닭갈비",
+            "price": "12,900원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20230926_69%2F16957050937450mwvz_JPEG%2F002_%25BF%25C0%25B5%25B6_%25BF%25C0%25B5%25B6_%25B4%25DF_%25BF%25AC%25B0%25F1.jpg",
+            "menu_name": "오독 오독 닭 연골 (고추장)",
+            "price": "12,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20230926_25%2F1695705078614yfdTT_JPEG%2F003_%25C2%25CC%25B1%25EA_%25C2%25CC%25B1%25EA_%25B4%25DF_%25B8%25F1%25BB%25EC.jpg",
+            "menu_name": "쫄깃 쫄깃 닭 목살 (간장)",
+            "price": "13,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240621_54%2F1718949489851MXUvj_JPEG%2F%25B4%25DF%25B8%25F1%25BB%25EC_%25B0%25ED%25C3%25DF%25C0%25E5.jpg",
+            "menu_name": "쫄깃 쫄깃 닭 목살 (고추장)",
+            "price": "13,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20230926_277%2F1695705059069QQp76_JPEG%2F004_%25B8%25C5%25C4%25DE_%25B2%25BF%25B5%25E9_%25B4%25DF_%25BE%25C8%25C3%25A2%25BB%25EC.jpg",
+            "menu_name": "매콤 꼬들 닭 안창살 (고추장)",
+            "price": "14,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241212_116%2F1733968306223ufr73_JPEG%2F001_%25C6%25C8%25B5%25B5_%25BC%25BC%25C6%25AE.jpg",
+            "menu_name": "팔도세트",
+            "price": "45,300원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241212_262%2F1733968314410eVvOB_JPEG%2F002_%25B0%25A2%25B5%25B5_%25BC%25BC%25C6%25AE.jpg",
+            "menu_name": "각도세트",
+            "price": "62,700원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20230926_13%2F1695705034875RMyfF_JPEG%2F005_%25B8%25C5%25C4%25DE_%25C6%25AB%25B8%25B3_%25B4%25DF%25B9%25DF.jpg",
+            "menu_name": "매콤 튤립 닭발",
+            "price": "15,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240621_153%2F171894953668537Loi_JPEG%2F006_%25C6%25AE%25B7%25AF%25C7%25C3_%25BF%25C0%25C0%25CF_%25B0%25FC%25C0%25DA_9%25B0%25B3.jpg",
+            "menu_name": "트러플 오일 관자 9개",
+            "price": "7,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20230926_289%2F1695704980861JdfAR_JPEG%2F007_%25B0%25D4%25B6%25F3%25B8%25E9_%25B5%25C8%25C0%25E5%25C0%25FC%25B0%25F1_%25B8%25B6%25B9%25AB%25B8%25AE.jpg",
+            "menu_name": "게라면 된장전골",
+            "price": "13,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240916_169%2F1726467544542X2REX_JPEG%2F17264672985476.jpeg",
+            "menu_name": "통마늘 닭똥집",
+            "price": "13,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240618_59%2F1718698475328Woiua_JPEG%2F%25B4%25DF_%25BF%25C0%25B5%25B9%25BF%25C0%25B5%25B9_%25B8%25B8%25B5%25CE.jpg",
+            "menu_name": "닭 오돌오돌 만두",
+            "price": "13,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20230926_202%2F1695704955777IGYHM_JPEG%2F008_%25B8%25C5%25C4%25DE_%25B4%25DF%25C3%25B6%25C6%25C7%25BA%25BA%25C0%25BD%25B9%25E4.jpg",
+            "menu_name": "매콤 닭철판볶음밥",
+            "price": "11,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20230926_256%2F1695704937366P0QdM_JPEG%2F009_%25C2%25AB%25BB%25CD_%25C4%25AE%25B1%25B9%25BC%25F6.jpg",
+            "menu_name": "짬뽕 칼국수",
+            "price": "8,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240618_4%2F1718700322383kiYOb_JPEG%2F011_%25BA%25F1%25BA%25F6_%25C4%25AE%25B1%25B9%25BC%25F6.jpg",
+            "menu_name": "비빔 칼국수",
+            "price": "7,000원"
+        }
+    ]
+}

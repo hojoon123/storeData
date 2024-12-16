@@ -1,0 +1,110 @@
+{
+    "store_name": "집밥밥을공부하다 침산점",
+    "store_location": "대구 북구 침산로 158 101동 1층 상가 1102-1호",
+    "loc_x": "343629.420048816",
+    "loc_y": "266723.230082271",
+    "menu": [
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241206_112%2F1733489345914gN0Yh_PNG%2F%25B0%25ED%25B1%25E2%25BC%25BC%25C6%25AE.png",
+            "menu_name": "[파제파불]고기세트",
+            "price": "29,500원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241202_104%2F1733076823950iUYrd_PNG%2F%25C6%25A2%25B1%25E8%25BB%25EF%25B0%25E3%25BB%25EC%25BC%25BC%25C6%25AE.png",
+            "menu_name": "튀김삼겹살세트",
+            "price": "33,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241202_121%2F1733076695164GAR6j_PNG%2F%25C6%25A2%25B1%25E8%25BB%25EF%25B0%25E3%25BB%25EC_%25C7%25D1%25C1%25A2%25BD%25C3.png",
+            "menu_name": "튀김삼겹살한접시",
+            "price": "10,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241206_295%2F1733489441507it7AM_PNG%2F%25B0%25ED%25B1%25E2%25C7%25D1%25BB%25F3%25C2%25F7%25B8%25B21_61000%25BF%25F8.png",
+            "menu_name": "고기한상차림[4인가족세트]",
+            "price": "61,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241202_33%2F1733077050828r4co9_JPEG%2F%25B8%25F0%25B5%25EB%25BB%25FD%25BC%25B1%25B1%25B8%25C0%25CC%25C1%25A4%25BD%25C4.jpg",
+            "menu_name": "모듬생선구이세트",
+            "price": "31,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241202_27%2F17330765547827BY7W_PNG%2F%25BD%25D3%25B9%25E4%25BC%25BC%25C6%25AE.png",
+            "menu_name": "쌈밥세트",
+            "price": "29,500원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241206_136%2F1733489124529bJ0Aj_PNG%2F%25C6%25A2%25B1%25E8%25BB%25EF%25B0%25E3%25BB%25EC_%25B5%25B5%25BD%25C3%25B6%25F4.png",
+            "menu_name": "튀김삼겹살 도시락",
+            "price": "16,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241206_291%2F173348909878482w1w_PNG%2F%25C1%25A6%25C0%25B0%25BA%25BA%25C0%25BD_%25B5%25B5%25BD%25C3%25B6%25F4.png",
+            "menu_name": "제육볶음도시락",
+            "price": "12,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241202_211%2F1733076919123Lk4nM_PNG%2F%25BA%25D2%25B0%25ED%25B1%25E2_%25B5%25B5%25BD%25C3%25B6%25F4.png",
+            "menu_name": "불고기도시락",
+            "price": "12,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241210_161%2F173384003721745z67_JPEG%2F%25B0%25ED%25B5%25EE%25BE%25EE%25B5%25B5%25BD%25C3%25B6%25F4.jpg",
+            "menu_name": "[노릇노릇]고등어도시락",
+            "price": "12,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241210_96%2F1733839999889Rbwoi_PNG%2F%25C1%25A6%25C0%25B0%25BA%25BA%25C0%25BD_9800%25BF%25F8.png",
+            "menu_name": "[국민메뉴]제육볶음정식",
+            "price": "9,800원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241210_179%2F1733839956675fh0IX_PNG%2F%25B5%25C5%25C1%25F6%25BA%25D2%25B0%25ED%25B1%25E2_9800%25BF%25F8.png",
+            "menu_name": "[단짠단짠]돼지불고기",
+            "price": "9,800원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241202_14%2F17330769708471YAGA_PNG%2F%25BA%25F1%25BA%25F6%25B9%25E4.png",
+            "menu_name": "집밥비빔밥",
+            "price": "8,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241128_261%2F1732786507332sr5Qx_JPEG%2F%25B0%25BB%25BD%25C3%25B1%25E2.jpg",
+            "menu_name": "[추억한그릇]갱시기",
+            "price": "9,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241128_248%2F1732786438194vR5Vi_PNG%2F%25B5%25C8%25C0%25E5%25C2%25EE%25B0%25B3.png",
+            "menu_name": "[구수한]된장찌개",
+            "price": "8,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241128_60%2F1732786396079VhFhW_PNG%2F%25B1%25E8%25C4%25A1%25C2%25EE%25B0%25B3.png",
+            "menu_name": "[칼칼한]김치찌개",
+            "price": "8,500원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241206_157%2F1733489191521ORTFS_PNG%2F%25BA%25D2%25B0%25ED%25B1%25E2%25BA%25BA%25C0%25BD%25B9%25E4_9500%25BF%25F8.png",
+            "menu_name": "불고기볶음밥",
+            "price": "9,500원"
+        }
+    ]
+}

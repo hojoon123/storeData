@@ -1,0 +1,368 @@
+{
+    "store_name": "두찜인천간석점",
+    "store_location": "인천 미추홀구 경인로504번길 22",
+    "loc_x": "172972.273430622",
+    "loc_y": "439726.94506262",
+    "menu": [
+        {
+            "category": "대표메뉴",
+            "img_src": "",
+            "menu_name": "New[멕시칸맛집]타코라구요찜닭(두찜 나쵸칩 포함)",
+            "price": "26,800원"
+        },
+        {
+            "category": "대표메뉴",
+            "img_src": "",
+            "menu_name": "[1인~2인도 푸짐하게] 까만/빨간찜닭 반마리(반마리)",
+            "price": "18,800원"
+        },
+        {
+            "category": "대표메뉴",
+            "img_src": "",
+            "menu_name": "[로제찜닭 원조브랜드] 로제찜닭(로제찜닭)",
+            "price": "28,800원"
+        },
+        {
+            "category": "대표메뉴",
+            "img_src": "",
+            "menu_name": "[덮밥먹기좋은] 까만/빨간찜닭(까만/빨간찜닭)",
+            "price": "24,800원"
+        },
+        {
+            "category": "대표메뉴",
+            "img_src": "",
+            "menu_name": "[1초밥도둑] 묵은지김치찜닭(묵은지찜닭)",
+            "price": "28,800원"
+        },
+        {
+            "category": "대표메뉴",
+            "img_src": "",
+            "menu_name": "[불닭과 두찜의 조합]불닭로제찜닭",
+            "price": "24,800원"
+        },
+        {
+            "category": "[이세계아이돌] 굿즈세트",
+            "img_src": "",
+            "menu_name": "[이세계아이돌] 타코라구요 찜닭 세트",
+            "price": "30,800원"
+        },
+        {
+            "category": "[이세계아이돌] 굿즈세트",
+            "img_src": "",
+            "menu_name": "[이세계아이돌] 까만/빨간찜닭 세트",
+            "price": "28,800원"
+        },
+        {
+            "category": "[이세계아이돌] 굿즈세트",
+            "img_src": "",
+            "menu_name": "[이세계아이돌] 로제찜닭 세트",
+            "price": "32,800원"
+        },
+        {
+            "category": "[이세계아이돌] 굿즈세트",
+            "img_src": "",
+            "menu_name": "[이세계아이돌] 묵은지찜닭 세트",
+            "price": "32,800원"
+        },
+        {
+            "category": "[이세계아이돌] 굿즈세트",
+            "img_src": "",
+            "menu_name": "[이세계아이돌] 시래기찜닭 세트",
+            "price": "32,800원"
+        },
+        {
+            "category": "[이세계아이돌] 굿즈세트",
+            "img_src": "",
+            "menu_name": "[이세계아이돌] 불닭로제찜닭 세트",
+            "price": "28,800원"
+        },
+        {
+            "category": "[이세계아이돌] 굿즈세트",
+            "img_src": "",
+            "menu_name": "[이세계아이돌] 마라로제찜닭 세트",
+            "price": "28,800원"
+        },
+        {
+            "category": "'두찜'에만 있는 스페셜 메뉴",
+            "img_src": "",
+            "menu_name": "New[멕시칸맛집]타코라구요찜닭(두찜 나쵸칩 포함)",
+            "price": "26,800원"
+        },
+        {
+            "category": "'두찜'에만 있는 스페셜 메뉴",
+            "img_src": "",
+            "menu_name": "[불닭과 두찜의 조합]불닭로제찜닭",
+            "price": "24,800원"
+        },
+        {
+            "category": "'두찜'에만 있는 스페셜 메뉴",
+            "img_src": "",
+            "menu_name": "[마라탕뺨치는] 마라로제찜닭(마라로제찜닭)",
+            "price": "24,800원"
+        },
+        {
+            "category": "'두찜'에만 있는 스페셜 메뉴",
+            "img_src": "",
+            "menu_name": "로제닭발(무뼈)(로제닭발)",
+            "price": "24,800원"
+        },
+        {
+            "category": "반마리 (1~2인 추천)",
+            "img_src": "",
+            "menu_name": "[1인~2인도 푸짐하게] 까만/빨간찜닭 반마리(반마리)",
+            "price": "18,800원"
+        },
+        {
+            "category": "반마리 (1~2인 추천)",
+            "img_src": "",
+            "menu_name": "[1~2인도 푸짐하게] 로제찜닭 반마리(반마리)",
+            "price": "20,800원"
+        },
+        {
+            "category": "한마리 (2~3인 추천)",
+            "img_src": "",
+            "menu_name": "[1초밥도둑] 묵은지김치찜닭(묵은지찜닭)",
+            "price": "28,800원"
+        },
+        {
+            "category": "한마리 (2~3인 추천)",
+            "img_src": "",
+            "menu_name": "[덮밥먹기좋은] 까만/빨간찜닭(까만/빨간찜닭)",
+            "price": "24,800원"
+        },
+        {
+            "category": "한마리 (2~3인 추천)",
+            "img_src": "",
+            "menu_name": "[로제찜닭 원조브랜드] 로제찜닭(로제찜닭)",
+            "price": "28,800원"
+        },
+        {
+            "category": "한마리 (2~3인 추천)",
+            "img_src": "",
+            "menu_name": "[양구펀치볼] 시래기찜닭(시래기찜닭)",
+            "price": "28,800원"
+        },
+        {
+            "category": "한마리 (2~3인 추천)",
+            "img_src": "",
+            "menu_name": "[CJ X 두찜 콜라보]스팸부대찜닭(부대찌개와찜닭사이)",
+            "price": "28,800원"
+        },
+        {
+            "category": "한마리 (2~3인 추천)",
+            "img_src": "",
+            "menu_name": "[국밥보다든든한] 두찜 닭볶음탕(두찜 닭볶음탕)",
+            "price": "28,800원"
+        },
+        {
+            "category": "한마리 (2~3인 추천)",
+            "img_src": "",
+            "menu_name": "[세가지 치즈가득] 치즈몽땅찜닭(까만치즈찜닭)",
+            "price": "28,800원"
+        },
+        {
+            "category": "한마리 (2~3인 추천)",
+            "img_src": "",
+            "menu_name": "[세가지 치즈가득] 치즈몽땅찜닭(빨간치즈찜닭)",
+            "price": "28,800원"
+        },
+        {
+            "category": "한마리 (2~3인 추천)",
+            "img_src": "",
+            "menu_name": "[세계3대진미] 트러플크림찜닭(트러플크림찜닭)",
+            "price": "28,800원"
+        },
+        {
+            "category": "두가지 메뉴 세트",
+            "img_src": "",
+            "menu_name": "불닭로제찜닭+찜닭",
+            "price": "44,800원"
+        },
+        {
+            "category": "두가지 메뉴 세트",
+            "img_src": "",
+            "menu_name": "불닭로제찜닭+마라로제찜닭",
+            "price": "44,800원"
+        },
+        {
+            "category": "두가지 메뉴 세트",
+            "img_src": "",
+            "menu_name": "불닭로제찜닭+로제닭발",
+            "price": "44,800원"
+        },
+        {
+            "category": "두가지 메뉴 세트",
+            "img_src": "",
+            "menu_name": "찜닭 + 스팸부대찜닭",
+            "price": "48,800원"
+        },
+        {
+            "category": "두가지 메뉴 세트",
+            "img_src": "",
+            "menu_name": "마라로제찜닭 + 스팸부대찜닭",
+            "price": "48,800원"
+        },
+        {
+            "category": "두가지 메뉴 세트",
+            "img_src": "",
+            "menu_name": "로제닭발 + 스팸부대찜닭",
+            "price": "48,800원"
+        },
+        {
+            "category": "두가지 메뉴 세트",
+            "img_src": "",
+            "menu_name": "찜닭 + 찜닭",
+            "price": "44,800원"
+        },
+        {
+            "category": "두가지 메뉴 세트",
+            "img_src": "",
+            "menu_name": "찜닭+마라로제찜닭",
+            "price": "44,800원"
+        },
+        {
+            "category": "두가지 메뉴 세트",
+            "img_src": "",
+            "menu_name": "로제닭발 + 마라로제찜닭",
+            "price": "44,800원"
+        },
+        {
+            "category": "두가지 메뉴 세트",
+            "img_src": "",
+            "menu_name": "로제닭발 + 찜닭",
+            "price": "44,800원"
+        },
+        {
+            "category": "사이드 메뉴",
+            "img_src": "",
+            "menu_name": "두찜 나쵸칩",
+            "price": "2,000원"
+        },
+        {
+            "category": "사이드 메뉴",
+            "img_src": "",
+            "menu_name": "꿔바로우(3pcs)",
+            "price": "4,000원"
+        },
+        {
+            "category": "사이드 메뉴",
+            "img_src": "",
+            "menu_name": "가지튀김 (15pcs)",
+            "price": "3,000원"
+        },
+        {
+            "category": "사이드 메뉴",
+            "img_src": "",
+            "menu_name": "납작만두(5개)",
+            "price": "1,500원"
+        },
+        {
+            "category": "사이드 메뉴",
+            "img_src": "",
+            "menu_name": "튀김오뎅(5개)",
+            "price": "2,000원"
+        },
+        {
+            "category": "사이드 메뉴",
+            "img_src": "",
+            "menu_name": "180mm 긴~말이튀김(2개)",
+            "price": "2,500원"
+        },
+        {
+            "category": "사이드 메뉴",
+            "img_src": "",
+            "menu_name": "감자만두(5개)",
+            "price": "2,000원"
+        },
+        {
+            "category": "사이드 메뉴",
+            "img_src": "",
+            "menu_name": "치즈볼(3pcs)",
+            "price": "3,000원"
+        },
+        {
+            "category": "사이드 메뉴",
+            "img_src": "",
+            "menu_name": "치즈볼(5pcs)",
+            "price": "4,500원"
+        },
+        {
+            "category": "사이드 메뉴",
+            "img_src": "",
+            "menu_name": "돈까스(1개)",
+            "price": "3,000원"
+        },
+        {
+            "category": "사이드 메뉴",
+            "img_src": "",
+            "menu_name": "15cm 왕새우튀김(2개)",
+            "price": "3,500원"
+        },
+        {
+            "category": "사이드 메뉴",
+            "img_src": "",
+            "menu_name": "버팔로스틱(6pcs)",
+            "price": "7,000원"
+        },
+        {
+            "category": "사이드 메뉴",
+            "img_src": "",
+            "menu_name": "버팔로스틱(12pcs)",
+            "price": "12,000원"
+        },
+        {
+            "category": "사이드 메뉴",
+            "img_src": "",
+            "menu_name": "치킨텐더(6pcs)",
+            "price": "5,500원"
+        },
+        {
+            "category": "사이드 메뉴",
+            "img_src": "",
+            "menu_name": "치킨텐더(12pcs)",
+            "price": "10,500원"
+        },
+        {
+            "category": "사이드 메뉴",
+            "img_src": "",
+            "menu_name": "공기밥",
+            "price": "1,500원"
+        },
+        {
+            "category": "음료",
+            "img_src": "",
+            "menu_name": "코카콜라 추가(500ml)",
+            "price": "2,000원"
+        },
+        {
+            "category": "음료",
+            "img_src": "",
+            "menu_name": "코카콜라 추가(1.25L)",
+            "price": "3,000원"
+        },
+        {
+            "category": "음료",
+            "img_src": "",
+            "menu_name": "코카콜라 제로 추가(500ml)",
+            "price": "2,000원"
+        },
+        {
+            "category": "음료",
+            "img_src": "",
+            "menu_name": "코카콜라 제로 추가(1.25L)",
+            "price": "3,000원"
+        },
+        {
+            "category": "음료",
+            "img_src": "",
+            "menu_name": "스프라이트 추가(500ml)",
+            "price": "2,000원"
+        },
+        {
+            "category": "음료",
+            "img_src": "",
+            "menu_name": "스프라이트 추가(1.5L)",
+            "price": "3,000원"
+        }
+    ]
+}

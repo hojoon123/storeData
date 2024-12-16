@@ -1,0 +1,50 @@
+{
+    "store_name": "육감만족 포항장성점",
+    "store_location": "경북 포항시 북구 새천년대로1259번길 15",
+    "loc_x": "414727.0817038",
+    "loc_y": "288774.634593634",
+    "menu": [
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20230508_195%2F1683529992104qzQLY_JPEG%2F1.%25C1%25B7%25B9%25DF.jpg",
+            "menu_name": "족발(대)",
+            "price": "38,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20230508_201%2F16835298910711rAP1_JPEG%2F4.%25C1%25F7%25C8%25AD%25BA%25D2%25C1%25B7%25B9%25DF.jpg",
+            "menu_name": "직화 불족발(대)",
+            "price": "41,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20230508_127%2F1683529813587oE6Jz_JPEG%2F10.%25B8%25B6%25B4%25C3%25C1%25B7%25B9%25DF.jpg",
+            "menu_name": "마늘족발(대)",
+            "price": "41,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20230508_10%2F1683529454946XwUs9_JPEG%2F5.%25B9%25DD%25B9%25DD%25C1%25B7%25B9%25DF.jpg",
+            "menu_name": "반반족발(대)",
+            "price": "42,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20230508_46%2F1683529060389nrgXY_JPEG%2F20.%25B8%25B7%25B1%25B9%25BC%25F6.jpg",
+            "menu_name": "메밀 막국수",
+            "price": "8,000원"
+        },
+        {
+            "category": "",
+            "img_src": "",
+            "menu_name": "주먹밥",
+            "price": "3,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20230508_269%2F1683529023175UA1t6_JPEG%2F22.%25BC%25FA%25B1%25B9.jpg",
+            "menu_name": "칼칼한 술국",
+            "price": "10,000원"
+        }
+    ]
+}

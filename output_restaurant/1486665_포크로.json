@@ -1,0 +1,92 @@
+{
+    "store_name": "포크로",
+    "store_location": "대전 중구 문화로 171-1 1층",
+    "loc_x": "236228.21853392",
+    "loc_y": "312714.815944093",
+    "menu": [
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241212_187%2F1733992360957pBPCs_JPEG%2F%25C4%25BF%25C6%25B2%25B7%25BF.jpg",
+            "menu_name": "수제 등심 커틀렛",
+            "price": "12,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241212_202%2F1733991718128t50LW_JPEG%2F%25C4%25AB%25B5%25B7.jpg",
+            "menu_name": "카레 커틀렛",
+            "price": "12,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241212_100%2F1733992103959I0Rff_JPEG%2F%25C7%25D4%25B9%25DA.jpg",
+            "menu_name": "수제 함박 스테이크",
+            "price": "13,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241212_82%2F1733992689335aaVJd_JPEG%2F%25BE%25E7%25B0%25ED%25B1%25E2.jpg",
+            "menu_name": "양고기 스테이크",
+            "price": "32,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241210_127%2F1733811377748o1mox_JPEG%2F%25C5%25A9.jpg",
+            "menu_name": "크림파스타",
+            "price": "10,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241212_285%2F1733993513838qVOUB_JPEG%2F%25C5%25E4%25B8%25B6%25C5%25E4.jpg",
+            "menu_name": "토마토 파스타",
+            "price": "10,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241206_16%2F1733470482719DPyTI_JPEG%2FIMG_0284.jpeg",
+            "menu_name": "로제파스타",
+            "price": "10,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241206_7%2F1733470499677aUUGw_JPEG%2FIMG_0290.jpeg",
+            "menu_name": "알리오 올리오",
+            "price": "8,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241206_198%2F1733470565500Boiog_JPEG%2FIMG_0275.jpeg",
+            "menu_name": "나폴리탄파스타",
+            "price": "9,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241212_247%2F17339931035663E9aH_JPEG%2F%25BD%25BA%25C6%25C4%25C0%25CC%25BD%25C3.jpg",
+            "menu_name": "스파이시 크림 파스타",
+            "price": "12,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241211_24%2F17339015176148pWCw_JPEG%2FKakaoTalk_20241211_161648423_04.jpg",
+            "menu_name": "목살 필라프",
+            "price": "9,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241209_84%2F1733721500861RLFUi_JPEG%2FIMG_0300.jpeg",
+            "menu_name": "바베큐김치필라프",
+            "price": "9,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241213_81%2F1734062691643iAqFy_JPEG%2F%25B8%25DE%25B7%25D0.jpg",
+            "menu_name": "메론소다",
+            "price": "4,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241211_255%2F1733901821322xGe0t_JPEG%2FKakaoTalk_20241211_161648423_02.jpg",
+            "menu_name": "자몽소다",
+            "price": "4,000원"
+        }
+    ]
+}

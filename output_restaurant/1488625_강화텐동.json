@@ -1,0 +1,26 @@
+{
+    "store_name": "강화텐동",
+    "store_location": "인천 강화군 길상면 온수길 41 1층 101호",
+    "loc_x": "154945.832251184",
+    "loc_y": "459862.545620085",
+    "menu": [
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20231223_254%2F17033424152632fPPN_JPEG%2FKakaoTalk_20231217_190531614.jpg",
+            "menu_name": "온수텐동",
+            "price": "9,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20231223_79%2F1703342263541ff1fG_JPEG%2FKakaoTalk_20231217_190533338.jpg",
+            "menu_name": "길상텐동",
+            "price": "10,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20231223_104%2F1703342371253HGNqP_JPEG%2FKakaoTalk_20231217_190546143.jpg",
+            "menu_name": "강화텐동",
+            "price": "12,000원"
+        }
+    ]
+}

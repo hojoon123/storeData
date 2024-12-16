@@ -1,0 +1,56 @@
+{
+    "store_name": "노변반점",
+    "store_location": "대구 수성구 시지로 80",
+    "loc_x": "353159.986032883",
+    "loc_y": "261031.34174942",
+    "menu": [
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20191223_168%2F1577064611314dU3wQ_JPEG%2FdG9_708JSf6QHmZJ8RdxPC-6.jpg",
+            "menu_name": "짜장면",
+            "price": "4,000원"
+        },
+        {
+            "category": "",
+            "img_src": "",
+            "menu_name": "짬뽕",
+            "price": "5,000원"
+        },
+        {
+            "category": "",
+            "img_src": "",
+            "menu_name": "탕수육",
+            "price": "9,000~23,000원"
+        },
+        {
+            "category": "",
+            "img_src": "",
+            "menu_name": "우동",
+            "price": "5,000원"
+        },
+        {
+            "category": "",
+            "img_src": "",
+            "menu_name": "짬뽕밥",
+            "price": "5,500원"
+        },
+        {
+            "category": "",
+            "img_src": "",
+            "menu_name": "볶음밥",
+            "price": "6,000원"
+        },
+        {
+            "category": "",
+            "img_src": "",
+            "menu_name": "잡채밥",
+            "price": "6,000원"
+        },
+        {
+            "category": "",
+            "img_src": "",
+            "menu_name": "야끼밥",
+            "price": "6,500원"
+        }
+    ]
+}

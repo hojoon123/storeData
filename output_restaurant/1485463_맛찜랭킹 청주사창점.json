@@ -1,0 +1,98 @@
+{
+    "store_name": "맛찜랭킹 청주사창점",
+    "store_location": "충북 청주시 흥덕구 내수동로 75 1층 MZ랭킹",
+    "loc_x": "240683.614335806",
+    "loc_y": "348103.554304496",
+    "menu": [
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241119_297%2F1731983575087A2dk3_JPEG%2F%25BC%25F8%25BB%25EC_%25B4%25DF%25BA%25BA%25C0%25BD%25C5%25C1.jpg",
+            "menu_name": "순살 닭볶음탕",
+            "price": "11,900원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241119_244%2F1731983569016O6k7H_JPEG%2F%25B5%25C5%25C1%25F6_%25B1%25E8%25C4%25A1%25C2%25EE%25B0%25B3.jpg",
+            "menu_name": "김치찌개",
+            "price": "9,900원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241119_273%2F1731983556113kcy9s_JPEG%2F%25B9%25D9%25C1%25F6%25B6%25F4_%25BC%25F8%25B5%25CE%25BA%25CE%25C2%25EE%25B0%25B3.jpg",
+            "menu_name": "순두부찌개",
+            "price": "9,900원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241119_231%2F1731982396150EJ6uA_JPEG%2F%25BB%25EF%25B0%25E3_%25B1%25E8%25C4%25A1%25C2%25A5%25B1%25DB%25C0%25CC-min.jpg",
+            "menu_name": "김치 짜글이",
+            "price": "9,900원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241119_94%2F1731982381655HdMvU_JPEG%2F%25BB%25EF%25B0%25E3_%25B5%25C8%25C0%25E5%25C2%25A5%25B1%25DB%25C0%25CC-min.jpg",
+            "menu_name": "된장 짜글이",
+            "price": "9,900원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241119_298%2F1731982297046rRw6s_JPEG%2F%25BB%25EF%25B0%25E3_%25B1%25E8%25C4%25A1%25C2%25F2_%25B5%25B5%25BD%25C3%25B6%25F4-min.jpg",
+            "menu_name": "김치찜 도시락",
+            "price": "9,900원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241119_34%2F1731982255803GF4sc_JPEG%2F%25B0%25A3%25C0%25E5%25C2%25F2%25B4%25DF_%25B5%25B5%25BD%25C3%25B6%25F4-min.jpg",
+            "menu_name": "간장찜 도시락",
+            "price": "9,900원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241119_261%2F1731983594521TO6pk_JPEG%2F%25B8%25F0%25C0%25BD%25C4%25C6_6.jpg",
+            "menu_name": "실속 혼밥 SET",
+            "price": "14,900원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241119_135%2F17319830537121TawJ_JPEG%2FM4_02693-min.jpg",
+            "menu_name": "커플 SET",
+            "price": "24,900원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241119_36%2F1731983072844IBNRc_JPEG%2FM4_02526-min.jpg",
+            "menu_name": "볶음우동 SET",
+            "price": "18,900원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241119_258%2F1731983562755MqX48_JPEG%2F%25B9%25D9%25C1%25F6%25B6%25F4_%25B5%25C8%25C0%25E5%25C2%25EE%25B0%25B3.jpg",
+            "menu_name": "된장찌개",
+            "price": "9,900원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241119_11%2F1731982359376GlH09_JPEG%2F%25B4%25DF_%25B8%25C5%25C4%25DE%25C2%25A5%25B1%25DB%25C0%25CC-min.jpg",
+            "menu_name": "매콤 짜글이",
+            "price": "9,900원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241119_133%2F1731982323314EvUxi_JPEG%2F%25BB%25EF%25B0%25E3_%25E3%25F4%25B8%25C5%25BF%25EE%25C2%25A5%25B1%25DB%25C0%25CC-min.jpg",
+            "menu_name": "매운 짜글이",
+            "price": "9,900원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241119_18%2F1731982271603p4tcg_JPEG%2F%25BB%25EF%25B0%25E3_%25B5%25C8%25C0%25E5%25C2%25F2_%25B5%25B5%25BD%25C3%25B6%25F4-min.jpg",
+            "menu_name": "된장찜 도시락",
+            "price": "9,900원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241119_197%2F1731982233152c6gNd_JPEG%2F%25B8%25C5%25C4%25DE%25C2%25F2%25B4%25DF_%25B5%25B5%25BD%25C3%25B6%25F4-min.jpg",
+            "menu_name": "매콤찜 도시락",
+            "price": "9,900원"
+        }
+    ]
+}

@@ -1,0 +1,248 @@
+{
+    "store_name": "오야 진주칠암본점",
+    "store_location": "경남 진주시 동진로38번길 3-2 102호 오야",
+    "loc_x": "299731.872257883",
+    "loc_y": "187156.480459976",
+    "menu": [
+        {
+            "category": "대표메뉴",
+            "img_src": "",
+            "menu_name": "수육나베",
+            "price": "29,000원"
+        },
+        {
+            "category": "대표메뉴",
+            "img_src": "",
+            "menu_name": "매콤 스지찜",
+            "price": "29,000원"
+        },
+        {
+            "category": "대표메뉴",
+            "img_src": "",
+            "menu_name": "스지오뎅탕",
+            "price": "22,900원"
+        },
+        {
+            "category": "대표메뉴",
+            "img_src": "",
+            "menu_name": "다리살(2pcs)",
+            "price": "4,500원"
+        },
+        {
+            "category": "대표메뉴",
+            "img_src": "",
+            "menu_name": "방울 삼겹말이(2pcs)",
+            "price": "5,000원"
+        },
+        {
+            "category": "대표메뉴",
+            "img_src": "",
+            "menu_name": "랜덤꼬치 5종(5pcs)",
+            "price": "11,000원"
+        },
+        {
+            "category": "탕",
+            "img_src": "",
+            "menu_name": "수육나베",
+            "price": "29,000원"
+        },
+        {
+            "category": "탕",
+            "img_src": "",
+            "menu_name": "매콤 스지찜",
+            "price": "29,000원"
+        },
+        {
+            "category": "탕",
+            "img_src": "",
+            "menu_name": "창코나베",
+            "price": "29,000원"
+        },
+        {
+            "category": "탕",
+            "img_src": "",
+            "menu_name": "스지오뎅탕",
+            "price": "22,900원"
+        },
+        {
+            "category": "야끼토리",
+            "img_src": "",
+            "menu_name": "다리살(2pcs)",
+            "price": "4,500원"
+        },
+        {
+            "category": "야끼토리",
+            "img_src": "",
+            "menu_name": "염통(2pcs)",
+            "price": "4,500원"
+        },
+        {
+            "category": "야끼토리",
+            "img_src": "",
+            "menu_name": "목살(2pcs)",
+            "price": "4,500원"
+        },
+        {
+            "category": "야끼토리",
+            "img_src": "",
+            "menu_name": "방울 삼겹말이(2pcs)",
+            "price": "5,000원"
+        },
+        {
+            "category": "야끼토리",
+            "img_src": "",
+            "menu_name": "삼겹파말이(2pcs)",
+            "price": "5,000원"
+        },
+        {
+            "category": "야끼토리",
+            "img_src": "",
+            "menu_name": "랜덤꼬치 5종(5pcs)",
+            "price": "11,000원"
+        },
+        {
+            "category": "야끼토리",
+            "img_src": "",
+            "menu_name": "새우 삼겹 말이(2pcs)",
+            "price": "5,000원"
+        },
+        {
+            "category": "구이",
+            "img_src": "",
+            "menu_name": "시사모 구이 열빙어",
+            "price": "11,900원"
+        },
+        {
+            "category": "구이",
+            "img_src": "",
+            "menu_name": "야끼우동",
+            "price": "14,900원"
+        },
+        {
+            "category": "구이",
+            "img_src": "",
+            "menu_name": "명란 구이",
+            "price": "10,900원"
+        },
+        {
+            "category": "전",
+            "img_src": "",
+            "menu_name": "매콤 육전",
+            "price": "16,900원"
+        },
+        {
+            "category": "전",
+            "img_src": "",
+            "menu_name": "한입통새우전",
+            "price": "15,900원"
+        },
+        {
+            "category": "전",
+            "img_src": "",
+            "menu_name": "통대파전",
+            "price": "14,900원"
+        },
+        {
+            "category": "전",
+            "img_src": "",
+            "menu_name": "오꼬노미야끼(1)",
+            "price": "15,900원"
+        },
+        {
+            "category": "곁들임",
+            "img_src": "",
+            "menu_name": "타코야끼",
+            "price": "8,900원"
+        },
+        {
+            "category": "튀김",
+            "img_src": "",
+            "menu_name": "못난이 고구마 튀김",
+            "price": "7,900원"
+        },
+        {
+            "category": "식사",
+            "img_src": "",
+            "menu_name": "참치비빔밥",
+            "price": "6,900원"
+        },
+        {
+            "category": "식사",
+            "img_src": "",
+            "menu_name": "self 참치주먹밥",
+            "price": "4,900원"
+        },
+        {
+            "category": "식사",
+            "img_src": "",
+            "menu_name": "치킨마요 덮밥",
+            "price": "5,900원"
+        },
+        {
+            "category": "추가메뉴",
+            "img_src": "",
+            "menu_name": "묵사발",
+            "price": "4,000원"
+        },
+        {
+            "category": "추가메뉴",
+            "img_src": "",
+            "menu_name": "고기추가",
+            "price": "9,900원"
+        },
+        {
+            "category": "추가메뉴",
+            "img_src": "",
+            "menu_name": "라면사리",
+            "price": "2,000원"
+        },
+        {
+            "category": "추가메뉴",
+            "img_src": "",
+            "menu_name": "수제비사리",
+            "price": "2,000원"
+        },
+        {
+            "category": "음료",
+            "img_src": "",
+            "menu_name": "코카콜라(355ml)",
+            "price": "2,000원"
+        },
+        {
+            "category": "음료",
+            "img_src": "",
+            "menu_name": "zero 코카콜라(355ml)",
+            "price": "2,000원"
+        },
+        {
+            "category": "음료",
+            "img_src": "",
+            "menu_name": "스프라이트(355ml)",
+            "price": "2,000원"
+        },
+        {
+            "category": "음료",
+            "img_src": "",
+            "menu_name": "포도봉봉(340ml)",
+            "price": "2,000원"
+        },
+        {
+            "category": "음료",
+            "img_src": "",
+            "menu_name": "갈아만든배(340ml)",
+            "price": "2,000원"
+        },
+        {
+            "category": "음료",
+            "img_src": "",
+            "menu_name": "진저에일(250ml)",
+            "price": "2,000원"
+        },
+        {
+            "category": "음료",
+            "img_src": "",
+            "menu_name": "토닉워터(300ml)",
+            "price": "2,000원"
+        }
+    ]
+}

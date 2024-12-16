@@ -1,0 +1,38 @@
+{
+    "store_name": "보드람치킨 이천안흥점",
+    "store_location": "경기 이천시 애련정로 57",
+    "loc_x": "240165.370394286",
+    "loc_y": "419579.368679518",
+    "menu": [
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240820_67%2F1724131266410QUP4r_JPEG%2F01._%25BA%25B8%25B5%25E5%25B6%25F7_%25C8%25C4%25B6%25F3%25C0%25CC%25B5%25E5.jpg",
+            "menu_name": "오리지널 후라이드",
+            "price": "19,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240820_162%2F1724131277220L8ezV_JPEG%2F06._%25C5%25EB%25B3%25AF%25B0%25B3_%25C8%25C4%25B6%25F3%25C0%25CC%25B5%25E5.jpg",
+            "menu_name": "통날개 후라이드",
+            "price": "21,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240820_56%2F1724131271560KDj4A_JPEG%2F05._%25C5%25EB%25B4%25D9%25B8%25AE_%25C8%25C4%25B6%25F3%25C0%25CC%25B5%25E5.jpg",
+            "menu_name": "통다리 후라이드",
+            "price": "21,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240820_108%2F172413128378954DQh_JPEG%2F13._%25BC%25F8%25BB%25EC_%25C8%25C4%25B6%25F3%25C0%25CC%25B5%25E5.jpg",
+            "menu_name": "순살 후라이드(가슴살)★양념+1,000",
+            "price": "20,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240820_283%2F1724131290122Dwd5l_JPEG%2F13._%25BC%25F8%25BB%25EC_%25C8%25C4%25B6%25F3%25C0%25CC%25B5%25E5.jpg",
+            "menu_name": "순살 후라이드(정육)★양념+1,000",
+            "price": "21,000원"
+        }
+    ]
+}

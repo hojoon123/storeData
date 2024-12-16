@@ -1,0 +1,38 @@
+{
+    "store_name": "먹보보쌈",
+    "store_location": "경기 파주시 경의로1240번길 15 유은타워9차 2층 205호",
+    "loc_x": "178940.230886891",
+    "loc_y": "469595.332297633",
+    "menu": [
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241210_205%2F1733840159530T6QeO_JPEG%2F1000003386.jpg",
+            "menu_name": "메뉴판 이미지로 보기 ♥",
+            "price": "39,000원"
+        },
+        {
+            "category": "",
+            "img_src": "",
+            "menu_name": "점심특선 보쌈정식",
+            "price": "12,000원"
+        },
+        {
+            "category": "",
+            "img_src": "",
+            "menu_name": "짝꿍세트 (2인)",
+            "price": "39,000원"
+        },
+        {
+            "category": "",
+            "img_src": "",
+            "menu_name": "친구세트 (3인)",
+            "price": "49,000원"
+        },
+        {
+            "category": "",
+            "img_src": "",
+            "menu_name": "가족세트 (4인)",
+            "price": "59,000원"
+        }
+    ]
+}

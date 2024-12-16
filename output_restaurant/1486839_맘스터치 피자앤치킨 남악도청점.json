@@ -1,0 +1,584 @@
+{
+    "store_name": "맘스터치 피자앤치킨 남악도청점",
+    "store_location": "전남 무안군 삼향읍 남악4로82번길 13 103호",
+    "loc_x": "151215.598691784",
+    "loc_y": "146184.835",
+    "menu": [
+        {
+            "category": "대표메뉴",
+            "img_src": "",
+            "menu_name": "[BEST] 싸이피자",
+            "price": "22,900원"
+        },
+        {
+            "category": "대표메뉴",
+            "img_src": "",
+            "menu_name": "[BEST] 허니통옥수수피자",
+            "price": "17,900원"
+        },
+        {
+            "category": "대표메뉴",
+            "img_src": "",
+            "menu_name": "[BEST] 콤비네이션피자",
+            "price": "16,900원"
+        },
+        {
+            "category": "대표메뉴",
+            "img_src": "",
+            "menu_name": "후라이드 빅싸이순살",
+            "price": "11,900원"
+        },
+        {
+            "category": "대표메뉴",
+            "img_src": "",
+            "menu_name": "싸이피자 빅싸이순살 피치세트",
+            "price": "33,300원"
+        },
+        {
+            "category": "대표메뉴",
+            "img_src": "",
+            "menu_name": "시그니처 빅싸이순살 피치세트",
+            "price": "28,300원"
+        },
+        {
+            "category": "[치킨의 바삭함을 피자에 담았다] 싸이피자",
+            "img_src": "",
+            "menu_name": "[BEST] 싸이피자",
+            "price": "22,900원"
+        },
+        {
+            "category": "[치킨의 바삭함을 피자에 담았다] 싸이피자",
+            "img_src": "",
+            "menu_name": "싸이피자 투계더 박스(치킨)",
+            "price": "35,400원"
+        },
+        {
+            "category": "[치킨의 바삭함을 피자에 담았다] 싸이피자",
+            "img_src": "",
+            "menu_name": "싸이피자 빅싸이순살 피치세트",
+            "price": "33,300원"
+        },
+        {
+            "category": "[치킨의 바삭함을 피자에 담았다] 싸이피자",
+            "img_src": "",
+            "menu_name": "싸이피자 빅싸이순살맥스 피치세트",
+            "price": "41,300원"
+        },
+        {
+            "category": "[치킨의 바삭함을 피자에 담았다] 싸이피자",
+            "img_src": "",
+            "menu_name": "싸이피자 반마리 피치세트",
+            "price": "31,300원"
+        },
+        {
+            "category": "[치킨의 바삭함을 피자에 담았다] 싸이피자",
+            "img_src": "",
+            "menu_name": "싸이피자 한마리 피치세트",
+            "price": "39,300원"
+        },
+        {
+            "category": "[치킨의 바삭함을 피자에 담았다] 싸이피자",
+            "img_src": "",
+            "menu_name": "싸이피자 반반 피치세트",
+            "price": "40,300원"
+        },
+        {
+            "category": "[치킨의 바삭함을 피자에 담았다] 싸이피자",
+            "img_src": "",
+            "menu_name": "싸이피자 투계더 박스(떡강정)",
+            "price": "35,100원"
+        },
+        {
+            "category": "[치킨의 바삭함을 피자에 담았다] 싸이피자",
+            "img_src": "",
+            "menu_name": "싸이피자N스낵세트",
+            "price": "25,800원"
+        },
+        {
+            "category": "[피자와 치킨을 한번에] 피자앤치킨세트",
+            "img_src": "",
+            "menu_name": "[NEW]투계더 박스(치킨)",
+            "price": "28,400원"
+        },
+        {
+            "category": "[피자와 치킨을 한번에] 피자앤치킨세트",
+            "img_src": "",
+            "menu_name": "시그니처 빅싸이순살 피치세트",
+            "price": "28,300원"
+        },
+        {
+            "category": "[피자와 치킨을 한번에] 피자앤치킨세트",
+            "img_src": "",
+            "menu_name": "시그니처 빅싸이순살맥스 피치세트",
+            "price": "36,300원"
+        },
+        {
+            "category": "[피자와 치킨을 한번에] 피자앤치킨세트",
+            "img_src": "",
+            "menu_name": "시그니처 반마리 피치세트",
+            "price": "26,300원"
+        },
+        {
+            "category": "[피자와 치킨을 한번에] 피자앤치킨세트",
+            "img_src": "",
+            "menu_name": "시그니처 한마리 피치세트",
+            "price": "34,300원"
+        },
+        {
+            "category": "[피자와 치킨을 한번에] 피자앤치킨세트",
+            "img_src": "",
+            "menu_name": "시그니처 반반 피치세트 (후라이드 1종 + 양념 선택)",
+            "price": "35,300원"
+        },
+        {
+            "category": "[피자와 치킨을 한번에] 피자앤치킨세트",
+            "img_src": "",
+            "menu_name": "클래식 빅싸이순살 피치세트",
+            "price": "26,300원"
+        },
+        {
+            "category": "[피자와 치킨을 한번에] 피자앤치킨세트",
+            "img_src": "",
+            "menu_name": "클래식 빅싸이순살맥스 피치세트",
+            "price": "34,300원"
+        },
+        {
+            "category": "[피자와 치킨을 한번에] 피자앤치킨세트",
+            "img_src": "",
+            "menu_name": "클래식 반마리 피치세트",
+            "price": "24,300원"
+        },
+        {
+            "category": "[피자와 치킨을 한번에] 피자앤치킨세트",
+            "img_src": "",
+            "menu_name": "클래식 한마리 피치세트",
+            "price": "32,300원"
+        },
+        {
+            "category": "[피자와 치킨을 한번에] 피자앤치킨세트",
+            "img_src": "",
+            "menu_name": "클래식 반반 피치세트 (후라이드 1종 + 양념 선택)",
+            "price": "33,300원"
+        },
+        {
+            "category": "[피자와 사이드를 함께] 피자앤스낵세트",
+            "img_src": "",
+            "menu_name": "[NEW]투계더 박스(떡강정)",
+            "price": "28,100원"
+        },
+        {
+            "category": "[피자와 사이드를 함께] 피자앤스낵세트",
+            "img_src": "",
+            "menu_name": "시그니처피자N스낵세트",
+            "price": "20,800원"
+        },
+        {
+            "category": "[피자와 사이드를 함께] 피자앤스낵세트",
+            "img_src": "",
+            "menu_name": "클래식 피자N스낵세트",
+            "price": "18,800원"
+        },
+        {
+            "category": "시그니처 피자단품",
+            "img_src": "",
+            "menu_name": "[BEST] 허니통옥수수피자",
+            "price": "17,900원"
+        },
+        {
+            "category": "시그니처 피자단품",
+            "img_src": "",
+            "menu_name": "바베큐폭립피자",
+            "price": "26,900원"
+        },
+        {
+            "category": "시그니처 피자단품",
+            "img_src": "",
+            "menu_name": "골든맥앤치즈피자",
+            "price": "23,900원"
+        },
+        {
+            "category": "시그니처 피자단품",
+            "img_src": "",
+            "menu_name": "핫치킨N쉬림프피자",
+            "price": "22,900원"
+        },
+        {
+            "category": "클래식 피자단품",
+            "img_src": "",
+            "menu_name": "[BEST] 콤비네이션피자",
+            "price": "16,900원"
+        },
+        {
+            "category": "클래식 피자단품",
+            "img_src": "",
+            "menu_name": "페퍼로니피자",
+            "price": "16,900원"
+        },
+        {
+            "category": "클래식 피자단품",
+            "img_src": "",
+            "menu_name": "포테이토피자",
+            "price": "17,900원"
+        },
+        {
+            "category": "클래식 피자단품",
+            "img_src": "",
+            "menu_name": "불고기피자",
+            "price": "17,900원"
+        },
+        {
+            "category": "클래식 피자단품",
+            "img_src": "",
+            "menu_name": "고구마피자",
+            "price": "17,900원"
+        },
+        {
+            "category": "클래식 피자단품",
+            "img_src": "",
+            "menu_name": "치즈베이컨피자",
+            "price": "16,900원"
+        },
+        {
+            "category": "클래식 피자단품",
+            "img_src": "",
+            "menu_name": "치즈피자",
+            "price": "15,900원"
+        },
+        {
+            "category": "빅싸이순살 맥스",
+            "img_src": "",
+            "menu_name": "핫치즈 빅싸이순살맥스",
+            "price": "22,500원"
+        },
+        {
+            "category": "빅싸이순살 맥스",
+            "img_src": "",
+            "menu_name": "후라이드 빅싸이순살맥스",
+            "price": "19,900원"
+        },
+        {
+            "category": "빅싸이순살 맥스",
+            "img_src": "",
+            "menu_name": "맘스양념 빅싸이순살맥스",
+            "price": "21,900원"
+        },
+        {
+            "category": "빅싸이순살 맥스",
+            "img_src": "",
+            "menu_name": "간장마늘 빅싸이순살맥스",
+            "price": "21,900원"
+        },
+        {
+            "category": "빅싸이순살 맥스",
+            "img_src": "",
+            "menu_name": "꿀간장누룽지 빅싸이순살맥스",
+            "price": "22,500원"
+        },
+        {
+            "category": "빅싸이순살",
+            "img_src": "",
+            "menu_name": "핫치즈 빅싸이순살",
+            "price": "14,500원"
+        },
+        {
+            "category": "빅싸이순살",
+            "img_src": "",
+            "menu_name": "후라이드 빅싸이순살",
+            "price": "11,900원"
+        },
+        {
+            "category": "빅싸이순살",
+            "img_src": "",
+            "menu_name": "맘스양념 빅싸이순살",
+            "price": "13,900원"
+        },
+        {
+            "category": "빅싸이순살",
+            "img_src": "",
+            "menu_name": "간장마늘 빅싸이순살",
+            "price": "13,900원"
+        },
+        {
+            "category": "빅싸이순살",
+            "img_src": "",
+            "menu_name": "꿀간장누룽지 빅싸이순살",
+            "price": "14,500원"
+        },
+        {
+            "category": "치킨단품",
+            "img_src": "",
+            "menu_name": "후라이드치킨",
+            "price": "17,900원"
+        },
+        {
+            "category": "치킨단품",
+            "img_src": "",
+            "menu_name": "반반치킨(후라이드+양념1종)",
+            "price": "18,900원"
+        },
+        {
+            "category": "치킨단품",
+            "img_src": "",
+            "menu_name": "맘스양념치킨",
+            "price": "19,900원"
+        },
+        {
+            "category": "치킨단품",
+            "img_src": "",
+            "menu_name": "간장마늘치킨",
+            "price": "19,900원"
+        },
+        {
+            "category": "치킨단품",
+            "img_src": "",
+            "menu_name": "치파오치킨",
+            "price": "19,900원"
+        },
+        {
+            "category": "치킨단품",
+            "img_src": "",
+            "menu_name": "치즈뿌치치킨",
+            "price": "19,900원"
+        },
+        {
+            "category": "치킨단품",
+            "img_src": "",
+            "menu_name": "꿀간장누룽지치킨",
+            "price": "20,500원"
+        },
+        {
+            "category": "떡강정",
+            "img_src": "",
+            "menu_name": "닭강정트리오",
+            "price": "12,300원"
+        },
+        {
+            "category": "떡강정",
+            "img_src": "",
+            "menu_name": "케이준떡강정(S)",
+            "price": "4,300원"
+        },
+        {
+            "category": "떡강정",
+            "img_src": "",
+            "menu_name": "케이준떡강정(R)",
+            "price": "11,700원"
+        },
+        {
+            "category": "떡강정",
+            "img_src": "",
+            "menu_name": "간장마늘떡강정(S)",
+            "price": "4,500원"
+        },
+        {
+            "category": "떡강정",
+            "img_src": "",
+            "menu_name": "간장마늘떡강정(R)",
+            "price": "12,200원"
+        },
+        {
+            "category": "떡강정",
+            "img_src": "",
+            "menu_name": "치파오떡강정(S)",
+            "price": "4,500원"
+        },
+        {
+            "category": "떡강정",
+            "img_src": "",
+            "menu_name": "치파오떡강정(R)",
+            "price": "12,200원"
+        },
+        {
+            "category": "통다리치킨",
+            "img_src": "",
+            "menu_name": "후라이드통다리(1조각)",
+            "price": "5,000원"
+        },
+        {
+            "category": "피자 사이드 메뉴",
+            "img_src": "",
+            "menu_name": "콘치즈 그라탕",
+            "price": "4,900원"
+        },
+        {
+            "category": "피자 사이드 메뉴",
+            "img_src": "",
+            "menu_name": "치즈오븐파스타",
+            "price": "6,900원"
+        },
+        {
+            "category": "피자 사이드 메뉴",
+            "img_src": "",
+            "menu_name": "핫윙(4조각)",
+            "price": "5,000원"
+        },
+        {
+            "category": "피자 사이드 메뉴",
+            "img_src": "",
+            "menu_name": "핫윙(10조각)",
+            "price": "9,000원"
+        },
+        {
+            "category": "맘스 사이드 메뉴",
+            "img_src": "",
+            "menu_name": "코울슬로",
+            "price": "1,900원"
+        },
+        {
+            "category": "맘스 사이드 메뉴",
+            "img_src": "",
+            "menu_name": "콘샐러드",
+            "price": "1,900원"
+        },
+        {
+            "category": "맘스 사이드 메뉴",
+            "img_src": "",
+            "menu_name": "바삭크림치즈볼(2조각)",
+            "price": "2,100원"
+        },
+        {
+            "category": "맘스 사이드 메뉴",
+            "img_src": "",
+            "menu_name": "바삭크림치즈볼(4조각)",
+            "price": "3,800원"
+        },
+        {
+            "category": "맘스 사이드 메뉴",
+            "img_src": "",
+            "menu_name": "케이준양념감자(중)",
+            "price": "2,100원"
+        },
+        {
+            "category": "맘스 사이드 메뉴",
+            "img_src": "",
+            "menu_name": "케이준양념감자(대)",
+            "price": "3,600원"
+        },
+        {
+            "category": "맘스 사이드 메뉴",
+            "img_src": "",
+            "menu_name": "치즈감자",
+            "price": "2,900원"
+        },
+        {
+            "category": "맘스 사이드 메뉴",
+            "img_src": "",
+            "menu_name": "치즈뿌치감자(체다)",
+            "price": "3,000원"
+        },
+        {
+            "category": "맘스 사이드 메뉴",
+            "img_src": "",
+            "menu_name": "치즈스틱(2조각)",
+            "price": "2,100원"
+        },
+        {
+            "category": "맘스 사이드 메뉴",
+            "img_src": "",
+            "menu_name": "갈릭김떡만",
+            "price": "3,600원"
+        },
+        {
+            "category": "맘스 사이드 메뉴",
+            "img_src": "",
+            "menu_name": "매콤김떡만",
+            "price": "3,600원"
+        },
+        {
+            "category": "맘스 사이드 메뉴",
+            "img_src": "",
+            "menu_name": "할라피뇨너겟(4조각)",
+            "price": "2,100원"
+        },
+        {
+            "category": "맘스 사이드 메뉴",
+            "img_src": "",
+            "menu_name": "할라피뇨너겟(10조각)",
+            "price": "4,600원"
+        },
+        {
+            "category": "맘스 사이드 메뉴",
+            "img_src": "",
+            "menu_name": "팝콘볼",
+            "price": "2,700원"
+        },
+        {
+            "category": "맘스 사이드 메뉴",
+            "img_src": "",
+            "menu_name": "고구마치즈팝콘볼",
+            "price": "2,700원"
+        },
+        {
+            "category": "맘스 사이드 메뉴",
+            "img_src": "",
+            "menu_name": "국물떡볶이",
+            "price": "4,900원"
+        },
+        {
+            "category": "음료",
+            "img_src": "",
+            "menu_name": "펩시콜라 500ml",
+            "price": "1,800원"
+        },
+        {
+            "category": "음료",
+            "img_src": "",
+            "menu_name": "사이다 500ml",
+            "price": "1,800원"
+        },
+        {
+            "category": "음료",
+            "img_src": "",
+            "menu_name": "펩시콜라 1.25L",
+            "price": "2,500원"
+        },
+        {
+            "category": "음료",
+            "img_src": "",
+            "menu_name": "사이다 1.25L",
+            "price": "2,500원"
+        },
+        {
+            "category": "소스 및 기타",
+            "img_src": "",
+            "menu_name": "맘스양념소스",
+            "price": "1,000원"
+        },
+        {
+            "category": "소스 및 기타",
+            "img_src": "",
+            "menu_name": "랜치소스",
+            "price": "1,000원"
+        },
+        {
+            "category": "소스 및 기타",
+            "img_src": "",
+            "menu_name": "치킨무",
+            "price": "500원"
+        },
+        {
+            "category": "소스 및 기타",
+            "img_src": "",
+            "menu_name": "피클",
+            "price": "500원"
+        },
+        {
+            "category": "소스 및 기타",
+            "img_src": "",
+            "menu_name": "핫소스",
+            "price": "100원"
+        },
+        {
+            "category": "소스 및 기타",
+            "img_src": "",
+            "menu_name": "맘스디핑소스",
+            "price": "300원"
+        },
+        {
+            "category": "소스 및 기타",
+            "img_src": "",
+            "menu_name": "파마산 치즈가루",
+            "price": "100원"
+        }
+    ]
+}

@@ -1,0 +1,74 @@
+{
+    "store_name": "구이대장쪽갈비 하남미사점",
+    "store_location": "경기 하남시 미사강변중앙로 200 1층 118-1호, 118-2호, 119호",
+    "loc_x": "216713.479697453",
+    "loc_y": "451381.495905639",
+    "menu": [
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241204_264%2F1733295632512ycgj7_JPEG%2F2024_DM01085_%25C0%25FA%25BF%25EB%25B7%25AE.jpg",
+            "menu_name": "소금쪽갈비 500g",
+            "price": "24,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241204_130%2F1733295690180YG2kQ_JPEG%2F2024_DM01147.JPG",
+            "menu_name": "바베큐쪽갈비 500g",
+            "price": "24,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241204_215%2F1733295755913jOMQf_JPEG%2F2024_DM01101.JPG",
+            "menu_name": "매운쪽갈비 500g",
+            "price": "24,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241205_180%2F1733362711551zP6IA_PNG%2F%25B4%25DF.png",
+            "menu_name": "국물무뼈닭발",
+            "price": "22,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241204_37%2F1733296026700V1FnO_JPEG%2F2024_DM01136.JPG",
+            "menu_name": "풍산김치찌개",
+            "price": "11,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241204_48%2F17332954334460l4Mq_PNG%2F20241204_103352.png",
+            "menu_name": "항아리김치수제비",
+            "price": "10,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241204_150%2F1733295238936OJp9d_JPEG%2F2024_DM01119.JPG",
+            "menu_name": "된장술밥",
+            "price": "7,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241204_39%2F1733295401270S4piT_JPEG%2F2024_DM01171.JPG",
+            "menu_name": "신라면리조또",
+            "price": "9,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241204_187%2F1733295480110tTPu2_JPEG%2F2024_DM01077.JPG",
+            "menu_name": "트러플감자튀김",
+            "price": "8,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241204_85%2F1733295335638Bp6oQ_JPEG%2F2024_DM01163.JPG",
+            "menu_name": "뚝배기짜파게티",
+            "price": "8,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241204_239%2F1733295570858cmLuS_JPEG%2F2024_DM01177.JPG",
+            "menu_name": "김많이주먹밥",
+            "price": "5,000원"
+        }
+    ]
+}

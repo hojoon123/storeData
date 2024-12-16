@@ -1,0 +1,86 @@
+{
+    "store_name": "소담촌 진천점",
+    "store_location": "충북 진천군 진천읍 중앙북1길 3 2층",
+    "loc_x": "239121.721347036",
+    "loc_y": "373252.212730572",
+    "menu": [
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241127_96%2F1732704140700kd00M_JPEG%2F%25BF%25F9%25B3%25B2%25BD%25D3_%25BB%25FE%25BA%25EA_%25C1%25A4%25BD%25C4.jpg",
+            "menu_name": "[점심특선] 월남쌈 샤브 정식",
+            "price": "14,900원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241127_111%2F1732704122818L5OgS_JPEG%2F%25B9%25F6%25BC%25B8%25C1%25A1%25BD%25C9.jpg",
+            "menu_name": "[점심특선] 월남쌈 버섯샤브 정식",
+            "price": "16,500원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241127_134%2F1732704105206wyaUl_JPEG%2F%25C7%25D1%25BF%25EC.jpg",
+            "menu_name": "[점심특선] 명품 한우샤브 정식",
+            "price": "19,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241127_169%2F17327040883836neH7_JPEG%2F%25BF%25CD%25B1%25D4.jpg",
+            "menu_name": "[점심특선] 월남쌈 와규샤브 정식",
+            "price": "16,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241127_18%2F1732704067517pyGga_JPEG%2F%25C7%25D8%25B9%25B0%25C1%25A1%25BD%25C9.jpg",
+            "menu_name": "[점심특선] 월남쌈 해물샤브 정식",
+            "price": "19,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241127_268%2F1732704047755XA0KR_JPEG%2F%25BF%25F9%25B3%25B2%25BD%25D3_%25BB%25FE%25BA%25EA.jpg",
+            "menu_name": "월남쌈 샤브",
+            "price": "16,900원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241127_9%2F1732704025647wsJlV_JPEG%2F%25B9%25F6%25BC%25B8.jpg",
+            "menu_name": "월남쌈 버섯샤브",
+            "price": "21,900원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241127_111%2F1732703983495jTev4_JPEG%2F%25BF%25CD%25B1%25D4.jpg",
+            "menu_name": "월남쌈 와규샤브",
+            "price": "21,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241127_121%2F1732703965253MeQbx_JPEG%2F%25C7%25D1%25BF%25EC.jpg",
+            "menu_name": "월남쌈 명품한우샤브",
+            "price": "24,500원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241127_270%2F1732703945485VRwV6_JPEG%2F%25BF%25F9%25B3%25B2%25BD%25D3_%25BB%25FE%25C6%25E4%25BC%25C8_%25BB%25FE%25BA%25EA.jpg",
+            "menu_name": "월남쌈 스폐셜샤브",
+            "price": "26,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241127_264%2F1732703868654qai1F_JPEG%2F%25BF%25EC%25BB%25EF%25B0%25E3.jpg",
+            "menu_name": "우삼겹 구이 & 샤브",
+            "price": "20,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241127_14%2F1732703853008BJ47X_JPEG%2F%25B5%25B7%25BB%25EF%25B0%25E3.jpg",
+            "menu_name": "돈삼겹 구이 & 샤브",
+            "price": "21,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241127_273%2F1732703824811Ggm00_GIF%2F%25BF%25CD%25B1%25D4%25B1%25B8%25C0%25CC%25BB%25E7%25C1%25F8.GIF",
+            "menu_name": "와규 구이 & 샤브",
+            "price": "22,900원"
+        }
+    ]
+}

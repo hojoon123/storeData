@@ -1,0 +1,44 @@
+{
+    "store_name": "그집순대국 포천점",
+    "store_location": "경기 포천시 군내면 용정경제로 71 나동 1층",
+    "loc_x": "217443.459621737",
+    "loc_y": "486832.653163962",
+    "menu": [
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20231130_101%2F17013380011900prjr_JPEG%2Ftemp_file.jpg",
+            "menu_name": "순대국",
+            "price": "10,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20231130_257%2F1701338021625xnLWy_JPEG%2Ftemp_file.jpg",
+            "menu_name": "얼큰순대국",
+            "price": "11,000원"
+        },
+        {
+            "category": "",
+            "img_src": "",
+            "menu_name": "뽈살순대국",
+            "price": "11,000원"
+        },
+        {
+            "category": "",
+            "img_src": "",
+            "menu_name": "통마늘순대국",
+            "price": "11,000원"
+        },
+        {
+            "category": "",
+            "img_src": "",
+            "menu_name": "숙주나물순대국",
+            "price": "11,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20231130_223%2F1701338048113aH7M2_JPEG%2Ftemp_file.jpg",
+            "menu_name": "소곱창전골(중)",
+            "price": "40,000원"
+        }
+    ]
+}

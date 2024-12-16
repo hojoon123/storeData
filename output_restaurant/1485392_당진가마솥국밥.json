@@ -1,0 +1,62 @@
+{
+    "store_name": "당진가마솥국밥",
+    "store_location": "충남 당진시 송산면 송산로 765-3 C동 1층",
+    "loc_x": "172577.302850206",
+    "loc_y": "383811.617255139",
+    "menu": [
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241203_173%2F17332283617346dFGc_JPEG%2F1000000091.jpg",
+            "menu_name": "머리국밥",
+            "price": "10,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241203_262%2F1733228264721sugff_JPEG%2F1000000092.jpg",
+            "menu_name": "순대국밥",
+            "price": "10,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241203_268%2F1733228388297GLwel_JPEG%2F1000000093.jpg",
+            "menu_name": "선지국밥",
+            "price": "10,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241203_262%2F1733228422280Uw1zj_JPEG%2F1000000094.jpg",
+            "menu_name": "머리수육",
+            "price": "30,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241203_53%2F1733228460619j2DmK_JPEG%2F1000000095.jpg",
+            "menu_name": "옛날순대",
+            "price": "30,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241203_178%2F1733228967169fKljP_PNG%2F1000000104.png",
+            "menu_name": "모듬수육",
+            "price": "30,000원"
+        },
+        {
+            "category": "",
+            "img_src": "",
+            "menu_name": "고기만두",
+            "price": "7,000원"
+        },
+        {
+            "category": "",
+            "img_src": "",
+            "menu_name": "갈비만두",
+            "price": "7,000원"
+        },
+        {
+            "category": "",
+            "img_src": "",
+            "menu_name": "낙지만두",
+            "price": "7,000원"
+        }
+    ]
+}

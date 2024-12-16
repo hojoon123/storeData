@@ -1,0 +1,98 @@
+{
+    "store_name": "돈돈찜 광주남구점",
+    "store_location": "광주 남구 백양로51번길 6-1 돈돈찜 광주남구점",
+    "loc_x": "191497.585835961",
+    "loc_y": "181731.179182872",
+    "menu": [
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240119_44%2F1705666203164x5CBf_PNG%2F01_%25B8%25DE%25C0%25CE_05.png",
+            "menu_name": "[알뜰] 한돈 매운찜갈비",
+            "price": "11,900원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240119_124%2F1705666172704Ken1Q_PNG%2F03_1%25C0%25CE%25BC%25BC%25C6%25AE_%25B5%25B7%25B5%25B7%25C2%25F2_1.png",
+            "menu_name": "[혼밥세트] 매운찜갈비",
+            "price": "14,900원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240119_294%2F17056661329983rHn9_PNG%2F03_1%25C0%25CE%25BC%25BC%25C6%25AE_%25C4%25A1%25C1%25EE_1.png",
+            "menu_name": "[혼밥세트] 치즈 매운찜갈비",
+            "price": "16,900원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240119_43%2F1705666106733p5rAf_PNG%2F03_1%25C0%25CE%25BC%25BC%25C6%25AE_%25B7%25CE%25C1%25A6_2.png",
+            "menu_name": "[혼밥세트] 로제 매운찜갈비",
+            "price": "16,900원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240119_293%2F1705666075392pvP0e_PNG%2F03_1%25C0%25CE%25BC%25BC%25C6%25AE_%25B7%25CE%25C1%25A6_2.png",
+            "menu_name": "[혼밥세트] 마라로제 매운찜갈비",
+            "price": "16,900원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240119_43%2F1705666044284R4X5n_PNG%2F02_2%25C0%25CE%25BC%25BC%25C6%25AE_%25B5%25B7%25B5%25B7%25C2%25F2.png",
+            "menu_name": "[SET] 국내산 매운찜갈비 소",
+            "price": "25,900원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240119_4%2F1705666039343t6Dlg_PNG%2F02_2%25C0%25CE%25BC%25BC%25C6%25AE_%25B5%25B7%25B5%25B7%25C2%25F2.png",
+            "menu_name": "[SET] 국내산 매운찜갈비 중",
+            "price": "36,900원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240119_160%2F1705666034593PmOLg_PNG%2F02_2%25C0%25CE%25BC%25BC%25C6%25AE_%25B5%25B7%25B5%25B7%25C2%25F2.png",
+            "menu_name": "[SET] 국내산 매운찜갈비 대",
+            "price": "48,900원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240119_172%2F1705665946022tiPxu_PNG%2F02_2%25C0%25CE%25BC%25BC%25C6%25AE_%25C4%25A1%25C1%25EE.png",
+            "menu_name": "[SET] 국내산 치즈매운찜갈비 소",
+            "price": "27,900원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240119_186%2F1705665940556yqTdK_PNG%2F02_2%25C0%25CE%25BC%25BC%25C6%25AE_%25C4%25A1%25C1%25EE.png",
+            "menu_name": "[SET] 국내산 치즈매운찜갈비 중",
+            "price": "38,900원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240119_152%2F1705665936026O5WTF_PNG%2F02_2%25C0%25CE%25BC%25BC%25C6%25AE_%25C4%25A1%25C1%25EE.png",
+            "menu_name": "[SET] 국내산 치즈매운찜갈비 대",
+            "price": "50,900원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240119_222%2F1705665904717LHAoz_PNG%2F02_2%25C0%25CE%25BC%25BC%25C6%25AE_%25B7%25CE%25C1%25A6.png",
+            "menu_name": "[SET] 국내산 로제찜갈비 소",
+            "price": "27,900원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240119_8%2F1705665899075gbOQH_PNG%2F02_2%25C0%25CE%25BC%25BC%25C6%25AE_%25B7%25CE%25C1%25A6.png",
+            "menu_name": "[SET] 국내산 로제찜갈비 중",
+            "price": "38,900원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240119_253%2F1705665890885IBIWP_PNG%2F02_2%25C0%25CE%25BC%25BC%25C6%25AE_%25B7%25CE%25C1%25A6.png",
+            "menu_name": "[SET] 국내산 로제찜갈비 대",
+            "price": "50,900원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240119_116%2F1705665770101tjd7D_PNG%2F02_2%25C0%25CE%25BC%25BC%25C6%25AE_%25B7%25CE%25C1%25A6.png",
+            "menu_name": "[SET] 국내산 마라로제찜갈비 소",
+            "price": "27,900원"
+        }
+    ]
+}

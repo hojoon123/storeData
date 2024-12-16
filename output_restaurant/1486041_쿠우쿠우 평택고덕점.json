@@ -1,0 +1,44 @@
+{
+    "store_name": "쿠우쿠우 평택고덕점",
+    "store_location": "경기 평택시 고덕국제대로 77 ,브리티시고덕 5층(고덕동,힐스테이트)",
+    "loc_x": "203709.243236458",
+    "loc_y": "393590.810761107",
+    "menu": [
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241213_162%2F17340664789099VUOQ_JPEG%2FKakaoTalk_20241213_132542762_22.jpg",
+            "menu_name": "평일런치(오후5시 이전)",
+            "price": "25,900원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241213_22%2F1734066452707xj2E8_JPEG%2FKakaoTalk_20241213_132542762_12.jpg",
+            "menu_name": "평일디너(오후5시 이후)",
+            "price": "30,900원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241213_277%2F1734066436387s5K0b_JPEG%2FKakaoTalk_20241213_132542762_20.jpg",
+            "menu_name": "주말 및 공휴일",
+            "price": "33,900원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241213_73%2F17340664096600H6sb_JPEG%2FKakaoTalk_20241213_132542762_07.jpg",
+            "menu_name": "초등학생 (평일)",
+            "price": "15,900원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241213_97%2F1734066380745LYnnu_JPEG%2FKakaoTalk_20241213_132542762.jpg",
+            "menu_name": "초등학생 (주말 및 공휴일)",
+            "price": "16,900원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241213_237%2F1734066356660TPTTS_JPEG%2FKakaoTalk_20241213_132542762_16.jpg",
+            "menu_name": "미취학아동(만36개월 이상)",
+            "price": "8,900원"
+        }
+    ]
+}

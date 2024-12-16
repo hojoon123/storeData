@@ -1,0 +1,152 @@
+{
+    "store_name": "죽이야기 강릉 아산병원점",
+    "store_location": "강원 강릉시 사천면 방동길 38-1 강릉아산병원 별관 1층",
+    "loc_x": "363580.205089049",
+    "loc_y": "481138.750877628",
+    "menu": [
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241204_265%2F1733270746244K6Pb1_JPEG%2F%25BF%25CF%25B5%25B5%25C0%25FC%25BA%25B9%25C1%25D7.jpg",
+            "menu_name": "완도전복죽",
+            "price": "14,500원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241204_12%2F1733270985233yw7OE_JPEG%2F%25B8%25C5%25BB%25FD%25C0%25CC%25B1%25BC%25C1%25D7.jpg",
+            "menu_name": "매생이굴죽",
+            "price": "12,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241204_194%2F17332711129788l2Tq_JPEG%2F%25C8%25A3%25B9%25DA%25C1%25D7.jpg",
+            "menu_name": "호박죽",
+            "price": "11,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241204_158%2F1733271196721jsauO_JPEG%2F%25B6%25D2%25B9%25E8%25B1%25E2%25BA%25D2%25B0%25ED%25B1%25E2.jpg",
+            "menu_name": "뚝배기불고기",
+            "price": "13,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241204_66%2F1733271244680LSwM6_JPEG%2F%25C7%25D8%25B9%25B0%25BA%25BA%25C0%25BD%25B9%25E4.jpg",
+            "menu_name": "해물볶음밥",
+            "price": "10,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241204_249%2F1733270719198hY3E0_JPEG%2F%25C0%25DA%25BF%25AC%25BC%25DB%25C0%25CC%25C7%25D1%25BF%25EC%25C1%25D7.jpg",
+            "menu_name": "자연송이한우죽",
+            "price": "18,500원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241204_234%2F1733270758663J55tQ_JPEG%2F%25B0%25D4%25BB%25EC%25B3%25AF%25C4%25A1%25BE%25CB%25C1%25D7.jpg",
+            "menu_name": "게살날치알죽",
+            "price": "14,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241204_166%2F17332707777704YqQk_JPEG%2F%25BA%25D2%25B3%25AB%25C1%25D7%2528%25BC%25F8%25C7%25D1%25B8%25C0%2529.jpg",
+            "menu_name": "불낙죽(순한맛)",
+            "price": "13,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241204_52%2F1733270793086jQp8y_JPEG%2F%25BA%25D2%25B3%25AB%25C1%25D7%2528%25B8%25C5%25BF%25EE%25B8%25C0%2529.jpg",
+            "menu_name": "불낙죽(매운맛)",
+            "price": "13,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241204_255%2F1733270968853lOkWL_JPEG%2F%25C7%25D1%25BF%25EC%25B9%25F6%25BC%25B8%25C1%25D7.jpg",
+            "menu_name": "한우버섯죽",
+            "price": "12,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241204_32%2F1733270994864H13NM_JPEG%2F%25C7%25D1%25BF%25EC%25BE%25DF%25C3%25A4%25C1%25D7.jpg",
+            "menu_name": "한우야채죽",
+            "price": "12,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241204_71%2F1733271009375iTr2x_JPEG%2F%25C0%25CE%25BB%25EF%25B4%25DF%25C1%25D7.jpg",
+            "menu_name": "인삼닭죽",
+            "price": "11,500원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241204_96%2F17332710232306KiIp_JPEG%2F%25B8%25F0%25B5%25EB%25C7%25D8%25B9%25B0%25C1%25D7.jpg",
+            "menu_name": "모듬해물죽",
+            "price": "11,500원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241204_67%2F1733271033753P5Jn3_JPEG%2F%25B3%25AB%25C1%25F6%25B1%25E8%25C4%25A1%25C1%25D7.jpg",
+            "menu_name": "낙지김치죽",
+            "price": "11,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241204_241%2F1733271315254e4tzs_JPEG%2F%25C8%25E6%25C0%25D3%25C0%25DA%25C1%25D7.jpg",
+            "menu_name": "흑임자죽",
+            "price": "11,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241204_228%2F17332711225895Bo7P_JPEG%2F%25C6%25CF%25C1%25D7.jpg",
+            "menu_name": "팥죽",
+            "price": "11,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241204_105%2F1733271131597PkJrr_JPEG%2F%25B3%25EC%25B5%25CE%25C1%25D7.jpg",
+            "menu_name": "녹두죽",
+            "price": "11,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241204_34%2F17332710469301xINl_JPEG%2F%25C2%25FC%25C4%25A1%25BE%25DF%25C3%25A4%25C1%25D7.jpg",
+            "menu_name": "참치야채죽",
+            "price": "10,500원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241204_53%2F1733271061491BIMI7_JPEG%2F%25BE%25F3%25C5%25AB%25B1%25E8%25C4%25A1%25C1%25D7.jpg",
+            "menu_name": "얼큰김치죽",
+            "price": "10,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241204_120%2F1733271082943qCbSR_JPEG%2F%25B9%25F6%25BC%25B8%25BE%25DF%25C3%25A4%25C1%25D7.jpg",
+            "menu_name": "버섯야채죽",
+            "price": "10,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241204_116%2F1733271097039PBOD3_JPEG%2F%25BE%25DF%25C3%25A4%25C1%25D7.jpg",
+            "menu_name": "야채죽",
+            "price": "9,500원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241204_181%2F1733271141837jkKdF_JPEG%2F%25C8%25F2%25C1%25D7.jpg",
+            "menu_name": "흰죽",
+            "price": "6,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241204_12%2F1733271280962bs9Qx_JPEG%2F%25C1%25F8%25BB%25EF%25B0%25E8%25C5%25C1.jpg",
+            "menu_name": "진(眞)삼계탕",
+            "price": "14,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241204_157%2F1733271223933r0vEW_JPEG%2F%25C0%25B0%25B0%25B3%25C0%25E5.jpg",
+            "menu_name": "육개장",
+            "price": "12,000원"
+        }
+    ]
+}

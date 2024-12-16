@@ -1,0 +1,32 @@
+{
+    "store_name": "네모샌드위치&동그라미쿠키 신월성점",
+    "store_location": "대구 달서구 조암로10길 11 302동 105호 상가 1층",
+    "loc_x": "337513.131193023",
+    "loc_y": "259364.470854883",
+    "menu": [
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241214_82%2F1734164270136Mfb3d_JPEG%2FKakaoTalk_20241214_171327243_04.jpg",
+            "menu_name": "수제 대왕 쿠키",
+            "price": "4,500원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241214_9%2F1734164196983pM0ex_JPEG%2FKakaoTalk_20241214_171327243_06.jpg",
+            "menu_name": "버터 베이글",
+            "price": "2,800원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241214_244%2F1734164213441CUwuk_JPEG%2FKakaoTalk_20241214_171327243.jpg",
+            "menu_name": "수제 크림치즈",
+            "price": "2,800원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241214_74%2F1734164172470Bw5h1_JPEG%2FKakaoTalk_20241214_171327243_08.jpg",
+            "menu_name": "어니언베이글",
+            "price": "2,800원"
+        }
+    ]
+}

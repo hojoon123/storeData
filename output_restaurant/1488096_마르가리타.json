@@ -1,0 +1,104 @@
+{
+    "store_name": "마르가리타",
+    "store_location": "광주 북구 서하로 335 1층",
+    "loc_x": "192394.494426427",
+    "loc_y": "187543.068377741",
+    "menu": [
+        {
+            "category": "대표메뉴",
+            "img_src": "",
+            "menu_name": "마요꼬 치킨",
+            "price": "14,000원"
+        },
+        {
+            "category": "대표메뉴",
+            "img_src": "",
+            "menu_name": "멕끼꼬 치킨",
+            "price": "15,000원"
+        },
+        {
+            "category": "chicken,potatochip",
+            "img_src": "",
+            "menu_name": "멕끼꼬 치킨",
+            "price": "15,000원"
+        },
+        {
+            "category": "chicken,potatochip",
+            "img_src": "",
+            "menu_name": "마요꼬 치킨",
+            "price": "14,000원"
+        },
+        {
+            "category": "chicken,potatochip",
+            "img_src": "",
+            "menu_name": "강정꼬 치킨",
+            "price": "13,000원"
+        },
+        {
+            "category": "chicken,potatochip",
+            "img_src": "",
+            "menu_name": "어니언 칠리 꼬 치킨",
+            "price": "15,000원"
+        },
+        {
+            "category": "chicken,potatochip",
+            "img_src": "",
+            "menu_name": "포테이토칩",
+            "price": "5,000원"
+        },
+        {
+            "category": "Panini",
+            "img_src": "",
+            "menu_name": "바질 토마토 파니니 (샌드위치)",
+            "price": "8,000원"
+        },
+        {
+            "category": "Panini",
+            "img_src": "",
+            "menu_name": "당근 파니니 (샌드위치)",
+            "price": "6,500원"
+        },
+        {
+            "category": "Panini",
+            "img_src": "",
+            "menu_name": "사과 양배추 파니니 (샌드위치)",
+            "price": "7,000원"
+        },
+        {
+            "category": "Snack Wrap",
+            "img_src": "",
+            "menu_name": "치킨 칠리 랩 (스낵랩)",
+            "price": "7,500원"
+        },
+        {
+            "category": "Snack Wrap",
+            "img_src": "",
+            "menu_name": "치킨 치폴레 랩 (스낵랩)",
+            "price": "7,500원"
+        },
+        {
+            "category": "Snack Wrap",
+            "img_src": "",
+            "menu_name": "쉬림프 칠리 랩(스낵랩)",
+            "price": "8,000원"
+        },
+        {
+            "category": "Snack Wrap",
+            "img_src": "",
+            "menu_name": "쉬림프 치폴레 랩 (스낵랩)",
+            "price": "8,000원"
+        },
+        {
+            "category": "Drink",
+            "img_src": "",
+            "menu_name": "코카콜라(250ml)",
+            "price": "2,000원"
+        },
+        {
+            "category": "Drink",
+            "img_src": "",
+            "menu_name": "제로콜라(250ml)",
+            "price": "2,000원"
+        }
+    ]
+}

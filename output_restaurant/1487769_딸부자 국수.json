@@ -1,0 +1,62 @@
+{
+    "store_name": "딸부자 국수",
+    "store_location": "경남 김해시 진례면 고모로 53",
+    "loc_x": "360905.082397609",
+    "loc_y": "194058.402870886",
+    "menu": [
+        {
+            "category": "대표메뉴",
+            "img_src": "",
+            "menu_name": "물국수+오뎅+석쇠불고기",
+            "price": "10,000원"
+        },
+        {
+            "category": "대표메뉴",
+            "img_src": "",
+            "menu_name": "비빔국수+오뎅+석쇠불고기",
+            "price": "11,000원"
+        },
+        {
+            "category": "메뉴",
+            "img_src": "",
+            "menu_name": "물국수+오뎅+석쇠불고기",
+            "price": "10,000원"
+        },
+        {
+            "category": "메뉴",
+            "img_src": "",
+            "menu_name": "비빔국수+오뎅+석쇠불고기",
+            "price": "11,000원"
+        },
+        {
+            "category": "메뉴",
+            "img_src": "",
+            "menu_name": "얼큰두부국수+석쇠불고기",
+            "price": "12,500원"
+        },
+        {
+            "category": "사이드",
+            "img_src": "",
+            "menu_name": "만두",
+            "price": "6,000원"
+        },
+        {
+            "category": "사이드",
+            "img_src": "",
+            "menu_name": "석쇠불고기",
+            "price": "6,000원"
+        },
+        {
+            "category": "사이드",
+            "img_src": "",
+            "menu_name": "콜라",
+            "price": "2,000원"
+        },
+        {
+            "category": "사이드",
+            "img_src": "",
+            "menu_name": "사이다",
+            "price": "2,000원"
+        }
+    ]
+}

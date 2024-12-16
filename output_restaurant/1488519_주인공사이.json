@@ -1,0 +1,98 @@
+{
+    "store_name": "주인공사이",
+    "store_location": "대전 서구 계룡로416번길 51 상가동 101호",
+    "loc_x": "233392.240564243",
+    "loc_y": "316421.292453087",
+    "menu": [
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240802_220%2F1722591341764ovGzr_JPEG%2F1000003495.jpg",
+            "menu_name": "돌문어숙회",
+            "price": "30,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240802_234%2F1722591256205Oxdpe_JPEG%2F1000003492.jpg",
+            "menu_name": "불오징어볶음면",
+            "price": "25,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240311_296%2F1710152651019mpXJT_JPEG%2F1000003527.jpg",
+            "menu_name": "매운갈비찜",
+            "price": "25,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20231213_17%2F17024584015357udUN_JPEG%2F1000002703.jpg",
+            "menu_name": "삼겹수육",
+            "price": "26,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241212_252%2F1734005722093dhzwJ_JPEG%2F1000005525.jpg",
+            "menu_name": "물뱅이",
+            "price": "22,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241212_145%2F1734005853102u03UY_JPEG%2F1000005526.jpg",
+            "menu_name": "골뱅이무침&소면",
+            "price": "20,000원"
+        },
+        {
+            "category": "",
+            "img_src": "",
+            "menu_name": "문어랑육사시미",
+            "price": "32,000원"
+        },
+        {
+            "category": "",
+            "img_src": "",
+            "menu_name": "투쁠한우육사시미",
+            "price": "27,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241212_147%2F1733997277312zUXLj_JPEG%2F1000005521.jpg",
+            "menu_name": "수육간장구이",
+            "price": "25,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241212_216%2F1733995448553B27Dw_JPEG%2F1000005372.jpg",
+            "menu_name": "물총탕(칼국수,겉절이)",
+            "price": "23,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240820_52%2F1724151693351KWam6_JPEG%2F1000003507.jpg",
+            "menu_name": "통오징어짬뽕탕",
+            "price": "24,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240525_152%2F1716646466227Bl56M_JPEG%2F1000004382.jpg",
+            "menu_name": "한우육회물회",
+            "price": "27,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240521_279%2F1716288924150lJR8T_JPEG%2F1000004323.jpg",
+            "menu_name": "투쁠한우육회",
+            "price": "25,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240518_180%2F1716023516869Ym2ud_JPEG%2F1000004258.jpg",
+            "menu_name": "문어랑육회",
+            "price": "30,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240518_1%2F17160234577870rszz_JPEG%2F1000004259.jpg",
+            "menu_name": "돌문어삼합(돌문어,수육,김치)",
+            "price": "35,000원"
+        }
+    ]
+}

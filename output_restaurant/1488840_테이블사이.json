@@ -1,0 +1,128 @@
+{
+    "store_name": "테이블사이",
+    "store_location": "경기 김포시 김포한강11로 288-19 2층 205호",
+    "loc_x": "171917.570431121",
+    "loc_y": "461415.703282657",
+    "menu": [
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240920_83%2F1726841535191KHT73_JPEG%2FIMG_5748.jpeg",
+            "menu_name": "(신메뉴)파스타 인 에그인헬(샥슈카)",
+            "price": "17,500원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240920_231%2F17268421212617qSkm_JPEG%2FIMG_6199.jpeg",
+            "menu_name": "(신메뉴)고사리앤초비파스타",
+            "price": "16,500원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240920_160%2F1726841960214vKF0J_JPEG%2FIMG_6164.jpeg",
+            "menu_name": "홈메이드라자냐(한정판매)",
+            "price": "19,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240526_277%2F17166718702565VtMR_JPEG%2FIMG_3323.jpeg",
+            "menu_name": "구운가지파니니",
+            "price": "12,500원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240526_121%2F1716671512547IJcAh_JPEG%2FIMG_3327.jpeg",
+            "menu_name": "카프레제파니니 (그릴드 샌드위치)",
+            "price": "12,500원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240605_53%2F1717534727110Lrd7b_JPEG%2FIMG_3758.jpeg",
+            "menu_name": "치킨라이스보울 (치킨 포케)",
+            "price": "13,500원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240301_272%2F1709299470017KxloD_JPEG%2FIMG_1529.jpeg",
+            "menu_name": "그린스무디",
+            "price": "5,500원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240920_184%2F1726841989335BGlz1_JPEG%2FIMG_6274.jpeg",
+            "menu_name": "후무스치킨플레이트",
+            "price": "13,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240920_298%2F1726841467266RuvbV_JPEG%2FIMG_6194.jpeg",
+            "menu_name": "트러플버섯파니니",
+            "price": "12,500원"
+        },
+        {
+            "category": "",
+            "img_src": "",
+            "menu_name": "퍼플스무디",
+            "price": "5,500원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240920_195%2F1726842013742Sst1H_JPEG%2FIMG_6238.jpeg",
+            "menu_name": "(신메뉴)바질페스토 관자파스타",
+            "price": "17,500원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240526_294%2F1716671687511nJ208_JPEG%2FIMG_1893.jpeg",
+            "menu_name": "오늘의 스프",
+            "price": "변동"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241122_31%2F1732202155035eH9PY_JPEG%2FIMG_6374.jpeg",
+            "menu_name": "구운버섯 곡물샐러드",
+            "price": "13,500원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240920_4%2F1726841617191BLsiV_JPEG%2FIMG_6179.jpeg",
+            "menu_name": "부라타치즈샐러드",
+            "price": "11,500원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240920_93%2F1726841680642MJK30_JPEG%2FIMG_4849.jpeg",
+            "menu_name": "볼로네제파스타",
+            "price": "16,500원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240920_289%2F1726842379069EQ2hS_JPEG%2FIMG_4779.jpeg",
+            "menu_name": "오리지널후무스보울",
+            "price": "9,500원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241122_8%2F1732202430442KUzFv_JPEG%2FIMG_6954.jpeg",
+            "menu_name": "제노바식 바질페스토",
+            "price": "변동"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241122_254%2F1732202275425mRuQf_JPEG%2FIMG_7012.jpeg",
+            "menu_name": "오리지널후무스(take out)",
+            "price": "6,500원"
+        },
+        {
+            "category": "",
+            "img_src": "",
+            "menu_name": "아메리카노",
+            "price": "3,500원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241122_63%2F1732202124029OtmxE_JPEG%2FIMG_6550.jpeg",
+            "menu_name": "해외 식자재 그로서리 마켓",
+            "price": "변동"
+        }
+    ]
+}

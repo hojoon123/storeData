@@ -1,0 +1,44 @@
+{
+    "store_name": "삼계옥",
+    "store_location": "서울 강남구 테헤란로83길 42 2층",
+    "loc_x": "204957.53116634",
+    "loc_y": "445324.37235939",
+    "menu": [
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241204_20%2F17333037994844QqDg_JPEG%2FIMG_6370.jpeg",
+            "menu_name": "삼계탕",
+            "price": "16,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241204_286%2F17333038287419sxwY_JPEG%2FIMG_6370.jpeg",
+            "menu_name": "바질 삼계탕",
+            "price": "18,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241204_89%2F1733303853880VfdJw_JPEG%2FIMG_6370.jpeg",
+            "menu_name": "흑마늘 삼계탕",
+            "price": "18,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241204_230%2F1733303891016TtsHA_JPEG%2FIMG_6370.jpeg",
+            "menu_name": "닭볶음탕",
+            "price": "변동"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241204_294%2F1733303962001E8I3G_JPEG%2FIMG_6719.jpeg",
+            "menu_name": "간장 찜닭",
+            "price": "변동"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241204_63%2F1733303973926MhEgI_JPEG%2FIMG_6719.jpeg",
+            "menu_name": "닭한마리",
+            "price": "변동"
+        }
+    ]
+}

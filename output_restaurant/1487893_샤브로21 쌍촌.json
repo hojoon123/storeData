@@ -1,0 +1,170 @@
+{
+    "store_name": "샤브로21 쌍촌",
+    "store_location": "광주 서구 내방로 252 2층",
+    "loc_x": "187915.7034902",
+    "loc_y": "184281.744609308",
+    "menu": [
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241209_90%2F1733708061065HMxru_JPEG%2F%25B8%25DE%25C0%25CE11_%25BE%25EE%25B9%25AC%25C5%25C1-2N.jpg",
+            "menu_name": "샤브로21X목련어묵 어묵탕",
+            "price": "8,800원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241209_140%2F1733708144317pgl1N_JPEG%2F%25B8%25DE%25C0%25CE12_%25BE%25DF%25C5%25B0%25C6%25C4%25BD%25BA%25C5%25B8N.jpg",
+            "menu_name": "야키파스타",
+            "price": "8,800원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240409_114%2F17126553983983sxPc_JPEG%2F%25B8%25DE%25C0%25CE01_%25BB%25FE%25BA%25EA%25B7%25CE21%25BB%25FE%25BA%25EA%25BB%25FE%25BA%25EAN.jpg",
+            "menu_name": "샤브로21 샤브샤브",
+            "price": "7,500원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240409_75%2F1712655406844DHNrO_JPEG%2F%25B8%25DE%25C0%25CE02_%25BE%25F3%25C5%25AB%25BB%25FE%25BA%25EA%25BB%25FE%25BA%25EAN.jpg",
+            "menu_name": "얼큰 샤브샤브",
+            "price": "8,500원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240409_289%2F1712655413107mKhdx_JPEG%2F%25B8%25DE%25C0%25CE03_%25C6%25F7%25BB%25FE%25BA%25EA%25BB%25FE%25BA%25EAN.jpg",
+            "menu_name": "포 샤브샤브",
+            "price": "8,500원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241017_280%2F1729153358764WmOY0_JPEG%2F%25B8%25DE%25C0%25CE04_%25B9%25CC%25BC%25D2%25BB%25FE%25BA%25EA%25BB%25FE%25BA%25EAN.jpg",
+            "menu_name": "미소 샤브샤브",
+            "price": "8,500원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240409_220%2F171265542222295nmx_JPEG%2F%25B8%25DE%25C0%25CE05_%25B8%25B6%25B6%25F3%25BB%25FE%25BA%25EA%25BB%25FE%25BA%25EAN.jpg",
+            "menu_name": "마라 샤브샤브",
+            "price": "8,800원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240409_32%2F17126554728296Q881_JPEG%2F%25B8%25DE%25C0%25CE06_%25B9%25DD%25B9%25DD%25BB%25FE%25BA%25EA%25BB%25FE%25BA%25EAN.jpg",
+            "menu_name": "반반 샤브샤브",
+            "price": "9,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240409_200%2F1712655479061zbVlm_JPEG%2F%25B8%25DE%25C0%25CE07_%25BD%25BA%25C5%25B0%25BE%25DF%25C5%25B0N.jpg",
+            "menu_name": "스키야키",
+            "price": "8,500원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240409_75%2F1712655539533ucwVB_JPEG%2F%25B8%25DE%25C0%25CE08_%25B1%25D4%25B5%25BFN.jpg",
+            "menu_name": "규동",
+            "price": "6,500원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240409_281%2F1712655486130AzBWN_JPEG%2F%25B8%25DE%25C0%25CE09_%25BA%25CE%25C5%25B8%25B5%25BFN.jpg",
+            "menu_name": "부타동",
+            "price": "6,500원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240524_277%2F1716525187634PFTjv_JPEG%2F%25B8%25DE%25C0%25CE10_%25C4%25AB%25B6%25F3%25C0%25CC%25B1%25D4%25B5%25BFN.jpg",
+            "menu_name": "카라이 규동",
+            "price": "6,800원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240524_180%2F1716525232510ENSX6_JPEG%2F%25B8%25DE%25C0%25CE10_%25C4%25AB%25B6%25F3%25C0%25CC%25B1%25D4%25B5%25BFN.jpg",
+            "menu_name": "카라이 부타동",
+            "price": "6,800원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240619_232%2F1718760061315kMKVC_JPEG%2F%25BF%25A1%25C0%25CC%25B5%25E501_%25B7%25B9%25B8%25F3.jpg",
+            "menu_name": "레몬에이드",
+            "price": "3,800원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240619_81%2F1718760086709CAArV_JPEG%2F%25BF%25A1%25C0%25CC%25B5%25E502_%25C0%25DA%25B8%25F9.jpg",
+            "menu_name": "자몽에이드",
+            "price": "3,800원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240619_88%2F1718760080479v19cU_JPEG%2F%25BF%25A1%25C0%25CC%25B5%25E503_%25C3%25BB%25C6%25F7%25B5%25B5.jpg",
+            "menu_name": "청포도에이드",
+            "price": "3,800원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240409_42%2F17126555617046OmgT_JPEG%2F%25C7%25CF%25C0%25CC%25BA%25BC01_%25C7%25C3%25B6%25F3%25BF%25F6.jpg",
+            "menu_name": "플라워 하이볼",
+            "price": "3,800원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240409_86%2F1712655584132HXoes_JPEG%2F%25C7%25CF%25C0%25CC%25BA%25BC02_%25B9%25CC%25B5%25B5%25B8%25AE.jpg",
+            "menu_name": "미도리 하이볼",
+            "price": "3,800원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240409_73%2F1712655555203S0dko_JPEG%2F%25C7%25CF%25C0%25CC%25BA%25BC06_%25B7%25B9%25B8%25F3.jpg",
+            "menu_name": "레몬 하이볼",
+            "price": "3,800원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240409_147%2F171265556815828VpD_JPEG%2F%25C7%25CF%25C0%25CC%25BA%25BC03_%25C7%25CE%25C5%25A9%25C0%25DA%25B8%25F9.jpg",
+            "menu_name": "핑크자몽 하이볼",
+            "price": "3,800원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240409_88%2F1712655597175l93MB_JPEG%2F%25C7%25CF%25C0%25CC%25BA%25BC05_%25C0%25DA%25B8%25F9%25C7%25E3%25B4%25CF%25BA%25ED%25B7%25A2%25C6%25BC.jpg",
+            "menu_name": "자몽허니블랙티 하이볼",
+            "price": "3,800원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240409_199%2F1712655576423DUK9i_JPEG%2F%25C7%25CF%25C0%25CC%25BA%25BC04_%25C4%25F0%25B6%25F3%25C0%25D3.jpg",
+            "menu_name": "쿨라임 하이볼",
+            "price": "3,800원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240409_125%2F1712656689804uBoXl_JPEG%2F%25C7%25CF%25C0%25CC%25BA%25BC07_%25C0%25A7%25BD%25BA%25C5%25B0.jpg",
+            "menu_name": "위스키 하이볼",
+            "price": "3,800원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240409_258%2F17126556292704VnwY_JPEG%2F%25C7%25CF%25C0%25CC%25BA%25BC08_%25BB%25EA%25C5%25E4%25B8%25AE.jpg",
+            "menu_name": "산토리 하이볼",
+            "price": "5,800원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240409_210%2F1712655623122o6vFj_JPEG%2F%25C7%25CF%25C0%25CC%25BA%25BC09_%25BA%25BD%25BA%25A3%25C0%25CC.jpg",
+            "menu_name": "봄베이 하이볼",
+            "price": "5,800원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240409_212%2F1712655604565c3gHM_JPEG%2F%25C7%25CF%25C0%25CC%25BA%25BC10_%25C1%25FC%25BA%25F6.jpg",
+            "menu_name": "짐빔 하이볼",
+            "price": "5,800원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240409_138%2F17126556114812zeDe_JPEG%2F%25C7%25CF%25C0%25CC%25BA%25BC11_%25C0%25E8%25C4%25DB.jpg",
+            "menu_name": "잭콕 하이볼",
+            "price": "5,800원"
+        }
+    ]
+}

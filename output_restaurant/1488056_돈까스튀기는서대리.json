@@ -1,0 +1,62 @@
+{
+    "store_name": "돈까스튀기는서대리",
+    "store_location": "제주 제주시 선덕로8길 26 가동 1층 103호",
+    "loc_x": "153521.887225161",
+    "loc_y": "-1346.50122461725",
+    "menu": [
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240115_62%2F1705321037206HTlkW_JPEG%2F%25B8%25F0%25B5%25D2_-_02.jpg",
+            "menu_name": "모둠A (등심, 안심, 치즈멘치)",
+            "price": "15,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240530_114%2F1717048420852tUPRV_JPEG%2FKakaoTalk_20240530_144958021.jpg",
+            "menu_name": "모둠B (지등심, 안심)",
+            "price": "15,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240225_247%2F1708832745020WAeHn_JPEG%2F%25BE%25C8%25BD%25C9%25B5%25B7%25B0%25A1%25BD%25BA_-_01.jpg",
+            "menu_name": "안심돈가스 (히레카츠)",
+            "price": "13,500원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240225_73%2F1708832811360kRXi5_JPEG%2F%25BB%25F3%25B5%25EE%25BD%25C9%25B5%25B7%25B0%25A1%25BD%25BA_-_01.jpg",
+            "menu_name": "문의주세요_상등심돈가스 (상로스카츠)",
+            "price": "15,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240115_262%2F1705321080053IN7UR_JPEG%2F%25BE%25C8%25BD%25C9_-_01.jpg",
+            "menu_name": "사이드) 제주백돈 안심 2pcs 추가",
+            "price": "3,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240115_79%2F1705321101841wVHFi_JPEG%2F%25BB%25E7%25C0%25CC%25B5%25E5%2529%25C4%25A1%25C1%25EE_2%25C1%25B6%25B0%25A2.jpg",
+            "menu_name": "사이드) 치즈멘치가스 2조각 추가",
+            "price": "5,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240225_13%2F1708832925398ctsEY_JPEG%2F%25B8%25C6%25C1%25D6_-_01.jpg",
+            "menu_name": "병맥주 330ml",
+            "price": "3,500원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20231207_98%2F1701933344471tjW1U_JPEG%2F%25BB%25E7%25C1%25F8_%25C1%25D8%25BA%25F1_%25BE%25C8%25B5%25CA.jpg",
+            "menu_name": "음료) 펩시/사이다/제로펩시",
+            "price": "2,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20231207_207%2F17019333874312dMNM_JPEG%2F%25BB%25E7%25C1%25F8_%25C1%25D8%25BA%25F1_%25BE%25C8%25B5%25CA.jpg",
+            "menu_name": "사이드) 공기밥 추가",
+            "price": "1,000원"
+        }
+    ]
+}

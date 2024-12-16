@@ -1,0 +1,74 @@
+{
+    "store_name": "담가화로구이 구리갈매점",
+    "store_location": "경기 구리시 갈매순환로 198 갈매동 비젼 프라자 102, 103호",
+    "loc_x": "210666.682431243",
+    "loc_y": "459403.568694582",
+    "menu": [
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241210_56%2F1733820679878euEp2_JPEG%2F%25BC%25D2%25B0%25ED%25B1%25E2_%25C5%25A5%25BA%25EA%25B4%25AB%25B2%25C9%25BB%25EC.jpg",
+            "menu_name": "소큐브눈꽃살400g 추가주문 반값할인",
+            "price": "52,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241210_290%2F17338206622524BxAr_JPEG%2F%25BC%25D2%25B0%25ED%25B1%25E2_%25BB%25FD%25B0%25A5%25BA%25F1%25BB%25EC.jpg",
+            "menu_name": "소생갈비살 500g 추가주문 반값할인",
+            "price": "30,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241210_82%2F1733820642182xY5yj_JPEG%2F%25BC%25D2%25B0%25ED%25B1%25E2_%25B8%25B6%25B4%25C3%25B0%25A5%25BA%25F1%25BB%25EC.jpg",
+            "menu_name": "소마늘갈비살500g 추가주문 반값할인",
+            "price": "30,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241210_102%2F17338206258646GtGT_JPEG%2F%25BC%25D2%25B0%25ED%25B1%25E2_%25C5%25A5%25BA%25EA%25B4%25AB%25B2%25C9%25BB%25EC.jpg",
+            "menu_name": "소큐브눈꽃살(시그니쳐)400g첫주문",
+            "price": "69,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241210_52%2F1733820610649pQdH9_JPEG%2F%25BC%25D2%25B0%25ED%25B1%25E2_%25BB%25FD%25B0%25A5%25BA%25F1%25BB%25EC.jpg",
+            "menu_name": "소생갈비살 500g 첫주문할인",
+            "price": "49,500원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241210_53%2F17338205842765wkak_JPEG%2F%25BC%25D2%25B0%25ED%25B1%25E2_%25B8%25B6%25B4%25C3%25B0%25A5%25BA%25F1%25BB%25EC.jpg",
+            "menu_name": "소마늘갈비살 500g 첫주문할인",
+            "price": "49,500원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241210_202%2F1733820526892tnPjK_JPEG%2F%25C0%25CC%25BA%25A3%25B8%25AE%25C4%25DA_3%25C1%25BE.jpg",
+            "menu_name": "이베리코 모둠(400g) 첫주문할인",
+            "price": "39,500원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241210_159%2F1733820508876qgjin_JPEG%2F%25C0%25CC%25BA%25A3%25B8%25AE%25C4%25DA_3%25C1%25BE.jpg",
+            "menu_name": "이베리코 모둠(400g)추가 반값할인",
+            "price": "25,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241210_282%2F1733820487666DEueR_JPEG%2F%25C0%25CC%25BA%25A3%25B8%25AE%25C4%25DA_%25C7%25D7%25C1%25A4%25BB%25EC.jpg",
+            "menu_name": "이베리코 항정살200g 추가 반값할인",
+            "price": "12,500원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241210_2%2F1733820467910GsTok_JPEG%2F%25C0%25CC%25BA%25A3%25B8%25AE%25C4%25DA_%25B0%25A5%25BA%25F1%25BB%25EC.jpg",
+            "menu_name": "이베리코 갈비살200g 추가 반값할인",
+            "price": "12,500원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241210_251%2F1733820450982Tgqdy_JPEG%2F%25C0%25CC%25BA%25A3%25B8%25AE%25C4%25DA_%25B8%25F1%25BB%25EC.jpg",
+            "menu_name": "이베리코 목살 200g 추가 반값할인",
+            "price": "12,500원"
+        }
+    ]
+}

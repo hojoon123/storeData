@@ -1,0 +1,68 @@
+{
+    "store_name": "안현가",
+    "store_location": "강원 강릉시 경포로463번길 29 안현가",
+    "loc_x": "367513.240120605",
+    "loc_y": "479619.774782047",
+    "menu": [
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240405_36%2F1712317151510EAMLj_JPEG%2F1000026355.jpg",
+            "menu_name": "안현가 물회",
+            "price": "20,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240405_19%2F17122956124743hzyP_JPEG%2FKakaoTalk_20240402_143604245_17.jpg",
+            "menu_name": "안현가홍게세트 2인세트",
+            "price": "99,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240405_163%2F1712314776922L2HiL_JPEG%2F1000026362.jpg",
+            "menu_name": "안현가 홍게세트 3인세트",
+            "price": "129,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240405_134%2F1712315735058mXwna_JPEG%2F1000026651.jpg",
+            "menu_name": "안현가 수제족발or수제보쌈",
+            "price": "45,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240725_84%2F1721915195494dJ6Jq_JPEG%2F1000029574.jpg",
+            "menu_name": "안현가활어회세트2인",
+            "price": "90,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240405_85%2F1712295505839RpvVP_JPEG%2FKakaoTalk_20240402_143604245.jpg",
+            "menu_name": "안현가대게세트 2인",
+            "price": "179,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240405_236%2F1712315210223TKHP3_JPEG%2F1000020092.jpg",
+            "menu_name": "안현가활어회세트3인",
+            "price": "110,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240405_72%2F1712315369417OWMfg_JPEG%2F1000020097.jpg",
+            "menu_name": "안현가활어회세트",
+            "price": "130,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240405_252%2F1712295565786UjiYN_JPEG%2FKakaoTalk_20240402_143604245.jpg",
+            "menu_name": "안현가대게세트 3인",
+            "price": "239,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240405_258%2F17122955801718qbNL_JPEG%2FKakaoTalk_20240402_143604245.jpg",
+            "menu_name": "안현가대게세트 4인",
+            "price": "289,000원"
+        }
+    ]
+}

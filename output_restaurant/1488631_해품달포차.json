@@ -1,0 +1,50 @@
+{
+    "store_name": "해품달포차",
+    "store_location": "강원 춘천시 삭주로 136 1층",
+    "loc_x": "265520.879990995",
+    "loc_y": "487221.767279325",
+    "menu": [
+        {
+            "category": "",
+            "img_src": "",
+            "menu_name": "육전",
+            "price": "23,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241031_120%2F173036925469645Bw5_JPEG%2F1000005407.jpg",
+            "menu_name": "미니불족",
+            "price": "23,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241031_156%2F1730372709729Cc3Qb_JPEG%2F1000005421.jpg",
+            "menu_name": "모듬소세지",
+            "price": "15,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241031_91%2F1730369787302xyWbN_JPEG%2F1000005409.jpg",
+            "menu_name": "들기름 두부구이",
+            "price": "15,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241031_60%2F17303696134781dML1_JPEG%2F1000005405.jpg",
+            "menu_name": "임연수",
+            "price": "22,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241031_103%2F1730369294977cCUYm_JPEG%2F1000005412.jpg",
+            "menu_name": "어묵탕",
+            "price": "15,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20231224_258%2F1703415162840nv6aV_JPEG%2F1703413688693.jpg",
+            "menu_name": "떡볶이",
+            "price": "13,000원"
+        }
+    ]
+}

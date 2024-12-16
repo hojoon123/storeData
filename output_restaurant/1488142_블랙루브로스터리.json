@@ -1,0 +1,98 @@
+{
+    "store_name": "블랙루브로스터리",
+    "store_location": "경기 평택시 서동대로 3844 1층 블랙루브",
+    "loc_x": "211927.837541707",
+    "loc_y": "387797.929952957",
+    "menu": [
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240201_141%2F1706768403031WOSHw_JPEG%2F%25B8%25DE%25B4%25BA.jpg",
+            "menu_name": "브루잉 커피 - 희헌(曦軒)",
+            "price": "변동"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240201_51%2F1706768504572zko02_JPEG%2F%25B8%25DE%25B4%25BA.jpg",
+            "menu_name": "브루잉 커피 - 동월(冬月)",
+            "price": "변동"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240201_64%2F1706768581189mm9im_JPEG%2F%25B8%25DE%25B4%25BA.jpg",
+            "menu_name": "브루잉 커피 - 창해(滄海)",
+            "price": "변동"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240201_38%2F1706768633876JggKP_JPEG%2F%25B8%25DE%25B4%25BA.jpg",
+            "menu_name": "브루잉 커피 - 심산(深山)",
+            "price": "변동"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241105_223%2F1730796983060wErxk_JPEG%2F%25BD%25C3%25B1%25D7%25B4%25CF%25C3%25B3-%25BA%25ED%25B7%25A2.jpg",
+            "menu_name": "시그니처 - 블랙(BLACK)",
+            "price": "5,500원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241116_67%2F1731735345134U5qvy_JPEG%2F%25C7%25C1%25B7%25B9%25C1%25EE%25B6%25F3%25B6%25BC.jpg",
+            "menu_name": "프레즈 라떼",
+            "price": "5,500원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241031_117%2F1730359465481M4A8n_JPEG%2F%25C8%25AD%25C0%25CC%25C6%25AE_%25BF%25A1%25C0%25CC%25B5%25E5.jpg",
+            "menu_name": "레몬에이드",
+            "price": "6,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241031_26%2F1730359473222wgku7_JPEG%2F%25BF%25C0%25B9%25CC%25C0%25DA.jpg",
+            "menu_name": "오미자에이드",
+            "price": "6,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240104_193%2F1704336786342NyvhQ_JPEG%2F%25B8%25DE%25B4%25BA_%25C1%25D8%25BA%25F1%25C1%25DF.jpg",
+            "menu_name": "원두",
+            "price": "변동"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240201_185%2F1706768422460U8zzh_JPEG%2F%25B8%25DE%25B4%25BA.jpg",
+            "menu_name": "디카페인 콜드브루(Cold Brew)",
+            "price": "4,500원"
+        },
+        {
+            "category": "",
+            "img_src": "",
+            "menu_name": "수제 레몬(檸檬)차",
+            "price": "5,000원"
+        },
+        {
+            "category": "",
+            "img_src": "",
+            "menu_name": "수제 유자(柚子)차",
+            "price": "5,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241117_89%2F1731833945455G9cPX_JPEG%2F%25BE%25C6%25BE%25E0%25B0%25FA.jpg",
+            "menu_name": "아약과",
+            "price": "6,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241028_193%2F1730093242745yqvqY_JPEG%2F%25BA%25ED%25B7%25A2%25B7%25E7%25BA%25EA-%25B1%25D7%25B8%25B2-003.jpg",
+            "menu_name": "콜드브루 디카페인 / 200ml",
+            "price": "12,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241028_134%2F1730093250875NIGg3_JPEG%2F%25BA%25ED%25B7%25A2%25B7%25E7%25BA%25EA-%25B1%25D7%25B8%25B2-003.jpg",
+            "menu_name": "콜드브루 디카페인 - 500ml",
+            "price": "24,000원"
+        }
+    ]
+}

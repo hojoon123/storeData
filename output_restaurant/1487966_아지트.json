@@ -1,0 +1,26 @@
+{
+    "store_name": "아지트",
+    "store_location": "충북 청주시 상당구 상당로121번길 7-7 b동 1층",
+    "loc_x": "243721.065019415",
+    "loc_y": "348737.346218635",
+    "menu": [
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240525_96%2F1716626135857gYq6M_PNG%2F%25C4%25B8%25C3%25B3.PNG",
+            "menu_name": "메뉴판",
+            "price": "변동"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240524_172%2F1716536205527UxKP4_JPEG%2F%25B4%25D9%25BF%25EE%25B7%25CE%25B5%25E5.jpg",
+            "menu_name": "아이스 아메리카노",
+            "price": "2,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240524_237%2F1716536248098kwqyd_JPEG%2F%25B4%25D9%25BF%25EE%25B7%25CE%25B5%25E5_%25281%2529.jpg",
+            "menu_name": "야마자키 12년",
+            "price": "20,000원"
+        }
+    ]
+}

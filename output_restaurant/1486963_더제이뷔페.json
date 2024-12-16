@@ -1,0 +1,14 @@
+{
+    "store_name": "더제이뷔페",
+    "store_location": "대구 달서구 달구벌대로251길 2 6층",
+    "loc_x": "335904.626594615",
+    "loc_y": "262391.664500197",
+    "menu": [
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241122_13%2F1732219947615Ie5kt_PNG%2F%25BD%25BA%25C5%25A9%25B8%25B0%25BC%25A6_2024-11-22_%25BF%25C0%25C0%25FC_5.10.26.png",
+            "menu_name": "A tyoe",
+            "price": "변동"
+        }
+    ]
+}

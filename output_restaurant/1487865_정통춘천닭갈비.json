@@ -1,0 +1,26 @@
+{
+    "store_name": "정통춘천닭갈비",
+    "store_location": "경기 의왕시 부곡중학길 31 1층",
+    "loc_x": "195887.424689064",
+    "loc_y": "423792.290161382",
+    "menu": [
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240205_109%2F1707120250685Jzpsn_JPEG%2FKakaoTalk_20240205_163830354.jpg",
+            "menu_name": "닭갈비 250g",
+            "price": "12,000원"
+        },
+        {
+            "category": "",
+            "img_src": "",
+            "menu_name": "닭곰탕 (포장가능)",
+            "price": "8,000원"
+        },
+        {
+            "category": "",
+            "img_src": "",
+            "menu_name": "비빔막국수 (포장가능)",
+            "price": "8,000원"
+        }
+    ]
+}

@@ -1,0 +1,68 @@
+{
+    "store_name": "세일러조 김밥",
+    "store_location": "경남 양산시 물금읍 서들8길 49 102호 세일러조 김밥",
+    "loc_x": "382650.592110951",
+    "loc_y": "202812.608736835",
+    "menu": [
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241003_227%2F1727962571028J2Cvu_JPEG%2FIMG_7105.jpeg",
+            "menu_name": "세일러김밥",
+            "price": "3,800원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241014_143%2F1728891819096jKOx5_JPEG%2FIMG_7096.jpeg",
+            "menu_name": "다이어트김밥",
+            "price": "5,800원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241014_231%2F1728891794050p58vT_JPEG%2FIMG_7082.jpeg",
+            "menu_name": "양념치킨 깻잎 김밥",
+            "price": "5,800원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241014_21%2F1728891641248WKajk_JPEG%2FIMG_7091.jpeg",
+            "menu_name": "한쌈삼겹살김밥",
+            "price": "5,800원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241003_208%2F1727962476613eDMEC_JPEG%2FIMG_7088.jpeg",
+            "menu_name": "불닭소스어묵김밥",
+            "price": "4,500원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241003_110%2F1727962494639IwnQd_JPEG%2FIMG_7094.jpeg",
+            "menu_name": "어린이김밥",
+            "price": "3,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241003_276%2F1727962515960oxrdM_JPEG%2FIMG_7085.jpeg",
+            "menu_name": "돈까스김밥",
+            "price": "4,800원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240107_73%2F1704610040857q5vfm_JPEG%2FIMG_5031.jpeg",
+            "menu_name": "삶은계란",
+            "price": "2,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241003_130%2F1727962543268XrGE2_JPEG%2FIMG_7099.jpeg",
+            "menu_name": "참치마요김밥",
+            "price": "4,500원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241003_103%2F1727962556206uwIBf_JPEG%2FIMG_7102.jpeg",
+            "menu_name": "참치와사비김밥",
+            "price": "4,800원"
+        }
+    ]
+}

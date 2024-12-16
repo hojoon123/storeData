@@ -1,0 +1,26 @@
+{
+    "store_name": "신통치킨 금왕점",
+    "store_location": "충북 음성군 금왕읍 무극로244번길 9 103호",
+    "loc_x": "252411.794950558",
+    "loc_y": "387861.130133827",
+    "menu": [
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20231221_98%2F170312905518821Fho_JPEG%2F%25B8%25DE%25B4%25BA%25BB%25E7%25C1%25F8_-_%25C0%25CC%25B7%25B1%25C6%25A2%25B9%25DF.jpg",
+            "menu_name": "이런튀발",
+            "price": "13,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20231221_80%2F1703129000477XjBdQ_JPEG%2F%25BC%25F8%25BB%25EC%25C8%25C4%25B6%25F3%25C0%25CC%25B5%25E5.jpg",
+            "menu_name": "순살치킨",
+            "price": "16,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20231221_128%2F17031289278332WvTW_JPEG%2F%25B8%25DE%25B4%25BA%25BB%25E7%25C1%25F8-%25BD%25C5%25C5%25EB%25C4%25A1%25C5%25B2.jpg",
+            "menu_name": "신통치킨",
+            "price": "12,000원"
+        }
+    ]
+}

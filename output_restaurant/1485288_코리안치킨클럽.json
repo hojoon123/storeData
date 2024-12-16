@@ -1,0 +1,182 @@
+{
+    "store_name": "코리안치킨클럽",
+    "store_location": "서울 용산구 한강대로21나길 40",
+    "loc_x": "196720.245903385",
+    "loc_y": "447265.931504275",
+    "menu": [
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240514_45%2F1715673998823JhKfM_PNG%2F%25C4%25DA%25C4%25A1%25C5%25AC_%25B9%25F6%25B0%25C5.png",
+            "menu_name": "코치클 버거",
+            "price": "4,900원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240514_260%2F1715674005457YWrQB_PNG%2F%25BC%25AD%25BF%25EF%25B9%25F6%25B0%25C5.png",
+            "menu_name": "서울 버거",
+            "price": "5,900원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240514_223%2F17156740108027Ym7f_PNG%2F%25C4%25DA%25C4%25A1%25C5%25ACFRESH%25B9%25F6%25B0%25C5.png",
+            "menu_name": "코치클FRESH버거",
+            "price": "6,500원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240514_139%2F1715674016542XrCnY_PNG%2F%25C4%25DA%25C4%25A1%25C5%25ACFRESH%25B9%25F6%25B0%25C5%25BC%25BC%25C6%25AE.png",
+            "menu_name": "코치클버거세트",
+            "price": "8,900원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240514_265%2F1715674020932YJfk4_PNG%2F%25BC%25AD%25BF%25EF%25B9%25F6%25B0%25C5%25BC%25BC%25C6%25AE.png",
+            "menu_name": "서울버거세트",
+            "price": "9,900원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240514_228%2F17156740260144EF6D_PNG%2F%25C4%25DA%25C4%25A1%25C5%25ACFRESH%25B9%25F6%25B0%25C5%25BC%25BC%25C6%25AE.png",
+            "menu_name": "코치클FRESH버거세트",
+            "price": "10,500원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240514_280%2F1715674033495OpwhK_PNG%2F%25BC%25F8%25BB%25EC%25C8%25C4%25B6%25F3%25C0%25CC%25B5%25E5%2528s%2529.png",
+            "menu_name": "순살 후라이드 치킨 (L)",
+            "price": "17,900원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240514_209%2F1715674038117zYtUH_PNG%2F%25BC%25F8%25BB%25EC%25C8%25C4%25B6%25F3%25C0%25CC%25B5%25E5%2528L%2529.png",
+            "menu_name": "순살 후라이드 치킨 (S)",
+            "price": "9,900원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240514_59%2F17156740527972J5mq_PNG%2F%25B0%25A3%25C0%25E5%25C4%25A1%25BA%25BC.png",
+            "menu_name": "간장 치볼",
+            "price": "9,900원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240417_121%2F1713318336368mwkvY_PNG%2F%25B7%25CE%25C1%25A6%25C4%25A1%25BA%25BC.png",
+            "menu_name": "로제 치볼",
+            "price": "9,900원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240417_213%2F1713318341186IlvxU_PNG%2F%25B8%25C5%25C4%25DE%25C4%25A1%25BA%25BC_%25BC%25F6%25C1%25A4.png",
+            "menu_name": "매콤 치볼",
+            "price": "9,900원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240514_22%2F1715674064693gxOs7_PNG%2F%25C8%25C4%25B6%25F3%25C0%25CC%25B5%25E5%25C4%25A1%25C5%25B2.png",
+            "menu_name": "후라이드 치킨",
+            "price": "18,900원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240514_269%2F1715674069503KVe51_PNG%2F%25B9%25DD%25B9%25DD%25C4%25A1%25C5%25B2.png",
+            "menu_name": "반반치킨",
+            "price": "19,900원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240514_78%2F1715674074291Ae8Ww_PNG%2F%25BE%25E7%25B3%25E4%25C4%25A1%25C5%25B2.png",
+            "menu_name": "양념치킨",
+            "price": "20,900원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240514_93%2F1715674084287r7pqK_PNG%2F%25C4%25C9%25C0%25CC%25C1%25D8%25C4%25A1%25C5%25B2%25BB%25F8%25B7%25AF%25B5%25E5.png",
+            "menu_name": "케이준치킨샐러드",
+            "price": "9,900원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240514_292%2F1715674090573K168w_PNG%2F%25C8%25C4%25B7%25BB%25C4%25A1%25C8%25C4%25B6%25F3%25C0%25CC_%25BC%25F6%25C1%25A4.png",
+            "menu_name": "후렌치 후라이",
+            "price": "2,500원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240514_66%2F1715674100356vOn45_PNG%2F%25C4%25A1%25C1%25EE%25BD%25BA%25C6%25BD_2%25B0%25B3.png",
+            "menu_name": "치즈스틱 2개",
+            "price": "2,500원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240514_208%2F1715674104570ubNqA_PNG%2F%25C4%25A1%25C1%25EE%25BD%25BA%25C6%25BD_5%25B0%25B3.png",
+            "menu_name": "치즈스틱 5개",
+            "price": "5,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240514_60%2F1715678125074FxR4I_PNG%2F%25B0%25A8%25C0%25DA%25BB%25F8%25B7%25AF%25B5%25E5_preview_rev_1_%25281%2529.png",
+            "menu_name": "감자샐러드",
+            "price": "2,500원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240514_45%2F1715678309830HIl8L_PNG%2F%25C4%25DA%25BF%25EF%25BD%25BD%25B7%25CE.png",
+            "menu_name": "코울슬로",
+            "price": "2,500원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240514_137%2F1715678138799f4JoO_PNG%2F%25C4%25DC%25BB%25F8%25B7%25AF%25B5%25E5_preview_rev_1_%25281%2529.png",
+            "menu_name": "콘샐러드",
+            "price": "2,500원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240514_107%2F1715678145120VmQYF_PNG%2F%25B9%25AB%25C7%25C7%25C5%25AC_preview_rev_1_%25281%2529.png",
+            "menu_name": "무피클",
+            "price": "500원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240314_263%2F1710409516394g2Nvi_JPEG%2F%25BA%25EA%25B6%25F3%25B4%25F5%25BD%25BA%25BF%25CD%25C0%25CF%25B5%25E5%25C7%25C1%25B7%25ED%25C0%25D7%25B1%25DB%25B8%25AE%25BD%25AC%25BB%25E7%25C0%25CC%25B4%25F5.jpg",
+            "menu_name": "영국식 사이다",
+            "price": "5,000원"
+        },
+        {
+            "category": "",
+            "img_src": "",
+            "menu_name": "코카콜라(오리지널)",
+            "price": "1,900원"
+        },
+        {
+            "category": "",
+            "img_src": "",
+            "menu_name": "코카콜라(제로)",
+            "price": "1,900원"
+        },
+        {
+            "category": "",
+            "img_src": "",
+            "menu_name": "스프라이트(오리지널)",
+            "price": "1,900원"
+        },
+        {
+            "category": "",
+            "img_src": "",
+            "menu_name": "스프라이트(제로)",
+            "price": "1,900원"
+        },
+        {
+            "category": "",
+            "img_src": "",
+            "menu_name": "탄산수(씨그램)",
+            "price": "1,900원"
+        },
+        {
+            "category": "",
+            "img_src": "",
+            "menu_name": "생수",
+            "price": "1,000원"
+        }
+    ]
+}

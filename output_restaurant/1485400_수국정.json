@@ -1,0 +1,74 @@
+{
+    "store_name": "수국정",
+    "store_location": "경기 화성시 동학산2길 31 1층",
+    "loc_x": "206544.451030616",
+    "loc_y": "413709.418685966",
+    "menu": [
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241201_109%2F1733043577002GvOKA_JPEG%2F%25B1%25B9%25B9%25E4.jpg",
+            "menu_name": "한우국밥",
+            "price": "11,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241201_147%2F1733043633394wAoPE_JPEG%2F%25B1%25B9%25B9%25E4.jpg",
+            "menu_name": "한우국밥(특)",
+            "price": "15,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241201_35%2F1733043726562nGfXF_JPEG%2F%25BE%25E7%25B1%25B9%25B9%25E4.jpg",
+            "menu_name": "한우얼큰양국밥",
+            "price": "13,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241201_60%2F1733043777041wRDTy_JPEG%2F%25B4%25EB%25C3%25A2%25B1%25B9%25B9%25E4.jpg",
+            "menu_name": "한우대창국밥",
+            "price": "15,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241201_58%2F17330440239411balE_JPEG%2F%25BC%25F6%25C0%25B0.jpg",
+            "menu_name": "한우수육(중)",
+            "price": "30,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241201_49%2F1733044000006uRJlN_JPEG%2F%25BC%25F6%25C0%25B0.jpg",
+            "menu_name": "한우수육(대)",
+            "price": "45,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241201_298%2F1733044047258HTJX2_JPEG%2F%25BC%25F6%25C0%25B0%25B9%25AB%25C4%25A7.jpg",
+            "menu_name": "한우수육무침",
+            "price": "27,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241210_80%2F17337953986502Jyrf_JPEG%2F1000032572.jpg",
+            "menu_name": "수국전(불고기전)",
+            "price": "12,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241210_118%2F1733795505114L7x3G_JPEG%2F1000031696.jpg",
+            "menu_name": "한우육전",
+            "price": "25,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241201_218%2F17330440657101rK5G_JPEG%2F%25B7%25CE%25B0%25ED.jpg",
+            "menu_name": "한우육사시미",
+            "price": "23,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241201_23%2F1733043510563peoS5_JPEG%2F%25B7%25CE%25B0%25ED.jpg",
+            "menu_name": "한우수국밥",
+            "price": "17,000원"
+        }
+    ]
+}

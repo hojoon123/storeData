@@ -1,0 +1,26 @@
+{
+    "store_name": "소인정",
+    "store_location": "인천 부평구 주부토로 236 B동 1층 183호",
+    "loc_x": "175822.304081398",
+    "loc_y": "445934.810716632",
+    "menu": [
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241203_136%2F1733233642163LmwIE_JPEG%2FKakaoTalk_20241203_224135392_14.jpg",
+            "menu_name": "양념소갈비살",
+            "price": "18,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241203_178%2F17332341117954YcKw_JPEG%2FKakaoTalk_20241203_224135392.jpg",
+            "menu_name": "양념살치살",
+            "price": "23,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241203_228%2F17332338319057MnbN_JPEG%2FKakaoTalk_20241203_224135392_17.jpg",
+            "menu_name": "양념안창살",
+            "price": "22,000원"
+        }
+    ]
+}

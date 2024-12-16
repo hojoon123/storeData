@@ -1,0 +1,74 @@
+{
+    "store_name": "구지봉 주촌점",
+    "store_location": "경남 김해시 주촌면 천곡로7번길 7 1층",
+    "loc_x": "367360.661134567",
+    "loc_y": "194195.604985086",
+    "menu": [
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240328_130%2F1711585563087TPkGL_JPEG%2F%25B1%25B8%25C1%25F6%25BA%25C0_%252826%2529.jpg",
+            "menu_name": "[인기]국내산 통삼겹살(120g)",
+            "price": "9,500원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240328_139%2F1711585575424YwuXe_JPEG%2F%25B1%25B8%25C1%25F6%25BA%25C0_%252880%2529.jpg",
+            "menu_name": "[인기]국내산 항정살(100g)",
+            "price": "11,500원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240328_260%2F1711585590077kydqJ_JPEG%2F%25B1%25B8%25C1%25F6%25BA%25C0_%2528104%2529.jpg",
+            "menu_name": "[살살녹는]소갈비살(100g)",
+            "price": "9,500원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240328_216%2F1711585600220PaaMr_JPEG%2F%25B1%25B8%25C1%25F6%25BA%25C0_%252847%2529.jpg",
+            "menu_name": "[사장님추천]국내산 목살(120g)",
+            "price": "9,500원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240328_181%2F1711585614193ob8wg_JPEG%2F%25B1%25B8%25C1%25F6%25BA%25C0_%2528126%2529.jpg",
+            "menu_name": "[당일손질]한우육회(150g)",
+            "price": "20,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240328_224%2F1711585643211kz13t_JPEG%2F%25B1%25B8%25C1%25F6%25BA%25C0_%2528199%2529.jpg",
+            "menu_name": "꽃게된장찌개",
+            "price": "4,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240328_231%2F1711585652700A5JSB_JPEG%2F%25B1%25B8%25C1%25F6%25BA%25C0_%2528212%2529.jpg",
+            "menu_name": "돼지'김찌'",
+            "price": "6,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240328_185%2F1711585663298Cczxg_JPEG%2F%25B1%25B8%25C1%25F6%25BA%25C0_%2528164%2529.jpg",
+            "menu_name": "살얼음 동동 물냉면",
+            "price": "6,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240328_180%2F1711585672837HNH8B_JPEG%2F%25B1%25B8%25C1%25F6%25BA%25C0_%2528179%2529.jpg",
+            "menu_name": "새콤달콤 비빔냉면",
+            "price": "6,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240328_233%2F17115856835336Vnfo_JPEG%2F%25B1%25B8%25C1%25F6%25BA%25C0_%2528230%2529.jpg",
+            "menu_name": "된장 품은 꽃게 라면",
+            "price": "5,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20231223_197%2F1703336259969QPzdB_JPEG%2F%25B2%25AE%25B5%25A5%25B1%25E2.jpg",
+            "menu_name": "콩가루에 콕 벌집껍데기",
+            "price": "4,000원"
+        }
+    ]
+}

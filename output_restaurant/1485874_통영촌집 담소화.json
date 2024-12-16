@@ -1,0 +1,26 @@
+{
+    "store_name": "통영촌집 담소화",
+    "store_location": "경남 통영시 산양읍 풍화일주로 649-17 통영촌집 담소화",
+    "loc_x": "322455.549874418",
+    "loc_y": "148497.433596612",
+    "menu": [
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20220729_219%2F1659052915637Sqa3s_JPEG%2F%25C7%25C3%25B7%25B9%25C0%25CC%25BD%25BA%25C2%25FC%25B1%25E2%25B8%25A7%25BA%25B4.jpg",
+            "menu_name": "참기름병밀크티",
+            "price": "6,500원"
+        },
+        {
+            "category": "",
+            "img_src": "",
+            "menu_name": "라떼촌집",
+            "price": "7,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20211231_300%2F16409016955789HN3n_JPEG%2F%25BE%25C6%25B8%25DE%25B8%25AE%25C4%25AB%25B3%25EB.jpg",
+            "menu_name": "아메리카노",
+            "price": "5,000원"
+        }
+    ]
+}

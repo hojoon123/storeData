@@ -1,0 +1,74 @@
+{
+    "store_name": "곱지당",
+    "store_location": "제주 서귀포시 남원읍 위미해안로 18 1층",
+    "loc_x": "168038.677537632",
+    "loc_y": "-24719.3256400273",
+    "menu": [
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240511_103%2F1715426565921yKU5W_JPEG%2FIMG_7227.jpeg",
+            "menu_name": "아마레티",
+            "price": "4,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240114_137%2F1705214050961dLCvi_JPEG%2Fimage.jpg",
+            "menu_name": "에그타르트",
+            "price": "3,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240114_218%2F1705213838641lc763_JPEG%2Fimage.jpg",
+            "menu_name": "휘낭시에",
+            "price": "1,500원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240114_102%2F1705213802010kqUQm_JPEG%2Fimage.jpg",
+            "menu_name": "크림치즈빵",
+            "price": "3,500원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240114_25%2F1705213735531QWxwN_JPEG%2FIMG_6003.jpeg",
+            "menu_name": "청귤에이드",
+            "price": "6,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240114_261%2F1705213699299xyAgq_JPEG%2FIMG_5992.jpeg",
+            "menu_name": "애플망고스무디",
+            "price": "6,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240114_147%2F1705213658273qjtUk_JPEG%2FIMG_5998.jpeg",
+            "menu_name": "복숭아아이스티",
+            "price": "5,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240114_44%2F1705213614510pK266_JPEG%2FIMG_6005.jpeg",
+            "menu_name": "아인슈페너",
+            "price": "6,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240114_169%2F1705213581515vEtn0_JPEG%2FIMG_5984.jpeg",
+            "menu_name": "카페라떼",
+            "price": "5,500원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240114_165%2F1705213524941LgE9L_JPEG%2FIMG_5982.jpeg",
+            "menu_name": "에스프레소",
+            "price": "4,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240114_299%2F1705213461611uN5Yr_JPEG%2FIMG_5983.jpeg",
+            "menu_name": "아메리카노",
+            "price": "4,500원"
+        }
+    ]
+}

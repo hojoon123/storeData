@@ -1,0 +1,86 @@
+{
+    "store_name": "까몬 군산점",
+    "store_location": "전북 군산시 축동안3길 34-2 101호",
+    "loc_x": "174197.356929755",
+    "loc_y": "274161.060020017",
+    "menu": [
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241205_52%2F1733362143124HA69H_JPEG%2F%25B7%25A9.jpg",
+            "menu_name": "[ 전0무 추천 2~3인]랭샙",
+            "price": "23,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241205_174%2F1733362107341di6V8_JPEG%2F%25B1%25EE%25B8%25F3_%25BE%25E7%25C1%25F6_%25BD%25D2%25B1%25B9%25BC%25F6.jpg",
+            "menu_name": "[ 인기 1등] 까몬 쌀국수",
+            "price": "10,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241205_257%2F1733362090585tc9lu_JPEG%2F%25B8%25C5%25BF%25EE%25BE%25E7%25C1%25F6%25BD%25D2%25B1%25B9%25BC%25F6.jpg",
+            "menu_name": "[맛있게 매운]매운 양지 쌀국수",
+            "price": "11,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241205_195%2F1733362060467amsyp_JPEG%2F%25BC%25F6%25C0%25B0_%25BD%25D2%25B1%25B9%25BC%25F6.jpg",
+            "menu_name": "[프라임등급 아롱사태]수육 쌀국수",
+            "price": "14,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241205_279%2F1733362074152u7NTn_JPEG%2F%25B5%25EE%25BB%25C0_%25BD%25D2%25B1%25B9%25BC%25F6.jpg",
+            "menu_name": "[까몬 시그니처 ]등뼈 쌀국수",
+            "price": "12,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241205_28%2F1733362044856YhuO4_JPEG%2F%25B1%25EE%25B8%25F3_%25B5%25C5%25C1%25F6%25B0%25ED%25B1%25E2_%25BA%25BA%25C0%25BD%25B9%25E4.jpg",
+            "menu_name": "[한알 한알 계란코팅 ]까몬볶음밥",
+            "price": "12,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241205_230%2F1733362031421u1dy4_JPEG%2F%25C7%25CF%25B3%25EB%25C0%25CC_%25BA%25D0%25C2%25A5.jpg",
+            "menu_name": "[당일 아침 신선 채소]분짜",
+            "price": "14,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241205_33%2F1733362015577yGfmR_JPEG%2F%25BE%25BE%25C7%25AA%25B5%25E5_%25C7%25C1%25B6%25F3%25C0%25CC%25B5%25E5_%25B6%25F3%25C0%25CC%25BD%25BA.jpg",
+            "menu_name": "[초큼 매콤]씨푸드 프라이드 라이스",
+            "price": "14,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241205_193%2F1733362003514Lufjv_JPEG%2F%25BE%25BE%25C7%25AA%25B5%25E5_%25C7%25C1%25B6%25F3%25C0%25CC%25B5%25E5_%25BF%25A1%25B1%25D7%25B4%25A9%25B5%25E9.jpg",
+            "menu_name": "[신메뉴 HIT] 씨푸드 에그누들",
+            "price": "14,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241205_199%2F1733361989109MP9rs_JPEG%2F%25B9%25DD%25B9%25CC_%25BB%25F7%25B5%25E5%25C0%25A7%25C4%25A1.jpg",
+            "menu_name": "[베트남 정통 ]반미 샌드위치",
+            "price": "9,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241205_144%2F1733361967972zTQCP_JPEG%2F%25C5%25A9%25B8%25B2%25BB%25F5%25BF%25EC_6p.jpg",
+            "menu_name": "[ 주인장 최애 ] 크림 새우 5P",
+            "price": "7,500원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241205_237%2F1733361952615kowkz_JPEG%2F%25C2%25A5%25C1%25B6_6p.jpg",
+            "menu_name": "짜조 6p",
+            "price": "7,500원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241205_39%2F1733361936771pcIwL_JPEG%2F%25B9%25F6%25C6%25C8%25B7%25CE%25C0%25AE_6p.jpg",
+            "menu_name": "[ 달콤 짭짤 안주감] 버팔로윙",
+            "price": "7,500원"
+        }
+    ]
+}

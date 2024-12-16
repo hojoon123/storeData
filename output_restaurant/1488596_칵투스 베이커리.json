@@ -1,0 +1,146 @@
+{
+    "store_name": "칵투스 베이커리",
+    "store_location": "경기 의정부시 경의로 117 1층 칵투스 베이커리",
+    "loc_x": "204224.182405614",
+    "loc_y": "470097.745505421",
+    "menu": [
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241212_34%2F1733983876013j7rEu_JPEG%2FIMG_5625.jpeg",
+            "menu_name": "겨울한정)딸기 프레지에",
+            "price": "14,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241205_167%2F1733382878511GYkif_JPEG%2FIMG_5251.jpeg",
+            "menu_name": "겨울한정) 체리 포레누아",
+            "price": "12,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241202_264%2F1733130948936k3LWn_JPEG%2FIMG_5181.jpeg",
+            "menu_name": "겨울한정)칵투스 슈들렌",
+            "price": "3,200원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241202_157%2F1733093927289Osf4n_JPEG%2FIMG_5155.jpeg",
+            "menu_name": "콘마요 치아바타",
+            "price": "4,500원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240107_31%2F1704553521239geTmJ_JPEG%2FIMG_0324.jpeg",
+            "menu_name": "쪽파크림치즈 베이첼",
+            "price": "4,500원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241024_241%2F1729742095355ndodD_JPEG%2FIMG_4328.jpeg",
+            "menu_name": "스리라차마요 소세지빵",
+            "price": "4,500원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240103_74%2F1704292069365gvzie_JPEG%2FIMG_0305.jpeg",
+            "menu_name": "소금빵",
+            "price": "2,300원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240914_92%2F1726298950366AAJTW_JPEG%2FIMG_3386.jpeg",
+            "menu_name": "버터리 소금빵",
+            "price": "3,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241008_169%2F1728340164342IPJQQ_JPEG%2FIMG_3958.jpeg",
+            "menu_name": "치즈폭탄 치아바타",
+            "price": "5,200원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241006_268%2F1728186040422NjDhC_JPEG%2FIMG_3944.jpeg",
+            "menu_name": "바질토마토 치아바타",
+            "price": "5,400원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240727_125%2F1722060850125QfJHR_JPEG%2FIMG_2185.jpeg",
+            "menu_name": "휘낭시에",
+            "price": "3,200원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240914_171%2F1726299150354S3JSs_JPEG%2FIMG_3227.jpeg",
+            "menu_name": "마들렌",
+            "price": "3,200원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240112_142%2F170506448755692Lgj_JPEG%2F2BBC0F53-4191-4FF3-B7CC-6F51C0288C42.jpeg",
+            "menu_name": "잠봉뵈르",
+            "price": "6,500원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240203_192%2F1706927539272LV4Lv_JPEG%2FIMG_0533.jpeg",
+            "menu_name": "무화과크림치즈 깜빠뉴",
+            "price": "4,500원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240107_112%2F1704553442397kCVx3_JPEG%2FIMG_0326.jpeg",
+            "menu_name": "칵투스 식빵",
+            "price": "5,000원"
+        },
+        {
+            "category": "",
+            "img_src": "",
+            "menu_name": "아메리카노",
+            "price": "4,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240426_121%2F171409447500695Mv0_JPEG%2F0A02354D-065F-4715-A63F-6ABC29DDD071.jpeg",
+            "menu_name": "데저트",
+            "price": "5,500원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240426_215%2F1714094322905loCKu_JPEG%2FIMG_0923.jpeg",
+            "menu_name": "선셋",
+            "price": "5,500원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240426_255%2F1714094566516fGaUs_JPEG%2FIMG_0883.jpeg",
+            "menu_name": "라즈베리 소르베",
+            "price": "5,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240426_268%2F17140946621331tSoN_JPEG%2FIMG_0884.jpeg",
+            "menu_name": "초코 아이스크림",
+            "price": "4,500원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240329_207%2F1711664113713O2PMh_JPEG%2FIMG_1036.jpeg",
+            "menu_name": "훈제닭가슴살크림치즈 SDW",
+            "price": "8,500원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240329_256%2F1711664140207FcfrB_JPEG%2FIMG_1015.jpeg",
+            "menu_name": "에그마요 SDW",
+            "price": "6,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240726_68%2F1721925638243l5QJV_JPEG%2FIMG_2014.jpeg",
+            "menu_name": "햄치즈 SDW",
+            "price": "7,500원"
+        }
+    ]
+}

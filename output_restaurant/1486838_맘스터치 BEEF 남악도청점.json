@@ -1,0 +1,86 @@
+{
+    "store_name": "맘스터치 BEEF 남악도청점",
+    "store_location": "전남 무안군 삼향읍 남악4로82번길 13 88빌딩",
+    "loc_x": "151215.598691784",
+    "loc_y": "146184.835",
+    "menu": [
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241023_296%2F1729684421176CpXVq_PNG%2F%25B9%25E8%25B9%25CE_1280x960_%25C8%25C4%25B6%25F3%25C0%25CC%25B5%25E5_%25BA%25F2%25BD%25CE%25C0%25CC%25BC%25F8%25BB%25EC_%25B7%25B9%25B1%25D6%25B7%25AF%25287%25C1%25B6%25B0%25A2%2529.png",
+            "menu_name": "후라이드빅싸이순살",
+            "price": "11,900원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241023_123%2F1729684462412PpVNo_PNG%2F%25B9%25E8%25B9%25CE_1280x960_%25C8%25C4%25B6%25F3%25C0%25CC%25B5%25E5_%25BA%25F2%25BD%25CE%25C0%25CC%25BC%25F8%25BB%25EC_%25B8%25C6%25BD%25BA%252814%25C1%25B6%25B0%25A2%2529.png",
+            "menu_name": "후라이드빅싸이순살맥스",
+            "price": "19,900원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20210420_163%2F1618903055910eUCwf_PNG%2F-QdLxumeW1koLEBVjDFJL5i6.png",
+            "menu_name": "싸이플렉스버거",
+            "price": "8,300원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20230807_127%2F16913773035166NblX_PNG%2F%25BE%25C6%25B6%25F3%25BA%25F1%25BE%25C6%25B5%25FB%25C4%25A1%25C1%25EE%25B9%25F6%25B0%25C5.png",
+            "menu_name": "아라비아따치즈버거",
+            "price": "7,400원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20200807_31%2F1596783819241Rs66U_PNG%2FbFMuxIRuXTSF-xV8oqr6w3AQ.png",
+            "menu_name": "인크레더블버거",
+            "price": "6,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20200807_279%2F1596783868230syYIT_PNG%2FU7xrtOfzOwD23Tv1NKq2h4sv.png",
+            "menu_name": "싸이버거",
+            "price": "4,900원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20200807_130%2F1596783728912vpCox_PNG%2FfC4YzuCxmuqPFb8AmaAxi-p2.png",
+            "menu_name": "언빌리버블버거",
+            "price": "6,500원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20230807_62%2F1691380935391arq0O_PNG%2F%25C8%25AD%25C0%25CC%25C6%25AE%25B0%25A5%25B8%25AF%25B9%25F6%25B0%25C5.png",
+            "menu_name": "화이트갈릭버거",
+            "price": "5,500원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20210420_176%2F16189030251533oeGv_PNG%2FK8MYiSf_o15dN1jWxJPrPDXG.png",
+            "menu_name": "새우불고기버거",
+            "price": "6,300원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241023_205%2F1729684566375irjJt_PNG%2F%25B9%25E8%25B9%25CE_1280x960_%25C4%25C9%25C0%25CC%25C1%25D8%25BE%25E7%25B3%25E4%25B0%25A8%25C0%25DA%2528%25C1%25DF%2529.png",
+            "menu_name": "케이준양념감자(중)",
+            "price": "2,100원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20200807_123%2F15967839631825dFTY_PNG%2FnYNeAsmBKruFvlfFgxK3wMqx.png",
+            "menu_name": "바삭크림치즈볼(4조각)",
+            "price": "3,800원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241023_32%2F1729684587613aghWC_PNG%2F%25B9%25E8%25B9%25CE_1280x960_%25C4%25DA%25BF%25EF%25BD%25BD%25B7%25CE.png",
+            "menu_name": "코울슬로",
+            "price": "1,900원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241023_226%2F1729684597149v32ud_PNG%2F%25B9%25E8%25B9%25CE_1280x960_%25C4%25DC%25BB%25F8%25B7%25AF%25B5%25E5.png",
+            "menu_name": "콘샐러드",
+            "price": "1,900원"
+        }
+    ]
+}

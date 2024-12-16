@@ -1,0 +1,44 @@
+{
+    "store_name": "우담샤브칼국수",
+    "store_location": "전남 곡성군 곡성읍 학교로 3 1층 3호",
+    "loc_x": "226292.687883537",
+    "loc_y": "197547.873407031",
+    "menu": [
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241211_106%2F1733912927939S1PjQ_JPEG%2FKakaoTalk_20241211_183458781_11.jpg",
+            "menu_name": "곡성스폐셜",
+            "price": "18,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241202_34%2F1733120198717M0mBU_JPEG%2FIMG_8131.jpeg",
+            "menu_name": "한우샤브칼국수",
+            "price": "12,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241202_130%2F1733120116342XMSne_JPEG%2FIMG_8133.jpeg",
+            "menu_name": "버섯 샤브 칼국수",
+            "price": "10,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241202_15%2F1733120271719wSj8F_JPEG%2FIMG_8118.jpeg",
+            "menu_name": "한우육회",
+            "price": "25,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241211_58%2F1733913130509fFH0A_JPEG%2FKakaoTalk_20241211_193029739.jpg",
+            "menu_name": "육회비빔밥",
+            "price": "12,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241202_213%2F1733121738455Bipga_JPEG%2FIMG_8083.jpeg",
+            "menu_name": "눈꽃새우",
+            "price": "7,000원"
+        }
+    ]
+}

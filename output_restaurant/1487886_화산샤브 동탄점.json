@@ -1,0 +1,32 @@
+{
+    "store_name": "화산샤브 동탄점",
+    "store_location": "경기 화성시 동탄반석로 120 제일프라자 115호, 116호",
+    "loc_x": "206290.216888868",
+    "loc_y": "410861.73442951",
+    "menu": [
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240906_244%2F172561408398845EQC_JPEG%2F%25C1%25A6%25B8%25F1%25C0%25BB-%25C0%25D4%25B7%25C2%25C7%25D8%25C1%25D6%25BC%25BC%25BF%25E4_-001_%252860%2529.jpg",
+            "menu_name": "화산 샤브샤브",
+            "price": "12,900원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240906_288%2F1725613707154ptkze_JPEG%2F%25B9%25CC%25B3%25AA%25B8%25AE%25BB%25FE%25BA%25EA.jpg",
+            "menu_name": "화산 미나리샤브",
+            "price": "14,900원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240906_207%2F1725614171935XjxtM_JPEG%2F%25C1%25A6%25B8%25F1%25C0%25BB-%25C0%25D4%25B7%25C2%25C7%25D8%25C1%25D6%25BC%25BC%25BF%25E4_-001_%252861%2529.jpg",
+            "menu_name": "화산 대창샤브",
+            "price": "16,900원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20231121_244%2F1700535927234I1YfS_JPEG%2F%25BD%25BA%25C5%25B0%25BE%25DF%25C5%25B0.jpg",
+            "menu_name": "화샨 스키야키(평일런치)",
+            "price": "14,800원"
+        }
+    ]
+}

@@ -1,0 +1,242 @@
+{
+    "store_name": "스위시 평택고덕점",
+    "store_location": "경기 평택시 고덕여염9길 42 1층 104호",
+    "loc_x": "204555.219316364",
+    "loc_y": "393243.867298143",
+    "menu": [
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20231003_210%2F1696308300055bYiEQ_PNG%2F%25C1%25A6%25B8%25F1%25C0%25BB-%25C0%25D4%25B7%25C2%25C7%25D8%25C1%25D6%25BC%25BC%25BF%25E4_-002.png",
+            "menu_name": "나홀로모둠초밥도시락",
+            "price": "25,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20231003_1%2F1696308392721tYnx1_JPEG%2FIMG_9282.JPG",
+            "menu_name": "광어연어모둠초밥도시락",
+            "price": "15,900원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20231003_214%2F1696308445250GLAru_JPEG%2FIMG_0013.JPG",
+            "menu_name": "생연어초밥도시락",
+            "price": "15,900원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20231003_234%2F1696308486289cDPc5_JPEG%2FIMG_9933.JPG",
+            "menu_name": "스위시모둠초밥도시락",
+            "price": "12,700원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20231003_145%2F1696308549113v68CI_JPEG%2FIMG_9950.JPG",
+            "menu_name": "스위시스폐셜모둠초밥도시락",
+            "price": "13,500원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20231003_244%2F1696308611556TUgbA_JPEG%2FIMG_9985.JPG",
+            "menu_name": "새우모둠초밥도시락",
+            "price": "12,700원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20231003_178%2F16963086525960P3ET_PNG%2F%25C1%25A6%25B8%25F1%25C0%25BB-%25C0%25D4%25B7%25C2%25C7%25D8%25C1%25D6%25BC%25BC%25BF%25E4_-001.png",
+            "menu_name": "스위시커플팩모둠초밥도시락",
+            "price": "25,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20231003_52%2F1696308692412NgAQB_JPEG%2FIMG_0019.JPG",
+            "menu_name": "연어모둠초밥도시락",
+            "price": "15,900원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20231003_100%2F1696308728455fYixn_JPEG%2FIMG_0060.JPG",
+            "menu_name": "위시모둠초밥",
+            "price": "10,800원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20231003_70%2F1696308787202SNIP0_JPEG%2FIMG_9969.JPG",
+            "menu_name": "키즈모둠초밥도시락",
+            "price": "11,900원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20231003_4%2F1696308822360CBcSM_JPEG%2FIMG_0004.JPG",
+            "menu_name": "완도산광어모둠초밥도시락",
+            "price": "15,900원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20231003_152%2F1696308864188b1DtI_JPEG%2FIMG_9993.JPG",
+            "menu_name": "새우특공대초밥도시락",
+            "price": "9,400원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20231003_264%2F1696309567809hFCXx_JPEG%2FIMG_9722.JPG",
+            "menu_name": "초새우3P초밥",
+            "price": "3,900원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20231003_292%2F1696309534775eKUHk_JPEG%2FIMG_9796.JPG",
+            "menu_name": "장어3P초밥",
+            "price": "5,900원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20231003_104%2F1696309489745kiXIw_JPEG%2FIMG_9819.JPG",
+            "menu_name": "갈릭새우3P초밥",
+            "price": "5,900원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20231003_146%2F1696309456956WRJ5c_JPEG%2FKakaoTalk_20230704_111255309.jpg",
+            "menu_name": "유부3P초밥",
+            "price": "3,300원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20231003_89%2F16963094369472M7hL_JPEG%2FIMG_9729.JPG",
+            "menu_name": "계란3P초밥",
+            "price": "3,300원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20231003_185%2F1696309414297X770B_JPEG%2FIMG_9739.JPG",
+            "menu_name": "한치3P초밥",
+            "price": "3,900원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20231003_154%2F1696309382548inM9d_JPEG%2FIMG_9806.JPG",
+            "menu_name": "연어스테이크3P초밥",
+            "price": "4,500원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20231003_98%2F1696309361106zsR2I_JPEG%2FIMG_9705.JPG",
+            "menu_name": "연어3P초밥",
+            "price": "3,900원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20231003_155%2F16963093450614NfR1_JPEG%2FIMG_9717.JPG",
+            "menu_name": "광어3P초밥",
+            "price": "4,900원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20231003_77%2F1696309273315JXdVJ_JPEG%2FIMG_9964.JPG",
+            "menu_name": "산더미 회 덮밥",
+            "price": "9,500원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20231003_210%2F1696309245040zhWKb_JPEG%2FIMG_0077.JPG",
+            "menu_name": "엄마곰유부초밥",
+            "price": "8,300원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20231003_197%2F1696309223472R27C0_JPEG%2FIMG_0069.JPG",
+            "menu_name": "아빠곰유부초밥",
+            "price": "8,300원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20231003_299%2F1696309182014frjhA_JPEG%2FIMG_9981.JPG",
+            "menu_name": "스테이크모둠초밥",
+            "price": "8,300원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20231003_265%2F1696309142512dgw5N_JPEG%2FIMG_0026.JPG",
+            "menu_name": "스위시치즈새우롤",
+            "price": "11,900원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20231003_15%2F1696309102911f6few_JPEG%2FIMG_0032.JPG",
+            "menu_name": "스위시캘리포니아롤",
+            "price": "8,300원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20231003_135%2F1696309063066hNz0T_JPEG%2FIMG_0057.JPG",
+            "menu_name": "스위시참치마요롤",
+            "price": "10,500원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20231003_54%2F1696309008243ER2it_JPEG%2FIMG_0050.JPG",
+            "menu_name": "스위시제육김치롤",
+            "price": "8,300원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20231003_258%2F1696308961197QMaR4_JPEG%2FIMG_0038.JPG",
+            "menu_name": "스위시연어롤",
+            "price": "12,900원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20231003_67%2F1696308907417tulYJ_JPEG%2FIMG_0045.JPG",
+            "menu_name": "스위시가리비롤",
+            "price": "11,900원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20231003_272%2F1696309850885ADTt4_PNG%2FKakaoTalk_20231002_123220171_02.png",
+            "menu_name": "리코타치즈샐러드",
+            "price": "9,900원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20231003_286%2F1696309803727Cn2Ng_PNG%2FKakaoTalk_20231002_123220171.png",
+            "menu_name": "에그무스샐러드",
+            "price": "8,900원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20231003_255%2F1696309777675sKs5e_PNG%2FKakaoTalk_20231002_123220171_01.png",
+            "menu_name": "단호박무스샐러드",
+            "price": "8,900원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20231003_296%2F1696309757278mOX6D_PNG%2FKakaoTalk_20231002_123220171_06.png",
+            "menu_name": "감자무스샐러드",
+            "price": "8,900원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20231003_163%2F1696309726733itMH3_PNG%2FKakaoTalk_20231002_123220171_05.png",
+            "menu_name": "고구마무스샐러",
+            "price": "8,900원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20231003_63%2F1696309628314JUb6i_PNG%2FKakaoTalk_20231002_123759857_01.png",
+            "menu_name": "스위시쫄깃김치우동",
+            "price": "5,500원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20231003_251%2F1696309597145GjgCn_PNG%2FKakaoTalk_20231002_123759857.png",
+            "menu_name": "스위시쫄깃옛날우동",
+            "price": "4,900원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20231003_135%2F16963098303281JEiT_PNG%2FKakaoTalk_20231002_123220171_03.png",
+            "menu_name": "살사후실리샐러드",
+            "price": "8,900원"
+        }
+    ]
+}

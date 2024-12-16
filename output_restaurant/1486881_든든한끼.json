@@ -1,0 +1,50 @@
+{
+    "store_name": "든든한끼",
+    "store_location": "경기 동두천시 평화로 2980 1층 103호",
+    "loc_x": "205408.031218075",
+    "loc_y": "494442.05444339",
+    "menu": [
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241202_2%2F17331215095842O4TL_JPEG%2FIMG_3707.jpeg",
+            "menu_name": "제육볶음",
+            "price": "11,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241202_215%2F1733121537164ETPa6_JPEG%2FIMG_3707.jpeg",
+            "menu_name": "오징어볶음",
+            "price": "12,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241202_259%2F1733121312269J5ec8_JPEG%2FIMG_3707.jpeg",
+            "menu_name": "김치콩나물국(월,목)",
+            "price": "8,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241202_191%2F1733121341726rtdJB_JPEG%2FIMG_3707.jpeg",
+            "menu_name": "미역국(화,금)",
+            "price": "8,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241202_242%2F1733121384877PXx5i_JPEG%2FIMG_3707.jpeg",
+            "menu_name": "소고기무국(수,토)",
+            "price": "8,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241202_95%2F17331214256966v1Yw_JPEG%2FIMG_3707.jpeg",
+            "menu_name": "된장찌개",
+            "price": "8,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241202_83%2F1733121459636NiCW6_JPEG%2FIMG_3707.jpeg",
+            "menu_name": "김치찜",
+            "price": "10,000원"
+        }
+    ]
+}

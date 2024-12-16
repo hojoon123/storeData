@@ -1,0 +1,14 @@
+{
+    "store_name": "시장순대국",
+    "store_location": "인천 강화군 길상면 온수길33번길 7",
+    "loc_x": "155032.245353197",
+    "loc_y": "459828.693315227",
+    "menu": [
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240918_113%2F1726641791004vzUXq_JPEG%2F%25BD%25C3%25C0%25E5%25BC%25F8%25B4%25EB%25B1%25B91.jpg",
+            "menu_name": "가마솥 사골순대국",
+            "price": "9,000원"
+        }
+    ]
+}

@@ -1,0 +1,146 @@
+{
+    "store_name": "노작진성아구찜 동탄본점",
+    "store_location": "경기 화성시 노작로1길 14 1층 노작진성아구찜 동탄본점",
+    "loc_x": "207149.807915976",
+    "loc_y": "410457.088679657",
+    "menu": [
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241120_65%2F1732074936941upxOS_JPEG%2FKakaoTalk_20241117_180757123_01.jpg",
+            "menu_name": "아구찜 소",
+            "price": "30,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241126_170%2F1732609666995Pgdls_JPEG%2FIMG_9205.jpeg",
+            "menu_name": "아구찜 중",
+            "price": "41,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241126_124%2F1732609731851sXyk0_JPEG%2FIMG_9205.jpeg",
+            "menu_name": "아구찜 대",
+            "price": "52,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241127_198%2F1732677203535irRGp_JPEG%2FIMG_9205.jpeg",
+            "menu_name": "순살아구찜 소",
+            "price": "35,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241127_175%2F1732677309584kS4aR_JPEG%2FIMG_9205.jpeg",
+            "menu_name": "순살아구찜 중",
+            "price": "46,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241127_248%2F17326773859697pus5_JPEG%2FIMG_9205.jpeg",
+            "menu_name": "순살아구찜 대",
+            "price": "57,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241127_145%2F1732677461607UPv2X_JPEG%2FIMG_9208.jpeg",
+            "menu_name": "해물찜 소",
+            "price": "37,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241127_25%2F1732677518899FeV3q_JPEG%2FIMG_9208.jpeg",
+            "menu_name": "해물찜 중",
+            "price": "48,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241127_39%2F1732677558844swN5w_JPEG%2FIMG_9208.jpeg",
+            "menu_name": "해물찜 대",
+            "price": "59,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241127_89%2F1732677624883us42K_JPEG%2FIMG_9230.jpeg",
+            "menu_name": "아구곤이찜 소",
+            "price": "37,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241127_144%2F1732677667252IN70K_JPEG%2FIMG_9230.jpeg",
+            "menu_name": "아구곤이찜 중",
+            "price": "48,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241127_187%2F1732677714271sbRXB_JPEG%2FIMG_9230.jpeg",
+            "menu_name": "아구곤이찜 대",
+            "price": "59,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241127_68%2F1732677798247gpcp1_JPEG%2FIMG_9221.jpeg",
+            "menu_name": "아구낙지찜 소",
+            "price": "37,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241127_72%2F17326778231457PHau_JPEG%2FIMG_9221.jpeg",
+            "menu_name": "아구낙지찜 중",
+            "price": "48,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241127_263%2F1732677849951yNOqq_JPEG%2FIMG_9221.jpeg",
+            "menu_name": "아구낙지찜 대",
+            "price": "59,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241127_286%2F17326779511856maan_JPEG%2FIMG_9214.jpeg",
+            "menu_name": "섞어찜(아구+해물) 중",
+            "price": "59,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241127_273%2F1732678082480KFi8d_JPEG%2FIMG_9214.jpeg",
+            "menu_name": "섞어찜(아구+해물) 대",
+            "price": "70,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241127_256%2F1732678133371myogK_JPEG%2FIMG_9214.jpeg",
+            "menu_name": "섞어찜(아구+해물) 특대",
+            "price": "81,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241127_296%2F17326781861429qSSB_JPEG%2FIMG_9225.jpeg",
+            "menu_name": "황제섞어찜(아구+해물+대구뽈)",
+            "price": "92,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241126_104%2F1732609642666y34dY_JPEG%2FIMG_9217.jpeg",
+            "menu_name": "노작시그니처 볶음밥",
+            "price": "3,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241126_113%2F1732609605538mVAP3_JPEG%2FIMG_9216.jpeg",
+            "menu_name": "새우튀김",
+            "price": "7,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241126_61%2F1732609578204Fx2XS_JPEG%2FIMG_9219.jpeg",
+            "menu_name": "해물라면",
+            "price": "10,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241126_275%2F17326094341460zAad_JPEG%2FIMG_9210.jpeg",
+            "menu_name": "해물전",
+            "price": "15,000원"
+        }
+    ]
+}

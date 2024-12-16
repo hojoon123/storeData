@@ -1,0 +1,38 @@
+{
+    "store_name": "범돈",
+    "store_location": "경남 양산시 물금읍 화합8길 17 1층",
+    "loc_x": "382855.178778822",
+    "loc_y": "205183.975796923",
+    "menu": [
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20231207_176%2F1701922622733XpkQ5_JPEG%2F1000000521.jpg",
+            "menu_name": "꼬들꽃대패",
+            "price": "8,900원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20231207_187%2F1701922407025fjoXc_JPEG%2F1000000518.jpg",
+            "menu_name": "삼겹살",
+            "price": "8,900원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20231207_41%2F1701922461095CnCD5_JPEG%2F1000000519.jpg",
+            "menu_name": "목살",
+            "price": "8,900원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20231207_86%2F1701922487006OSrfm_JPEG%2F1000000520.jpg",
+            "menu_name": "뒷통",
+            "price": "8,900원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20231207_264%2F1701922688686JeYIJ_JPEG%2F1000000522.jpg",
+            "menu_name": "껍데기",
+            "price": "8,900원"
+        }
+    ]
+}

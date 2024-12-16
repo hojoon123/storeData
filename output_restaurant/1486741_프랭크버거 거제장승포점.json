@@ -1,0 +1,356 @@
+{
+    "store_name": "프랭크버거 거제장승포점",
+    "store_location": "경남 거제시 능포로 114 1층",
+    "loc_x": "358222.05789248",
+    "loc_y": "154179.420918964",
+    "menu": [
+        {
+            "category": "대표메뉴",
+            "img_src": "",
+            "menu_name": "머쉬룸크림스테이크버거세트",
+            "price": "11,400원"
+        },
+        {
+            "category": "대표메뉴",
+            "img_src": "",
+            "menu_name": "하바네로핫치킨버거세트",
+            "price": "11,100원"
+        },
+        {
+            "category": "대표메뉴",
+            "img_src": "",
+            "menu_name": "청양마요쉬림프버거세트",
+            "price": "10,100원"
+        },
+        {
+            "category": "대표메뉴",
+            "img_src": "",
+            "menu_name": "텍사스스모크버거세트",
+            "price": "9,300원"
+        },
+        {
+            "category": "대표메뉴",
+            "img_src": "",
+            "menu_name": "치즈버거세트",
+            "price": "10,400원"
+        },
+        {
+            "category": "대표메뉴",
+            "img_src": "",
+            "menu_name": "K불고기버거세트(Regular)",
+            "price": "9,100원"
+        },
+        {
+            "category": "세트류",
+            "img_src": "",
+            "menu_name": "텍사스스모크버거세트",
+            "price": "9,300원"
+        },
+        {
+            "category": "세트류",
+            "img_src": "",
+            "menu_name": "청양마요쉬림프버거세트",
+            "price": "10,100원"
+        },
+        {
+            "category": "세트류",
+            "img_src": "",
+            "menu_name": "머쉬룸크림스테이크버거세트",
+            "price": "11,400원"
+        },
+        {
+            "category": "세트류",
+            "img_src": "",
+            "menu_name": "하바네로핫치킨버거세트",
+            "price": "11,100원"
+        },
+        {
+            "category": "세트류",
+            "img_src": "",
+            "menu_name": "K불고기버거세트(Regular)",
+            "price": "9,100원"
+        },
+        {
+            "category": "세트류",
+            "img_src": "",
+            "menu_name": "K핫불고기버거세트(Regular)",
+            "price": "9,100원"
+        },
+        {
+            "category": "세트류",
+            "img_src": "",
+            "menu_name": "K불고기치즈버거세트(Regular)",
+            "price": "10,100원"
+        },
+        {
+            "category": "세트류",
+            "img_src": "",
+            "menu_name": "프랭크버거세트",
+            "price": "9,500원"
+        },
+        {
+            "category": "세트류",
+            "img_src": "",
+            "menu_name": "쉬림프버거세트(Regular)",
+            "price": "9,900원"
+        },
+        {
+            "category": "세트류",
+            "img_src": "",
+            "menu_name": "치즈버거세트",
+            "price": "10,400원"
+        },
+        {
+            "category": "세트류",
+            "img_src": "",
+            "menu_name": "크리스피치킨버거세트(Regular)",
+            "price": "10,800원"
+        },
+        {
+            "category": "세트류",
+            "img_src": "",
+            "menu_name": "베이컨치즈버거세트",
+            "price": "11,800원"
+        },
+        {
+            "category": "세트류",
+            "img_src": "",
+            "menu_name": "더블비프치즈버거세트",
+            "price": "12,800원"
+        },
+        {
+            "category": "세트류",
+            "img_src": "",
+            "menu_name": "비프앤쉬림프버거세트(Regular)",
+            "price": "12,800원"
+        },
+        {
+            "category": "세트류",
+            "img_src": "",
+            "menu_name": "JG버거세트",
+            "price": "13,800원"
+        },
+        {
+            "category": "버거류",
+            "img_src": "",
+            "menu_name": "텍사스스모크버거",
+            "price": "5,300원"
+        },
+        {
+            "category": "버거류",
+            "img_src": "",
+            "menu_name": "청양마요쉬림프버거",
+            "price": "6,100원"
+        },
+        {
+            "category": "버거류",
+            "img_src": "",
+            "menu_name": "머쉬룸크림스테이크버거",
+            "price": "7,400원"
+        },
+        {
+            "category": "버거류",
+            "img_src": "",
+            "menu_name": "하바네로핫치킨버거",
+            "price": "7,100원"
+        },
+        {
+            "category": "버거류",
+            "img_src": "",
+            "menu_name": "K불고기버거(Regular)",
+            "price": "5,100원"
+        },
+        {
+            "category": "버거류",
+            "img_src": "",
+            "menu_name": "K핫불고기버거(Regular)",
+            "price": "5,100원"
+        },
+        {
+            "category": "버거류",
+            "img_src": "",
+            "menu_name": "K불고기치즈버거(Regular)",
+            "price": "6,100원"
+        },
+        {
+            "category": "버거류",
+            "img_src": "",
+            "menu_name": "[수제버거]프랭크버거",
+            "price": "5,500원"
+        },
+        {
+            "category": "버거류",
+            "img_src": "",
+            "menu_name": "쉬림프버거(Regular)",
+            "price": "5,900원"
+        },
+        {
+            "category": "버거류",
+            "img_src": "",
+            "menu_name": "치즈버거",
+            "price": "6,400원"
+        },
+        {
+            "category": "버거류",
+            "img_src": "",
+            "menu_name": "크리스피치킨버거(Regular)",
+            "price": "6,800원"
+        },
+        {
+            "category": "버거류",
+            "img_src": "",
+            "menu_name": "베이컨치즈버거",
+            "price": "7,800원"
+        },
+        {
+            "category": "버거류",
+            "img_src": "",
+            "menu_name": "더블비프치즈버거",
+            "price": "8,800원"
+        },
+        {
+            "category": "버거류",
+            "img_src": "",
+            "menu_name": "비프앤쉬림프버거(Regular)",
+            "price": "8,800원"
+        },
+        {
+            "category": "버거류",
+            "img_src": "",
+            "menu_name": "JG버거",
+            "price": "9,800원"
+        },
+        {
+            "category": "사이드류",
+            "img_src": "",
+            "menu_name": "프렌치프라이",
+            "price": "2,400원"
+        },
+        {
+            "category": "사이드류",
+            "img_src": "",
+            "menu_name": "콘샐러드(1개)",
+            "price": "2,400원"
+        },
+        {
+            "category": "사이드류",
+            "img_src": "",
+            "menu_name": "코울슬로(1개)",
+            "price": "2,400원"
+        },
+        {
+            "category": "사이드류",
+            "img_src": "",
+            "menu_name": "롱새우스틱(1개)",
+            "price": "2,500원"
+        },
+        {
+            "category": "사이드류",
+            "img_src": "",
+            "menu_name": "치즈스틱(3개)",
+            "price": "2,900원"
+        },
+        {
+            "category": "사이드류",
+            "img_src": "",
+            "menu_name": "더치즈볼(3개)",
+            "price": "2,900원"
+        },
+        {
+            "category": "사이드류",
+            "img_src": "",
+            "menu_name": "스파이시텐더(2개)",
+            "price": "2,900원"
+        },
+        {
+            "category": "사이드류",
+            "img_src": "",
+            "menu_name": "치즈프렌치프라이",
+            "price": "3,900원"
+        },
+        {
+            "category": "사이드류",
+            "img_src": "",
+            "menu_name": "게다리살튀김(3개)",
+            "price": "3,900원"
+        },
+        {
+            "category": "사이드류",
+            "img_src": "",
+            "menu_name": "오징어링(5개)",
+            "price": "4,100원"
+        },
+        {
+            "category": "사이드류",
+            "img_src": "",
+            "menu_name": "통가슴살후라이드(1개)",
+            "price": "3,900원"
+        },
+        {
+            "category": "사이드류",
+            "img_src": "",
+            "menu_name": "버팔로윙봉 순한맛(4개)",
+            "price": "5,300원"
+        },
+        {
+            "category": "사이드류",
+            "img_src": "",
+            "menu_name": "버팔로윙봉 매운맛(4개)",
+            "price": "5,700원"
+        },
+        {
+            "category": "사이드류",
+            "img_src": "",
+            "menu_name": "자이언트통닭다리(1개)",
+            "price": "6,300원"
+        },
+        {
+            "category": "음료류",
+            "img_src": "",
+            "menu_name": "펩시(355ml캔)",
+            "price": "2,400원"
+        },
+        {
+            "category": "음료류",
+            "img_src": "",
+            "menu_name": "펩시제로(355ml캔)",
+            "price": "2,400원"
+        },
+        {
+            "category": "음료류",
+            "img_src": "",
+            "menu_name": "사이다(355ml캔)",
+            "price": "2,400원"
+        },
+        {
+            "category": "음료류",
+            "img_src": "",
+            "menu_name": "탐스제로 오렌지(355ml캔)",
+            "price": "2,400원"
+        },
+        {
+            "category": "음료류",
+            "img_src": "",
+            "menu_name": "아메리카노(ICE)",
+            "price": "2,400원"
+        },
+        {
+            "category": "음료류",
+            "img_src": "",
+            "menu_name": "밀크쉐이크",
+            "price": "4,200원"
+        },
+        {
+            "category": "음료류",
+            "img_src": "",
+            "menu_name": "초코밀크쉐이크",
+            "price": "4,700원"
+        },
+        {
+            "category": "음료류",
+            "img_src": "",
+            "menu_name": "딸기밀크쉐이크",
+            "price": "4,700원"
+        }
+    ]
+}

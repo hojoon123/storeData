@@ -1,0 +1,56 @@
+{
+    "store_name": "석장손칼국수집",
+    "store_location": "경북 경주시 초당길15번길 21-10 석장손칼국수집",
+    "loc_x": "401563.303548818",
+    "loc_y": "263134.026466945",
+    "menu": [
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20231216_297%2F1702658779845LSivI_JPEG%2FIMG_5912.jpeg",
+            "menu_name": "돼지두부찌개",
+            "price": "10,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20231225_295%2F1703432575842W47Vn_JPEG%2FIMG_6127.jpeg",
+            "menu_name": "손칼국수",
+            "price": "6,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240323_156%2F1711156021420ThBRY_JPEG%2FIMG_6712.jpeg",
+            "menu_name": "들깨칼국수",
+            "price": "8,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20231225_2%2F17034325884126c8q4_JPEG%2FIMG_6128.jpeg",
+            "menu_name": "팥칼국수",
+            "price": "8,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20231225_122%2F1703432603094rd3MJ_JPEG%2FIMG_6126.jpeg",
+            "menu_name": "잔치국수",
+            "price": "5,000원"
+        },
+        {
+            "category": "",
+            "img_src": "",
+            "menu_name": "냉국수(계절메뉴)",
+            "price": "6,000원"
+        },
+        {
+            "category": "",
+            "img_src": "",
+            "menu_name": "비빔국수(계절메뉴)",
+            "price": "7,000원"
+        },
+        {
+            "category": "",
+            "img_src": "",
+            "menu_name": "냉콩국수(계절메뉴)",
+            "price": "8,000원"
+        }
+    ]
+}

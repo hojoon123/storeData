@@ -1,0 +1,14 @@
+{
+    "store_name": "시랑리짬뽕",
+    "store_location": "부산 기장군 기장읍 동부산관광7로 17 201동 20호",
+    "loc_x": "401614.031886053",
+    "loc_y": "190002.538510797",
+    "menu": [
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20231215_184%2F1702634237187x5S6v_JPEG%2F1000001126.jpg",
+            "menu_name": "짬뽕",
+            "price": "8,000원"
+        }
+    ]
+}

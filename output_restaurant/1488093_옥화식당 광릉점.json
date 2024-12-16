@@ -1,0 +1,38 @@
+{
+    "store_name": "옥화식당 광릉점",
+    "store_location": "경기 남양주시 진접읍 진벌로 32",
+    "loc_x": "218353.044190159",
+    "loc_y": "471438.404396122",
+    "menu": [
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20231208_194%2F170201870384413uHu_JPEG%2FKakaoTalk_20231208_155734177_03.jpg",
+            "menu_name": "돼지생갈비",
+            "price": "18,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20231208_252%2F17020193597192uT0N_JPEG%2FKakaoTalk_20231208_160638261_01.jpg",
+            "menu_name": "김치찜찌개",
+            "price": "11,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20231208_55%2F1702019258008rikTf_JPEG%2FKakaoTalk_20231208_160638261.jpg",
+            "menu_name": "전통 육개장",
+            "price": "11,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20231208_83%2F1702018936676DeCzm_JPEG%2FKakaoTalk_20231208_155734177_04.jpg",
+            "menu_name": "등심덧살",
+            "price": "18,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20231208_37%2F17020190589097JF42_JPEG%2FKakaoTalk_20231208_155734177.jpg",
+            "menu_name": "뭉티기",
+            "price": "35,000원"
+        }
+    ]
+}

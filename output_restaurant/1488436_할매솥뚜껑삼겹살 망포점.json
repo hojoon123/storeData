@@ -1,0 +1,32 @@
+{
+    "store_name": "할매솥뚜껑삼겹살 망포점",
+    "store_location": "경기 수원시 영통구 태장로71번길 8 2층",
+    "loc_x": "204749.587570561",
+    "loc_y": "415318.220876845",
+    "menu": [
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241125_101%2F1732504967136Ae7WQ_PNG%2F111.PNG",
+            "menu_name": "흑돼지삼겹살 600g",
+            "price": "30,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241125_139%2F1732505010803Im7sU_PNG%2F1111.PNG",
+            "menu_name": "흑돼지삼겹살 200g",
+            "price": "10,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241125_27%2F17325050302002SSKC_PNG%2F%25B8%25F1%25BB%25EC.PNG",
+            "menu_name": "흑돼지 목살 200g",
+            "price": "10,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241125_285%2F1732505055558bfn7D_PNG%2F%25BA%25BA%25C0%25BD%25B9%25E4.PNG",
+            "menu_name": "볶음밥",
+            "price": "3,000원"
+        }
+    ]
+}

@@ -1,0 +1,50 @@
+{
+    "store_name": "제이델링베이커리카페&커스텀케이크 가경점",
+    "store_location": "충북 청주시 흥덕구 서현서로25번길 50 1층 101호 제이델링베이커리카페",
+    "loc_x": "238082.040659121",
+    "loc_y": "346367.884196587",
+    "menu": [
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241125_255%2F1732529994115fxPRy_JPEG%2F%25C1%25A6%25C0%25CC%25B5%25A8%25B8%25B5_%25C1%25A4%25BA%25B8_%25B0%25F8%25C0%25AF%25B9%25E6_%25BB%25E7%25C1%25F8_20240604_12.jpg",
+            "menu_name": "제이델링 시그니처케이크",
+            "price": "변동"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241125_282%2F1732529957570rpNYw_JPEG%2Fa_e73Ud018svc1e9ygz3ivyrrf_j1gbqh.jpg",
+            "menu_name": "반전케이크,용돈케이크",
+            "price": "60,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241125_291%2F1732529939537Yb83w_JPEG%2F%25B1%25DB%25C0%25DA%25C4%25C9%25C0%25CC%25C5%25A9_%25C3%25A4%25C6%25C3%25B9%25E6%25B8%25DE%25B4%25BA_%25BB%25E7%25C1%25F8.jpg",
+            "menu_name": "숫자케이크",
+            "price": "54,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241125_72%2F1732529915866cLi81_JPEG%2FKakaoTalk_20230510_162408375_08.jpg",
+            "menu_name": "볼링공케이크",
+            "price": "55,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241125_146%2F1732529902243hm9Lw_JPEG%2F%25C1%25A6%25C0%25CC%25B5%25A8%25B8%25B5_%25C1%25A4%25BA%25B8_%25B0%25F8%25C0%25AF%25B9%25E6-%25C6%25F7%25C5%25E4_%25C4%25C9%25C0%25CC%25C5%25A9-54092787645.jpg",
+            "menu_name": "포토케이크",
+            "price": "40,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241125_3%2F1732529875745ugsgs_JPEG%2Fi_a2bUd018svc17rm736y42mjf_j1gbqh.jpg",
+            "menu_name": "풍선케이크",
+            "price": "60,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241125_251%2F1732529854570O6E90_JPEG%2F%25B5%25B5%25BD%25C3%25B6%25F4%25C4%25C9%25C0%25CC%25C5%25A9.jpg",
+            "menu_name": "레터링(디자인)케이크",
+            "price": "변동"
+        }
+    ]
+}

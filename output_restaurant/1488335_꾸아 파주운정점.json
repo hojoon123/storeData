@@ -1,0 +1,152 @@
+{
+    "store_name": "꾸아 파주운정점",
+    "store_location": "경기 파주시 청암로17번길 59 골든에셋타워 101호",
+    "loc_x": "176493.286789745",
+    "loc_y": "469604.449861429",
+    "menu": [
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240929_62%2F17275964125428RvBU_JPEG%2FIMG_0555.jpeg",
+            "menu_name": "시그니처 세트",
+            "price": "35,500원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20231207_160%2F1701910248704SUC16_PNG%2F%25C1%25F7%25C8%25AD%25BD%25D2%25B1%25B9%25BC%25F6.png",
+            "menu_name": "직화쌀국수",
+            "price": "10,500원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20231211_44%2F1702274377235eoFUP_PNG%2F%25BA%25D0%25C2%25A5.png",
+            "menu_name": "분짜",
+            "price": "18,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20231211_50%2F1702273480883GxEzR_PNG%2F%25B0%25ED%25B1%25E2%25B5%25EB%25BB%25D2%25BD%25D2%25B1%25B9%25BC%25F6.png",
+            "menu_name": "고기듬뿍 쌀국수",
+            "price": "13,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20231211_113%2F1702273526420yAPvT_PNG%2F%25BF%25D5%25B0%25A5%25BA%25F1%25BD%25D2%25B1%25B9%25BC%25F6.png",
+            "menu_name": "왕갈비 쌀국수",
+            "price": "15,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240812_195%2F1723449696935fj9NC_JPEG%2FIMG_0556.jpeg",
+            "menu_name": "차돌양지숙주쌀국수",
+            "price": "9,900원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240929_140%2F1727596592637FARvD_JPEG%2FIMG_0554.jpeg",
+            "menu_name": "냐짱반쎄오",
+            "price": "13,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20231211_79%2F1702274325497sQONV_JPEG%2F%25B9%25DD%25BC%25BC%25BF%25C0.jpg",
+            "menu_name": "반세오",
+            "price": "28,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20231211_293%2F17022735654498fD6h_PNG%2F%25B8%25C5%25C4%25DE%25C1%25F7%25C8%25ADpng.png",
+            "menu_name": "매콤직화쌀국수",
+            "price": "11,500원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20231211_107%2F1702273621451MFvTL_PNG%2F%25B8%25C5%25C4%25DE%25B0%25ED%25B1%25E2%25B5%25EB%25BB%25D2png.png",
+            "menu_name": "매콤 고기듬뿍 쌀국수",
+            "price": "14,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20231211_225%2F1702273768576KUhbY_JPEG%2F%25B8%25C5%25C4%25DE%25BF%25D5%25B0%25A5%25BA%25F1%25BD%25D2%25B1%25B9%25BC%25F6.jpg",
+            "menu_name": "매콤 왕갈비쌀국수",
+            "price": "16,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20231211_254%2F1702273800235qkoFx_JPEG%2F%25B2%25AD%25B6%25A1.jpg",
+            "menu_name": "껌땀",
+            "price": "12,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20231211_298%2F17022738212967g9qU_PNG%2F%25BA%25BA%25C0%25BD%25B9%25E4.png",
+            "menu_name": "시그니처 볶음밥",
+            "price": "12,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20231211_146%2F1702273839595jzn9U_JPEG%2F%25BA%25D0%25BA%25B8%25B3%25B2%25BA%25B8.jpg",
+            "menu_name": "분보남보",
+            "price": "12,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20231211_146%2F1702273980917aHAuc_PNG%2F%25B3%25DB.png",
+            "menu_name": "넴(3piece)",
+            "price": "8,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20231211_295%2F17022740003759uLz5_PNG%2F%25BD%25AC%25B8%25B2%25C7%25C1%25B6%25F3%25C0%25CC%25BD%25BA%25B7%25D1.png",
+            "menu_name": "쉬림프라이스롤",
+            "price": "7,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20231211_264%2F1702274033155R1Fug_PNG%2F%25B2%25E3%25C0%25CC.png",
+            "menu_name": "꿔이",
+            "price": "1,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20231211_170%2F1702274120989IDNLb_PNG%2F%25B8%25C1%25B0%25ED%25BD%25BA%25C6%25BE%25C1%25EA%25BD%25BA.png",
+            "menu_name": "망고스틴주스(310ml)",
+            "price": "3,500원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20231211_166%2F1702274097146FQ2CK_PNG%2F%25B8%25AE%25C4%25A1%25C1%25EA%25BD%25BA.png",
+            "menu_name": "리치주스(310ml)",
+            "price": "3,500원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20231211_27%2F1702274152891KjB4u_JPEG%2F%25B8%25AE%25C4%25A1%25BF%25A1%25C0%25CC%25B5%25E5.jpg",
+            "menu_name": "핑크리치 캐모마일 에이드",
+            "price": "5,500원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20231211_6%2F1702274168777Ny3gv_JPEG%2F%25C0%25DA%25B8%25F9%25BF%25A1%25C0%25CC%25B5%25E5.jpg",
+            "menu_name": "자몽에이드",
+            "price": "5,500원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20231211_199%2F1702274185870pjBST_PNG%2F%25C5%25B8%25C0%25CC%25B0%25C5%25BB%25FD%25B8%25C6%25C1%25D6.png%25C0%25C7_%25BB%25E7%25BA%25BB.png",
+            "menu_name": "타이거 생맥주(330ml)",
+            "price": "6,500원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20231211_124%2F1702274264979U0HJo_PNG%2F%25BB%25E7%25C0%25CC%25B0%25F81.png",
+            "menu_name": "사이공 병맥주(330ml)",
+            "price": "6,500원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20231211_299%2F17022742366640Hcai_PNG%2F%25C7%25CF%25B3%25EB%25C0%25CC%25BA%25B4%25B8%25C6%25C1%25D6.png",
+            "menu_name": "하노이 병맥주(330ml)",
+            "price": "6,500원"
+        }
+    ]
+}

@@ -1,0 +1,68 @@
+{
+    "store_name": "에이프레임익스프레스 경주",
+    "store_location": "경북 경주시 원효로 99 에이프레임 익스프레스",
+    "loc_x": "399763.677741188",
+    "loc_y": "262473.896998764",
+    "menu": [
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240624_274%2F1719225416774oeABv_JPEG%2F20240622_173429.jpg",
+            "menu_name": "AFE 오리지널 고등어케밥",
+            "price": "8,200원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240624_88%2F1719225310266Tldoi_JPEG%2F20240622_173622.jpg",
+            "menu_name": "터키식 고등어샌드위치",
+            "price": "8,200원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240624_91%2F1719225464318V8FDt_JPEG%2F20240622_172543.jpg",
+            "menu_name": "고등어오버라이스",
+            "price": "13,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240619_158%2F17187907092393HCv0_PNG%2Fkebabd.png",
+            "menu_name": "케밥 음료세트",
+            "price": "9,800원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240619_26%2F1718790862824vMyE8_PNG%2Fsanddrin.png",
+            "menu_name": "샌드위치 음료세트",
+            "price": "9,800원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240619_60%2F17187913132235yU11_JPEG%2Flemonade.jpg",
+            "menu_name": "유기농 레몬에이드",
+            "price": "5,500원"
+        },
+        {
+            "category": "",
+            "img_src": "",
+            "menu_name": "캔 음료",
+            "price": "2,000원"
+        },
+        {
+            "category": "",
+            "img_src": "",
+            "menu_name": "맥주 (Samuel Adams)",
+            "price": "7,500원"
+        },
+        {
+            "category": "",
+            "img_src": "",
+            "menu_name": "맥주(Stella Artois)",
+            "price": "6,500원"
+        },
+        {
+            "category": "",
+            "img_src": "",
+            "menu_name": "맥주(CORONA)",
+            "price": "6,500원"
+        }
+    ]
+}

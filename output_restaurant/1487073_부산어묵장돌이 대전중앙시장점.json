@@ -1,0 +1,14 @@
+{
+    "store_name": "부산어묵장돌이 대전중앙시장점",
+    "store_location": "대전 동구 중앙로194번길 28-1 부산어묵장돌이",
+    "loc_x": "238656.76590169",
+    "loc_y": "314359.589920883",
+    "menu": [
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240614_265%2F1718342527038QMtQH_JPEG%2F20240614_114647.jpg",
+            "menu_name": "어묵꼬치",
+            "price": "1,200원"
+        }
+    ]
+}

@@ -1,0 +1,14 @@
+{
+    "store_name": "든든한김밥",
+    "store_location": "경기 용인시 수지구 신수로783번길 12 . 1층 109호",
+    "loc_x": "208915.4934495",
+    "loc_y": "426474.39587091",
+    "menu": [
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241203_115%2F1733187246372talLj_JPEG%2FIMG_4360.jpeg",
+            "menu_name": "김밥류",
+            "price": "변동"
+        }
+    ]
+}

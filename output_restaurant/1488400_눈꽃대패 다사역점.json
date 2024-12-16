@@ -1,0 +1,68 @@
+{
+    "store_name": "눈꽃대패 다사역점",
+    "store_location": "대구 달성군 다사읍 매곡로2길 32 1층",
+    "loc_x": "331591.112862496",
+    "loc_y": "263651.142429523",
+    "menu": [
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240906_89%2F17256047644118kFAu_JPEG%2FIMG_2402.jpeg",
+            "menu_name": "눈꽃대패",
+            "price": "5,500원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241007_191%2F1728308125906wKthu_PNG%2FIMG_7778.png",
+            "menu_name": "고급대패",
+            "price": "6,500원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240906_21%2F1725607160463bzfv3_JPEG%2F%25BF%25BE%25B3%25AF%25BB%25EF%25B0%25E3%25BB%25EC.jpg",
+            "menu_name": "옛날삼겹살",
+            "price": "6,500원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240906_47%2F1725607191319J1QvG_JPEG%2FIMG_2396.jpeg",
+            "menu_name": "목살대패",
+            "price": "6,500원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240906_66%2F172560721298405x9z_JPEG%2FIMG_2394.jpeg",
+            "menu_name": "태풍삼겹대패",
+            "price": "6,500원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240906_151%2F1725607256015rlYee_JPEG%2FIMG_2399.jpeg",
+            "menu_name": "항정살",
+            "price": "6,500원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240906_250%2F17256072851893dStC_JPEG%2FIMG_2393.jpeg",
+            "menu_name": "한돈삼겹대패",
+            "price": "7,500원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240906_104%2F1725607316766VL7hR_JPEG%2FIMG_2392.jpeg",
+            "menu_name": "한돈생삼겹살",
+            "price": "7,500원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240906_281%2F17256074533537sLXR_JPEG%2FIMG_2395.jpeg",
+            "menu_name": "우삼겹",
+            "price": "6,900원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240906_263%2F17256073765130l2i2_PNG%2F%25B5%25B9%25B5%25B9%25C0%25CC_%25C2%25F7%25B5%25B9.png",
+            "menu_name": "돌돌이차돌",
+            "price": "6,900원"
+        }
+    ]
+}

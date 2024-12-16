@@ -1,0 +1,26 @@
+{
+    "store_name": "가마로강정 대전둔산점",
+    "store_location": "대전 서구 둔산로 228 1층 14호",
+    "loc_x": "235746.834216203",
+    "loc_y": "316765.087500209",
+    "menu": [
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241205_300%2F1733389260790lQk7O_JPEG%2F02_%25B4%25F5%25BA%25ED_3.jpg",
+            "menu_name": "더블",
+            "price": "22,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241205_162%2F1733389113599vG2Ff_JPEG%2F03_%25C6%25AE%25B8%25AE%25C7%25C3_1.jpg",
+            "menu_name": "트리플",
+            "price": "32,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241205_172%2F1733389362351TG452_JPEG%2F01_%25BD%25CC%25B1%25DB_%25B8%25B6%25B4%25C32.jpg",
+            "menu_name": "싱글",
+            "price": "12,000원"
+        }
+    ]
+}

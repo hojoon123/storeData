@@ -1,0 +1,530 @@
+{
+    "store_name": "박가부대 울산달동점",
+    "store_location": "울산 남구 번영로166번길 6 1층",
+    "loc_x": "411037.087695128",
+    "loc_y": "229193.105807265",
+    "menu": [
+        {
+            "category": "대표메뉴",
+            "img_src": "",
+            "menu_name": "한우 곱도리탕(2인분 (공기밥 포함))",
+            "price": "29,000원"
+        },
+        {
+            "category": "대표메뉴",
+            "img_src": "",
+            "menu_name": "한우 곱도리탕(3인분 (공기밥 포함))",
+            "price": "43,500원"
+        },
+        {
+            "category": "대표메뉴",
+            "img_src": "",
+            "menu_name": "한우 곱도리탕(4인분 (공기밥 포함))",
+            "price": "58,000원"
+        },
+        {
+            "category": "대표메뉴",
+            "img_src": "",
+            "menu_name": "수제햄부대찌개(2인분)",
+            "price": "23,000원"
+        },
+        {
+            "category": "대표메뉴",
+            "img_src": "",
+            "menu_name": "수제햄부대찌개(3인분)",
+            "price": "34,500원"
+        },
+        {
+            "category": "대표메뉴",
+            "img_src": "",
+            "menu_name": "수제햄부대찌개(4인분)",
+            "price": "46,000원"
+        },
+        {
+            "category": "대표메뉴",
+            "img_src": "",
+            "menu_name": "오리지널부대찌개(2인분)",
+            "price": "19,000원"
+        },
+        {
+            "category": "대표메뉴",
+            "img_src": "",
+            "menu_name": "오리지널부대찌개(3인분)",
+            "price": "28,500원"
+        },
+        {
+            "category": "대표메뉴",
+            "img_src": "",
+            "menu_name": "오리지널부대찌개(4인분)",
+            "price": "38,000원"
+        },
+        {
+            "category": "대표메뉴",
+            "img_src": "",
+            "menu_name": "빠네퐁듀닭갈비(2인분)",
+            "price": "29,000원"
+        },
+        {
+            "category": "대표메뉴",
+            "img_src": "",
+            "menu_name": "빠네퐁듀닭갈비(3인분)",
+            "price": "43,500원"
+        },
+        {
+            "category": "대표메뉴",
+            "img_src": "",
+            "menu_name": "빠네퐁듀닭갈비(4인분)",
+            "price": "58,000원"
+        },
+        {
+            "category": "대표메뉴",
+            "img_src": "",
+            "menu_name": "오리지널부대찌개세트(2인분)",
+            "price": "26,500원"
+        },
+        {
+            "category": "대표메뉴",
+            "img_src": "",
+            "menu_name": "오리지널부대찌개세트(3인분)",
+            "price": "36,000원"
+        },
+        {
+            "category": "대표메뉴",
+            "img_src": "",
+            "menu_name": "오리지널부대찌개세트(4인분)",
+            "price": "45,500원"
+        },
+        {
+            "category": "대표메뉴",
+            "img_src": "",
+            "menu_name": "한우대창 닭갈비(2인분)",
+            "price": "31,000원"
+        },
+        {
+            "category": "대표메뉴",
+            "img_src": "",
+            "menu_name": "한우대창 닭갈비(3인분)",
+            "price": "46,500원"
+        },
+        {
+            "category": "대표메뉴",
+            "img_src": "",
+            "menu_name": "한우대창 닭갈비(4인분)",
+            "price": "62,000원"
+        },
+        {
+            "category": "[1인 혼밥]",
+            "img_src": "",
+            "menu_name": "오리지널부대찌개(완조리)(1인분)",
+            "price": "11,500원"
+        },
+        {
+            "category": "[1인 혼밥]",
+            "img_src": "",
+            "menu_name": "수제햄부대찌개(완조리)(1인분)",
+            "price": "13,500원"
+        },
+        {
+            "category": "[1인 혼밥]",
+            "img_src": "",
+            "menu_name": "[신메뉴]1인우삼겹부대찌개",
+            "price": "14,000원"
+        },
+        {
+            "category": "김치찌개",
+            "img_src": "",
+            "menu_name": "한돈 김치찌개(1인분)",
+            "price": "10,000원"
+        },
+        {
+            "category": "김치찌개",
+            "img_src": "",
+            "menu_name": "한돈 김치찌개(2인분)",
+            "price": "20,000원"
+        },
+        {
+            "category": "김치찌개",
+            "img_src": "",
+            "menu_name": "한돈 김치찌개(3인분)",
+            "price": "30,000원"
+        },
+        {
+            "category": "김치찌개",
+            "img_src": "",
+            "menu_name": "한돈 김치찌개(4인분)",
+            "price": "40,000원"
+        },
+        {
+            "category": "김치찌개",
+            "img_src": "",
+            "menu_name": "한돈김치찌개세트(2인)",
+            "price": "27,500원"
+        },
+        {
+            "category": "김치찌개",
+            "img_src": "",
+            "menu_name": "한돈김치찌개세트(3인)",
+            "price": "37,500원"
+        },
+        {
+            "category": "김치찌개",
+            "img_src": "",
+            "menu_name": "한돈김치찌개세트(4인)",
+            "price": "47,500원"
+        },
+        {
+            "category": "안주메뉴",
+            "img_src": "",
+            "menu_name": "한우 곱도리탕(2인분 (공기밥 포함))",
+            "price": "29,000원"
+        },
+        {
+            "category": "안주메뉴",
+            "img_src": "",
+            "menu_name": "한우 곱도리탕(3인분 (공기밥 포함))",
+            "price": "43,500원"
+        },
+        {
+            "category": "안주메뉴",
+            "img_src": "",
+            "menu_name": "한우 곱도리탕(4인분 (공기밥 포함))",
+            "price": "58,000원"
+        },
+        {
+            "category": "안주메뉴",
+            "img_src": "",
+            "menu_name": "한우대창 닭갈비(2인분)",
+            "price": "31,000원"
+        },
+        {
+            "category": "안주메뉴",
+            "img_src": "",
+            "menu_name": "한우대창 닭갈비(3인분)",
+            "price": "46,500원"
+        },
+        {
+            "category": "안주메뉴",
+            "img_src": "",
+            "menu_name": "한우대창 닭갈비(4인분)",
+            "price": "62,000원"
+        },
+        {
+            "category": "부대찌개",
+            "img_src": "",
+            "menu_name": "오리지널부대찌개(2인분)",
+            "price": "19,000원"
+        },
+        {
+            "category": "부대찌개",
+            "img_src": "",
+            "menu_name": "오리지널부대찌개(3인분)",
+            "price": "28,500원"
+        },
+        {
+            "category": "부대찌개",
+            "img_src": "",
+            "menu_name": "오리지널부대찌개(4인분)",
+            "price": "38,000원"
+        },
+        {
+            "category": "부대찌개",
+            "img_src": "",
+            "menu_name": "수제햄부대찌개(2인분)",
+            "price": "23,000원"
+        },
+        {
+            "category": "부대찌개",
+            "img_src": "",
+            "menu_name": "수제햄부대찌개(3인분)",
+            "price": "34,500원"
+        },
+        {
+            "category": "부대찌개",
+            "img_src": "",
+            "menu_name": "수제햄부대찌개(4인분)",
+            "price": "46,000원"
+        },
+        {
+            "category": "부대찌개",
+            "img_src": "",
+            "menu_name": "[신메뉴]우삼겹부대찌개(2인분)",
+            "price": "24,000원"
+        },
+        {
+            "category": "부대찌개",
+            "img_src": "",
+            "menu_name": "[신메뉴]우삼겹부대찌개(3인분)",
+            "price": "36,000원"
+        },
+        {
+            "category": "부대찌개",
+            "img_src": "",
+            "menu_name": "[신메뉴]우삼겹부대찌개(4인분)",
+            "price": "48,000원"
+        },
+        {
+            "category": "부대찌개 세트",
+            "img_src": "",
+            "menu_name": "오리지널부대찌개세트(2인분)",
+            "price": "26,500원"
+        },
+        {
+            "category": "부대찌개 세트",
+            "img_src": "",
+            "menu_name": "오리지널부대찌개세트(3인분)",
+            "price": "36,000원"
+        },
+        {
+            "category": "부대찌개 세트",
+            "img_src": "",
+            "menu_name": "오리지널부대찌개세트(4인분)",
+            "price": "45,500원"
+        },
+        {
+            "category": "부대찌개 세트",
+            "img_src": "",
+            "menu_name": "수제햄부대찌개세트(2인분)",
+            "price": "30,500원"
+        },
+        {
+            "category": "부대찌개 세트",
+            "img_src": "",
+            "menu_name": "수제햄부대찌개세트(3인분)",
+            "price": "42,000원"
+        },
+        {
+            "category": "부대찌개 세트",
+            "img_src": "",
+            "menu_name": "수제햄부대찌개세트(4인분)",
+            "price": "53,500원"
+        },
+        {
+            "category": "부대찌개 세트",
+            "img_src": "",
+            "menu_name": "[신메뉴]우삼겹부대찌개+수제계란말이세트(2인분)",
+            "price": "31,500원"
+        },
+        {
+            "category": "부대찌개 세트",
+            "img_src": "",
+            "menu_name": "[신메뉴]우삼겹부대찌개+수제계란말이세트(3인분)",
+            "price": "43,500원"
+        },
+        {
+            "category": "부대찌개 세트",
+            "img_src": "",
+            "menu_name": "[신메뉴]우삼겹부대찌개+수제계란말이세트(4인분)",
+            "price": "55,500원"
+        },
+        {
+            "category": "닭갈비 (완조리)",
+            "img_src": "",
+            "menu_name": "박가닭갈비(2인분)",
+            "price": "25,000원"
+        },
+        {
+            "category": "닭갈비 (완조리)",
+            "img_src": "",
+            "menu_name": "박가닭갈비(3인분)",
+            "price": "37,500원"
+        },
+        {
+            "category": "닭갈비 (완조리)",
+            "img_src": "",
+            "menu_name": "박가닭갈비(4인분)",
+            "price": "50,000원"
+        },
+        {
+            "category": "닭갈비 (완조리)",
+            "img_src": "",
+            "menu_name": "빠네퐁듀닭갈비(2인분)",
+            "price": "29,000원"
+        },
+        {
+            "category": "닭갈비 (완조리)",
+            "img_src": "",
+            "menu_name": "빠네퐁듀닭갈비(3인분)",
+            "price": "43,500원"
+        },
+        {
+            "category": "닭갈비 (완조리)",
+            "img_src": "",
+            "menu_name": "빠네퐁듀닭갈비(4인분)",
+            "price": "58,000원"
+        },
+        {
+            "category": "닭갈비 (완조리)",
+            "img_src": "",
+            "menu_name": "[신메뉴]우삼겹닭갈비(2인분)",
+            "price": "27,000원"
+        },
+        {
+            "category": "닭갈비 (완조리)",
+            "img_src": "",
+            "menu_name": "[신메뉴]우삼겹닭갈비(3인분)",
+            "price": "40,500원"
+        },
+        {
+            "category": "닭갈비 (완조리)",
+            "img_src": "",
+            "menu_name": "[신메뉴]우삼겹닭갈비(4인분)",
+            "price": "54,000원"
+        },
+        {
+            "category": "닭갈비 세트 (완조리)",
+            "img_src": "",
+            "menu_name": "박가닭갈비막국수세트(2인분)",
+            "price": "32,500원"
+        },
+        {
+            "category": "닭갈비 세트 (완조리)",
+            "img_src": "",
+            "menu_name": "박가닭갈비막국수세트(3인분)",
+            "price": "45,000원"
+        },
+        {
+            "category": "닭갈비 세트 (완조리)",
+            "img_src": "",
+            "menu_name": "박가닭갈비막국수세트(4인분)",
+            "price": "57,500원"
+        },
+        {
+            "category": "닭갈비 세트 (완조리)",
+            "img_src": "",
+            "menu_name": "빠네퐁듀닭갈비막국수세트(2인분)",
+            "price": "36,500원"
+        },
+        {
+            "category": "닭갈비 세트 (완조리)",
+            "img_src": "",
+            "menu_name": "빠네퐁듀닭갈비막국수세트(3인분)",
+            "price": "51,000원"
+        },
+        {
+            "category": "닭갈비 세트 (완조리)",
+            "img_src": "",
+            "menu_name": "빠네퐁듀닭갈비막국수세트(4인분)",
+            "price": "65,500원"
+        },
+        {
+            "category": "닭갈비 세트 (완조리)",
+            "img_src": "",
+            "menu_name": "[신메뉴]우삼겹닭갈비막국수세트(2인분)",
+            "price": "34,500원"
+        },
+        {
+            "category": "닭갈비 세트 (완조리)",
+            "img_src": "",
+            "menu_name": "[신메뉴]우삼겹닭갈비막국수세트(3인분)",
+            "price": "48,000원"
+        },
+        {
+            "category": "닭갈비 세트 (완조리)",
+            "img_src": "",
+            "menu_name": "[신메뉴]우삼겹닭갈비막국수세트(4인분)",
+            "price": "61,500원"
+        },
+        {
+            "category": "도시락",
+            "img_src": "",
+            "menu_name": "닭갈비볶음밥",
+            "price": "7,000원"
+        },
+        {
+            "category": "별미메뉴",
+            "img_src": "",
+            "menu_name": "한우한돈 떡갈비",
+            "price": "10,000원"
+        },
+        {
+            "category": "별미메뉴",
+            "img_src": "",
+            "menu_name": "수제계란말이",
+            "price": "9,000원"
+        },
+        {
+            "category": "별미메뉴",
+            "img_src": "",
+            "menu_name": "비빔 메밀막국수",
+            "price": "9,000원"
+        },
+        {
+            "category": "부대찌개사리 추가선택",
+            "img_src": "",
+            "menu_name": "모둠사리",
+            "price": "7,000원"
+        },
+        {
+            "category": "부대찌개사리 추가선택",
+            "img_src": "",
+            "menu_name": "햄소세지사리",
+            "price": "4,000원"
+        },
+        {
+            "category": "부대찌개사리 추가선택",
+            "img_src": "",
+            "menu_name": "우동사리(부대찌개)",
+            "price": "2,000원"
+        },
+        {
+            "category": "부대찌개사리 추가선택",
+            "img_src": "",
+            "menu_name": "누들떡사리(부대찌개)",
+            "price": "2,000원"
+        },
+        {
+            "category": "부대찌개사리 추가선택",
+            "img_src": "",
+            "menu_name": "라면사리(비조리)",
+            "price": "1,000원"
+        },
+        {
+            "category": "부대찌개사리 추가선택",
+            "img_src": "",
+            "menu_name": "치즈사리(1장)",
+            "price": "1,000원"
+        },
+        {
+            "category": "부대찌개사리 추가선택",
+            "img_src": "",
+            "menu_name": "공기밥",
+            "price": "1,000원"
+        },
+        {
+            "category": "닭갈비사리 추가선택",
+            "img_src": "",
+            "menu_name": "자연산 치즈사리",
+            "price": "4,000원"
+        },
+        {
+            "category": "닭갈비사리 추가선택",
+            "img_src": "",
+            "menu_name": "우동사리(닭갈비)",
+            "price": "2,000원"
+        },
+        {
+            "category": "닭갈비사리 추가선택",
+            "img_src": "",
+            "menu_name": "누들떡사리(닭갈비)",
+            "price": "2,000원"
+        },
+        {
+            "category": "음료",
+            "img_src": "",
+            "menu_name": "칠성사이다",
+            "price": "2,000원"
+        },
+        {
+            "category": "음료",
+            "img_src": "",
+            "menu_name": "펩시",
+            "price": "2,000원"
+        },
+        {
+            "category": "음료",
+            "img_src": "",
+            "menu_name": "펩시제로",
+            "price": "2,000원"
+        }
+    ]
+}

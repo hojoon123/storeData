@@ -1,0 +1,44 @@
+{
+    "store_name": "노군옛날통닭 인천구월점",
+    "store_location": "인천 남동구 남동대로711번길 20 1층",
+    "loc_x": "173902.409541782",
+    "loc_y": "438256.244144847",
+    "menu": [
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241016_140%2F1729069400054kr4uY_JPEG%2FIMG_9399.jpg",
+            "menu_name": "옛날통닭",
+            "price": "9,900원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241016_241%2F1729069419834U1i3l_JPEG%2FIMG_9398.jpg",
+            "menu_name": "후라이드치킨",
+            "price": "14,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241016_271%2F1729069502190ubMJl_JPEG%2FIMG_9397.jpg",
+            "menu_name": "양념치킨",
+            "price": "15,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241016_78%2F1729069473170PkC3G_JPEG%2FIMG_9396.jpg",
+            "menu_name": "슈프림양념치킨",
+            "price": "16,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241016_161%2F1729069460309pBNbK_JPEG%2FIMG_9395.jpg",
+            "menu_name": "매콤쏘핫치킨",
+            "price": "15,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241016_194%2F1729069447332dsI5p_JPEG%2FIMG_9394.jpg",
+            "menu_name": "마늘간장치킨",
+            "price": "15,000원"
+        }
+    ]
+}

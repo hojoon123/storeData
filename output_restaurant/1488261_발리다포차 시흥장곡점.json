@@ -1,0 +1,44 @@
+{
+    "store_name": "발리다포차 시흥장곡점",
+    "store_location": "경기 시흥시 장현장곡로 10 1층 112호, 113호",
+    "loc_x": "181430.351564087",
+    "loc_y": "430677.030660242",
+    "menu": [
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240319_152%2F17108139663951MXq2_JPEG%2F%25B7%25CE%25C1%25A6%25B4%25DF%25C2%25DE.jpg",
+            "menu_name": "로제닭.쭈",
+            "price": "22,900원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240319_55%2F1710816879164uFqj0_JPEG%2F%25C4%25A1%25C1%25EE%25BA%25D2%25B8%25B7%25C3%25A2.jpg",
+            "menu_name": "치즈불막창",
+            "price": "22,900원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240319_68%2F1710814050427mQACu_JPEG%2F%25C6%25E4%25BD%25BA%25C3%25F2%25B8%25AE%25C6%25E4%25C6%25DB%25B7%25CE%25B4%25CF%25C7%25C7%25C0%25DA.jpg",
+            "menu_name": "페스츄리 페퍼로니 피자",
+            "price": "14,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240319_95%2F1710816562516vYyze_JPEG%2F%25C0%25AF%25B8%25B0%25B1%25E2.jpg",
+            "menu_name": "유린기",
+            "price": "16,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240319_272%2F1710817001666XRK63_JPEG%2F%25BF%25C0%25C2%25A1%25BE%25EE%25B0%25F1%25B9%25F0%25C0%25CC%25C2%25CC%25B8%25E9.jpg",
+            "menu_name": "오징어골뱅이쫄면",
+            "price": "25,900원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240319_61%2F1710817032606DwUET_JPEG%2F%25B9%25D9%25C1%25F6%25B6%25F4%25C4%25AE%25B1%25B9%25BC%25F6.jpg",
+            "menu_name": "바지락 칼국수",
+            "price": "14,900원"
+        }
+    ]
+}

@@ -1,0 +1,74 @@
+{
+    "store_name": "광선집 부천신중동점",
+    "store_location": "경기 부천시 원미구 조마루로291번길 40 2층 201호",
+    "loc_x": "180105.150386608",
+    "loc_y": "444157.103127953",
+    "menu": [
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241202_46%2F1733126224011pSzfK_JPEG%2FIMG_4777_%25282%2529.jpg",
+            "menu_name": "숯불 꼬들살 100g",
+            "price": "7,600원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241202_184%2F1733126136334kiaUI_JPEG%2FIMG_4789_%25282%2529.jpg",
+            "menu_name": "숯불 뽈살 100g",
+            "price": "7,600원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241202_159%2F1733126264924wIcwE_JPEG%2FIMG_4813.jpg",
+            "menu_name": "숯불 오도독살 구이 100g",
+            "price": "6,800원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241202_201%2F1733126377866WI2Pz_JPEG%2FIMG_4830_%25282%2529.jpg",
+            "menu_name": "숯불 껍데기 100g",
+            "price": "6,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241202_80%2F1733126470339pxxlT_JPEG%2FIMG_4882_%25282%2529.jpg",
+            "menu_name": "우삼겹껍데기밥",
+            "price": "10,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241202_149%2F1733126498575erTkq_JPEG%2FIMG_4867_%25282%2529.jpg",
+            "menu_name": "우삼겹라면",
+            "price": "10,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241202_51%2F1733126603305swbJ2_JPEG%2FIMG_4962_%25282%2529.jpg",
+            "menu_name": "우삼겹된장찌개",
+            "price": "7,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241202_38%2F1733126728255on6qc_JPEG%2FIMG_4955.jpg",
+            "menu_name": "볶음밥",
+            "price": "4,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241202_284%2F1733126777472etNzu_JPEG%2FIMG_4899_%25282%2529.jpg",
+            "menu_name": "들기름순두부",
+            "price": "4,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241202_102%2F173312689106065Wnr_JPEG%2FIMG_5103.jpg",
+            "menu_name": "진저 하이볼",
+            "price": "9,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241202_183%2F1733126859582isSMr_JPEG%2FIMG_5103.jpg",
+            "menu_name": "조니워커 블랙 하이볼",
+            "price": "13,000원"
+        }
+    ]
+}

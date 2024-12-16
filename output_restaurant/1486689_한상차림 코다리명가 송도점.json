@@ -1,0 +1,146 @@
+{
+    "store_name": "한상차림 코다리명가 송도점",
+    "store_location": "인천 연수구 첨단대로 40 2층 A201호, A202호, A203호",
+    "loc_x": "168953.658815401",
+    "loc_y": "429847.971625832",
+    "menu": [
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241208_270%2F1733650509994oqqHI_JPEG%2F%25BB%25F3%25C2%25F7%25B8%25B22.jpg",
+            "menu_name": "명태조림 정식",
+            "price": "12,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241208_278%2F1733650551631wCSnn_JPEG%2F%25B8%25ED%25C5%25C2%25C1%25B6%25B8%25B2.jpg",
+            "menu_name": "매콤 명태조림(2인)",
+            "price": "35,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241208_208%2F1733650778653lTsQW_JPEG%2F%25BD%25C3%25B7%25A1%25B1%25E2_%25B8%25ED%25C5%25C2%25C1%25B6%25B8%25B2.jpg",
+            "menu_name": "매콤 시래기명태조림(2인)",
+            "price": "38,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241208_128%2F1733650888110VC7p7_JPEG%2F%25B8%25ED%25C5%25C2%25C1%25B6%25B8%25B2.jpg",
+            "menu_name": "매콤 명태조림(3인)",
+            "price": "48,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241208_23%2F1733650877031eyogL_JPEG%2F%25B8%25ED%25C5%25C2%25C1%25B6%25B8%25B2.jpg",
+            "menu_name": "매콤 명태조림(4인)",
+            "price": "60,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241208_80%2F1733650762795vfzsg_JPEG%2F%25BD%25C3%25B7%25A1%25B1%25E2_%25B8%25ED%25C5%25C2%25C1%25B6%25B8%25B2.jpg",
+            "menu_name": "매콤 시래기명태조림(3인)",
+            "price": "53,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241208_240%2F1733650748460AyBN2_JPEG%2F%25BD%25C3%25B7%25A1%25B1%25E2_%25B8%25ED%25C5%25C2%25C1%25B6%25B8%25B2.jpg",
+            "menu_name": "매콤 시래기명태조림(4인)",
+            "price": "65,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241208_247%2F1733650856750EMubY_JPEG%2F%25B8%25ED%25C5%25C2_%25B4%25DC%25C8%25A3%25B9%25DA_%25B0%25A5%25BA%25F1%25C1%25B6%25B8%25B2.jpg",
+            "menu_name": "매콤 단호박 명태갈비(2인)",
+            "price": "40,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241208_24%2F17336508464253EeVz_JPEG%2F%25B8%25ED%25C5%25C2_%25B4%25DC%25C8%25A3%25B9%25DA_%25B0%25A5%25BA%25F1%25C1%25B6%25B8%25B2.jpg",
+            "menu_name": "매콤 단호박 명태갈비(3인)",
+            "price": "58,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241208_41%2F17336508368190r2cl_JPEG%2F%25B8%25ED%25C5%25C2_%25B4%25DC%25C8%25A3%25B9%25DA_%25B0%25A5%25BA%25F1%25C1%25B6%25B8%25B2.jpg",
+            "menu_name": "매콤 단호박 명태갈비(4인)",
+            "price": "68,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241208_280%2F1733650818436uBXdl_JPEG%2F%25B8%25ED%25C5%25C2_%25B9%25AE%25BE%25EE%25C1%25B6%25B8%25B2.jpg",
+            "menu_name": "매콤 명태문어조림(2인)",
+            "price": "58,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241208_91%2F1733650808022N1TTp_JPEG%2F%25B8%25ED%25C5%25C2_%25B9%25AE%25BE%25EE%25C1%25B6%25B8%25B2.jpg",
+            "menu_name": "매콤 명태문어조림(3인)",
+            "price": "70,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241208_100%2F1733650798758lLjqw_JPEG%2F%25B8%25ED%25C5%25C2_%25B9%25AE%25BE%25EE%25C1%25B6%25B8%25B2.jpg",
+            "menu_name": "매콤 명태문어조림(4인)",
+            "price": "82,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241208_47%2F1733650727431zyViX_JPEG%2F%25B8%25F0%25B5%25E7%25BB%25FD%25BC%25B1%25B1%25B8%25C0%25CC1.jpg",
+            "menu_name": "모듬생선구이(2인)",
+            "price": "35,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241208_28%2F1733650717265GP9lQ_JPEG%2F%25B8%25F0%25B5%25E7%25BB%25FD%25BC%25B1%25B1%25B8%25C0%25CC1.jpg",
+            "menu_name": "모듬생선구이(3인)",
+            "price": "45,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241208_232%2F1733650703821NyFeg_JPEG%2F%25B5%25C5%25C1%25F6%25B0%25A5%25BA%25F1%25BA%25BA%25C0%25BD.jpg",
+            "menu_name": "돼지갈비볶음(2인)",
+            "price": "30,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241208_264%2F1733650693164I0fdb_JPEG%2F%25B5%25C5%25C1%25F6%25B0%25A5%25BA%25F1%25BA%25BA%25C0%25BD.jpg",
+            "menu_name": "돼지갈비볶음(3인)",
+            "price": "40,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241208_62%2F17336506804084EQda_JPEG%2F%25B5%25C5%25C1%25F6%25B0%25A5%25BA%25F1%25BA%25BA%25C0%25BD.jpg",
+            "menu_name": "돼지갈비볶음(4인)",
+            "price": "50,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241208_140%2F1733650665835YelS7_JPEG%2F%25B5%25B9%25BC%25DC%25B9%25E4.jpg",
+            "menu_name": "영양돌솥밥",
+            "price": "3,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241208_182%2F1733650654287yyskH_JPEG%2F%25B5%25B9%25BC%25DC%25BB%25FD%25BC%25B1%25B1%25B8%25C0%25CC1.jpg",
+            "menu_name": "돌솥 생선구이",
+            "price": "13,000원"
+        },
+        {
+            "category": "",
+            "img_src": "",
+            "menu_name": "시래기추가",
+            "price": "5,000원"
+        },
+        {
+            "category": "",
+            "img_src": "",
+            "menu_name": "공기밥",
+            "price": "1,000원"
+        },
+        {
+            "category": "",
+            "img_src": "",
+            "menu_name": "문어숙회",
+            "price": "40,000원"
+        }
+    ]
+}

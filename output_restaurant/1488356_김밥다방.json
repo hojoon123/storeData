@@ -1,0 +1,86 @@
+{
+    "store_name": "김밥다방",
+    "store_location": "경북 청도군 청도읍 청화로 112 김밥다방",
+    "loc_x": "357433.33130816",
+    "loc_y": "239881.846694791",
+    "menu": [
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241202_108%2F1733099468255fBKwW_PNG%2F1000025111.png",
+            "menu_name": "들깨미역국",
+            "price": "2,500원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241202_15%2F1733099396763vrpRS_PNG%2F1000025108.png",
+            "menu_name": "김밥도시락",
+            "price": "9,700원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240115_266%2F1705319761479KpecO_JPEG%2F1704717707805.jpg",
+            "menu_name": "맵꼬김밥",
+            "price": "4,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240115_231%2F1705319729572HaVe6_JPEG%2F1704717707638.jpg",
+            "menu_name": "대왕돈까스김밥",
+            "price": "5,200원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240115_26%2F1705319831419xAXwS_JPEG%2F1704778805968.jpg",
+            "menu_name": "따블치즈대왕돈까스",
+            "price": "6,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240115_272%2F1705319785775SHcg7_JPEG%2F1704717707743.jpg",
+            "menu_name": "통새우김밥",
+            "price": "5,200원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240115_282%2F1705319666134n3phL_JPEG%2F1704717707689.jpg",
+            "menu_name": "따블치즈김밥",
+            "price": "4,800원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240319_248%2F1710855871576MuvWl_JPEG%2FKakaoTalk_20240319_223320486_02.jpg",
+            "menu_name": "크래미마요김밥",
+            "price": "5,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240319_249%2F17108558835495GVVW_JPEG%2FKakaoTalk_20240319_223320486.jpg",
+            "menu_name": "땡초참치김밥",
+            "price": "5,500원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240319_108%2F1710855892875wBXXf_JPEG%2FKakaoTalk_20240319_223320486_01.jpg",
+            "menu_name": "참치김밥",
+            "price": "5,200원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240115_111%2F1705319643504HFjn2_JPEG%2F1704717707585.jpg",
+            "menu_name": "일반김밥",
+            "price": "4,300원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240115_195%2F1705320666200LFWG2_JPEG%2FScreenshot_20240115_210248_NAVER.jpg",
+            "menu_name": "사이다(뚱캔)",
+            "price": "2,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240115_132%2F1705321098144vHlIg_JPEG%2FScreenshot_20240115_211604_NAVER.jpg",
+            "menu_name": "코카콜라(뚱캔)",
+            "price": "2,000원"
+        }
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "store_name": "필스너하우스 여수웅천점",
+    "store_location": "전남 여수시 웅천로 83 1118호, 1119호",
+    "loc_x": "261740.873509938",
+    "loc_y": "138595.540497969",
+    "menu": [
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240528_162%2F1716870269703XxhNs_JPEG%2F1000003043.jpg",
+            "menu_name": "꼴레뇨",
+            "price": "38,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240528_170%2F1716870299106daB7G_JPEG%2F1000003045.jpg",
+            "menu_name": "치킨 글라쉬와 뜨르들로",
+            "price": "28,500원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240528_94%2F1716870381211Xmaq6_JPEG%2F1000003041.jpg",
+            "menu_name": "감바스 알하이오",
+            "price": "21,000원"
+        }
+    ]
+}

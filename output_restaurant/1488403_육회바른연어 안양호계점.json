@@ -1,0 +1,554 @@
+{
+    "store_name": "육회바른연어 안양호계점",
+    "store_location": "경기 안양시 동안구 경수대로 555 평촌개성하이뷰106호",
+    "loc_x": "196151.092616934",
+    "loc_y": "430016.029315336",
+    "menu": [
+        {
+            "category": "대표메뉴",
+            "img_src": "",
+            "menu_name": "육회덮밥",
+            "price": "6,900원"
+        },
+        {
+            "category": "대표메뉴",
+            "img_src": "",
+            "menu_name": "육회쫄면 2인분(2인분)",
+            "price": "14,900원"
+        },
+        {
+            "category": "대표메뉴",
+            "img_src": "",
+            "menu_name": "혼술세트 1((육회100g+연어8))",
+            "price": "13,900원"
+        },
+        {
+            "category": "대표메뉴",
+            "img_src": "",
+            "menu_name": "최상급육회(180g)",
+            "price": "12,900원"
+        },
+        {
+            "category": "대표메뉴",
+            "img_src": "",
+            "menu_name": "핵꿀맛 육회 초밥(6p)",
+            "price": "7,900원"
+        },
+        {
+            "category": "대표메뉴",
+            "img_src": "",
+            "menu_name": "핵꿀맛 육회 초밥(12p)",
+            "price": "14,900원"
+        },
+        {
+            "category": "대표메뉴",
+            "img_src": "",
+            "menu_name": "육바연세트(육회180+연어180+날치알주먹밥)",
+            "price": "31,900원"
+        },
+        {
+            "category": "육바연신제품",
+            "img_src": "",
+            "menu_name": "[[NEW]]트러플육회(180g)",
+            "price": "16,900원"
+        },
+        {
+            "category": "육바연신제품",
+            "img_src": "",
+            "menu_name": "[[NEW]]트러플감자튀김(300g)",
+            "price": "7,900원"
+        },
+        {
+            "category": "육바연세트메뉴",
+            "img_src": "",
+            "menu_name": "육바연변신세트1(육회덮밥+3단변신초밥3p)",
+            "price": "12,900원"
+        },
+        {
+            "category": "육바연세트메뉴",
+            "img_src": "",
+            "menu_name": "육바연변신세트2(육회180g+육회바른연어3p)",
+            "price": "16,900원"
+        },
+        {
+            "category": "육바연세트메뉴",
+            "img_src": "",
+            "menu_name": "육바연 KING 유부세트(유부초밥2p+육초4p+연초4p)",
+            "price": "15,900원"
+        },
+        {
+            "category": "육바연세트메뉴",
+            "img_src": "",
+            "menu_name": "육쫄세트(육회쫄면+육초6p)",
+            "price": "21,900원"
+        },
+        {
+            "category": "육바연세트메뉴",
+            "img_src": "",
+            "menu_name": "육바연세트(육회180+연어180+날치알주먹밥)",
+            "price": "31,900원"
+        },
+        {
+            "category": "육바연 혼밥세트",
+            "img_src": "",
+            "menu_name": "혼밥세트 1(육회덮밥+선택초밥3p)",
+            "price": "9,900원"
+        },
+        {
+            "category": "육바연 혼밥세트",
+            "img_src": "",
+            "menu_name": "혼밥세트 2(육회100g+육초3+육덮)",
+            "price": "15,900원"
+        },
+        {
+            "category": "육바연 혼밥세트",
+            "img_src": "",
+            "menu_name": "혼밥세트 3(연어8+연초3+연덮)",
+            "price": "16,900원"
+        },
+        {
+            "category": "육바연 혼밥세트",
+            "img_src": "",
+            "menu_name": "혼밥세트 4(육회100g+연어8+육덮)",
+            "price": "18,900원"
+        },
+        {
+            "category": "육바연 혼밥세트",
+            "img_src": "",
+            "menu_name": "혼밥세트 5(육회100g+연어8+연덮)",
+            "price": "19,900원"
+        },
+        {
+            "category": "육바연 혼밥세트",
+            "img_src": "",
+            "menu_name": "혼밥세트 6(육회100g+연어8+육연덮)",
+            "price": "19,900원"
+        },
+        {
+            "category": "육바연 혼밥세트",
+            "img_src": "",
+            "menu_name": "혼밥세트 7(육덮+육초6+사이다)",
+            "price": "15,900원"
+        },
+        {
+            "category": "육바연 혼밥세트",
+            "img_src": "",
+            "menu_name": "혼밥세트 8(육덮+연초6+사이다)",
+            "price": "15,900원"
+        },
+        {
+            "category": "육바연 혼밥세트",
+            "img_src": "",
+            "menu_name": "혼밥세트 9(연덮+육초6+사이다)",
+            "price": "15,900원"
+        },
+        {
+            "category": "육바연 혼밥세트",
+            "img_src": "",
+            "menu_name": "혼밥세트10(연덮+연초6+사이다)",
+            "price": "15,900원"
+        },
+        {
+            "category": "육바연 혼밥세트",
+            "img_src": "",
+            "menu_name": "혼밥세트11(육초6p+연초6p+사이다)",
+            "price": "16,900원"
+        },
+        {
+            "category": "육바연 혼술세트",
+            "img_src": "",
+            "menu_name": "혼술세트 1((육회100g+연어8))",
+            "price": "13,900원"
+        },
+        {
+            "category": "육바연 혼술세트",
+            "img_src": "",
+            "menu_name": "혼술세트 2((육회100g+연어8+초밥선택3p))",
+            "price": "16,900원"
+        },
+        {
+            "category": "육바연 혼술세트",
+            "img_src": "",
+            "menu_name": "혼술세트 3((육회100g+연어8+초밥선택6p))",
+            "price": "18,900원"
+        },
+        {
+            "category": "육바연 두리세트",
+            "img_src": "",
+            "menu_name": "두리세트 1((육회100g+연어8+육덮+연덮))",
+            "price": "25,900원"
+        },
+        {
+            "category": "육바연 두리세트",
+            "img_src": "",
+            "menu_name": "두리세트 2((육덮+연덮+육초6p+연초6p))",
+            "price": "26,900원"
+        },
+        {
+            "category": "육바연 육회",
+            "img_src": "",
+            "menu_name": "[[NEW]]육회바른연어 10p",
+            "price": "19,900원"
+        },
+        {
+            "category": "육바연 육회",
+            "img_src": "",
+            "menu_name": "육회쫄면 2인분(2인분)",
+            "price": "14,900원"
+        },
+        {
+            "category": "육바연 육회",
+            "img_src": "",
+            "menu_name": "최상급육회(180g)",
+            "price": "12,900원"
+        },
+        {
+            "category": "육바연 육회",
+            "img_src": "",
+            "menu_name": "최상급육회두접시(180g+180g)",
+            "price": "23,900원"
+        },
+        {
+            "category": "육바연 육회",
+            "img_src": "",
+            "menu_name": "최상급육회 큰놈(270g)",
+            "price": "17,900원"
+        },
+        {
+            "category": "육바연 육회",
+            "img_src": "",
+            "menu_name": "화끈하게매운불육회(180g)",
+            "price": "13,900원"
+        },
+        {
+            "category": "육바연 육회",
+            "img_src": "",
+            "menu_name": "새콤달콤육회물회(180g)",
+            "price": "15,900원"
+        },
+        {
+            "category": "육바연 육회",
+            "img_src": "",
+            "menu_name": "타코와사비 육회(200g)",
+            "price": "15,900원"
+        },
+        {
+            "category": "육바연 육회",
+            "img_src": "",
+            "menu_name": "육회+매운불육회",
+            "price": "25,900원"
+        },
+        {
+            "category": "육바연 육회",
+            "img_src": "",
+            "menu_name": "육회+매운불육회+타코와사비육회",
+            "price": "39,900원"
+        },
+        {
+            "category": "육바연 연어",
+            "img_src": "",
+            "menu_name": "싱싱해서 고소한 생연어단품",
+            "price": "21,900원"
+        },
+        {
+            "category": "육바연 연어",
+            "img_src": "",
+            "menu_name": "싱싱해서 고소한 생연어 큰놈",
+            "price": "30,900원"
+        },
+        {
+            "category": "육바연 연어",
+            "img_src": "",
+            "menu_name": "생연어사시미 스페셜(연어180g+연초4p)",
+            "price": "24,900원"
+        },
+        {
+            "category": "육바연KING유부초밥",
+            "img_src": "",
+            "menu_name": "King육회유부초밥(2p)",
+            "price": "6,000원"
+        },
+        {
+            "category": "육바연KING유부초밥",
+            "img_src": "",
+            "menu_name": "King육회유부초밥(4p)",
+            "price": "11,900원"
+        },
+        {
+            "category": "육바연KING유부초밥",
+            "img_src": "",
+            "menu_name": "King연어유부초밥(2p)",
+            "price": "6,000원"
+        },
+        {
+            "category": "육바연KING유부초밥",
+            "img_src": "",
+            "menu_name": "King연어유부초밥(4p)",
+            "price": "11,900원"
+        },
+        {
+            "category": "육바연KING유부초밥",
+            "img_src": "",
+            "menu_name": "King스테이크유부초밥(2p)",
+            "price": "6,000원"
+        },
+        {
+            "category": "육바연KING유부초밥",
+            "img_src": "",
+            "menu_name": "King스테이크유부초밥(4p)",
+            "price": "11,900원"
+        },
+        {
+            "category": "육바연KING유부초밥",
+            "img_src": "",
+            "menu_name": "King불육회유부초밥(2p)",
+            "price": "6,000원"
+        },
+        {
+            "category": "육바연KING유부초밥",
+            "img_src": "",
+            "menu_name": "King불육회유부초밥(4p)",
+            "price": "11,900원"
+        },
+        {
+            "category": "육바연KING유부초밥",
+            "img_src": "",
+            "menu_name": "King타코와사비유부초밥(2p)",
+            "price": "6,000원"
+        },
+        {
+            "category": "육바연KING유부초밥",
+            "img_src": "",
+            "menu_name": "King타코와사비유부초밥(4p)",
+            "price": "11,900원"
+        },
+        {
+            "category": "육바연 덮밥",
+            "img_src": "",
+            "menu_name": "육회덮밥",
+            "price": "6,900원"
+        },
+        {
+            "category": "육바연 덮밥",
+            "img_src": "",
+            "menu_name": "생연어덮밥",
+            "price": "7,900원"
+        },
+        {
+            "category": "육바연 덮밥",
+            "img_src": "",
+            "menu_name": "육연덮밥",
+            "price": "7,900원"
+        },
+        {
+            "category": "육바연 덮밥",
+            "img_src": "",
+            "menu_name": "화끈하게매운불육회덮밥",
+            "price": "7,900원"
+        },
+        {
+            "category": "육바연 덮밥",
+            "img_src": "",
+            "menu_name": "구운육회덮밥",
+            "price": "7,900원"
+        },
+        {
+            "category": "육바연 초밥",
+            "img_src": "",
+            "menu_name": "[[NEW]]육바연3단변신초밥(5p)",
+            "price": "11,900원"
+        },
+        {
+            "category": "육바연 초밥",
+            "img_src": "",
+            "menu_name": "[[NEW]]육바연3단변신초밥(10p)",
+            "price": "23,800원"
+        },
+        {
+            "category": "육바연 초밥",
+            "img_src": "",
+            "menu_name": "핵꿀맛 육회 초밥(6p)",
+            "price": "7,900원"
+        },
+        {
+            "category": "육바연 초밥",
+            "img_src": "",
+            "menu_name": "핵꿀맛 육회 초밥(12p)",
+            "price": "14,900원"
+        },
+        {
+            "category": "육바연 초밥",
+            "img_src": "",
+            "menu_name": "생생한 생연어초밥(6p)",
+            "price": "8,500원"
+        },
+        {
+            "category": "육바연 초밥",
+            "img_src": "",
+            "menu_name": "생생한 생연어초밥(12p)",
+            "price": "15,900원"
+        },
+        {
+            "category": "육바연 초밥",
+            "img_src": "",
+            "menu_name": "불(매운)육회초밥(6p)",
+            "price": "8,500원"
+        },
+        {
+            "category": "육바연 초밥",
+            "img_src": "",
+            "menu_name": "불(매운)육회초밥(12p)",
+            "price": "15,900원"
+        },
+        {
+            "category": "육바연 초밥",
+            "img_src": "",
+            "menu_name": "스테이크육회초밥(6p)",
+            "price": "8,500원"
+        },
+        {
+            "category": "육바연 초밥",
+            "img_src": "",
+            "menu_name": "스테이크육회초밥(12p)",
+            "price": "15,900원"
+        },
+        {
+            "category": "육바연 초밥",
+            "img_src": "",
+            "menu_name": "모듬 초밥(육회,연어,스테이크)",
+            "price": "15,900원"
+        },
+        {
+            "category": "사이드메뉴",
+            "img_src": "",
+            "menu_name": "통오징어튀김",
+            "price": "10,900원"
+        },
+        {
+            "category": "사이드메뉴",
+            "img_src": "",
+            "menu_name": "크런치오징어12P",
+            "price": "5,500원"
+        },
+        {
+            "category": "사이드메뉴",
+            "img_src": "",
+            "menu_name": "새우튀김(5p)",
+            "price": "5,900원"
+        },
+        {
+            "category": "사이드메뉴",
+            "img_src": "",
+            "menu_name": "새우튀김(10p)",
+            "price": "10,900원"
+        },
+        {
+            "category": "사이드메뉴",
+            "img_src": "",
+            "menu_name": "날치알주먹밥",
+            "price": "3,000원"
+        },
+        {
+            "category": "사이드메뉴",
+            "img_src": "",
+            "menu_name": "온육수",
+            "price": "1,000원"
+        },
+        {
+            "category": "음료",
+            "img_src": "",
+            "menu_name": "콜라(355ml)",
+            "price": "1,500원"
+        },
+        {
+            "category": "음료",
+            "img_src": "",
+            "menu_name": "콜라(500ml)",
+            "price": "2,000원"
+        },
+        {
+            "category": "음료",
+            "img_src": "",
+            "menu_name": "콜라(1.25L)",
+            "price": "2,500원"
+        },
+        {
+            "category": "음료",
+            "img_src": "",
+            "menu_name": "사이다(355ml)",
+            "price": "1,500원"
+        },
+        {
+            "category": "음료",
+            "img_src": "",
+            "menu_name": "사이다(500ml)",
+            "price": "2,000원"
+        },
+        {
+            "category": "음료",
+            "img_src": "",
+            "menu_name": "사이다(1.25L)",
+            "price": "2,500원"
+        },
+        {
+            "category": "음료",
+            "img_src": "",
+            "menu_name": "제로콜라(355ml)",
+            "price": "1,500원"
+        },
+        {
+            "category": "소스류",
+            "img_src": "",
+            "menu_name": "흑임자소스",
+            "price": "500원"
+        },
+        {
+            "category": "소스류",
+            "img_src": "",
+            "menu_name": "노른자",
+            "price": "500원"
+        },
+        {
+            "category": "소스류",
+            "img_src": "",
+            "menu_name": "타르타르소스",
+            "price": "500원"
+        },
+        {
+            "category": "소스류",
+            "img_src": "",
+            "menu_name": "날치알",
+            "price": "500원"
+        },
+        {
+            "category": "소스류",
+            "img_src": "",
+            "menu_name": "연덮비빔장",
+            "price": "500원"
+        },
+        {
+            "category": "소스류",
+            "img_src": "",
+            "menu_name": "매실고추장소스",
+            "price": "500원"
+        },
+        {
+            "category": "소스류",
+            "img_src": "",
+            "menu_name": "매운불육회소스",
+            "price": "500원"
+        },
+        {
+            "category": "소스류",
+            "img_src": "",
+            "menu_name": "김",
+            "price": "300원"
+        },
+        {
+            "category": "소스류",
+            "img_src": "",
+            "menu_name": "치즈",
+            "price": "500원"
+        }
+    ]
+}

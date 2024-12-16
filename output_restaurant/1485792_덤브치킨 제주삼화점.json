@@ -1,0 +1,158 @@
+{
+    "store_name": "덤브치킨 제주삼화점",
+    "store_location": "제주 제주시 건주로4길 6-1 1층 106호",
+    "loc_x": "160893.863617276",
+    "loc_y": "2266.74799350785",
+    "menu": [
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241022_236%2F1729607119468SYTLT_PNG%2F%25B4%25FD%25BA%25EA_%25C8%25C4%25B6%25F3%25C0%25CC%25B5%25E5.png",
+            "menu_name": "덤브 후라이드",
+            "price": "9,900원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241022_89%2F17296071085771IhIm_PNG%2F%25B0%25A5%25B8%25AF%25BC%25D2%25C0%25CC_%25C4%25A1%25C5%25B2.png",
+            "menu_name": "갈릭소이치킨",
+            "price": "11,900원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241020_11%2F1729405683842jlA71_PNG%2F%25B9%25DD%25B9%25DD%25C4%25A1%25C5%25B2.png",
+            "menu_name": "반반치킨",
+            "price": "11,900원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241020_279%2F1729405623985SRjXG_JPEG%2F%25B0%25ED%25B1%25B8%25B8%25B6%25C6%25A2%25B1%25E8_%25C5%25E4%25C7%25CE%25C3%25DF%25B0%25A1.jpg",
+            "menu_name": "덤브후라라이드+고구마튀김토핑",
+            "price": "11,900원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241020_134%2F1729405755319Vp5Ew_PNG%2F%25C6%25FE%25B4%25DF%25C4%25A1%25C5%25B2.png",
+            "menu_name": "고추퐁닭 치킨",
+            "price": "12,900원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241020_219%2F17294059212565iswS_JPEG%2F%25B0%25ED%25B1%25B8%25B8%25B6%25C6%25A2%25B1%25E8_%25C5%25E4%25C7%25CE%25C3%25DF%25B0%25A1.jpg",
+            "menu_name": "고구마 토핑 추가",
+            "price": "2,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241020_59%2F1729405654889OfUTh_PNG%2F%25B4%25FD%25BA%25EA%25BE%25E7%25B3%25E4%25C4%25A1%25C5%25B2.png",
+            "menu_name": "덤브양념치킨",
+            "price": "11,900원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241020_118%2F1729405712982iVgiK_PNG%2F%25C6%25C4%25B9%25AB%25C4%25A7%25C4%25A1%25C5%25B2.png",
+            "menu_name": "파무침 치킨",
+            "price": "12,900원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241020_226%2F17294056399689pyp8_PNG%2F%25C4%25DC%25BC%25D2%25B8%25DE%25C4%25A1%25C5%25B2.png",
+            "menu_name": "콘소메 치킨",
+            "price": "12,900원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241020_62%2F1729405584446r5oht_PNG%2F%25B0%25ED%25C3%25DF%25B8%25B6%25BF%25E4%25C4%25A1%25C5%25B2.png",
+            "menu_name": "고추마요 치킨",
+            "price": "12,900원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241020_37%2F1729405817217vN0mS_PNG%2F%25C4%25A1%25C1%25EE%25BD%25BA%25B3%25EB%25BF%25EC%25C4%25A1%25C5%25B2.png",
+            "menu_name": "치즈스노우 치킨",
+            "price": "11,900원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241020_116%2F1729407711895Oka1j_PNG%2F%25C4%25DE%25BA%25B8_%25C8%25C4%25B6%25F3%25C0%25CC%25B5%25E5.png",
+            "menu_name": "콤보 후라이드",
+            "price": "12,900원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241020_144%2F1729405999227EVxiq_PNG%2F%25C4%25C9%25C0%25CC%25C1%25D8%25B0%25A8%25C0%25DA.png",
+            "menu_name": "케이준 감자튀김",
+            "price": "3,500원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241020_92%2F1729406232356tjDnN_PNG%2F%25C7%25E3%25B4%25CF%25B9%25F6%25C5%25CD_%25B0%25ED%25B1%25B8%25B8%25B6%25C6%25A2%25B1%25E8.png",
+            "menu_name": "허니버터 고구마튀김(박스에 따로포장)",
+            "price": "4,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241020_121%2F1729406051168sQ3VV_PNG%2F%25BB%25F5%25BF%25EC%25B8%25B5.png",
+            "menu_name": "새우링(5개)",
+            "price": "4,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241020_72%2F1729406099879dwX9g_PNG%2F%25C7%25D1%25C0%25D4_%25C2%25FB%25C7%25D6%25B5%25B5%25B1%25D7.png",
+            "menu_name": "한입 찰핫도그(6개)",
+            "price": "4,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241020_93%2F1729406179933L8i4B_PNG%2F%25C4%25A1%25C1%25EE%25BD%25BA%25C6%25BD.png",
+            "menu_name": "치즈스틱(5개)",
+            "price": "4,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241020_55%2F1729406385553C4anB_PNG%2F%25C4%25A1%25C1%25EE%25BA%25BC%25285ea%2529.png",
+            "menu_name": "치즈볼(5개)",
+            "price": "5,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241020_210%2F1729406331549H8yKH_JPEG%2F%25C7%25E3%25B4%25CF_%25B5%25F6%25C4%25A1%25C1%25EE_%25C6%25F7%25C5%25D7%25C0%25CC%25C5%25E4.jpg",
+            "menu_name": "허니딥치즈 포테이토",
+            "price": "5,000원"
+        },
+        {
+            "category": "",
+            "img_src": "",
+            "menu_name": "사이다 1.25l",
+            "price": "2,500원"
+        },
+        {
+            "category": "",
+            "img_src": "",
+            "menu_name": "사이다 500ml",
+            "price": "2,000원"
+        },
+        {
+            "category": "",
+            "img_src": "",
+            "menu_name": "제로콜라 1.25l",
+            "price": "2,500원"
+        },
+        {
+            "category": "",
+            "img_src": "",
+            "menu_name": "제로콜라 500ml",
+            "price": "2,000원"
+        },
+        {
+            "category": "",
+            "img_src": "",
+            "menu_name": "콜라1.25l",
+            "price": "2,500원"
+        },
+        {
+            "category": "",
+            "img_src": "",
+            "menu_name": "콜라 500ml",
+            "price": "2,000원"
+        }
+    ]
+}

@@ -1,0 +1,20 @@
+{
+    "store_name": "엄니도시락한식뷔페 상무지구점",
+    "store_location": "광주 서구 상무시민로 136 2층 201호",
+    "loc_x": "186612.846595753",
+    "loc_y": "183995.818303769",
+    "menu": [
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20231207_27%2F17019092593117sjgU_PNG%2F%25BF%25EF%25B8%25B2%25C7%25AA%25B5%25E5%25B7%25CE%25B0%25ED.png",
+            "menu_name": "1인",
+            "price": "7,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20231207_155%2F1701909286696jJTOE_PNG%2F%25BF%25EF%25B8%25B2%25C7%25AA%25B5%25E5%25B7%25CE%25B0%25ED.png",
+            "menu_name": "미취학아동",
+            "price": "5,000원"
+        }
+    ]
+}

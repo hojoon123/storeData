@@ -1,0 +1,446 @@
+{
+    "store_name": "양와당 철산점",
+    "store_location": "경기 광명시 시청로 50 2층 205호",
+    "loc_x": "188145.916679287",
+    "loc_y": "441940.56958837",
+    "menu": [
+        {
+            "category": "사장님 추천 메뉴",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20241211_212/173391410096111Spr_JPEG/image_%2818%29.jpg?type=f220_220_60_sharpen",
+            "menu_name": "양와빙수대표",
+            "price": "9,000원"
+        },
+        {
+            "category": "사장님 추천 메뉴",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20241209_13/1733746778433j7PUj_JPEG/KakaoTalk_20241123_132746486.jpg?type=f220_220_60_sharpen",
+            "menu_name": "팥양갱대표",
+            "price": "2,800원"
+        },
+        {
+            "category": "사장님 추천 메뉴",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20241212_300/1733999792024s6BIN_JPEG/KakaoTalk_20241123_132746486_01.jpg?type=f220_220_60_sharpen",
+            "menu_name": "유자양갱대표",
+            "price": "3,000원"
+        },
+        {
+            "category": "사장님 추천 메뉴",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20241212_99/1733999829191vCjTH_JPEG/KakaoTalk_20241123_132746486_05.jpg?type=f220_220_60_sharpen",
+            "menu_name": "호두양갱대표",
+            "price": "3,200원"
+        },
+        {
+            "category": "사장님 추천 메뉴",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20241212_5/1733999839935Ms8YU_JPEG/KakaoTalk_20241123_132746486_03.jpg?type=f220_220_60_sharpen",
+            "menu_name": "단호박양갱대표",
+            "price": "2,800원"
+        },
+        {
+            "category": "사장님 추천 메뉴",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20241212_130/1733999848665YKGr3_JPEG/KakaoTalk_20241123_132746486_02.jpg?type=f220_220_60_sharpen",
+            "menu_name": "해풍쑥양갱대표",
+            "price": "2,800원"
+        },
+        {
+            "category": "사장님 추천 메뉴",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20241212_300/1733999872845giIwR_JPEG/KakaoTalk_20241123_132746486_09.jpg?type=f220_220_60_sharpen",
+            "menu_name": "곶감양갱대표",
+            "price": "3,200원"
+        },
+        {
+            "category": "사장님 추천 메뉴",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20241212_291/1733999901941XkClL_JPEG/KakaoTalk_20241123_132746486_04.jpg?type=f220_220_60_sharpen",
+            "menu_name": "대추양갱대표",
+            "price": "2,800원"
+        },
+        {
+            "category": "사장님 추천 메뉴",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20241212_151/1733999910153lNldp_JPEG/KakaoTalk_20241123_132746486_06.jpg?type=f220_220_60_sharpen",
+            "menu_name": "블루베리양갱대표",
+            "price": "2,800원"
+        },
+        {
+            "category": "사장님 추천 메뉴",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20241212_104/1733999924352Vfykr_JPEG/KakaoTalk_20241123_132746486_08.jpg?type=f220_220_60_sharpen",
+            "menu_name": "카카오양갱대표",
+            "price": "2,800원"
+        },
+        {
+            "category": "사장님 추천 메뉴",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20241212_176/1733999942574RSiPL_JPEG/KakaoTalk_20241123_132746486_11.jpg?type=f220_220_60_sharpen",
+            "menu_name": "밤양갱대표",
+            "price": "3,400원"
+        },
+        {
+            "category": "사장님 추천 메뉴",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20241212_216/1734000046280Gv7oF_JPEG/KakaoTalk_20241123_132746486_10.jpg?type=f220_220_60_sharpen",
+            "menu_name": "매실양갱대표",
+            "price": "3,000원"
+        },
+        {
+            "category": "수제 生 양갱",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20241209_13/1733746778433j7PUj_JPEG/KakaoTalk_20241123_132746486.jpg?type=f220_220_60_sharpen",
+            "menu_name": "팥양갱대표",
+            "price": "2,800원"
+        },
+        {
+            "category": "수제 生 양갱",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20241212_300/1733999792024s6BIN_JPEG/KakaoTalk_20241123_132746486_01.jpg?type=f220_220_60_sharpen",
+            "menu_name": "유자양갱대표",
+            "price": "3,000원"
+        },
+        {
+            "category": "수제 生 양갱",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20241212_99/1733999829191vCjTH_JPEG/KakaoTalk_20241123_132746486_05.jpg?type=f220_220_60_sharpen",
+            "menu_name": "호두양갱대표",
+            "price": "3,200원"
+        },
+        {
+            "category": "수제 生 양갱",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20241212_5/1733999839935Ms8YU_JPEG/KakaoTalk_20241123_132746486_03.jpg?type=f220_220_60_sharpen",
+            "menu_name": "단호박양갱대표",
+            "price": "2,800원"
+        },
+        {
+            "category": "수제 生 양갱",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20241212_300/1733999872845giIwR_JPEG/KakaoTalk_20241123_132746486_09.jpg?type=f220_220_60_sharpen",
+            "menu_name": "곶감양갱대표",
+            "price": "3,200원"
+        },
+        {
+            "category": "수제 生 양갱",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20241212_176/1733999942574RSiPL_JPEG/KakaoTalk_20241123_132746486_11.jpg?type=f220_220_60_sharpen",
+            "menu_name": "밤양갱대표",
+            "price": "3,400원"
+        },
+        {
+            "category": "수제 生 양갱",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20241212_130/1733999848665YKGr3_JPEG/KakaoTalk_20241123_132746486_02.jpg?type=f220_220_60_sharpen",
+            "menu_name": "해풍쑥양갱대표",
+            "price": "2,800원"
+        },
+        {
+            "category": "수제 生 양갱",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20241212_216/1734000046280Gv7oF_JPEG/KakaoTalk_20241123_132746486_10.jpg?type=f220_220_60_sharpen",
+            "menu_name": "매실양갱대표",
+            "price": "3,000원"
+        },
+        {
+            "category": "수제 生 양갱",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20241212_291/1733999901941XkClL_JPEG/KakaoTalk_20241123_132746486_04.jpg?type=f220_220_60_sharpen",
+            "menu_name": "대추양갱대표",
+            "price": "2,800원"
+        },
+        {
+            "category": "수제 生 양갱",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20241212_151/1733999910153lNldp_JPEG/KakaoTalk_20241123_132746486_06.jpg?type=f220_220_60_sharpen",
+            "menu_name": "블루베리양갱대표",
+            "price": "2,800원"
+        },
+        {
+            "category": "수제 生 양갱",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20241212_104/1733999924352Vfykr_JPEG/KakaoTalk_20241123_132746486_08.jpg?type=f220_220_60_sharpen",
+            "menu_name": "카카오양갱대표",
+            "price": "2,800원"
+        },
+        {
+            "category": "선물세트",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20241210_239/17337858574876gop6_JPEG/KakaoTalk_20241128_133556691_01.jpg?type=f220_220_60_sharpen",
+            "menu_name": "3개들이",
+            "price": "10,600원"
+        },
+        {
+            "category": "선물세트",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20241212_135/17340002727931ebGt_JPEG/KakaoTalk_20241128_133556691_02.jpg?type=f220_220_60_sharpen",
+            "menu_name": "6개들이 가세트",
+            "price": "19,900원"
+        },
+        {
+            "category": "선물세트",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20241212_217/1734000285520ATeM6_JPEG/KakaoTalk_20241128_133556691.jpg?type=f220_220_60_sharpen",
+            "menu_name": "6개들이 나세트",
+            "price": "20,300원"
+        },
+        {
+            "category": "선물세트",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20241214_203/1734175314767AB5tD_JPEG/20241214_113346.jpg?type=f220_220_60_sharpen",
+            "menu_name": "12개들이",
+            "price": "38,400원"
+        },
+        {
+            "category": "선물세트",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20241212_234/1734001155973Ft8Qu_JPEG/20241212_115900.jpg?type=f220_220_60_sharpen",
+            "menu_name": "스페셜A",
+            "price": "61,400원"
+        },
+        {
+            "category": "선물패키지",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20241211_69/1733872589543Szbp0_JPEG/KakaoTalk_20230831_112254723_17.jpg?type=f220_220_60_sharpen",
+            "menu_name": "3들입상자",
+            "price": "2,000원"
+        },
+        {
+            "category": "선물패키지",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20241212_127/17340006942828Utr3_JPEG/KakaoTalk_20230831_112254723_18.jpg?type=f220_220_60_sharpen",
+            "menu_name": "6들입상자(녹색)",
+            "price": "2,500원"
+        },
+        {
+            "category": "선물패키지",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20241212_208/1734000704276JYLbz_PNG/%C6%C4%B6%FB%BB%F3%C0%DA.png?type=f220_220_60_sharpen",
+            "menu_name": "6들입상자(파랑)",
+            "price": "2,500원"
+        },
+        {
+            "category": "선물패키지",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20241212_185/1734000712564Aw9sl_PNG/%C8%B8%BB%F6%BB%F3%C0%DA.png?type=f220_220_60_sharpen",
+            "menu_name": "12들입상자(회색)",
+            "price": "3,000원"
+        },
+        {
+            "category": "선물패키지",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20241212_261/1734000721490KkVQM_JPEG/KakaoTalk_20230831_112254723_20.jpg?type=f220_220_60_sharpen",
+            "menu_name": "12들입상자(빨강)",
+            "price": "3,000원"
+        },
+        {
+            "category": "선물패키지",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20241212_147/1734000762694CkAHq_JPEG/KakaoTalk_20211214_152010337_08.jpg?type=f220_220_60_sharpen",
+            "menu_name": "일반보자기",
+            "price": "2,000원"
+        },
+        {
+            "category": "선물패키지",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20241212_276/1734000768208xczzA_JPEG/KakaoTalk_20211214_152010337_09_%281%29.jpg?type=f220_220_60_sharpen",
+            "menu_name": "고급보자기(겹보)",
+            "price": "7,000원"
+        },
+        {
+            "category": "선물패키지",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20241212_121/17340007737435Bkmm_JPEG/KakaoTalk_20211214_152010337_10.jpg?type=f220_220_60_sharpen",
+            "menu_name": "고급보자기(양색단)",
+            "price": "7,000원"
+        },
+        {
+            "category": "선물패키지",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20241212_272/173400078037626vva_JPEG/KakaoTalk_20211214_152010337_11.jpg?type=f220_220_60_sharpen",
+            "menu_name": "쇼핑백",
+            "price": "1,000원"
+        },
+        {
+            "category": "선물패키지",
+            "img_src": "",
+            "menu_name": "스페셜 추가",
+            "price": "1,000원"
+        },
+        {
+            "category": "커피:라떼",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20241211_56/17339117538078Hv7l_JPEG/KakaoTalk_20230823_102333928.jpg?type=f220_220_60_sharpen",
+            "menu_name": "아메리카노",
+            "price": "4,000원"
+        },
+        {
+            "category": "커피:라떼",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20241211_16/1733911827287sMKjJ_JPEG/KakaoTalk_20230823_102333928_02.jpg?type=f220_220_60_sharpen",
+            "menu_name": "카페라떼",
+            "price": "4,500원"
+        },
+        {
+            "category": "커피:라떼",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20241211_236/17339118830670hCpY_JPEG/KakaoTalk_20230823_102333928_03.jpg?type=f220_220_60_sharpen",
+            "menu_name": "수제바닐라라떼",
+            "price": "5,000원"
+        },
+        {
+            "category": "커피:라떼",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20241211_24/1733911975290JKEMl_JPEG/KakaoTalk_20230823_102333928_05.jpg?type=f220_220_60_sharpen",
+            "menu_name": "흑임자크림라떼(ONLY ICE)",
+            "price": "5,500원"
+        },
+        {
+            "category": "커피:라떼",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20241211_217/1733911914058jKrXG_JPEG/KakaoTalk_20230823_102313993_06.jpg?type=f220_220_60_sharpen",
+            "menu_name": "모카라떼",
+            "price": "5,500원"
+        },
+        {
+            "category": "커피:라떼",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20241211_225/17339121240082cmP0_JPEG/KakaoTalk_20230823_102313993_02.jpg?type=f220_220_60_sharpen",
+            "menu_name": "단팥라떼",
+            "price": "5,000원"
+        },
+        {
+            "category": "커피:라떼",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20241211_47/1733912323045gR3Ux_JPEG/KakaoTalk_20230823_102313993_02.jpg?type=f220_220_60_sharpen",
+            "menu_name": "쑥라떼",
+            "price": "5,000원"
+        },
+        {
+            "category": "커피:라떼",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20241211_284/17339121540223c4tp_JPEG/KakaoTalk_20230823_102313993_04.jpg?type=f220_220_60_sharpen",
+            "menu_name": "밤라떼",
+            "price": "5,000원"
+        },
+        {
+            "category": "커피:라떼",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20241211_147/1733912375791jSuPh_JPEG/KakaoTalk_20230823_102313993_08.jpg?type=f220_220_60_sharpen",
+            "menu_name": "흑임자라떼",
+            "price": "5,000원"
+        },
+        {
+            "category": "커피:라떼",
+            "img_src": "",
+            "menu_name": "초코라떼",
+            "price": "5,000원"
+        },
+        {
+            "category": "음료",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20241211_6/1733912436055t3Dkz_JPEG/KakaoTalk_20230823_102313993_23.jpg?type=f220_220_60_sharpen",
+            "menu_name": "딸기라떼",
+            "price": "5,000원"
+        },
+        {
+            "category": "음료",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20241211_253/17339124531245pg7v_JPEG/KakaoTalk_20230823_102313993_24.jpg?type=f220_220_60_sharpen",
+            "menu_name": "딸기스무디",
+            "price": "5,000원"
+        },
+        {
+            "category": "음료",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20241211_154/1733912484775CwQWT_JPEG/KakaoTalk_20230823_102313993_19.jpg?type=f220_220_60_sharpen",
+            "menu_name": "백향과망고스무디",
+            "price": "5,000원"
+        },
+        {
+            "category": "음료",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20241211_34/1733912513809pBTOF_JPEG/KakaoTalk_20230823_102313993_22.jpg?type=f220_220_60_sharpen",
+            "menu_name": "백향과에이드",
+            "price": "5,000원"
+        },
+        {
+            "category": "음료",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20241211_189/1733912558571lHfE2_JPEG/KakaoTalk_20230823_102313993_21.jpg?type=f220_220_60_sharpen",
+            "menu_name": "오미자에이드",
+            "price": "5,000원"
+        },
+        {
+            "category": "음료",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20241211_183/1733912536886qjrfx_JPEG/KakaoTalk_20230823_102313993_20.jpg?type=f220_220_60_sharpen",
+            "menu_name": "유자에이드",
+            "price": "5,000원"
+        },
+        {
+            "category": "음료",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20241211_162/1733912682252Ssthi_JPEG/KakaoTalk_20230823_102313993_18_%281%29.jpg?type=f220_220_60_sharpen",
+            "menu_name": "미숫가루",
+            "price": "5,000원"
+        },
+        {
+            "category": "차",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20241211_196/1733872908779DUTrl_JPEG/KakaoTalk_20220103_165628604.jpg?type=f220_220_60_sharpen",
+            "menu_name": "수제쌍화차",
+            "price": "7,000원"
+        },
+        {
+            "category": "차",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20241211_144/1733872915983iyRKr_JPEG/KakaoTalk_20211225_181306285_19.jpg?type=f220_220_60_sharpen",
+            "menu_name": "수제대추차(밀양)",
+            "price": "7,000원"
+        },
+        {
+            "category": "차",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20241211_221/1733913177547aLzqg_JPEG/KakaoTalk_20230823_102313993_15_192927.jpg?type=f220_220_60_sharpen",
+            "menu_name": "백향과차(남원)",
+            "price": "6,000원"
+        },
+        {
+            "category": "차",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20241211_269/1733913231513hGE8C_JPEG/KakaoTalk_20230823_102313993_12-1.jpg?type=f220_220_60_sharpen",
+            "menu_name": "오미자차(문경)",
+            "price": "6,000원"
+        },
+        {
+            "category": "차",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20241211_8/17339135628879Q03U_JPEG/KakaoTalk_20230823_102313993_12-1.jpg?type=f220_220_60_sharpen",
+            "menu_name": "홍매실자(하동)",
+            "price": "5,000원"
+        },
+        {
+            "category": "차",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20241211_269/1733913580748fBBNU_JPEG/KakaoTalk_20230823_102313993_10-1.jpg?type=f220_220_60_sharpen",
+            "menu_name": "유자차(고흥)",
+            "price": "5,000원"
+        },
+        {
+            "category": "건강차",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20241211_29/1733914162540OyCbK_JPEG/KakaoTalk_20230823_102313993_17.jpg?type=f220_220_60_sharpen",
+            "menu_name": "귤피차",
+            "price": "5,000원"
+        },
+        {
+            "category": "건강차",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20241211_175/1733914170685owOwd_JPEG/KakaoTalk_20230823_102313993_17_%281%29.jpg?type=f220_220_60_sharpen",
+            "menu_name": "작두콩차",
+            "price": "5,000원"
+        },
+        {
+            "category": "건강차",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20241211_143/1733914207947AdYsg_JPEG/KakaoTalk_20230823_102313993_17_%281%29.jpg?type=f220_220_60_sharpen",
+            "menu_name": "겨우살이차",
+            "price": "5,000원"
+        },
+        {
+            "category": "건강차",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20241211_119/17339141907814sH3b_JPEG/KakaoTalk_20230823_102313993_17_%281%29.jpg?type=f220_220_60_sharpen",
+            "menu_name": "레드비트차",
+            "price": "5,000원"
+        },
+        {
+            "category": "빙수",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20241211_212/173391410096111Spr_JPEG/image_%2818%29.jpg?type=f220_220_60_sharpen",
+            "menu_name": "양와빙수대표",
+            "price": "9,000원"
+        },
+        {
+            "category": "빙수",
+            "img_src": "",
+            "menu_name": "컵빙수(Take-Out)",
+            "price": "7,000원"
+        },
+        {
+            "category": "주전부리",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20241211_147/1733913787759tJ8fl_JPEG/KakaoTalk_20230407_131811549_03.jpg?type=f220_220_60_sharpen",
+            "menu_name": "모나카",
+            "price": "3,200원"
+        },
+        {
+            "category": "주전부리",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20241211_224/1733913802908HQu8g_JPEG/KakaoTalk_20230407_131811549_02.jpg?type=f220_220_60_sharpen",
+            "menu_name": "앙버터모나카",
+            "price": "3,800원"
+        },
+        {
+            "category": "주전부리",
+            "img_src": "",
+            "menu_name": "팥당고",
+            "price": "6,000원"
+        },
+        {
+            "category": "주전부리",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20241211_282/1733914052756Kbqho_JPEG/KakaoTalk_20241128_135428081_01-1.jpg?type=f220_220_60_sharpen",
+            "menu_name": "단팥죽",
+            "price": "5,000원"
+        },
+        {
+            "category": "주전부리",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20241211_75/1733914064978vPmbf_JPEG/KakaoTalk_20241128_135428081_02-1.jpg?type=f220_220_60_sharpen",
+            "menu_name": "단호박죽",
+            "price": "5,000원"
+        },
+        {
+            "category": "주전부리",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20241211_20/17339140846348kx5r_JPEG/KakaoTalk_20241128_135428081-1.jpg?type=f220_220_60_sharpen",
+            "menu_name": "흑임자죽",
+            "price": "5,000원"
+        }
+    ]
+}

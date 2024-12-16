@@ -1,0 +1,98 @@
+{
+    "store_name": "바삭한소리",
+    "store_location": "경기 이천시 애련정로 67-23 코아루휴티스 1단지 101호상가",
+    "loc_x": "240061.454738404",
+    "loc_y": "419484.265700958",
+    "menu": [
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241127_128%2F1732669859716vcB75_JPEG%2FKakaoTalk_20241127_100915825_03.jpg",
+            "menu_name": "카다이프 새우튀김 4마리",
+            "price": "9,900원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241127_185%2F1732669633113OSe36_JPEG%2FKakaoTalk_20241126_163614362_01.jpg",
+            "menu_name": "큼지막한 찹쌀 탕수육",
+            "price": "9,900원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241128_132%2F1732768775382jq9W9_JPEG%2FIMG_1359.jpeg",
+            "menu_name": "등심 돈까스 4장",
+            "price": "9,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241129_72%2F1732859315621K9XWT_JPEG%2FKakaoTalk_20241129_144811006.jpg",
+            "menu_name": "치킨 가라아게",
+            "price": "6,900원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241129_211%2F17328746997225pwWe_JPEG%2FKakaoTalk_20241129_190249442.jpg",
+            "menu_name": "버터플라이 새우튀김 10마리",
+            "price": "6,900원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241129_253%2F1732876424584H54yU_JPEG%2FKakaoTalk_20241129_191738079.jpg",
+            "menu_name": "왕 새우튀김 4마리",
+            "price": "5,900원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241127_60%2F1732669909776GOap6_JPEG%2FKakaoTalk_20241127_100915825_04.jpg",
+            "menu_name": "모둠감자",
+            "price": "6,900원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241127_260%2F1732669645049uIjC1_JPEG%2FKakaoTalk_20241126_164352124.jpg",
+            "menu_name": "치즈볼 4개",
+            "price": "3,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241127_50%2F1732669656171oPGxV_JPEG%2FKakaoTalk_20241126_163614362.jpg",
+            "menu_name": "사각 멘보샤 5개",
+            "price": "4,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241127_32%2F1732669869873eNsPY_JPEG%2FKakaoTalk_20241127_100915825_02.jpg",
+            "menu_name": "국물 떡볶이",
+            "price": "6,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241128_129%2F1732775607503inu6J_JPEG%2FKakaoTalk_20241128_152959641.jpg",
+            "menu_name": "통오징어 짬뽕탕",
+            "price": "16,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241127_97%2F1732669938641hrlaV_JPEG%2FKakaoTalk_20241127_100952170.jpg",
+            "menu_name": "알탕",
+            "price": "13,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241129_217%2F1732858647495letOU_JPEG%2FKakaoTalk_20241129_143219448.jpg",
+            "menu_name": "연탄 불고기",
+            "price": "12,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241129_97%2F17328586567148MMJc_JPEG%2FKakaoTalk_20241129_143614448.jpg",
+            "menu_name": "고추장 연탄불고기",
+            "price": "12,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241129_126%2F1732859760325x1L0Q_JPEG%2FKakaoTalk_20241129_145533419.jpg",
+            "menu_name": "반반 연탄 불고기",
+            "price": "13,000원"
+        }
+    ]
+}

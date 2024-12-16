@@ -1,0 +1,80 @@
+{
+    "store_name": "미트러스",
+    "store_location": "경기 성남시 중원구 성남대로 1132 2층 215호",
+    "loc_x": "211429.256921194",
+    "loc_y": "436553.680653188",
+    "menu": [
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241202_107%2F1733115435043wkkiF_JPEG%2FP1220407.JPG",
+            "menu_name": "와규 등심 500g",
+            "price": "59,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241202_227%2F1733116060803TGdsH_JPEG%2FP1220318.JPG",
+            "menu_name": "부채살 200g",
+            "price": "29,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241202_72%2F1733116031751qhuEV_JPEG%2FKakaoTalk_20241202_134107486.jpg",
+            "menu_name": "갈비살 200g",
+            "price": "29,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241202_141%2F1733115981255hmPGb_JPEG%2FP1220270.JPG",
+            "menu_name": "치마살 200g",
+            "price": "29,000원"
+        },
+        {
+            "category": "",
+            "img_src": "",
+            "menu_name": "안창살 180g",
+            "price": "29,000원"
+        },
+        {
+            "category": "",
+            "img_src": "",
+            "menu_name": "토시살 180g",
+            "price": "29,000원"
+        },
+        {
+            "category": "",
+            "img_src": "",
+            "menu_name": "돈 삼겹살 200g",
+            "price": "9,500원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241202_197%2F1733115620450DHQFi_JPEG%2FP1220440.JPG",
+            "menu_name": "와규 사태 수육 150g",
+            "price": "13,500원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241202_81%2F1733115559906wgTO8_JPEG%2FIMG_5096.JPG",
+            "menu_name": "와규 설렁탕",
+            "price": "8,500원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241202_74%2F1733115580760XKCyH_JPEG%2FP1220399.JPG",
+            "menu_name": "와규 덮밥",
+            "price": "8,500원"
+        },
+        {
+            "category": "",
+            "img_src": "",
+            "menu_name": "돈육 덮밥",
+            "price": "7,500원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241202_184%2F1733115642774qfsjV_JPEG%2FP1220457.JPG",
+            "menu_name": "된장찌개 (후식)",
+            "price": "3,000원"
+        }
+    ]
+}

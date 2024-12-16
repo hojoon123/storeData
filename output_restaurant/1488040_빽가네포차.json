@@ -1,0 +1,32 @@
+{
+    "store_name": "빽가네포차",
+    "store_location": "경기 수원시 권선구 상탑로39번길 12-7",
+    "loc_x": "197786.236738424",
+    "loc_y": "418880.251815227",
+    "menu": [
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20231210_76%2F1702216880363BnUGf_JPEG%2FIMG_0161.jpeg",
+            "menu_name": "길거리토스트",
+            "price": "6,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20231210_197%2F1702216772230llzJb_JPEG%2FIMG_0139.jpeg",
+            "menu_name": "육전",
+            "price": "23,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20231210_185%2F1702216752781v96wn_JPEG%2FIMG_0152.jpeg",
+            "menu_name": "쏘야",
+            "price": "23,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20231205_6%2F1701774650493OC9Nv_JPEG%2FIMG_0137.jpeg",
+            "menu_name": "찹스테이크",
+            "price": "변동"
+        }
+    ]
+}

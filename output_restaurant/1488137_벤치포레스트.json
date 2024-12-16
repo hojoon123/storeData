@@ -1,0 +1,14 @@
+{
+    "store_name": "벤치포레스트",
+    "store_location": "경기 평택시 청북읍 드림산단2로 12 1층 102호",
+    "loc_x": "197614.482035866",
+    "loc_y": "395048.609047256",
+    "menu": [
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20231018_67%2F1697594736931lHBRd_JPEG%2Fimage.jpg",
+            "menu_name": "아메리카노",
+            "price": "2,500원"
+        }
+    ]
+}

@@ -1,0 +1,62 @@
+{
+    "store_name": "엉터리무한대패 광주첨단점",
+    "store_location": "광주 광산구 임방울대로800번길 71 2층 213호. 214호. 215호",
+    "loc_x": "185935.596639221",
+    "loc_y": "190563.515031467",
+    "menu": [
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241107_69%2F1730954821872JMj7p_JPEG%2F%25C5%25A9%25B1%25E2%25BA%25AF%25C8%25AF%25C4%25C1%25BC%25C112.jpg",
+            "menu_name": "엉터리 무한대패 (1인)",
+            "price": "16,900원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241107_243%2F1730954758818asUuo_JPEG%2F%25C5%25A9%25B1%25E2%25BA%25AF%25C8%25AF%25C4%25C1%25BC%25C16.jpg",
+            "menu_name": "프리미엄 무한대패 (1인)",
+            "price": "19,900원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241107_60%2F1730954851793p02KH_JPEG%2F%25C5%25A9%25B1%25E2%25BA%25AF%25C8%25AF%25C4%25C1%25BC%25C124.jpg",
+            "menu_name": "무한소주 (19세 이상)",
+            "price": "5,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241107_84%2F17309548950480kb3E_JPEG%2F%25C5%25A9%25B1%25E2%25BA%25AF%25C8%25AF%25C4%25C1%25BC%25C120.jpg",
+            "menu_name": "무한대패 (10세 이하)",
+            "price": "10,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241107_183%2F1730954873667288Vw_JPEG%2F%25C5%25A9%25B1%25E2%25BA%25AF%25C8%25AF%25C4%25C1%25BC%25C120.jpg",
+            "menu_name": "무한대패 (7세 이하)",
+            "price": "7,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241107_33%2F1730954685585pmCj8_PNG%2F%25B3%25C3%25B8%25E9.png",
+            "menu_name": "냉면 (물/비빔)",
+            "price": "5,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241107_127%2F1730954699275ApC9w_PNG%2F%25B5%25C8%25C0%25E5%25BC%25FA%25B9%25E4.png",
+            "menu_name": "된장술밥",
+            "price": "5,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241107_22%2F1730954727697K818g_PNG%2F%25B0%25E8%25B6%25F5%25C2%25F2.png",
+            "menu_name": "폭탄계란찜",
+            "price": "4,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241107_283%2F17309547120308x6cd_PNG%2F%25B5%25C8%25C0%25E5%25C2%25EE%25B0%25B3_TOP_%25BA%25B8%25C1%25A4%252C%25B4%25A9%25B3%25A2%2528%25BB%25F6%25BA%25B8%25C1%25A4%2529.png",
+            "menu_name": "된장찌개",
+            "price": "4,000원"
+        }
+    ]
+}

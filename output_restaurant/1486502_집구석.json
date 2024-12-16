@@ -1,0 +1,68 @@
+{
+    "store_name": "집구석",
+    "store_location": "부산 부산진구 전포대로255번길 43-14 1층 일부호",
+    "loc_x": "387888.510637658",
+    "loc_y": "186352.945279534",
+    "menu": [
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241206_74%2F1733473102308cigMm_JPEG%2Fkino_3.jpg",
+            "menu_name": "집구석 모듬구이 소",
+            "price": "33,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241206_239%2F173347309239998QMs_JPEG%2Fkino_3.jpg",
+            "menu_name": "집구석 모듬구이 대",
+            "price": "44,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241206_125%2F1733473076595cSvbW_JPEG%2Fkino.jpg",
+            "menu_name": "특상 선별 삼겹살 130g",
+            "price": "9,500원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241206_7%2F1733473067880UP9NS_JPEG%2Fkino_1.jpg",
+            "menu_name": "꼬들 목덜미살 130g",
+            "price": "8,900원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241206_49%2F1733473058281bWL9q_JPEG%2Fkino_2.jpg",
+            "menu_name": "두항정살 120g",
+            "price": "9,500원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241213_253%2F1734063982730ifDOe_JPEG%2FIMG_2968.jpeg",
+            "menu_name": "별미 돼지 꼬랑지 180g",
+            "price": "8,900원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241206_5%2F1733473352555QqIkf_JPEG%2Fkino_5.jpg",
+            "menu_name": "얼큰시래기 된장찌개",
+            "price": "4,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241206_146%2F1733473424766OhM3p_JPEG%2Fkino_6.jpg",
+            "menu_name": "집구석 열무국수",
+            "price": "5,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241206_96%2F1733473449924naJp1_JPEG%2Fkino_7.jpg",
+            "menu_name": "집구석 비빔국수",
+            "price": "6,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241206_120%2F1733473474557S1GIh_JPEG%2Fkino_8.jpg",
+            "menu_name": "틈새 라제비",
+            "price": "4,000원"
+        }
+    ]
+}

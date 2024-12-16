@@ -1,0 +1,14 @@
+{
+    "store_name": "스텔라떡볶이 경남김해장유점",
+    "store_location": "경남 김해시 계동로23번길 9 1층 106호",
+    "loc_x": "363432.197833181",
+    "loc_y": "188025.697528621",
+    "menu": [
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241212_224%2F1733992520502wJRaF_PNG%2F%25B9%25E8%25B9%25CE_1280x960_%25BD%25BA%25C5%25DA%25B6%25F3_%25B6%25B1%25BA%25BA%25C0%25CC_%25B9%25E8%25B0%25E6o.png",
+            "menu_name": "스텔라떡볶이",
+            "price": "7,500원"
+        }
+    ]
+}

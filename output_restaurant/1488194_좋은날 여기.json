@@ -1,0 +1,14 @@
+{
+    "store_name": "좋은날 여기",
+    "store_location": "광주 광산구 광산로89번길 15 1층",
+    "loc_x": "181685.042255873",
+    "loc_y": "182607.969091143",
+    "menu": [
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240326_122%2F1711431440848eD7F9_JPEG%2F1000007219.jpg",
+            "menu_name": "딸기라떼",
+            "price": "4,500원"
+        }
+    ]
+}

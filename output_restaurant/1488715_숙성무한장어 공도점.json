@@ -1,0 +1,32 @@
+{
+    "store_name": "숙성무한장어 공도점",
+    "store_location": "경기 안성시 공도읍 공도2로 27 2층 202호",
+    "loc_x": "215175.185008121",
+    "loc_y": "388775.998925215",
+    "menu": [
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241104_11%2F17306971117997iRbR_PNG%2F%25C0%25E5%25BE%25EE.png",
+            "menu_name": "무한리필 1인(중등이상)",
+            "price": "36,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241104_103%2F1730697125353kvRTI_PNG%2F%25C0%25E5%25BE%25EE2.png",
+            "menu_name": "무한리필 1인(초등이상)",
+            "price": "15,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241104_54%2F1730697147812j9FGp_PNG%2F%25C0%25E5%25BE%25EE%25BF%25AC%25C3%25E22.png",
+            "menu_name": "무한리필 1인(미취학아동)",
+            "price": "5,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241104_132%2F1730697224973l0gvY_PNG%2F%25B5%25B9%25BC%25F7%25BC%25BA%25C7%25D1%25BF%25EC3.png",
+            "menu_name": "돌숙성한우(한접시 100g) 한정판매",
+            "price": "5,500원"
+        }
+    ]
+}

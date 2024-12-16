@@ -1,0 +1,50 @@
+{
+    "store_name": "플랫 동탄점",
+    "store_location": "경기 화성시 동탄대로14길 6-34 1층 플랫 동탄점",
+    "loc_x": "209185.689063597",
+    "loc_y": "409143.236557923",
+    "menu": [
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241210_129%2F1733808502845piSpB_JPEG%2F1000014061.jpg",
+            "menu_name": "치아바타&토마토스튜",
+            "price": "13,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241210_210%2F1733808462049A4g9w_JPEG%2F1000014059.jpg",
+            "menu_name": "깜빠뉴&양송이스프",
+            "price": "9,500원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241210_32%2F17338083814029ePu0_JPEG%2F1000014057.jpg",
+            "menu_name": "잠봉뵈르",
+            "price": "11,500원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241210_86%2F1733808346226rEAwP_JPEG%2F1000014055.jpg",
+            "menu_name": "잠봉베이글",
+            "price": "11,500원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241210_153%2F1733808302989UmpTF_JPEG%2F1000014053.jpg",
+            "menu_name": "치아바타 카프레제 샌드위치",
+            "price": "9,500원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241210_162%2F1733806629317aJ20V_JPEG%2F1000014050.jpg",
+            "menu_name": "크로와상샌드위치",
+            "price": "9,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241210_251%2F1733806576862VzjDS_JPEG%2F1000014048.jpg",
+            "menu_name": "베이글샌드위치",
+            "price": "8,500원"
+        }
+    ]
+}

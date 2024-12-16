@@ -1,0 +1,218 @@
+{
+    "store_name": "정성카츠 계림점",
+    "store_location": "광주 동구 경양로 234 상가107동 1층 310호",
+    "loc_x": "192224.040969344",
+    "loc_y": "184210.312044275",
+    "menu": [
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241209_100%2F1733718033581i4luF_JPEG%2F%25C1%25A4%25BC%25BA%25B8%25F0%25B5%25EB%25C4%25AB%25C3%25F7_%25C1%25A4%25BD%25C4.jpg",
+            "menu_name": "🧡부동의 1위🧡 정성모듬카츠 정식",
+            "price": "12,900원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241209_90%2F1733718014011cmXa3_JPEG%2F%25C8%25F7%25B7%25B9%25C4%25AB%25C3%25F7_%25C1%25A4%25BD%25C4.jpg",
+            "menu_name": "[겉바속촉✨] 히레카츠 정식",
+            "price": "11,900원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241209_82%2F1733717995402rbVqB_JPEG%2F%25B1%25E8%25C4%25A1%25C4%25A1%25C1%25EE%25B3%25AA%25BA%25A3.jpg",
+            "menu_name": "[✨맛 보장✨] 김치치즈나베",
+            "price": "12,900원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241209_277%2F1733717954253Hixzl_JPEG%2F%25B0%25E6%25BE%25E7%25BD%25C4_%25BF%25D5%25B5%25B7%25B1%25EE%25BD%25BA_%25C1%25A4%25BD%25C4.jpg",
+            "menu_name": "[레트로 감성] 경양식 왕돈까스 정식",
+            "price": "12,900원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241209_160%2F1733717901558NCRFd_JPEG%2F%25B7%25CE%25BD%25BA%25C4%25AB%25C3%25F7_%25C1%25A4%25BD%25C4.jpg",
+            "menu_name": "로스카츠 정식",
+            "price": "11,900원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241209_217%2F1733717874090hv7bs_JPEG%2F%25C6%25AE%25B8%25AE%25C7%25C3%25B8%25F0%25B5%25EB%25C4%25AB%25C3%25F72.jpg",
+            "menu_name": "트리플 모듬카츠 정식",
+            "price": "13,900원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241209_214%2F1733717859162MhwJb_JPEG%2F%25C4%25A1%25C1%25EE%25C4%25AB%25C3%25F7_%25C1%25A4%25BD%25C4.jpg",
+            "menu_name": "치즈듬뿍카츠 정식",
+            "price": "12,900원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241209_191%2F1733717846330KzBcF_JPEG%2F%25C1%25A4%25BC%25BA_%25C7%25D4%25B9%25D9%25B1%25D7_%25C1%25A4%25BD%25C4.jpg",
+            "menu_name": "정성 함바그 정식",
+            "price": "10,900원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241209_117%2F1733717836397L6wE7_JPEG%2F%25BF%25D5%25B5%25B7%25B1%25EE%25BD%25BA_%25C1%25A4%25BD%25C4.jpg",
+            "menu_name": "왕돈까스 정식",
+            "price": "12,900원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241209_129%2F1733717824828OA4vU_JPEG%2F%25B8%25C5%25BF%25EE%25B5%25B7%25B1%25EE%25BD%25BA.jpg",
+            "menu_name": "[辛]매운돈까스 정식",
+            "price": "12,900원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241209_54%2F1733717797458oYFwP_JPEG%2F%25B0%25ED%25B1%25B8%25B8%25B6%25C4%25A1%25C1%25EE%25C4%25AB%25C3%25F7_%25C1%25A4%25BD%25C4.jpg",
+            "menu_name": "고구마치즈카츠 정식",
+            "price": "13,900원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241209_136%2F1733717787540Ic9Pv_JPEG%2F%25B0%25A5%25B8%25AF_%25C4%25A1%25C6%25FA%25B7%25B9%25C4%25AB%25C3%25F7_%25C1%25A4%25BD%25C4.jpg",
+            "menu_name": "갈릭 치폴레카츠 정식",
+            "price": "12,900원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241209_199%2F1733717774213HQTyT_JPEG%2F%25C6%25AF%25B7%25CE%25BD%25BA%25C4%25AB%25C3%25F7_%25C1%25A4%25BD%25C4.jpg",
+            "menu_name": "특로스카츠 (노컷팅불가)",
+            "price": "9,900원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241209_233%2F1733717758971bUfpC_JPEG%2F%25C4%25A1%25C1%25EE%252B%25B0%25ED%25B1%25B8%25B8%25B6%25C4%25A1%25C1%25EE3.jpg",
+            "menu_name": "고구마치즈(2p)+치즈카츠(2p)정식",
+            "price": "13,400원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241209_299%2F1733717725717owBDt_JPEG%2F%25B7%25CE%25BD%25BA%252B%25B0%25ED%25B1%25B8%25B8%25B6%25C4%25A1%25C1%25EE%25282p%2529%25C1%25A4%25BD%25C4_2.jpg",
+            "menu_name": "로스+고구마치즈카츠(2p) 정식",
+            "price": "13,400원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241209_22%2F1733717696934vIIeE_JPEG%2F%25B7%25CE%25BD%25BA%252B%25C4%25A1%25C1%25EE2p%25C1%25A4%25BD%25C4.jpg",
+            "menu_name": "로스+치즈카츠(2p) 정식",
+            "price": "12,900원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241209_174%2F1733717665063oAteW_JPEG%2F%25B7%25CE%25BD%25BA%252B%25C8%25F7%25B7%25B9.jpg",
+            "menu_name": "로스+히레카츠 정식",
+            "price": "11,900원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241209_149%2F1733717643913Mfdao_JPEG%2F%25B5%25B7%25C4%25AB%25C3%25F7_%25C4%25AB%25B7%25B9%25B5%25A4%25B9%25E4.jpg",
+            "menu_name": "돈카츠 카레덮밥",
+            "price": "9,500원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241209_85%2F1733717635921QsBoW_JPEG%2F%25BF%25EC%25BB%25EF%25B0%25E3_%25C4%25AB%25B7%25B9%25B5%25A4%25B9%25E4.jpg",
+            "menu_name": "우삼겹 카레덮밥",
+            "price": "9,500원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241209_15%2F1733717620073D8c3j_JPEG%2F%25B0%25A1%25B6%25F3%25BE%25C6%25B0%25D4_%25C4%25AB%25B7%25B9%25B5%25A4%25B9%25E4.jpg",
+            "menu_name": "가라아게 카레덮밥",
+            "price": "9,500원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241209_256%2F1733717604047FtbXw_JPEG%2F%25B1%25D4%25B5%25BF.jpg",
+            "menu_name": "규동",
+            "price": "9,500원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241209_84%2F1733717592282kSrSQ_JPEG%2F%25C4%25AB%25C3%25F7%25B5%25BF.jpg",
+            "menu_name": "카츠동",
+            "price": "9,500원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241209_19%2F1733717584339diLjC_JPEG%2F%25B0%25A1%25B6%25F3%25BE%25C6%25B0%25D4%25B5%25BF.jpg",
+            "menu_name": "가라아게동",
+            "price": "9,500원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241209_248%2F1733717570902d1XQ6_JPEG%2F%25BF%25EC%25B5%25BF.jpg",
+            "menu_name": "우동",
+            "price": "6,900원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241209_125%2F1733717564007It6NW_JPEG%2F%25C6%25F7%25C2%25F7%25B6%25AF%25C3%25CA%25BF%25EC%25B5%25BF.jpg",
+            "menu_name": "포차땡초 우동",
+            "price": "6,900원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241209_219%2F1733717553467skdEX_JPEG%2F%25BB%25F5%25BF%25EC%25C6%25A2%25B1%25E8%25BF%25EC%25B5%25BF.jpg",
+            "menu_name": "새우튀김 우동",
+            "price": "8,900원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241209_22%2F1733717534629qBNuk_JPEG%2F%25BE%25CB%25BF%25C3%25C6%25C4%25BD%25BA%25C5%25B8.jpg",
+            "menu_name": "알리오올리오 파스타",
+            "price": "8,900원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241209_110%2F1733717483227nNnMJ_JPEG%2F%25B0%25A5%25B8%25AF_%25C4%25A1%25C6%25FA%25B7%25B9_%25C6%25C4%25BD%25BA%25C5%25B8.jpg",
+            "menu_name": "갈릭치폴레 파스타",
+            "price": "8,900원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241209_180%2F1733717470419D2nYv_JPEG%2F%25C5%25A9%25B8%25B2_%25C6%25C4%25BD%25BA%25C5%25B8.jpg",
+            "menu_name": "크림파스타",
+            "price": "8,900원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241209_101%2F17337174542725rkkd_JPEG%2F%25C1%25A4%25BC%25BA%25B6%25B1%25BA%25BA%25C0%25CC.jpg",
+            "menu_name": "정성떡볶이",
+            "price": "6,900원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241209_117%2F1733717441920bpsPD_JPEG%2F%25C1%25A4%25BC%25BA_%25B4%25AB%25B2%25C9%25C4%25A1%25C1%25EE_%25B6%25B1%25BA%25BA%25C0%25CC.jpg",
+            "menu_name": "정성 눈꽃치즈 떡볶이",
+            "price": "8,900원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241209_256%2F173371742905939UvD_JPEG%2F%25BF%25EC%25BB%25EF%25B0%25E3_%25B6%25B1%25BA%25BA%25C0%25CC.jpg",
+            "menu_name": "우삼겹 떡볶이",
+            "price": "9,900원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241209_227%2F1733717418532lHcTb_JPEG%2F%25BB%25EC%25BE%25F3%25C0%25BD_%25B3%25C3%25B8%25F0%25B9%25D0.jpg",
+            "menu_name": "살얼음 냉모밀",
+            "price": "6,900원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241209_120%2F17337174087163yNzi_JPEG%2F%25BB%25F5%25C4%25DE%25B4%25DE%25C4%25DE%25C2%25CC%25B8%25E9.jpg",
+            "menu_name": "새콤달콤 쫄면",
+            "price": "6,900원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241209_142%2F17337173959473NMdJ_JPEG%2F%25BA%25F1%25BA%25F6%25B8%25B8%25B5%25CE.jpg",
+            "menu_name": "비빔만두",
+            "price": "6,900원"
+        }
+    ]
+}

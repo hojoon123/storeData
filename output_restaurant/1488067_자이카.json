@@ -1,0 +1,668 @@
+{
+    "store_name": "자이카",
+    "store_location": "경기 동두천시 중앙로 321",
+    "loc_x": "204765.836461815",
+    "loc_y": "489722.716621219",
+    "menu": [
+        {
+            "category": "대표메뉴",
+            "img_src": "",
+            "menu_name": "난(Naan)",
+            "price": "3,000원"
+        },
+        {
+            "category": "대표메뉴",
+            "img_src": "",
+            "menu_name": "갈릭 난 (Garlic Naan)",
+            "price": "4,000원"
+        },
+        {
+            "category": "대표메뉴",
+            "img_src": "",
+            "menu_name": "망고 라씨 (Mango Lassi)",
+            "price": "5,000원"
+        },
+        {
+            "category": "bread 빵",
+            "img_src": "",
+            "menu_name": "난(Naan)",
+            "price": "3,000원"
+        },
+        {
+            "category": "bread 빵",
+            "img_src": "",
+            "menu_name": "갈릭 난 (Garlic Naan)",
+            "price": "4,000원"
+        },
+        {
+            "category": "bread 빵",
+            "img_src": "",
+            "menu_name": "버터 난 (Butter Naan)",
+            "price": "3,500원"
+        },
+        {
+            "category": "bread 빵",
+            "img_src": "",
+            "menu_name": "치즈 난 (Cheese Naan)",
+            "price": "4,000원"
+        },
+        {
+            "category": "bread 빵",
+            "img_src": "",
+            "menu_name": "치즈갈릭 난 (Cheese Garlic Naan)",
+            "price": "5,000원"
+        },
+        {
+            "category": "bread 빵",
+            "img_src": "",
+            "menu_name": "캐시미리 난 (Kashmiri Naan)",
+            "price": "6,000원"
+        },
+        {
+            "category": "bread 빵",
+            "img_src": "",
+            "menu_name": "탄두리 로티 (Tandoori Roti)",
+            "price": "3,000원"
+        },
+        {
+            "category": "밥",
+            "img_src": "",
+            "menu_name": "플레인 라이스 (Plain Rice)",
+            "price": "4,000원"
+        },
+        {
+            "category": "밥",
+            "img_src": "",
+            "menu_name": "한국밥 (Korean Rice)",
+            "price": "2,000원"
+        },
+        {
+            "category": "밥",
+            "img_src": "",
+            "menu_name": "지라 라이스 (Jira Rice)",
+            "price": "7,000원"
+        },
+        {
+            "category": "밥",
+            "img_src": "",
+            "menu_name": "후라이드 라이스 (Fried Rice)(보통)",
+            "price": "10,000원"
+        },
+        {
+            "category": "밥",
+            "img_src": "",
+            "menu_name": "후라이드 라이스 (Fried Rice)(야채)",
+            "price": "12,000원"
+        },
+        {
+            "category": "밥",
+            "img_src": "",
+            "menu_name": "후라이드 라이스 (Fried Rice)(치킨)",
+            "price": "12,000원"
+        },
+        {
+            "category": "밥",
+            "img_src": "",
+            "menu_name": "후라이드 라이스 (Fried Rice)(새우)",
+            "price": "14,000원"
+        },
+        {
+            "category": "밥",
+            "img_src": "",
+            "menu_name": "후라이드 라이스 (Fried Rice)(계란)",
+            "price": "10,000원"
+        },
+        {
+            "category": "밥",
+            "img_src": "",
+            "menu_name": "비리야니 (Briyani)(야채)",
+            "price": "12,000원"
+        },
+        {
+            "category": "밥",
+            "img_src": "",
+            "menu_name": "비리야니 (Briyani)(치킨)",
+            "price": "13,000원"
+        },
+        {
+            "category": "밥",
+            "img_src": "",
+            "menu_name": "플라우라이스 (Pulao Rice)",
+            "price": "10,000원"
+        },
+        {
+            "category": "밥",
+            "img_src": "",
+            "menu_name": "레몬 라이스 (Lemon Rice)",
+            "price": "10,000원"
+        },
+        {
+            "category": "디저트",
+            "img_src": "",
+            "menu_name": "굴랍자문 (Gulab Jamun)(2pcs)",
+            "price": "4,000원"
+        },
+        {
+            "category": "디저트",
+            "img_src": "",
+            "menu_name": "라스굴라 (Rasgulla)(2pcs)",
+            "price": "4,000원"
+        },
+        {
+            "category": "디저트",
+            "img_src": "",
+            "menu_name": "후르츠 크림 (Fruit Cream)",
+            "price": "6,000원"
+        },
+        {
+            "category": "라씨",
+            "img_src": "",
+            "menu_name": "굴랍자문 ( SALTED LASSI )",
+            "price": "5,000원"
+        },
+        {
+            "category": "라씨",
+            "img_src": "",
+            "menu_name": "망고 라씨 (Mango Lassi)",
+            "price": "5,000원"
+        },
+        {
+            "category": "라씨",
+            "img_src": "",
+            "menu_name": "딸기 라씨 (Strawberry Lassi)",
+            "price": "5,000원"
+        },
+        {
+            "category": "라씨",
+            "img_src": "",
+            "menu_name": "망고라씨 (Mango Shake)",
+            "price": "5,000원"
+        },
+        {
+            "category": "라씨",
+            "img_src": "",
+            "menu_name": "망고 쉐이크 ( Mango Shake)",
+            "price": "5,000원"
+        },
+        {
+            "category": "라씨",
+            "img_src": "",
+            "menu_name": "딸기 쉐이크 (Strawberry Shake)",
+            "price": "5,000원"
+        },
+        {
+            "category": "라씨",
+            "img_src": "",
+            "menu_name": "달콤한 라씨 ( SWEET LASSI )(1)",
+            "price": "5,000원"
+        },
+        {
+            "category": "차 /음료",
+            "img_src": "",
+            "menu_name": "차이 (Coffee)",
+            "price": "4,000원"
+        },
+        {
+            "category": "차 /음료",
+            "img_src": "",
+            "menu_name": "마살라 차이 ( Masala Chai)",
+            "price": "4,000원"
+        },
+        {
+            "category": "차 /음료",
+            "img_src": "",
+            "menu_name": "콜라 (Cola)(355ML)",
+            "price": "3,000원"
+        },
+        {
+            "category": "차 /음료",
+            "img_src": "",
+            "menu_name": "스프라이트 (Sprite)(355ML)",
+            "price": "3,000원"
+        },
+        {
+            "category": "차 /음료",
+            "img_src": "",
+            "menu_name": "환타 (Fanta)(355ML)",
+            "price": "3,000원"
+        },
+        {
+            "category": "콘티넨탈 요리",
+            "img_src": "",
+            "menu_name": "베지 누들 (Veg. Noodles)",
+            "price": "12,000원"
+        },
+        {
+            "category": "콘티넨탈 요리",
+            "img_src": "",
+            "menu_name": "치킨 누들 (Chicken Noodles)",
+            "price": "13,000원"
+        },
+        {
+            "category": "콘티넨탈 요리",
+            "img_src": "",
+            "menu_name": "후라이 라이스 위드 먼추리안Rice Manchurian",
+            "price": "15,000원"
+        },
+        {
+            "category": "스프",
+            "img_src": "",
+            "menu_name": "토마토 스프 (Tomato Soup)",
+            "price": "4,000원"
+        },
+        {
+            "category": "스프",
+            "img_src": "",
+            "menu_name": "핫 앤 샤워 스프(Veg. Hot &sour soup)",
+            "price": "4,000원"
+        },
+        {
+            "category": "스프",
+            "img_src": "",
+            "menu_name": "치킨 핫 앤 샤워 스프 (Chicken Soup)",
+            "price": "4,000원"
+        },
+        {
+            "category": "샐러드",
+            "img_src": "",
+            "menu_name": "신선한 야채 샐러드 (Green salad)",
+            "price": "4,000원"
+        },
+        {
+            "category": "샐러드",
+            "img_src": "",
+            "menu_name": "카춤밥 샐러드 (Kachumber Salad)",
+            "price": "5,000원"
+        },
+        {
+            "category": "샐러드",
+            "img_src": "",
+            "menu_name": "마살라파파드 (Masala Papad)",
+            "price": "4,000원"
+        },
+        {
+            "category": "샐러드",
+            "img_src": "",
+            "menu_name": "플레인 라이타 (Plain Raita)",
+            "price": "4,000원"
+        },
+        {
+            "category": "샐러드",
+            "img_src": "",
+            "menu_name": "후르츠 라이타 (Fruit Raita)",
+            "price": "5,000원"
+        },
+        {
+            "category": "STARTERS",
+            "img_src": "",
+            "menu_name": "사모사 (Samosa)(1pc)",
+            "price": "3,000원"
+        },
+        {
+            "category": "STARTERS",
+            "img_src": "",
+            "menu_name": "허니 칠리 포테이토",
+            "price": "9,500원"
+        },
+        {
+            "category": "STARTERS",
+            "img_src": "",
+            "menu_name": "차나 차팟 (Channa Chatpat)",
+            "price": "7,000원"
+        },
+        {
+            "category": "STARTERS",
+            "img_src": "",
+            "menu_name": "알루 차트 (Aloo Chaat)",
+            "price": "7,000원"
+        },
+        {
+            "category": "STARTERS",
+            "img_src": "",
+            "menu_name": "파니르 칠리 (Paneer Chilli)",
+            "price": "14,000원"
+        },
+        {
+            "category": "STARTERS",
+            "img_src": "",
+            "menu_name": "치킨 칠리 (Chicken Chilli)",
+            "price": "14,000원"
+        },
+        {
+            "category": "STARTERS",
+            "img_src": "",
+            "menu_name": "프라운 후라이 (Prawn Fries)",
+            "price": "25,000원"
+        },
+        {
+            "category": "STARTERS",
+            "img_src": "",
+            "menu_name": "베지 파고라 (Veg. Pakora)",
+            "price": "10,000원"
+        },
+        {
+            "category": "STARTERS",
+            "img_src": "",
+            "menu_name": "자이카 special 치킨 휭거 (Zaika Spl.",
+            "price": "15,000원"
+        },
+        {
+            "category": "CURRY Vegetable",
+            "img_src": "",
+            "menu_name": "파니르 버터 마살라Paneer Butter masala",
+            "price": "14,000원"
+        },
+        {
+            "category": "CURRY Vegetable",
+            "img_src": "",
+            "menu_name": "팔락 파니르 (Palak Paneer)",
+            "price": "13,000원"
+        },
+        {
+            "category": "CURRY Vegetable",
+            "img_src": "",
+            "menu_name": "파니르 사히 (Paneer Shahi)",
+            "price": "14,000원"
+        },
+        {
+            "category": "CURRY Vegetable",
+            "img_src": "",
+            "menu_name": "카다히 베지 (Kadai Veg.)",
+            "price": "14,000원"
+        },
+        {
+            "category": "CURRY Vegetable",
+            "img_src": "",
+            "menu_name": "알루 고비 아드라키 (Aloo Gobi Adraki)",
+            "price": "13,000원"
+        },
+        {
+            "category": "CURRY Vegetable",
+            "img_src": "",
+            "menu_name": "지라 알루 (Zeera Aloo)",
+            "price": "8,500원"
+        },
+        {
+            "category": "CURRY Vegetable",
+            "img_src": "",
+            "menu_name": "머쉬룸 마타르 (Mashroom Matter)",
+            "price": "12,000원"
+        },
+        {
+            "category": "CURRY Vegetable",
+            "img_src": "",
+            "menu_name": "마타르 메티 말라이(Matar Methi Malai)",
+            "price": "13,000원"
+        },
+        {
+            "category": "CURRY Vegetable",
+            "img_src": "",
+            "menu_name": "머슈룸 도 피아자 (Mashroom Do Piaza)",
+            "price": "12,000원"
+        },
+        {
+            "category": "CURRY Vegetable",
+            "img_src": "",
+            "menu_name": "카다히 파니르 (Kadahi Paneer)",
+            "price": "14,000원"
+        },
+        {
+            "category": "CURRY Vegetable",
+            "img_src": "",
+            "menu_name": "달 마카니 (Dal Makhani)",
+            "price": "12,000원"
+        },
+        {
+            "category": "CURRY Vegetable",
+            "img_src": "",
+            "menu_name": "달 후라이 (Dal Fry)",
+            "price": "10,000원"
+        },
+        {
+            "category": "CURRY Vegetable",
+            "img_src": "",
+            "menu_name": "달 타드카 (Dal Tadka)",
+            "price": "11,000원"
+        },
+        {
+            "category": "CURRY Vegetable",
+            "img_src": "",
+            "menu_name": "차나 마살라 (Channa Masala)",
+            "price": "12,000원"
+        },
+        {
+            "category": "CURRY Vegetable",
+            "img_src": "",
+            "menu_name": "파니르 도 피아자 (Paneer Do Piaza)",
+            "price": "13,000원"
+        },
+        {
+            "category": "CURRY Vegetable",
+            "img_src": "",
+            "menu_name": "파니르 라바다르 (Paneer Lababdar)",
+            "price": "15,000원"
+        },
+        {
+            "category": "CURRY Vegetable",
+            "img_src": "",
+            "menu_name": "말라이 코프타 (Malai Kofta)",
+            "price": "14,000원"
+        },
+        {
+            "category": "CURRY chicken",
+            "img_src": "",
+            "menu_name": "치킨 커리 (Chicken Curry)",
+            "price": "12,000원"
+        },
+        {
+            "category": "CURRY chicken",
+            "img_src": "",
+            "menu_name": "치킨 티카 마살라Chicken Tikka Masala",
+            "price": "14,000원"
+        },
+        {
+            "category": "CURRY chicken",
+            "img_src": "",
+            "menu_name": "치킨 버터 커리(Chicken Butter Curry)",
+            "price": "14,000원"
+        },
+        {
+            "category": "CURRY chicken",
+            "img_src": "",
+            "menu_name": "치킨 빈달루 (Chicken Vindaloo)",
+            "price": "13,000원"
+        },
+        {
+            "category": "CURRY chicken",
+            "img_src": "",
+            "menu_name": "치킨 삭 왈라 (Chicken Saag Wala)",
+            "price": "14,000원"
+        },
+        {
+            "category": "CURRY chicken",
+            "img_src": "",
+            "menu_name": "치킨 도피아자 (Chicken Do Piaza)",
+            "price": "14,000원"
+        },
+        {
+            "category": "CURRY chicken",
+            "img_src": "",
+            "menu_name": "치킨 라바다르 (Chicken Lababdar)",
+            "price": "15,000원"
+        },
+        {
+            "category": "CURRY chicken",
+            "img_src": "",
+            "menu_name": "카다히 치킨 (Kadahi Chicken)",
+            "price": "15,000원"
+        },
+        {
+            "category": "CURRY chicken",
+            "img_src": "",
+            "menu_name": "무글라이 치킨 Mughlai Chicken)",
+            "price": "16,000원"
+        },
+        {
+            "category": "Lamb",
+            "img_src": "",
+            "menu_name": "램 커리 (Lamb Curry)",
+            "price": "14,000원"
+        },
+        {
+            "category": "Lamb",
+            "img_src": "",
+            "menu_name": "램 도 피아자 (Lamb Do Piazza)",
+            "price": "14,000원"
+        },
+        {
+            "category": "Lamb",
+            "img_src": "",
+            "menu_name": "램 마살라 (Lamb Masala)",
+            "price": "15,000원"
+        },
+        {
+            "category": "Lamb",
+            "img_src": "",
+            "menu_name": "까다이 머튼 (Kadai Motton)",
+            "price": "14,000원"
+        },
+        {
+            "category": "Lamb",
+            "img_src": "",
+            "menu_name": "램 빈달루 (Lamb Vindaloo)",
+            "price": "14,000원"
+        },
+        {
+            "category": "Lamb",
+            "img_src": "",
+            "menu_name": "램 조간 조시 (Lamb Rogan Josh)",
+            "price": "15,000원"
+        },
+        {
+            "category": "Lamb",
+            "img_src": "",
+            "menu_name": "램 티카 마살라 (Lamb Tikka Masala)",
+            "price": "15,000원"
+        },
+        {
+            "category": "seafood",
+            "img_src": "",
+            "menu_name": "프라운 커리 (Prawn Curry)",
+            "price": "13,000원"
+        },
+        {
+            "category": "seafood",
+            "img_src": "",
+            "menu_name": "프라운 마살라 커리 (Prawn Masala Curry",
+            "price": "14,000원"
+        },
+        {
+            "category": "바비큐",
+            "img_src": "",
+            "menu_name": "탄두리 치킨 (Tandoori Chicken)(FULL 한마리)",
+            "price": "18,000원"
+        },
+        {
+            "category": "바비큐",
+            "img_src": "",
+            "menu_name": "탄두리 치킨 (Tandoori Chicken)(HALF 반마리)",
+            "price": "10,000원"
+        },
+        {
+            "category": "바비큐",
+            "img_src": "",
+            "menu_name": "치킨티카 (Chicken Tikka)(8pcs)",
+            "price": "14,000원"
+        },
+        {
+            "category": "바비큐",
+            "img_src": "",
+            "menu_name": "치킨 말라이 티카(Chicken Malai Tikka)(8pcs)",
+            "price": "14,000원"
+        },
+        {
+            "category": "바비큐",
+            "img_src": "",
+            "menu_name": "램 티카 (Lamb Tikka)",
+            "price": "16,000원"
+        },
+        {
+            "category": "바비큐",
+            "img_src": "",
+            "menu_name": "파니르 티카 (Paneer Tikka)",
+            "price": "15,000원"
+        },
+        {
+            "category": "바비큐",
+            "img_src": "",
+            "menu_name": "파니르 말라이 티카(Paneer Malai Tikka)",
+            "price": "15,000원"
+        },
+        {
+            "category": "바비큐",
+            "img_src": "",
+            "menu_name": "아프가니 치킨 (Afghani Chicken)(FULL)",
+            "price": "20,000원"
+        },
+        {
+            "category": "바비큐",
+            "img_src": "",
+            "menu_name": "아프가니 치킨 (Afghani Chicken)(HALF)",
+            "price": "12,000원"
+        },
+        {
+            "category": "바비큐",
+            "img_src": "",
+            "menu_name": "치킨 시크 케밥 (Chicken Seekh Kabab)",
+            "price": "18,000원"
+        },
+        {
+            "category": "바비큐",
+            "img_src": "",
+            "menu_name": "램 시크 케밥 (Lamb Seekh Kabab)",
+            "price": "20,000원"
+        },
+        {
+            "category": "바비큐",
+            "img_src": "",
+            "menu_name": "모듬 탄두리 (Tandoori Platter)",
+            "price": "22,000원"
+        },
+        {
+            "category": "비채식주의자 탈리(NON VEGETARIAN)",
+            "img_src": "",
+            "menu_name": "1명 ( 1 PERSON )(1)",
+            "price": "22,000원"
+        },
+        {
+            "category": "비채식주의자 탈리(NON VEGETARIAN)",
+            "img_src": "",
+            "menu_name": "1명 ( 1 PERSON )(2)",
+            "price": "42,000원"
+        },
+        {
+            "category": "비채식주의자 탈리(NON VEGETARIAN)",
+            "img_src": "",
+            "menu_name": "1명 ( 1 PERSON )(3)",
+            "price": "63,000원"
+        },
+        {
+            "category": "채식 탈리 세트 (VEGETARIAN SET)",
+            "img_src": "",
+            "menu_name": "채식 탈리 세트(VEGETARIAN THALI SET)(1)",
+            "price": "20,000원"
+        },
+        {
+            "category": "채식 탈리 세트 (VEGETARIAN SET)",
+            "img_src": "",
+            "menu_name": "채식 탈리 세트(VEGETARIAN THALI SET)(2)",
+            "price": "39,000원"
+        },
+        {
+            "category": "채식 탈리 세트 (VEGETARIAN SET)",
+            "img_src": "",
+            "menu_name": "채식 탈리 세트(VEGETARIAN THALI SET)(3)",
+            "price": "58,000원"
+        }
+    ]
+}

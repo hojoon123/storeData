@@ -1,0 +1,104 @@
+{
+    "store_name": "반지하 오창점",
+    "store_location": "충북 청주시 청원구 오창읍 주성1길 12-2 1층 104, 105호",
+    "loc_x": "240299.189110848",
+    "loc_y": "359145.393521307",
+    "menu": [
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240920_297%2F1726822892768V69rS_PNG%2F%25C1%25A6%25B8%25F1%25C0%25BB-%25C0%25D4%25B7%25C2%25C7%25D8%25C1%25D6%25BC%25BC%25BF%25E4_-013.png",
+            "menu_name": "도야지 한근",
+            "price": "41,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240920_149%2F172682294100755HhI_PNG%2F001.png",
+            "menu_name": "항정살",
+            "price": "15,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240920_100%2F1726822927024gGbB9_PNG%2F002.png",
+            "menu_name": "숙성삼겹",
+            "price": "14,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240920_93%2F1726822933888wJIF4_PNG%2F003.png",
+            "menu_name": "꼬들목살",
+            "price": "14,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240920_212%2F1726822964212IR2bM_PNG%2F005.png",
+            "menu_name": "양념갈매기",
+            "price": "14,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240920_234%2F1726822981054Eu528_PNG%2F006.png",
+            "menu_name": "돼지갈비",
+            "price": "14,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240920_77%2F1726822907941xbTUQ_PNG%2F004.png",
+            "menu_name": "양념꼬리",
+            "price": "12,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240920_118%2F1726822990480XYq4q_PNG%2F010.png",
+            "menu_name": "해물라면",
+            "price": "6,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240920_223%2F1726823002405qxR4S_PNG%2F011.png",
+            "menu_name": "물냉면",
+            "price": "7,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240920_165%2F1726823008195q4bfC_PNG%2F012.png",
+            "menu_name": "비빔냉면",
+            "price": "7,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240920_93%2F1726823035109cSSnA_PNG%2F009.png",
+            "menu_name": "김치말이국수",
+            "price": "6,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240920_138%2F1726823060059PCszy_PNG%2F008.png",
+            "menu_name": "시골된장",
+            "price": "3,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241017_224%2F1729145920163lg8uV_PNG%2FKakaoTalk_20241016_010118416.png",
+            "menu_name": "계란찜",
+            "price": "2,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240609_211%2F1717932323957V57VY_JPEG%2F3A97A4CF-20B8-4A88-8CC9-294C5AD9454C.jpeg",
+            "menu_name": "산토리 하이볼",
+            "price": "7,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240609_221%2F1717932364694BAv7X_JPEG%2F216C5857-A2D8-4E0F-B2C6-3E6E1C4C9879.jpeg",
+            "menu_name": "얼그레이 하이볼",
+            "price": "7,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240609_108%2F17179323565895WSD7_JPEG%2FA9C1419C-85CA-4449-A584-742E87795A7B.jpeg",
+            "menu_name": "연태 하이볼",
+            "price": "7,000원"
+        }
+    ]
+}

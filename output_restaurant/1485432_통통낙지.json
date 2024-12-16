@@ -1,0 +1,74 @@
+{
+    "store_name": "통통낙지",
+    "store_location": "경남 창원시 마산회원구 구암북2길 136 1층",
+    "loc_x": "345416.715569294",
+    "loc_y": "196375.808154735",
+    "menu": [
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241203_196%2F1733211206939JAADX_JPEG%2FKakaoTalk_20241111_174510376_02.jpg",
+            "menu_name": "낙지볶음",
+            "price": "10,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241203_16%2F1733211225813sGFOL_JPEG%2FKakaoTalk_20241115_161656638.jpg",
+            "menu_name": "콩나물낙지",
+            "price": "11,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241203_191%2F1733211296550feSuM_JPEG%2FKakaoTalk_20241111_174510376_01.jpg",
+            "menu_name": "낙지해물전",
+            "price": "15,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241203_237%2F1733211242963lMWB5_JPEG%2FKakaoTalk_20241111_174510376.jpg",
+            "menu_name": "불낙전골",
+            "price": "38,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241203_167%2F173321151508232oMC_JPEG%2FKakaoTalk_20241120_171859647.jpg",
+            "menu_name": "산낙지버섯전골(소)",
+            "price": "45,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241203_144%2F1733211571270d8c8y_JPEG%2FKakaoTalk_20241120_141612260.jpg",
+            "menu_name": "낙곱전골",
+            "price": "38,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241203_268%2F17332113639000KhFy_JPEG%2FKakaoTalk_20241203_163154991.jpg",
+            "menu_name": "낙새/ 낙곱 / 낙곱새",
+            "price": "11,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241203_274%2F17332115416306AQl6_JPEG%2FKakaoTalk_20241203_163154991.jpg",
+            "menu_name": "연포탕",
+            "price": "50,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241203_136%2F1733211437105vdgA1_JPEG%2FKakaoTalk_20241111_174510376_02.jpg",
+            "menu_name": "산낙지볶음",
+            "price": "18,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241203_30%2F1733211410891jToPe_JPEG%2FKakaoTalk_20241115_161656638.jpg",
+            "menu_name": "콩나물산낙지",
+            "price": "18,000원"
+        },
+        {
+            "category": "",
+            "img_src": "",
+            "menu_name": "산낙지회",
+            "price": "변동"
+        }
+    ]
+}

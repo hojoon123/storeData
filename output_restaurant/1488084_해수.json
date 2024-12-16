@@ -1,0 +1,38 @@
+{
+    "store_name": "해수",
+    "store_location": "울산 남구 문수로369번길 4 1층",
+    "loc_x": "408007.800176293",
+    "loc_y": "228549.03206092",
+    "menu": [
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241203_243%2F1733154476594xJNFJ_JPEG%2F1000014176.jpg",
+            "menu_name": "철판두부김치보쌈",
+            "price": "25,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241203_55%2F1733154978747edYcT_JPEG%2F20240720_194456.jpg",
+            "menu_name": "소라무침&소면",
+            "price": "25,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240214_134%2F1707906354271fGAjO_JPEG%2F1707906332440.jpg",
+            "menu_name": "나가사키짬뽕탕",
+            "price": "20,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241203_255%2F1733155063172pTikb_JPEG%2F1000014874.jpg",
+            "menu_name": "대왕계란말이",
+            "price": "18,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241203_268%2F1733155007773I1hqt_JPEG%2F20240720_210855.jpg",
+            "menu_name": "해물부추전",
+            "price": "18,000원"
+        }
+    ]
+}

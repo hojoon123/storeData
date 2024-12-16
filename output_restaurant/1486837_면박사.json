@@ -1,0 +1,14 @@
+{
+    "store_name": "면박사",
+    "store_location": "인천 미추홀구 소성로 317 .1층",
+    "loc_x": "171834.055423952",
+    "loc_y": "437350.812983949",
+    "menu": [
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241203_42%2F1733223631727mYpjH_JPEG%2F20241203_170556.jpg",
+            "menu_name": "잔치국수",
+            "price": "7,000원"
+        }
+    ]
+}

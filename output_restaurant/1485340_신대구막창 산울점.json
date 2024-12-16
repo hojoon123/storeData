@@ -1,0 +1,50 @@
+{
+    "store_name": "신대구막창 산울점",
+    "store_location": "세종 산울7로 11 산울마을7단지 D동 113호",
+    "loc_x": "223404.833949868",
+    "loc_y": "336866.83850089",
+    "menu": [
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241124_234%2F17324078475223J8Pt_JPEG%2FIMG_7129.jpeg",
+            "menu_name": "막창",
+            "price": "8,900원"
+        },
+        {
+            "category": "",
+            "img_src": "",
+            "menu_name": "벌집돼지껍데기",
+            "price": "7,900원"
+        },
+        {
+            "category": "",
+            "img_src": "",
+            "menu_name": "뒷고기",
+            "price": "9,900원"
+        },
+        {
+            "category": "",
+            "img_src": "",
+            "menu_name": "닭목살",
+            "price": "8,900원"
+        },
+        {
+            "category": "",
+            "img_src": "",
+            "menu_name": "염통꼬치",
+            "price": "8,900원"
+        },
+        {
+            "category": "",
+            "img_src": "",
+            "menu_name": "간장오돌뼈",
+            "price": "8,900원"
+        },
+        {
+            "category": "",
+            "img_src": "",
+            "menu_name": "갈매기살",
+            "price": "8,900원"
+        }
+    ]
+}

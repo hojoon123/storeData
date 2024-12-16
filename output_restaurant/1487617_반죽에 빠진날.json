@@ -1,0 +1,14 @@
+{
+    "store_name": "반죽에 빠진날",
+    "store_location": "충북 청주시 흥덕구 풍산로33번길 37-1 1층",
+    "loc_x": "238667.243600534",
+    "loc_y": "347528.474966244",
+    "menu": [
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241206_30%2F1733484990279rKsXB_JPEG%2F%25B4%25D9%25BF%25EE%25B7%25CE%25B5%25E5.jpeg",
+            "menu_name": "만두국",
+            "price": "8,000원"
+        }
+    ]
+}

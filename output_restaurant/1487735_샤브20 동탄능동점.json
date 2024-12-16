@@ -1,0 +1,32 @@
+{
+    "store_name": "샤브20 동탄능동점",
+    "store_location": "경기 화성시 동탄지성로 202 1층",
+    "loc_x": "204717.632680888",
+    "loc_y": "412306.821838611",
+    "menu": [
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241210_222%2F1733789351510MFcmz_JPEG%2F1000004800.jpg",
+            "menu_name": "평일 런치",
+            "price": "20,900원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241210_264%2F1733789274149Bnt4W_JPEG%2F1000004800.jpg",
+            "menu_name": "평일디너, 주말 공휴일",
+            "price": "24,900원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241210_218%2F1733789240331U0NUM_JPEG%2F1000004800.jpg",
+            "menu_name": "초등학생",
+            "price": "12,900원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241210_6%2F1733789208811Rkzhl_JPEG%2F1000004800.jpg",
+            "menu_name": "미취학아동",
+            "price": "6,500원"
+        }
+    ]
+}

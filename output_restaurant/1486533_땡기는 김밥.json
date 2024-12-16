@@ -1,0 +1,62 @@
+{
+    "store_name": "땡기는 김밥",
+    "store_location": "강원 횡성군 우천면 수남로 345 2동",
+    "loc_x": "294097.83420207",
+    "loc_y": "440324.326697762",
+    "menu": [
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241214_89%2F1734164577947j5GAo_JPEG%2FIMG_4703.jpeg",
+            "menu_name": "원조김밥",
+            "price": "3,000원"
+        },
+        {
+            "category": "",
+            "img_src": "",
+            "menu_name": "떡라면",
+            "price": "6,000원"
+        },
+        {
+            "category": "",
+            "img_src": "",
+            "menu_name": "라면",
+            "price": "5,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241214_253%2F1734164606874SX07R_JPEG%2FIMG_4706.jpeg",
+            "menu_name": "치즈돈까스",
+            "price": "11,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241214_112%2F1734164594717B0ce2_JPEG%2FIMG_4705.jpeg",
+            "menu_name": "수제돈까스",
+            "price": "10,000원"
+        },
+        {
+            "category": "",
+            "img_src": "",
+            "menu_name": "샐러드김밥",
+            "price": "5,000원"
+        },
+        {
+            "category": "",
+            "img_src": "",
+            "menu_name": "소고기김밥",
+            "price": "5,000원"
+        },
+        {
+            "category": "",
+            "img_src": "",
+            "menu_name": "참치김밥",
+            "price": "5,000원"
+        },
+        {
+            "category": "",
+            "img_src": "",
+            "menu_name": "치즈김밥",
+            "price": "4,000원"
+        }
+    ]
+}

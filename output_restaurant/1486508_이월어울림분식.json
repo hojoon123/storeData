@@ -1,0 +1,20 @@
+{
+    "store_name": "이월어울림분식",
+    "store_location": "충북 진천군 이월면 송림1길 14 4호",
+    "loc_x": "238040.713308914",
+    "loc_y": "381018.929484125",
+    "menu": [
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241201_251%2F1733064059774eR40Q_JPEG%2FIMG_2359.jpeg",
+            "menu_name": "떡볶이",
+            "price": "3,000원"
+        },
+        {
+            "category": "",
+            "img_src": "",
+            "menu_name": "어묵",
+            "price": "1,000원"
+        }
+    ]
+}

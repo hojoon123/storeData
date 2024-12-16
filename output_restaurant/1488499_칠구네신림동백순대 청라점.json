@@ -1,0 +1,44 @@
+{
+    "store_name": "칠구네신림동백순대 청라점",
+    "store_location": "인천 서구 청라커낼로260번길 15 청라스파렉스 115호",
+    "loc_x": "168673.116652353",
+    "loc_y": "447818.843985411",
+    "menu": [
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20231210_170%2F1702180439072rwDOs_JPEG%2F1000021815.jpg",
+            "menu_name": "백순대곱창볶음",
+            "price": "12,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20231210_97%2F1702180782489mepq9_JPEG%2F1000021825.jpg",
+            "menu_name": "순대국(행사)",
+            "price": "7,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20231210_50%2F1702180496769ayHvj_JPEG%2F1000021838.jpg",
+            "menu_name": "양념순대곱창볶음",
+            "price": "13,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20231210_64%2F1702180826846NNVxw_JPEG%2F1000021825.jpg",
+            "menu_name": "순대국(특)행사",
+            "price": "9,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20231210_89%2F17021809614663IolY_JPEG%2F1000021836.jpg",
+            "menu_name": "순대곱창전골(중)",
+            "price": "26,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20231210_202%2F1702180928002NM37B_JPEG%2F1000021836.jpg",
+            "menu_name": "순대곱창전골(대)",
+            "price": "37,000원"
+        }
+    ]
+}

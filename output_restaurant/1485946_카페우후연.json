@@ -1,0 +1,14 @@
+{
+    "store_name": "카페우후연",
+    "store_location": "충북 충주시 수안보면 수안보로 258 카페 우후연",
+    "loc_x": "288165.705195297",
+    "loc_y": "372512.645092706",
+    "menu": [
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241203_273%2F1733209867223aui8N_JPEG%2FIMG_1488.jpeg",
+            "menu_name": "복숭아홍차",
+            "price": "6,500원"
+        }
+    ]
+}

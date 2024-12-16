@@ -1,0 +1,68 @@
+{
+    "store_name": "행복한전집",
+    "store_location": "경북 포항시 남구 연일읍 철강로25번길 60 1층",
+    "loc_x": "411496.639939667",
+    "loc_y": "279949.422100433",
+    "menu": [
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241206_284%2F1733476485852God4D_JPEG%2F20240618_201946.jpg",
+            "menu_name": "오징어튀김",
+            "price": "1,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241206_41%2F1733476340090IziRL_JPEG%2F1529999071411.jpg",
+            "menu_name": "고구마튀김",
+            "price": "2,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241206_153%2F1733476506434XLqKy_JPEG%2F20240930_141843.jpg",
+            "menu_name": "새우튀김",
+            "price": "1,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241206_179%2F1733476284549zhogj_JPEG%2F20230417_153041.jpg",
+            "menu_name": "버섯전",
+            "price": "2,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241206_85%2F1733475976610LAjcr_JPEG%2F20220124_201419.jpg",
+            "menu_name": "부추전",
+            "price": "4,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241206_181%2F1733475924706a2yEl_JPEG%2F20210312_164923.jpg",
+            "menu_name": "감자전",
+            "price": "4,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241206_68%2F1733475834532SdBBO_JPEG%2F20240701_171524.jpg",
+            "menu_name": "수제동그랑땡",
+            "price": "2,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241206_233%2F1733475730344J9am6_JPEG%2F20220131_105431.jpg",
+            "menu_name": "삼색전",
+            "price": "2,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241206_193%2F1733475585311BqbUH_JPEG%2F20221004_152711.jpg",
+            "menu_name": "명태전",
+            "price": "2,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241206_16%2F1733475523371CABD5_JPEG%2F20220131_105249.jpg",
+            "menu_name": "육전",
+            "price": "1,000원"
+        }
+    ]
+}

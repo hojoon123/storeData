@@ -1,0 +1,380 @@
+{
+    "store_name": "한앤둘치킨 수성중동점",
+    "store_location": "대구 수성구 수성로35길 50 1층 9호",
+    "loc_x": "",
+    "loc_y": "",
+    "menu": [
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241210_288%2F1733793336722zx9v1_PNG%2F%25BB%25E7%25C3%25B5_%25BA%25ED%25B7%25A2_%25C4%25A1%25C5%25B2.png",
+            "menu_name": "사천블랙치킨",
+            "price": "22,900원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241210_68%2F1733793395117N9Jqz_PNG%2F%25C1%25F8%25BB%25E7%25C3%25B5%25BA%25ED%25B7%25A2.png",
+            "menu_name": "진사천블랙치킨",
+            "price": "24,900원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241210_86%2F1733792880691D3nup_PNG%2F%25B7%25B9%25B5%25E5_%25B0%25ED%25BA%25ED%25B8%25B0.png",
+            "menu_name": "레드 고블린",
+            "price": "23,900원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241210_66%2F17337926681167IHfH_PNG%2F%25C1%25F8%25B7%25CE_%25C4%25A1%25C5%25B2_%25B6%25B1%25BA%25BA%25C0%25CC.png",
+            "menu_name": "진로 치킨떡볶이",
+            "price": "26,900원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241210_141%2F1733793730413HPdcX_PNG%2F%25C8%25C4%25B6%25F3%25C0%25CC%25B5%25E5_%25C4%25A1%25C5%25B2.png",
+            "menu_name": "후라이드 치킨",
+            "price": "19,900원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241210_70%2F17337932270277Vi4a_PNG%2F%25B0%25A3%25C0%25E5_%25C4%25A1%25C5%25B2.png",
+            "menu_name": "간장치킨",
+            "price": "21,900원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241210_163%2F1733793373725UfJhW_PNG%2F%25BE%25E7%25B3%25E4_%25C4%25A1%25C5%25B2.png",
+            "menu_name": "양념치킨",
+            "price": "21,900원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241210_41%2F1733793704610Q8Mvn_PNG%2F%25C8%25C4%25B6%25F3%25C0%25CC%25B5%25E5_%25B7%25B9%25B5%25E5_%25B0%25ED%25BA%25ED%25B8%25B0.png",
+            "menu_name": "후라이드 레드고블린",
+            "price": "24,900원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241210_229%2F17337935867555k5vj_PNG%2F%25C8%25C4%25B6%25F3%25C0%25CC%25B5%25E5_%25B0%25ED%25BA%25ED%25B8%25B0.png",
+            "menu_name": "후라이드 고블린",
+            "price": "23,900원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241210_70%2F1733793462850HnwJA_PNG%2F%25C8%25AD%25C0%25CC%25C6%25AE_%25C4%25A1%25C5%25B2.png",
+            "menu_name": "화이트치킨",
+            "price": "22,900원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241210_62%2F1733793428682eGsKV_PNG%2F%25C4%25A1%25C1%25EE_%25BB%25D1%25B8%25B0_%25C4%25A1%25C5%25B2.png",
+            "menu_name": "치즈뿌린치킨",
+            "price": "21,900원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241210_232%2F1733793313328RNHiF_PNG%2F%25BA%25D2%25B4%25DF_%25C4%25A1%25C5%25B2.png",
+            "menu_name": "불닭치킨",
+            "price": "21,900원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241210_290%2F1733793290381HrJy4_PNG%2F%25B9%25DD%25B9%25DD_%25C4%25A1%25C5%25B2.png",
+            "menu_name": "반반치킨",
+            "price": "21,900원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241210_151%2F1733793256335Oko5U_PNG%2F%25B8%25B6%25B4%25C3_%25C4%25A1%25C5%25B2.png",
+            "menu_name": "마늘치킨",
+            "price": "22,900원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241210_233%2F1733793118374vF2MW_PNG%2F%25BF%25C0%25BA%25EC%25B1%25B8%25C0%25CC_%25BF%25C0%25B8%25AE%25C1%25F6%25B3%25AF.png",
+            "menu_name": "오븐구이 오리지날",
+            "price": "18,900원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241210_210%2F1733793095441IcYWi_PNG%2F%25BF%25C0%25BA%25EC%25B1%25B8%25C0%25CC_%25B9%25D9%25BA%25A3%25C5%25A5.png",
+            "menu_name": "오븐구이 바베큐맛",
+            "price": "20,900원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241210_298%2F1733793072495v2AsY_PNG%2F%25BF%25C0%25BA%25EC%25B1%25B8%25C0%25CC_%25B8%25C5%25BF%25EE%25B8%25C0.png",
+            "menu_name": "오븐구이 매운맛",
+            "price": "20,900원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241210_129%2F1733793044450dPMds_PNG%2F%25BF%25C0%25BA%25EC_%25BC%25F8%25BB%25EC_%25BF%25C0%25B8%25AE%25C1%25F6%25B3%25AF.png",
+            "menu_name": "오븐순살 오리지날",
+            "price": "21,900원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241210_149%2F1733793017979nANz2_PNG%2F%25BF%25C0%25BA%25EC_%25BC%25F8%25BB%25EC_%25B9%25D9%25BA%25A3%25C5%25A5.png",
+            "menu_name": "오븐 순살 바베큐",
+            "price": "23,900원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241210_272%2F1733792978567w3Ahl_PNG%2F%25BF%25C0%25BA%25EC_%25BC%25F8%25BB%25EC_%25B8%25C5%25BF%25EE%25B8%25C0.png",
+            "menu_name": "오븐 순살 매운맛",
+            "price": "23,900원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241210_186%2F1733792943063vSed6_PNG%2F%25B7%25CE%25BD%25BA%25C6%25AE_%25C1%25F8%25BB%25E7%25C3%25B5%25BA%25ED%25B7%25A2.png",
+            "menu_name": "로스트 진사천블랙",
+            "price": "23,900원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241210_282%2F1733792908123dp4f2_PNG%2F%25B7%25CE%25BD%25BA%25C6%25AE_%25BB%25E7%25C3%25B5%25BA%25ED%25B7%25A2.png",
+            "menu_name": "로스트 사천블랙",
+            "price": "21,900원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241210_89%2F1733792759470TVrnH_PNG%2F%25B0%25ED%25BA%25ED%25B8%25B0_%25C4%25A1%25C5%25B2.png",
+            "menu_name": "고블린치킨",
+            "price": "22,900원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241210_181%2F173379263282667okQ_PNG%2F%25BC%25F8%25BB%25EC_%25C8%25C4%25B6%25F3%25C0%25CC%25B5%25E5_%25C4%25A1%25C5%25B2.png",
+            "menu_name": "순살 후라이드",
+            "price": "20,900원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241210_89%2F17337926102020MsXz_PNG%2F%25BC%25F8%25BB%25EC_%25C6%25C4%25B4%25DF_%25C4%25A1%25C5%25B2.png",
+            "menu_name": "순살 파닭치킨",
+            "price": "23,900원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241210_64%2F1733792588828eqlwJ_PNG%2F%25BC%25F8%25BB%25EC_%25BE%25E7%25B3%25E4_%25C4%25A1%25C5%25B2.png",
+            "menu_name": "순살 양념치킨",
+            "price": "22,900원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241210_132%2F1733792569490wj72f_PNG%2F%25BC%25F8%25BB%25EC_%25BA%25D2%25B4%25DF_%25C4%25A1%25C5%25B2.png",
+            "menu_name": "순살 불닭치킨",
+            "price": "22,900원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241210_9%2F1733792543188huWCY_PNG%2F%25BC%25F8%25BB%25EC_%25B9%25DD%25B9%25DD_%25C4%25A1%25C5%25B2.png",
+            "menu_name": "순살 반반치킨",
+            "price": "22,900원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241210_95%2F17337924444362DWO9_PNG%2F%25BC%25F8%25BB%25EC_%25B0%25A3%25C0%25E5_%25C4%25A1%25C5%25B2.png",
+            "menu_name": "순살 간장치킨",
+            "price": "22,900원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241210_131%2F17337924068706WsJa_PNG%2F%25B8%25C5%25C4%25DE_%25B4%25DE%25C4%25DE_%25B0%25AD%25C1%25A4.png",
+            "menu_name": "매콤강정",
+            "price": "22,900원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241210_206%2F1733792373839OImwM_PNG%2F%25B8%25C5%25C4%25DE_%25B4%25DE%25C4%25DE_%25B0%25AD%25C1%25A4.png",
+            "menu_name": "달콤강정",
+            "price": "22,900원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241210_252%2F1733792319282sjAiX_PNG%2F%25C8%25AD%25C0%25CC%25C6%25AE_%25C4%25A1%25C1%25EE%25BA%25BC.png",
+            "menu_name": "화이트치즈볼(5p)",
+            "price": "5,500원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241210_196%2F1733792299954gFUv8_PNG%2F%25C6%25E4%25BD%25BA%25C3%25F2%25B8%25AE_%25BC%25D2%25BD%25C3%25C1%25F6.png",
+            "menu_name": "패스츄리소세지",
+            "price": "5,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241210_89%2F1733792287443Qq59h_PNG%2F%25C6%25C4%25C0%25CE%25BB%25FE%25BA%25A3%25C6%25AE.png",
+            "menu_name": "파인샤베트",
+            "price": "7,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241210_220%2F1733792268639Mc59M_PNG%2F%25C5%25EB_%25B9%25AE%25BE%25EE%25C6%25A2%25B1%25E8.png",
+            "menu_name": "통문어튀김",
+            "price": "16,900원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241210_95%2F1733792250253Srj1Q_PNG%2F%25C4%25A1%25C1%25EE%25BD%25BA%25C6%25BD.png",
+            "menu_name": "치즈스틱(5p)",
+            "price": "5,500원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241210_102%2F1733792229931kmn6C_PNG%2F%25BF%25D5%25BB%25F5%25BF%25EC_%25C6%25A2%25B1%25E8.png",
+            "menu_name": "왕새우튀김(2p)",
+            "price": "5,500원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241210_184%2F1733792212097p5euL_PNG%2F%25BF%25C0%25B4%25D9%25B8%25AE_%25C6%25A2%25B1%25E8.png",
+            "menu_name": "오다리튀김",
+            "price": "5,900원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241210_106%2F1733792196147S1sne_PNG%2F%25BE%25E7%25B3%25E4%25B0%25A8%25C0%25DA.png",
+            "menu_name": "양념감자",
+            "price": "4,400원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241210_268%2F1733792176605J4Wkm_PNG%2F%25BC%25D2%25B6%25B1%25BC%25D2%25B6%25B1.png",
+            "menu_name": "소떡소떡(1p)",
+            "price": "3,500원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241210_24%2F1733792155119oHedy_PNG%2F%25BA%25F2_%25C4%25A1%25C1%25EE%25BD%25BA%25C6%25BD.png",
+            "menu_name": "빅치즈스틱(1p)",
+            "price": "3,500원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241210_62%2F1733792139171YRmgA_PNG%2F%25B7%25CE%25C1%25A6_%25B6%25B1%25BA%25BA%25C0%25CC.png",
+            "menu_name": "로제떡볶이",
+            "price": "12,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241210_245%2F17337919330774SyxF_PNG%2F%25B4%25DF%25B8%25F0%25B7%25A1%25C1%25FD_%25C6%25A2%25B1%25E8.png",
+            "menu_name": "빠삭똥집튀김",
+            "price": "13,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241210_124%2F17337909432373NNmU_PNG%2F%25B1%25B9%25B9%25B0_%25B6%25B1%25BA%25BA%25C0%25CC.png",
+            "menu_name": "국물떡볶이",
+            "price": "6,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241210_30%2F17337908798824P13r_PNG%2F%25C8%25AB%25C7%25D5_%25C2%25AB%25BB%25CD%25C5%25C1.png",
+            "menu_name": "홍합짬뽕탕",
+            "price": "17,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241210_158%2F1733790858559mCOfM_PNG%2F%25C7%25D8%25B9%25B0_%25B4%25A9%25B7%25EE%25C1%25F6%25C5%25C1.png",
+            "menu_name": "해물누룽지탕",
+            "price": "17,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241210_66%2F1733790832146Q2yN6_PNG%2F%25C7%25D1%25C4%25A1%25BF%25CD_%25B6%25A5%25C4%25E1.png",
+            "menu_name": "한치와땅콩",
+            "price": "15,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241210_272%2F1733790792670i0LLm_PNG%2F%25C6%25AB%25B8%25B3%25B4%25DF%25B9%25DF%2528%25C0%25D6%25B4%25DF%25B9%25DF%2529.png",
+            "menu_name": "튤립닭발(있닭발)",
+            "price": "17,900원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241210_80%2F1733790767076cNYyo_PNG%2F%25C4%25A1%25C5%25B2_%25B0%25F1%25B9%25F0%25C0%25CC.png",
+            "menu_name": "치킨골뱅이",
+            "price": "29,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241210_102%2F1733790743935FYsts_PNG%2F%25BF%25EC%25BB%25EF%25B0%25E3_%25C7%25D8%25B9%25B0%25C2%25AB%25BB%25CD.png",
+            "menu_name": "우삼겹해물짬뽕",
+            "price": "18,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241210_197%2F1733790718771zucKd_PNG%2F%25BF%25C0%25B5%25B9%25BB%25C0.png",
+            "menu_name": "오돌뼈",
+            "price": "17,900원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241210_132%2F1733790684460scgI4_PNG%2F%25BE%25E7%25B3%25E4%25B8%25D4%25C5%25C2.png",
+            "menu_name": "양념먹태",
+            "price": "17,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241210_185%2F1733790657887QJXpY_PNG%2F%25BE%25C6%25C0%25CC%25BD%25BA_%25C8%25B2%25B5%25B5.png",
+            "menu_name": "아이스황도",
+            "price": "11,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241210_286%2F1733790613249Ow30f_PNG%2F%25B9%25AB%25BB%25C0%25B4%25DF%25B9%25DF%2528%25BE%25F8%25B4%25DF%25B9%25DF%2529.png",
+            "menu_name": "무뼈닭발(없닭발)",
+            "price": "17,900원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241210_104%2F1733790584986RhfB2_PNG%2F%25B8%25F0%25B7%25A1%25C1%25FD_%25BA%25BA%25C0%25BD.png",
+            "menu_name": "모래집볶음",
+            "price": "17,900원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241210_90%2F1733790558611NvrHD_PNG%2F%25B8%25F0%25B5%25EB_%25C6%25F7%25C5%25D7%25C0%25CC%25C5%25E4.png",
+            "menu_name": "모듬포테이토",
+            "price": "15,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241210_101%2F1733790513304JTQHs_PNG%2F%25B8%25F0%25B5%25EB_%25BC%25D2%25BD%25C3%25C1%25F6.png",
+            "menu_name": "모듬소시지",
+            "price": "16,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241210_8%2F1733790485629VlRpS_PNG%2F%25B8%25D4%25C5%25C2%25BF%25CD_%25B6%25A5%25C4%25E1.png",
+            "menu_name": "먹태와땅콩",
+            "price": "16,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241210_112%2F1733790455054E8jTY_PNG%2F%25B4%25EB%25B1%25B8%25C6%25F7%25BF%25CD_%25B6%25A5%25C4%25E1.png",
+            "menu_name": "대구포와땅콩",
+            "price": "15,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241210_232%2F17337903966787pef3_PNG%2F%25B3%25EB%25B0%25A1%25B8%25AE%25BF%25CD_%25B6%25A5%25C4%25E1.png",
+            "menu_name": "노가리와땅콩",
+            "price": "15,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241210_189%2F1733790344953JtBWv_PNG%2F%25B0%25F1%25B9%25F0%25C0%25CC_%25B9%25AB%25C4%25A7.png",
+            "menu_name": "골뱅이소면",
+            "price": "21,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241210_108%2F17337902823616eAFR_PNG%2F%25B0%25A3%25BB%25E7%25C0%25CC_%25BF%25C0%25B5%25AD%25C5%25C1.png",
+            "menu_name": "간사이 오뎅탕",
+            "price": "17,000원"
+        }
+    ]
+}

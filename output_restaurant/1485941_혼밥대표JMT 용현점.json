@@ -1,0 +1,14 @@
+{
+    "store_name": "혼밥대표JMT 용현점",
+    "store_location": "인천 미추홀구 인주대로224번길 26 1층",
+    "loc_x": "169930.053180456",
+    "loc_y": "439036.888825378",
+    "menu": [
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241205_27%2F1733327285872BYIFl_JPEG%2F%25BA%25D2%25B9%25E9.jpg",
+            "menu_name": "[JMT] 불백찌개 대표한상",
+            "price": "12,900원"
+        }
+    ]
+}

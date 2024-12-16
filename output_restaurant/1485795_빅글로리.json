@@ -1,0 +1,14 @@
+{
+    "store_name": "빅글로리",
+    "store_location": "제주 제주시 신대로14길 43 1층",
+    "loc_x": "152694.774754382",
+    "loc_y": "-851.334224681751",
+    "menu": [
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241208_26%2F1733622713494WMY0X_JPEG%2F%25C1%25B6%25B4%25CF%25BF%25F6%25C4%25BF.jpg",
+            "menu_name": "조니워커 블루라밸",
+            "price": "750,000원"
+        }
+    ]
+}

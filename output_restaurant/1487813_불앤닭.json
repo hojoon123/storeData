@@ -1,0 +1,50 @@
+{
+    "store_name": "불앤닭",
+    "store_location": "부산 강서구 명지국제6로 21 1층 K 112호",
+    "loc_x": "373350.085112444",
+    "loc_y": "178669.01763624",
+    "menu": [
+        {
+            "category": "사장님 추천 메뉴",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20231221_103/1703138479100KEUKH_JPEG/image_%281%29.jpg?type=f220_220_60_sharpen",
+            "menu_name": "순살 숯불 양념치킨대표",
+            "price": "14,900원"
+        },
+        {
+            "category": "사장님 추천 메뉴",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20231221_297/1703138541837s3fVU_JPEG/image.jpg?type=f220_220_60_sharpen",
+            "menu_name": "닭목살 숯불 양념구이대표",
+            "price": "18,900원"
+        },
+        {
+            "category": "메인메뉴",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20231221_103/1703138479100KEUKH_JPEG/image_%281%29.jpg?type=f220_220_60_sharpen",
+            "menu_name": "순살 숯불 양념치킨대표",
+            "price": "14,900원"
+        },
+        {
+            "category": "시그니처",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20231221_297/1703138541837s3fVU_JPEG/image.jpg?type=f220_220_60_sharpen",
+            "menu_name": "닭목살 숯불 양념구이대표",
+            "price": "18,900원"
+        },
+        {
+            "category": "사이드",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20231221_128/1703138550682tC7CJ_JPEG/image_%286%29.jpg?type=f220_220_60_sharpen",
+            "menu_name": "크림우동",
+            "price": "8,000원"
+        },
+        {
+            "category": "사이드",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20231221_230/17031385586997qg7u_JPEG/image_%284%29.jpg?type=f220_220_60_sharpen",
+            "menu_name": "웨지감자",
+            "price": "3,000원"
+        },
+        {
+            "category": "사이드",
+            "img_src": "https://naverbooking-phinf.pstatic.net/20231221_110/1703138555012P6LbM_JPEG/image_%285%29.jpg?type=f220_220_60_sharpen",
+            "menu_name": "고기만두튀김",
+            "price": "4,000원"
+        }
+    ]
+}

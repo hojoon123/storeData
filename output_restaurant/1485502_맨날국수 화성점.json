@@ -1,0 +1,68 @@
+{
+    "store_name": "맨날국수 화성점",
+    "store_location": "경기 화성시 효행로 439-6 2동 1층",
+    "loc_x": "198576.74773277",
+    "loc_y": "412202.66095817",
+    "menu": [
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241213_12%2F1734051985466Sp4LA_PNG%2F%25B9%25E8%25B8%25BB.png",
+            "menu_name": "배말칼국수",
+            "price": "9,500원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241213_113%2F1734051997057q02eG_PNG%2F%25C5%25EA%25B1%25E8%25B9%25E4.png",
+            "menu_name": "배말톳김밥",
+            "price": "5,300원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241213_122%2F17340520051422unyN_PNG%2F%25B2%25BF%25B8%25B7%25BA%25F1%25BA%25F6.png",
+            "menu_name": "꼬막비빔국수",
+            "price": "9,500원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241213_261%2F1734052017795Y9OvF_PNG%2F%25B6%25AF%25C3%25CA%25B1%25E8.png",
+            "menu_name": "배말땡초김밥",
+            "price": "4,500원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241213_159%2F1734052042284guYPJ_PNG%2F%25B1%25C3%25C3%25A4%25B1%25E8.png",
+            "menu_name": "배말궁채김밥",
+            "price": "5,300원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241213_119%2F17340520855379HfJx_JPEG%2F%25B0%25EF%25B5%25E5%25B7%25B9.jpg",
+            "menu_name": "곤드레만두",
+            "price": "6,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241213_20%2F1734052094106S09V4_JPEG%2F%25BE%25E3%25C0%25BA%25C7%25C7.jpg",
+            "menu_name": "얇은피 고기만두",
+            "price": "6,000원"
+        },
+        {
+            "category": "",
+            "img_src": "",
+            "menu_name": "미니돈까스",
+            "price": "6,000원"
+        },
+        {
+            "category": "",
+            "img_src": "",
+            "menu_name": "동죽조개칼국수 (계절메뉴 준비중)",
+            "price": "9,500원"
+        },
+        {
+            "category": "",
+            "img_src": "",
+            "menu_name": "오이소박이냉국수 (계절메뉴 준비중)",
+            "price": "9,500원"
+        }
+    ]
+}

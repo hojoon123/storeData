@@ -1,0 +1,14 @@
+{
+    "store_name": "러빈제이플라워카페",
+    "store_location": "충남 태안군 태안읍 군청6길 2 1층",
+    "loc_x": "137409.589308305",
+    "loc_y": "360899.570409378",
+    "menu": [
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20231030_152%2F1698669919715Te9V5_JPEG%2F1000061315.jpg",
+            "menu_name": "베이글",
+            "price": "3,500원"
+        }
+    ]
+}

@@ -1,0 +1,80 @@
+{
+    "store_name": "센미스시",
+    "store_location": "경기 수원시 영통구 매여울로40번길 37 1층",
+    "loc_x": "204105.159342992",
+    "loc_y": "418962.40600166",
+    "menu": [
+        {
+            "category": "",
+            "img_src": "",
+            "menu_name": "센미 B초밥(12P)",
+            "price": "16,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241212_156%2F17339899820486rzE7_JPEG%2F%25BC%25BE%25B9%25CCA.jpg",
+            "menu_name": "센미 A초밥(10P)",
+            "price": "14,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241212_63%2F1733990156498Gp90d_JPEG%2F%25BC%25BE%25B9%25CC_%25C6%25AF%25C3%25CA%25B9%25E4.jpg",
+            "menu_name": "센미 특초밥(12P)",
+            "price": "18,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241213_246%2F1734048684788RfN8k_JPEG%2F%25BC%25BE%25B9%25CC_%25BD%25BA%25C6%25E4%25BC%25C8.jpg",
+            "menu_name": "센미 스페셜초밥(12P)",
+            "price": "20,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241213_269%2F1734048701082rsXBy_JPEG%2F%25BC%25BE%25B9%25CC_VIP.jpg",
+            "menu_name": "센미 VIP초밥(14P)",
+            "price": "25,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241212_50%2F1733990446398N2Whi_JPEG%2F%25BC%25BE%25B9%25CC_%25BA%25D2%25C3%25CA%25B9%25E4.jpg",
+            "menu_name": "센미 불초밥(10P)",
+            "price": "18,000원"
+        },
+        {
+            "category": "",
+            "img_src": "",
+            "menu_name": "센미 새우모둠초밥(10P)",
+            "price": "16,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241212_140%2F1733989859682ya2aF_JPEG%2F%25BC%25BE%25B9%25CC_%25BE%25EE%25B8%25B0%25C0%25CC.jpg",
+            "menu_name": "센미 어린이 초밥(10P)",
+            "price": "10,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241212_176%2F1733990644098qRFuN_JPEG%2F%25BC%25BE%25B9%25CC_%25B7%25B1%25C4%25A1_%25282%2529.jpg",
+            "menu_name": "센미 런치(11시~14시)",
+            "price": "9,900원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241212_107%2F1733990713320uMuzi_JPEG%2F%25BC%25BE%25B9%25CC_%25B3%25AA%25C8%25A6%25B7%25CE_%25BB%25F5.jpg",
+            "menu_name": "나홀로 세트",
+            "price": "30,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241212_8%2F1733990783755s2Jdm_JPEG%2F%25BC%25BE%25B9%25CC_%25C4%25BF%25C7%25C3%25BC%25BC%25C6%25AE.jpg",
+            "menu_name": "커플세트",
+            "price": "45,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241212_75%2F1733990890190BwOyi_JPEG%2F%25BC%25BE%25B9%25CC_%25C6%25D0%25B9%25D0%25B8%25AE%25BC%25BC%25C6%25AE.jpg",
+            "menu_name": "패밀리세트",
+            "price": "100,000원"
+        }
+    ]
+}

@@ -1,0 +1,74 @@
+{
+    "store_name": "두문포갈치",
+    "store_location": "제주 서귀포시 성산읍 일주동로 4298 1층 두문포갈치",
+    "loc_x": "191784.208078394",
+    "loc_y": "-5703.5108327571",
+    "menu": [
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20231230_18%2F170392724069459dT1_JPEG%2F10.jpg",
+            "menu_name": "세트메뉴 4인",
+            "price": "90,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20231121_102%2F1700551915196aB2jh_JPEG%2F%25BB%25E7%25C1%25F8_1419.jpg",
+            "menu_name": "갈치조림",
+            "price": "40,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20231121_5%2F1700551868641AlVl6_JPEG%2F%25BB%25E7%25C1%25F8_981.jpg",
+            "menu_name": "토막갈치구이",
+            "price": "30,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20231121_99%2F1700551929517wUSo3_JPEG%2F%25BB%25E7%25C1%25F8_1065.jpg",
+            "menu_name": "고등어구이",
+            "price": "15,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241129_95%2F1732871095305HQHgN_JPEG%2FKakaoTalk_20241128_171008189.jpg",
+            "menu_name": "모둠생선구이 (대)",
+            "price": "105,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241129_145%2F1732871129117zH6Mz_JPEG%2FKakaoTalk_20241128_171008189.jpg",
+            "menu_name": "모둠생선구이 (중)",
+            "price": "85,000원"
+        },
+        {
+            "category": "",
+            "img_src": "",
+            "menu_name": "고등어조림",
+            "price": "30,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20231121_268%2F1700551989467c9z3b_JPEG%2F%25BB%25E7%25C1%25F8_514.jpg",
+            "menu_name": "성게미역국",
+            "price": "15,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20231121_23%2F17005520191695nOve_JPEG%2F%25BB%25E7%25C1%25F8_410.jpg",
+            "menu_name": "해물뚝배기",
+            "price": "15,000원"
+        },
+        {
+            "category": "",
+            "img_src": "",
+            "menu_name": "전복뚝배기",
+            "price": "20,000원"
+        },
+        {
+            "category": "",
+            "img_src": "",
+            "menu_name": "옥돔구이",
+            "price": "40,000원"
+        }
+    ]
+}

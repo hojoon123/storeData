@@ -1,0 +1,284 @@
+{
+    "store_name": "흥부놀부전",
+    "store_location": "강원 원주시 북원로2718번길 58 1층",
+    "loc_x": "284304.663011911",
+    "loc_y": "431870.414067793",
+    "menu": [
+        {
+            "category": "대표메뉴",
+            "img_src": "",
+            "menu_name": "해물짬뽕탕",
+            "price": "24,000원"
+        },
+        {
+            "category": "대표메뉴",
+            "img_src": "",
+            "menu_name": "오뎅탕",
+            "price": "18,000원"
+        },
+        {
+            "category": "대표메뉴",
+            "img_src": "",
+            "menu_name": "골뱅이소면",
+            "price": "25,000원"
+        },
+        {
+            "category": "대표메뉴",
+            "img_src": "",
+            "menu_name": "모듬전",
+            "price": "25,000원"
+        },
+        {
+            "category": "전 단품",
+            "img_src": "",
+            "menu_name": "모듬전",
+            "price": "25,000원"
+        },
+        {
+            "category": "전 단품",
+            "img_src": "",
+            "menu_name": "육전",
+            "price": "21,000원"
+        },
+        {
+            "category": "전 단품",
+            "img_src": "",
+            "menu_name": "김치해물전",
+            "price": "19,000원"
+        },
+        {
+            "category": "전 단품",
+            "img_src": "",
+            "menu_name": "동태전",
+            "price": "20,000원"
+        },
+        {
+            "category": "전 단품",
+            "img_src": "",
+            "menu_name": "부추전",
+            "price": "14,000원"
+        },
+        {
+            "category": "전 단품",
+            "img_src": "",
+            "menu_name": "탱글새우전",
+            "price": "22,000원"
+        },
+        {
+            "category": "전 단품",
+            "img_src": "",
+            "menu_name": "치즈감자전",
+            "price": "19,000원"
+        },
+        {
+            "category": "전 단품",
+            "img_src": "",
+            "menu_name": "동그랑땡(13개)",
+            "price": "20,000원"
+        },
+        {
+            "category": "전 단품",
+            "img_src": "",
+            "menu_name": "산적꼬지(13개)",
+            "price": "20,000원"
+        },
+        {
+            "category": "세트메뉴",
+            "img_src": "",
+            "menu_name": "모듬전+골뱅이무침",
+            "price": "45,000원"
+        },
+        {
+            "category": "세트메뉴",
+            "img_src": "",
+            "menu_name": "모듬전+떡볶이",
+            "price": "36,000원"
+        },
+        {
+            "category": "세트메뉴",
+            "img_src": "",
+            "menu_name": "모듬전+닭불고기",
+            "price": "45,000원"
+        },
+        {
+            "category": "세트메뉴",
+            "img_src": "",
+            "menu_name": "모듬전+무뼈닭발",
+            "price": "45,000원"
+        },
+        {
+            "category": "세트메뉴",
+            "img_src": "",
+            "menu_name": "모듬전+짬뽕탕",
+            "price": "45,000원"
+        },
+        {
+            "category": "세트메뉴",
+            "img_src": "",
+            "menu_name": "모듬전+묵은지김치찌개",
+            "price": "44,000원"
+        },
+        {
+            "category": "세트메뉴",
+            "img_src": "",
+            "menu_name": "모듬전+짜글이",
+            "price": "44,000원"
+        },
+        {
+            "category": "세트메뉴",
+            "img_src": "",
+            "menu_name": "모듬전+매콤쭈꾸미",
+            "price": "45,000원"
+        },
+        {
+            "category": "안주류",
+            "img_src": "",
+            "menu_name": "닭볶음탕(2~3인분)",
+            "price": "33,000원"
+        },
+        {
+            "category": "안주류",
+            "img_src": "",
+            "menu_name": "골뱅이소면",
+            "price": "25,000원"
+        },
+        {
+            "category": "안주류",
+            "img_src": "",
+            "menu_name": "매콤쭈꾸미",
+            "price": "24,000원"
+        },
+        {
+            "category": "안주류",
+            "img_src": "",
+            "menu_name": "닭불고기",
+            "price": "24,000원"
+        },
+        {
+            "category": "안주류",
+            "img_src": "",
+            "menu_name": "무뼈닭발",
+            "price": "24,000원"
+        },
+        {
+            "category": "안주류",
+            "img_src": "",
+            "menu_name": "짜글이",
+            "price": "21,000원"
+        },
+        {
+            "category": "안주류",
+            "img_src": "",
+            "menu_name": "해물짬뽕탕",
+            "price": "24,000원"
+        },
+        {
+            "category": "안주류",
+            "img_src": "",
+            "menu_name": "묵은지김치찌개",
+            "price": "23,000원"
+        },
+        {
+            "category": "안주류",
+            "img_src": "",
+            "menu_name": "오뎅탕",
+            "price": "18,000원"
+        },
+        {
+            "category": "안주류",
+            "img_src": "",
+            "menu_name": "두부김치",
+            "price": "23,000원"
+        },
+        {
+            "category": "안주류",
+            "img_src": "",
+            "menu_name": "스팸두부김치",
+            "price": "20,000원"
+        },
+        {
+            "category": "안주류",
+            "img_src": "",
+            "menu_name": "두부구이",
+            "price": "12,000원"
+        },
+        {
+            "category": "안주류",
+            "img_src": "",
+            "menu_name": "아이스황도",
+            "price": "12,000원"
+        },
+        {
+            "category": "안주류",
+            "img_src": "",
+            "menu_name": "스팸계란후라이",
+            "price": "12,000원"
+        },
+        {
+            "category": "안주류",
+            "img_src": "",
+            "menu_name": "콘치즈",
+            "price": "12,000원"
+        },
+        {
+            "category": "식사류",
+            "img_src": "",
+            "menu_name": "치즈떡볶이",
+            "price": "14,000원"
+        },
+        {
+            "category": "식사류",
+            "img_src": "",
+            "menu_name": "참치주먹밥",
+            "price": "5,000원"
+        },
+        {
+            "category": "식사류",
+            "img_src": "",
+            "menu_name": "옛날 도시락",
+            "price": "5,000원"
+        },
+        {
+            "category": "식사류",
+            "img_src": "",
+            "menu_name": "라면",
+            "price": "5,000원"
+        },
+        {
+            "category": "식사류",
+            "img_src": "",
+            "menu_name": "공깃밥",
+            "price": "1,000원"
+        },
+        {
+            "category": "식사류",
+            "img_src": "",
+            "menu_name": "야채김밥",
+            "price": "3,500원"
+        },
+        {
+            "category": "점심메뉴",
+            "img_src": "",
+            "menu_name": "돈까스",
+            "price": "8,000원"
+        },
+        {
+            "category": "점심메뉴",
+            "img_src": "",
+            "menu_name": "김치찜",
+            "price": "8,000원"
+        },
+        {
+            "category": "음료",
+            "img_src": "",
+            "menu_name": "콜라(355ml)",
+            "price": "2,000원"
+        },
+        {
+            "category": "음료",
+            "img_src": "",
+            "menu_name": "사이다(355ml)",
+            "price": "2,000원"
+        }
+    ]
+}

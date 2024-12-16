@@ -1,0 +1,152 @@
+{
+    "store_name": "술쿠버포차",
+    "store_location": "제주 서귀포시 안덕면 대평로 52-1",
+    "loc_x": "140475.336799919",
+    "loc_y": "-28526.6537758758",
+    "menu": [
+        {
+            "category": "",
+            "img_src": "",
+            "menu_name": "갈릭 오븐 통닭다리",
+            "price": "25,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20231215_164%2F1702643624372RmlWf_JPEG%2F1702643617552.jpg",
+            "menu_name": "두부 김치",
+            "price": "16,000원"
+        },
+        {
+            "category": "",
+            "img_src": "",
+            "menu_name": "짬뽕탕",
+            "price": "20,000원"
+        },
+        {
+            "category": "",
+            "img_src": "",
+            "menu_name": "동태 알탕 찌개",
+            "price": "22,000원"
+        },
+        {
+            "category": "",
+            "img_src": "",
+            "menu_name": "오뎅탕",
+            "price": "18,000원"
+        },
+        {
+            "category": "",
+            "img_src": "",
+            "menu_name": "돈까스 + 감자튀김",
+            "price": "20,000원"
+        },
+        {
+            "category": "",
+            "img_src": "",
+            "menu_name": "새우튀김",
+            "price": "19,000원"
+        },
+        {
+            "category": "",
+            "img_src": "",
+            "menu_name": "치킨봉",
+            "price": "20,000원"
+        },
+        {
+            "category": "",
+            "img_src": "",
+            "menu_name": "닭껍질 튀김",
+            "price": "16,000원"
+        },
+        {
+            "category": "",
+            "img_src": "",
+            "menu_name": "매운 닭발 + 계란찜",
+            "price": "20,000원"
+        },
+        {
+            "category": "",
+            "img_src": "",
+            "menu_name": "모듬 쏘세지",
+            "price": "18,000원"
+        },
+        {
+            "category": "",
+            "img_src": "",
+            "menu_name": "쏘세지 야채볶음",
+            "price": "17,000원"
+        },
+        {
+            "category": "",
+            "img_src": "",
+            "menu_name": "스팸&계란후라이",
+            "price": "16,000원"
+        },
+        {
+            "category": "",
+            "img_src": "",
+            "menu_name": "먹태 & 땅콩",
+            "price": "18,000원"
+        },
+        {
+            "category": "",
+            "img_src": "",
+            "menu_name": "오징어 & 땅콩",
+            "price": "18,000원"
+        },
+        {
+            "category": "",
+            "img_src": "",
+            "menu_name": "해물파전",
+            "price": "15,000원"
+        },
+        {
+            "category": "",
+            "img_src": "",
+            "menu_name": "계란말이",
+            "price": "13,000원"
+        },
+        {
+            "category": "",
+            "img_src": "",
+            "menu_name": "황도후르츠",
+            "price": "8,000원"
+        },
+        {
+            "category": "",
+            "img_src": "",
+            "menu_name": "라면 (순한맛 / 매운맛)",
+            "price": "5,000원"
+        },
+        {
+            "category": "",
+            "img_src": "",
+            "menu_name": "짜파게티 (계란투척)",
+            "price": "5,000원"
+        },
+        {
+            "category": "",
+            "img_src": "",
+            "menu_name": "계란찜",
+            "price": "5,000원"
+        },
+        {
+            "category": "",
+            "img_src": "",
+            "menu_name": "소주",
+            "price": "5,000원"
+        },
+        {
+            "category": "",
+            "img_src": "",
+            "menu_name": "맥주",
+            "price": "5,000원"
+        },
+        {
+            "category": "",
+            "img_src": "",
+            "menu_name": "음료",
+            "price": "2,000원"
+        }
+    ]
+}

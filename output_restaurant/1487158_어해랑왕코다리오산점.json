@@ -1,0 +1,134 @@
+{
+    "store_name": "어해랑왕코다리오산점",
+    "store_location": "경기 오산시 운천로 115",
+    "loc_x": "206542.104495927",
+    "loc_y": "405725.968341864",
+    "menu": [
+        {
+            "category": "",
+            "img_src": "",
+            "menu_name": "코다리정식 2인+미니순살코다리탕수육",
+            "price": "33,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241206_176%2F1733479751932oEQz4_JPEG%2FKakaoTalk_20241204_171409089.jpg",
+            "menu_name": "생굴",
+            "price": "15,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241206_271%2F1733479899756KWAyi_JPEG%2FKakaoTalk_20241204_171514567.jpg",
+            "menu_name": "생굴전",
+            "price": "13,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241206_176%2F1733479203727VuPID_JPEG%2FKakaoTalk_20240801_120354839_01.jpg",
+            "menu_name": "시래기 왕코다리 정식(2인이상)",
+            "price": "13,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241206_154%2F1733477380720AT7VF_JPEG%2FKakaoTalk_20240801_120354839_01.jpg",
+            "menu_name": "어해랑 왕시래기코다리조림 (소)",
+            "price": "41,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241206_152%2F1733479211115vvEKJ_JPEG%2FKakaoTalk_20240801_120354839_01.jpg",
+            "menu_name": "어해랑 왕시래기코다리조림(중)",
+            "price": "54,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241206_192%2F1733479266683FNi9z_JPEG%2FKakaoTalk_20240801_120354839_01.jpg",
+            "menu_name": "어해랑 왕시래기코다리조림(대)",
+            "price": "54,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241206_194%2F1733479273681KBGTI_JPEG%2FKakaoTalk_20240801_120354839_01.jpg",
+            "menu_name": "어해랑 왕코다리 조림(소)",
+            "price": "38,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241206_101%2F1733479279159HPiWK_JPEG%2FKakaoTalk_20240801_120354839_01.jpg",
+            "menu_name": "어해랑 왕코다리 조림(중)",
+            "price": "51,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241206_5%2F1733479284440etDLO_JPEG%2FKakaoTalk_20240801_120354839_01.jpg",
+            "menu_name": "어해랑 왕코다리 조림 (대)",
+            "price": "63,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241206_175%2F1733479344191hpQgW_JPEG%2FKakaoTalk_20241204_171442980.jpg",
+            "menu_name": "대구탕 (2인)",
+            "price": "35,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241206_206%2F1733479351812awSUW_JPEG%2FKakaoTalk_20241204_171442980.jpg",
+            "menu_name": "대구탕 (3인)",
+            "price": "52,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241206_147%2F1733479545024wDw96_JPEG%2FKakaoTalk_20241204_171425083.jpg",
+            "menu_name": "황태국 정식",
+            "price": "10,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241206_98%2F1733480144930XKvJY_PNG%2F%25B4%25D9%25BF%25EE%25B7%25CE%25B5%25E5_%25282%2529.png",
+            "menu_name": "모듬생선구이",
+            "price": "29,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241206_182%2F1733479570902NTFzF_JPEG%2FKakaoTalk_20241204_171452511.jpg",
+            "menu_name": "생 가자미구이",
+            "price": "17,000원"
+        },
+        {
+            "category": "",
+            "img_src": "",
+            "menu_name": "박대구이",
+            "price": "15,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241206_109%2F1733480176888F2wjm_PNG%2F%25B4%25D9%25BF%25EE%25B7%25CE%25B5%25E5.png",
+            "menu_name": "고등어구이",
+            "price": "12,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241206_209%2F1733480268310wWnJs_PNG%2F%25B4%25D9%25BF%25EE%25B7%25CE%25B5%25E5.png",
+            "menu_name": "코다리순살 탕수육 (중)",
+            "price": "15,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241206_176%2F17334802775660eCCi_PNG%2F%25B4%25D9%25BF%25EE%25B7%25CE%25B5%25E5.png",
+            "menu_name": "코다리순살 탕수육 (대)",
+            "price": "25,000원"
+        },
+        {
+            "category": "",
+            "img_src": "",
+            "menu_name": "수제떡갈비",
+            "price": "13,000원"
+        },
+        {
+            "category": "",
+            "img_src": "",
+            "menu_name": "왕새우튀김",
+            "price": "11,000원"
+        }
+    ]
+}

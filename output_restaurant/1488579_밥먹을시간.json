@@ -1,0 +1,68 @@
+{
+    "store_name": "밥먹을시간",
+    "store_location": "경기 김포시 김포한강9로12번길 8-6 103호",
+    "loc_x": "167031.845780215",
+    "loc_y": "459559.278386381",
+    "menu": [
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240106_59%2F1704506788909SGxoN_JPEG%2FIMG_0651.jpeg",
+            "menu_name": "돼지국밥",
+            "price": "9,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240105_184%2F1704421438308Sey7l_JPEG%2FIMG_0649.jpeg",
+            "menu_name": "육개장",
+            "price": "10,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240104_37%2F1704337402936kP0fv_JPEG%2FIMG_0647.jpeg",
+            "menu_name": "순대국밥",
+            "price": "9,000원"
+        },
+        {
+            "category": "",
+            "img_src": "",
+            "menu_name": "뼈 해장국",
+            "price": "10,000원"
+        },
+        {
+            "category": "",
+            "img_src": "",
+            "menu_name": "냉동삼겹살(160g)",
+            "price": "10,000원"
+        },
+        {
+            "category": "",
+            "img_src": "",
+            "menu_name": "수육",
+            "price": "25,000원"
+        },
+        {
+            "category": "",
+            "img_src": "",
+            "menu_name": "모듬순대(반)",
+            "price": "10,000원"
+        },
+        {
+            "category": "",
+            "img_src": "",
+            "menu_name": "모듬순대",
+            "price": "18,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240106_140%2F17045068065388Mh00_JPEG%2FIMG_0651.jpeg",
+            "menu_name": "특돼지국밥",
+            "price": "11,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240105_151%2F17044191453117DpXO_JPEG%2FIMG_0647.jpeg",
+            "menu_name": "특순대국밥",
+            "price": "11,000원"
+        }
+    ]
+}

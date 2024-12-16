@@ -1,0 +1,26 @@
+{
+    "store_name": "우리한우식육식당",
+    "store_location": "대구 달서구 야외음악당로13길 69 1층",
+    "loc_x": "339872.939724959",
+    "loc_y": "261387.111494732",
+    "menu": [
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241206_285%2F1733452739506XIJGa_JPEG%2F1000010040.jpg",
+            "menu_name": "한우1+ 갈비탕",
+            "price": "13,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241206_68%2F1733452702286GT8Mm_JPEG%2F1000010039.jpg",
+            "menu_name": "한우1+ 곰탕",
+            "price": "11,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241205_300%2F1733385065222B85zs_JPEG%2F1000010018.jpg",
+            "menu_name": "한돈 삼겹120g",
+            "price": "9,000원"
+        }
+    ]
+}

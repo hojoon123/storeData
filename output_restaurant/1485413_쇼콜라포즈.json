@@ -1,0 +1,98 @@
+{
+    "store_name": "쇼콜라포즈",
+    "store_location": "제주 제주시 한경면 녹차분재로 502 1층",
+    "loc_x": "131981.156498596",
+    "loc_y": "-19675.1854681675",
+    "menu": [
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241209_136%2F17337497699556Recq_JPEG%2FIMG_4964.jpeg",
+            "menu_name": "(Take Out) Daily 커피",
+            "price": "3,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241214_224%2F1734148091500F0Fs1_JPEG%2FKakaoTalk_20241214_124718034.jpg",
+            "menu_name": "리얼 제주 레몬에이드",
+            "price": "8,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241213_20%2F1734070374114vnxzj_JPEG%2FKakaoTalk_20241211_160322490_01.jpg",
+            "menu_name": "베어멜로",
+            "price": "4,500원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241213_134%2F1734070214869lkFN0_JPEG%2FKakaoTalk_20241213_144432753.jpg",
+            "menu_name": "바크 초콜렛",
+            "price": "15,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241211_75%2F1733902987833xJT6T_JPEG%2FKakaoTalk_20241211_164241148_01.jpg",
+            "menu_name": "Daily 고소 커피",
+            "price": "4,500원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241211_54%2F1733902997936VhU1d_JPEG%2FKakaoTalk_20241211_164241148_01.jpg",
+            "menu_name": "Fruity 산미 커피",
+            "price": "5,500원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241211_2%2F1733903073224SWQMi_JPEG%2FKakaoTalk_20241211_164241148.jpg",
+            "menu_name": "(시그니처) 밀크 모카",
+            "price": "7,500원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241211_189%2F1733903165029rnqqQ_JPEG%2FKakaoTalk_20241211_164241148.jpg",
+            "menu_name": "(시그니처) 다크 모카",
+            "price": "8,500원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241211_148%2F17339032837250anPt_JPEG%2FKakaoTalk_20241211_164241148.jpg",
+            "menu_name": "(시그니처) 핫 초코",
+            "price": "8,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241213_40%2F1734070303767kVlPh_JPEG%2FKakaoTalk_20241213_144432753_01.jpg",
+            "menu_name": "스트로베리 봉봉",
+            "price": "3,500원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241213_215%2F1734060245603uXuI2_JPEG%2FKakaoTalk_20241213_121823591_06.jpg",
+            "menu_name": "파베 밀크 (생초콜릿) 2조각",
+            "price": "2,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241213_157%2F1734060720871164uG_JPEG%2FKakaoTalk_20241213_121823591_06.jpg",
+            "menu_name": "파베 다크 (생초콜릿) 2조각",
+            "price": "2,400원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241213_97%2F1734060729498wSqjM_JPEG%2FKakaoTalk_20241213_121823591_07.jpg",
+            "menu_name": "파베 말차 (생초콜릿) 2조각",
+            "price": "3,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241211_290%2F1733903304563aKvXN_JPEG%2FKakaoTalk_20241211_160322490_08.jpg",
+            "menu_name": "65% 아망드 2알",
+            "price": "1,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241211_17%2F1733903334894yRfIy_JPEG%2FKakaoTalk_20241211_160322490_08.jpg",
+            "menu_name": "72% 아망드 2알",
+            "price": "1,200원"
+        }
+    ]
+}

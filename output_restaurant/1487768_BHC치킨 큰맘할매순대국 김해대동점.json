@@ -1,0 +1,308 @@
+{
+    "store_name": "BHC치킨 큰맘할매순대국 김해대동점",
+    "store_location": "경남 김해시 대동면 동남로49번길 22",
+    "loc_x": "381305.222282252",
+    "loc_y": "194973.073017649",
+    "menu": [
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241121_78%2F1732119621300aOoEJ_JPEG%2FIMG_1253.jpeg",
+            "menu_name": "내슈빌퐈이어킹 윙봉/콤보/스틱",
+            "price": "25,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241121_230%2F1732119559159qKygK_JPEG%2FIMG_1254.jpeg",
+            "menu_name": "내슈빌퐈이어킹 반반",
+            "price": "24,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240912_240%2F1726104234528v7j5g_JPEG%2F%25C7%25D6%25B0%25F1%25B5%25E5%25C5%25B7_%25C7%25D1%25B8%25B6%25B8%25AE.jpg",
+            "menu_name": "HOT골드킹",
+            "price": "21,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240912_154%2F17261044010456W0M2_JPEG%2F%25C7%25D6%25B0%25F1%25B5%25E5%25C5%25B7_%25C4%25DE%25BA%25B8.jpg",
+            "menu_name": "HOT골드킹 콤보/윙/스틱",
+            "price": "24,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20230728_131%2F1690529295413LXGyu_PNG%2F%25BB%25D1%25B8%25B5%25C5%25AC.png",
+            "menu_name": "뿌링클",
+            "price": "21,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20230728_5%2F1690529243545DabvT_PNG%2F%25B8%25C0%25C3%25CA%25C5%25B7.png",
+            "menu_name": "맛초킹",
+            "price": "21,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241203_289%2F1733214060406TY7cn_PNG%2F%25B9%25E8%25B4%25DE%25BE%25DB_%25BB%25D1%25B8%25B5%25C5%25AC%25B3%25AA%25C3%25DD.png",
+            "menu_name": "(NEW)뿌링클나쵸",
+            "price": "2,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241031_221%2F1730334209185n5Y4I_JPEG%2Fbhc_%25BB%25D1%25B8%25B5%25B6%25F3%25C0%25CC%25BD%25BA_%25B4%25A9%25B3%25A2.jpg",
+            "menu_name": "(NEW)뿌링클라이스",
+            "price": "4,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241031_267%2F1730334193503uIRNi_JPEG%2Fbhc_%25B8%25C0%25C3%25CA%25B6%25F3%25C0%25CC%25BD%25BA_%25B4%25A9%25B3%25A2.jpg",
+            "menu_name": "(NEW)맛초킹라이스",
+            "price": "4,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240418_67%2F1713400878802F3PiA_PNG%2F%25C7%25D1%25B8%25B8.png",
+            "menu_name": "쏘마치",
+            "price": "21,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240418_216%2F1713401011563DmWkG_PNG%2F%25C4%25DE%25BA%25B8.png",
+            "menu_name": "쏘마치 콤보/윙/스틱/순살",
+            "price": "23,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20230728_130%2F1690529459685ymMuI_JPEG%2F%25C7%25D1%25B8%25B6%25B8%25AE.jpg",
+            "menu_name": "마법클",
+            "price": "22,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20230728_210%2F1690529435853jFqtK_JPEG%2F%25BD%25BA%25C6%25BD.jpg",
+            "menu_name": "마법클 콤보/윙/스틱",
+            "price": "23,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20230728_147%2F1690529420549k3MJA_PNG%2F%25BC%25F8%25BB%25EC%25BE%25E7%25B3%25E4_01_%25B3%25D7%25C0%25CC%25B9%25F6.png",
+            "menu_name": "더블팝 순살 양념",
+            "price": "23,500원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20230728_264%2F1690529402535RfCRf_PNG%2F%25BC%25F8%25BB%25EC%25C8%25C4%25B6%25F3%25C0%25CC%25B5%25E5_01_%25B3%25D7%25C0%25CC%25B9%25F6.png",
+            "menu_name": "더블팝 순살 후라이드",
+            "price": "23,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240923_266%2F1727080918086iDOXh_JPEG%2F%25BD%25BA%25C0%25AD%25C5%25B7%25C6%25F8%25B8%25B3_%25BC%25F6%25C1%25A4.jpg",
+            "menu_name": "스윗킹폭립",
+            "price": "28,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240923_82%2F1727080995548Xww7K_JPEG%2F%25B7%25B9%25B5%25E5%25C5%25B7%25C6%25F8%25B8%25B3_%25BC%25F6%25C1%25A4.jpg",
+            "menu_name": "레드킹폭립",
+            "price": "28,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20230728_101%2F1690529312531nGajM_PNG%2F%25BB%25D1%25B8%25B5%25C5%25ACHOT.png",
+            "menu_name": "뿌링클HOT",
+            "price": "22,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20230728_114%2F1690529231095zudLY_PNG%2F%25B0%25F1%25B5%25E5%25C5%25B7.png",
+            "menu_name": "골드킹",
+            "price": "20,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20230728_16%2F1690529171317xdR8O_PNG%2F%25B7%25B9%25B5%25E5%25C5%25B7.png",
+            "menu_name": "레드킹",
+            "price": "21,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20230728_267%2F1690529139471RXYi5_PNG%2F%25C8%25C4%25B6%25F3%25C0%25CC%25B5%25E5.png",
+            "menu_name": "후라이드",
+            "price": "20,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20230728_207%2F1690529122421YXY1J_PNG%2F%25C7%25D6%25C8%25C4%25B6%25F3%25C0%25CC%25B5%25E5.png",
+            "menu_name": "HOT후라이드",
+            "price": "21,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240912_119%2F1726104659947298cf_JPEG%2F%25BE%25E7%25B3%25E4%25C4%25A1%25C5%25B2_%25C4%25DE%25BA%25B8.jpg",
+            "menu_name": "양념치킨 콤보/윙/스틱",
+            "price": "24,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240912_270%2F17261048491146WWOq_JPEG%2F%25BE%25E7%25B3%25E4%25C4%25A1%25C5%25B2.jpg",
+            "menu_name": "양념치킨",
+            "price": "21,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20230728_58%2F1690529054287DziaT_PNG%2F%25B9%25D9%25BB%25E8%25C5%25AC.png",
+            "menu_name": "바삭클",
+            "price": "18,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20230728_235%2F1690529025412gxtTD_PNG%2F1._%25B0%25F1%25B5%25E5%25C5%25B7%25C4%25DE%25BA%25B8.png",
+            "menu_name": "콤보",
+            "price": "23,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20230728_73%2F1690528999136EHdRK_PNG%2F1._%25B0%25F1%25B5%25E5%25C5%25B7_%25C0%25AE.png",
+            "menu_name": "윙스타",
+            "price": "23,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20230728_142%2F1690528973081z8qQu_PNG%2F1._%25B0%25F1%25B5%25E5%25C5%25B7_%25BD%25BA%25C6%25BD.png",
+            "menu_name": "오스틱",
+            "price": "23,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20230728_129%2F1690529754981zX9WD_PNG%2F%25B0%25ED%25C3%25DF%25C0%25E5%25C1%25F7%25C8%25AD%25B1%25B8%25C0%25CC.png",
+            "menu_name": "고추장 직화구이",
+            "price": "16,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240315_255%2F1710467185583KsXzw_JPEG%2F1000.jpg",
+            "menu_name": "뿌링진미채튀김",
+            "price": "6,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240306_24%2F1709700877970gVWcx_JPEG%2F%25C4%25A1%25B7%25CE%25BD%25BA.jpg",
+            "menu_name": "치로스",
+            "price": "6,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240123_76%2F1705999623100k7zze_PNG%2F%25C7%25D6%25BB%25D1%25B8%25B5%25B6%25B1%25BA%25BA%25C0%25CC.png",
+            "menu_name": "HOT뿌링떡볶이",
+            "price": "8,900원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240123_227%2F1705999744962BwxQI_PNG%2F%25C7%25D6%25BB%25D1%25B8%25B5%25BE%25EE%25B9%25AC%25BA%25BA%25C0%25CC.png",
+            "menu_name": "HOT뿌링어묵볶이",
+            "price": "9,900원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20230728_197%2F1690528628771WLLpF_PNG%2F139_%25B4%25DE%25C4%25DE%25B9%25D9%25BB%25E8%25C4%25A1%25C1%25EE%25BA%25BC.png",
+            "menu_name": "달콤바삭치즈볼",
+            "price": "5,500원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20230728_213%2F1690528602401uJwVC_PNG%2F140_%25BB%25D1%25B8%25B5%25C4%25A1%25C1%25EE%25BA%25BC.png",
+            "menu_name": "뿌링치즈볼",
+            "price": "6,500원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241031_63%2F1730335251324PylCW_JPEG%2F%25B4%25DC%25C6%25CF%25B2%25CA%25B9%25E8%25B1%25E2.jpg",
+            "menu_name": "단팥꽈배기",
+            "price": "3,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241031_177%2F1730335261671mADYE_JPEG%2F%25C5%25A9%25B8%25B2%25C4%25A1%25C1%25EE%25B2%25CA%25B9%25E8%25B1%25E2.jpg",
+            "menu_name": "크림치즈꽈배기",
+            "price": "3,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20230728_72%2F1690528541644vxthX_JPEG%2F%25C4%25A1%25C5%25B2%25BD%25BA%25B3%25D8.jpg",
+            "menu_name": "치킨스넥",
+            "price": "11,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20230728_69%2F169052852301535CK7_JPEG%2F%25BF%25FE%25C1%25F6%25B0%25A8%25C0%25DA.jpg",
+            "menu_name": "웨지감자",
+            "price": "6,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20230728_162%2F16905288390379tWFP_PNG%2F%25BA%25D0%25B8%25F0%25C0%25DA-%25B7%25CE%25C1%25A6-%25B6%25B1%25BA%25BA%25C0%25CC.png",
+            "menu_name": "분모자 로제 떡볶이",
+            "price": "6,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20230728_199%2F1690528474721RHMTt_PNG%2F136_%25BB%25D1%25B8%25B5%25C7%25D6%25B5%25B5%25B1%25D7.png",
+            "menu_name": "뿌링핫도그",
+            "price": "6,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20230728_287%2F1690533149002HYp6L_PNG%2F142_%25BB%25D1%25B8%25B5%25B0%25A8%25C0%25DA.png",
+            "menu_name": "뿌링감자",
+            "price": "5,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20230728_62%2F1690533076793IxTmX_PNG%2F143_%25C4%25C9%25C0%25CC%25C1%25D8%25C7%25C1%25B6%25F3%25C0%25CC.png",
+            "menu_name": "케이준 프라이",
+            "price": "4,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20230728_103%2F1690528640317U9lHw_PNG%2F141_%25BB%25D1%25B8%25B5%25C4%25A1%25C1%25EE%25BD%25BA%25C6%25BD.png",
+            "menu_name": "뿌링치즈스틱",
+            "price": "5,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20230728_131%2F1690528451343hI6T3_PNG%2F137_%25BB%25D1%25B8%25B5%25BC%25D2%25B6%25B1.png",
+            "menu_name": "뿌링소떡",
+            "price": "4,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20230728_241%2F16905284338856vmQu_PNG%2F138_%25BB%25A1%25B0%25A3%25BC%25D2%25B6%25B1.png",
+            "menu_name": "빨간소떡",
+            "price": "3,500원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20230728_48%2F1690528910228d27gE_PNG%2F%25BB%25D1%25B8%25B5%25C4%25DD%25C6%25CB.png",
+            "menu_name": "뿌링콜팝",
+            "price": "5,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20230728_231%2F1690528690292pzKYe_PNG%2F%25C4%25DD%25C6%25CB%25C4%25A1%25C5%25B2_%25B3%25D7%25C0%25CC%25B9%25F6%25BB%25E7%25C0%25CC%25C1%25EE.png",
+            "menu_name": "콜팝치킨",
+            "price": "4,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241121_151%2F17321558424636teMa_PNG%2F%25C4%25A1%25C5%25B2%25B9%25AB.png",
+            "menu_name": "치킨무",
+            "price": "1,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241121_155%2F1732155820742ob4QT_PNG%2F%25B9%25E8%25B4%25DE%25BE%25DB-1000x1000.png",
+            "menu_name": "코울슬로",
+            "price": "2,500원"
+        }
+    ]
+}

@@ -1,0 +1,38 @@
+{
+    "store_name": "카페드 아씨에",
+    "store_location": "경기 이천시 중리천로 105 1층",
+    "loc_x": "239740.360437338",
+    "loc_y": "419645.820370422",
+    "menu": [
+        {
+            "category": "",
+            "img_src": "",
+            "menu_name": "아메리카노",
+            "price": "4,500원"
+        },
+        {
+            "category": "",
+            "img_src": "",
+            "menu_name": "에스프레소",
+            "price": "4,500원"
+        },
+        {
+            "category": "",
+            "img_src": "",
+            "menu_name": "카페라떼",
+            "price": "5,500원"
+        },
+        {
+            "category": "",
+            "img_src": "",
+            "menu_name": "카푸치노",
+            "price": "5,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240405_111%2F1712307131250f1AOs_JPEG%2F1000012055.jpg",
+            "menu_name": "클래식 에스프레소 마티니",
+            "price": "9,500원"
+        }
+    ]
+}

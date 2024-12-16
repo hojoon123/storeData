@@ -1,0 +1,14 @@
+{
+    "store_name": "홍두깨멸치칼국수",
+    "store_location": "전남 목포시 교육로 45-1 1층 홍두깨멸치칼국수",
+    "loc_x": "146918.224376265",
+    "loc_y": "144914.612267636",
+    "menu": [
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20231207_217%2F17019159537948YGbR_JPEG%2F1701915938664.jpg",
+            "menu_name": "콩국수",
+            "price": "변동"
+        }
+    ]
+}

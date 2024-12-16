@@ -1,0 +1,14 @@
+{
+    "store_name": "단만포",
+    "store_location": "인천 중구 하늘중앙로225번길 11 104호",
+    "loc_x": "160948.188584812",
+    "loc_y": "442940.395874508",
+    "menu": [
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241208_274%2F1733648072671uJk5p_JPEG%2FKakaoTalk_20241208_174947983.jpg",
+            "menu_name": "국물닭발",
+            "price": "16,900원"
+        }
+    ]
+}

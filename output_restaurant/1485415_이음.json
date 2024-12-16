@@ -1,0 +1,14 @@
+{
+    "store_name": "이음",
+    "store_location": "제주 제주시 서해안로 648 102호",
+    "loc_x": "154042.177348389",
+    "loc_y": "2290.59515683346",
+    "menu": [
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241127_116%2F1732713420490jVFNe_JPEG%2FIMG_2226.jpeg",
+            "menu_name": "겨울한끼",
+            "price": "16,500원"
+        }
+    ]
+}

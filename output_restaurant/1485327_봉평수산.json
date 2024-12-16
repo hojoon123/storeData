@@ -1,0 +1,326 @@
+{
+    "store_name": "봉평수산",
+    "store_location": "강원 평창군 봉평면 태기로 73 그린텔",
+    "loc_x": "316589.293428335",
+    "loc_y": "454914.909763335",
+    "menu": [
+        {
+            "category": "대표메뉴",
+            "img_src": "",
+            "menu_name": "송어(2인)",
+            "price": "40,000원"
+        },
+        {
+            "category": "대표메뉴",
+            "img_src": "",
+            "menu_name": "광어(小)",
+            "price": "50,000원"
+        },
+        {
+            "category": "대표메뉴",
+            "img_src": "",
+            "menu_name": "광어(中)",
+            "price": "60,000원"
+        },
+        {
+            "category": "대표메뉴",
+            "img_src": "",
+            "menu_name": "광어(大)",
+            "price": "80,000원"
+        },
+        {
+            "category": "대표메뉴",
+            "img_src": "",
+            "menu_name": "광어(특)",
+            "price": "100,000원"
+        },
+        {
+            "category": "대표메뉴",
+            "img_src": "",
+            "menu_name": "광어+우럭(小)",
+            "price": "50,000원"
+        },
+        {
+            "category": "대표메뉴",
+            "img_src": "",
+            "menu_name": "광어+우럭(中)",
+            "price": "60,000원"
+        },
+        {
+            "category": "대표메뉴",
+            "img_src": "",
+            "menu_name": "광어+우럭(大)",
+            "price": "80,000원"
+        },
+        {
+            "category": "대표메뉴",
+            "img_src": "",
+            "menu_name": "광어+우럭(특)",
+            "price": "100,000원"
+        },
+        {
+            "category": "대표메뉴",
+            "img_src": "",
+            "menu_name": "모듬회(小)",
+            "price": "50,000원"
+        },
+        {
+            "category": "대표메뉴",
+            "img_src": "",
+            "menu_name": "모듬회(中)",
+            "price": "60,000원"
+        },
+        {
+            "category": "대표메뉴",
+            "img_src": "",
+            "menu_name": "모듬회(大)",
+            "price": "80,000원"
+        },
+        {
+            "category": "대표메뉴",
+            "img_src": "",
+            "menu_name": "모듬회(특)",
+            "price": "100,000원"
+        },
+        {
+            "category": "대표메뉴",
+            "img_src": "",
+            "menu_name": "광어+송어(小)",
+            "price": "50,000원"
+        },
+        {
+            "category": "대표메뉴",
+            "img_src": "",
+            "menu_name": "광어+송어(中)",
+            "price": "60,000원"
+        },
+        {
+            "category": "대표메뉴",
+            "img_src": "",
+            "menu_name": "광어+송어(大)",
+            "price": "80,000원"
+        },
+        {
+            "category": "대표메뉴",
+            "img_src": "",
+            "menu_name": "광어+송어(특)",
+            "price": "100,000원"
+        },
+        {
+            "category": "활어",
+            "img_src": "",
+            "menu_name": "광어(小)",
+            "price": "50,000원"
+        },
+        {
+            "category": "활어",
+            "img_src": "",
+            "menu_name": "광어(中)",
+            "price": "60,000원"
+        },
+        {
+            "category": "활어",
+            "img_src": "",
+            "menu_name": "광어(大)",
+            "price": "80,000원"
+        },
+        {
+            "category": "활어",
+            "img_src": "",
+            "menu_name": "광어(특)",
+            "price": "100,000원"
+        },
+        {
+            "category": "활어",
+            "img_src": "",
+            "menu_name": "광어+우럭(小)",
+            "price": "50,000원"
+        },
+        {
+            "category": "활어",
+            "img_src": "",
+            "menu_name": "광어+우럭(中)",
+            "price": "60,000원"
+        },
+        {
+            "category": "활어",
+            "img_src": "",
+            "menu_name": "광어+우럭(大)",
+            "price": "80,000원"
+        },
+        {
+            "category": "활어",
+            "img_src": "",
+            "menu_name": "광어+우럭(특)",
+            "price": "100,000원"
+        },
+        {
+            "category": "활어",
+            "img_src": "",
+            "menu_name": "모듬회(小)",
+            "price": "50,000원"
+        },
+        {
+            "category": "활어",
+            "img_src": "",
+            "menu_name": "모듬회(中)",
+            "price": "60,000원"
+        },
+        {
+            "category": "활어",
+            "img_src": "",
+            "menu_name": "모듬회(大)",
+            "price": "80,000원"
+        },
+        {
+            "category": "활어",
+            "img_src": "",
+            "menu_name": "모듬회(특)",
+            "price": "100,000원"
+        },
+        {
+            "category": "활어",
+            "img_src": "",
+            "menu_name": "광어+송어(小)",
+            "price": "50,000원"
+        },
+        {
+            "category": "활어",
+            "img_src": "",
+            "menu_name": "광어+송어(中)",
+            "price": "60,000원"
+        },
+        {
+            "category": "활어",
+            "img_src": "",
+            "menu_name": "광어+송어(大)",
+            "price": "80,000원"
+        },
+        {
+            "category": "활어",
+            "img_src": "",
+            "menu_name": "광어+송어(특)",
+            "price": "100,000원"
+        },
+        {
+            "category": "활어",
+            "img_src": "",
+            "menu_name": "방어회(중)",
+            "price": "60,000원"
+        },
+        {
+            "category": "활어",
+            "img_src": "",
+            "menu_name": "방어회(대)",
+            "price": "80,000원"
+        },
+        {
+            "category": "활어",
+            "img_src": "",
+            "menu_name": "방어회(특)",
+            "price": "100,000원"
+        },
+        {
+            "category": "송어",
+            "img_src": "",
+            "menu_name": "송어(2인)",
+            "price": "40,000원"
+        },
+        {
+            "category": "송어",
+            "img_src": "",
+            "menu_name": "송어3인(3인분)",
+            "price": "60,000원"
+        },
+        {
+            "category": "물회",
+            "img_src": "",
+            "menu_name": "물회(2~3)",
+            "price": "40,000원"
+        },
+        {
+            "category": "물회",
+            "img_src": "",
+            "menu_name": "물회(3~4)",
+            "price": "60,000원"
+        },
+        {
+            "category": "해물",
+            "img_src": "",
+            "menu_name": "전복(한접시)",
+            "price": "20,000원"
+        },
+        {
+            "category": "해물",
+            "img_src": "",
+            "menu_name": "멍개(한접시)",
+            "price": "20,000원"
+        },
+        {
+            "category": "해물",
+            "img_src": "",
+            "menu_name": "소라숙회(한접시)",
+            "price": "20,000원"
+        },
+        {
+            "category": "해물",
+            "img_src": "",
+            "menu_name": "석화(한접시)",
+            "price": "20,000원"
+        },
+        {
+            "category": "해물",
+            "img_src": "",
+            "menu_name": "새우튀김(한접시10미)",
+            "price": "15,000원"
+        },
+        {
+            "category": "매운탕",
+            "img_src": "",
+            "menu_name": "통우럭 매운탕(中)",
+            "price": "30,000원"
+        },
+        {
+            "category": "매운탕",
+            "img_src": "",
+            "menu_name": "통우럭 매운탕(大)",
+            "price": "50,000원"
+        },
+        {
+            "category": "식사",
+            "img_src": "",
+            "menu_name": "회덮밥",
+            "price": "15,000원"
+        },
+        {
+            "category": "식사",
+            "img_src": "",
+            "menu_name": "초밥",
+            "price": "15,000원"
+        },
+        {
+            "category": "식사",
+            "img_src": "",
+            "menu_name": "초밥밥",
+            "price": "3,000원"
+        },
+        {
+            "category": "식사",
+            "img_src": "",
+            "menu_name": "공기밥(1개)",
+            "price": "2,000원"
+        },
+        {
+            "category": "음료",
+            "img_src": "",
+            "menu_name": "콜라",
+            "price": "2,000원"
+        },
+        {
+            "category": "음료",
+            "img_src": "",
+            "menu_name": "사이다",
+            "price": "2,000원"
+        }
+    ]
+}

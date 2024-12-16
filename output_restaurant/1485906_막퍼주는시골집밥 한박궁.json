@@ -1,0 +1,500 @@
+{
+    "store_name": "막퍼주는시골집밥 한박궁",
+    "store_location": "인천 연수구 벚꽃로 114 107~108호",
+    "loc_x": "171434.692415713",
+    "loc_y": "435045.526165238",
+    "menu": [
+        {
+            "category": "대표메뉴",
+            "img_src": "",
+            "menu_name": "생돼지 김치찌개 백반(2인이상주문)(2인)",
+            "price": "24,000원"
+        },
+        {
+            "category": "대표메뉴",
+            "img_src": "",
+            "menu_name": "한우 미역국 백반(2인이상주문)(2인)",
+            "price": "24,000원"
+        },
+        {
+            "category": "대표메뉴",
+            "img_src": "",
+            "menu_name": "(혼밥)도시락 +생돼지 김치찌개",
+            "price": "10,000원"
+        },
+        {
+            "category": "대표메뉴",
+            "img_src": "",
+            "menu_name": "(혼밥)도시락+한우 미역국",
+            "price": "10,000원"
+        },
+        {
+            "category": "대표메뉴",
+            "img_src": "",
+            "menu_name": "갈치구이(국내산)",
+            "price": "10,000원"
+        },
+        {
+            "category": "대표메뉴",
+            "img_src": "",
+            "menu_name": "고등어구이(노르웨이)",
+            "price": "8,000원"
+        },
+        {
+            "category": "메인메뉴",
+            "img_src": "",
+            "menu_name": "생돼지 김치찌개 백반(2인이상주문)(2인)",
+            "price": "24,000원"
+        },
+        {
+            "category": "메인메뉴",
+            "img_src": "",
+            "menu_name": "한우 미역국 백반(2인이상주문)(2인)",
+            "price": "24,000원"
+        },
+        {
+            "category": "메인메뉴",
+            "img_src": "",
+            "menu_name": "(혼밥)도시락 +생돼지 김치찌개",
+            "price": "10,000원"
+        },
+        {
+            "category": "메인메뉴",
+            "img_src": "",
+            "menu_name": "(혼밥)도시락+한우 미역국",
+            "price": "10,000원"
+        },
+        {
+            "category": "메인메뉴",
+            "img_src": "",
+            "menu_name": "(생 한돈)불고기 덮밥+한우 미역국",
+            "price": "12,000원"
+        },
+        {
+            "category": "메인메뉴",
+            "img_src": "",
+            "menu_name": "(생 한돈)불고기 덮밥+생돼지 김치찌개",
+            "price": "12,000원"
+        },
+        {
+            "category": "메인메뉴",
+            "img_src": "",
+            "menu_name": "한돈 불고기(도시락)+생돼지 김치찌개+공기밥+광천 김",
+            "price": "16,000원"
+        },
+        {
+            "category": "메인메뉴",
+            "img_src": "",
+            "menu_name": "한돈 불고기(도시락)+한우미역국+공기밥+광천 김",
+            "price": "16,000원"
+        },
+        {
+            "category": "메인메뉴",
+            "img_src": "",
+            "menu_name": "(혼밥)갈치구이(도시락)+ 생돼지 김치찌개",
+            "price": "17,000원"
+        },
+        {
+            "category": "메인메뉴",
+            "img_src": "",
+            "menu_name": "(혼밥)갈치구이(도시락)+한우 미역국",
+            "price": "17,000원"
+        },
+        {
+            "category": "메인메뉴",
+            "img_src": "",
+            "menu_name": "(생 한돈)제육 덮밥+김치찌개",
+            "price": "14,000원"
+        },
+        {
+            "category": "메인메뉴",
+            "img_src": "",
+            "menu_name": "(생 한돈)제육 덮밥+미역국",
+            "price": "14,000원"
+        },
+        {
+            "category": "메인메뉴",
+            "img_src": "",
+            "menu_name": "(생 한돈)제육 도시락+김치 찌개+공기밥+광천 김",
+            "price": "17,000원"
+        },
+        {
+            "category": "메인메뉴",
+            "img_src": "",
+            "menu_name": "(생 한돈)제육 도시락+미역국+공기밥+광천 김",
+            "price": "17,000원"
+        },
+        {
+            "category": "메인메뉴",
+            "img_src": "",
+            "menu_name": "생돼지 김치찌개 백반(1인)+한우 미역국 백반(1인)",
+            "price": "24,000원"
+        },
+        {
+            "category": "메인메뉴",
+            "img_src": "",
+            "menu_name": "생돼지 김치찌개 백반(3인)",
+            "price": "36,000원"
+        },
+        {
+            "category": "메인메뉴",
+            "img_src": "",
+            "menu_name": "한우 미역국 백반(3인)",
+            "price": "36,000원"
+        },
+        {
+            "category": "사이드메뉴",
+            "img_src": "",
+            "menu_name": "간장게장~(알+살)속이 꽉찬 꽃게(국내산)(2~3인)",
+            "price": "15,000원"
+        },
+        {
+            "category": "사이드메뉴",
+            "img_src": "",
+            "menu_name": "(살이 꽉찬)수컷 꽃게 양념무침(연평도)국내산100%(2인)",
+            "price": "12,000원"
+        },
+        {
+            "category": "사이드메뉴",
+            "img_src": "",
+            "menu_name": "(국내산A급)생 삼겹살+(통)마늘+새송이+ 구이(200g)",
+            "price": "12,000원"
+        },
+        {
+            "category": "사이드메뉴",
+            "img_src": "",
+            "menu_name": "(생 한돈)제육볶음(소)~상추 별도(2인~)",
+            "price": "8,000원"
+        },
+        {
+            "category": "사이드메뉴",
+            "img_src": "",
+            "menu_name": "(생 한돈)제육 볶음(대)~상추 별도(3인~4인)",
+            "price": "16,000원"
+        },
+        {
+            "category": "사이드메뉴",
+            "img_src": "",
+            "menu_name": "갈치구이(국내산)",
+            "price": "10,000원"
+        },
+        {
+            "category": "사이드메뉴",
+            "img_src": "",
+            "menu_name": "고등어구이(노르웨이)",
+            "price": "8,000원"
+        },
+        {
+            "category": "추가메뉴",
+            "img_src": "",
+            "menu_name": "누룽지 숭늉(해장에~굿)",
+            "price": "5,000원"
+        },
+        {
+            "category": "추가메뉴",
+            "img_src": "",
+            "menu_name": "야채 카레 (소)(2~3인)",
+            "price": "6,000원"
+        },
+        {
+            "category": "추가메뉴",
+            "img_src": "",
+            "menu_name": "(싱싱한)상추+고추~된장(2인~3인)",
+            "price": "4,000원"
+        },
+        {
+            "category": "추가 메뉴",
+            "img_src": "",
+            "menu_name": "(생 한돈)돼지 김치찌개((소)1인분)",
+            "price": "4,000원"
+        },
+        {
+            "category": "추가 메뉴",
+            "img_src": "",
+            "menu_name": "(생 한돈)돼지 김치찌개(1인(왕 곱배기))",
+            "price": "8,000원"
+        },
+        {
+            "category": "추가 메뉴",
+            "img_src": "",
+            "menu_name": "(생 한우)미역국((소)1인분)",
+            "price": "4,000원"
+        },
+        {
+            "category": "추가 메뉴",
+            "img_src": "",
+            "menu_name": "(생 한우)미역국(1인분(왕 곱배기))",
+            "price": "8,000원"
+        },
+        {
+            "category": "추가 메뉴",
+            "img_src": "",
+            "menu_name": "(고봉)공깃밥",
+            "price": "2,000원"
+        },
+        {
+            "category": "추가 메뉴",
+            "img_src": "",
+            "menu_name": "(두툼한)계란말이((소)4개)",
+            "price": "3,500원"
+        },
+        {
+            "category": "추가 메뉴",
+            "img_src": "",
+            "menu_name": "(두툼한)계란말이((대)8개)",
+            "price": "7,000원"
+        },
+        {
+            "category": "추가 메뉴",
+            "img_src": "",
+            "menu_name": "(두툼한)고급 햄전((소)5개)",
+            "price": "3,500원"
+        },
+        {
+            "category": "추가 메뉴",
+            "img_src": "",
+            "menu_name": "(두툼한)고급 햄전((대)10개)",
+            "price": "7,000원"
+        },
+        {
+            "category": "밑반찬 조림류",
+            "img_src": "",
+            "menu_name": "두부 조림((소))",
+            "price": "4,000원"
+        },
+        {
+            "category": "밑반찬 조림류",
+            "img_src": "",
+            "menu_name": "두부 조림((대))",
+            "price": "8,000원"
+        },
+        {
+            "category": "밑반찬 조림류",
+            "img_src": "",
+            "menu_name": "알감자(간장)조림((소))",
+            "price": "4,000원"
+        },
+        {
+            "category": "밑반찬 조림류",
+            "img_src": "",
+            "menu_name": "알감자(간장)조림((대))",
+            "price": "8,000원"
+        },
+        {
+            "category": "밑반찬 조림류",
+            "img_src": "",
+            "menu_name": "우엉 조림((소))",
+            "price": "3,500원"
+        },
+        {
+            "category": "밑반찬 조림류",
+            "img_src": "",
+            "menu_name": "(부드러운)콩장 조림((소))",
+            "price": "4,000원"
+        },
+        {
+            "category": "밑반찬 조림류",
+            "img_src": "",
+            "menu_name": "우엉(조림)",
+            "price": "3,500원"
+        },
+        {
+            "category": "밑반찬 볶음류",
+            "img_src": "",
+            "menu_name": "(부산)오뎅 볶음((소))",
+            "price": "3,500원"
+        },
+        {
+            "category": "밑반찬 볶음류",
+            "img_src": "",
+            "menu_name": "(부산)오뎅 볶음((대))",
+            "price": "7,000원"
+        },
+        {
+            "category": "밑반찬 볶음류",
+            "img_src": "",
+            "menu_name": "감자(채)볶음((소))",
+            "price": "4,000원"
+        },
+        {
+            "category": "밑반찬 볶음류",
+            "img_src": "",
+            "menu_name": "감자(채)볶음((대))",
+            "price": "8,000원"
+        },
+        {
+            "category": "밑반찬 볶음류",
+            "img_src": "",
+            "menu_name": "애호박 볶음((소))",
+            "price": "3,500원"
+        },
+        {
+            "category": "밑반찬 볶음류",
+            "img_src": "",
+            "menu_name": "애호박 볶음((대))",
+            "price": "7,000원"
+        },
+        {
+            "category": "밑반찬 볶음류",
+            "img_src": "",
+            "menu_name": "마늘쫑(건새우)볶음((소))",
+            "price": "4,000원"
+        },
+        {
+            "category": "밑반찬 볶음류",
+            "img_src": "",
+            "menu_name": "마늘쫑(건새우)볶음((대))",
+            "price": "8,000원"
+        },
+        {
+            "category": "밑반찬 볶음류",
+            "img_src": "",
+            "menu_name": "미역줄기 볶음((소))",
+            "price": "3,500원"
+        },
+        {
+            "category": "밑반찬 볶음류",
+            "img_src": "",
+            "menu_name": "미역줄기 볶음((대))",
+            "price": "7,000원"
+        },
+        {
+            "category": "밑반찬 볶음류",
+            "img_src": "",
+            "menu_name": "(여수)멸치 볶음((소))",
+            "price": "8,000원"
+        },
+        {
+            "category": "밑반찬 볶음류",
+            "img_src": "",
+            "menu_name": "(여수)멸치 볶음((대))",
+            "price": "15,000원"
+        },
+        {
+            "category": "밑반찬 무침류",
+            "img_src": "",
+            "menu_name": "브로콜리+(초장)((소)2인~)",
+            "price": "4,000원"
+        },
+        {
+            "category": "밑반찬 무침류",
+            "img_src": "",
+            "menu_name": "진미채 무침((소))",
+            "price": "8,000원"
+        },
+        {
+            "category": "밑반찬 무침류",
+            "img_src": "",
+            "menu_name": "진미채 무침((대))",
+            "price": "15,000원"
+        },
+        {
+            "category": "밑반찬 무침류",
+            "img_src": "",
+            "menu_name": "도라지(초무침)((소))",
+            "price": "4,000원"
+        },
+        {
+            "category": "밑반찬 무침류",
+            "img_src": "",
+            "menu_name": "도라지(초무침)((대))",
+            "price": "8,000원"
+        },
+        {
+            "category": "밑반찬 무침류",
+            "img_src": "",
+            "menu_name": "물 미역(맑은)초무침~(정수기 물사용)((소)2인~)",
+            "price": "3,000원"
+        },
+        {
+            "category": "밑반찬 무침류",
+            "img_src": "",
+            "menu_name": "물 미역(맑은)초무침~(정수기 물사용)((대)4인~)",
+            "price": "6,000원"
+        },
+        {
+            "category": "밑반찬 무침류",
+            "img_src": "",
+            "menu_name": "무말랭이 무침((소))",
+            "price": "4,000원"
+        },
+        {
+            "category": "밑반찬 무침류",
+            "img_src": "",
+            "menu_name": "절임 양념고추((소))",
+            "price": "4,000원"
+        },
+        {
+            "category": "밑반찬 무침류",
+            "img_src": "",
+            "menu_name": "양념 깻잎((소))",
+            "price": "4,000원"
+        },
+        {
+            "category": "밑반찬 무침류",
+            "img_src": "",
+            "menu_name": "마늘쫑(양념)무침(3인~)",
+            "price": "4,000원"
+        },
+        {
+            "category": "밑반찬 무침류",
+            "img_src": "",
+            "menu_name": "청포묵((소)1인~2인)",
+            "price": "3,500원"
+        },
+        {
+            "category": "밑반찬 무침류",
+            "img_src": "",
+            "menu_name": "청포묵((대)3인~4인)",
+            "price": "7,000원"
+        },
+        {
+            "category": "젓갈 류",
+            "img_src": "",
+            "menu_name": "(통통한)오징어 젓갈(한끼(맛보기))",
+            "price": "5,000원"
+        },
+        {
+            "category": "젓갈 류",
+            "img_src": "",
+            "menu_name": "(통통한)낙지 젓갈(한끼(맛보기))",
+            "price": "5,000원"
+        },
+        {
+            "category": "음료",
+            "img_src": "",
+            "menu_name": "콜라 캔(355ml)",
+            "price": "2,000원"
+        },
+        {
+            "category": "음료",
+            "img_src": "",
+            "menu_name": "사이다 캔(355ml)",
+            "price": "2,000원"
+        },
+        {
+            "category": "음료",
+            "img_src": "",
+            "menu_name": "환타 파인 캔(355ml)",
+            "price": "2,000원"
+        },
+        {
+            "category": "음료",
+            "img_src": "",
+            "menu_name": "식혜 캔(240ml)",
+            "price": "1,500원"
+        },
+        {
+            "category": "음료",
+            "img_src": "",
+            "menu_name": "물(500m)삼다수",
+            "price": "1,000원"
+        },
+        {
+            "category": "음료",
+            "img_src": "",
+            "menu_name": "맥콜(210ml)",
+            "price": "1,000원"
+        }
+    ]
+}

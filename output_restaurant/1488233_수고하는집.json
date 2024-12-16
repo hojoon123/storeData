@@ -1,0 +1,26 @@
+{
+    "store_name": "수고하는집",
+    "store_location": "대전 유성구 과학인재로 11 1층 101호",
+    "loc_x": "232623.683613461",
+    "loc_y": "327903.884362095",
+    "menu": [
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20231007_184%2F1696682441986uN0OW_JPEG%2F1000002410.jpg",
+            "menu_name": "숙성 생삼겹살180g",
+            "price": "14,000원"
+        },
+        {
+            "category": "",
+            "img_src": "",
+            "menu_name": "민물새우 손 수제비 소",
+            "price": "19,000원"
+        },
+        {
+            "category": "",
+            "img_src": "",
+            "menu_name": "대패",
+            "price": "4,900원"
+        }
+    ]
+}

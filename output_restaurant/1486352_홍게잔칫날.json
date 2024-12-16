@@ -1,0 +1,32 @@
+{
+    "store_name": "홍게잔칫날",
+    "store_location": "경기 의정부시 호국로 1296 1층 2호",
+    "loc_x": "204171.925940237",
+    "loc_y": "471212.535428145",
+    "menu": [
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241211_207%2F1733889657027hEV3D_JPEG%2F1000005407.jpg",
+            "menu_name": "골뱅이소면",
+            "price": "10,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241211_289%2F1733889559429guSVn_JPEG%2F1000005417.jpg",
+            "menu_name": "홍게라면",
+            "price": "6,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241211_190%2F1733889491315UhgzP_JPEG%2F1000005292.jpg",
+            "menu_name": "골뱅이찜",
+            "price": "변동"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241211_67%2F1733889460190Rqj1O_JPEG%2F1000005555.jpg",
+            "menu_name": "홍게찜",
+            "price": "변동"
+        }
+    ]
+}

@@ -1,0 +1,320 @@
+{
+    "store_name": "이만복김밥 초롱꽃마을점",
+    "store_location": "경기 파주시 양지로 111 초롱프라자 106호",
+    "loc_x": "",
+    "loc_y": "",
+    "menu": [
+        {
+            "category": "대표메뉴",
+            "img_src": "",
+            "menu_name": "궁채김밥",
+            "price": "4,500원"
+        },
+        {
+            "category": "대표메뉴",
+            "img_src": "",
+            "menu_name": "묵은지참치마요김밥",
+            "price": "4,800원"
+        },
+        {
+            "category": "대표메뉴",
+            "img_src": "",
+            "menu_name": "쫄볶이",
+            "price": "5,500원"
+        },
+        {
+            "category": "대표메뉴",
+            "img_src": "",
+            "menu_name": "이만복김밥",
+            "price": "3,600원"
+        },
+        {
+            "category": "대표메뉴",
+            "img_src": "",
+            "menu_name": "통들깨멸추김밥",
+            "price": "5,000원"
+        },
+        {
+            "category": "김밥류",
+            "img_src": "",
+            "menu_name": "이만복김밥",
+            "price": "3,600원"
+        },
+        {
+            "category": "김밥류",
+            "img_src": "",
+            "menu_name": "궁채김밥",
+            "price": "4,500원"
+        },
+        {
+            "category": "김밥류",
+            "img_src": "",
+            "menu_name": "묵은지김밥",
+            "price": "4,100원"
+        },
+        {
+            "category": "김밥류",
+            "img_src": "",
+            "menu_name": "치즈김밥",
+            "price": "4,100원"
+        },
+        {
+            "category": "김밥류",
+            "img_src": "",
+            "menu_name": "땡초김밥",
+            "price": "4,000원"
+        },
+        {
+            "category": "김밥류",
+            "img_src": "",
+            "menu_name": "참치마요김밥",
+            "price": "4,500원"
+        },
+        {
+            "category": "김밥류",
+            "img_src": "",
+            "menu_name": "돈까스김밥",
+            "price": "4,800원"
+        },
+        {
+            "category": "김밥류",
+            "img_src": "",
+            "menu_name": "땡초참치마요김밥",
+            "price": "4,800원"
+        },
+        {
+            "category": "김밥류",
+            "img_src": "",
+            "menu_name": "묵은지참치마요김밥",
+            "price": "4,800원"
+        },
+        {
+            "category": "김밥류",
+            "img_src": "",
+            "menu_name": "제육깻잎김밥",
+            "price": "5,000원"
+        },
+        {
+            "category": "김밥류",
+            "img_src": "",
+            "menu_name": "통들깨멸추김밥",
+            "price": "5,000원"
+        },
+        {
+            "category": "김밥류",
+            "img_src": "",
+            "menu_name": "소불고기김밥",
+            "price": "5,200원"
+        },
+        {
+            "category": "김밥류",
+            "img_src": "",
+            "menu_name": "왕새우튀김김밥",
+            "price": "5,200원"
+        },
+        {
+            "category": "주먹밥류",
+            "img_src": "",
+            "menu_name": "참치마요주먹밥",
+            "price": "4,200원"
+        },
+        {
+            "category": "주먹밥류",
+            "img_src": "",
+            "menu_name": "김치주먹밥",
+            "price": "3,800원"
+        },
+        {
+            "category": "주먹밥류",
+            "img_src": "",
+            "menu_name": "믹스주먹밥",
+            "price": "4,200원"
+        },
+        {
+            "category": "주먹밥류",
+            "img_src": "",
+            "menu_name": "제육주먹밥",
+            "price": "4,500원"
+        },
+        {
+            "category": "주먹밥류",
+            "img_src": "",
+            "menu_name": "소고기주먹밥",
+            "price": "4,500원"
+        },
+        {
+            "category": "주먹밥류",
+            "img_src": "",
+            "menu_name": "치즈주먹밥",
+            "price": "3,000원"
+        },
+        {
+            "category": "돈까스류",
+            "img_src": "",
+            "menu_name": "등심돈까스",
+            "price": "9,000원"
+        },
+        {
+            "category": "돈까스류",
+            "img_src": "",
+            "menu_name": "치즈돈까스",
+            "price": "9,000원"
+        },
+        {
+            "category": "돈까스류",
+            "img_src": "",
+            "menu_name": "고구마돈까스",
+            "price": "9,000원"
+        },
+        {
+            "category": "분식류",
+            "img_src": "",
+            "menu_name": "떡볶이",
+            "price": "5,000원"
+        },
+        {
+            "category": "분식류",
+            "img_src": "",
+            "menu_name": "쫄볶이",
+            "price": "5,500원"
+        },
+        {
+            "category": "분식류",
+            "img_src": "",
+            "menu_name": "라볶이",
+            "price": "5,500원"
+        },
+        {
+            "category": "분식류",
+            "img_src": "",
+            "menu_name": "쫄면",
+            "price": "6,500원"
+        },
+        {
+            "category": "찌개류",
+            "img_src": "",
+            "menu_name": "돼지김치찌개",
+            "price": "8,000원"
+        },
+        {
+            "category": "찌개류",
+            "img_src": "",
+            "menu_name": "참치김치찌개",
+            "price": "8,000원"
+        },
+        {
+            "category": "찌개류",
+            "img_src": "",
+            "menu_name": "꽁치김치찌개",
+            "price": "8,000원"
+        },
+        {
+            "category": "찌개류",
+            "img_src": "",
+            "menu_name": "순두부찌개",
+            "price": "7,500원"
+        },
+        {
+            "category": "찌개류",
+            "img_src": "",
+            "menu_name": "된장찌개",
+            "price": "7,500원"
+        },
+        {
+            "category": "찌개류",
+            "img_src": "",
+            "menu_name": "청국장",
+            "price": "8,000원"
+        },
+        {
+            "category": "찌개류",
+            "img_src": "",
+            "menu_name": "육개장",
+            "price": "8,500원"
+        },
+        {
+            "category": "찌개류",
+            "img_src": "",
+            "menu_name": "뚝배기불고기",
+            "price": "9,000원"
+        },
+        {
+            "category": "찌개류",
+            "img_src": "",
+            "menu_name": "소내장탕",
+            "price": "10,000원"
+        },
+        {
+            "category": "덮밥류",
+            "img_src": "",
+            "menu_name": "제육덮밥",
+            "price": "8,000원"
+        },
+        {
+            "category": "덮밥류",
+            "img_src": "",
+            "menu_name": "참치김치볶음밥",
+            "price": "8,000원"
+        },
+        {
+            "category": "덮밥류",
+            "img_src": "",
+            "menu_name": "새우볶음밥",
+            "price": "8,000원"
+        },
+        {
+            "category": "덮밥류",
+            "img_src": "",
+            "menu_name": "오므라이스",
+            "price": "8,000원"
+        },
+        {
+            "category": "덮밥류",
+            "img_src": "",
+            "menu_name": "오징어덮밥",
+            "price": "8,500원"
+        },
+        {
+            "category": "덮밥류",
+            "img_src": "",
+            "menu_name": "소불고기덮밥",
+            "price": "8,500원"
+        },
+        {
+            "category": "덮밥류",
+            "img_src": "",
+            "menu_name": "비빔밥",
+            "price": "7,000원"
+        },
+        {
+            "category": "덮밥류",
+            "img_src": "",
+            "menu_name": "공기밥",
+            "price": "1,000원"
+        },
+        {
+            "category": "음료",
+            "img_src": "",
+            "menu_name": "코카콜라(355ml)",
+            "price": "2,000원"
+        },
+        {
+            "category": "음료",
+            "img_src": "",
+            "menu_name": "코카콜라제로(355ml)",
+            "price": "2,000원"
+        },
+        {
+            "category": "음료",
+            "img_src": "",
+            "menu_name": "칠성사이다(355ml)",
+            "price": "2,000원"
+        },
+        {
+            "category": "음료",
+            "img_src": "",
+            "menu_name": "칠성사이다제로(355ml)",
+            "price": "2,000원"
+        }
+    ]
+}

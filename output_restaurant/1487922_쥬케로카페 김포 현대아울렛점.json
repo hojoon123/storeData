@@ -1,0 +1,98 @@
+{
+    "store_name": "쥬케로카페 김포 현대아울렛점",
+    "store_location": "경기 김포시 고촌읍 아라육로152번길 100 웨스트존 2층",
+    "loc_x": "180999.482133785",
+    "loc_y": "455254.138222429",
+    "menu": [
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240531_277%2F17171451104557clAn_JPEG%2FKakaoTalk_20240526_123839919_06.jpg",
+            "menu_name": "레모니카노 Hot / Ice",
+            "price": "5,500원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240531_75%2F171714504804955xNp_JPEG%2F%25B7%25B9%25B8%25F3%25C5%25A9%25B8%25B2%25B6%25F3%25B6%25BC.jpg",
+            "menu_name": "레몬 크림라떼",
+            "price": "7,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240531_112%2F17171452211764snAY_JPEG%2F%25BD%25C3%25B1%25D7%25B4%25CF%25C3%25B3_%25B7%25B9%25B8%25F3_%25BF%25A1%25BD%25BA%25C7%25C1%25B7%25B9%25BC%25D2.jpg",
+            "menu_name": "레몬에스프레소",
+            "price": "4,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240531_46%2F1717145298700Swwzd_JPEG%2F%25B1%25D7%25B6%25F3%25B4%25CF%25B5%25FB.jpg",
+            "menu_name": "레몬 그라니따",
+            "price": "4,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240531_248%2F1717145442647mRQ5k_JPEG%2F%25B7%25B9%25B8%25F3%25BF%25A1%25C0%25CC%25B5%25E5.jpg",
+            "menu_name": "레몬에이드",
+            "price": "6,000원"
+        },
+        {
+            "category": "",
+            "img_src": "",
+            "menu_name": "레몬 아이스티",
+            "price": "6,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240531_297%2F1717145551394gy7nl_JPEG%2F%25C6%25AE%25B7%25AF%25C7%25C3_%25B8%25B6%25BF%25E4%25B3%25D7%25C1%25EE_%25C6%25C4%25B4%25CF%25B4%25CF.jpg",
+            "menu_name": "트러플 마요네즈 파니니",
+            "price": "6,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240529_149%2F1716942835718JslQJ_JPEG%2FKakaoTalk_20240222_102521169_15.jpg",
+            "menu_name": "바질 모짜렐라 파니니",
+            "price": "6,000원"
+        },
+        {
+            "category": "",
+            "img_src": "",
+            "menu_name": "에그타르트",
+            "price": "3,000원"
+        },
+        {
+            "category": "",
+            "img_src": "",
+            "menu_name": "치즈타르트",
+            "price": "3,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240531_242%2F1717145688610sqgTx_JPEG%2F%25C6%25C7%25B3%25AA%25C4%25DA%25C5%25B8_%25B9%25CD%25BD%25BA%25BA%25A3%25B8%25AE.jpg",
+            "menu_name": "판나코타 믹스베리",
+            "price": "4,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240531_15%2F1717145665327hg0zb_JPEG%2F%25C6%25C7%25B3%25AA%25C4%25DA%25C5%25B8_%25C3%25CA%25C4%25DA.jpg",
+            "menu_name": "판나코타 초코",
+            "price": "4,000원"
+        },
+        {
+            "category": "",
+            "img_src": "",
+            "menu_name": "떠먹는 수제레몬 케이크",
+            "price": "5,500원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20221129_17%2F1669685324506GeFyi_JPEG%2F%25BD%25B4%25B0%25A1%25C7%25C1%25B8%25AE_100g_%25BB%25E7%25C5%25C1.jpg",
+            "menu_name": "슈가프리 레몬&오렌지캔디",
+            "price": "8,900원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20221129_283%2F1669685239494znCui_JPEG%2F%25B7%25B9%25B8%25F3_200_%25BB%25E7%25C5%25C1.jpg",
+            "menu_name": "포지타노 레몬캔디 200g",
+            "price": "8,900원"
+        }
+    ]
+}

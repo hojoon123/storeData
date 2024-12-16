@@ -1,0 +1,62 @@
+{
+    "store_name": "솔로투 담양점",
+    "store_location": "전남 담양군 담양읍 담양88로 364 1층~2층",
+    "loc_x": "199765.997226941",
+    "loc_y": "202435.583892251",
+    "menu": [
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240502_284%2F1714657356694HCGwg_JPEG%2FKakaoTalk_20240429_142952367.jpg",
+            "menu_name": "커피 오마카세 A코스",
+            "price": "16,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240502_57%2F1714657328833B9uOq_JPEG%2FKakaoTalk_20240429_142952367_01.jpg",
+            "menu_name": "커피 오마카세 B 코스",
+            "price": "16,000원"
+        },
+        {
+            "category": "",
+            "img_src": "",
+            "menu_name": "스페셜코스 변경",
+            "price": "30,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240502_116%2F1714657523787IQ8lS_JPEG%2FKakaoTalk_20240429_133602720.jpg",
+            "menu_name": "살라또 - 추가메뉴",
+            "price": "6,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240502_78%2F1714657627604dweCA_JPEG%2FKakaoTalk_20240429_133602720_01.jpg",
+            "menu_name": "빼빼 - 추가메뉴",
+            "price": "6,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240502_89%2F1714657660643u8edc_JPEG%2FKakaoTalk_20240429_133621451.jpg",
+            "menu_name": "코레또 - 추가메뉴",
+            "price": "15,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240502_74%2F1714657783883mGb8t_JPEG%2FKakaoTalk_20240429_133701777.jpg",
+            "menu_name": "부디노 - 추가메뉴",
+            "price": "4,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240825_213%2F1724560879676g1p5y_PNG%2F%25C5%25B8%25B7%25CE%25BF%25A3%25B5%25F9_%25B8%25DE%25B4%25BA%25C6%25C7.PNG",
+            "menu_name": "타로상담",
+            "price": "변동"
+        },
+        {
+            "category": "",
+            "img_src": "",
+            "menu_name": "추가메뉴 안내사항",
+            "price": "변동"
+        }
+    ]
+}

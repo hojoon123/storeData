@@ -1,0 +1,32 @@
+{
+    "store_name": "미각양꼬치 금곡점",
+    "store_location": "경기 수원시 권선구 금곡로 193 111, 112, 113호",
+    "loc_x": "195636.452520569",
+    "loc_y": "419102.220885641",
+    "menu": [
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241212_247%2F1733966490355OgRPl_JPEG%2F%25B2%25E3%25B9%25D9%25B7%25CE%25BF%25EC.jpg",
+            "menu_name": "꿔바로우",
+            "price": "18,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241212_36%2F1733966504084nHV5m_JPEG%2F%25C1%25F6%25BB%25EF%25BC%25B1.jpg",
+            "menu_name": "지삼선",
+            "price": "16,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241212_111%2F1733966518901icVx2_JPEG%2F%25C7%25E2%25B6%25F3%25B4%25EB%25C7%25CF.jpg",
+            "menu_name": "향라대하",
+            "price": "18,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241212_188%2F1733966558391Em0is_JPEG%2F%25C4%25A5%25B8%25AE%25BB%25F5%25BF%25EC.jpg",
+            "menu_name": "칠리새우",
+            "price": "18,000원"
+        }
+    ]
+}

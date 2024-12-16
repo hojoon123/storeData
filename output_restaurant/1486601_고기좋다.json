@@ -1,0 +1,98 @@
+{
+    "store_name": "고기좋다",
+    "store_location": "경기 광명시 일직로12번길 19 109호",
+    "loc_x": "189548.462687093",
+    "loc_y": "435443.736505484",
+    "menu": [
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241205_122%2F17333869252795DwJ7_JPEG%2F%25C0%25CF%25C1%25F7%25B5%25BF_%25B0%25ED%25B1%25E2_%25C8%25B8%25BD%25C4%25B8%25C0%25C1%25FD_%25B9%25AB%25C0%25C7%25B5%25BF%25C0%25BD%25BD%25C4%25B9%25AE%25C8%25AD%25B0%25C5%25B8%25AE009.JPG",
+            "menu_name": "갈매기살 200g",
+            "price": "17,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241205_79%2F1733392385785rGii6_JPEG%2F%25C0%25CF%25C1%25F7%25B5%25BF_%25B0%25ED%25B1%25E2_%25C8%25B8%25BD%25C4%25B8%25C0%25C1%25FD_%25B9%25AB%25C0%25C7%25B5%25BF%25C0%25BD%25BD%25C4%25B9%25AE%25C8%25AD%25B0%25C5%25B8%25AE015.JPG",
+            "menu_name": "대구막창 100g",
+            "price": "13,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241205_153%2F1733393178322NRILO_JPEG%2F%25B4%25EB%25C1%25F6_37-80.jpg",
+            "menu_name": "고기세트",
+            "price": "121,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241205_92%2F1733392477683YgHLo_JPEG%2F%25BB%25FD%25B5%25C5%25C1%25F6%25B0%25A5%25BA%25F1.jpg",
+            "menu_name": "생돼지갈비 250g",
+            "price": "15,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241205_30%2F1733392620857FG2ve_JPEG%2F%25C0%25CF%25C1%25F7%25B5%25BF_%25B0%25ED%25B1%25E2_%25C8%25B8%25BD%25C4%25B8%25C0%25C1%25FD_%25B9%25AB%25C0%25C7%25B5%25BF%25C0%25BD%25BD%25C4%25B9%25AE%25C8%25AD%25B0%25C5%25B8%25AE001.jpg",
+            "menu_name": "껍데기 250g",
+            "price": "11,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241205_157%2F1733392673676xpCH1_JPEG%2F%25C0%25CF%25C1%25F7%25B5%25BF_%25B0%25ED%25B1%25E2_%25C8%25B8%25BD%25C4%25B8%25C0%25C1%25FD_%25B9%25AB%25C0%25C7%25B5%25BF%25C0%25BD%25BD%25C4%25B9%25AE%25C8%25AD%25B0%25C5%25B8%25AE005.JPG",
+            "menu_name": "소갈비살 150g",
+            "price": "17,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241205_165%2F1733392788627k90Qy_JPEG%2F%25BC%25D2%25B8%25B7%25C3%25A2.jpg",
+            "menu_name": "소막창 100g",
+            "price": "20,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241205_131%2F1733393397714uNGtp_JPEG%2F%25B4%25EB%25C1%25F6_37_%25BB%25E7%25BA%25BB-80.jpg",
+            "menu_name": "좋다세트",
+            "price": "77,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241205_4%2F1733393447515SjzrD_JPEG%2F%25C0%25B0%25B0%25B3%25C0%25E5%25B6%25F3%25B8%25E9.jpg",
+            "menu_name": "한우육개장라면",
+            "price": "9,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241205_195%2F1733393501980fvdlO_JPEG%2F%25B4%25A9%25B8%25AA%25C1%25F6%25C5%25C1.jpg",
+            "menu_name": "수제누릉지",
+            "price": "5,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241205_288%2F1733393557175nTauu_JPEG%2F%25C0%25CF%25C1%25F7%25B5%25BF_%25B0%25ED%25B1%25E2_%25C8%25B8%25BD%25C4%25B8%25C0%25C1%25FD_%25B9%25AB%25C0%25C7%25B5%25BF%25C0%25BD%25BD%25C4%25B9%25AE%25C8%25AD%25B0%25C5%25B8%25AE010.JPG",
+            "menu_name": "폭탄계란찜",
+            "price": "6,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241205_28%2F1733393642865Ir4k9_JPEG%2F%25C0%25CF%25C1%25F7%25B5%25BF_%25B0%25ED%25B1%25E2_%25C8%25B8%25BD%25C4%25B8%25C0%25C1%25FD_%25B9%25AB%25C0%25C7%25B5%25BF%25C0%25BD%25BD%25C4%25B9%25AE%25C8%25AD%25B0%25C5%25B8%25AE020.jpg",
+            "menu_name": "된장찌개",
+            "price": "6,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241205_292%2F1733393808016mPWoo_JPEG%2F%25C0%25CF%25C1%25F7%25B5%25BF_%25B0%25ED%25B1%25E2_%25C8%25B8%25BD%25C4%25B8%25C0%25C1%25FD_%25B9%25AB%25C0%25C7%25B5%25BF%25C0%25BD%25BD%25C4%25B9%25AE%25C8%25AD%25B0%25C5%25B8%25AE012.JPG",
+            "menu_name": "쟁반(막)국수",
+            "price": "6,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241205_11%2F1733388759712dj58o_JPEG%2F%25C0%25CF%25C1%25F7%25B5%25BF_%25B0%25ED%25B1%25E2_%25C8%25B8%25BD%25C4%25B8%25C0%25C1%25FD_%25B9%25AB%25C0%25C7%25B5%25BF%25C0%25BD%25BD%25C4%25B9%25AE%25C8%25AD%25B0%25C5%25B8%25AE012.JPG",
+            "menu_name": "쟁반(막)국수",
+            "price": "6,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241205_148%2F1733394025207r0ECG_JPEG%2F%25B9%25B0%25B3%25C3%25B8%25E9.jpg",
+            "menu_name": "명품물냉면",
+            "price": "9,000원"
+        }
+    ]
+}

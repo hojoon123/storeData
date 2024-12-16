@@ -1,0 +1,188 @@
+{
+    "store_name": "짬뽕지존 목포유달점",
+    "store_location": "전남 목포시 해안로 171 1층",
+    "loc_x": "143396.654620469",
+    "loc_y": "142850.769116093",
+    "menu": [
+        {
+            "category": "대표메뉴",
+            "img_src": "",
+            "menu_name": "지존 짬뽕 (얼큰한 맛)",
+            "price": "11,500원"
+        },
+        {
+            "category": "대표메뉴",
+            "img_src": "",
+            "menu_name": "쌀국수 짬뽕 (얼큰한 맛)",
+            "price": "12,000원"
+        },
+        {
+            "category": "대표메뉴",
+            "img_src": "",
+            "menu_name": "지존 짜장 (안매운맛)",
+            "price": "8,500원"
+        },
+        {
+            "category": "대표메뉴",
+            "img_src": "",
+            "menu_name": "찹쌀 탕수육(소)",
+            "price": "17,000원"
+        },
+        {
+            "category": "대표메뉴",
+            "img_src": "",
+            "menu_name": "찹쌀 탕수육(중)",
+            "price": "22,000원"
+        },
+        {
+            "category": "짬뽕",
+            "img_src": "",
+            "menu_name": "지존 짬뽕 (얼큰한 맛)",
+            "price": "11,500원"
+        },
+        {
+            "category": "짬뽕",
+            "img_src": "",
+            "menu_name": "지옥 짬뽕",
+            "price": "11,500원"
+        },
+        {
+            "category": "짬뽕",
+            "img_src": "",
+            "menu_name": "지옥 짬뽕밥",
+            "price": "11,500원"
+        },
+        {
+            "category": "짬뽕",
+            "img_src": "",
+            "menu_name": "지존 짬뽕밥",
+            "price": "11,500원"
+        },
+        {
+            "category": "짬뽕",
+            "img_src": "",
+            "menu_name": "쌀국수 짬뽕 (얼큰한 맛)",
+            "price": "12,000원"
+        },
+        {
+            "category": "짬뽕",
+            "img_src": "",
+            "menu_name": "지옥 쌀국수 짬뽕",
+            "price": "12,000원"
+        },
+        {
+            "category": "짬뽕",
+            "img_src": "",
+            "menu_name": "수제비 짬뽕 (얼큰한 맛)",
+            "price": "12,000원"
+        },
+        {
+            "category": "짬뽕",
+            "img_src": "",
+            "menu_name": "지옥 수제비 짬뽕",
+            "price": "12,000원"
+        },
+        {
+            "category": "짬뽕",
+            "img_src": "",
+            "menu_name": "순두부 짬뽕밥 (얼큰한 맛)",
+            "price": "12,000원"
+        },
+        {
+            "category": "짬뽕",
+            "img_src": "",
+            "menu_name": "지옥 순두부 짬뽕밥",
+            "price": "12,000원"
+        },
+        {
+            "category": "짬뽕",
+            "img_src": "",
+            "menu_name": "순두부 짬뽕면 (얼큰한 맛)",
+            "price": "12,000원"
+        },
+        {
+            "category": "짬뽕",
+            "img_src": "",
+            "menu_name": "지옥 순두부 짬뽕면",
+            "price": "12,000원"
+        },
+        {
+            "category": "짜장&짬짜면",
+            "img_src": "",
+            "menu_name": "지존 짜장 (안매운맛)",
+            "price": "8,500원"
+        },
+        {
+            "category": "짜장&짬짜면",
+            "img_src": "",
+            "menu_name": "지옥 짜장",
+            "price": "8,500원"
+        },
+        {
+            "category": "짜장&짬짜면",
+            "img_src": "",
+            "menu_name": "지존 짜장밥",
+            "price": "8,500원"
+        },
+        {
+            "category": "탕수육",
+            "img_src": "",
+            "menu_name": "찹쌀 탕수육(소)",
+            "price": "17,000원"
+        },
+        {
+            "category": "탕수육",
+            "img_src": "",
+            "menu_name": "찹쌀 탕수육(중)",
+            "price": "22,000원"
+        },
+        {
+            "category": "탕수육",
+            "img_src": "",
+            "menu_name": "사천 탕수육 (순한맛)(소)",
+            "price": "19,000원"
+        },
+        {
+            "category": "탕수육",
+            "img_src": "",
+            "menu_name": "사천 탕수육 (순한맛)(중)",
+            "price": "24,000원"
+        },
+        {
+            "category": "탕수육",
+            "img_src": "",
+            "menu_name": "지옥 사천탕수육 (매운맛)(소)",
+            "price": "19,000원"
+        },
+        {
+            "category": "탕수육",
+            "img_src": "",
+            "menu_name": "지옥 사천탕수육 (매운맛)(중)",
+            "price": "24,000원"
+        },
+        {
+            "category": "볶음밥",
+            "img_src": "",
+            "menu_name": "게살볶음밥",
+            "price": "9,500원"
+        },
+        {
+            "category": "볶음밥",
+            "img_src": "",
+            "menu_name": "새우볶음밥",
+            "price": "9,500원"
+        },
+        {
+            "category": "사이드",
+            "img_src": "",
+            "menu_name": "군만두(10pcs)",
+            "price": "7,500원"
+        },
+        {
+            "category": "사이드",
+            "img_src": "",
+            "menu_name": "맛보기 군만두(5pcs)",
+            "price": "4,000원"
+        }
+    ]
+}

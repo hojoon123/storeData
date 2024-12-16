@@ -1,0 +1,140 @@
+{
+    "store_name": "어선비",
+    "store_location": "경기 광주시 곤지암읍 도척윗로 26 1층",
+    "loc_x": "229520.143213425",
+    "loc_y": "427166.866151125",
+    "menu": [
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240109_277%2F1704794001223XSMjb_JPEG%2FIMG_3397.jpg",
+            "menu_name": "고등어 정찬",
+            "price": "15,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240617_48%2F1718615782257lJ8Qi_JPEG%2FKakaoTalk_20240615_103412224_05.jpg",
+            "menu_name": "임연수어 정찬",
+            "price": "16,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240109_64%2F1704794974306bNy3M_JPEG%2FIMG_3419.jpg",
+            "menu_name": "삼치 정찬",
+            "price": "17,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240617_136%2F1718615793985O25BI_JPEG%2FKakaoTalk_20240615_103412224_04.jpg",
+            "menu_name": "메로 정찬",
+            "price": "28,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240617_150%2F1718615749610lOmli_JPEG%2FKakaoTalk_20240615_103412224.jpg",
+            "menu_name": "진한양념 오징어볶음",
+            "price": "18,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240801_217%2F1722508680828VnfvV_JPEG%2F%25BA%25D2%25B0%25ED%25B1%25E2.jpg",
+            "menu_name": "석쇠 양념불고기",
+            "price": "18,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240108_57%2F1704684111900FLmsR_JPEG%2F%25BF%25AC%25BE%25EE%25C0%25E5.jpg",
+            "menu_name": "연어장",
+            "price": "23,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240108_268%2F1704684129621n2VRJ_JPEG%2F%25BB%25F5%25BF%25EC%25C0%25E5.jpg",
+            "menu_name": "새우장",
+            "price": "18,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240617_274%2F17186158329960nHaB_JPEG%2FKakaoTalk_20240615_103412224_02.jpg",
+            "menu_name": "연어새우장",
+            "price": "21,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240617_93%2F1718615730535Rwixt_JPEG%2FKakaoTalk_20240615_103412224_01.jpg",
+            "menu_name": "전복장",
+            "price": "20,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240108_61%2F17046841985455lptd_JPEG%2F%25B0%25ED%25B5%25EE%25BE%25EE%25B1%25B8%25C0%25CC.jpg",
+            "menu_name": "어린이 고등어(1/2)",
+            "price": "8,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240617_8%2F1718615964198UFgvS_JPEG%2FKakaoTalk_20240615_103412224_05.jpg",
+            "menu_name": "어린이임연수어(1/2)",
+            "price": "8,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240108_176%2F1704684191102fmkNc_JPEG%2F%25BB%25EF%25C4%25A1%25B1%25B8%25C0%25CC.jpg",
+            "menu_name": "어린이 삼치(1/2)",
+            "price": "8,500원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240120_53%2F1705740619266yYeem_JPEG%2FKakaoTalk_20240120_174523093.jpg",
+            "menu_name": "레몬진저하이볼",
+            "price": "8,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240120_97%2F1705740709177i8oo6_JPEG%2FKakaoTalk_20240120_174533697.jpg",
+            "menu_name": "얼그레이하이볼",
+            "price": "8,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240120_178%2F1705740740357r8bnT_JPEG%2FKakaoTalk_20240120_174542709.jpg",
+            "menu_name": "모히또하이볼",
+            "price": "8,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240108_39%2F1704684851472e1P70_JPEG%2F%25C2%25FC%25C0%25CC%25BD%25BD_%25C8%25C4%25B7%25B9%25BD%25AC.JPG",
+            "menu_name": "참이슬후레쉬",
+            "price": "5,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240108_223%2F1704684858179O4loX_JPEG%2F%25BB%25F5%25B7%25CE.JPG",
+            "menu_name": "새로",
+            "price": "5,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240108_184%2F1704685167148Kca8k_JPEG%2F%25C4%25AB%25BD%25BA.jpg",
+            "menu_name": "카스",
+            "price": "5,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240108_274%2F1704685173975gx41D_JPEG%2F%25C5%25D7%25B6%25F3.jpg",
+            "menu_name": "테라",
+            "price": "5,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240108_76%2F1704684876748MOgjU_JPEG%2F%25C4%25DA%25C4%25AB%25C4%25DD%25B6%25F3.JPG",
+            "menu_name": "콜라",
+            "price": "2,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240108_162%2F1704684883985ek1UO_JPEG%2F%25BD%25BA%25C7%25C1%25B6%25F3%25C0%25CC%25C6%25AE.JPG",
+            "menu_name": "사이다",
+            "price": "2,000원"
+        }
+    ]
+}

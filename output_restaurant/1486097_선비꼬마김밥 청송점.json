@@ -1,0 +1,98 @@
+{
+    "store_name": "선비꼬마김밥 청송점",
+    "store_location": "경북 청송군 진보면 진보로 184",
+    "loc_x": "383700.447044196",
+    "loc_y": "338373.313393848",
+    "menu": [
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241120_283%2F1732078286545fHJRj_PNG%2F%25B2%25BF%25B8%25B6%25B1%25E8%25B9%25E4_ver.2_5%25C1%25D9.png",
+            "menu_name": "꼬마김밥 5줄",
+            "price": "3,500원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241120_79%2F1732078252894bK8W0_PNG%2F%25B2%25BF%25B8%25B6%25B1%25E8%25B9%25E4_ver.2_10%25C1%25D9.png",
+            "menu_name": "꼬마김밥 10줄",
+            "price": "7,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241120_124%2F1732078222654VClfS_PNG%2F%25BA%25D2%25BE%25EE%25B9%25AC_%25B2%25BF%25B8%25B6%25B1%25E8%25B9%25E4.png",
+            "menu_name": "불어묵 꼬마김밥 4줄",
+            "price": "4,400원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241120_218%2F1732078187496pvDnb_JPEG%2F%25C0%25AF%25BA%25CE_%25B2%25BF%25B8%25B6%25B1%25E8%25B9%25E4.jpg",
+            "menu_name": "유부 꼬마김밥 4줄",
+            "price": "4,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241120_148%2F1732078154861Sha65_JPEG%2F%25B8%25C5%25C4%25DE%25C1%25F8%25B9%25CC_%25B2%25BF%25B8%25B6%25B1%25E8%25B9%25E4.jpg",
+            "menu_name": "매콤진미 꼬마김밥 4줄",
+            "price": "4,800원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241120_17%2F1732078113057ejlqj_PNG%2F%25BF%25CD%25BB%25E7%25BA%25F1%25C5%25A9%25B7%25A1%25B8%25B6%25BF%25E4_%25B2%25BF%25B8%25B6%25B1%25E8%25B9%25E4_ver.2.png",
+            "menu_name": "와사비크래마요 꼬마김밥 4줄",
+            "price": "5,200원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241120_121%2F1732078082224chtI0_JPEG%2F%25B8%25C5%25BF%25EE%25C2%25CC%25B8%25E9.jpg",
+            "menu_name": "쫄면",
+            "price": "6,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241120_47%2F1732078055570U4kHq_JPEG%2F%25B1%25B9%25B9%25B0%25B6%25B1%25BA%25BA%25C0%25CC.jpg",
+            "menu_name": "국물떡볶이",
+            "price": "6,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241120_83%2F1732078030166Imq48_JPEG%2F%25BE%25EE%25B9%25AC%25C5%25C1.jpg",
+            "menu_name": "어묵탕",
+            "price": "5,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241120_184%2F17320780055047kcqq_JPEG%2F%25BF%25EC%25B5%25BF.jpg",
+            "menu_name": "선비우동",
+            "price": "5,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241120_59%2F1732077982682O8SNm_JPEG%2F%25B6%25F3%25B8%25E9.jpg",
+            "menu_name": "라면",
+            "price": "4,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241120_241%2F17320778851983e3Ar_PNG%2F%25B8%25B6%25C5%25A9%25B4%25CF%25C4%25BF%25B8%25AE%25BC%25D2%25BD%25BA.png",
+            "menu_name": "마크니커리 소스",
+            "price": "500원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241120_160%2F1732077840488wWqNJ_PNG%2F%25C4%25A1%25C1%25EE%25BC%25D2%25BD%25BA.png",
+            "menu_name": "치즈 소스",
+            "price": "500원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241120_116%2F1732077808257nN1nz_PNG%2F%25C3%25BB%25BE%25E7%25B0%25ED%25C3%25DF_%25BC%25D2%25BD%25BA.png",
+            "menu_name": "청양고추 소스",
+            "price": "500원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20241120_89%2F1732077785409eRyNI_PNG%2F%25BD%25BA%25B8%25AE%25B6%25F3%25C2%25F7_%25B8%25B6%25BF%25E4_%25BC%25D2%25BD%25BA.png",
+            "menu_name": "스리라차마요 소스",
+            "price": "500원"
+        }
+    ]
+}

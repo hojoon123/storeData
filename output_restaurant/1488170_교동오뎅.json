@@ -1,0 +1,86 @@
+{
+    "store_name": "교동오뎅",
+    "store_location": "대구 중구 교동4길 31 1층",
+    "loc_x": "344367.09072908",
+    "loc_y": "264776.825775975",
+    "menu": [
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20231210_65%2F17021999989776tckC_JPEG%2F1000008889.jpg",
+            "menu_name": "오뎅세트",
+            "price": "15,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20231210_294%2F1702200221521rjuBN_JPEG%2F1000008899.jpg",
+            "menu_name": "꼬치세트",
+            "price": "15,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240618_267%2F1718713262396dbv5o_JPEG%2F1000012332.jpg",
+            "menu_name": "실속 대왕닭다리",
+            "price": "8,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20231210_15%2F17022005179902SxKE_JPEG%2F1000008897.jpg",
+            "menu_name": "명란구이",
+            "price": "10,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20231210_55%2F17022007453343hqFy_JPEG%2F1000008896.jpg",
+            "menu_name": "오이무침",
+            "price": "5,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240619_92%2F1718804883057bdKdV_JPEG%2F%25B0%25F1%25B9%25F0%25C0%25CC%25B9%25AB%25C4%25A7.jpg",
+            "menu_name": "골뱅이무침",
+            "price": "12,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20231211_121%2F1702265248450ysLwK_JPEG%2F1000008931.jpg",
+            "menu_name": "청어알 두부 다마끼",
+            "price": "12,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20231211_173%2F1702285511218an5ou_JPEG%2F1000008937.jpg",
+            "menu_name": "토우코우준마이",
+            "price": "28,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20231211_146%2F1702285446831Ga6wg_JPEG%2F1000008936.jpg",
+            "menu_name": "잇본기나마죠조",
+            "price": "25,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20231211_140%2F17022852903829f6mQ_JPEG%2F1000008934.jpg",
+            "menu_name": "기린잔덴카라(200ml)",
+            "price": "15,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20231211_146%2F1702285388267REeK5_JPEG%2F1000008935.jpg",
+            "menu_name": "키슈호가레준마이(150ml)",
+            "price": "12,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20231211_252%2F1702285969960wEhWg_JPEG%2F1000008939.jpg",
+            "menu_name": "아사히 생맥주(420ml)",
+            "price": "7,500원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20231211_84%2F1702286303231GnsCo_JPEG%2F1000008940.jpg",
+            "menu_name": "하이볼",
+            "price": "7,000원"
+        }
+    ]
+}

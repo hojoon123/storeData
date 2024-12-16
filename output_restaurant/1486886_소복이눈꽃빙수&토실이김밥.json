@@ -1,0 +1,14 @@
+{
+    "store_name": "소복이눈꽃빙수&토실이김밥",
+    "store_location": "제주 제주시 수덕5길 41 1층",
+    "loc_x": "151092.417386389",
+    "loc_y": "-1159.80404601833",
+    "menu": [
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240223_229%2F1708658302899fBTwL_JPEG%2FIMG_9662.jpeg",
+            "menu_name": "빙수",
+            "price": "9,000원"
+        }
+    ]
+}

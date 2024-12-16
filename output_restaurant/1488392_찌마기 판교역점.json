@@ -1,0 +1,92 @@
+{
+    "store_name": "찌마기 판교역점",
+    "store_location": "경기 성남시 분당구 대왕판교로606번길 10 라스트리트 상가 1층 139호",
+    "loc_x": "209511.303885931",
+    "loc_y": "432604.40297927",
+    "menu": [
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240116_96%2F1705368114424M8ydd_JPEG%2F%25C1%25B6%25B0%25B3%25C2%25F2_%25B4%25EB.jpg",
+            "menu_name": "조개찜 (대)",
+            "price": "89,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240116_54%2F1705368090368BEDwf_JPEG%2F%25C1%25B6%25B0%25B3%25C2%25F2_%25C1%25DF.jpg",
+            "menu_name": "조개찜 (중)",
+            "price": "69,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240116_124%2F1705368069319zEhCQ_JPEG%2F%25C1%25B6%25B0%25B3%25C2%25F2_%25BC%25D2.jpg",
+            "menu_name": "조개찜 (소)",
+            "price": "49,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240116_225%2F1705368239051gPMek_JPEG%2F%25B0%25A1%25B8%25AE%25BA%25F1%25C2%25F2_%25B4%25EB.jpg",
+            "menu_name": "가리비찜 (대)",
+            "price": "89,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240116_227%2F1705368228197eVTsm_JPEG%2F%25B0%25A1%25B8%25AE%25BA%25F1%25C2%25F2_%25C1%25DF.jpg",
+            "menu_name": "가리비찜 (중)",
+            "price": "69,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240116_297%2F1705368201406Qfz7O_JPEG%2F%25B0%25A1%25B8%25AE%25BA%25F1%25C2%25F2_%25BC%25D2.jpg",
+            "menu_name": "가리비찜 (소)",
+            "price": "49,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240116_201%2F1705368290244eHusm_JPEG%2F%25BC%25AE%25C8%25AD%25C2%25F2_%25BC%25D2%252C%25C1%25DF%252C%25B4%25EB.jpg",
+            "menu_name": "석화찜 (대)",
+            "price": "79,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240116_197%2F1705368278176vhpWy_JPEG%2F%25BC%25AE%25C8%25AD%25C2%25F2_%25BC%25D2%252C%25C1%25DF%252C%25B4%25EB.jpg",
+            "menu_name": "석화찜 (중)",
+            "price": "69,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240116_92%2F17053682611526pnrq_JPEG%2F%25BC%25AE%25C8%25AD%25C2%25F2_%25BC%25D2%252C%25C1%25DF%252C%25B4%25EB.jpg",
+            "menu_name": "석화찜 (소)",
+            "price": "49,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240111_166%2F1704969062832w0lgI_JPEG%2FScreenshot_20231231_142915_NAVER.jpg",
+            "menu_name": "조개/가리비 추가",
+            "price": "25,000원"
+        },
+        {
+            "category": "",
+            "img_src": "",
+            "menu_name": "석화추가",
+            "price": "20,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240206_211%2F1707205581588vlBos_JPEG%2F1000014545.jpg",
+            "menu_name": "(평일)런치스페셜 5인세트",
+            "price": "75,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240206_283%2F170720560071681m3o_JPEG%2F1000014545.jpg",
+            "menu_name": "(평일)런치스페셜 4인",
+            "price": "60,000원"
+        },
+        {
+            "category": "",
+            "img_src": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f320_320&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240206_19%2F1707205614519YHSyq_JPEG%2F1000014545.jpg",
+            "menu_name": "(평일)런치스페셜 3인",
+            "price": "45,000원"
+        }
+    ]
+}
