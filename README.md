@@ -33,10 +33,17 @@ cd selenium-menu-extractor
 
 # 로깅 및 추출 예시
 
+![image](https://github.com/user-attachments/assets/50796a92-4cd4-4845-b020-52bc81d3aa59)
+
+
 ![image](https://github.com/user-attachments/assets/0ead8d17-6292-4e59-bd81-d3073b0ceff8)
+
 ![image](https://github.com/user-attachments/assets/b70c5b61-f87f-4193-940e-7ec3db2a09c8)
+
 ![image](https://github.com/user-attachments/assets/e4651962-52cf-48ae-bc96-18cad62b620e)
+
 ![image](https://github.com/user-attachments/assets/98befe21-61ec-46e7-a04c-02527a532937)
+
 ![image](https://github.com/user-attachments/assets/c78eb29e-d2de-4a23-be38-2efe9fd5ddd9)
 
 
